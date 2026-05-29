@@ -1,0 +1,145 @@
+{
+  "query": "비에스티성형외과의원",
+  "generated_at": "2026-05-28T23:16:38.813Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 9,
+      "extra": {
+        "name": "비에스티성형외과",
+        "rating": 4.9,
+        "total_reviews": 9,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 12,
+      "extra": {
+        "total_views": 3054994,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 12,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 12,
+        "top_videos": [
+          {
+            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygU267mE7JeQ7Iqk7Yuw7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1M views"
+          },
+          {
+            "title": "눈성형,코성형 수술기구 전격 공개! (성형외과 수술실에서 무슨일이 일어날까 3편)",
+            "channel": "닥터혜자",
+            "url": "https://www.youtube.com/watch?v=FIIqCKR4nKk&pp=ygU267mE7JeQ7Iqk7Yuw7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "9.2K views"
+          },
+          {
+            "title": "[Playlist]청담 압구정 성형외과, 피부과에서 주구장창 틀어주는 음악 플레이리스트",
+            "channel": "TalkingValve 토킹밸브",
+            "url": "https://www.youtube.com/watch?v=oqwNUNa2wbE&list=RDoqwNUNa2wbE&start_radio=1&pp=ygU267mE7JeQ7Iqk7Yuw7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVhoAcB",
+            "view_text": "185K views"
+          },
+          {
+            "title": "복부거상술 위험한데 왜하는거야?😣 / 안전한 수술을 위한 3요소!",
+            "channel": "체형거상의 기준, BST성형외과",
+            "url": "https://www.youtube.com/watch?v=tzETu5utwd8&pp=ygU267mE7JeQ7Iqk7Yuw7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.1K views"
+          },
+          {
+            "title": "[홍진주의 성형 Q&A] #5. 성형, 선택의 딜레마 '매몰 vs 절개' (제이제이성형외과 홍진주 원장)",
+            "channel": "의학채널 비온뒤",
+            "url": "https://www.youtube.com/watch?v=weJT94cyHbI&pp=ygU267mE7JeQ7Iqk7Yuw7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "5.8K views"
+          },
+          {
+            "title": "쌍커풀 수술 '자연유착' 이 궁금하다 ! (feat.친절상담)",
+            "channel": "드레스성형외과의원",
+            "url": "https://www.youtube.com/watch?v=I1Hqwbo1N8o&pp=ygU267mE7JeQ7Iqk7Yuw7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "13K views"
+          },
+          {
+            "title": "복부거상 이 기간만 지나면 훨씬 수월해요! (통증정도, 운동은 언제부터?👀)",
+            "channel": "체형거상의 기준, BST성형외과",
+            "url": "https://www.youtube.com/watch?v=bDYxhYaIZaM&pp=ygU267mE7JeQ7Iqk7Yuw7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "109K views"
+          },
+          {
+            "title": "SM 천상계 연예인으로 만들어준다는 성형외과!!",
+            "channel": "핫이슈HOT ISSUE",
+            "url": "https://www.youtube.com/watch?v=WTeNWTENa54&pp=ygU267mE7JeQ7Iqk7Yuw7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.7M views"
+          },
+          {
+            "title": "큰 이미지 변화 없이 답답하고 졸린 눈매 개선💛 | 자연유착&눈매교정",
+            "channel": "AMOND TV - 아몬드성형외과",
+            "url": "https://www.youtube.com/watch?v=Mh407T_Yijs&pp=ygU267mE7JeQ7Iqk7Yuw7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "13K views"
+          },
+          {
+            "title": "불법 시술 또는 녹지 않는 필러 때문에 얼굴 이물질제거 해야 한다면?",
+            "channel": "압구정 김형진베이직성형외과",
+            "url": "https://www.youtube.com/watch?v=i5Ayyhizgqs&pp=ygU267mE7JeQ7Iqk7Yuw7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "17K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

@@ -1,0 +1,145 @@
+{
+  "query": "가넷성형외과의원",
+  "generated_at": "2026-05-28T22:32:20.095Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 3,
+      "extra": {
+        "name": "Garnet Plastic Surgery",
+        "rating": 5,
+        "total_reviews": 3,
+        "sample_size": 6,
+        "foreign_language_reviews": 6,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 6
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 13,
+      "extra": {
+        "total_views": 2587500,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 13,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 13,
+        "top_videos": [
+          {
+            "title": "\"강남 유명 성형외과서 수술 뒤 눈이 실명됐습니다\" [지금이뉴스] / YTN",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=UyMrX929Q4I&pp=ygUw6rCA64S37ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "576K views"
+          },
+          {
+            "title": "[홍진주의 성형 Q&A] #5. 성형, 선택의 딜레마 '매몰 vs 절개' (제이제이성형외과 홍진주 원장)",
+            "channel": "의학채널 비온뒤",
+            "url": "https://www.youtube.com/watch?v=weJT94cyHbI&pp=ygUw6rCA64S37ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "5.8K views"
+          },
+          {
+            "title": "안면거상 수술 후 흉터 관리 알려드려요~(고유성형외과 조건 원장)",
+            "channel": "성형의조건",
+            "url": "https://www.youtube.com/watch?v=5wibqm5v90w&pp=ygUw6rCA64S37ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "7.9K views"
+          },
+          {
+            "title": "ㅂㄹㅂㅌ인터뷰] 논현동 신의 손, 信손 노상훈 원장님",
+            "channel": "coding_stuff",
+            "url": "https://www.youtube.com/watch?v=DrajZjakTsc&pp=ygUw6rCA64S37ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "9.6K views"
+          },
+          {
+            "title": "눈성형,코성형 수술기구 전격 공개! (성형외과 수술실에서 무슨일이 일어날까 3편)",
+            "channel": "닥터혜자",
+            "url": "https://www.youtube.com/watch?v=FIIqCKR4nKk&pp=ygUw6rCA64S37ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "9.2K views"
+          },
+          {
+            "title": "안면거상수술하면 목주름도 없어진다? - 【feat. 성형외과전문의】",
+            "channel": "시너지성형외과",
+            "url": "https://www.youtube.com/watch?v=AcdmoYXAc4Q&pp=ygUw6rCA64S37ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "41K views"
+          },
+          {
+            "title": "[SODA] 소다성형외과 | 안면윤곽 수술시 예뻐지는/제한적인 유형",
+            "channel": "소다성형외과",
+            "url": "https://www.youtube.com/watch?v=TQ-dM_keBr0&pp=ygUw6rCA64S37ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "53K views"
+          },
+          {
+            "title": "쌍커풀 수술 '자연유착' 이 궁금하다 ! (feat.친절상담)",
+            "channel": "드레스성형외과의원",
+            "url": "https://www.youtube.com/watch?v=I1Hqwbo1N8o&pp=ygUw6rCA64S37ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "13K views"
+          },
+          {
+            "title": "눈밑지방 재배치, 재수술하기 싫으면 꼭 이렇게 하세요! (눈 수술 5000번 해본 성형외과 전문의)",
+            "channel": "성형천재 윤태경",
+            "url": "https://www.youtube.com/watch?v=n3-y4eo6k04&pp=ygUw6rCA64S37ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "58K views"
+          },
+          {
+            "title": "SM 천상계 연예인으로 만들어준다는 성형외과!!",
+            "channel": "핫이슈HOT ISSUE",
+            "url": "https://www.youtube.com/watch?v=WTeNWTENa54&pp=ygUw6rCA64S37ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.7M views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 3,
+  "opportunity_cost_thb": 97000,
+  "opportunity_cost_krw": 3880000
+}

@@ -1,0 +1,97 @@
+{
+  "query": "모다올의원병원,의원",
+  "generated_at": "2026-05-28T23:58:42.551Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 1,
+      "extra": {
+        "name": "modaol clinic",
+        "rating": 5,
+        "total_reviews": 1,
+        "sample_size": 2,
+        "foreign_language_reviews": 2,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 2
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 2,
+      "extra": {
+        "total_views": 9000,
+        "foreign_video_count": 2,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 2
+        },
+        "sample_size": 2,
+        "top_videos": [
+          {
+            "title": "The Unpleasantness at the Bellona Club by Dorothy L. Sayers 🕵️‍♂️🕰️ Mystery, Suspense & Intrigue!",
+            "channel": "Storytime Haven",
+            "url": "https://www.youtube.com/watch?v=wsQyBP1fQu8&pp=ygUo66qo64uk7Jis7J2Y7JuQ7Yah7Yah67OR7JuQLOydmOybkCBLb3JlYdIHCQkNCwGHKiGM7w%3D%3D",
+            "view_text": "6K views"
+          },
+          {
+            "title": "🔍 The Albert Gate Mystery: A Captivating Detective Tale 🕵️‍♂️ By  Louis Tracy",
+            "channel": "Storytime Haven",
+            "url": "https://www.youtube.com/watch?v=cYmbQVHkfQ0&pp=ygUo66qo64uk7Jis7J2Y7JuQ7Yah7Yah67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "3K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 3,
+  "opportunity_cost_thb": 98000,
+  "opportunity_cost_krw": 3920000
+}

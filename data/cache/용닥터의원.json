@@ -1,0 +1,138 @@
+{
+  "query": "용닥터의원",
+  "generated_at": "2026-05-28T23:53:36.611Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 614,
+      "extra": {
+        "place_id": "1678523453",
+        "name": "용닥터의원 : 네이버\u001c",
+        "visitor_review_count": 573,
+        "blog_review_count": 41,
+        "detail_url": "https://m.place.naver.com/place/1678523453/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "Google Maps 결과 없음",
+        "foreign_language_reviews": 0
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 1277852,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "용닥터 취향 대공개🤫 | 성형외과전문의이 직접 고른 이상형월드컵-여자 연예인 눈편",
+            "channel": "용닥터의 동안토크",
+            "url": "https://www.youtube.com/watch?v=8yXLklCQJGw&pp=ygUh7Jqp64ul7YSw7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "88 views"
+          },
+          {
+            "title": "\"모발이식 수술\" 모든 과정 자세하게 다 공개합니다. (m자 탈모 후기 브이로그)",
+            "channel": "용닥터",
+            "url": "https://www.youtube.com/watch?v=lb0SMCjoE44&pp=ygUh7Jqp64ul7YSw7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "23K views"
+          },
+          {
+            "title": "M자 탈모 모발이식 성공한 연예인들, 샤이니 민호부터 정우성까지 전후 사진 분석 (feat. 모발이식 비용, 견적)",
+            "channel": "용닥터",
+            "url": "https://www.youtube.com/watch?v=cEjd_nTHZa8&pp=ygUh7Jqp64ul7YSw7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "14K views"
+          },
+          {
+            "title": "\"탈모 고민 끝?!\" 다른사람 머리카락으로 모발이식 성공 사례 & 타인 모발이식 성공을 위한 현실적인 조건들 (feat. 모낭 복제 탈모치료)",
+            "channel": "용닥터",
+            "url": "https://www.youtube.com/watch?v=WH-j7Tfg6YE&pp=ygUh7Jqp64ul7YSw7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "4K views"
+          },
+          {
+            "title": "요즘 동안의 기준, 바로 중안면부 입니다‼️| 성형외과전문의가 알려주는 중안면부 커버 추천 시술",
+            "channel": "용닥터의 동안토크",
+            "url": "https://www.youtube.com/watch?v=xzhQMU7nmmk&pp=ygUh7Jqp64ul7YSw7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "73 views"
+          },
+          {
+            "title": "성형외과 의사가 말하는 받으면 호구되는 피부과 시술 3가지",
+            "channel": "닥터용사부 Dr.yongsabu",
+            "url": "https://www.youtube.com/watch?v=0sdRb8hGRSM&pp=ygUh7Jqp64ul7YSw7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "209 views"
+          },
+          {
+            "title": "모발이식 후 11개월... 이건 꼭 알아야 합니다 (100% 솔직 후기)",
+            "channel": "용닥터",
+            "url": "https://www.youtube.com/watch?v=meGxqXFvikw&pp=ygUh7Jqp64ul7YSw7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "860K views"
+          },
+          {
+            "title": "모발이식 탈모치료 진짜 잘하는 병원을 소개합니다 (feat. 용닥터 추천 1위)",
+            "channel": "용닥터",
+            "url": "https://www.youtube.com/watch?v=UQvrKOuqDM8&pp=ygUh7Jqp64ul7YSw7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "24K views"
+          },
+          {
+            "title": "\"다들 잘못알고 있습니다..\" 모발이식 성공과 실패를 결정하는 가장 중요한 요소 5가지 (탈모인 필수시청)",
+            "channel": "용닥터",
+            "url": "https://www.youtube.com/watch?v=-R5Gl1YuDZk&pp=ygUh7Jqp64ul7YSw7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "34K views"
+          },
+          {
+            "title": "탈모 때문에 모발이식 고민이라면 꼭 알아야 하는 9가지 (ft. 절개, 비절개, 생착률, 비용, 부작용)",
+            "channel": "용닥터",
+            "url": "https://www.youtube.com/watch?v=oc9Key0eAok&pp=ygUh7Jqp64ul7YSw7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "16K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

@@ -1,0 +1,102 @@
+{
+  "query": "압구정 맘모스헤어라인의원",
+  "generated_at": "2026-05-29T00:00:21.170Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 318,
+      "extra": {
+        "place_id": "1468136697",
+        "name": "압구정 맘모스헤어라인의원 : 네이버\u001c",
+        "visitor_review_count": 83,
+        "blog_review_count": 235,
+        "detail_url": "https://m.place.naver.com/place/1468136697/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "Google Maps 결과 없음",
+        "foreign_language_reviews": 0
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 4,
+      "extra": {
+        "total_views": 1832760,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 4,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 4,
+        "top_videos": [
+          {
+            "title": "효과 최고! 수술 없이 탈모 극복! 엑소좀 상위호환 신기술 정말 놀라운 변화가 나타납니다",
+            "channel": "맘모스 헤어라인의원 • 탈모 인사이드",
+            "url": "https://www.youtube.com/watch?v=fQspBUkYqVU&pp=ygU07JWV6rWs7KCVIOunmOuqqOyKpO2XpOyWtOudvOyduOydmOybkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "660 views"
+          },
+          {
+            "title": "모발이식 생착률 올리기 위해 사용하는 3가지 방법",
+            "channel": "맘모스 헤어라인의원 • 탈모 인사이드",
+            "url": "https://www.youtube.com/watch?v=y2BTm0xYsGg&pp=ygU07JWV6rWs7KCVIOunmOuqqOyKpO2XpOyWtOudvOyduOydmOybkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "1.1K views"
+          },
+          {
+            "title": "모발 이식 4년 후.. 후기, 부작용, 가격 싹 다 알려드립니다.",
+            "channel": "비트 BTE",
+            "url": "https://www.youtube.com/watch?v=6ONxOVGuC3o&pp=ygU07JWV6rWs7KCVIOunmOuqqOyKpO2XpOyWtOudvOyduOydmOybkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "231K views"
+          },
+          {
+            "title": "[Hair Transplant] Will the 6,000 hairs transplanted survive? Two-Incision Hair Transplant: Result...",
+            "channel": "탈모 극복 No.1 - 털업",
+            "url": "https://www.youtube.com/watch?v=fwuOAStBEew&pp=ygU07JWV6rWs7KCVIOunmOuqqOyKpO2XpOyWtOudvOyduOydmOybkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "1.6M views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 145000,
+  "opportunity_cost_krw": 5800000
+}

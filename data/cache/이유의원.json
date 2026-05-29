@@ -1,0 +1,147 @@
+{
+  "query": "이유의원",
+  "generated_at": "2026-05-28T22:37:44.084Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 1392,
+      "extra": {
+        "place_id": "1303487840",
+        "name": "이유의원 : 네이버\u001c",
+        "visitor_review_count": 896,
+        "blog_review_count": 496,
+        "detail_url": "https://m.place.naver.com/place/1303487840/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Results",
+        "rating": 4.4,
+        "total_reviews": 0,
+        "sample_size": 6,
+        "foreign_language_reviews": 6,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 6
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 1362556,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "피부과 레이저에 50억을 쓴 피부과 전문의 이유가 뭘까?",
+            "channel": "닥터 전수영의 피부전수",
+            "url": "https://www.youtube.com/watch?v=vc2eZYllefo&pp=ygUb7J207Jyg7J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "690 views"
+          },
+          {
+            "title": "태국인들이 한국 피부과에 열광하는 이유! 인기 시술의 충격적인 비밀 공개 [Popular Thai Skin Treatment]",
+            "channel": "바노바기피부과 Banobagi Dermatologic Clinic",
+            "url": "https://www.youtube.com/watch?v=TY6YC4IJoTM&pp=ygUb7J207Jyg7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "958 views"
+          },
+          {
+            "title": "“미용 시술만 가능하세요🙏” / 스브스뉴스",
+            "channel": "스브스뉴스 SUBUSUNEWS",
+            "url": "https://www.youtube.com/watch?v=6TP46DE9R08&t=131s&pp=ygUb7J207Jyg7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "699K views"
+          },
+          {
+            "title": "Dermatology clinics that don't treat skin diseases... What is the reason? / Channel A / News A",
+            "channel": "채널A News",
+            "url": "https://www.youtube.com/watch?v=XCDC5lw3qVY&pp=ygUb7J207Jyg7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "201K views"
+          },
+          {
+            "title": "대한민국 강남 피부과 원장들이 줄줄이 무너지는 진짜 이유",
+            "channel": "바른경제",
+            "url": "https://www.youtube.com/watch?v=YwtjZmKGy7M&pp=ygUb7J207Jyg7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "45K views"
+          },
+          {
+            "title": "써마지, 왜 병원마다 결과가 다를까? — 4가지 이유",
+            "channel": "청아연TV (Green_ayeon Clinic) | Seoul Skin",
+            "url": "https://www.youtube.com/watch?v=HKzHV7lb6Zg&pp=ygUb7J207Jyg7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "15 views"
+          },
+          {
+            "title": "피부언니!! 피부과 전문의가 된 진짜 이유?!",
+            "channel": "피부언니, 피부과 전문의 임지수원장",
+            "url": "https://www.youtube.com/watch?v=xFWTWRSdycw&pp=ygUb7J207Jyg7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "75 views"
+          },
+          {
+            "title": "봄철 피부 망가지는 이유와 해결법 (피부과전문의가 정리)",
+            "channel": "피부는? 더한스지오",
+            "url": "https://www.youtube.com/watch?v=TXM919V1uik&pp=ygUb7J207Jyg7J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "37 views"
+          },
+          {
+            "title": "젤리뽀님들 가면 절대 안돼요~!! 피부과에도 ❌블랙리스트❌ 있다?! - 🥰이지함 피부과 이유득 원장님과 토크쇼 2편",
+            "channel": "뽀따TV POTTA_TV",
+            "url": "https://www.youtube.com/watch?v=qJLOZ5yYEqo&pp=ygUb7J207Jyg7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "45K views"
+          },
+          {
+            "title": "서울대 피부과전문의 원장님이 선택한 리프팅, 그 이유는?🌊 #소프웨이브 #서울나온피부과의원",
+            "channel": "소프웨이브™ 리프팅 (Sofwave™ Korea)",
+            "url": "https://www.youtube.com/watch?v=okghZG_2gQs&pp=ygUb7J207Jyg7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1.2K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 3,
+  "opportunity_cost_thb": 97000,
+  "opportunity_cost_krw": 3880000
+}

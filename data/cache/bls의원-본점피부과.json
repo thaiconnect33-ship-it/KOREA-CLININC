@@ -1,0 +1,146 @@
+{
+  "query": "BLS의원 본점",
+  "generated_at": "2026-05-29T05:32:45.561Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Results",
+        "rating": 5,
+        "total_reviews": 0,
+        "sample_size": 6,
+        "foreign_language_reviews": 6,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 6
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 386253,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "강남 피부과서 시술 뒤 집단 패혈증 증상…경찰 조사 / 연합뉴스TV (YonhapnewsTV)",
+            "channel": "연합뉴스TV",
+            "url": "https://www.youtube.com/watch?v=CFPWM7zXNH4&pp=ygUlQkxT7J2Y7JuQIOuzuOygkO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "196 views"
+          },
+          {
+            "title": "뱃살빼기 바디리프팅 울핏 시술 영상 BLS클리닉 공덕동 피부과, 비만클리닉",
+            "channel": "BLS클리닉",
+            "url": "https://www.youtube.com/watch?v=fKzZ5Ji-U3Q&pp=ygUlQkxT7J2Y7JuQIOuzuOygkO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "1.8K views"
+          },
+          {
+            "title": "강남 피부과 환자 20명 패혈증…프로포폴이 원인?",
+            "channel": "채널A News",
+            "url": "https://www.youtube.com/watch?v=6kjj9kVl4-A&pp=ygUlQkxT7J2Y7JuQIOuzuOygkO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "378 views"
+          },
+          {
+            "title": "산본오라클피부과 눈밑지방제거 수술이나 시술로 지방제거 하지 않고 외부에서 녹일 수 있다?",
+            "channel": "유레카닥TV",
+            "url": "https://www.youtube.com/watch?v=opTUD73rXPw&pp=ygUlQkxT7J2Y7JuQIOuzuOygkO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "4.7K views"
+          },
+          {
+            "title": "BLS클리닉 피부관리 홍보영상",
+            "channel": "BLS클리닉",
+            "url": "https://www.youtube.com/watch?v=VWy6AnfVRkE&pp=ygUlQkxT7J2Y7JuQIOuzuOygkO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "501 views"
+          },
+          {
+            "title": "압구정/강남역 피부과 BLS클리닉",
+            "channel": "kiss10kim",
+            "url": "https://www.youtube.com/watch?v=zRTBm77TFn4&pp=ygUlQkxT7J2Y7JuQIOuzuOygkO2Goe2Goe2UvOu2gOqzvCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "205 views"
+          },
+          {
+            "title": "광고100_ BLS클리닉 (피부관리편) 15s",
+            "channel": "광고백",
+            "url": "https://www.youtube.com/watch?v=oQzijRfExu8&pp=ygUlQkxT7J2Y7JuQIOuzuOygkO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "368 views"
+          },
+          {
+            "title": "피부과 기미 레이저 토닝 치료실제 시술 과정 ASMR",
+            "channel": "나의피부 나의미래",
+            "url": "https://www.youtube.com/watch?v=CQfr4TePNgA&pp=ygUlQkxT7J2Y7JuQIOuzuOygkO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "752 views"
+          },
+          {
+            "title": "topsecret 피부과 전문의&탈모 클리닉 전문가가 말하는 탈모 치료법! 151104 EP.2",
+            "channel": "O tvN",
+            "url": "https://www.youtube.com/watch?v=ZcuZjW9I-1s&pp=ygUlQkxT7J2Y7JuQIOuzuOygkO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "157 views"
+          },
+          {
+            "title": "“20년동안 제 아내가 가장 만족했던 동안 주사 공개합니다” 강남 피부과 의사가 아내에게 해주는 또래보다 10년 젊어지는 동안주사 3가지",
+            "channel": "피부는 성현철",
+            "url": "https://www.youtube.com/watch?v=z5f78sydJ8U&pp=ygUlQkxT7J2Y7JuQIOuzuOygkO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "332K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 3,
+  "opportunity_cost_thb": 97000,
+  "opportunity_cost_krw": 3880000
+}

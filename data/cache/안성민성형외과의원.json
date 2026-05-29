@@ -1,0 +1,147 @@
+{
+  "query": "안성민성형외과의원",
+  "generated_at": "2026-05-28T23:13:45.112Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 882,
+      "extra": {
+        "place_id": "1930135075",
+        "name": "안성민성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 168,
+        "blog_review_count": 714,
+        "detail_url": "https://m.place.naver.com/place/1930135075/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 39,
+      "extra": {
+        "name": "안성민성형외과 | Ahnsungmin Plastic Surgery – Eyelid Revision Specialist",
+        "rating": 4.9,
+        "total_reviews": 39,
+        "sample_size": 16,
+        "foreign_language_reviews": 16,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 16
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 18,
+      "extra": {
+        "total_views": 2866810,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 18,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 18,
+        "top_videos": [
+          {
+            "title": "\"강남 유명 성형외과서 수술 뒤 눈이 실명됐습니다\" [지금이뉴스] / YTN",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=UyMrX929Q4I&pp=ygUt7JWI7ISx66-87ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "576K views"
+          },
+          {
+            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUt7JWI7ISx66-87ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1M views"
+          },
+          {
+            "title": "[단독] 강남 성형외과서 수술 뒤 '한쪽 눈 실명'…병원은 책임 회피 / JTBC 뉴스룸",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=DNlfZN4vPqU&pp=ygUt7JWI7ISx66-87ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "58K views"
+          },
+          {
+            "title": "하안검 수술 후 눈꺼풀 뒤집어지는 원인은?  뒤트임과 안면마비로 인한 안검외반도 치료가 될까?",
+            "channel": "안성열 성형외과피부과",
+            "url": "https://www.youtube.com/watch?v=W4Ny6JRyU2M&pp=ygUt7JWI7ISx66-87ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.6K views"
+          },
+          {
+            "title": "한방성형 안성민한의원",
+            "channel": "안성민한의원",
+            "url": "https://www.youtube.com/watch?v=0EPkEMiHXdw&pp=ygUt7JWI7ISx66-87ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "5.6K views"
+          },
+          {
+            "title": "눈밑지방재배치 수술 절대 하지 마세요! 흉터,재발 없이 해결하는 법 (시술의 신 - 손일영 원장 통합본)",
+            "channel": "환승닥터_의사이야기",
+            "url": "https://www.youtube.com/watch?v=RqYgg97gSOE&t=1418s&pp=ygUt7JWI7ISx66-87ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "83K views"
+          },
+          {
+            "title": "How to find a good plastic surgeon🧡 How to find a good plastic surgeon and avoid plastic surgery ...",
+            "channel": "베레나verena",
+            "url": "https://www.youtube.com/watch?v=SQzMbIJMBTQ&pp=ygUt7JWI7ISx66-87ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "277K views"
+          },
+          {
+            "title": "\"나중에 후회해도 소용 없습니다\" 성형수술 한 번이라도 고민했다면 꼭 보세요.",
+            "channel": "닥터차오름",
+            "url": "https://www.youtube.com/watch?v=lviA-kK8R8c&pp=ygUt7JWI7ISx66-87ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "539K views"
+          },
+          {
+            "title": "도망쳐..지금이야!! 성형외과 블랙리스트 이렇게 거르세요",
+            "channel": "지유미 JIYUMEE",
+            "url": "https://www.youtube.com/watch?v=VK1hIW0QP-g&pp=ygUt7JWI7ISx66-87ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "126K views"
+          },
+          {
+            "title": "Plastic Surgeons in Gangnam, Korea. Side effects of facial colossus hidden by doctors",
+            "channel": "유이선생",
+            "url": "https://www.youtube.com/watch?v=ca7vW3M30ck&pp=ygUt7JWI7ISx66-87ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "146K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 8,
+  "opportunity_cost_thb": 92000,
+  "opportunity_cost_krw": 3680000
+}

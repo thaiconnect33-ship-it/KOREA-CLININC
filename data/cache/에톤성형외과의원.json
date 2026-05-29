@@ -1,0 +1,147 @@
+{
+  "query": "에톤성형외과의원",
+  "generated_at": "2026-05-29T00:21:50.792Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 293,
+      "extra": {
+        "place_id": "1498919859",
+        "name": "에톤성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 22,
+        "blog_review_count": 271,
+        "detail_url": "https://m.place.naver.com/place/1498919859/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Etonne Plastic Surgery Clinic",
+        "rating": 4.8,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 23419,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "[#ETONNE] Double Eyelid Incision VS Non-Incision",
+            "channel": "에톤TV",
+            "url": "https://www.youtube.com/watch?v=deoakgmRRtE&pp=ygUq7JeQ7Yak7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "522 views"
+          },
+          {
+            "title": "[#에톤성형외과] 주름이 있어야 더 우아해지는 눈수술이 있다?!",
+            "channel": "에톤TV",
+            "url": "https://www.youtube.com/watch?v=wo5jHhywJ-w&pp=ygUq7JeQ7Yak7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "375 views"
+          },
+          {
+            "title": "[#ETONNE] Introducing ETONNE CEO Kim Hak-young!",
+            "channel": "에톤TV",
+            "url": "https://www.youtube.com/watch?v=Q7pq2H5X4yQ&pp=ygUq7JeQ7Yak7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "1K views"
+          },
+          {
+            "title": "[#에톤성형외과] 같은 성형외과의 원장들도 생각이 이렇게 다릅니다",
+            "channel": "에톤TV",
+            "url": "https://www.youtube.com/watch?v=-TIT780Q0Jw&pp=ygUq7JeQ7Yak7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.5K views"
+          },
+          {
+            "title": "[#ETONNE] Before surgery, be sure to think about ‘this’ before deciding!",
+            "channel": "에톤TV",
+            "url": "https://www.youtube.com/watch?v=s-ezl5CvCgg&pp=ygUq7JeQ7Yak7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "665 views"
+          },
+          {
+            "title": "[#에톤성형외과]마취! 이건 마치, 통증을 없애는 마법",
+            "channel": "에톤TV",
+            "url": "https://www.youtube.com/watch?v=N1eFg0wiKkc&pp=ygUq7JeQ7Yak7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "368 views"
+          },
+          {
+            "title": "If it were me, I wouldn't get plastic surgery when I was in that situation.",
+            "channel": "에톤TV",
+            "url": "https://www.youtube.com/watch?v=o3zwvqKASKI&pp=ygUq7JeQ7Yak7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "249 views"
+          },
+          {
+            "title": "신논현 🔥핫플 에톤성형외과 랜선투어",
+            "channel": "사슴TV",
+            "url": "https://www.youtube.com/watch?v=vymEH7004Us&pp=ygUq7JeQ7Yak7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "3K views"
+          },
+          {
+            "title": "My past story, honestly recorded to become a better doctor",
+            "channel": "에톤TV",
+            "url": "https://www.youtube.com/watch?v=A98KheTEq4I&pp=ygUq7JeQ7Yak7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "407 views"
+          },
+          {
+            "title": "안면거상 수술 몇살에 하는게 갓성비일까",
+            "channel": "에톤TV",
+            "url": "https://www.youtube.com/watch?v=c04uQYvtPWM&pp=ygUq7JeQ7Yak7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "197 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

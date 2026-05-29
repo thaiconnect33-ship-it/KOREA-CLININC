@@ -1,0 +1,147 @@
+{
+  "query": "웰스피부과의원 압구정피부과",
+  "generated_at": "2026-05-28T22:37:18.772Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 2400,
+      "extra": {
+        "place_id": "12990378",
+        "name": "웰스피부과의원 압구정 : 네이버\u001c",
+        "visitor_review_count": 390,
+        "blog_review_count": 2010,
+        "detail_url": "https://m.place.naver.com/place/12990378/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "WELLS Dermatology CLINIC / WELLS美容皮膚科",
+        "rating": 4.3,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 11226,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "웰스피부과의 써마지CPT 소개",
+            "channel": "WELLS Global Alliance",
+            "url": "https://www.youtube.com/watch?v=MyoSIjbfuog&pp=ygUu7Juw7Iqk7ZS867aA6rO87J2Y7JuQIOyVleq1rOygle2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "652 views"
+          },
+          {
+            "title": "[취뽀탐구생활]🌟웰스 피부과 압구정본점 브이로그🌟 바쁜 일상 속 한줄기 빛🌠 일상 속 힐링이 가능한 곳💖",
+            "channel": "명지전문대 뷰티 스킨 케어 전공",
+            "url": "https://www.youtube.com/watch?v=CPhG_E-AGiw&pp=ygUu7Juw7Iqk7ZS867aA6rO87J2Y7JuQIOyVleq1rOygle2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "449 views"
+          },
+          {
+            "title": "[unboxing] 써마지FLX 3대째 도입, 웰스피부과 이원신 원장",
+            "channel": "MedicalAesthetic",
+            "url": "https://www.youtube.com/watch?v=CbjQdk54wdQ&pp=ygUu7Juw7Iqk7ZS867aA6rO87J2Y7JuQIOyVleq1rOygle2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "56 views"
+          },
+          {
+            "title": "나의 피부 마이크로바이옴 상태가 궁금해? - 웰스피부과 최원우원장",
+            "channel": "세계의 피부왕",
+            "url": "https://www.youtube.com/watch?v=kSJxXRQeNao&pp=ygUu7Juw7Iqk7ZS867aA6rO87J2Y7JuQIOyVleq1rOygle2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "544 views"
+          },
+          {
+            "title": "콜라겐부스터써마지!! 써마지 시술전 이영상은 꼭보세요!!",
+            "channel": "피부N 웰스",
+            "url": "https://www.youtube.com/watch?v=GMUeP_RiDeM&pp=ygUu7Juw7Iqk7ZS867aA6rO87J2Y7JuQIOyVleq1rOygle2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "177 views"
+          },
+          {
+            "title": "써마지 300샷, 600샷, 900샷!! #써마지 369!!",
+            "channel": "피부N 웰스",
+            "url": "https://www.youtube.com/watch?v=r1QgC8elQcA&pp=ygUu7Juw7Iqk7ZS867aA6rO87J2Y7JuQIOyVleq1rOygle2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "68 views"
+          },
+          {
+            "title": "써마지FLX! 10년의 노하우가 효과를 좌우한다.",
+            "channel": "WELLS Global Alliance",
+            "url": "https://www.youtube.com/watch?v=J3MfujhRqu4&pp=ygUu7Juw7Iqk7ZS867aA6rO87J2Y7JuQIOyVleq1rOygle2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "1.3K views"
+          },
+          {
+            "title": "Wells Dermatology Clinic at Seoul, Thermage, Ultherapy and Beauty treatment",
+            "channel": "세계의 피부왕",
+            "url": "https://www.youtube.com/watch?v=uQqqdn-5y98&pp=ygUu7Juw7Iqk7ZS867aA6rO87J2Y7JuQIOyVleq1rOygle2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "253 views"
+          },
+          {
+            "title": "최원우 원장의 기미치료",
+            "channel": "세계의 피부왕",
+            "url": "https://www.youtube.com/watch?v=OVXxwxbcBy4&pp=ygUu7Juw7Iqk7ZS867aA6rO87J2Y7JuQIOyVleq1rOygle2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "616 views"
+          },
+          {
+            "title": "울쎄라!! 나는 몇 샷이 가장 적합할까? 웰스피부과 이원신원장",
+            "channel": "웰스닥",
+            "url": "https://www.youtube.com/watch?v=pRqKsrpkcc4&pp=ygUu7Juw7Iqk7ZS867aA6rO87J2Y7JuQIOyVleq1rOygle2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "72 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 145000,
+  "opportunity_cost_krw": 5800000
+}

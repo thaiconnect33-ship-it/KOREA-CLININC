@@ -1,0 +1,147 @@
+{
+  "query": "연세스타피부과의원",
+  "generated_at": "2026-05-28T23:34:46.456Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 3110,
+      "extra": {
+        "place_id": "11539014",
+        "name": "연세스타피부과의원 : 네이버\u001c",
+        "visitor_review_count": 1098,
+        "blog_review_count": 2012,
+        "detail_url": "https://m.place.naver.com/place/11539014/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Yonsei Star Dermatology Clinic Sinchon Main Branch",
+        "rating": 3.5,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 487457,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "좋은 피부과 찾는 법?? 이것만 기억하세요! (피부과 전문의)",
+            "channel": "피부고민상담소  신촌연세스타피부과",
+            "url": "https://www.youtube.com/watch?v=pxZPl_YACUA&pp=ygUq7Jew7IS47Iqk7YOA7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "49K views"
+          },
+          {
+            "title": "쥬베룩! 진짜로 효과가 있는건가요?! (feat 여드름흉터, 패인흉터)",
+            "channel": "피부고민상담소  신촌연세스타피부과",
+            "url": "https://www.youtube.com/watch?v=nKqqs3SLfKQ&pp=ygUq7Jew7IS47Iqk7YOA7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "43K views"
+          },
+          {
+            "title": "검버섯 레이저로 한 번에 제거 가능할까❓  검버섯 없애는 방법",
+            "channel": "피부고민상담소  신촌연세스타피부과",
+            "url": "https://www.youtube.com/watch?v=-IEqcqs23s8&pp=ygUq7Jew7IS47Iqk7YOA7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "46K views"
+          },
+          {
+            "title": "화상 흉터로 잠 못 이루는 분들을 위한 치료법 / 신촌연세스타피부과 이상주",
+            "channel": "의학채널 비온뒤",
+            "url": "https://www.youtube.com/watch?v=4fkf3K2jN5U&pp=ygUq7Jew7IS47Iqk7YOA7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "2.5K views"
+          },
+          {
+            "title": "코성형흉터 비주흉터 수술 없이 티 안나게 없애는 법",
+            "channel": "피부고민상담소  신촌연세스타피부과",
+            "url": "https://www.youtube.com/watch?v=5sE3jK8tR20&pp=ygUq7Jew7IS47Iqk7YOA7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "33K views"
+          },
+          {
+            "title": "문신제거 횟수 자가진단법 알려드립니다! 타투지우기 횟수 단축시키는 꿀팁까지",
+            "channel": "피부고민상담소  신촌연세스타피부과",
+            "url": "https://www.youtube.com/watch?v=nFoT-R_4J94&pp=ygUq7Jew7IS47Iqk7YOA7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "34K views"
+          },
+          {
+            "title": "[Dr.RECORD] 의사 강진문이 기록한 2026년의 진심 | 연세스타피부과",
+            "channel": "피부고민상담소  신촌연세스타피부과",
+            "url": "https://www.youtube.com/watch?v=OQt6MT1Al5U&pp=ygUq7Jew7IS47Iqk7YOA7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "803 views"
+          },
+          {
+            "title": "수술흉터 봉합흉터 없애고 싶다면 3가지만 기억하세요! | 봉합 수술 흉터 레이저 제거 치료",
+            "channel": "피부고민상담소  신촌연세스타피부과",
+            "url": "https://www.youtube.com/watch?v=Knpi23-oL9c&pp=ygUq7Jew7IS47Iqk7YOA7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "85K views"
+          },
+          {
+            "title": "여드름흉터 치료, 흉터 종류별로 치료방법이 다릅니다!",
+            "channel": "목동고운세상피부과",
+            "url": "https://www.youtube.com/watch?v=SGmhw40uoZ8&pp=ygUq7Jew7IS47Iqk7YOA7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "71 views"
+          },
+          {
+            "title": "흉터 제거 레이저 최강자! 울트라펄스앙코르 레이저",
+            "channel": "피부고민상담소  신촌연세스타피부과",
+            "url": "https://www.youtube.com/watch?v=mExeMLRRKOk&pp=ygUq7Jew7IS47Iqk7YOA7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "18K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

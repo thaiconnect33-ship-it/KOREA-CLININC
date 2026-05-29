@@ -1,0 +1,145 @@
+{
+  "query": "팝성형외과의원",
+  "generated_at": "2026-05-28T22:29:41.042Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 42,
+      "extra": {
+        "name": "팝성형외과",
+        "rating": 4.8,
+        "total_reviews": 42,
+        "sample_size": 16,
+        "foreign_language_reviews": 16,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 16
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 2714660,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "생애 첫 쌍꺼풀 수술을 고민하고 계신 분들은 이 영상을 꼭 시청해 주세요!! | 2024년 수험생분들도 필독해야 되는 영상",
+            "channel": "팝성형외과 POP TV",
+            "url": "https://www.youtube.com/watch?v=cPyUyGdKovY&pp=ygUt7Yyd7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "3.2K views"
+          },
+          {
+            "title": "\"강남 유명 성형외과서 수술 뒤 눈이 실명됐습니다\" [지금이뉴스] / YTN",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=UyMrX929Q4I&pp=ygUt7Yyd7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "576K views"
+          },
+          {
+            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUt7Yyd7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1M views"
+          },
+          {
+            "title": "소세지눈=두줄따기? 흉터까지 해결?",
+            "channel": "그날성형외과",
+            "url": "https://www.youtube.com/watch?v=73nHyw_JuIk&pp=ygUt7Yyd7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "3.2K views"
+          },
+          {
+            "title": "바바에 새로운 원장님이 왔어요! NEW 에이스와의 새로운 시작✨ | 바바성형외과 X 장승빈 원장 공식 영입식 👑",
+            "channel": "바바성형외과",
+            "url": "https://www.youtube.com/watch?v=SyfJ_wP7TlQ&t=49s&pp=ygUt7Yyd7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "2.9K views"
+          },
+          {
+            "title": "[홍진주의 성형 Q&A] #5. 성형, 선택의 딜레마 '매몰 vs 절개' (제이제이성형외과 홍진주 원장)",
+            "channel": "의학채널 비온뒤",
+            "url": "https://www.youtube.com/watch?v=weJT94cyHbI&pp=ygUt7Yyd7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "5.8K views"
+          },
+          {
+            "title": "눈성형,코성형 수술기구 전격 공개! (성형외과 수술실에서 무슨일이 일어날까 3편)",
+            "channel": "닥터혜자",
+            "url": "https://www.youtube.com/watch?v=FIIqCKR4nKk&pp=ygUt7Yyd7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "9.2K views"
+          },
+          {
+            "title": "How to find a good plastic surgeon🧡 How to find a good plastic surgeon and avoid plastic surgery ...",
+            "channel": "베레나verena",
+            "url": "https://www.youtube.com/watch?v=SQzMbIJMBTQ&pp=ygUt7Yyd7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "277K views"
+          },
+          {
+            "title": "1편 성형외과 의사가 솔직하게 말하는 절대 하면 안되는 성형수술 총정리편😲",
+            "channel": "미오름 서원장_책임성형, 바른성형",
+            "url": "https://www.youtube.com/watch?v=4NYnn6eQanI&pp=ygUt7Yyd7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "790K views"
+          },
+          {
+            "title": "쌍커풀 수술 '자연유착' 이 궁금하다 ! (feat.친절상담)",
+            "channel": "드레스성형외과의원",
+            "url": "https://www.youtube.com/watch?v=I1Hqwbo1N8o&pp=ygUt7Yyd7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "13K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 8,
+  "opportunity_cost_thb": 92000,
+  "opportunity_cost_krw": 3680000
+}

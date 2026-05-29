@@ -1,0 +1,146 @@
+{
+  "query": "쥬벤스성형외과의원",
+  "generated_at": "2026-05-29T05:37:21.629Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 4,
+      "extra": {
+        "name": "쥬벤스성형외과/피부과/에스테틱",
+        "rating": 3,
+        "total_reviews": 4,
+        "sample_size": 8,
+        "foreign_language_reviews": 8,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 8
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 14,
+      "extra": {
+        "total_views": 2168788,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 14,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 14,
+        "top_videos": [
+          {
+            "title": "Side effect of thread lifting! Know for sure and let's get it wisely!",
+            "channel": "통찰의학 돈건통",
+            "url": "https://www.youtube.com/watch?v=AnGSs6CxJQc&pp=ygUz7KWs67Kk7Iqk7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "7.1K views"
+          },
+          {
+            "title": "실리프팅 후기 인터뷰 : 밴스와인 실리프팅 효과 #청주피부과 #청주필러 #청주실리프팅",
+            "channel": "심원장의 뷰티톡톡",
+            "url": "https://www.youtube.com/watch?v=wDHwiTw6tWg&pp=ygUz7KWs67Kk7Iqk7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "57K views"
+          },
+          {
+            "title": "✨리니어지 리프팅 효과✨밴스의원 신사점 원장님이 직접 보여준다! PD가 놀란 이유는?!😮(반반시술 비교, 시술후기, 통증)",
+            "channel": "밴스의원 VandS Clinic",
+            "url": "https://www.youtube.com/watch?v=QybAyMWD1eI&pp=ygUz7KWs67Kk7Iqk7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "10K views"
+          },
+          {
+            "title": "+ 눈 성형/ 군산파티마의원 조상곤 원장",
+            "channel": "전주MBC Original",
+            "url": "https://www.youtube.com/watch?v=EXDXy9azsuQ&pp=ygUz7KWs67Kk7Iqk7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "933 views"
+          },
+          {
+            "title": "재수술이 많은 코 성형? 재수술 없이 한번에 만족하는 방법 - 진짜 성형 이야기#04 코성형",
+            "channel": "굿라이프",
+            "url": "https://www.youtube.com/watch?v=5rKC9Y9Slz0&pp=ygUz7KWs67Kk7Iqk7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "23K views"
+          },
+          {
+            "title": "콜라겐 필러, 엘란쎄 파헤치기 😮 🔍",
+            "channel": "이지동안의원",
+            "url": "https://www.youtube.com/watch?v=nX3Y1kaaNTo&pp=ygUz7KWs67Kk7Iqk7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "6.8K views"
+          },
+          {
+            "title": "지방종, 피지낭종은 어떤 병원 가야 하나요?",
+            "channel": "하이닥터장 Hi Dr. CHANG",
+            "url": "https://www.youtube.com/watch?v=AGF8txBtEl4&pp=ygUz7KWs67Kk7Iqk7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "127K views"
+          },
+          {
+            "title": "캐번실리프팅 부작용, 해결방법 (feat. 인디언주름 셀프시술)",
+            "channel": "청담의사누나 김유정 - 성형외과 & 피부과",
+            "url": "https://www.youtube.com/watch?v=dsnA0j45xO4&pp=ygUz7KWs67Kk7Iqk7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "8.8K views"
+          },
+          {
+            "title": "유연한의사들 [쌍수 편] EP5 매몰법? 누가 해야할까? 우리성형외과☻",
+            "channel": "우리성형외과 WOORI beauty TV",
+            "url": "https://www.youtube.com/watch?v=FG3pb-MzkkI&pp=ygUz7KWs67Kk7Iqk7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "19K views"
+          },
+          {
+            "title": "입술 위 세로주름, 치마주름, 스모커스라인, 인중주름, 할머니입주름! 😭 고민 해결해 드립니다💃🏻💕",
+            "channel": "닥터 조성아",
+            "url": "https://www.youtube.com/watch?v=56_4M0R4cpE&pp=ygUz7KWs67Kk7Iqk7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "28K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 4,
+  "opportunity_cost_thb": 96000,
+  "opportunity_cost_krw": 3840000
+}

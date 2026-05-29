@@ -1,0 +1,147 @@
+{
+  "query": "올의원",
+  "generated_at": "2026-05-28T23:12:04.227Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 5042,
+      "extra": {
+        "place_id": "36883029",
+        "name": "올의원 : 네이버\u001c",
+        "visitor_review_count": 1187,
+        "blog_review_count": 3855,
+        "detail_url": "https://m.place.naver.com/place/36883029/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "올클리닉 Myeongdong All Clinic | Ultherapy & Anti-Aging Clinic | English-Speaking Doctors",
+        "rating": 4.9,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 3578837,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "Looking for a lifting effect without sacrificing volume? We'll show you all the benefits of All T...",
+            "channel": "피부과전문의 피부담당 고원장",
+            "url": "https://www.youtube.com/watch?v=zNzmvsr-5zE&pp=ygUY7Jis7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "20K views"
+          },
+          {
+            "title": "올타이트? 그냥 쏘면 효과 없습니다❌ 올타이트 제대로 효과 보는 법!",
+            "channel": "피부과전문의_샘닥",
+            "url": "https://www.youtube.com/watch?v=onj0bQAcAVo&pp=ygUY7Jis7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "128K views"
+          },
+          {
+            "title": "\"Dermatologists don't tell you...\" We recommend popular youth-enhancing procedures these days. We...",
+            "channel": "박지윤의 피부 설명서",
+            "url": "https://www.youtube.com/watch?v=EFB-McCJG48&pp=ygUY7Jis7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "444K views"
+          },
+          {
+            "title": "\"You can look 10 years younger than your peers!\" 3 treatments even performed by a dermatologist.",
+            "channel": "박지윤의 피부 설명서",
+            "url": "https://www.youtube.com/watch?v=GN7n33Kw7BY&pp=ygUY7Jis7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "237K views"
+          },
+          {
+            "title": "“이 효과 때문이에요” 요즘 청담에서 유독 핫한 올타이트의 모든 것ㅣ동탄 의사가 알려주는 올타이트",
+            "channel": "아는닥터 이원장",
+            "url": "https://www.youtube.com/watch?v=QRs5qiHl-pw&pp=ygUY7Jis7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "12K views"
+          },
+          {
+            "title": "리프팅 vs 타이트닝, 내 얼굴은 뭐가 문제일까? 3초 자가진단✨ (범계피부과후기, 평촌피부과, 안양피부과추천)",
+            "channel": "라마르프리미어의원_범계역",
+            "url": "https://www.youtube.com/watch?v=EZiNPcwhhPc&pp=ygUY7Jis7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "451 views"
+          },
+          {
+            "title": "올타이트 리프팅, 기존의 고주파와 ‘이것’ 다릅니다 | 오월의아침TV_박준홍 원장",
+            "channel": "피부과전문의 박준홍의 오월의아침TV",
+            "url": "https://www.youtube.com/watch?v=Cvhbl64gZAU&pp=ygUY7Jis7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "320 views"
+          },
+          {
+            "title": "올타이트 리프팅, 피부 상태에 따라 다르게 적용할 수 있는 이유 | 오월의아침TV_박준홍 원장",
+            "channel": "피부과전문의 박준홍의 오월의아침TV",
+            "url": "https://www.youtube.com/watch?v=TiE6yoKccBc&pp=ygUY7Jis7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "299 views"
+          },
+          {
+            "title": "\"You'll look 10 years younger than your peers.\" 3 must-do skincare treatments recommended by a de...",
+            "channel": "박지윤의 피부 설명서",
+            "url": "https://www.youtube.com/watch?v=VJiywLI92qM&pp=ygUY7Jis7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "123K views"
+          },
+          {
+            "title": "“비싼 울쎄라, 써마지 받아도 얼굴 다시 처집니다” 요즘 연예인들이 받는 가성비 시술을 20년차 피부과 전문의가 알려드립니다.",
+            "channel": "피부는 성현철",
+            "url": "https://www.youtube.com/watch?v=P-ooK3XIcKM&pp=ygUY7Jis7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "344K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

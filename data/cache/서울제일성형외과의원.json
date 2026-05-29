@@ -1,0 +1,147 @@
+{
+  "query": "서울제일성형외과의원",
+  "generated_at": "2026-05-29T00:09:18.782Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 6,
+      "extra": {
+        "place_id": "13140513",
+        "name": "서울제일성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 5,
+        "blog_review_count": 1,
+        "detail_url": "https://m.place.naver.com/place/13140513/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 8,
+      "extra": {
+        "name": "서울제일성형외과의원(Seoul Cheil Plastic Surgery)",
+        "rating": 4.5,
+        "total_reviews": 8,
+        "sample_size": 16,
+        "foreign_language_reviews": 16,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 16
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 36241,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "안전한 성형수술을 위해 주의해야 할 5가지 / 서울제일성형외과 한상백",
+            "channel": "의학채널 비온뒤",
+            "url": "https://www.youtube.com/watch?v=g_ThMMinifY&pp=ygUw7ISc7Jq47KCc7J287ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.9K views"
+          },
+          {
+            "title": "\"양악수술 제발 그만!!\" 무슨 뜻? | 돌출입 한박사 | 서울제일성형외과의원",
+            "channel": "돌출입 한박사",
+            "url": "https://www.youtube.com/watch?v=eaMar7Ng6vg&pp=ygUw7ISc7Jq47KCc7J287ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.6K views"
+          },
+          {
+            "title": "돌출입수술, 인중이 걱정이라면? | 돌출입 한박사 | 서울제일성형외과의원",
+            "channel": "돌출입 한박사",
+            "url": "https://www.youtube.com/watch?v=7Xhl9-GPu10&pp=ygUw7ISc7Jq47KCc7J287ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "460 views"
+          },
+          {
+            "title": "돌출입수술만 하는 의사? 다른 수술도 합니다만 [2부 : 광대뼈수술] | 돌출입 한박사 | 서울제일성형외과의원",
+            "channel": "돌출입 한박사",
+            "url": "https://www.youtube.com/watch?v=jqL3FgzyfQY&pp=ygUw7ISc7Jq47KCc7J287ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "406 views"
+          },
+          {
+            "title": "기승전 돌출입수술? 명확한 기준으로! | 돌출입 한박사 | 서울제일성형외과의원",
+            "channel": "돌출입 한박사",
+            "url": "https://www.youtube.com/watch?v=0fOypTQI4bE&pp=ygUw7ISc7Jq47KCc7J287ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "424 views"
+          },
+          {
+            "title": "주걱턱도 돌출입수술로 된다고? | 돌출입 한박사 | 서울제일성형외과의원",
+            "channel": "돌출입 한박사",
+            "url": "https://www.youtube.com/watch?v=GfgkG9CpeHc&pp=ygUw7ISc7Jq47KCc7J287ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "456 views"
+          },
+          {
+            "title": "돌출입수술만 하는 의사? 다른 수술도 합니다만 [3부 : 사각턱수술] | 돌출입 한박사 | 서울제일성형외과의원",
+            "channel": "돌출입 한박사",
+            "url": "https://www.youtube.com/watch?v=_4bJUZiY2bE&pp=ygUw7ISc7Jq47KCc7J287ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "358 views"
+          },
+          {
+            "title": "얼굴뼈수술, 합병증, 후유증, 부작용? | 돌출입 한박사 | 서울제일성형외과의원",
+            "channel": "돌출입 한박사",
+            "url": "https://www.youtube.com/watch?v=4pyzM3QNv3k&pp=ygUw7ISc7Jq47KCc7J287ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "811 views"
+          },
+          {
+            "title": "환자의 취향, 얼마나 맞춰주시나요? | 돌출입 한박사 | 서울제일성형외과의원",
+            "channel": "돌출입 한박사",
+            "url": "https://www.youtube.com/watch?v=Kd6MbeuDXVM&pp=ygUw7ISc7Jq47KCc7J287ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "617 views"
+          },
+          {
+            "title": "[닥튜버] 광대뼈수술 A to Z - 서울제일성형외과 한상백 원장, 차종은 PD",
+            "channel": "의학채널 비온뒤",
+            "url": "https://www.youtube.com/watch?v=eJuJKGlbBoA&pp=ygUw7ISc7Jq47KCc7J287ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "5.9K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 8,
+  "opportunity_cost_thb": 92000,
+  "opportunity_cost_krw": 3680000
+}

@@ -1,0 +1,145 @@
+{
+  "query": "팽팽의원",
+  "generated_at": "2026-05-28T22:39:28.513Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "PangPangclinic / 팽팽클리닉 / 팽팽의원 / 실리프팅",
+        "rating": 4.9,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 561537,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "Thread lifting is difficult on this type of face.. | Top 3 Face Types Difficult to Treat | Pyeong...",
+            "channel": "실로 놀라운 팽팽닥터",
+            "url": "https://www.youtube.com/watch?v=OGG9sF0UvFo&pp=ygUh7Yy97Yy97J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "39 views"
+          },
+          {
+            "title": "얼굴에 주름 해결하고 싶으신가요? 필러시술 전문 고웅진 원장님",
+            "channel": "건강의학전문채널 하이닥",
+            "url": "https://www.youtube.com/watch?v=QW12TiDnBCo&pp=ygUh7Yy97Yy97J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1.4K views"
+          },
+          {
+            "title": "실리프팅 시술받고 이건 정말 안됩니다! 시술 후 반드시 지켜야 하는 주의사항 #팽팽의원 #팽팽클리닉",
+            "channel": "실로 놀라운 팽팽닥터",
+            "url": "https://www.youtube.com/watch?v=LASOVcM6_RA&pp=ygUh7Yy97Yy97J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "21K views"
+          },
+          {
+            "title": "실리프팅 효과? 잘 하는 병원은 이렇게 찾으세요",
+            "channel": "닥터 리프팅",
+            "url": "https://www.youtube.com/watch?v=vKfSsAgMr-k&pp=ygUh7Yy97Yy97J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "4.5K views"
+          },
+          {
+            "title": "한달만에 외모 10배 떡상하는 80가지 체크리스트 종결 l 64분 연속 재생",
+            "channel": "피부결",
+            "url": "https://www.youtube.com/watch?v=K9libhME0OA&pp=ygUh7Yy97Yy97J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "13K views"
+          },
+          {
+            "title": "실리프팅 시술 후, 멍과 붓기??",
+            "channel": "정병훈TV",
+            "url": "https://www.youtube.com/watch?v=I-RGZFkRQIQ&pp=ygUh7Yy97Yy97J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "287 views"
+          },
+          {
+            "title": "“20년동안 제 아내가 가장 만족했던 동안 주사 공개합니다” 강남 피부과 의사가 아내에게 해주는 또래보다 10년 젊어지는 동안주사 3가지",
+            "channel": "피부는 성현철",
+            "url": "https://www.youtube.com/watch?v=z5f78sydJ8U&pp=ygUh7Yy97Yy97J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "332K views"
+          },
+          {
+            "title": "리프팅 추천 얼굴상태와 연령대를 고려해서 추천 들어갑니다.",
+            "channel": "바이은 By Eun",
+            "url": "https://www.youtube.com/watch?v=9pgx8yRShyE&pp=ygUh7Yy97Yy97J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "61K views"
+          },
+          {
+            "title": "부산 실리프팅 잘하는 곳 어디에 있는지 궁금하셨나요? 청담바로의원에서 젊어지자!",
+            "channel": "건강정보톡톡",
+            "url": "https://www.youtube.com/watch?v=RUz676BcfVU&pp=ygUh7Yy97Yy97J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "400 views"
+          },
+          {
+            "title": "실 2줄로 예쁜 턱 라인 만드는 앞턱 실리프팅 💫 [감성닥터 서경희의 셀프(SELF) 시술]",
+            "channel": "감성닥터 서경희",
+            "url": "https://www.youtube.com/watch?v=taRYb4GxH2s&pp=ygUh7Yy97Yy97J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "91K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

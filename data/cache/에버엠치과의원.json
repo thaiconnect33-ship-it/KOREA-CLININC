@@ -1,0 +1,147 @@
+{
+  "query": "에버엠치과의원",
+  "generated_at": "2026-05-29T00:14:13.745Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 241,
+      "extra": {
+        "place_id": "13350548",
+        "name": "에버엠치과의원 : 네이버\u001c",
+        "visitor_review_count": 158,
+        "blog_review_count": 83,
+        "detail_url": "https://m.place.naver.com/place/13350548/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "EVERM DENTAL CLINIC",
+        "rating": 4.2,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 49310,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "에버엠치과 대표원장님 인터뷰- SBS 모닝와이드",
+            "channel": "양악수술 얼굴뼈닥터_양악 안면윤곽",
+            "url": "https://www.youtube.com/watch?v=Y4pE2yGf32Y&pp=ygUh7JeQ67KE7Jeg7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "697 views"
+          },
+          {
+            "title": "에버엠치과 윤규식 대표원장님 - SBS 모닝와이드 인터뷰",
+            "channel": "양악수술 얼굴뼈닥터_양악 안면윤곽",
+            "url": "https://www.youtube.com/watch?v=9ByPvTnudOc&pp=ygUh7JeQ67KE7Jeg7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "1.3K views"
+          },
+          {
+            "title": "요즘 안면윤곽 대세는 어디? 치과에서 하는 안면윤곽 수술",
+            "channel": "양악수술 얼굴뼈닥터_양악 안면윤곽",
+            "url": "https://www.youtube.com/watch?v=_UbVJb06BhI&pp=ygUh7JeQ67KE7Jeg7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "2.2K views"
+          },
+          {
+            "title": "양악수술 얼굴뼈수술은 에버엠치과 [에버엠치과 소개영상]",
+            "channel": "양악수술 얼굴뼈닥터_양악 안면윤곽",
+            "url": "https://www.youtube.com/watch?v=mCkuHlPdeAM&pp=ygUh7JeQ67KE7Jeg7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "1.2K views"
+          },
+          {
+            "title": "어서와~ 얼굴뼈닥터는 처음이지?🩺 에버엠치과 유튜브 새단장했습니다! [KOR/CHN Sub]",
+            "channel": "양악수술 얼굴뼈닥터_양악 안면윤곽",
+            "url": "https://www.youtube.com/watch?v=4YVAXqZQSQE&pp=ygUh7JeQ67KE7Jeg7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "1.4K views"
+          },
+          {
+            "title": "치과 치료 중 고난도 치료인 임플란트, 그냥 하실 건가요?",
+            "channel": "양악수술 얼굴뼈닥터_양악 안면윤곽",
+            "url": "https://www.youtube.com/watch?v=OhupOQe6ioA&pp=ygUh7JeQ67KE7Jeg7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "695 views"
+          },
+          {
+            "title": "양악수술이 왜 힘든지? 양악 수술 통증에 대해 알아보자!",
+            "channel": "양악수술 얼굴뼈닥터_양악 안면윤곽",
+            "url": "https://www.youtube.com/watch?v=xxlE4xsKE0A&pp=ygUh7JeQ67KE7Jeg7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "7.7K views"
+          },
+          {
+            "title": "양악수술로 유명한 에버엠치과에 대해서 알아볼까요? [IMBC] TV속 주치의 방송촬영",
+            "channel": "양악수술 얼굴뼈닥터_양악 안면윤곽",
+            "url": "https://www.youtube.com/watch?v=prU4ygAu3Fg&pp=ygUh7JeQ67KE7Jeg7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "767 views"
+          },
+          {
+            "title": "기능양악은 괜찮고, 미용양악은 위험하다?",
+            "channel": "양악수술 얼굴뼈닥터_양악 안면윤곽",
+            "url": "https://www.youtube.com/watch?v=jOarxil4m8I&pp=ygUh7JeQ67KE7Jeg7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "2K views"
+          },
+          {
+            "title": "에버엠치과 MBC 8시 뉴스데스크 인터뷰",
+            "channel": "양악수술 얼굴뼈닥터_양악 안면윤곽",
+            "url": "https://www.youtube.com/watch?v=gp6rMfNa5n0&pp=ygUh7JeQ67KE7Jeg7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "1K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

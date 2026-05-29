@@ -1,0 +1,147 @@
+{
+  "query": "디아더피부과의원",
+  "generated_at": "2026-05-28T22:35:04.280Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 67,
+      "extra": {
+        "place_id": "2065277109",
+        "name": "디아더피부과의원 : 네이버\u001c",
+        "visitor_review_count": 66,
+        "blog_review_count": 1,
+        "detail_url": "https://m.place.naver.com/place/2065277109/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "디아더피부과",
+        "rating": 5,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 7685602,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "[더청담의원] 올리디아 바디 라이브 세미나",
+            "channel": "바이은 By Eun",
+            "url": "https://www.youtube.com/watch?v=W8y8dF2HiKU&pp=ygUn65SU7JWE642U7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "142"
+          },
+          {
+            "title": "\"Dermatologists don't tell you...\" We recommend popular youth-enhancing procedures these days. We...",
+            "channel": "박지윤의 피부 설명서",
+            "url": "https://www.youtube.com/watch?v=EFB-McCJG48&pp=ygUn65SU7JWE642U7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "444K"
+          },
+          {
+            "title": "올리디아 볼륨 365 vs 스컬트라, 쥬베룩볼륨과 비교한다면? 👍 | 닥터스피부과 잠실송파",
+            "channel": "닥터더마",
+            "url": "https://www.youtube.com/watch?v=KMBVk7-ylbE&pp=ygUn65SU7JWE642U7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1.8K"
+          },
+          {
+            "title": "예인미클리닉 홍보영상",
+            "channel": "Double crew",
+            "url": "https://www.youtube.com/watch?v=5XO4H-4qKAY&pp=ygUn65SU7JWE642U7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "304"
+          },
+          {
+            "title": "“비싼 울쎄라, 써마지 받아도 얼굴 다시 처집니다” 요즘 연예인들이 받는 가성비 시술을 20년차 피부과 전문의가 알려드립니다.",
+            "channel": "피부는 성현철",
+            "url": "https://www.youtube.com/watch?v=P-ooK3XIcKM&pp=ygUn65SU7JWE642U7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "344K"
+          },
+          {
+            "title": "Top 4 Dermatological Procedures Doctors Never Recommend to Your Family",
+            "channel": "동네 의사 이상욱",
+            "url": "https://www.youtube.com/watch?v=s-5hgOyRUbM&pp=ygUn65SU7JWE642U7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "960K"
+          },
+          {
+            "title": "올리디아120 효과랑 가격?",
+            "channel": "Doctalk",
+            "url": "https://www.youtube.com/watch?v=rD6nWSTJsFM&pp=ygUn65SU7JWE642U7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "16"
+          },
+          {
+            "title": "산본오라클피부과 스킨부스터 콜라겐부스터 울트라콜 쥬베룩 피부재생 효과",
+            "channel": "유레카닥TV",
+            "url": "https://www.youtube.com/watch?v=VQXBdWKHE3I&pp=ygUn65SU7JWE642U7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1.1K"
+          },
+          {
+            "title": "\"리쥬란보다 훨씬 낫습니다\" 의사가 추천하는 동안되는 최고의 스킨부스터 리투오",
+            "channel": "닥터블랑_예뻐지는비결",
+            "url": "https://www.youtube.com/watch?v=bH-ELBep7us&pp=ygUn65SU7JWE642U7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "19K"
+          },
+          {
+            "title": "피부과 시술 부작용 Vlog…ㅠ 내 피부 돌려줘.. 다신 안해…🫠ㅣMINCARONG",
+            "channel": "민카롱",
+            "url": "https://www.youtube.com/watch?v=wRJR2kY2x9w&pp=ygUn65SU7JWE642U7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1.7M"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

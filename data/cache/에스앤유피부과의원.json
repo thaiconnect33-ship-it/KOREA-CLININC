@@ -1,0 +1,147 @@
+{
+  "query": "에스앤유피부과의원",
+  "generated_at": "2026-05-28T23:38:39.002Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 810,
+      "extra": {
+        "place_id": "13277687",
+        "name": "에스앤유피부과의원 : 네이버\u001c",
+        "visitor_review_count": 762,
+        "blog_review_count": 48,
+        "detail_url": "https://m.place.naver.com/place/13277687/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Results",
+        "rating": 3.3,
+        "total_reviews": 0,
+        "sample_size": 6,
+        "foreign_language_reviews": 6,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 6
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 1007417,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "피부 노화의 핵심인 ECM에 투자하자 / 에스앤유피부과 김병수",
+            "channel": "의학채널 비온뒤",
+            "url": "https://www.youtube.com/watch?v=pg-hiSAgcuA&pp=ygUq7JeQ7Iqk7JWk7Jyg7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "5.4K views"
+          },
+          {
+            "title": "신사에스앤유피부과 - 모공관리/고주파 미세주사/물광주사/더모톡신/박피/피지제거",
+            "channel": "신사에스앤유피부과",
+            "url": "https://www.youtube.com/watch?v=hhcqpGhx1Yw&pp=ygUq7JeQ7Iqk7JWk7Jyg7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "4K views"
+          },
+          {
+            "title": "청담수안피부과 병원소개",
+            "channel": "조용선",
+            "url": "https://www.youtube.com/watch?v=OiSP4qsMteE&pp=ygUq7JeQ7Iqk7JWk7Jyg7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "309 views"
+          },
+          {
+            "title": "우아한피부과 소개영상",
+            "channel": "우아한피부과",
+            "url": "https://www.youtube.com/watch?v=keH30Sajolw&pp=ygUq7JeQ7Iqk7JWk7Jyg7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1K views"
+          },
+          {
+            "title": "피부 ECM에 투자하자 / 분당에스앤유피부과 김병수",
+            "channel": "의학채널 비온뒤",
+            "url": "https://www.youtube.com/watch?v=OWuFs9_vhVs&pp=ygUq7JeQ7Iqk7JWk7Jyg7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "2.7K views"
+          },
+          {
+            "title": "2011 마포공덕에스앤유피부과",
+            "channel": "에스앤유피부과 - 색소모반, 피부과",
+            "url": "https://www.youtube.com/watch?v=ZhAGPtQxFzY&pp=ygUq7JeQ7Iqk7JWk7Jyg7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "548 views"
+          },
+          {
+            "title": "영등포 계피부과를 소개합니다. - SINCE 1961",
+            "channel": "계피부과 since1961",
+            "url": "https://www.youtube.com/watch?v=7pphGkeT8UM&pp=ygUq7JeQ7Iqk7JWk7Jyg7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "6.1K views"
+          },
+          {
+            "title": "켄델라에게 하고 싶은 말 - 서성락 원장님(스킨다피부과)",
+            "channel": "Candela Korea",
+            "url": "https://www.youtube.com/watch?v=0LF0dXBapMk&pp=ygUq7JeQ7Iqk7JWk7Jyg7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "349 views"
+          },
+          {
+            "title": "좋은 피부과 찾는 법?? 이것만 기억하세요! (피부과 전문의)",
+            "channel": "피부고민상담소  신촌연세스타피부과",
+            "url": "https://www.youtube.com/watch?v=pxZPl_YACUA&pp=ygUq7JeQ7Iqk7JWk7Jyg7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "49K views"
+          },
+          {
+            "title": "김방순원장님 궁금해요",
+            "channel": "한모두티비",
+            "url": "https://www.youtube.com/watch?v=PWOkQlnXC1s&pp=ygUq7JeQ7Iqk7JWk7Jyg7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "632 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 3,
+  "opportunity_cost_thb": 97000,
+  "opportunity_cost_krw": 3880000
+}

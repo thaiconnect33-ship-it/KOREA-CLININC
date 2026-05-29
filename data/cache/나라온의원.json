@@ -1,0 +1,147 @@
+{
+  "query": "나라온의원",
+  "generated_at": "2026-05-28T23:37:42.105Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 259,
+      "extra": {
+        "place_id": "103304847",
+        "name": "나라온의원 : 네이버\u001c",
+        "visitor_review_count": 227,
+        "blog_review_count": 32,
+        "detail_url": "https://m.place.naver.com/place/103304847/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "나라온의원",
+        "rating": 2.3,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 1003344,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "처음 복용하는 탈모약!! 선택의 중요성!!",
+            "channel": "당신의 탈모주치의 모나라",
+            "url": "https://www.youtube.com/watch?v=jwSBc--GRRo&pp=ygUe64KY65287Jio7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "218 views"
+          },
+          {
+            "title": "[아름다운나라피부과] 피지샘센터",
+            "channel": "아름다운나라피부과강남/분당",
+            "url": "https://www.youtube.com/watch?v=XaV37kIJemQ&pp=ygUe64KY65287Jio7J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "877 views"
+          },
+          {
+            "title": "의사들만 몰래받는 S급 가성비! 수백만원 아끼는 만족도 가장 높은 시술을 20년차 피부과 전문의가 알려드립니다.",
+            "channel": "피부는 성현철",
+            "url": "https://www.youtube.com/watch?v=SFlFQByIQ1g&pp=ygUe64KY65287Jio7J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "913K views"
+          },
+          {
+            "title": "정확한 탈모진단!!! #피부과전문의 #두피진단기 #탈모초기에 정확히 진단하고 치료하는 것이 무엇보다 중요합니다!!",
+            "channel": "당신의 탈모주치의 모나라",
+            "url": "https://www.youtube.com/watch?v=vGHUnny2sHQ&pp=ygUe64KY65287Jio7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "132 views"
+          },
+          {
+            "title": "모발이식 후 생착률 올리는 관리법!!! (모나라피부과 비밀 비법)",
+            "channel": "당신의 탈모주치의 모나라",
+            "url": "https://www.youtube.com/watch?v=uA4p5NOqwvE&pp=ygUe64KY65287Jio7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "744 views"
+          },
+          {
+            "title": "[모나라피부과] 모발이식 상담 호구 탈출기!!!",
+            "channel": "당신의 탈모주치의 모나라",
+            "url": "https://www.youtube.com/watch?v=O1cwU5wkmqg&pp=ygUe64KY65287Jio7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "26K views"
+          },
+          {
+            "title": "탈모 치료와 예방에 도움이 되는 모발영양제!! 비싼게 좋은 거다?? 가성비 끝판왕 영양제 추천!!",
+            "channel": "당신의 탈모주치의 모나라",
+            "url": "https://www.youtube.com/watch?v=C-bW1aBZPZ4&pp=ygUe64KY65287Jio7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "247 views"
+          },
+          {
+            "title": "두피와 모발의 세포까지 들여다보는 병원, 모나라피부과입니다!!",
+            "channel": "당신의 탈모주치의 모나라",
+            "url": "https://www.youtube.com/watch?v=COhB1z5k9fU&pp=ygUe64KY65287Jio7J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "263 views"
+          },
+          {
+            "title": "비절개 모발이식 리얼 성공 사례 리뷰! 압구정 모나라피부과!",
+            "channel": "당신의 탈모주치의 모나라",
+            "url": "https://www.youtube.com/watch?v=fsyLOVameUY&pp=ygUe64KY65287Jio7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "355 views"
+          },
+          {
+            "title": "리프팅 최고의 가성비 아름다운나라피부과",
+            "channel": "강남아름다운나라피부과",
+            "url": "https://www.youtube.com/watch?v=PrF5qhcSktU&pp=ygUe64KY65287Jio7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "378 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

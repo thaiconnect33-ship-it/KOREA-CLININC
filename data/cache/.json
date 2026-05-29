@@ -1,0 +1,140 @@
+{
+  "query": "????????",
+  "generated_at": "2026-05-29T08:29:44.015Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "Google Maps 결과 없음",
+        "foreign_language_reviews": 0
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 10,
+      "extra": {
+        "threads": [
+          {
+            "title": "แคสสอดสร้อยมาลา เวอร์ชั่น ช่อง3 ช่อง 7 ??",
+            "url": "https://pantip.com/topic/44085198",
+            "views": 0
+          },
+          {
+            "title": "มีใครเคยคิดถึงคนคนหนึ่งนานเป็นปีๆแบบที่ลืมไม่ได้เลยไหม",
+            "url": "https://pantip.com/topic/44013400",
+            "views": 0
+          },
+          {
+            "title": "??",
+            "url": "https://pantip.com/topic/43892562",
+            "views": 0
+          },
+          {
+            "title": "??",
+            "url": "https://pantip.com/topic/44095472",
+            "views": 0
+          },
+          {
+            "title": "ลบกระทู้ในพันทิปอย่างไร",
+            "url": "https://pantip.com/topic/44005406",
+            "views": 0
+          },
+          {
+            "title": "??",
+            "url": "https://pantip.com/topic/43907258",
+            "views": 0
+          },
+          {
+            "title": "ทำไมคนบางกลุ่มถึงต่อต้านพรรคส้ม",
+            "url": "https://pantip.com/topic/43976302",
+            "views": 0
+          },
+          {
+            "title": "??",
+            "url": "https://pantip.com/topic/43934643",
+            "views": 0
+          },
+          {
+            "title": "Call Center ทรู มีอยู่จริงไหมคะ??",
+            "url": "https://pantip.com/topic/43970562",
+            "views": 0
+          },
+          {
+            "title": "WTH??",
+            "url": "https://pantip.com/topic/44018782",
+            "views": 0
+          }
+        ],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 2,
+      "extra": {
+        "total_views": 72800000,
+        "foreign_video_count": 2,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 2
+        },
+        "sample_size": 2,
+        "top_videos": [
+          {
+            "title": "The Amazing World of Gumball | The Future Starts Now | Cartoon Network UK 🇬🇧",
+            "channel": "Cartoon Network UK",
+            "url": "https://www.youtube.com/watch?v=7Y_o8SWOImU&pp=ygUIPz8_Pz8_Pz8%3D",
+            "view_text": "4.8M views"
+          },
+          {
+            "title": "Our Floating Dreams | A Mickey Mouse Cartoon | Disney Shorts",
+            "channel": "Disney Kids",
+            "url": "https://www.youtube.com/watch?v=83sdwFOL1r8&pp=ygUIPz8_Pz8_Pz_SBwkJIwsBhyohjO8%3D",
+            "view_text": "68M views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 8,
+  "opportunity_cost_thb": 94000,
+  "opportunity_cost_krw": 3760000
+}

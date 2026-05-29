@@ -1,0 +1,145 @@
+{
+  "query": "에버피부과의원",
+  "generated_at": "2026-05-28T22:34:20.973Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "압구정 피부과 에버피부과의원 | gangnam skin clinic Ever Skin Clinic | gangnam dermatology clinic | rejuran | 韓国 美容クリニック| 韓國醫美",
+        "rating": 4.7,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 6737317,
+        "foreign_video_count": 1,
+        "lang_breakdown": {
+          "korean": 19,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 1
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "\"Dermatologists don't tell you...\" We recommend popular youth-enhancing procedures these days. We...",
+            "channel": "박지윤의 피부 설명서",
+            "url": "https://www.youtube.com/watch?v=EFB-McCJG48&pp=ygUq7JeQ67KE7ZS867aA6rO87J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "444K views"
+          },
+          {
+            "title": "피부과 시술 부작용 Vlog…ㅠ 내 피부 돌려줘.. 다신 안해…🫠ㅣMINCARONG",
+            "channel": "민카롱",
+            "url": "https://www.youtube.com/watch?v=wRJR2kY2x9w&pp=ygUq7JeQ67KE7ZS867aA6rO87J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1.7M views"
+          },
+          {
+            "title": "(*ENG/CHN/JP) Expensive acne laser vs. cost-effective acne medication Roaccutane (Isotretinoin) -...",
+            "channel": "Dr. Filler – Korean Derm & Face Design",
+            "url": "https://www.youtube.com/watch?v=8fkGIJcX_OM&pp=ygUq7JeQ67KE7ZS867aA6rO87J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "87K views"
+          },
+          {
+            "title": "서울대 피부과의사가 찍어주는 스킨부스터 완벽 정리. \"이 영상보면 호구 안당합니다\" - 이도영 피부과전문의",
+            "channel": "피부텐텐 · 피부가 예뻐지는 10분",
+            "url": "https://www.youtube.com/watch?v=rigKW7zrTeI&pp=ygUq7JeQ67KE7ZS867aA6rO87J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "338K views"
+          },
+          {
+            "title": "한달만에 외모 10배 떡상하는 80가지 체크리스트 종결 l 64분 연속 재생",
+            "channel": "피부결",
+            "url": "https://www.youtube.com/watch?v=K9libhME0OA&pp=ygUq7JeQ67KE7ZS867aA6rO87J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "13K views"
+          },
+          {
+            "title": "\"엉터리 정보에 속지마세요.\" 진료과목 피부과 의사가 뽑은 가성비 시술 딱 '3가지'",
+            "channel": "지식인사이드",
+            "url": "https://www.youtube.com/watch?v=a4S4JNnRIXQ&pp=ygUq7JeQ67KE7ZS867aA6rO87J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1.7M views"
+          },
+          {
+            "title": "“비싼 울쎄라, 써마지 받아도 얼굴 다시 처집니다” 요즘 연예인들이 받는 가성비 시술을 20년차 피부과 전문의가 알려드립니다.",
+            "channel": "피부는 성현철",
+            "url": "https://www.youtube.com/watch?v=P-ooK3XIcKM&pp=ygUq7JeQ67KE7ZS867aA6rO87J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "344K views"
+          },
+          {
+            "title": "응괴성여드름 켈로이드성여드름이 어떤 것인지 강남테마피부과에 물어보았습니다.",
+            "channel": "유레카닥TV",
+            "url": "https://www.youtube.com/watch?v=J3aOfk1TGtg&pp=ygUq7JeQ67KE7ZS867aA6rO87J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "2.2K views"
+          },
+          {
+            "title": "\"Stieva A Cream,\" which is used to hide wrinkles, blemishes, and acne, is no longer available at ...",
+            "channel": "닥터피부광",
+            "url": "https://www.youtube.com/watch?v=nB4Of4kM5n4&pp=ygUq7JeQ67KE7ZS867aA6rO87J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "238K views"
+          },
+          {
+            "title": "전직 피부과직원이 말하는 리쥬란힐러 효과 100% 보는 방법",
+            "channel": "소의튜브soytube",
+            "url": "https://www.youtube.com/watch?v=6y2qa9G0OFg&pp=ygUq7JeQ67KE7ZS867aA6rO87J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "198K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 1,
+  "opportunity_cost_thb": 99500,
+  "opportunity_cost_krw": 3980000
+}

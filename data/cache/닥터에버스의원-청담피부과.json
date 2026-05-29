@@ -1,0 +1,146 @@
+{
+  "query": "닥터에버스의원 청담",
+  "generated_at": "2026-05-29T05:31:38.654Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "DR.EVERS CHEONGDAM",
+        "rating": 4.9,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 15,
+      "extra": {
+        "total_views": 5413500,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 15,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 15,
+        "top_videos": [
+          {
+            "title": "\"Dermatologists don't tell you...\" We recommend popular youth-enhancing procedures these days. We...",
+            "channel": "박지윤의 피부 설명서",
+            "url": "https://www.youtube.com/watch?v=EFB-McCJG48&pp=ygUx64ul7YSw7JeQ67KE7Iqk7J2Y7JuQIOyyreuLtO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "444K views"
+          },
+          {
+            "title": "\"엉터리 정보에 속지마세요.\" 진료과목 피부과 의사가 뽑은 가성비 시술 딱 '3가지'",
+            "channel": "지식인사이드",
+            "url": "https://www.youtube.com/watch?v=a4S4JNnRIXQ&pp=ygUx64ul7YSw7JeQ67KE7Iqk7J2Y7JuQIOyyreuLtO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "1.7M views"
+          },
+          {
+            "title": "의사들만 몰래받는 S급 가성비! 수백만원 아끼는 만족도 가장 높은 시술을 20년차 피부과 전문의가 알려드립니다.",
+            "channel": "피부는 성현철",
+            "url": "https://www.youtube.com/watch?v=SFlFQByIQ1g&pp=ygUx64ul7YSw7JeQ67KE7Iqk7J2Y7JuQIOyyreuLtO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "913K views"
+          },
+          {
+            "title": "\"원장님께서 별세하셨기에\"…유명 피부과 '피해자 속출' / SBS 8뉴스",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=-3uLsD3sWGU&pp=ygUx64ul7YSw7JeQ67KE7Iqk7J2Y7JuQIOyyreuLtO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "924K views"
+          },
+          {
+            "title": "“20년동안 제 아내가 가장 만족했던 동안 주사 공개합니다” 강남 피부과 의사가 아내에게 해주는 또래보다 10년 젊어지는 동안주사 3가지",
+            "channel": "피부는 성현철",
+            "url": "https://www.youtube.com/watch?v=z5f78sydJ8U&pp=ygUx64ul7YSw7JeQ67KE7Iqk7J2Y7JuQIOyyreuLtO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "332K views"
+          },
+          {
+            "title": "\"리쥬란보다 훨씬 낫습니다\" 의사가 추천하는 동안되는 최고의 스킨부스터 리투오",
+            "channel": "닥터블랑_예뻐지는비결",
+            "url": "https://www.youtube.com/watch?v=bH-ELBep7us&pp=ygUx64ul7YSw7JeQ67KE7Iqk7J2Y7JuQIOyyreuLtO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "19K views"
+          },
+          {
+            "title": "이런 시술들은 싼 게 장땡?! 공장형 피부과에서 받으면 돈 굳는 시술들💰",
+            "channel": "배우는 의사 김현정",
+            "url": "https://www.youtube.com/watch?v=rv12TUVppGs&pp=ygUx64ul7YSw7JeQ67KE7Iqk7J2Y7JuQIOyyreuLtO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "55K views"
+          },
+          {
+            "title": "피부과 망하게 한다는 스티바-A! 이제 찾지 마세요. 주름 기미 잡티 여드름을 없애주는 아크리프",
+            "channel": "닥터펠프스 피부과전문의",
+            "url": "https://www.youtube.com/watch?v=UoAr1343VBY&pp=ygUx64ul7YSw7JeQ67KE7Iqk7J2Y7JuQIOyyreuLtO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "81K views"
+          },
+          {
+            "title": "청담에끌라드의원 박소윤 원장-ELLISYS SENSE \"시술 시 시간·체력 소모가 절반으로 줄고 다운타임 짧아\"",
+            "channel": "D&PS[DNPS Dermatologist and Plastic Surgeon]",
+            "url": "https://www.youtube.com/watch?v=4IIOSbM9aTY&pp=ygUx64ul7YSw7JeQ67KE7Iqk7J2Y7JuQIOyyreuLtO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "1.1K views"
+          },
+          {
+            "title": "Look at the people who say LDM doesn't work (it's frustrating);; Why would celebrities do it~! #c...",
+            "channel": "닥터지훈",
+            "url": "https://www.youtube.com/watch?v=NYUMlzhPcPc&pp=ygUx64ul7YSw7JeQ67KE7Iqk7J2Y7JuQIOyyreuLtO2Goe2Goe2UvOu2gOqzvCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "81K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 140000,
+  "opportunity_cost_krw": 5600000
+}

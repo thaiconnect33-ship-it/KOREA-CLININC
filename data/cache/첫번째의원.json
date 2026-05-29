@@ -1,0 +1,147 @@
+{
+  "query": "첫번째의원",
+  "generated_at": "2026-05-28T22:13:37.582Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 302,
+      "extra": {
+        "place_id": "1473424941",
+        "name": "첫번째의원 : 네이버\u001c",
+        "visitor_review_count": 173,
+        "blog_review_count": 129,
+        "detail_url": "https://m.place.naver.com/place/1473424941/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 67,
+      "extra": {
+        "name": "첫번째 성형외과 | 퍼스트청담도산 클리닉 | First Plastic Surgery | First Cheongdam Dosan Clinic",
+        "rating": 4.8,
+        "total_reviews": 67,
+        "sample_size": 16,
+        "foreign_language_reviews": 14,
+        "lang_breakdown": {
+          "korean": 2,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 14
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 1643449,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "⁉️충격고백⁉️성형외과전문의가👨‍⚕️ 겪고 있는 눈밑지방재배치의 부작용?",
+            "channel": "닥터첫번째",
+            "url": "https://www.youtube.com/watch?v=X65C6bH1Ojo&pp=ygUh7LKr67KI7Ke47J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "192K"
+          },
+          {
+            "title": "눈밑지방재배치로 개선할 수 있다? 없다? 성형외과 전문의가 고백합니다.🔥",
+            "channel": "닥터첫번째",
+            "url": "https://www.youtube.com/watch?v=QnFN-36dSlo&pp=ygUh7LKr67KI7Ke47J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "157K"
+          },
+          {
+            "title": "눈밑지방재배치 수술 후 질문 총정리! 빠른 회복을 위한 노하우 대방출",
+            "channel": "닥터첫번째",
+            "url": "https://www.youtube.com/watch?v=kyUv6gPx-Mc&pp=ygUh7LKr67KI7Ke47J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "76K"
+          },
+          {
+            "title": "[N분순삭] 연말연초 인기 성형 수술 TOP3🥇🥈🥉",
+            "channel": "닥터첫번째",
+            "url": "https://www.youtube.com/watch?v=q-xXQKv4R7o&pp=ygUh7LKr67KI7Ke47J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "541"
+          },
+          {
+            "title": "지방이식, 필러 NO!! 또렷한 애교살과 생기 있는 앞볼(앞광대)을 만드는 방법은?(눈밑지방재배치 효과 ↑)",
+            "channel": "닥터첫번째",
+            "url": "https://www.youtube.com/watch?v=DPhdP4FItV8&pp=ygUh7LKr67KI7Ke47J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "34K"
+          },
+          {
+            "title": "Could a forehead lift cause your eyes to have an upward angle?",
+            "channel": "닥터첫번째",
+            "url": "https://www.youtube.com/watch?v=HNnLzJ4GQsk&pp=ygUh7LKr67KI7Ke47J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "7.7K"
+          },
+          {
+            "title": "하안검 재수술로 여신미모 된 사연?!",
+            "channel": "닥터첫번째",
+            "url": "https://www.youtube.com/watch?v=egkgKR2wKjk&pp=ygUh7LKr67KI7Ke47J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "20K"
+          },
+          {
+            "title": "연예인처럼 예쁜 앞볼라인 만들기(feat  눈밑지, 앞광대리프팅)",
+            "channel": "닥터첫번째",
+            "url": "https://www.youtube.com/watch?v=Dx_HSH8r_sQ&pp=ygUh7LKr67KI7Ke47J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "82K"
+          },
+          {
+            "title": "이마거상으로 얼굴 황금비율 찾기 #이마거상 #이마거상술 #이마축소",
+            "channel": "닥터첫번째",
+            "url": "https://www.youtube.com/watch?v=9mlDgCLgR5Y&pp=ygUh7LKr67KI7Ke47J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "16K"
+          },
+          {
+            "title": "Post-operative precautions and care methods from a real patient who underwent lower eyelid fat re...",
+            "channel": "닥터첫번째",
+            "url": "https://www.youtube.com/watch?v=gkk0aZujBNA&pp=ygUh7LKr67KI7Ke47J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "57K"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 7,
+  "opportunity_cost_thb": 93000,
+  "opportunity_cost_krw": 3720000
+}

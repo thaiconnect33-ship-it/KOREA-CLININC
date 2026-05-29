@@ -1,0 +1,147 @@
+{
+  "query": "글램성형외과의원",
+  "generated_at": "2026-05-29T00:08:14.891Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 147,
+      "extra": {
+        "place_id": "2088369284",
+        "name": "글램성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 13,
+        "blog_review_count": 134,
+        "detail_url": "https://m.place.naver.com/place/2088369284/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 3,
+      "extra": {
+        "name": "Results",
+        "rating": 5,
+        "total_reviews": 3,
+        "sample_size": 6,
+        "foreign_language_reviews": 6,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 6
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 273600,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "[글램성형외과] 광대수술, 효과 없는 이유?",
+            "channel": "글램성형외과 | Glam Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=EPfYTOHYxFU&pp=ygUq6riA656o7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "33K views"
+          },
+          {
+            "title": "[글램성형외과] 광대수술, 알고 하면 달라집니다 _ 이태성원장",
+            "channel": "글램성형외과 | Glam Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=fnfvayaSi4c&pp=ygUq6riA656o7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "7.7K views"
+          },
+          {
+            "title": "[글램성형외과] 수술 시간이 길수록 잘하는 걸까?",
+            "channel": "글램성형외과 | Glam Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=xOzTwVhPgQs&pp=ygUq6riA656o7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "79K views"
+          },
+          {
+            "title": "[글램성형외과] 화면발의 완성은 얼굴형✨ 틱톡커 윤곽 3종 후기",
+            "channel": "글램성형외과 | Glam Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=fPjOvwzKXmk&pp=ygUq6riA656o7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "79K views"
+          },
+          {
+            "title": "[글램성형외과] 연예인들이 예쁜 이유? 성형외과 의사가 말합니다",
+            "channel": "글램성형외과 | Glam Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=MQ8hQK5BtBk&pp=ygUq6riA656o7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "3.8K views"
+          },
+          {
+            "title": "[글램성형외과] 직원 성형 브이로그 | 양악수술 1개월차  💬",
+            "channel": "글램성형외과 | Glam Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=bo7Li8AUZTg&pp=ygUq6riA656o7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "5.5K views"
+          },
+          {
+            "title": "[글램성형외과] 양악, 윤곽 한 번에 해도 괜찮은 이유!",
+            "channel": "글램성형외과 | Glam Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=04ENoynmuBU&pp=ygUq6riA656o7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "10K views"
+          },
+          {
+            "title": "[글램성형외과] 성형외과 의사, 얼굴만 봐도 견적 나올까?",
+            "channel": "글램성형외과 | Glam Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=S_lqb1n9ekk&pp=ygUq6riA656o7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "2.1K views"
+          },
+          {
+            "title": "[글램성형외과] 남자 vs 여자, 양악 수술 방법이 다르다? _이태성원장",
+            "channel": "글램성형외과 | Glam Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=erOOLzJ9L74&pp=ygUq6riA656o7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1K views"
+          },
+          {
+            "title": "[글램성형외과] 한눈에 보는 양악+윤곽 수술의 변화｜CT 전후 비교",
+            "channel": "글램성형외과 | Glam Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=ajhQMTcsoRM&pp=ygUq6riA656o7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "2.8K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 3,
+  "opportunity_cost_thb": 97000,
+  "opportunity_cost_krw": 3880000
+}

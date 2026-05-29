@@ -1,0 +1,147 @@
+{
+  "query": "청담에끌라드의원",
+  "generated_at": "2026-05-28T22:20:38.154Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 2050,
+      "extra": {
+        "place_id": "1865201682",
+        "name": "청담에끌라드의원 : 네이버\u001c",
+        "visitor_review_count": 902,
+        "blog_review_count": 1148,
+        "detail_url": "https://m.place.naver.com/place/1865201682/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "청담 에끌라드 의원",
+        "rating": 4.9,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 611306,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "The #1 Must-Have Treatment for 70% of International Patients Visiting Korea?",
+            "channel": "청담에끌라드의원",
+            "url": "https://www.youtube.com/watch?v=88qxQp0lD_o&pp=ygUn7LKt64u07JeQ64GM652865Oc7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "360K views"
+          },
+          {
+            "title": "End Your “Skin Booster Nomad” Life!What Is the 5th-Generation All-in-One Booster, Re2O?",
+            "channel": "청담에끌라드의원",
+            "url": "https://www.youtube.com/watch?v=hCCIhxffosU&pp=ygUn7LKt64u07JeQ64GM652865Oc7J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "10K views"
+          },
+          {
+            "title": "Why Dermatologists from Overseas Visit Cheongdam, and Why I Lecture at Conferences and Seminars..",
+            "channel": "청담에끌라드의원",
+            "url": "https://www.youtube.com/watch?v=FdG1c2lSgec&pp=ygUn7LKt64u07JeQ64GM652865Oc7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "21K views"
+          },
+          {
+            "title": "청담에끌라드의원 박소윤 원장-ELLISYS SENSE \"시술 시 시간·체력 소모가 절반으로 줄고 다운타임 짧아\"",
+            "channel": "D&PS[DNPS Dermatologist and Plastic Surgeon]",
+            "url": "https://www.youtube.com/watch?v=4IIOSbM9aTY&pp=ygUn7LKt64u07JeQ64GM652865Oc7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1.1K views"
+          },
+          {
+            "title": "The 2026 Skin Trend is \"THIS\"! | Cheongdam’s Secret Lifting & Filler Combos (A Global Favorite)",
+            "channel": "청담에끌라드의원",
+            "url": "https://www.youtube.com/watch?v=O9KyLSk099w&pp=ygUn7LKt64u07JeQ64GM652865Oc7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "29K views"
+          },
+          {
+            "title": "A Must-Read Before Picking a Skin Clinic! 3 Ways to Spot a \"Top-Tier\" vs. \"Avoid\" Clinic",
+            "channel": "청담에끌라드의원",
+            "url": "https://www.youtube.com/watch?v=s2urJ4wLdls&pp=ygUn7LKt64u07JeQ64GM652865Oc7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "26K views"
+          },
+          {
+            "title": "효율적인 피부 관리: 비용 부담을 줄이는 방법, 합리적 가격으로 효과 좋은 시술 받기 - 청담에끌라드의원",
+            "channel": "청담에끌라드의원",
+            "url": "https://www.youtube.com/watch?v=5RyZnXeZWCw&pp=ygUn7LKt64u07JeQ64GM652865Oc7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "25K views"
+          },
+          {
+            "title": "청담동 중년 고객님들 동안 시술 공개, 이렇게 피부 관리하면 여러분도 어려질 수 있어요! 청담에끌라드의원",
+            "channel": "청담에끌라드의원",
+            "url": "https://www.youtube.com/watch?v=2N_ie-RJ6Uo&pp=ygUn7LKt64u07JeQ64GM652865Oc7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "4.1K views"
+          },
+          {
+            "title": "Why Isn’t My Melasma Improving? A Dermatologist Explains the Real Cause and the Solution!",
+            "channel": "청담에끌라드의원",
+            "url": "https://www.youtube.com/watch?v=VQzO7j_VS1Y&pp=ygUn7LKt64u07JeQ64GM652865Oc7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "7.8K views"
+          },
+          {
+            "title": "Never get these treatments together: Procedures you shouldn't combine at the dermatologist,",
+            "channel": "청담에끌라드의원",
+            "url": "https://www.youtube.com/watch?v=F9-uNXoaqTI&pp=ygUn7LKt64u07JeQ64GM652865Oc7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "906 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 140000,
+  "opportunity_cost_krw": 5600000
+}

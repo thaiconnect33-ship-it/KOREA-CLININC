@@ -1,0 +1,91 @@
+{
+  "query": "청담디어의원",
+  "generated_at": "2026-05-28T22:19:25.107Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Results",
+        "rating": 4.8,
+        "total_reviews": 0,
+        "sample_size": 9,
+        "foreign_language_reviews": 9,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 9
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 1,
+      "extra": {
+        "total_views": 200,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 1,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 1,
+        "top_videos": [
+          {
+            "title": "원스클리닉 홍보영상",
+            "channel": "원스클리닉.",
+            "url": "https://www.youtube.com/watch?v=XAUPoXjxhsI&pp=ygUn7LKt64u065SU7Ja07J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "200 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 5,
+  "opportunity_cost_thb": 135500,
+  "opportunity_cost_krw": 5420000
+}

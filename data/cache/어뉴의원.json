@@ -1,0 +1,141 @@
+{
+  "query": "어뉴의원",
+  "generated_at": "2026-05-28T23:43:23.711Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 1702,
+      "extra": {
+        "place_id": "33703613",
+        "name": "어뉴의원 : 네이버\u001c",
+        "visitor_review_count": 556,
+        "blog_review_count": 1146,
+        "detail_url": "https://m.place.naver.com/place/33703613/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "어뉴피부과",
+        "rating": 4.8,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 9,
+      "extra": {
+        "total_views": 93550,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 9,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 9,
+        "top_videos": [
+          {
+            "title": "'나만을 위한 피부과', 어뉴의원!",
+            "channel": "어뉴의원 시보경💉",
+            "url": "https://www.youtube.com/watch?v=B8EeHOzsOFk&pp=ygUb7Ja064m07J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "81K views"
+          },
+          {
+            "title": "[어뉴의원] 시그니처 올인원 시술 후 관리",
+            "channel": "IST CREATIVE",
+            "url": "https://www.youtube.com/watch?v=Da3jOkjjeoE&pp=ygUb7Ja064m07J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "12 views"
+          },
+          {
+            "title": "[어뉴의원] 고민중인 분들에게",
+            "channel": "IST CREATIVE",
+            "url": "https://www.youtube.com/watch?v=bmJikK6VRbI&pp=ygUb7Ja064m07J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "42 views"
+          },
+          {
+            "title": "[어뉴의원] 여드름 치료 후 주의사항",
+            "channel": "IST CREATIVE",
+            "url": "https://www.youtube.com/watch?v=s0qJVnT7LfE&pp=ygUb7Ja064m07J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "39 views"
+          },
+          {
+            "title": "[어뉴의원] CO2 레이저 후 관리",
+            "channel": "IST CREATIVE",
+            "url": "https://www.youtube.com/watch?v=TGNj9zDDysA&pp=ygUb7Ja064m07J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "52 views"
+          },
+          {
+            "title": "베트남 한인병원 보험없이 가면 큰일나요! l 직접진료경험ㅣ외국에선 아프지도마라ㅠㅠ",
+            "channel": "벨라의 해외생존기 Bella in the World",
+            "url": "https://www.youtube.com/watch?v=WwE8nqPzF8w&pp=ygUb7Ja064m07J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "6.8K views"
+          },
+          {
+            "title": "[REST의원] REST LIFTING",
+            "channel": "IST CREATIVE",
+            "url": "https://www.youtube.com/watch?v=wJVuZMDvZaw&pp=ygUb7Ja064m07J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "141 views"
+          },
+          {
+            "title": "유명 연예인들이 하얀 피부 만드는 법｜비싼 시술보다 중요한 건 ‘이것’ ｜하얗고 맑은 피부 만드는 사소한 습관들",
+            "channel": "레이저 쏘는 의사언니",
+            "url": "https://www.youtube.com/watch?v=qlPJ-2i1ku8&pp=ygUb7Ja064m07J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "64 views"
+          },
+          {
+            "title": "수술없이 눈물고랑&인디언주름 없애는 법",
+            "channel": "의사先生(선생) 윤정현_ 연세팜스TV(Dr.Yoon)",
+            "url": "https://www.youtube.com/watch?v=o3TiWxVIFzo&pp=ygUb7Ja064m07J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "5.4K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

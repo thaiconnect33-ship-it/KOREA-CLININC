@@ -1,0 +1,147 @@
+{
+  "query": "미금성모의원병원,의원",
+  "generated_at": "2026-05-28T23:50:06.143Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 224,
+      "extra": {
+        "place_id": "13234803",
+        "name": "미금성모의원 : 네이버\u001c",
+        "visitor_review_count": 211,
+        "blog_review_count": 13,
+        "detail_url": "https://m.place.naver.com/place/13234803/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "미금성모의원",
+        "rating": 5,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 4844000,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "대학병원(3차병원) 피부과 잘 이용하기 / 서울성모병원 피부과 박영민",
+            "channel": "의학채널 비온뒤",
+            "url": "https://www.youtube.com/watch?v=P3PBkrNwhBs&pp=ygUl66-46riI7ISx66qo7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "2K views"
+          },
+          {
+            "title": "좋은치과, 양심치과 찾는 방법 3가지만 기억하세요",
+            "channel": "치향저격",
+            "url": "https://www.youtube.com/watch?v=APL-1R7T7Ck&pp=ygUl66-46riI7ISx66qo7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "125K views"
+          },
+          {
+            "title": "[명의] 서울성모병원 김미란 산부인과 전문의 편 / 권순용 박사의 TV자서전 - 명의 V2.0 [1회]/ G1방송 / 20230513",
+            "channel": "G1메디컬플러스",
+            "url": "https://www.youtube.com/watch?v=mWdra2UMV60&pp=ygUl66-46riI7ISx66qo7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "4K views"
+          },
+          {
+            "title": "[서울성모병원] 서울성모병원, 간호￭간병통합서비스 확대",
+            "channel": "서울성모병원TV",
+            "url": "https://www.youtube.com/watch?v=0LMHqzWwgg8&pp=ygUl66-46riI7ISx66qo7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "6.2K views"
+          },
+          {
+            "title": "\"뼈이식 권하면 이렇게 말하세요\" 임플란트 사기 안당하는 방법",
+            "channel": "바른의사 백승우",
+            "url": "https://www.youtube.com/watch?v=V89jviH6mR0&pp=ygUl66-46riI7ISx66qo7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "2.8M views"
+          },
+          {
+            "title": "담낭절제술 어느 병원에서 받는 게 좋을까요? 간담췌 전문의가 직접 알려드립니다! 외과 전문병원 vs. 대학병원",
+            "channel": "기쁨병원(Gibbeum Hospital)",
+            "url": "https://www.youtube.com/watch?v=aPTTl171CK4&pp=ygUl66-46riI7ISx66qo7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "7K views"
+          },
+          {
+            "title": "백내장 수술 잘하는 병원 이것만 기억하세요",
+            "channel": "눈치코치 [강남 에이스 안과]",
+            "url": "https://www.youtube.com/watch?v=wHoEFrdQAnk&pp=ygUl66-46riI7ISx66qo7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "7.8K views"
+          },
+          {
+            "title": "[명의] 신촌세브란스병원 김세헌 이비인후과 전문의 편 / 권순용 박사의 TV자서전 - 명의 20회 / G1방송 / 20220903",
+            "channel": "G1메디컬플러스",
+            "url": "https://www.youtube.com/watch?v=OeyJjyLeNcE&pp=ygUl66-46riI7ISx66qo7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "3.8K views"
+          },
+          {
+            "title": "항문외과? 항외과? 병원 이름의 비밀과 제대로 된 검색법 알려드립니다!",
+            "channel": "응꼬형",
+            "url": "https://www.youtube.com/watch?v=XTtZHvIUeTs&pp=ygUl66-46riI7ISx66qo7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "4.2K views"
+          },
+          {
+            "title": "[명의] 은평성모병원 송현석 정형외과 전문의 편 / 권순용 박사의 TV자서전 - 명의 V2.0 [9회] / G1방송 / 20230715",
+            "channel": "G1메디컬플러스",
+            "url": "https://www.youtube.com/watch?v=YeOY-XKWdfA&pp=ygUl66-46riI7ISx66qo7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "1.5K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

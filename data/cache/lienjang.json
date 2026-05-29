@@ -1,0 +1,199 @@
+{
+  "query": "Lienjang",
+  "generated_at": "2026-05-29T05:43:21.962Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 3292,
+      "extra": {
+        "place_id": "1575813064",
+        "name": "리엔장성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 1834,
+        "blog_review_count": 1458,
+        "detail_url": "https://m.place.naver.com/place/1575813064/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Results",
+        "rating": 4.6,
+        "total_reviews": 0,
+        "sample_size": 6,
+        "foreign_language_reviews": 6,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 6
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 10,
+      "extra": {
+        "threads": [
+          {
+            "title": "Botox Lienjang ทำไมราคาถูกจัง",
+            "url": "https://pantip.com/topic/42798855",
+            "views": 0
+          },
+          {
+            "title": "lienjang ลีเอนจาง ฉีดfillerใต้ตาหน้าแก้มกะหมออะไรดีคะ ระหว่างหมอหมูกะหมอเปรียว",
+            "url": "https://pantip.com/topic/41364353",
+            "views": 0
+          },
+          {
+            "title": "ใครเคยทำLifteraที่คลินิกLienjang Thailandบ้างคะ ต่างจากhifu และ ulthera ยังไงคะ",
+            "url": "https://pantip.com/topic/40971511",
+            "views": 0
+          },
+          {
+            "title": "ใครเคยฉีดโบท็อกลดกรามที่ Lienjang บ้างคะ",
+            "url": "https://pantip.com/topic/40040751",
+            "views": 0
+          },
+          {
+            "title": "ฉีดหน้าเรียว K-VLine ที่ Lienjang Clinic ขอถามประสบการณ์คนที่เคยฉีดหน่อยค่าว่าเป็นยังไงบ้าง ได้ผลรึป่าวคะ",
+            "url": "https://pantip.com/topic/38985367",
+            "views": 0
+          },
+          {
+            "title": "มีมใครเคยไปฉีดmeso หรือกระชับใบหน้าที่lienjang ตรงสยามซ.5บ้างมั้ยคะ อยากฟังรีวิวค่ะ",
+            "url": "https://pantip.com/topic/38584712",
+            "views": 0
+          },
+          {
+            "title": "อยากปากอิ่มๆเหมือนฝรั่งต้องทำยังไงคะ",
+            "url": "https://pantip.com/topic/38363494",
+            "views": 0
+          },
+          {
+            "title": "มีใครเคยฉีด MESO FAT หรือ V-LINE บ้างแล้วคะ!!",
+            "url": "https://pantip.com/topic/37983120",
+            "views": 0
+          },
+          {
+            "title": "ใครเคยฉีดโบท็อลดริ้วรอยบ้างคะ ช่วยแนะนำหน่อยคะ",
+            "url": "https://pantip.com/topic/36378303",
+            "views": 0
+          },
+          {
+            "title": "++Review Filler เสริมจมูกแบบเกาหลี๊..เกาหลี ที่คลินิค Lienjang ณ กังนัม",
+            "url": "https://pantip.com/topic/35875136",
+            "views": 0
+          }
+        ],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 3856731,
+        "foreign_video_count": 20,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 2,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 18
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "Liftera (Korea) Lienjang Plastic surgery",
+            "channel": "Liftera Thai",
+            "url": "https://www.youtube.com/watch?v=yESqTKPIxck&pp=ygUOTGllbmphbmcgS29yZWE%3D",
+            "view_text": "352 views"
+          },
+          {
+            "title": "Lienjang x Medical Korea 2026 | Global Healthcare Merit Award Winner 🏆",
+            "channel": "Lienjang Plastic Surgery & Dermatology",
+            "url": "https://www.youtube.com/watch?v=DbKOWXAFXwo&pp=ygUOTGllbmphbmcgS29yZWE%3D",
+            "view_text": "36 views"
+          },
+          {
+            "title": "Seoul Search pt.4 | Apgujeong nightlife, Lienjang Clinic, Exploring Gangnam, Starfield Library",
+            "channel": "Katja",
+            "url": "https://www.youtube.com/watch?v=voogUTynugo&pp=ygUOTGllbmphbmcgS29yZWE%3D",
+            "view_text": "161 views"
+          },
+          {
+            "title": "ทัวร์โรงพยาบาล Lienjang คลินิกทำผิวที่ใหญ่ที่สุดของเกาหลี | Beauty Surgery",
+            "channel": "Beauty Surgery",
+            "url": "https://www.youtube.com/watch?v=ypE3uCwnIDI&pp=ygUOTGllbmphbmcgS29yZWE%3D",
+            "view_text": "4.4K views"
+          },
+          {
+            "title": "I tried the New Korean \"Goddess\" Skin Treatment",
+            "channel": "Tina Yong",
+            "url": "https://www.youtube.com/watch?v=kyU5-ghlVdQ&pp=ygUOTGllbmphbmcgS29yZWE%3D",
+            "view_text": "1.5M views"
+          },
+          {
+            "title": "TOP 5 Cosmetic Procedures in Korea: What’s Worth Trying?",
+            "channel": "meamo",
+            "url": "https://www.youtube.com/watch?v=2iIg6VOfVTU&pp=ygUOTGllbmphbmcgS29yZWE%3D",
+            "view_text": "16K views"
+          },
+          {
+            "title": "I tried $8000 SKIN TREATMENTS in KOREA! 👀 *I’ve got thoughts...*",
+            "channel": "Beauty Within",
+            "url": "https://www.youtube.com/watch?v=EyQTc8y0lO4&pp=ygUOTGllbmphbmcgS29yZWE%3D",
+            "view_text": "197K views"
+          },
+          {
+            "title": "*BEST* Korean skin treatments in 2025!! (ft. rejuran, pico, fat dissolving treatments, etc!)",
+            "channel": "Jooshica",
+            "url": "https://www.youtube.com/watch?v=ISExL3UPZu0&pp=ygUOTGllbmphbmcgS29yZWE%3D",
+            "view_text": "48K views"
+          },
+          {
+            "title": "💉 I Tried Facial Treatments in Seoul! | Lienjang Clinic Hongdae Experience 🇰🇷| Inmode Fx| Botox",
+            "channel": "Pawneko Travels by Pawsitively Neko",
+            "url": "https://www.youtube.com/watch?v=Rj-IYp-q0-w&pp=ygUOTGllbmphbmcgS29yZWE%3D",
+            "view_text": "5.1K views"
+          },
+          {
+            "title": "Came to Korea for Veneers 🇰🇷 | Full Process + Q&A",
+            "channel": "Lienjang Plastic Surgery & Dermatology",
+            "url": "https://www.youtube.com/watch?v=U1IfPgDclko&pp=ygUOTGllbmphbmcgS29yZWE%3D",
+            "view_text": "61 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 26,
+  "opportunity_cost_thb": 82000,
+  "opportunity_cost_krw": 3280000
+}

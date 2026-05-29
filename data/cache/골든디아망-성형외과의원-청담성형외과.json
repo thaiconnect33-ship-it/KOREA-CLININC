@@ -1,0 +1,146 @@
+{
+  "query": "골든디아망 성형외과의원 청담성형외과",
+  "generated_at": "2026-05-29T05:37:04.777Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 11,
+      "extra": {
+        "name": "Results",
+        "rating": 4.5,
+        "total_reviews": 11,
+        "sample_size": 9,
+        "foreign_language_reviews": 9,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 9
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 14,
+      "extra": {
+        "total_views": 22536,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 14,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 14,
+        "top_videos": [
+          {
+            "title": "골든디아망 성형외과 소개 영상",
+            "channel": "Goldenview TV",
+            "url": "https://www.youtube.com/watch?v=cRYMFYS8vII&pp=ygU76rOo65Og65SU7JWE66edIOyEse2YleyZuOqzvOydmOybkCDssq3ri7TshLHtmJXsmbjqs7wgS29yZWE%3D",
+            "view_text": "15K views"
+          },
+          {
+            "title": "청담 성형외과 대표원장이 말해주는 '피하면 좋은 병원' TOP 5❗",
+            "channel": "Goldenview TV",
+            "url": "https://www.youtube.com/watch?v=6EPGk2FWKGo&pp=ygU76rOo65Og65SU7JWE66edIOyEse2YleyZuOqzvOydmOybkCDssq3ri7TshLHtmJXsmbjqs7wgS29yZWE%3D",
+            "view_text": "298 views"
+          },
+          {
+            "title": "골든디아망성형외과의 의사를 소개 합니다❗ [원장 박민성]",
+            "channel": "Goldenview TV",
+            "url": "https://www.youtube.com/watch?v=I5ljjdwZKQM&pp=ygU76rOo65Og65SU7JWE66edIOyEse2YleyZuOqzvOydmOybkCDssq3ri7TshLHtmJXsmbjqs7wgS29yZWE%3D",
+            "view_text": "142 views"
+          },
+          {
+            "title": "30분만에 또렷한 인중으로?! 골든디아망 'C컬 인중오목술'❗",
+            "channel": "Goldenview TV",
+            "url": "https://www.youtube.com/watch?v=g_ZTfz0NcmE&pp=ygU76rOo65Og65SU7JWE66edIOyEse2YleyZuOqzvOydmOybkCDssq3ri7TshLHtmJXsmbjqs7wgS29yZWE%3D",
+            "view_text": "1K views"
+          },
+          {
+            "title": "[골든뷰] 입꼬리수술&인중축소 일주일차! (Smile lip lift & philtrum reduction 7 days",
+            "channel": "Goldenview TV",
+            "url": "https://www.youtube.com/watch?v=T2eu81DnaLo&pp=ygU76rOo65Og65SU7JWE66edIOyEse2YleyZuOqzvOydmOybkCDssq3ri7TshLHtmJXsmbjqs7wgS29yZWE%3D",
+            "view_text": "3.5K views"
+          },
+          {
+            "title": "아무도 모르게 도톰한 입술을 가지고싶다면?! 입술 점막전진술❗",
+            "channel": "Goldenview TV",
+            "url": "https://www.youtube.com/watch?v=uhQtfHA2qSs&pp=ygU76rOo65Og65SU7JWE66edIOyEse2YleyZuOqzvOydmOybkCDssq3ri7TshLHtmJXsmbjqs7wgS29yZWE%3D",
+            "view_text": "552 views"
+          },
+          {
+            "title": "청담 메디컬스파 르디아망 맞춤수액 프로그램",
+            "channel": "Lediamant",
+            "url": "https://www.youtube.com/watch?v=aTd71rjnKzI&pp=ygU76rOo65Og65SU7JWE66edIOyEse2YleyZuOqzvOydmOybkCDssq3ri7TshLHtmJXsmbjqs7wgS29yZWE%3D",
+            "view_text": "129 views"
+          },
+          {
+            "title": "입꼬리재수술 드디어 한달차입니다",
+            "channel": "Goldenview TV",
+            "url": "https://www.youtube.com/watch?v=_sXl08JCv-c&pp=ygU76rOo65Og65SU7JWE66edIOyEse2YleyZuOqzvOydmOybkCDssq3ri7TshLHtmJXsmbjqs7wgS29yZWE%3D",
+            "view_text": "840 views"
+          },
+          {
+            "title": "Le Diamant Cheongdam 르디아망 청담 오쿠라코세 스파",
+            "channel": "Lediamant",
+            "url": "https://www.youtube.com/watch?v=DsnstLknYuU&pp=ygU76rOo65Og65SU7JWE66edIOyEse2YleyZuOqzvOydmOybkCDssq3ri7TshLHtmJXsmbjqs7wgS29yZWE%3D",
+            "view_text": "127 views"
+          },
+          {
+            "title": "Le Diamant Cheongdam 르 디아망 청담 메디컬 스파",
+            "channel": "Lediamant",
+            "url": "https://www.youtube.com/watch?v=YmMuK64m0Tw&pp=ygU76rOo65Og65SU7JWE66edIOyEse2YleyZuOqzvOydmOybkCDssq3ri7TshLHtmJXsmbjqs7wgS29yZWE%3D",
+            "view_text": "425 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 5,
+  "opportunity_cost_thb": 135500,
+  "opportunity_cost_krw": 5420000
+}

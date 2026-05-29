@@ -1,0 +1,147 @@
+{
+  "query": "루시다의원",
+  "generated_at": "2026-05-28T23:01:02.227Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 13,
+      "extra": {
+        "place_id": "32581614",
+        "name": "루시다의원 : 네이버\u001c",
+        "visitor_review_count": 12,
+        "blog_review_count": 1,
+        "detail_url": "https://m.place.naver.com/place/32581614/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "루시다성형외과",
+        "rating": 4,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 135093,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "#성형외과인테리어#피부과인테리어#병원인테리어-충무로 루시다성형외과.#인천성형외과인테리어#인천피부과인테리어#인천병원인테리어",
+            "channel": "dnf-design",
+            "url": "https://www.youtube.com/watch?v=0vYD37v1zpo&pp=ygUh66Oo7Iuc64uk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "583"
+          },
+          {
+            "title": "도망쳐..지금이야!! 성형외과 블랙리스트 이렇게 거르세요",
+            "channel": "지유미 JIYUMEE",
+            "url": "https://www.youtube.com/watch?v=VK1hIW0QP-g&pp=ygUh66Oo7Iuc64uk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "126K"
+          },
+          {
+            "title": "비바 피부과인테리어. 성형외과인테리어, 60평대 병원인테리어,비바클리닉. 일산피부과",
+            "channel": "신뢰가 가는 공간 인테리어의 시작입니다",
+            "url": "https://www.youtube.com/watch?v=L7ZPr9qQWiY&pp=ygUh66Oo7Iuc64uk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "398"
+          },
+          {
+            "title": "셀럽성형외과",
+            "channel": "유어데브컴파니",
+            "url": "https://www.youtube.com/watch?v=qRNhOPN57Dg&pp=ygUh66Oo7Iuc64uk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "89"
+          },
+          {
+            "title": "제일의원 내과인테리어 피부과인테리어 물리치료실인테리어",
+            "channel": "신뢰가 가는 공간 인테리어의 시작입니다",
+            "url": "https://www.youtube.com/watch?v=Rk7eb1LHXq8&pp=ygUh66Oo7Iuc64uk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "189"
+          },
+          {
+            "title": "100평 모던,중후함의 피부/성형외과 인테리어(모던함과 중후함으로 꾸민 피부과 병원 구경하기)",
+            "channel": "우연D&I",
+            "url": "https://www.youtube.com/watch?v=48yj9nzA0es&pp=ygUh66Oo7Iuc64uk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "1.2K"
+          },
+          {
+            "title": "그리다성형외과 영상으로 둘러보기 / GRIDA PLASTIC SURGERY SLIDESHOW TOUR",
+            "channel": "그리다성형외과GRIDA TV",
+            "url": "https://www.youtube.com/watch?v=xRVEVnd9T98&pp=ygUh66Oo7Iuc64uk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "800"
+          },
+          {
+            "title": "인테리어디자인 병원인테리어 채널소개",
+            "channel": "신뢰가 가는 공간 인테리어의 시작입니다",
+            "url": "https://www.youtube.com/watch?v=s9PVguoST1Y&pp=ygUh66Oo7Iuc64uk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "180"
+          },
+          {
+            "title": "에스 성형외과 피부과 의원. 병원인테리어 예원디자인",
+            "channel": "이웃나라왕",
+            "url": "https://www.youtube.com/watch?v=QZvUu6bns50&pp=ygUh66Oo7Iuc64uk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "64"
+          },
+          {
+            "title": "파주치과 치과인테리어 병원인테리어 성형외과인테리어 안과인테리어",
+            "channel": "신뢰가 가는 공간 인테리어의 시작입니다",
+            "url": "https://www.youtube.com/watch?v=eX110zKsShE&pp=ygUh66Oo7Iuc64uk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "338"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

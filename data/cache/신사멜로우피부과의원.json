@@ -1,0 +1,98 @@
+{
+  "query": "신사멜로우피부과의원",
+  "generated_at": "2026-05-29T05:32:19.973Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Mellow Dermatology Clinic Sinsa Branch",
+        "rating": 4.8,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 2,
+      "extra": {
+        "total_views": 1245000,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 2,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 2,
+        "top_videos": [
+          {
+            "title": "의사들만 몰래받는 S급 가성비! 수백만원 아끼는 만족도 가장 높은 시술을 20년차 피부과 전문의가 알려드립니다.",
+            "channel": "피부는 성현철",
+            "url": "https://www.youtube.com/watch?v=SFlFQByIQ1g&pp=ygUz7Iug7IKs66mc66Gc7Jqw7ZS867aA6rO87J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "913K"
+          },
+          {
+            "title": "“20년동안 제 아내가 가장 만족했던 동안 주사 공개합니다” 강남 피부과 의사가 아내에게 해주는 또래보다 10년 젊어지는 동안주사 3가지",
+            "channel": "피부는 성현철",
+            "url": "https://www.youtube.com/watch?v=z5f78sydJ8U&pp=ygUz7Iug7IKs66mc66Gc7Jqw7ZS867aA6rO87J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "332K"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

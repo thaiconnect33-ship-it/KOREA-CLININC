@@ -1,0 +1,148 @@
+{
+  "query": "압구정리앤스타의원",
+  "generated_at": "2026-05-29T05:59:22.546Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 885,
+      "extra": {
+        "place_id": "2092418109",
+        "name": "압구정리앤스타의원 : 네이버\u001c",
+        "visitor_review_count": 280,
+        "blog_review_count": 605,
+        "detail_url": "https://m.place.naver.com/place/2092418109/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 4,
+      "extra": {
+        "name": "압구정 리앤스타의원",
+        "rating": 5,
+        "total_reviews": 4,
+        "sample_size": 8,
+        "foreign_language_reviews": 8,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 8
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 621124,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "피부·성형 시술 고민 중이라면, 2월 3일을 주목해야 하는 이유",
+            "channel": "오늘도 스타",
+            "url": "https://www.youtube.com/watch?v=1v8iJsJGI_I&pp=ygUt7JWV6rWs7KCV66as7JWk7Iqk7YOA7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "265"
+          },
+          {
+            "title": "#윤곽주사 #지방분해주사 💉 - 효과가 없다..?",
+            "channel": "오늘도 스타",
+            "url": "https://www.youtube.com/watch?v=p5Ra0ueFXyM&pp=ygUt7JWV6rWs7KCV66as7JWk7Iqk7YOA7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "50"
+          },
+          {
+            "title": "\"강남 유명 성형외과서 수술 뒤 눈이 실명됐습니다\" [지금이뉴스] / YTN",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=UyMrX929Q4I&pp=ygUt7JWV6rWs7KCV66as7JWk7Iqk7YOA7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "576K"
+          },
+          {
+            "title": "리앤안의원 성형외과 피부과 소개영상",
+            "channel": "LEO KIM",
+            "url": "https://www.youtube.com/watch?v=uBXPYtcar5Q&pp=ygUt7JWV6rWs7KCV66as7JWk7Iqk7YOA7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "450"
+          },
+          {
+            "title": "#필러 #보톡스 에 대한 오해와 진실 (두둥) 🤫",
+            "channel": "오늘도 스타",
+            "url": "https://www.youtube.com/watch?v=rqV6jEaq2p8&pp=ygUt7JWV6rWs7KCV66as7JWk7Iqk7YOA7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "42"
+          },
+          {
+            "title": "리앤송의원 홍보영상",
+            "channel": "메디캔",
+            "url": "https://www.youtube.com/watch?v=TUL3UP3xZ48&pp=ygUt7JWV6rWs7KCV66as7JWk7Iqk7YOA7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "90"
+          },
+          {
+            "title": "대한민국 문신산업의 역사적 첫걸음! 대한문신사중앙회 인재풀위원회 위촉식 & 정기총회 현장 스케치",
+            "channel": "대한문신사중앙회",
+            "url": "https://www.youtube.com/watch?v=IvwBnHUBUwk&pp=ygUt7JWV6rWs7KCV66as7JWk7Iqk7YOA7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "37"
+          },
+          {
+            "title": "[리앤채움] 미.모.폭.발. 언니들~ 왜! 리앤채움 눈썹문신을 받았나요?",
+            "channel": "리앤채움 피부과",
+            "url": "https://www.youtube.com/watch?v=VbeNo6mv-rQ&pp=ygUt7JWV6rWs7KCV66as7JWk7Iqk7YOA7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.9K"
+          },
+          {
+            "title": "[압구정비앤미] 비앤미를 대표하는 그녀들의 이야기♥",
+            "channel": "BE & ME Plastic Surgery Clinic Korea",
+            "url": "https://www.youtube.com/watch?v=N-wAnvTmIh4&pp=ygUt7JWV6rWs7KCV66as7JWk7Iqk7YOA7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.2K"
+          },
+          {
+            "title": "[바비톡] F5성형외과 이상준원장님을 소개합니다",
+            "channel": "F5_에프오TV",
+            "url": "https://www.youtube.com/watch?v=lsRMhYJ0hEI&pp=ygUt7JWV6rWs7KCV66as7JWk7Iqk7YOA7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "598"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 4,
+  "opportunity_cost_thb": 141000,
+  "opportunity_cost_krw": 5640000
+}

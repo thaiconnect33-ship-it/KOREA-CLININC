@@ -1,0 +1,147 @@
+{
+  "query": "리츠피부과의원",
+  "generated_at": "2026-05-28T23:57:03.767Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 673,
+      "extra": {
+        "place_id": "21818160",
+        "name": "리츠피부과의원 : 네이버\u001c",
+        "visitor_review_count": 594,
+        "blog_review_count": 79,
+        "detail_url": "https://m.place.naver.com/place/21818160/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "리츠피부과의원",
+        "rating": 3,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 1311548,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "\"아프고 돈만 날립니다\" 제모 수만번 해본 의사가 알려주는 10번 해도 그대로인 이유ㅣ레이저 제모 잘하는 방법",
+            "channel": "피부는 성현철",
+            "url": "https://www.youtube.com/watch?v=QqRrAVySy9I&pp=ygUk66as7Lig7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "43K views"
+          },
+          {
+            "title": "(SUB) 피부과 시술 & 관리 총정리💓l 연예인들이 꼭 받는 시술은! l 딱 한가지 시술만 받을 수 있다면 바로 *** l 시술보다 효과 좋은 관리 모음👍 l 피부과 고르는 꿀팁",
+            "channel": "일단이나연 NAYEON",
+            "url": "https://www.youtube.com/watch?v=1x5SomkhsME&pp=ygUk66as7Lig7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "902K views"
+          },
+          {
+            "title": "여드름붉음증, 안면홍조 둘다 치료하는 레이저가 있다고?",
+            "channel": "스타로닉",
+            "url": "https://www.youtube.com/watch?v=_q8WIjQEat4&pp=ygUk66as7Lig7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "399 views"
+          },
+          {
+            "title": "쥬베룩볼륨vs스컬트라, 피부과 원장님이 추천하는 콜라겐부스터는 과연...?!",
+            "channel": "셀리즈피부과의원",
+            "url": "https://www.youtube.com/watch?v=YP9TypJlXag&pp=ygUk66as7Lig7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1K views"
+          },
+          {
+            "title": "[리필하는 남자 ‘이거 궁금했지?’] 대체 이 잡티들 어떻게 없애야 할까??",
+            "channel": "리프팅과 필러하는 남자 리필가이",
+            "url": "https://www.youtube.com/watch?v=gyeIBMoTG7M&pp=ygUk66as7Lig7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1.4K views"
+          },
+          {
+            "title": "수염 레이저제모 얼마나 유지될까? (기계 추천,  가격, 후기)",
+            "channel": "NEW 임파",
+            "url": "https://www.youtube.com/watch?v=KZ1vY0hUS-g&pp=ygUk66as7Lig7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "100K views"
+          },
+          {
+            "title": "원장님처럼 까만 사람은 어떤 레이저가 적합하냐고 ... 물어보시네요^^ 소상히 알려 드리겠습니다.",
+            "channel": "리프팅과 필러하는 남자 리필가이",
+            "url": "https://www.youtube.com/watch?v=mMlb2751r3g&pp=ygUk66as7Lig7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "899 views"
+          },
+          {
+            "title": "의사들이 말해주지 않는 온다 리프팅의 모든 것ㅣ이거 모르면 진짜 호구될 수 있어요..ㅣ동탄온다리프팅ㅣ오산리프팅",
+            "channel": "아는닥터 이원장",
+            "url": "https://www.youtube.com/watch?v=9Dqeh7G1l1E&pp=ygUk66as7Lig7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "32K views"
+          },
+          {
+            "title": "실리프팅 시술 하는 의사의 솔직한 고백",
+            "channel": "닥터씨엘 Dr. CL",
+            "url": "https://www.youtube.com/watch?v=_ssrI3FsZzM&pp=ygUk66as7Lig7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "50K views"
+          },
+          {
+            "title": "[리필하는 남자 ‘이거 궁금했지?’] 의사 스스로 시술을 받냐구요????",
+            "channel": "리프팅과 필러하는 남자 리필가이",
+            "url": "https://www.youtube.com/watch?v=7vIgwdiEuAQ&pp=ygUk66as7Lig7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "325 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

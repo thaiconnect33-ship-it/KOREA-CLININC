@@ -1,0 +1,147 @@
+{
+  "query": "웅선의원",
+  "generated_at": "2026-05-28T23:41:31.507Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 364,
+      "extra": {
+        "place_id": "37333055",
+        "name": "웅선의원 : 네이버\u001c",
+        "visitor_review_count": 141,
+        "blog_review_count": 223,
+        "detail_url": "https://m.place.naver.com/place/37333055/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "웅선의원",
+        "rating": 4.5,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 701305,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "탈모치료 성공을 위한 꿀팁 4가지~!",
+            "channel": "웅선의원- 홍성재 원장 탈모교실 (웅선클리닉)",
+            "url": "https://www.youtube.com/watch?v=Jsy2N_lzdsg&pp=ygUb7JuF7ISg7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "10K views"
+          },
+          {
+            "title": "원형탈모의 원인과 치료",
+            "channel": "웅선의원- 홍성재 원장 탈모교실 (웅선클리닉)",
+            "url": "https://www.youtube.com/watch?v=rlDRbp-8dk8&pp=ygUb7JuF7ISg7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "4.5K views"
+          },
+          {
+            "title": "👨‍🦲머리 다 빠지는 전두탈모 되기 싫다면? 필수시청! ㅣ 전두탈모(온머리탈모증) 치료방법, 치료시기 총정리",
+            "channel": "웅선의원- 홍성재 원장 탈모교실 (웅선클리닉)",
+            "url": "https://www.youtube.com/watch?v=sMhd4TVvyAM&pp=ygUb7JuF7ISg7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "5.2K views"
+          },
+          {
+            "title": "노화로 인한 탈모, 치료법은?",
+            "channel": "웅선의원- 홍성재 원장 탈모교실 (웅선클리닉)",
+            "url": "https://www.youtube.com/watch?v=ObTvAHb1L58&pp=ygUb7JuF7ISg7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "4.1K views"
+          },
+          {
+            "title": "탈모? 이 치료법을 모른다면 100% 더 빠집니다.",
+            "channel": "웅선의원- 홍성재 원장 탈모교실 (웅선클리닉)",
+            "url": "https://www.youtube.com/watch?v=ZEXyXszNkCQ&pp=ygUb7JuF7ISg7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1.3K views"
+          },
+          {
+            "title": "탈모약 부작용 있는 분들~~ 탈모약 안먹고 탈모치료하는 방법",
+            "channel": "웅선의원- 홍성재 원장 탈모교실 (웅선클리닉)",
+            "url": "https://www.youtube.com/watch?v=rVTcXJNT6uY&pp=ygUb7JuF7ISg7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "4.8K views"
+          },
+          {
+            "title": "여성탈모? 머리 빠진다고 다 탈모가 아닙니다.",
+            "channel": "웅선의원- 홍성재 원장 탈모교실 (웅선클리닉)",
+            "url": "https://www.youtube.com/watch?v=WB7TP645W4s&pp=ygUb7JuF7ISg7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "389 views"
+          },
+          {
+            "title": "줄기세포 탈모치료 (줄기세포의 정의와 탈모치료 효과)",
+            "channel": "웅선의원- 홍성재 원장 탈모교실 (웅선클리닉)",
+            "url": "https://www.youtube.com/watch?v=e9yLjB6Pfew&pp=ygUb7JuF7ISg7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "4K views"
+          },
+          {
+            "title": "(제40강) 레이저로 탈모치료 될 수 있을까?",
+            "channel": "웅선의원- 홍성재 원장 탈모교실 (웅선클리닉)",
+            "url": "https://www.youtube.com/watch?v=mgn5R13utTw&pp=ygUb7JuF7ISg7J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "9K views"
+          },
+          {
+            "title": "탈모와 탈모치료, 애니메이션으로 쉽게 배우자~!",
+            "channel": "웅선의원- 홍성재 원장 탈모교실 (웅선클리닉)",
+            "url": "https://www.youtube.com/watch?v=Nv6SizEjDdo&pp=ygUb7JuF7ISg7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "590K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

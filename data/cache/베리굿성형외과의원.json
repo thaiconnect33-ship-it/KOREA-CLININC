@@ -1,0 +1,145 @@
+{
+  "query": "베리굿성형외과의원",
+  "generated_at": "2026-05-29T00:21:02.431Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 381,
+      "extra": {
+        "name": "Very Good Plastic Surgery",
+        "rating": 4.9,
+        "total_reviews": 381,
+        "sample_size": 30,
+        "foreign_language_reviews": 30,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 30
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 38793,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "[태성형외과] 공개클리닉 프로필성형 부산 태성형외과 김기태원장 20081208",
+            "channel": "kitae kim",
+            "url": "https://www.youtube.com/watch?v=0pPRnS3LvLA&pp=ygUz67Kg66as6rW_7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "139 views"
+          },
+          {
+            "title": "예뻐진 사람들이 추천하는 디에이 성형외과",
+            "channel": "디에이성형외과 D.A Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=UvwqdfVCXKo&pp=ygUz67Kg66as6rW_7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "310 views"
+          },
+          {
+            "title": "[성형외과추천] 클로엔성형외과 1분소.개.",
+            "channel": "클로엔",
+            "url": "https://www.youtube.com/watch?v=36vHLbWKMbs&pp=ygUz67Kg66as6rW_7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "282 views"
+          },
+          {
+            "title": "트임의 종류와 효과 총정리!  ㅣ가미성형외과 박건욱 원장",
+            "channel": "가미성형외과",
+            "url": "https://www.youtube.com/watch?v=jNd5hUrPGrU&pp=ygUz67Kg66as6rW_7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "3.6K views"
+          },
+          {
+            "title": "안면거상수술 절개범위와 흉터유무, 통증 정도는? [안면거상술잘하는곳 - 시너지성형외과]",
+            "channel": "시너지성형외과",
+            "url": "https://www.youtube.com/watch?v=g-r7zVmYkjM&pp=ygUz67Kg66as6rW_7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.4K views"
+          },
+          {
+            "title": "안면거상술하면 안 되는 사람도 있나요? 정경인 원장님의 답변은👀??",
+            "channel": "시너지성형외과",
+            "url": "https://www.youtube.com/watch?v=tIlxTrMrCXA&pp=ygUz67Kg66as6rW_7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "621 views"
+          },
+          {
+            "title": "K성형외과병원,닥터케이티비,닥터KTV - 첫 병원급 성형외과, K성형외과병원 소개",
+            "channel": "닥 터 K - T V D r . K",
+            "url": "https://www.youtube.com/watch?v=N9f3ajovb30&pp=ygUz67Kg66as6rW_7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "432 views"
+          },
+          {
+            "title": "시너지성형외과에서 안면거상수술을 받은 62세 女,  7개월 후 어떤 모습일지? 영상을 통해 확인해 보세요👀",
+            "channel": "시너지성형외과",
+            "url": "https://www.youtube.com/watch?v=AZ4BrBzlSWQ&pp=ygUz67Kg66as6rW_7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "6.1K views"
+          },
+          {
+            "title": "[시연용] d0071aako_눈 성형수술 후 주의사항 안내",
+            "channel": "temp 003",
+            "url": "https://www.youtube.com/watch?v=Ga6Ami_wgp8&pp=ygUz67Kg66as6rW_7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "12 views"
+          },
+          {
+            "title": "가슴수술 고민이라면? / 수술 전, 후 꼭 필요한 부분!",
+            "channel": "부산 서면 리노보의원",
+            "url": "https://www.youtube.com/watch?v=PwUXhKAfOcQ&pp=ygUz67Kg66as6rW_7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "3.5K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 15,
+  "opportunity_cost_thb": 85000,
+  "opportunity_cost_krw": 3400000
+}

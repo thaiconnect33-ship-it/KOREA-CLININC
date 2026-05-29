@@ -1,0 +1,147 @@
+{
+  "query": "윤정섭성형외과의원",
+  "generated_at": "2026-05-28T23:32:08.307Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 35,
+      "extra": {
+        "place_id": "12005212",
+        "name": "윤정섭성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 12,
+        "blog_review_count": 23,
+        "detail_url": "https://m.place.naver.com/place/12005212/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "윤정섭성형외과의원",
+        "rating": 3,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 16,
+      "extra": {
+        "total_views": 13751,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 16,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 16,
+        "top_videos": [
+          {
+            "title": "[닥터뷰] 윤정섭성형외과 윤정섭원장님",
+            "channel": "coding_stuff",
+            "url": "https://www.youtube.com/watch?v=8j90U1-9Jxw&pp=ygUt7Jyk7KCV7ISt7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.1K views"
+          },
+          {
+            "title": "안녕하세요! 미드림성형외과입니다!",
+            "channel": "섬세한 백박사",
+            "url": "https://www.youtube.com/watch?v=zLhkWBjQBYU&pp=ygUt7Jyk7KCV7ISt7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.8K views"
+          },
+          {
+            "title": "[닥터TV] 가슴 재수술은 더 조심해야한다?! 디에이성형외과의원",
+            "channel": "디에이성형외과 D.A Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=Pbl4yCOD9GE&pp=ygUt7Jyk7KCV7ISt7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "4.4K views"
+          },
+          {
+            "title": "[닥터뷰] 그레이스성형외과의원 이혜리 원장님",
+            "channel": "coding_stuff",
+            "url": "https://www.youtube.com/watch?v=7gX3s_eVrZs&pp=ygUt7Jyk7KCV7ISt7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "326 views"
+          },
+          {
+            "title": "너 정말 예쁘다 ! 디에이성형외과의원",
+            "channel": "디에이성형외과 D.A Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=_kjDxaUCxPo&pp=ygUt7Jyk7KCV7ISt7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.2K views"
+          },
+          {
+            "title": "류재억 원장님이 궁금해요! 원장님과 토크토크",
+            "channel": "고고성형외과",
+            "url": "https://www.youtube.com/watch?v=3vzOTMJrSa8&pp=ygUt7Jyk7KCV7ISt7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "256 views"
+          },
+          {
+            "title": "[구리성형외과] 코성형 잘하는곳 -구리에스필클리닉",
+            "channel": "한남희",
+            "url": "https://www.youtube.com/watch?v=MTiwk-0mmEI&pp=ygUt7Jyk7KCV7ISt7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "87 views"
+          },
+          {
+            "title": "[#김성훈성형외과] 신논현역에서 쉽고 빠르게 찾아가기! -지하철편-",
+            "channel": "에스에이치TV - SH PLASTIC SURGERY",
+            "url": "https://www.youtube.com/watch?v=UkMoNcryC-g&pp=ygUt7Jyk7KCV7ISt7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "332 views"
+          },
+          {
+            "title": "【에이탑실장의 변신과정 2탄】 윤곽후 늘어나고 처진 얼굴라인 되찾기~!! 다시 동안 face 되는 법💘에이탑성형외과/ATOP plastic surgery/(feat:이한정원장)",
+            "channel": "에이탑성형외과의원",
+            "url": "https://www.youtube.com/watch?v=3EYAEVuCD0g&pp=ygUt7Jyk7KCV7ISt7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.5K views"
+          },
+          {
+            "title": "[구리성형외과] 눈코성형은 역시 -  구리에스필의원",
+            "channel": "한남희",
+            "url": "https://www.youtube.com/watch?v=9YqHGtORVuw&pp=ygUt7Jyk7KCV7ISt7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "92 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

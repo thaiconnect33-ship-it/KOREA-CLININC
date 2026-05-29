@@ -1,0 +1,145 @@
+{
+  "query": "이유구강악안면외과치과의원",
+  "generated_at": "2026-05-29T00:11:17.097Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "EU oral & maxillofacial surgery",
+        "rating": 4.8,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 97867,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "사랑니를 구강악안면외과에서 뽑아야 하는 이유...? ㅣ와이구강악안면외과 치과의원",
+            "channel": "이석재의 양악생활",
+            "url": "https://www.youtube.com/watch?v=N5HFiRgf11M&pp=ygU57J207Jyg6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQ7Yah7Yah7LmY6rO8IEtvcmVh",
+            "view_text": "3.3K views"
+          },
+          {
+            "title": "Great Tips from Orthopedic and Oral and Maxillofacial Surgeons! | Geongang It Suda | May 9",
+            "channel": "대전MBC",
+            "url": "https://www.youtube.com/watch?v=ctwv33Mfc2M&pp=ygU57J207Jyg6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQ7Yah7Yah7LmY6rO8IEtvcmVh",
+            "view_text": "1.9K views"
+          },
+          {
+            "title": "🔥저희는 치과의사입니다🔥 #구강악안면외과 ㅣ 얼굴뼈 주민센터",
+            "channel": "얼굴뼈 주민센터",
+            "url": "https://www.youtube.com/watch?v=BBh-ZfsXCjM&pp=ygU57J207Jyg6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQ7Yah7Yah7LmY6rO8IEtvcmVh",
+            "view_text": "14K views"
+          },
+          {
+            "title": "3. 수술시기 : 양악수술 언제 해야 하나요?",
+            "channel": "턱수술의 모든 것, 양달TV",
+            "url": "https://www.youtube.com/watch?v=bj6MgeY-iIw&pp=ygU57J207Jyg6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQ7Yah7Yah7LmY6rO8IEtvcmVh",
+            "view_text": "1.5K views"
+          },
+          {
+            "title": "양악수술, 상담 시 참고하면 좋은 Tip",
+            "channel": "이유구강악안면외과",
+            "url": "https://www.youtube.com/watch?v=Hx0FPhmzV_g&pp=ygU57J207Jyg6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQ7Yah7Yah7LmY6rO8IEtvcmVh",
+            "view_text": "2.6K views"
+          },
+          {
+            "title": "Will double jaw surgery and facial contouring surgery cause sagging skin? | Leeyu Oral and Maxill...",
+            "channel": "이유구강악안면외과",
+            "url": "https://www.youtube.com/watch?v=uaJPQaz_iWI&pp=ygU57J207Jyg6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQ7Yah7Yah7LmY6rO8IEtvcmVh",
+            "view_text": "43K views"
+          },
+          {
+            "title": "교합면 회전술! 양악 회전술 알고싶어? ㅣ 이유구강악안면외과",
+            "channel": "이유구강악안면외과",
+            "url": "https://www.youtube.com/watch?v=S0dvo1AHBWA&pp=ygU57J207Jyg6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQ7Yah7Yah7LmY6rO8IEtvcmVh",
+            "view_text": "6.8K views"
+          },
+          {
+            "title": "저는 치과보철과 전문의 그리고 구강악안면외과 전문의 입니다. - 보스톤스마트치과의원 김종엽 원장",
+            "channel": "김종엽원장의 치과이야기",
+            "url": "https://www.youtube.com/watch?v=xFtHL3Jlqog&pp=ygU57J207Jyg6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQ7Yah7Yah7LmY6rO8IEtvcmVh",
+            "view_text": "799 views"
+          },
+          {
+            "title": "명의 - Best Doctors_구강악안면외과 전문의 이백수 교수_#005",
+            "channel": "EBSDocumentary (EBS 다큐)",
+            "url": "https://www.youtube.com/watch?v=itYNWhKzx6U&pp=ygU57J207Jyg6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQ7Yah7Yah7LmY6rO8IEtvcmVh",
+            "view_text": "1K views"
+          },
+          {
+            "title": "얼굴뼈가 변하는 과정? 구강악안면외과의 양악수술, 윤곽수술 1년의 과정",
+            "channel": "강남 제아치과 구강악안면외과 & 교정과",
+            "url": "https://www.youtube.com/watch?v=d_hWOpWeBTk&pp=ygU57J207Jyg6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQ7Yah7Yah7LmY6rO8IEtvcmVh",
+            "view_text": "2.5K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

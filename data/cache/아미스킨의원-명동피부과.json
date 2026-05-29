@@ -1,0 +1,147 @@
+{
+  "query": "아미스킨의원 명동피부과",
+  "generated_at": "2026-05-28T23:08:28.197Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 1651,
+      "extra": {
+        "place_id": "20149846",
+        "name": "아미스킨의원 명동 : 네이버\u001c",
+        "visitor_review_count": 771,
+        "blog_review_count": 880,
+        "detail_url": "https://m.place.naver.com/place/20149846/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "아미스킨의원 명동 amiskin(Myeongdong)",
+        "rating": 4.5,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 4953,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "편평사마귀 예방은 딱 두 가지만 지키세요 #피부관리 #사마귀 #아미스킨다빼자",
+            "channel": "아미스킨클리닉",
+            "url": "https://www.youtube.com/watch?v=WHMDgbniLuU&pp=ygUo7JWE66-47Iqk7YKo7J2Y7JuQIOuqheuPme2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "568 views"
+          },
+          {
+            "title": "피부관리 필요할 때, 명동역 2분 피부클리닉 #명동 #명동역 #아미스킨의원",
+            "channel": "아미스킨클리닉",
+            "url": "https://www.youtube.com/watch?v=kV7k2PtZ5PU&pp=ygUo7JWE66-47Iqk7YKo7J2Y7JuQIOuqheuPme2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "292 views"
+          },
+          {
+            "title": "사마귀? 비립종? 한관종? 구분 안 해도 됩니다! 원장이 실제 쓰는 최단 제거 공식은? #비립종 #사마귀 #피부관리 #환절기피부관리",
+            "channel": "아미스킨클리닉",
+            "url": "https://www.youtube.com/watch?v=agrAsWQ3UpE&pp=ygUo7JWE66-47Iqk7YKo7J2Y7JuQIOuqheuPme2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "253 views"
+          },
+          {
+            "title": "기미 주근깨 없애는 두 가지 방법 | 클라리티레이저, 토닝레이저 | 아미스킨의원",
+            "channel": "아미스킨클리닉",
+            "url": "https://www.youtube.com/watch?v=GdfYHCsafmI&pp=ygUo7JWE66-47Iqk7YKo7J2Y7JuQIOuqheuPme2UvOu2gOqzvCBLb3JlYdIHCQkNCwGHKiGM7w%3D%3D",
+            "view_text": "266 views"
+          },
+          {
+            "title": "피로회복 원한다면 이 수액 추천 #칵테일마이어스 #수액추천 #아미스킨의원 #명동피부과 #강남피부과",
+            "channel": "아미스킨클리닉",
+            "url": "https://www.youtube.com/watch?v=6ZNOREA8WiQ&pp=ygUo7JWE66-47Iqk7YKo7J2Y7JuQIOuqheuPme2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "87 views"
+          },
+          {
+            "title": "상황별 스킨부스터💉 총정리😉| 리쥬란, 리제닌, 엑소좀, 물광주사, 연어주사, 아미스킨의원",
+            "channel": "아미스킨클리닉",
+            "url": "https://www.youtube.com/watch?v=zYToqptW5BA&pp=ygUo7JWE66-47Iqk7YKo7J2Y7JuQIOuqheuPme2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "320 views"
+          },
+          {
+            "title": "아미스킨, 속부터 당겨주는 동안얼굴 메이킹 프로젝트!",
+            "channel": "아미스킨클리닉",
+            "url": "https://www.youtube.com/watch?v=qL6M4SM5Seo&pp=ygUo7JWE66-47Iqk7YKo7J2Y7JuQIOuqheuPme2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "192 views"
+          },
+          {
+            "title": "레이저 토닝, 한 번에 안 되는 이유 | 색소질환, 레이저토닝, 토닝레이저, 아미스킨의원",
+            "channel": "아미스킨클리닉",
+            "url": "https://www.youtube.com/watch?v=HD7T4goXwwY&pp=ygUo7JWE66-47Iqk7YKo7J2Y7JuQIOuqheuPme2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "63 views"
+          },
+          {
+            "title": "절대 맞으면 안 되는 주사❌ 알려드림 | 엑소좀, 리제닌, 필로르가 | 아미스킨의원",
+            "channel": "아미스킨클리닉",
+            "url": "https://www.youtube.com/watch?v=Xv8c4QkUDFg&pp=ygUo7JWE66-47Iqk7YKo7J2Y7JuQIOuqheuPme2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "403 views"
+          },
+          {
+            "title": "갈수록 얼굴이 커지는 건에 대하여.mp4 | 얼굴소멸주사, 무중력주사 | 아미스킨의원",
+            "channel": "아미스킨클리닉",
+            "url": "https://www.youtube.com/watch?v=Bi4zdaCSJtA&pp=ygUo7JWE66-47Iqk7YKo7J2Y7JuQIOuqheuPme2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "122 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

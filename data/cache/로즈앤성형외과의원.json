@@ -1,0 +1,136 @@
+{
+  "query": "로즈앤성형외과의원",
+  "generated_at": "2026-05-28T23:46:53.630Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "Google Maps 결과 없음",
+        "foreign_language_reviews": 0
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 1488418,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "성형외과의사가 좋아하는 코수술, 과연 내 코는 의사가 좋아하는 코일까? 성형빨 잘받는 코! 성형외과전문의 오민",
+            "channel": "오엠성형외과 OM Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=MKnY0qsg9Ko&pp=ygUz66Gc7KaI7JWk7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "37K views"
+          },
+          {
+            "title": "정경인 대표원장님(성형외과전문의)이 말하는 '시너지 효과'란? 【시너지성형외과 - SYNERGY STORY #02】",
+            "channel": "시너지성형외과",
+            "url": "https://www.youtube.com/watch?v=3VdB8PXT0Sc&pp=ygUz66Gc7KaI7JWk7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "263 views"
+          },
+          {
+            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUz66Gc7KaI7JWk7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1M views"
+          },
+          {
+            "title": "'성형 전→성형 후' 과장 광고·후기…유명 성형외과 적발 / SBS",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=SvbHboZOVCE&pp=ygUz66Gc7KaI7JWk7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "5.9K views"
+          },
+          {
+            "title": "재수술이 많은 코 성형? 재수술 없이 한번에 만족하는 방법 - 진짜 성형 이야기#04 코성형",
+            "channel": "굿라이프",
+            "url": "https://www.youtube.com/watch?v=5rKC9Y9Slz0&pp=ygUz66Gc7KaI7JWk7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "23K views"
+          },
+          {
+            "title": "[동아TV 뷰티앤 부티 시즌4] 김석한 원장님 출연! 가슴성형에 대한 모든 것! 슬리피, 홍수현, 가슴보형물, 세빈마텍 [OPERA Plastic Surgery 오페라성형외과]",
+            "channel": "오페라성형외과",
+            "url": "https://www.youtube.com/watch?v=CoNqya7N8Ik&pp=ygUz66Gc7KaI7JWk7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1K views"
+          },
+          {
+            "title": "자연스러운코 vs 자연스러운데 화려한코 vs 그냥 화려한코, 어떻게 구별해? 그 기준부터 수술 난이도까지! 성형외과전문의 오민",
+            "channel": "오엠성형외과 OM Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=o1Mw3fzoNBs&pp=ygUz66Gc7KaI7JWk7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "79K views"
+          },
+          {
+            "title": "눈성형,코성형 수술기구 전격 공개! (성형외과 수술실에서 무슨일이 일어날까 3편)",
+            "channel": "닥터혜자",
+            "url": "https://www.youtube.com/watch?v=FIIqCKR4nKk&pp=ygUz66Gc7KaI7JWk7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "9.2K views"
+          },
+          {
+            "title": "ㅂㄹㅂㅌ인터뷰] 논현동 신의 손, 信손 노상훈 원장님",
+            "channel": "coding_stuff",
+            "url": "https://www.youtube.com/watch?v=DrajZjakTsc&pp=ygUz66Gc7KaI7JWk7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "9.6K views"
+          },
+          {
+            "title": "눈밑지방 수술의 최적기는? / [김형수의 더마talk] 서울에이치피부과 김형수",
+            "channel": "의학채널 비온뒤",
+            "url": "https://www.youtube.com/watch?v=FWSwps4D8Eg&pp=ygUz66Gc7KaI7JWk7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "30K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

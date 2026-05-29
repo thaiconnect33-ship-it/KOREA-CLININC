@@ -1,0 +1,145 @@
+{
+  "query": "오가나셀피부과의원 청담본점",
+  "generated_at": "2026-05-28T22:23:43.177Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Oganacell Dermatology Clinic Cheongdam Main Branch",
+        "rating": 4.8,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 12,
+      "extra": {
+        "total_views": 91359,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 12,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 12,
+        "top_videos": [
+          {
+            "title": "흉터 치료를 해도 안 낫는 이유, 대부분 이걸 몰라요ㅣ흉터, 얼굴흉터, 여드름흉터, 피부과 여드름 흉터, 여드름 흉터 치료, 동대문 피부과, 청량리 피부과",
+            "channel": "피부구조대 오가나셀",
+            "url": "https://www.youtube.com/watch?v=ZjUa0c8VEvY&pp=ygU97Jik6rCA64KY7IWA7ZS867aA6rO87J2Y7JuQIOyyreuLtOuzuOygkO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "4.2K views"
+          },
+          {
+            "title": "K뷰티 일본 도쿄에 상륙! 오가나셀 긴자점 오픈🥳ㅣ피부, 피부과, 일본 피부과, 도쿄 피부과, 긴자 피부과, 청담 피부과, 줄기세포 주사, 일본 줄기세포, 일본 성형,일본 성형외과",
+            "channel": "피부구조대 오가나셀",
+            "url": "https://www.youtube.com/watch?v=bIJnF0YszQg&pp=ygU97Jik6rCA64KY7IWA7ZS867aA6rO87J2Y7JuQIOyyreuLtOuzuOygkO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "388 views"
+          },
+          {
+            "title": "홍조 고민? 붉은기 싹~ 빼는 최고의 방법!ㅣ주사피부염, 홍조 없애는 방법, 브이빔 퍼펙타, 스무스빔, 스킨부스터, 강남피부과, 청담피부과",
+            "channel": "피부구조대 오가나셀",
+            "url": "https://www.youtube.com/watch?v=Qq3rKODlMY4&pp=ygU97Jik6rCA64KY7IWA7ZS867aA6rO87J2Y7JuQIOyyreuLtOuzuOygkO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "5.1K views"
+          },
+          {
+            "title": "문신 제거, 생각보다 얼마나 아플까?ㅣ문신제거, 문신제거 비용, 문신제거 피부과, 문신제거 레이저, 문신제거 후기, 문신제거 병원, 눈썹 문신 제거, 타투 제거, 청담피부과",
+            "channel": "피부구조대 오가나셀",
+            "url": "https://www.youtube.com/watch?v=3EOopqXIRG8&pp=ygU97Jik6rCA64KY7IWA7ZS867aA6rO87J2Y7JuQIOyyreuLtOuzuOygkO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "1.6K views"
+          },
+          {
+            "title": "2026 피부 트렌드부터 핫한 시술까지 알려드립니다!ㅣ오가나, 청담 피부과, 고우리, 액상 PCL, 스킨부스터, 콜라겐부스터, 글로벌 매거진, 트렌드, 탄력, 리프팅, 물광",
+            "channel": "피부구조대 오가나셀",
+            "url": "https://www.youtube.com/watch?v=p7R1OovqyNI&pp=ygU97Jik6rCA64KY7IWA7ZS867aA6rO87J2Y7JuQIOyyreuLtOuzuOygkO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "1.5K views"
+          },
+          {
+            "title": "쥬베룩? 리쥬란? 스킨부스터 효과 극대화 하는 방법 #피부 #스킨부스터",
+            "channel": "피부구조대 오가나셀",
+            "url": "https://www.youtube.com/watch?v=aDivzhjTcUc&pp=ygU97Jik6rCA64KY7IWA7ZS867aA6rO87J2Y7JuQIOyyreuLtOuzuOygkO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "7.5K views"
+          },
+          {
+            "title": "손, 발톱 무좀이 왜 생기는지. 어떻게 관리하고 치료하는지 알려드립니다│무좀",
+            "channel": "피부구조대 오가나셀",
+            "url": "https://www.youtube.com/watch?v=C2I-MzQ9wMU&pp=ygU97Jik6rCA64KY7IWA7ZS867aA6rO87J2Y7JuQIOyyreuLtOuzuOygkO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "771 views"
+          },
+          {
+            "title": "흉터에 이어 리프팅까지 성지가 된 이유ㅣ피부과 전문의, 동대문 피부과, 피부관리, 피부과 시술 추천, 써마지, 흉터, 여드름 흉터, 스킨부스터, 콜라겐부스터, 고우리",
+            "channel": "피부구조대 오가나셀",
+            "url": "https://www.youtube.com/watch?v=5U-H9mmpxi0&pp=ygU97Jik6rCA64KY7IWA7ZS867aA6rO87J2Y7JuQIOyyreuLtOuzuOygkO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "1.7K views"
+          },
+          {
+            "title": "흉터 치료 난이도 MAX! 아이스픽 스카 진짜 치료가 될까?ㅣ여드름, 여드름흉터, 흉터, 얼굴흉터, 여드름 흉터 치료, 동대문 피부과, 청량리 피부과",
+            "channel": "피부구조대 오가나셀",
+            "url": "https://www.youtube.com/watch?v=W8BVgejs49Q&pp=ygU97Jik6rCA64KY7IWA7ZS867aA6rO87J2Y7JuQIOyyreuLtOuzuOygkO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "7K views"
+          },
+          {
+            "title": "How Much Can Acne Scars Heal? Dermatologists Shares Example Cases",
+            "channel": "피부구조대 오가나셀",
+            "url": "https://www.youtube.com/watch?v=RP41GzINVmI&pp=ygU97Jik6rCA64KY7IWA7ZS867aA6rO87J2Y7JuQIOyyreuLtOuzuOygkO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "41K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 140000,
+  "opportunity_cost_krw": 5600000
+}

@@ -1,0 +1,145 @@
+{
+  "query": "힐링성형외과의원",
+  "generated_at": "2026-05-28T23:33:32.612Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 12,
+      "extra": {
+        "name": "힐링성형외과의원",
+        "rating": 5,
+        "total_reviews": 12,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 3219381,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "[홍진주의 성형 Q&A] #5. 성형, 선택의 딜레마 '매몰 vs 절개' (제이제이성형외과 홍진주 원장)",
+            "channel": "의학채널 비온뒤",
+            "url": "https://www.youtube.com/watch?v=weJT94cyHbI&pp=ygUw7Z6Q66eB7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "5.8K"
+          },
+          {
+            "title": "[단독] 강남 성형외과에 '분통'…\"근육 썩고 사경 헤맸다\" / SBS 8뉴스",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=svfX3-lNpIw&pp=ygUw7Z6Q66eB7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "2.4M"
+          },
+          {
+            "title": "[Playlist]청담 압구정 성형외과, 피부과에서 주구장창 틀어주는 음악 플레이리스트",
+            "channel": "TalkingValve 토킹밸브",
+            "url": "https://www.youtube.com/watch?v=oqwNUNa2wbE&list=RDoqwNUNa2wbE&start_radio=1&pp=ygUw7Z6Q66eB7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVhoAcB",
+            "view_text": "185K"
+          },
+          {
+            "title": "안면거상수술하면 목주름도 없어진다? - 【feat. 성형외과전문의】",
+            "channel": "시너지성형외과",
+            "url": "https://www.youtube.com/watch?v=AcdmoYXAc4Q&pp=ygUw7Z6Q66eB7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "41K"
+          },
+          {
+            "title": "🎬더라이브 l 무엇이든 물어성형💡 (상처 치료, 흉터 관리 및 치료) #가슴성형 #가슴수술 #상처치료 #흉터관리 #흉터치료",
+            "channel": "더성형외과",
+            "url": "https://www.youtube.com/watch?v=SQQ6fuhsTok&pp=ygUw7Z6Q66eB7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "466"
+          },
+          {
+            "title": "예뻐진 사람들이 추천하는 디에이 성형외과",
+            "channel": "디에이성형외과 D.A Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=UvwqdfVCXKo&pp=ygUw7Z6Q66eB7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "310"
+          },
+          {
+            "title": "눈성형,코성형 수술기구 전격 공개! (성형외과 수술실에서 무슨일이 일어날까 3편)",
+            "channel": "닥터혜자",
+            "url": "https://www.youtube.com/watch?v=FIIqCKR4nKk&pp=ygUw7Z6Q66eB7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "9.2K"
+          },
+          {
+            "title": "[태성형외과] 톡톡보험설계 해운대 태 성형외과 김기태 원장 출연분",
+            "channel": "kitae kim",
+            "url": "https://www.youtube.com/watch?v=Cv_DPgsGEdc&pp=ygUw7Z6Q66eB7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "74"
+          },
+          {
+            "title": "쌍커풀 수술 '자연유착' 이 궁금하다 ! (feat.친절상담)",
+            "channel": "드레스성형외과의원",
+            "url": "https://www.youtube.com/watch?v=I1Hqwbo1N8o&pp=ygUw7Z6Q66eB7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "13K"
+          },
+          {
+            "title": "[태성형외과] 공개클리닉웰 20160317 부산 해운대 태성형외과 김기태 원장",
+            "channel": "kitae kim",
+            "url": "https://www.youtube.com/watch?v=fg4esCbNtms&pp=ygUw7Z6Q66eB7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "92"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

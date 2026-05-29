@@ -1,0 +1,147 @@
+{
+  "query": "블리비의원 홍대점피부과",
+  "generated_at": "2026-05-28T22:53:24.345Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 6510,
+      "extra": {
+        "place_id": "1254014851",
+        "name": "블리비의원 홍대점 : 네이버\u001c",
+        "visitor_review_count": 1165,
+        "blog_review_count": 5345,
+        "detail_url": "https://m.place.naver.com/place/1254014851/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "블리비의원 홍대점",
+        "rating": 4.5,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 13,
+      "extra": {
+        "total_views": 9993000,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 13,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 13,
+        "top_videos": [
+          {
+            "title": "\"엉터리 정보에 속지마세요.\" 진료과목 피부과 의사가 뽑은 가성비 시술 딱 '3가지'",
+            "channel": "지식인사이드",
+            "url": "https://www.youtube.com/watch?v=a4S4JNnRIXQ&pp=ygUo67iU66as67mE7J2Y7JuQIO2ZjeuMgOygkO2UvOu2gOqzvCBLb3JlYdIHCQkNCwGHKiGM7w%3D%3D",
+            "view_text": "1.7M views"
+          },
+          {
+            "title": "S급 가성비 시술 BEST 5 | 피부과에서 절대 안 알려주는 수백 만원 아끼는 방법",
+            "channel": "닥터블랑_예뻐지는비결",
+            "url": "https://www.youtube.com/watch?v=_9UTYN26aqE&pp=ygUo67iU66as67mE7J2Y7JuQIO2ZjeuMgOygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "72K views"
+          },
+          {
+            "title": "\"Dermatologists don't tell you...\" We recommend popular youth-enhancing procedures these days. We...",
+            "channel": "박지윤의 피부 설명서",
+            "url": "https://www.youtube.com/watch?v=EFB-McCJG48&pp=ygUo67iU66as67mE7J2Y7JuQIO2ZjeuMgOygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "444K views"
+          },
+          {
+            "title": "피부과 15년차 상담실장님이 말하는 '피부과 호구' 안되는 법 (추천시술 VS 비추천시술.zip📂)",
+            "channel": "황라희 Hwang Lahee",
+            "url": "https://www.youtube.com/watch?v=tD4qcIvpwyM&pp=ygUo67iU66as67mE7J2Y7JuQIO2ZjeuMgOygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "442K views"
+          },
+          {
+            "title": "레이저 딱 한번이면 돼요 | 피부과 가성비 시술 TOP 3",
+            "channel": "닥터블랑_예뻐지는비결",
+            "url": "https://www.youtube.com/watch?v=N9N0SrNK5-c&pp=ygUo67iU66as67mE7J2Y7JuQIO2ZjeuMgOygkO2UvOu2gOqzvCBLb3JlYdIHCQkNCwGHKiGM7w%3D%3D",
+            "view_text": "377K views"
+          },
+          {
+            "title": "5 Dermatological Treatments That Will Make You Satisfied, According to a Gangnam Doctor",
+            "channel": "동네 의사 이상욱",
+            "url": "https://www.youtube.com/watch?v=C2RiYo2QlQs&pp=ygUo67iU66as67mE7J2Y7JuQIO2ZjeuMgOygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "1.3M views"
+          },
+          {
+            "title": "(SUB) 피부과 시술 & 관리 총정리💓l 연예인들이 꼭 받는 시술은! l 딱 한가지 시술만 받을 수 있다면 바로 *** l 시술보다 효과 좋은 관리 모음👍 l 피부과 고르는 꿀팁",
+            "channel": "일단이나연 NAYEON",
+            "url": "https://www.youtube.com/watch?v=1x5SomkhsME&pp=ygUo67iU66as67mE7J2Y7JuQIO2ZjeuMgOygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "902K views"
+          },
+          {
+            "title": "피부과 10년차가 말하는 받으면 호구되는 시술 3가지",
+            "channel": "소의튜브soytube",
+            "url": "https://www.youtube.com/watch?v=fiJ6_nrjt7A&pp=ygUo67iU66as67mE7J2Y7JuQIO2ZjeuMgOygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "1.4M views"
+          },
+          {
+            "title": "의사들만 몰래받는 S급 가성비! 수백만원 아끼는 만족도 가장 높은 시술을 20년차 피부과 전문의가 알려드립니다.",
+            "channel": "피부는 성현철",
+            "url": "https://www.youtube.com/watch?v=SFlFQByIQ1g&pp=ygUo67iU66as67mE7J2Y7JuQIO2ZjeuMgOygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "913K views"
+          },
+          {
+            "title": "눈썹, 아이라인 반영구 문신제거 3회 받으면 얼마나 지워질까?",
+            "channel": "민원장의 뷰티풀수다",
+            "url": "https://www.youtube.com/watch?v=uHDkQbzwhyU&pp=ygUo67iU66as67mE7J2Y7JuQIO2ZjeuMgOygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "16K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 110000,
+  "opportunity_cost_krw": 4400000
+}

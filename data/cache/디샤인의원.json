@@ -1,0 +1,147 @@
+{
+  "query": "디샤인의원",
+  "generated_at": "2026-05-28T23:22:36.290Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 374,
+      "extra": {
+        "place_id": "1193623746",
+        "name": "디샤인의원 : 네이버\u001c",
+        "visitor_review_count": 299,
+        "blog_review_count": 75,
+        "detail_url": "https://m.place.naver.com/place/1193623746/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Results",
+        "rating": 5,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 3973983,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "데이샤인의원 소개",
+            "channel": "데이샤인의원",
+            "url": "https://www.youtube.com/watch?v=D-uMNXtO--w&pp=ygUe65SU7IOk7J247J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "57 views"
+          },
+          {
+            "title": "피부과 10년차가 말하는 받으면 호구되는 시술 3가지",
+            "channel": "소의튜브soytube",
+            "url": "https://www.youtube.com/watch?v=fiJ6_nrjt7A&pp=ygUe65SU7IOk7J247J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1.4M views"
+          },
+          {
+            "title": "[라이브] '홍혜걸톡' 대가에게 듣는다 - 건선 (인샤인피부과 윤재일 원장 & 홍혜걸 기자)",
+            "channel": "의학채널 비온뒤",
+            "url": "https://www.youtube.com/watch?v=bunln2nnduA&pp=ygUe65SU7IOk7J247J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "55K views"
+          },
+          {
+            "title": "서울대 피부과의사가 찍어주는 스킨부스터 완벽 정리. \"이 영상보면 호구 안당합니다\" - 이도영 피부과전문의",
+            "channel": "피부텐텐 · 피부가 예뻐지는 10분",
+            "url": "https://www.youtube.com/watch?v=rigKW7zrTeI&pp=ygUe65SU7IOk7J247J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "338K views"
+          },
+          {
+            "title": "The fatal flaw of skin botox? Don't waste your money by not knowing this. Be sure to check it out!",
+            "channel": "동네 의사 이상욱",
+            "url": "https://www.youtube.com/watch?v=2hxmXOZ8EOE&pp=ygUe65SU7IOk7J247J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "402K views"
+          },
+          {
+            "title": "예비신부가 해주는 예비신랑 핑크필 피부관리!",
+            "channel": "닥터.찬 Dayone Clinic Dr. Chan",
+            "url": "https://www.youtube.com/watch?v=UoAMPoOGam8&pp=ygUe65SU7IOk7J247J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "3K views"
+          },
+          {
+            "title": "피부과 의료진의 원픽 시술 1편 #디라운지피부과 #신사동피부장인 #피부과시술추천 #피부과시술",
+            "channel": "신사동피부장인",
+            "url": "https://www.youtube.com/watch?v=DSJPGbMlIC4&pp=ygUe65SU7IOk7J247J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "253 views"
+          },
+          {
+            "title": "디에스의원 피부과 인테리어가 궁금하셨죠?! 고객의 프라이버시를 중시하는 복층구조를 공개합니다.^^",
+            "channel": "DS클리닉",
+            "url": "https://www.youtube.com/watch?v=eORi7S615Fk&pp=ygUe65SU7IOk7J247J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "158 views"
+          },
+          {
+            "title": "엘라비에 리투오! ✨리얼 시술 핸즈온✨아프지 않게 캐뉼라로?",
+            "channel": "피부과전문의_샘닥",
+            "url": "https://www.youtube.com/watch?v=ptQi03D4B6A&pp=ygUe65SU7IOk7J247J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "106K views"
+          },
+          {
+            "title": "리쥬란 다음은 이거다❗ 차원이 다른 스킨부스터 ‘리투오’의 모든 것✨강남 최원장이 먼저 알려주는 지금은 '리투오'시대",
+            "channel": "닥터스키니최보윤",
+            "url": "https://www.youtube.com/watch?v=SNtJE4Y6hyc&pp=ygUe65SU7IOk7J247J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "12K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

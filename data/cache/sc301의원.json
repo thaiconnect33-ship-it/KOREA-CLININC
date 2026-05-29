@@ -1,0 +1,145 @@
+{
+  "query": "SC301의원",
+  "generated_at": "2026-05-28T23:16:55.010Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 81,
+      "extra": {
+        "name": "SC301의원 Stem Cell Clinic Seoul",
+        "rating": 4.7,
+        "total_reviews": 81,
+        "sample_size": 16,
+        "foreign_language_reviews": 12,
+        "lang_breakdown": {
+          "korean": 4,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 12
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 18,
+      "extra": {
+        "total_views": 574566,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 18,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 18,
+        "top_videos": [
+          {
+            "title": "[SC301] 생착률이 낮은 자가지방 이식수술에 대한 모든 것! 단순 자가지방이식술의 부작용😡 (feat. 석회화, 오일낭종) l 줄기세포 가슴성형",
+            "channel": "신동진의 줄기신닥터신",
+            "url": "https://www.youtube.com/watch?v=Bw-t9icEV6I&pp=ygUjU0MzMDHsnZjsm5DthqHthqHshLHtmJXsmbjqs7wgS29yZWE%3D",
+            "view_text": "1.6K views"
+          },
+          {
+            "title": "[줄기신닥터신] 너무 절벽이면 가슴수술 힘들다? / 그 외에 보형물과 SVF 수술 후 흉터 자국 차이, 식단 등 궁금하셨던 부분들 다 해소해 드리겠습니다 😄 | 신동진 원장",
+            "channel": "신동진의 줄기신닥터신",
+            "url": "https://www.youtube.com/watch?v=zKn2ZsJjgQI&pp=ygUjU0MzMDHsnZjsm5DthqHthqHshLHtmJXsmbjqs7wgS29yZWE%3D",
+            "view_text": "1.2K views"
+          },
+          {
+            "title": "[줄기신닥터신] 가슴수술과 유방암의 관계성, 보형물 과연 안전할까? 모든 의혹에 대한 총정리! l SVF 가슴성형(구 줄기세포 가슴성형) | 신동진 원장",
+            "channel": "신동진의 줄기신닥터신",
+            "url": "https://www.youtube.com/watch?v=keMA2DjHXrI&pp=ygUjU0MzMDHsnZjsm5DthqHthqHshLHtmJXsmbjqs7wgS29yZWE%3D",
+            "view_text": "518 views"
+          },
+          {
+            "title": "지방이식을 통한 줄기세포 가슴수술 알아보기 / YTN",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=zOxTp2D6DF8&pp=ygUjU0MzMDHsnZjsm5DthqHthqHshLHtmJXsmbjqs7wgS29yZWHSBwkJDQsBhyohjO8%3D",
+            "view_text": "2.8K views"
+          },
+          {
+            "title": "[줄기신닥터신] SC301, SVF가슴성형, 내돈내산 리얼 찐 후기!! | 신동진 원장",
+            "channel": "신동진의 줄기신닥터신",
+            "url": "https://www.youtube.com/watch?v=HHJI68LVy-Y&pp=ygUjU0MzMDHsnZjsm5DthqHthqHshLHtmJXsmbjqs7wgS29yZWE%3D",
+            "view_text": "6.7K views"
+          },
+          {
+            "title": "저렴하다? 시간이 오래 걸리지 않는다? 정통 줄기세포 수술이 아닌 유사 줄기세포로 수술을 하게 된다면 나타나는 부작용들! 더 이상 속지 마세요! l줄기세포가슴성형l가슴지방이식l",
+            "channel": "신동진의 줄기신닥터신",
+            "url": "https://www.youtube.com/watch?v=XhL2I2_po80&pp=ygUjU0MzMDHsnZjsm5DthqHthqHshLHtmJXsmbjqs7wgS29yZWE%3D",
+            "view_text": "851 views"
+          },
+          {
+            "title": "[줄기신닥터신] 병원 내에 연구소가 있는 이유, 연구소의 중요성 ISVF 가슴 성형I | 신동진 원장",
+            "channel": "신동진의 줄기신닥터신",
+            "url": "https://www.youtube.com/watch?v=spDbkFF5cw4&pp=ygUjU0MzMDHsnZjsm5DthqHthqHshLHtmJXsmbjqs7wgS29yZWE%3D",
+            "view_text": "169 views"
+          },
+          {
+            "title": "❌권하지 않는 가슴 시술🙅‍♂️ ep.3 가슴 지방이식 | feat. 줄기세포 가슴성형",
+            "channel": "나나TV - 나나성형외과",
+            "url": "https://www.youtube.com/watch?v=txQ8oEBFXxw&pp=ygUjU0MzMDHsnZjsm5DthqHthqHshLHtmJXsmbjqs7wgS29yZWE%3D",
+            "view_text": "58K views"
+          },
+          {
+            "title": "[쿡TV] 레이싱걸 김시향도 알아본 진짜 마이더스의 손-신동진 원장의 줄기세포 가슴성형/동안성형",
+            "channel": "신동진의 줄기신닥터신",
+            "url": "https://www.youtube.com/watch?v=ye4iAGuIh-4&pp=ygUjU0MzMDHsnZjsm5DthqHthqHshLHtmJXsmbjqs7wgS29yZWE%3D",
+            "view_text": "3.7K views"
+          },
+          {
+            "title": "무엇보다 안전이 중요, 줄기세포 가슴성형 알아보기 / YTN",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=47IDuF2OesI&pp=ygUjU0MzMDHsnZjsm5DthqHthqHshLHtmJXsmbjqs7wgS29yZWE%3D",
+            "view_text": "3K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 6,
+  "opportunity_cost_thb": 94000,
+  "opportunity_cost_krw": 3760000
+}

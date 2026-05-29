@@ -1,0 +1,146 @@
+{
+  "query": "압구정비앤미의원",
+  "generated_at": "2026-05-29T06:02:15.979Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 251,
+      "extra": {
+        "name": "Be & Me Clinic Apgujeong",
+        "rating": 4.8,
+        "total_reviews": 251,
+        "sample_size": 21,
+        "foreign_language_reviews": 19,
+        "lang_breakdown": {
+          "korean": 2,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 19
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 18,
+      "extra": {
+        "total_views": 5105573,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 18,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 18,
+        "top_videos": [
+          {
+            "title": "[압구정비앤미] 비앤미를 대표하는 그녀들의 이야기♥",
+            "channel": "BE & ME Plastic Surgery Clinic Korea",
+            "url": "https://www.youtube.com/watch?v=N-wAnvTmIh4&pp=ygUw7JWV6rWs7KCV67mE7JWk66-47J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.2K views"
+          },
+          {
+            "title": "[압구정피부관리] 건조한피부에서 꿀광촉촉 피부로! 시바산 피부관리",
+            "channel": "BE & ME Plastic Surgery Clinic Korea",
+            "url": "https://www.youtube.com/watch?v=OUPQtQ1MLeM&pp=ygUw7JWV6rWs7KCV67mE7JWk66-47J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1K views"
+          },
+          {
+            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUw7JWV6rWs7KCV67mE7JWk66-47J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1M views"
+          },
+          {
+            "title": "\"강남 유명 성형외과서 수술 뒤 눈이 실명됐습니다\" [지금이뉴스] / YTN",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=UyMrX929Q4I&pp=ygUw7JWV6rWs7KCV67mE7JWk66-47J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "576K views"
+          },
+          {
+            "title": "라임슬아님의 비앤미 쌍꺼풀 수술 - 예고편",
+            "channel": "BE & ME Plastic Surgery Clinic Korea",
+            "url": "https://www.youtube.com/watch?v=DOBoVIojiew&pp=ygUw7JWV6rWs7KCV67mE7JWk66-47J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "2.5K views"
+          },
+          {
+            "title": "도망쳐..지금이야!! 성형외과 블랙리스트 이렇게 거르세요",
+            "channel": "지유미 JIYUMEE",
+            "url": "https://www.youtube.com/watch?v=VK1hIW0QP-g&pp=ygUw7JWV6rWs7KCV67mE7JWk66-47J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "126K views"
+          },
+          {
+            "title": "How to find a good plastic surgeon🧡 How to find a good plastic surgeon and avoid plastic surgery ...",
+            "channel": "베레나verena",
+            "url": "https://www.youtube.com/watch?v=SQzMbIJMBTQ&pp=ygUw7JWV6rWs7KCV67mE7JWk66-47J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "277K views"
+          },
+          {
+            "title": "\"받으면 돈만 날립니다!\" 의사들이 절대 안 받는 미용 시술 4가지",
+            "channel": "주름잡는의사 이재운",
+            "url": "https://www.youtube.com/watch?v=o3Ep_Tle8lM&pp=ygUw7JWV6rWs7KCV67mE7JWk66-47J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "8.2K views"
+          },
+          {
+            "title": "SM 천상계 연예인으로 만들어준다는 성형외과!!",
+            "channel": "핫이슈HOT ISSUE",
+            "url": "https://www.youtube.com/watch?v=WTeNWTENa54&pp=ygUw7JWV6rWs7KCV67mE7JWk66-47J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.7M views"
+          },
+          {
+            "title": "아이라인 문신제거 통증없이",
+            "channel": "뷰티렐라tv",
+            "url": "https://www.youtube.com/watch?v=6kamF16ZhHw&pp=ygUw7JWV6rWs7KCV67mE7JWk66-47J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "4K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 10,
+  "opportunity_cost_thb": 135500,
+  "opportunity_cost_krw": 5420000
+}

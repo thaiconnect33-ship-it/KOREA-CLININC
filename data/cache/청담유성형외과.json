@@ -1,0 +1,148 @@
+{
+  "query": "청담유성형외과",
+  "generated_at": "2026-05-29T05:54:00.231Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 55,
+      "extra": {
+        "place_id": "13244246",
+        "name": "청담유성형외과의원켈로이드클리닉 : 네이버\u001c",
+        "visitor_review_count": 52,
+        "blog_review_count": 3,
+        "detail_url": "https://m.place.naver.com/place/13244246/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Results",
+        "rating": 4.9,
+        "total_reviews": 0,
+        "sample_size": 6,
+        "foreign_language_reviews": 6,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 6
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 4542181,
+        "foreign_video_count": 18,
+        "lang_breakdown": {
+          "korean": 2,
+          "thai": 1,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 17
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "Deep Plane Facelift Korea Before and After | What led him to choose IPCHE, and how is he doing now?",
+            "channel": "IPCHE Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=xn4OzGJBpEg&pp=ygUhQ2hlb25nZGFtIFUgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "117 views"
+          },
+          {
+            "title": "Cheongdam u plastic surgery CF 1min : In korea",
+            "channel": "양동준원장 원셀의원(구 청담유성형외과)",
+            "url": "https://www.youtube.com/watch?v=ZD9l5lnHGWg&pp=ygUhQ2hlb25nZGFtIFUgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "209 views"
+          },
+          {
+            "title": "Korea No.1 Plastic surgery medical center | Introduction of VIEW 💜",
+            "channel": "View Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=jtbIfCDG3PM&pp=ygUhQ2hlb25nZGFtIFUgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "1.2K views"
+          },
+          {
+            "title": "Getting a Nose Job in Korea? Here’s What It Was Like at JK Plastic Surgery",
+            "channel": "JK Plastic Surgery Center",
+            "url": "https://www.youtube.com/watch?v=RIALRtaYnGE&pp=ygUhQ2hlb25nZGFtIFUgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "535 views"
+          },
+          {
+            "title": "Korean Plastic Surgeon answers Breast Augmentation Questions! #koreanplasticsurgery",
+            "channel": "ID Hospital Korea Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=MXuBnZLgkhs&pp=ygUhQ2hlb25nZGFtIFUgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "3.5K views"
+          },
+          {
+            "title": "JK Plastic Surgery Center (the Republic of Korea, Seoul)",
+            "channel": "Bookimed.com",
+            "url": "https://www.youtube.com/watch?v=HBL6TIv8RZQ&pp=ygUhQ2hlb25nZGFtIFUgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "5K views"
+          },
+          {
+            "title": "A Day in Life of Top Korean Plastic Surgeon In Gangnam",
+            "channel": "Asian Boss",
+            "url": "https://www.youtube.com/watch?v=jRfw0kMlsKI&pp=ygUhQ2hlb25nZGFtIFUgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "4.3M views"
+          },
+          {
+            "title": "Nose Job Result & Breast Augmentation In South Korea | Plastic Surgery South Korea",
+            "channel": "Seoul Cosmetic Surgery",
+            "url": "https://www.youtube.com/watch?v=xi1oqSTCcio&pp=ygUhQ2hlb25nZGFtIFUgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "26K views"
+          },
+          {
+            "title": "VIEW PLASTIC SURGERY CONVENIENT PLASTIC SURGERY TRIP TO KOREA, ONE-STOP SERVICE",
+            "channel": "View Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=bdo1T5yyPhE&pp=ygUhQ2hlb25nZGFtIFUgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "4.5K views"
+          },
+          {
+            "title": "Korean Plastic Surgery Review | Dream Plastic Surgery Clinic",
+            "channel": "ElaineMokk",
+            "url": "https://www.youtube.com/watch?v=5FAo_Wv2nQI&pp=ygUhQ2hlb25nZGFtIFUgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "115K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 17,
+  "opportunity_cost_thb": 88000,
+  "opportunity_cost_krw": 3520000
+}

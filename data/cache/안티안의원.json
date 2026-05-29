@@ -1,0 +1,145 @@
+{
+  "query": "안티안의원",
+  "generated_at": "2026-05-28T22:25:59.131Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Antian Clinic",
+        "rating": 5,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 12,
+      "extra": {
+        "total_views": 1928365,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 12,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 12,
+        "top_videos": [
+          {
+            "title": "\"엉터리 정보에 속지마세요.\" 진료과목 피부과 의사가 뽑은 가성비 시술 딱 '3가지'",
+            "channel": "지식인사이드",
+            "url": "https://www.youtube.com/watch?v=a4S4JNnRIXQ&pp=ygUk7JWI7Yuw7JWI7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1.7M views"
+          },
+          {
+            "title": "호주 직구 비판텐 전격 파헤치기-한국에는 없는 비판텐",
+            "channel": "호주약사언니",
+            "url": "https://www.youtube.com/watch?v=lnEHcFnJ7BE&pp=ygUk7JWI7Yuw7JWI7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "17K views"
+          },
+          {
+            "title": "색소부터 잔주름까지 한 번에? 요즘 대세 BBL 히어로 파헤치기",
+            "channel": "세월을 거스르는 왕원장",
+            "url": "https://www.youtube.com/watch?v=iMtO5D0So6o&pp=ygUk7JWI7Yuw7JWI7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "849 views"
+          },
+          {
+            "title": "입소문 터진 리투오!🔥 열광하는 진짜 이유는, ‘이것’?",
+            "channel": "세월을 거스르는 왕원장",
+            "url": "https://www.youtube.com/watch?v=Oe32Z8f8_RY&pp=ygUk7JWI7Yuw7JWI7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1.6K views"
+          },
+          {
+            "title": "피부가 벗겨지고 발적이 생기는 질환 박탈피부염 / 연세에이앤비 피부과 이해진원장",
+            "channel": "이해진의황금피부",
+            "url": "https://www.youtube.com/watch?v=fDOa00yW4_8&pp=ygUk7JWI7Yuw7JWI7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "12K views"
+          },
+          {
+            "title": "맑고 깨끗한 얼굴을 원한다면 레이저 제모가 답입니다. 왁싱보다 레이저제모가 더 나은 이유🧔🏻수염제모 / 얼굴제모 / 브라질리언제모 [젠틀맥스프로] ｜안티안의원 Dr.왕수진",
+            "channel": "세월을 거스르는 왕원장",
+            "url": "https://www.youtube.com/watch?v=_Txdgm4AI74&pp=ygUk7JWI7Yuw7JWI7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "3.2K views"
+          },
+          {
+            "title": "[혼주시술] 완벽 가이드🔥┃결혼식 전 부모님 피부과 추천 시술!",
+            "channel": "세월을 거스르는 왕원장",
+            "url": "https://www.youtube.com/watch?v=2QRlOZfGRqA&pp=ygUk7JWI7Yuw7JWI7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1.2K views"
+          },
+          {
+            "title": "울쎄라 600샷 1회 VS 울쎄라 300샷 2회? 뭐가 더 효과 좋을까?",
+            "channel": "세월을 거스르는 왕원장",
+            "url": "https://www.youtube.com/watch?v=191jI3NETDI&pp=ygUk7JWI7Yuw7JWI7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "6.8K views"
+          },
+          {
+            "title": "원스클리닉 홍보영상",
+            "channel": "원스클리닉.",
+            "url": "https://www.youtube.com/watch?v=XAUPoXjxhsI&pp=ygUk7JWI7Yuw7JWI7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "200 views"
+          },
+          {
+            "title": "피부과 가지 않고도 물광피부 만드는 방법! 이 크림만 발랐을뿐인데 물광피부에 기미색소까지 잡아줍니다!",
+            "channel": "라리약사",
+            "url": "https://www.youtube.com/watch?v=HYWX3V4GwHg&pp=ygUk7JWI7Yuw7JWI7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "7.5K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

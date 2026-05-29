@@ -1,0 +1,145 @@
+{
+  "query": "모리의원",
+  "generated_at": "2026-05-28T23:54:44.429Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 20,
+      "extra": {
+        "name": "모리의원 MORI Clinic",
+        "rating": 4.9,
+        "total_reviews": 20,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 4593239,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "원형탈모 치료기간 자세히 알려드립니다.",
+            "channel": "탈모의사 모리의원 이상욱",
+            "url": "https://www.youtube.com/watch?v=HNFvvmH6Gto&pp=ygUh66qo66as7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "16K views"
+          },
+          {
+            "title": "모리의원 이상욱대표원장 _ 지루성 두피염과 탈모",
+            "channel": "탈모의사 모리의원 이상욱",
+            "url": "https://www.youtube.com/watch?v=pTlWECKPUrw&pp=ygUh66qo66as7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "373 views"
+          },
+          {
+            "title": "Do I really need treatment for alopecia areata? (Will it get better on its own?)",
+            "channel": "탈모의사 모리의원 이상욱",
+            "url": "https://www.youtube.com/watch?v=uNecg6K5qOA&pp=ygUh66qo66as7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "25K views"
+          },
+          {
+            "title": "원형탈모,지루성두피염이 같이 있으면 치료는 어떤거부터? 어떻게 치료해야하나요?",
+            "channel": "탈모의사 모리의원 이상욱",
+            "url": "https://www.youtube.com/watch?v=tYp9uMOd_9c&pp=ygUh66qo66as7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "573 views"
+          },
+          {
+            "title": "헤어라인 모발이식 가격(feat.병원마다 비용 차이나는 이유, 부위별 이식 비용 차이)",
+            "channel": "탈모의사 모리의원 이상욱",
+            "url": "https://www.youtube.com/watch?v=bZ-ycrMW5Ug&pp=ygUh66qo66as7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "12K views"
+          },
+          {
+            "title": "Things to Avoid When You Have Alopecia Areata! (Different Treatments Compared to Regular Hair Loss)",
+            "channel": "탈모의사 모리의원 이상욱",
+            "url": "https://www.youtube.com/watch?v=OwrykEdSGzQ&pp=ygUh66qo66as7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "52K views"
+          },
+          {
+            "title": "지루성두피염 원인은 이것! 치료는 이렇게 해보세요",
+            "channel": "탈모의사 모리의원 이상욱",
+            "url": "https://www.youtube.com/watch?v=10c-iUO85SA&pp=ygUh66qo66as7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1K views"
+          },
+          {
+            "title": "지루성두피염 있는데 린스 써도 될까요?",
+            "channel": "탈모의사 모리의원 이상욱",
+            "url": "https://www.youtube.com/watch?v=S2c8jusry6k&pp=ygUh66qo66as7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1.2K views"
+          },
+          {
+            "title": "Improve your quality of life with the Pinjube effect! Who is it for?",
+            "channel": "탈모의사 모리의원 이상욱",
+            "url": "https://www.youtube.com/watch?v=lPbDbuXIfPg&pp=ygUh66qo66as7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1.7K views"
+          },
+          {
+            "title": "지루성두피염 30대, 40대 이렇게 치료하면 됩니다",
+            "channel": "탈모의사 모리의원 이상욱",
+            "url": "https://www.youtube.com/watch?v=i6yXqidtinc&pp=ygUh66qo66as7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "780 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

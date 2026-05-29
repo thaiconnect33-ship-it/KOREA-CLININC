@@ -1,0 +1,147 @@
+{
+  "query": "서울턱치과의원",
+  "generated_at": "2026-05-29T00:13:05.422Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 545,
+      "extra": {
+        "place_id": "1497468608",
+        "name": "시청서울구강내과치과의원 : 네이버\u001c",
+        "visitor_review_count": 245,
+        "blog_review_count": 300,
+        "detail_url": "https://m.place.naver.com/place/1497468608/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Seoul Tooth Dental Clinic",
+        "rating": 4.5,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 1434597,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "★(주목!) 서울턱치과 유튜브 채널 탄생★",
+            "channel": "구강외과 강원장",
+            "url": "https://www.youtube.com/watch?v=IYm8Tai9hfg&pp=ygUh7ISc7Jq47YSx7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "704 views"
+          },
+          {
+            "title": "서울 노원 구강내과 턱관절 치과",
+            "channel": "턱턱박사",
+            "url": "https://www.youtube.com/watch?v=T8JpUy2iwRE&pp=ygUh7ISc7Jq47YSx7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "1.4M views"
+          },
+          {
+            "title": "서울쿤스트치과 턱관절 치료",
+            "channel": "서울쿤스트치과",
+            "url": "https://www.youtube.com/watch?v=vmd-7meQ11w&pp=ygUh7ISc7Jq47YSx7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "315 views"
+          },
+          {
+            "title": "2023년도 고생 많으셨습니다~ 서울턱치과의 2024년🐲 청룡의 해 새해인사! 😍ㅣ구강외과 강원장",
+            "channel": "구강외과 강원장",
+            "url": "https://www.youtube.com/watch?v=6BFM5c1Nzgg&pp=ygUh7ISc7Jq47YSx7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "78 views"
+          },
+          {
+            "title": "2022년 올 한해도 고생 많으셨어요~ 서울턱치과의 2023년🐰 새해인사! 😍ㅣ구강외과 강원장",
+            "channel": "구강외과 강원장",
+            "url": "https://www.youtube.com/watch?v=7Fy2IjPv1s0&pp=ygUh7ISc7Jq47YSx7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "103 views"
+          },
+          {
+            "title": "턱관절 통증은 구강내과 전문의에게! 잠실역 서울디테일구강내과치과입니다.",
+            "channel": "서울디테일구강내과치과의원",
+            "url": "https://www.youtube.com/watch?v=GGS_arRynVw&pp=ygUh7ISc7Jq47YSx7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "14K views"
+          },
+          {
+            "title": "턱관절 질환 어떤 종류가 있고  어떻게 치료해야 할까?  - 강서구 우장산 치과 | 구강악안면외과 김신근 원장",
+            "channel": "서울라이프치과",
+            "url": "https://www.youtube.com/watch?v=5ZK8JfhtSKE&pp=ygUh7ISc7Jq47YSx7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "46 views"
+          },
+          {
+            "title": "서울구강내과치과 턱관절장애와 치료, 그 외 턱관절 내장증, 퇴행성관절염 설명",
+            "channel": "Seoul Omod",
+            "url": "https://www.youtube.com/watch?v=rAAV6o0sE58&pp=ygUh7ISc7Jq47YSx7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "895 views"
+          },
+          {
+            "title": "서울대학교치과병원(구강내과)_턱관절&침분비&구강내 질환",
+            "channel": "뽀드득(feat.지나온발자국)",
+            "url": "https://www.youtube.com/watch?v=s-VXhFHDLgw&pp=ygUh7ISc7Jq47YSx7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "631 views"
+          },
+          {
+            "title": "강남턱관절장애 치료로 유명한 OFP구강내과치과의원!(OFP Oral Dental Clinic famous for treating jaw joint disorders!)",
+            "channel": "OFP DENTAL",
+            "url": "https://www.youtube.com/watch?v=zf9XshKANLc&pp=ygUh7ISc7Jq47YSx7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "1K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

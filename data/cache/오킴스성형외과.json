@@ -1,0 +1,148 @@
+{
+  "query": "오킴스성형외과",
+  "generated_at": "2026-05-29T05:48:18.085Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 1102,
+      "extra": {
+        "place_id": "1241533202",
+        "name": "오킴스오성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 237,
+        "blog_review_count": 865,
+        "detail_url": "https://m.place.naver.com/place/1241533202/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 323,
+      "extra": {
+        "name": "Results",
+        "rating": 4.9,
+        "total_reviews": 323,
+        "sample_size": 6,
+        "foreign_language_reviews": 6,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 6
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 11,
+      "extra": {
+        "total_views": 1231852,
+        "foreign_video_count": 2,
+        "lang_breakdown": {
+          "korean": 9,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 2
+        },
+        "sample_size": 11,
+        "top_videos": [
+          {
+            "title": "My plastic surgery story (PART1) | Facial contour, rhinoplasty, double eyelid surgery, facial lipo",
+            "channel": "BRAUN Global Aesthetic",
+            "url": "https://www.youtube.com/watch?v=Vas6WwbAH9w&pp=ygUcT2hraW1zIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "1.2M views"
+          },
+          {
+            "title": "오킴스성형외과 영상 (5메가).mp4",
+            "channel": "JUNG AH Lee",
+            "url": "https://www.youtube.com/watch?v=xx9LEr8z6OQ&pp=ygUcT2hraW1zIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "494 views"
+          },
+          {
+            "title": "[월간오킴스] 가슴성형 후 비행기 탑승가능?! 귀에 쏙쏙 박히는 답변을 내준 \"오킴스가슴성형센터\" 임대원대표원장!",
+            "channel": "오킴스ohkims",
+            "url": "https://www.youtube.com/watch?v=eftC6Xzzfx0&pp=ygUcT2hraW1zIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "2.6K views"
+          },
+          {
+            "title": "Methods of blepharoplasty, SMAS and MACS lifting with Dr. Oh Se Gwan [ENG Sub]",
+            "channel": "MediYou Story",
+            "url": "https://www.youtube.com/watch?v=0BXGl-3UVgc&pp=ygUcT2hraW1zIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "12K views"
+          },
+          {
+            "title": "오킴스 성형외과 QT가슴확대 리얼스토리_수술전.avi",
+            "channel": "JUNG AH Lee",
+            "url": "https://www.youtube.com/watch?v=N8euOsAbg10&pp=ygUcT2hraW1zIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "5.8K views"
+          },
+          {
+            "title": "오킴스 성형외과 비중격 연골을 사용한 코성형 리얼스토리_수술전.avi",
+            "channel": "JUNG AH Lee",
+            "url": "https://www.youtube.com/watch?v=5G1zOTPH8b8&pp=ygUcT2hraW1zIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "8.1K views"
+          },
+          {
+            "title": "“30년 만의 혁신” 충격적인 탈모 신약 실체. 텅빈 머리카락 미친듯 자란다 | 김진오 원장 3부",
+            "channel": "똑똑한스푼",
+            "url": "https://www.youtube.com/watch?v=oyZ0bSjazlQ&pp=ygUcT2hraW1zIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "909 views"
+          },
+          {
+            "title": "“100% 도움 될 겁니다” 모발이식 고민이라면 꼭 보세요. 다들 ‘이걸’ 몰라서 실패합니다 | 김진오 원장 4부",
+            "channel": "똑똑한스푼",
+            "url": "https://www.youtube.com/watch?v=3uq56UCLNz8&pp=ygUcT2hraW1zIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "139 views"
+          },
+          {
+            "title": "“머리카락 전부 빠져요!” 최악의 머리감는 ‘이 방법’ 탈모에 정말 최악입니다 | 김진오 원장 1부",
+            "channel": "똑똑한스푼",
+            "url": "https://www.youtube.com/watch?v=x5nWPbyIRzI&pp=ygUcT2hraW1zIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "460 views"
+          },
+          {
+            "title": "“탈모 이기는 손쉬운 방법” 힘 없고 가늘어진 머리카락. 3000원으로 ‘이것’ 했더니 | 김진오 원장 2부",
+            "channel": "똑똑한스푼",
+            "url": "https://www.youtube.com/watch?v=AbPxlvw--iI&pp=ygUcT2hraW1zIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "657 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 5,
+  "opportunity_cost_thb": 96000,
+  "opportunity_cost_krw": 3840000
+}

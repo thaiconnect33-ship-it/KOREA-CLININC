@@ -1,0 +1,147 @@
+{
+  "query": "바우스의원",
+  "generated_at": "2026-05-28T22:35:36.084Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 487,
+      "extra": {
+        "place_id": "1171022015",
+        "name": "바우스의원 : 네이버\u001c",
+        "visitor_review_count": 380,
+        "blog_review_count": 107,
+        "detail_url": "https://m.place.naver.com/place/1171022015/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "바우스의원",
+        "rating": 5,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 18,
+      "extra": {
+        "total_views": 134732,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 18,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 18,
+        "top_videos": [
+          {
+            "title": "몇 살 같아 보이세요? 4개월 동안 리얼 안티에이징 결과 | BAUS Anti-Aging Project",
+            "channel": "바우스의원",
+            "url": "https://www.youtube.com/watch?v=eH8Sbx4kQM8&pp=ygUe67CU7Jqw7Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "198 views"
+          },
+          {
+            "title": "BAUS Restol 리스톨주사 - BAUS의 시그니처 | Better Aging with US",
+            "channel": "바우스의원",
+            "url": "https://www.youtube.com/watch?v=YhUGyqLbnh8&pp=ygUe67CU7Jqw7Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "130 views"
+          },
+          {
+            "title": "바우스의원, 줄기세포 치료로 피부와 몸을 함께 회복하다 | BAUS CLINIC 줄기세포",
+            "channel": "바우스의원",
+            "url": "https://www.youtube.com/watch?v=35A7_fn1AWg&pp=ygUe67CU7Jqw7Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "137 views"
+          },
+          {
+            "title": "BAUS Cellbix 셀빅스주사 - BAUS의 시그니처 | Better Aging with US",
+            "channel": "바우스의원",
+            "url": "https://www.youtube.com/watch?v=BLvWdc8wYJU&pp=ygUe67CU7Jqw7Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "115 views"
+          },
+          {
+            "title": "노화·주름·피부결 개선 – 3개월 안티에이징 피부 변화 기록 | BAUS Anti-Aging Project",
+            "channel": "바우스의원",
+            "url": "https://www.youtube.com/watch?v=ZDVE6RdahRA&pp=ygUe67CU7Jqw7Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "4.4K views"
+          },
+          {
+            "title": "모델 Pick 리프팅 조합 팔자리프팅+이중턱관리 (ft.온다+소프웨이브)",
+            "channel": "바우스의원",
+            "url": "https://www.youtube.com/watch?v=sCIHO7anQLw&pp=ygUe67CU7Jqw7Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1.4K views"
+          },
+          {
+            "title": "\"아.. 이거 말하면 안되는데..\" 청담동 시크릿 대공개│#바우스의원 #소프웨이브 🌊",
+            "channel": "소프웨이브™ 리프팅 (Sofwave™ Korea)",
+            "url": "https://www.youtube.com/watch?v=NqNjTG6jie8&pp=ygUe67CU7Jqw7Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1.5K views"
+          },
+          {
+            "title": "BAUS Medical Team Interview | Better Aging with US",
+            "channel": "바우스의원",
+            "url": "https://www.youtube.com/watch?v=UMNLx9GcC5Y&pp=ygUe67CU7Jqw7Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "276 views"
+          },
+          {
+            "title": "중안부 짧아지는법?! 방법은 온웨이브 리프팅! (ft.온다/소프웨이브 통증, 후기)",
+            "channel": "바우스의원",
+            "url": "https://www.youtube.com/watch?v=O4qxwBq7dPE&pp=ygUe67CU7Jqw7Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1.3K views"
+          },
+          {
+            "title": "팔자주름, 어떤 시술로 이렇게 좋아졌을까? | BAUS Real Model",
+            "channel": "바우스의원",
+            "url": "https://www.youtube.com/watch?v=fzU4vOxdfEE&pp=ygUe67CU7Jqw7Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1.2K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

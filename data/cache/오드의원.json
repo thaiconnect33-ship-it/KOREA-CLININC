@@ -1,0 +1,116 @@
+{
+  "query": "오드의원",
+  "generated_at": "2026-05-29T06:11:55.757Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Results",
+        "rating": 5,
+        "total_reviews": 0,
+        "sample_size": 8,
+        "foreign_language_reviews": 8,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 8
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 5,
+      "extra": {
+        "total_views": 1040426,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 5,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 5,
+        "top_videos": [
+          {
+            "title": "이런 시술들은 싼 게 장땡?! 공장형 피부과에서 받으면 돈 굳는 시술들💰",
+            "channel": "배우는 의사 김현정",
+            "url": "https://www.youtube.com/watch?v=rv12TUVppGs&pp=ygUh7Jik65Oc7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "55K views"
+          },
+          {
+            "title": "How a doctor in her 30s overcame acne. Pharmacy product recommendations & great tips for scar tre...",
+            "channel": "배우는 의사 김현정",
+            "url": "https://www.youtube.com/watch?v=4EVkei6mg_4&pp=ygUh7Jik65Oc7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "19K views"
+          },
+          {
+            "title": "켈로이드 피부가 지방흡입을 하면 생기는일??｜자가진단하고 대참사 방지하세요!!",
+            "channel": "Lydian 리디안",
+            "url": "https://www.youtube.com/watch?v=6udf7yaG2c8&pp=ygUh7Jik65Oc7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "12K views"
+          },
+          {
+            "title": "이혼, 진심으로 후회하는 1가지 이유, 이혼 후 2년간의 지옥같은 여정과 그 후 이야기를 이젠 덤덤히 말할 수 있어요..",
+            "channel": "이상욱의 진료실 밖 처방전",
+            "url": "https://www.youtube.com/watch?v=tOzuSzhngYU&pp=ygUh7Jik65Oc7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "954K views"
+          },
+          {
+            "title": "[취뽀탐구생활]💟끌리메 목동점의 취뽀브이로그💟 회사가 칙칙하단 편견을 버렷(｡•̀ᴗ-)✧ 쁘띠쁘띠 끝판왕💘",
+            "channel": "명지전문대 뷰티 스킨 케어 전공",
+            "url": "https://www.youtube.com/watch?v=FLczaOYyDgw&pp=ygUh7Jik65Oc7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "426 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 4,
+  "opportunity_cost_thb": 96000,
+  "opportunity_cost_krw": 3840000
+}

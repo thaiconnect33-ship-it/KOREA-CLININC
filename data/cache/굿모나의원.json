@@ -1,0 +1,146 @@
+{
+  "query": "굿모나의원",
+  "generated_at": "2026-05-29T06:06:46.438Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "굿모나의원",
+        "rating": 5,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 1953604,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "압구정 헤어라인 이식 7개월 경과! 탈모인들의 희망, 굿모나! 갓모나!",
+            "channel": "킴풍성",
+            "url": "https://www.youtube.com/watch?v=rwyIj92ELfk&pp=ygUh6rW_66qo64KY7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "595 views"
+          },
+          {
+            "title": "걱정반, 설렘반! 비절개 모발이식수술 굿모나로 결정했어요!",
+            "channel": "킴풍성",
+            "url": "https://www.youtube.com/watch?v=1iM49JQK4e0&pp=ygUh6rW_66qo64KY7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "118 views"
+          },
+          {
+            "title": "압구정 모발이식수술 경과 리얼후기! 섬세한 디자인으로 자연스러운 결과를! (압구정 굿모나)",
+            "channel": "킴풍성",
+            "url": "https://www.youtube.com/watch?v=JTy8pf8dlg0&pp=ygUh6rW_66qo64KY7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "85 views"
+          },
+          {
+            "title": "압구정 굿모나 비절개 모발이식 2주차 인터뷰! 암흑기 걱정 해소",
+            "channel": "킴풍성",
+            "url": "https://www.youtube.com/watch?v=KV9-uzYGB3g&pp=ygUh6rW_66qo64KY7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "626 views"
+          },
+          {
+            "title": "모발이식 수술전 인터뷰!! 예비신랑 성공기!  굿모나 선택!",
+            "channel": "주녕이의 머리나라",
+            "url": "https://www.youtube.com/watch?v=jmf8qY-G0-Y&pp=ygUh6rW_66qo64KY7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "281 views"
+          },
+          {
+            "title": "모발이식 수술 일주일차 따끈따끈 후기! [굿모나]",
+            "channel": "주녕이의 머리나라",
+            "url": "https://www.youtube.com/watch?v=T9Tqdl5Va1Q&pp=ygUh6rW_66qo64KY7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "144 views"
+          },
+          {
+            "title": "따끈따끈 모발이식 수술직후 영상! 리얼하게 풀어봅니다 (압구정 굿모나의원)",
+            "channel": "비보이 영훈쓰",
+            "url": "https://www.youtube.com/watch?v=udyjfSuY0gk&pp=ygUh6rW_66qo64KY7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "151 views"
+          },
+          {
+            "title": "모발이식 방금 하고 나왔어요! 압구정 굿모나 선택하길 잘했네요",
+            "channel": "주녕이의 머리나라",
+            "url": "https://www.youtube.com/watch?v=o_iX4j0XQAc&pp=ygUh6rW_66qo64KY7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "23 views"
+          },
+          {
+            "title": "굿모나의원 모발이식수술 전 두근두근 인터뷰! (비보이 M자탈모)",
+            "channel": "비보이 영훈쓰",
+            "url": "https://www.youtube.com/watch?v=3z_VFzQahJc&pp=ygUh6rW_66qo64KY7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "173 views"
+          },
+          {
+            "title": "모발이식수술 3주차, 암흑기 변화 과정 리얼후기! (압구정 굿모나)",
+            "channel": "킴풍성",
+            "url": "https://www.youtube.com/watch?v=y42nSN-XIh0&pp=ygUh6rW_66qo64KY7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.1K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

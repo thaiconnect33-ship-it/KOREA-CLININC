@@ -1,0 +1,148 @@
+{
+  "query": "리팅성형외과의원 서울성형외과",
+  "generated_at": "2026-05-29T06:00:19.354Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 10718,
+      "extra": {
+        "place_id": "38673363",
+        "name": "리팅성형외과의원 서울 : 네이버\u001c",
+        "visitor_review_count": 5555,
+        "blog_review_count": 5163,
+        "detail_url": "https://m.place.naver.com/place/38673363/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 277,
+      "extra": {
+        "name": "Liting Plastic Surgery Clinic Gangnam Main Branch",
+        "rating": 4.6,
+        "total_reviews": 277,
+        "sample_size": 20,
+        "foreign_language_reviews": 20,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 20
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 228300,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "빠르고 티 안나게 예뻐지는 리프팅 시술 방법✨Feat. 강남 성형외과 원장",
+            "channel": "강남 신사 안면거상 리프팅 리팅",
+            "url": "https://www.youtube.com/watch?v=_KCYkK8Jyj8&pp=ygUx66as7YyF7ISx7ZiV7Jm46rO87J2Y7JuQIOyEnOyauOyEse2YleyZuOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "2.7K"
+          },
+          {
+            "title": "강남 성형외과 전문의가 밝히는✨명품 없이도 고급스러운 여자들의 특징",
+            "channel": "강남 신사 안면거상 리프팅 리팅",
+            "url": "https://www.youtube.com/watch?v=SfDATnrqmTQ&pp=ygUx66as7YyF7ISx7ZiV7Jm46rO87J2Y7JuQIOyEnOyauOyEse2YleyZuOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "1.5K"
+          },
+          {
+            "title": "흉터없이 몰래 수술 가능한 비밀리프팅? (단시간 일상복귀)",
+            "channel": "강남 신사 안면거상 리프팅 리팅",
+            "url": "https://www.youtube.com/watch?v=R9O09JkFgMw&pp=ygUx66as7YyF7ISx7ZiV7Jm46rO87J2Y7JuQIOyEnOyauOyEse2YleyZuOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "6.4K"
+          },
+          {
+            "title": "어떤 수술이 저한테 제일 가성비가 좋나요..? (feat.안면거상 상담)",
+            "channel": "강남 신사 안면거상 리프팅 리팅",
+            "url": "https://www.youtube.com/watch?v=w1HJOn0OL9A&pp=ygUx66as7YyF7ISx7ZiV7Jm46rO87J2Y7JuQIOyEnOyauOyEse2YleyZuOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "5.9K"
+          },
+          {
+            "title": "부담은 줄이고, 효과는 높인 심플한 거상이 있다?! (feat.ㄱ자 절개 방식)",
+            "channel": "부산성형외과 안면거상 리프팅 리팅",
+            "url": "https://www.youtube.com/watch?v=JNJ30-FdLh0&pp=ygUx66as7YyF7ISx7ZiV7Jm46rO87J2Y7JuQIOyEnOyauOyEse2YleyZuOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "6.8K"
+          },
+          {
+            "title": "남들 N개월 걸리는 피부 처짐, 하루만에 끝장내는 법!",
+            "channel": "강남 신사 안면거상 리프팅 리팅",
+            "url": "https://www.youtube.com/watch?v=kIW0ALFRI6Y&pp=ygUx66as7YyF7ISx7ZiV7Jm46rO87J2Y7JuQIOyEnOyauOyEse2YleyZuOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "3.5K"
+          },
+          {
+            "title": "[리팅성형외과] 미니리프팅을 파헤쳐 보자!!",
+            "channel": "강남 신사 안면거상 리프팅 리팅",
+            "url": "https://www.youtube.com/watch?v=XQxes3ig83Y&pp=ygUx66as7YyF7ISx7ZiV7Jm46rO87J2Y7JuQIOyEnOyauOyEse2YleyZuOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "29K"
+          },
+          {
+            "title": "리프팅 수술 당일에도 할 수 있나요?",
+            "channel": "강남 신사 안면거상 리프팅 리팅",
+            "url": "https://www.youtube.com/watch?v=rZU-ITnJvhk&pp=ygUx66as7YyF7ISx7ZiV7Jm46rO87J2Y7JuQIOyEnOyauOyEse2YleyZuOqzvCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "1.5K"
+          },
+          {
+            "title": "나이들수록 안면거상이 효과있는 이유? 50대 이상 필수시청! | 써마지, 울쎄라 말고 동안 되는 확실한 방법",
+            "channel": "강남 신사 안면거상 리프팅 리팅",
+            "url": "https://www.youtube.com/watch?v=sEtKPxXU8Fw&pp=ygUx66as7YyF7ISx7ZiV7Jm46rO87J2Y7JuQIOyEnOyauOyEse2YleyZuOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "8.5K"
+          },
+          {
+            "title": "[#리프팅특강] 나랑 맞는 1등 리프팅은? 고민 부위마다 달라지는 수술방법 🔍 리팅성형외과 서울점 | 조영후 원장님",
+            "channel": "강남 신사 안면거상 리프팅 리팅",
+            "url": "https://www.youtube.com/watch?v=6ruCYLiRlBU&pp=ygUx66as7YyF7ISx7ZiV7Jm46rO87J2Y7JuQIOyEnOyauOyEse2YleyZuOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "22K"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 10,
+  "opportunity_cost_thb": 90000,
+  "opportunity_cost_krw": 3600000
+}

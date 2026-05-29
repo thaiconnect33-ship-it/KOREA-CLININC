@@ -1,0 +1,145 @@
+{
+  "query": "트랜드성형외과의원",
+  "generated_at": "2026-05-28T22:59:16.869Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 16,
+      "extra": {
+        "name": "트랜드 성형외과 의원 피부과",
+        "rating": 4.8,
+        "total_reviews": 16,
+        "sample_size": 20,
+        "foreign_language_reviews": 20,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 20
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 1523717,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUw7Yq4656c65Oc7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "1M"
+          },
+          {
+            "title": "[홍진주의 성형 Q&A] #5. 성형, 선택의 딜레마 '매몰 vs 절개' (제이제이성형외과 홍진주 원장)",
+            "channel": "의학채널 비온뒤",
+            "url": "https://www.youtube.com/watch?v=weJT94cyHbI&pp=ygUw7Yq4656c65Oc7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "5.8K"
+          },
+          {
+            "title": "'성형 전→성형 후' 과장 광고·후기…유명 성형외과 적발 / SBS",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=SvbHboZOVCE&pp=ygUw7Yq4656c65Oc7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "5.9K"
+          },
+          {
+            "title": "코수술, 리프팅 레이저 절대 함부로 하지 마세요❗ 의사가 경고하는 최악의 성형 부작용과 시술의 충격적인 진실",
+            "channel": "닥터케빈 and 텐바디업 10 Body Up",
+            "url": "https://www.youtube.com/watch?v=tc-LzgIT4eE&pp=ygUw7Yq4656c65Oc7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "378K"
+          },
+          {
+            "title": "안면거상수술하면 목주름도 없어진다? - 【feat. 성형외과전문의】",
+            "channel": "시너지성형외과",
+            "url": "https://www.youtube.com/watch?v=AcdmoYXAc4Q&pp=ygUw7Yq4656c65Oc7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "41K"
+          },
+          {
+            "title": "+ 눈 성형/ 군산파티마의원 조상곤 원장",
+            "channel": "전주MBC Original",
+            "url": "https://www.youtube.com/watch?v=EXDXy9azsuQ&pp=ygUw7Yq4656c65Oc7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "933"
+          },
+          {
+            "title": "Lifting is a must! Facial contouring is a global beauty trend~~ (Minerva TV)",
+            "channel": "미네르바TV",
+            "url": "https://www.youtube.com/watch?v=2w5kBmMdikY&pp=ygUw7Yq4656c65Oc7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "1.1K"
+          },
+          {
+            "title": "Lower Blepharoplasty for Middle-Aged vs. Under-Eye Fat Repositioning for Younger People: I’ll Giv...",
+            "channel": "심포니 닥터스",
+            "url": "https://www.youtube.com/watch?v=IgEDmrIMq5c&pp=ygUw7Yq4656c65Oc7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "7.7K"
+          },
+          {
+            "title": "흉터없이 입꼬리수술 할수 있나요? |입꼬리수술|유연한의사들",
+            "channel": "우리성형외과 WOORI beauty TV",
+            "url": "https://www.youtube.com/watch?v=kMhKR7ZV2eY&pp=ygUw7Yq4656c65Oc7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "25K"
+          },
+          {
+            "title": "요즘 난리난 끝판왕 리프팅.. 세르프(XERF) 직접 받아봤습니다..! (성형외과 전문의 솔직 후기)",
+            "channel": "이수현의 예쁨공방",
+            "url": "https://www.youtube.com/watch?v=pMirlpmz1XA&pp=ygUw7Yq4656c65Oc7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "4.6K"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 10,
+  "opportunity_cost_thb": 90000,
+  "opportunity_cost_krw": 3600000
+}

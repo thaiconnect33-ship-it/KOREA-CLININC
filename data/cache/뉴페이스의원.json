@@ -1,0 +1,147 @@
+{
+  "query": "뉴페이스의원",
+  "generated_at": "2026-05-28T23:42:19.714Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 97,
+      "extra": {
+        "place_id": "1102257927",
+        "name": "뉴페이스의원 : 네이버\u001c",
+        "visitor_review_count": 93,
+        "blog_review_count": 4,
+        "detail_url": "https://m.place.naver.com/place/1102257927/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "뉴페이스 의원 | 新面孔美容诊所 | 新しい顔クリニック | NewFace Clinic",
+        "rating": 5,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 6734771,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "[입체성형외과] 뉴페이스⭐안면거상술 전담의 허재원 원장님을 소개합니다!",
+            "channel": "입체TV - IPCHE TV",
+            "url": "https://www.youtube.com/watch?v=nN-6yLhaRhQ&pp=ygUh64m07Y6Y7J207Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "465 views"
+          },
+          {
+            "title": "성형외과 의사 MBTI 검사결과는? 시크릿 뉴페이스 원장님과 함께하는 심리테스트까지! | 도전하는 삼촌",
+            "channel": "고쳐주는 삼촌들",
+            "url": "https://www.youtube.com/watch?v=u1NImhgUd40&pp=ygUh64m07Y6Y7J207Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "726 views"
+          },
+          {
+            "title": "\"Dermatologists don't tell you...\" We recommend popular youth-enhancing procedures these days. We...",
+            "channel": "박지윤의 피부 설명서",
+            "url": "https://www.youtube.com/watch?v=EFB-McCJG48&pp=ygUh64m07Y6Y7J207Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "444K views"
+          },
+          {
+            "title": "“비싼 울쎄라, 써마지 받아도 얼굴 다시 처집니다” 요즘 연예인들이 받는 가성비 시술을 20년차 피부과 전문의가 알려드립니다.",
+            "channel": "피부는 성현철",
+            "url": "https://www.youtube.com/watch?v=P-ooK3XIcKM&pp=ygUh64m07Y6Y7J207Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "344K views"
+          },
+          {
+            "title": "울쎄라, 써마지 받아도 얼굴 다시 처지는 이유. \"노화의 근본 원인 '이것'을 해결하세요\" | 피부과전문의 김협",
+            "channel": "피부텐텐 · 피부가 예뻐지는 10분",
+            "url": "https://www.youtube.com/watch?v=XQyB-faru3k&pp=ygUh64m07Y6Y7J207Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "780K views"
+          },
+          {
+            "title": "\"무료로 받고 후기만 써줘\" 시술 딱 3시간 만에 배가..'충격' #뉴스다 / JTBC News",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=-caUe2UD70A&pp=ygUh64m07Y6Y7J207Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "608K views"
+          },
+          {
+            "title": "Dermatologist Shin Sung-rok Appears [SNL Korea] Season 8 ‘Smile Clinic’ Highlights",
+            "channel": "쿠팡플레이 Coupang Play",
+            "url": "https://www.youtube.com/watch?v=P1IAzz8_5Ag&pp=ygUh64m07Y6Y7J207Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1.7M views"
+          },
+          {
+            "title": "뉴페이스치과병원 워크샵",
+            "channel": "뉴페이스치과병원",
+            "url": "https://www.youtube.com/watch?v=8uext6cbUq4&pp=ygUh64m07Y6Y7J207Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "169 views"
+          },
+          {
+            "title": "피부과 15년차 상담실장님이 말하는 '피부과 호구' 안되는 법 (추천시술 VS 비추천시술.zip📂)",
+            "channel": "황라희 Hwang Lahee",
+            "url": "https://www.youtube.com/watch?v=tD4qcIvpwyM&pp=ygUh64m07Y6Y7J207Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "442K views"
+          },
+          {
+            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUh64m07Y6Y7J207Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1M views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

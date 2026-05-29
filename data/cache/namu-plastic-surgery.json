@@ -1,0 +1,148 @@
+{
+  "query": "Namu Plastic Surgery",
+  "generated_at": "2026-05-29T05:46:46.782Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 504,
+      "extra": {
+        "place_id": "790448507",
+        "name": "씨에스나무병원 : 네이버\u001c",
+        "visitor_review_count": 443,
+        "blog_review_count": 61,
+        "detail_url": "https://m.place.naver.com/place/790448507/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 7,
+      "extra": {
+        "name": "Namu Plastic Surgery",
+        "rating": 3.6,
+        "total_reviews": 7,
+        "sample_size": 8,
+        "foreign_language_reviews": 8,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 8
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 700028,
+        "foreign_video_count": 15,
+        "lang_breakdown": {
+          "korean": 5,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 15
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "Winners Announcement by NAMU Plastic Surgery l BeautySocial",
+            "channel": "BeautySocial l 뷰티소셜",
+            "url": "https://www.youtube.com/watch?v=7-cdOMGDtnM&pp=ygUaTmFtdSBQbGFzdGljIFN1cmdlcnkgS29yZWE%3D",
+            "view_text": "745 views"
+          },
+          {
+            "title": "Namu Plastic Surgery, Seoul, Gangnam",
+            "channel": "CH Admin",
+            "url": "https://www.youtube.com/watch?v=bc3RBagqTts&pp=ygUaTmFtdSBQbGFzdGljIFN1cmdlcnkgS29yZWE%3D",
+            "view_text": "40 views"
+          },
+          {
+            "title": "I Got Lip Filler in South Korea 😂🥴 | Vlog + Footage @Namu | Tori Uptown",
+            "channel": "Tori Uptown",
+            "url": "https://www.youtube.com/watch?v=ukE3ZKHDcb8&pp=ygUaTmFtdSBQbGFzdGljIFN1cmdlcnkgS29yZWE%3D",
+            "view_text": "1.6K views"
+          },
+          {
+            "title": "LIP FILLER IN SOUTH KOREA | Namu Plastic Surgery Clinic",
+            "channel": "Missy",
+            "url": "https://www.youtube.com/watch?v=seTn9nyIbd4&pp=ygUaTmFtdSBQbGFzdGljIFN1cmdlcnkgS29yZWE%3D",
+            "view_text": "6.4K views"
+          },
+          {
+            "title": "Real Review after Accusculpt laser surgery :O",
+            "channel": "English BANOBAGI",
+            "url": "https://www.youtube.com/watch?v=UxOx4cWEiSw&pp=ygUaTmFtdSBQbGFzdGljIFN1cmdlcnkgS29yZWHSBwkJIwsBhyohjO8%3D",
+            "view_text": "2.8K views"
+          },
+          {
+            "title": "VLOG #073 AKU MAU OPLAS DI MIND PLASTIC SURGERY",
+            "channel": "zahra pradanya",
+            "url": "https://www.youtube.com/watch?v=yAAFFzYTBYc&pp=ygUaTmFtdSBQbGFzdGljIFN1cmdlcnkgS29yZWE%3D",
+            "view_text": "2.2K views"
+          },
+          {
+            "title": "찾았다! 쌍꺼풀잘하는병원 나무성형외과!",
+            "channel": "여영",
+            "url": "https://www.youtube.com/watch?v=dNR59aPl_lM&pp=ygUaTmFtdSBQbGFzdGljIFN1cmdlcnkgS29yZWE%3D",
+            "view_text": "3.8K views"
+          },
+          {
+            "title": "I tried two Korean laser treatments and I'm #shook | Korean Skin Treatment",
+            "channel": "YO' HOMEGIRL",
+            "url": "https://www.youtube.com/watch?v=wv4jVScWEOU&pp=ygUaTmFtdSBQbGFzdGljIFN1cmdlcnkgS29yZWE%3D",
+            "view_text": "29K views"
+          },
+          {
+            "title": "나무성형외과 UCC -1",
+            "channel": "DreamFactory",
+            "url": "https://www.youtube.com/watch?v=amtmcIK9ZSc&pp=ygUaTmFtdSBQbGFzdGljIFN1cmdlcnkgS29yZWE%3D",
+            "view_text": "234 views"
+          },
+          {
+            "title": "Eyelid plastic surgery gallery (doctor Park Jae-hee's TV ad model?!)",
+            "channel": "Motive Plastic Surgery Hospital Korea",
+            "url": "https://www.youtube.com/watch?v=VBIA48Vq8JA&pp=ygUaTmFtdSBQbGFzdGljIFN1cmdlcnkgS29yZWE%3D",
+            "view_text": "235 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 16,
+  "opportunity_cost_thb": 88500,
+  "opportunity_cost_krw": 3540000
+}

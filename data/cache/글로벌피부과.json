@@ -1,0 +1,148 @@
+{
+  "query": "글로벌피부과",
+  "generated_at": "2026-05-29T05:59:06.426Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 1405,
+      "extra": {
+        "place_id": "1226600111",
+        "name": "쁨글로벌의원 명동점 : 네이버\u001c",
+        "visitor_review_count": 1387,
+        "blog_review_count": 18,
+        "detail_url": "https://m.place.naver.com/place/1226600111/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "PPEUM Global Clinic Gangnam",
+        "rating": 4.8,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 3680042,
+        "foreign_video_count": 20,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 20
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "TOP 5 Cosmetic Procedures in Korea: What’s Worth Trying?",
+            "channel": "meamo",
+            "url": "https://www.youtube.com/watch?v=2iIg6VOfVTU&pp=ygUYR2xvYmFsIFNraW4gQ2xpbmljIEtvcmVh",
+            "view_text": "16K views"
+          },
+          {
+            "title": "Seoul’s No.1 Skincare Clinic Loved by Global Beauty Insiders | BongBong Plastic Surgery Tour",
+            "channel": "Bong Bong Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=OckYO_5CdW8&pp=ygUYR2xvYmFsIFNraW4gQ2xpbmljIEtvcmVh",
+            "view_text": "259K views"
+          },
+          {
+            "title": "🔥Not sure which skin treatment to get?🔥First time visiting a skin clinic? This is for you!",
+            "channel": "PPEUM GLOBAL OFFICIAL",
+            "url": "https://www.youtube.com/watch?v=rpPHcV4PMQY&pp=ygUYR2xvYmFsIFNraW4gQ2xpbmljIEtvcmVh",
+            "view_text": "351 views"
+          },
+          {
+            "title": "Korea’s Viral Stem Cell IV Glow-Up 💉✨ | Real Anti-Aging Transformation at Renovo Skin Clinic",
+            "channel": "Renovo Skin Clinic",
+            "url": "https://www.youtube.com/watch?v=sLd9ARiHBQI&pp=ygUYR2xvYmFsIFNraW4gQ2xpbmljIEtvcmVh",
+            "view_text": "160 views"
+          },
+          {
+            "title": "*BEST* Korean skin treatments in 2025!! (ft. rejuran, pico, fat dissolving treatments, etc!)",
+            "channel": "Jooshica",
+            "url": "https://www.youtube.com/watch?v=ISExL3UPZu0&pp=ygUYR2xvYmFsIFNraW4gQ2xpbmljIEtvcmVh",
+            "view_text": "48K views"
+          },
+          {
+            "title": "I tried the New Korean \"Goddess\" Skin Treatment",
+            "channel": "Tina Yong",
+            "url": "https://www.youtube.com/watch?v=kyU5-ghlVdQ&pp=ygUYR2xvYmFsIFNraW4gQ2xpbmljIEtvcmVh",
+            "view_text": "1.5M views"
+          },
+          {
+            "title": "Why Korean Skin Treatments Become Global Trends | T1 Clinic x MediKorea Consulting",
+            "channel": "Medikoreaconsulting",
+            "url": "https://www.youtube.com/watch?v=8YDgPok3mAo&pp=ygUYR2xvYmFsIFNraW4gQ2xpbmljIEtvcmVh",
+            "view_text": "7 views"
+          },
+          {
+            "title": "Get Glass Skin in Korea #skincare #glassskin #korea",
+            "channel": "Renovo Skin Clinic",
+            "url": "https://www.youtube.com/watch?v=11qBYYwoYSw&pp=ygUYR2xvYmFsIFNraW4gQ2xpbmljIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "1.6K views"
+          },
+          {
+            "title": "Your Gateway to K-Beauty Excellence | PPEUM Global Clinic",
+            "channel": "PPEUM GLOBAL OFFICIAL",
+            "url": "https://www.youtube.com/watch?v=xSLAe5uFgjk&pp=ygUYR2xvYmFsIFNraW4gQ2xpbmljIEtvcmVh",
+            "view_text": "322 views"
+          },
+          {
+            "title": "Everyone Said My Skin Changed After This Trip… | Lamiche Korea Review",
+            "channel": "yours truly, Yuki",
+            "url": "https://www.youtube.com/watch?v=vOYWzNADU_k&pp=ygUYR2xvYmFsIFNraW4gQ2xpbmljIEtvcmVh",
+            "view_text": "1.5K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 16,
+  "opportunity_cost_thb": 90000,
+  "opportunity_cost_krw": 3600000
+}

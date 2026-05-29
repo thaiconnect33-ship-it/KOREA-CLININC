@@ -1,0 +1,147 @@
+{
+  "query": "비티성형외과의원 강남성형외과",
+  "generated_at": "2026-05-29T00:06:27.852Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 1672,
+      "extra": {
+        "place_id": "1743596862",
+        "name": "비티성형외과의원 강남 : 네이버\u001c",
+        "visitor_review_count": 190,
+        "blog_review_count": 1482,
+        "detail_url": "https://m.place.naver.com/place/1743596862/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 68,
+      "extra": {
+        "name": "BT Plastic Surgery",
+        "rating": 4.8,
+        "total_reviews": 68,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 400105,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "[비티성형외과] 기능코성형 관심 있으시다구요? 한번 들어나보고가시죠!",
+            "channel": "비티성형외과",
+            "url": "https://www.youtube.com/watch?v=mIVPxDUXyl0&t=169s&pp=ygUx67mE7Yuw7ISx7ZiV7Jm46rO87J2Y7JuQIOqwleuCqOyEse2YleyZuOqzvCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "400 views"
+          },
+          {
+            "title": "이래비티 시술 후 주의사항✨ #이래비티 #피부과전문의 #리프팅 #여드름",
+            "channel": "피부원정대",
+            "url": "https://www.youtube.com/watch?v=6LS_dF_O-lU&pp=ygUx67mE7Yuw7ISx7ZiV7Jm46rO87J2Y7JuQIOqwleuCqOyEse2YleyZuOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "1K views"
+          },
+          {
+            "title": "남성 케어도 삐땅기피부클리닉! 살균 작용 효과가 뛰어난 플라즈마BT 시술 영상",
+            "channel": "삐땅기피부클리닉",
+            "url": "https://www.youtube.com/watch?v=T2_lHDlwng0&pp=ygUx67mE7Yuw7ISx7ZiV7Jm46rO87J2Y7JuQIOqwleuCqOyEse2YleyZuOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "40 views"
+          },
+          {
+            "title": "윤곽 수술 후 착용하는 '땡김이' 정확한 착용 기간과 기능을 설명 해드립니다!!_[삼사오 성형외과]",
+            "channel": "삼사오성형외과",
+            "url": "https://www.youtube.com/watch?v=msAJ15k6ZSQ&t=130s&pp=ygUx67mE7Yuw7ISx7ZiV7Jm46rO87J2Y7JuQIOqwleuCqOyEse2YleyZuOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "20K views"
+          },
+          {
+            "title": "[강남 한미인의원] 이래비티 실제사례~! 이래비티 브이로그(VLOG)🤗#이래비티#이래비티리프팅#이래비티시술후기#브이로그#이래비티효과#이래비티가격#이벤트가#탄력시술#화이트닝",
+            "channel": "한미인의원-韓美人醫美",
+            "url": "https://www.youtube.com/watch?v=u8Jj_AnRzg4&pp=ygUx67mE7Yuw7ISx7ZiV7Jm46rO87J2Y7JuQIOqwleuCqOyEse2YleyZuOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "496 views"
+          },
+          {
+            "title": "코수술 잘하는 의사 찾기! 성형외과 실패 없이 고르는 8가지 방법 🚨제발 이런 병원은 피하세요!🚨",
+            "channel": "차민성형외과 CHAMIN Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=ITOR9MQB1XU&pp=ygUx67mE7Yuw7ISx7ZiV7Jm46rO87J2Y7JuQIOqwleuCqOyEse2YleyZuOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "19K views"
+          },
+          {
+            "title": "공장형 피부과에 싫증을 느낀 의사들이 모였다, 비티큐 의원 시작합니다.",
+            "channel": "시술남녀",
+            "url": "https://www.youtube.com/watch?v=01ux_4Ejfd4&pp=ygUx67mE7Yuw7ISx7ZiV7Jm46rO87J2Y7JuQIOqwleuCqOyEse2YleyZuOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "393 views"
+          },
+          {
+            "title": "[2019 강남 의료관광] 외국인들을 위한 한국 강남 성형의 모든 것 _ All About Gangnam's Plastic Surgery _ ENG SUB",
+            "channel": "L-BIZ KOREA엘비즈코리아",
+            "url": "https://www.youtube.com/watch?v=8wNi-OFAjo8&pp=ygUx67mE7Yuw7ISx7ZiV7Jm46rO87J2Y7JuQIOqwleuCqOyEse2YleyZuOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "221 views"
+          },
+          {
+            "title": "한국성형외과의 역사, 나의 스승, 백세민 교수님에 대하여.. [열린 수신함 19편] 레알성형외과 김수신 박사의 성형외과 의사가 본 세상이야기",
+            "channel": "열린수신함",
+            "url": "https://www.youtube.com/watch?v=kPstE52bTz4&pp=ygUx67mE7Yuw7ISx7ZiV7Jm46rO87J2Y7JuQIOqwleuCqOyEse2YleyZuOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "1.4K views"
+          },
+          {
+            "title": "[강남삼성성형외과 플라즈마편] 1편 소개 | Introduction to Plasma Therapy | 等离子简介",
+            "channel": "KS강남삼성성형외과 TV - KsamsungTV",
+            "url": "https://www.youtube.com/watch?v=361z94GBqiY&pp=ygUx67mE7Yuw7ISx7ZiV7Jm46rO87J2Y7JuQIOqwleuCqOyEse2YleyZuOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "1K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 150000,
+  "opportunity_cost_krw": 6000000
+}

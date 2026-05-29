@@ -1,0 +1,138 @@
+{
+  "query": "메디파크의원",
+  "generated_at": "2026-05-28T23:50:58.246Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 38,
+      "extra": {
+        "place_id": "37774547",
+        "name": "메디파크의원 : 네이버\u001c",
+        "visitor_review_count": 35,
+        "blog_review_count": 3,
+        "detail_url": "https://m.place.naver.com/place/37774547/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "Google Maps 결과 없음",
+        "foreign_language_reviews": 0
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 71772,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "여성메디파크병원 질필러 영상",
+            "channel": "여성메디파크병원",
+            "url": "https://www.youtube.com/watch?v=dhQyKUiab2o&pp=ygUk66mU65SU7YyM7YGs7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "13K views"
+          },
+          {
+            "title": "여성메디파크병원 질성형 영상",
+            "channel": "여성메디파크병원",
+            "url": "https://www.youtube.com/watch?v=xlnl-kg1rh0&pp=ygUk66mU65SU7YyM7YGs7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "4.2K views"
+          },
+          {
+            "title": "여성메디파크병원 TBC클리닉 건강365  \"여성의 적,  부인과 질환 \"",
+            "channel": "여성메디파크병원",
+            "url": "https://www.youtube.com/watch?v=CDZx4LTYn6k&pp=ygUk66mU65SU7YyM7YGs7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "818 views"
+          },
+          {
+            "title": "서울리스타 성형외과 리얼스토리 2편",
+            "channel": "메디캔",
+            "url": "https://www.youtube.com/watch?v=DCI_jjXOIJU&pp=ygUk66mU65SU7YyM7YGs7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "2.4K views"
+          },
+          {
+            "title": "수술을 대체하는 XXX필러가 있다? [#연세메디노블 #반영구필러]",
+            "channel": "연세메디노블 Yonsei Medinoble",
+            "url": "https://www.youtube.com/watch?v=OKZAW_3JY1s&pp=ygUk66mU65SU7YyM7YGs7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "3.3K views"
+          },
+          {
+            "title": "얼굴 지방을 녹일 수 있어 주의해야 하는 시술들",
+            "channel": "연세메디노블 Yonsei Medinoble",
+            "url": "https://www.youtube.com/watch?v=NS-SKp7OGZg&pp=ygUk66mU65SU7YyM7YGs7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "5.5K views"
+          },
+          {
+            "title": "한방질성형 후, 부부관계는 어떻게?",
+            "channel": "규림한의원",
+            "url": "https://www.youtube.com/watch?v=PhwTufYrV0s&pp=ygUk66mU65SU7YyM7YGs7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "148 views"
+          },
+          {
+            "title": "압구정 미소산부인과 엠보싱 필러 질성형",
+            "channel": "Minjoo Lee",
+            "url": "https://www.youtube.com/watch?v=uZpCV06euLs&pp=ygUk66mU65SU7YyM7YGs7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "107 views"
+          },
+          {
+            "title": "질축소수술",
+            "channel": "dd d",
+            "url": "https://www.youtube.com/watch?v=0MqGpHYsKyA&pp=ygUk66mU65SU7YyM7YGs7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "500 views"
+          },
+          {
+            "title": "베트남 깜의 신데렐라 랜선투어｜신데렐라성형외과｜CINDERELLA PLASTIC SURGERY",
+            "channel": "신데렐라성형외과 | Cinderella Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=44OpJSI1JZs&pp=ygUk66mU65SU7YyM7YGs7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "137 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

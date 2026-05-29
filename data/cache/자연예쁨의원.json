@@ -1,0 +1,104 @@
+{
+  "query": "자연예쁨의원",
+  "generated_at": "2026-05-29T05:33:35.953Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "자연예쁨의원(自然美容クリニック)NBclinic",
+        "rating": 5,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 3,
+      "extra": {
+        "total_views": 11817,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 3,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 3,
+        "top_videos": [
+          {
+            "title": "함영찬의 Beauty Box 필러Q&A",
+            "channel": "반해남TV. with 바노바기의원 대전",
+            "url": "https://www.youtube.com/watch?v=B8lWquFdtqY&pp=ygUn7J6Q7Jew7JiI7IGo7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1.8K views"
+          },
+          {
+            "title": "피부 부작용치료 , 무리한 시술, 나에게 맞지 않는 피부치료로 인한 부작용발생시 치료방법은?!",
+            "channel": "조용한라마르",
+            "url": "https://www.youtube.com/watch?v=eC_0oGJuS90&pp=ygUn7J6Q7Jew7JiI7IGo7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "117 views"
+          },
+          {
+            "title": "[홍진주의 성형Q&A] #8 쌍수 상담전에 알면 좋은 것들 (제이제이성형외과 홍진주 원장, 정건일 원장)",
+            "channel": "의학채널 비온뒤",
+            "url": "https://www.youtube.com/watch?v=uatZP4wgIbc&pp=ygUn7J6Q7Jew7JiI7IGo7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "9.9K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

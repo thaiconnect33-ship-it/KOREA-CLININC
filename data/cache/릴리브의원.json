@@ -1,0 +1,103 @@
+{
+  "query": "릴리브의원",
+  "generated_at": "2026-05-28T22:39:12.315Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "릴리브의원｜ Relieve Clinic",
+        "rating": 4.9,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 3,
+      "extra": {
+        "total_views": 663000,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 3,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 3,
+        "top_videos": [
+          {
+            "title": "전직 피부과직원이 말하는 리쥬란힐러 효과 100% 보는 방법",
+            "channel": "소의튜브soytube",
+            "url": "https://www.youtube.com/watch?v=6y2qa9G0OFg&pp=ygUk66a066as67iM7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "198K views"
+          },
+          {
+            "title": "서울대 피부과의사가 찍어주는 스킨부스터 완벽 정리. \"이 영상보면 호구 안당합니다\" - 이도영 피부과전문의",
+            "channel": "피부텐텐 · 피부가 예뻐지는 10분",
+            "url": "https://www.youtube.com/watch?v=rigKW7zrTeI&pp=ygUk66a066as67iM7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "338K views"
+          },
+          {
+            "title": "가격이 싼 병원은 이것 때문에 싼 거예요 😨 스킨부스터 리쥬란힐러와 쥬베룩!",
+            "channel": "피부해결사 퓨린언니",
+            "url": "https://www.youtube.com/watch?v=LgnL3aqQxs8&pp=ygUk66a066as67iM7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "127K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

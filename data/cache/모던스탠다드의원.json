@@ -1,0 +1,148 @@
+{
+  "query": "모던스탠다드의원",
+  "generated_at": "2026-05-29T05:33:52.669Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 951,
+      "extra": {
+        "place_id": "1420242508",
+        "name": "모던스탠다드의원 : 네이버\u001c",
+        "visitor_review_count": 927,
+        "blog_review_count": 24,
+        "detail_url": "https://m.place.naver.com/place/1420242508/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "모던스탠다드 의원",
+        "rating": 5,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 3931600,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "\"아프고 돈만 날립니다\" 제모 수만번 해본 의사가 알려주는 10번 해도 그대로인 이유ㅣ레이저 제모 잘하는 방법",
+            "channel": "피부는 성현철",
+            "url": "https://www.youtube.com/watch?v=QqRrAVySy9I&pp=ygUn66qo642Y7Iqk7YOg64uk65Oc7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "43K views"
+          },
+          {
+            "title": "좋다고 해서 하면 후회합니다. 수염 레이저 제모 5년차가 알려주는 레이저 제모 후기 [가격 / 부작용 / 관리법]",
+            "channel": "비트 BTE",
+            "url": "https://www.youtube.com/watch?v=dtSUGVOu2n4&pp=ygUn66qo642Y7Iqk7YOg64uk65Oc7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "366K views"
+          },
+          {
+            "title": "시술 중단하자 \"못 줘요\"…\"잘하는 피부과랬는데\" 날벼락 / SBS 8뉴스",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=TAw-bgwY4Rs&pp=ygUn66qo642Y7Iqk7YOg64uk65Oc7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "36K views"
+          },
+          {
+            "title": "Why Your Beard Doesn't Get Rid of Hair Even After 10 Removals | A Doctor Shares Tips to Increase ...",
+            "channel": "동네 의사 이상욱",
+            "url": "https://www.youtube.com/watch?v=-YB0PZxV2us&pp=ygUn66qo642Y7Iqk7YOg64uk65Oc7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "159K views"
+          },
+          {
+            "title": "\"We only do cosmetic procedures🙏\" / SBS News",
+            "channel": "스브스뉴스 SUBUSUNEWS",
+            "url": "https://www.youtube.com/watch?v=6TP46DE9R08&pp=ygUn66qo642Y7Iqk7YOg64uk65Oc7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "707K views"
+          },
+          {
+            "title": "레이저제모 이렇게 하면 절~대 효과 못 봅니다!",
+            "channel": "의사일세 - 피부는 성일세",
+            "url": "https://www.youtube.com/watch?v=vTz-bjJ9sSg&pp=ygUn66qo642Y7Iqk7YOg64uk65Oc7J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "76K views"
+          },
+          {
+            "title": "수염 레이저 제모 6회차 후기 (feat.현존 최고의 제모 기계)",
+            "channel": "털털이 TTE",
+            "url": "https://www.youtube.com/watch?v=8VKe0F0OSE8&pp=ygUn66qo642Y7Iqk7YOg64uk65Oc7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "31K views"
+          },
+          {
+            "title": "알쓸피식 - LED 마스크의 올바른사용법 (효과,부작용 등)",
+            "channel": "알쓸피식- 피부과전문의 이하은",
+            "url": "https://www.youtube.com/watch?v=9oke3PJQYMc&pp=ygUn66qo642Y7Iqk7YOg64uk65Oc7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "31K views"
+          },
+          {
+            "title": "I went to the dermatologist for the first time in a while (I removed the dark spots, which was on...",
+            "channel": "마이맘 TV",
+            "url": "https://www.youtube.com/watch?v=EUfy78vK3ss&pp=ygUn66qo642Y7Iqk7YOg64uk65Oc7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "123K views"
+          },
+          {
+            "title": "수염 레이저제모 얼마나 유지될까? (기계 추천,  가격, 후기)",
+            "channel": "NEW 임파",
+            "url": "https://www.youtube.com/watch?v=KZ1vY0hUS-g&pp=ygUn66qo642Y7Iqk7YOg64uk65Oc7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "100K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

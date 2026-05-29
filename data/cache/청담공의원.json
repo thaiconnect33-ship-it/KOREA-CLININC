@@ -1,0 +1,147 @@
+{
+  "query": "청담공의원",
+  "generated_at": "2026-05-28T22:25:01.221Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 769,
+      "extra": {
+        "place_id": "1220685651",
+        "name": "청담공의원 : 네이버\u001c",
+        "visitor_review_count": 692,
+        "blog_review_count": 77,
+        "detail_url": "https://m.place.naver.com/place/1220685651/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 248,
+      "extra": {
+        "name": "Results",
+        "rating": 4.9,
+        "total_reviews": 248,
+        "sample_size": 9,
+        "foreign_language_reviews": 9,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 9
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 410284,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "요즘 현대인들이 다들 가지고 있는게 무엇이 있을까요?  청담공드림피부과   공쌤, 권쌤이 알아봅니다.  브이로그서촌",
+            "channel": "아트킹(artking)",
+            "url": "https://www.youtube.com/watch?v=7G_0qGTAAg4&pp=ygUe7LKt64u06rO17J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "68 views"
+          },
+          {
+            "title": "얼마에요?   I  Ep31",
+            "channel": "공드림피부과",
+            "url": "https://www.youtube.com/watch?v=WWAkysVvUvA&pp=ygUe7LKt64u06rO17J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "8.8K views"
+          },
+          {
+            "title": "2026년 피부 시술 추천 vs 비추천 총정리｜지금 받아야 하는 핫한 시술은 이거🔥 (스킨부스터, 리프팅, 동안시술,줄기세포)",
+            "channel": "청담 닥터원",
+            "url": "https://www.youtube.com/watch?v=SVeV1eiGTTk&pp=ygUe7LKt64u06rO17J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "9K views"
+          },
+          {
+            "title": "원장님이 직접 상담하는 청담동 진료위한 병원 방문기 (상담편)",
+            "channel": "청담동 금손 김원장",
+            "url": "https://www.youtube.com/watch?v=vcvoyErE-q0&pp=ygUe7LKt64u06rO17J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "3K views"
+          },
+          {
+            "title": "토닝에 대한 모든 것! I  Ep37",
+            "channel": "공드림피부과",
+            "url": "https://www.youtube.com/watch?v=90qGRoMLy9w&pp=ygUe7LKt64u06rO17J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "577 views"
+          },
+          {
+            "title": "리쥬란보다 가성비 갑 시술! I  Ep51",
+            "channel": "공드림피부과",
+            "url": "https://www.youtube.com/watch?v=Oo5h0AxCHqw&pp=ygUe7LKt64u06rO17J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "2.1K views"
+          },
+          {
+            "title": "보톡스로 치료하기! I  Ep50",
+            "channel": "공드림피부과",
+            "url": "https://www.youtube.com/watch?v=A8VjVHUOUn4&pp=ygUe7LKt64u06rO17J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "5.2K views"
+          },
+          {
+            "title": "얼굴 주변에 뭔가 나기 시작한다!?? I  Ep46",
+            "channel": "공드림피부과",
+            "url": "https://www.youtube.com/watch?v=IPXcYrQLXko&pp=ygUe7LKt64u06rO17J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1.6K views"
+          },
+          {
+            "title": "피부암에 대한 이야기  I  Ep36",
+            "channel": "공드림피부과",
+            "url": "https://www.youtube.com/watch?v=80bLUjW3pKg&pp=ygUe7LKt64u06rO17J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1K views"
+          },
+          {
+            "title": "노화 고민 해결│피부기초반│#청담유앤미의원 #위찬우원장",
+            "channel": "청담 유앤미 위찬우원장",
+            "url": "https://www.youtube.com/watch?v=pVbdk24bKzI&pp=ygUe7LKt64u06rO17J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "729 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 5,
+  "opportunity_cost_thb": 135500,
+  "opportunity_cost_krw": 5420000
+}

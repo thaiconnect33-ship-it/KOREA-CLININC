@@ -1,0 +1,117 @@
+{
+  "query": "밴스의원 잠실역피부과",
+  "generated_at": "2026-05-28T23:25:41.712Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 2720,
+      "extra": {
+        "place_id": "2061407729",
+        "name": "밴스의원 잠실역 : 네이버\u001c",
+        "visitor_review_count": 616,
+        "blog_review_count": 2104,
+        "detail_url": "https://m.place.naver.com/place/2061407729/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "VandS Clinic Jamsil branch (Lotte Tower)",
+        "rating": 5,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 5,
+      "extra": {
+        "total_views": 4374703,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 5,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 5,
+        "top_videos": [
+          {
+            "title": "🔥피부과 전문의 원장님이 직접 말하는 #젠틀맥스프로플러스 A-Z🔥｜동탄피부과",
+            "channel": "밴스의원 VandS Clinic",
+            "url": "https://www.youtube.com/watch?v=kbEaRT3Y8Hs&pp=ygUl67C07Iqk7J2Y7JuQIOyeoOyLpOyXre2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "703 views"
+          },
+          {
+            "title": "\"엉터리 정보에 속지마세요.\" 진료과목 피부과 의사가 뽑은 가성비 시술 딱 '3가지'",
+            "channel": "지식인사이드",
+            "url": "https://www.youtube.com/watch?v=a4S4JNnRIXQ&pp=ygUl67C07Iqk7J2Y7JuQIOyeoOyLpOyXre2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "1.7M views"
+          },
+          {
+            "title": "피부과 시술 부작용 Vlog…ㅠ 내 피부 돌려줘.. 다신 안해…🫠ㅣMINCARONG",
+            "channel": "민카롱",
+            "url": "https://www.youtube.com/watch?v=wRJR2kY2x9w&pp=ygUl67C07Iqk7J2Y7JuQIOyeoOyLpOyXre2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "1.7M views"
+          },
+          {
+            "title": "\"무료로 받고 후기만 써줘\" 시술 딱 3시간 만에 배가..'충격' #뉴스다 / JTBC News",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=-caUe2UD70A&pp=ygUl67C07Iqk7J2Y7JuQIOyeoOyLpOyXre2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "608K views"
+          },
+          {
+            "title": "좋다고 해서 하면 후회합니다. 수염 레이저 제모 5년차가 알려주는 레이저 제모 후기 [가격 / 부작용 / 관리법]",
+            "channel": "비트 BTE",
+            "url": "https://www.youtube.com/watch?v=dtSUGVOu2n4&pp=ygUl67C07Iqk7J2Y7JuQIOyeoOyLpOyXre2UvOu2gOqzvCBLb3JlYdIHCQkNCwGHKiGM7w%3D%3D",
+            "view_text": "366K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 90000,
+  "opportunity_cost_krw": 3600000
+}

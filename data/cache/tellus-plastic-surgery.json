@@ -1,0 +1,146 @@
+{
+  "query": "Tellus Plastic Surgery",
+  "generated_at": "2026-05-29T05:44:27.853Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Results",
+        "rating": 4.9,
+        "total_reviews": 0,
+        "sample_size": 9,
+        "foreign_language_reviews": 9,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 9
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 13,
+      "extra": {
+        "total_views": 56349316,
+        "foreign_video_count": 13,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 13
+        },
+        "sample_size": 13,
+        "top_videos": [
+          {
+            "title": "Behind the plastic surgery boom in South Korea",
+            "channel": "CBS Mornings",
+            "url": "https://www.youtube.com/watch?v=ZSAoETxubSI&pp=ygUcVGVsbHVzIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "6.5M views"
+          },
+          {
+            "title": "Koreans Get Photoshopped With Plastic Surgery Ideals",
+            "channel": "BuzzFeedVideo",
+            "url": "https://www.youtube.com/watch?v=YD0TRbLmZaw&pp=ygUcVGVsbHVzIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "15M views"
+          },
+          {
+            "title": "'Korean Plastic Surgery' Pictures Go Viral",
+            "channel": "The Young Turks",
+            "url": "https://www.youtube.com/watch?v=zrqc-VYaMTg&pp=ygUcVGVsbHVzIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "1.6M views"
+          },
+          {
+            "title": "Why South Korea Is the Plastic Surgery Capital of the World | The Plastics | Harper's BAZAAR",
+            "channel": "Harper's BAZAAR",
+            "url": "https://www.youtube.com/watch?v=omOGKuDtbdI&pp=ygUcVGVsbHVzIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "694K views"
+          },
+          {
+            "title": "K-Pop is Influencing Korean Teen's to have Cosmetic Surgery",
+            "channel": "SBS Dateline",
+            "url": "https://www.youtube.com/watch?v=AjWqshVF5lA&pp=ygUcVGVsbHVzIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "941K views"
+          },
+          {
+            "title": "South Korea's Obsession With Plastic Surgery | Obsessions | S1E04 | Beyond Documentary",
+            "channel": "Extreme Docs",
+            "url": "https://www.youtube.com/watch?v=Qiwww14oyA4&pp=ygUcVGVsbHVzIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "959K views"
+          },
+          {
+            "title": "Annie Visits The Plastic Surgery Capital Of The World: South Korea",
+            "channel": "BBC Three",
+            "url": "https://www.youtube.com/watch?v=TNGbC8II07E&pp=ygUcVGVsbHVzIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "8.3M views"
+          },
+          {
+            "title": "Plastic Surgery: The Cost of Beauty | 101 East",
+            "channel": "Al Jazeera English",
+            "url": "https://www.youtube.com/watch?v=wp4YZdSz2aA&pp=ygUcVGVsbHVzIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "4.3M views"
+          },
+          {
+            "title": "MY PLASTIC SURGERY TRIP TO KOREA Part 2 (Facial contour, Rhinoplasty & Double eyelid surgery)",
+            "channel": "BRAUN Global Aesthetic",
+            "url": "https://www.youtube.com/watch?v=lhBS9RV60jk&pp=ygUcVGVsbHVzIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "9.9M views"
+          },
+          {
+            "title": "25  YEAR OLD  .-  TRANSFORMS TO AN ELF AFTER 25 000 PUND SURGERY!!",
+            "channel": "wesse boyman",
+            "url": "https://www.youtube.com/watch?v=TNhPh8OFPBs&pp=ygUcVGVsbHVzIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "185 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 15,
+  "opportunity_cost_thb": 89000,
+  "opportunity_cost_krw": 3560000
+}

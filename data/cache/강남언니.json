@@ -1,0 +1,154 @@
+{
+  "query": "강남언니",
+  "generated_at": "2026-05-29T05:50:35.687Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 66,
+      "extra": {
+        "place_id": "18163430",
+        "name": "강남언니 : 네이버\u001c",
+        "visitor_review_count": 64,
+        "blog_review_count": 2,
+        "detail_url": "https://m.place.naver.com/place/18163430/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Results",
+        "rating": 4.9,
+        "total_reviews": 0,
+        "sample_size": 6,
+        "foreign_language_reviews": 6,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 6
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 1,
+      "extra": {
+        "threads": [
+          {
+            "title": "[K-POP] แปลคอมเม้นต์ชาวเน็ทเกาหลี 06/08/15",
+            "url": "https://pantip.com/topic/34020831",
+            "views": 0
+          }
+        ],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 337644,
+        "foreign_video_count": 17,
+        "lang_breakdown": {
+          "korean": 3,
+          "thai": 1,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 16
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "How to Choose a Plastic Surgery Clinic in Korea | A Gangnam Doctor's Honest Guide",
+            "channel": "Gangnam Doctor",
+            "url": "https://www.youtube.com/watch?v=i79ZgirNAM0&pp=ygUSR2FuZ25hbSBVbm5pIEtvcmVh",
+            "view_text": "99 views"
+          },
+          {
+            "title": "Learn Korean - Why 강남스타일? Gangnam Style?",
+            "channel": "은비언니 Eunbi Unni",
+            "url": "https://www.youtube.com/watch?v=m_OqU84EbOk&pp=ygUSR2FuZ25hbSBVbm5pIEtvcmVh",
+            "view_text": "85 views"
+          },
+          {
+            "title": "BIGGEST OLIVE YOUNG Sale of the Year🚨Most Sold PDRN in Korea, FRESH DROPS, Personal Shopper!",
+            "channel": "EuniUnni",
+            "url": "https://www.youtube.com/watch?v=NWvs2AKf4cI&pp=ygUSR2FuZ25hbSBVbm5pIEtvcmVh",
+            "view_text": "65K views"
+          },
+          {
+            "title": "[รีวิวศัลยกรรมเกาหลี] Vlog เปลี่ยนรูปหน้าครั้งแรกที่เกาหลี!! ผ่าตัดโครงหน้า V-line | BEAMSAREEDA",
+            "channel": "โรงพยาบาลศัลยกรรมวิว View plastic surgery",
+            "url": "https://www.youtube.com/watch?v=Bfmab6iOWow&pp=ygUSR2FuZ25hbSBVbm5pIEtvcmVh",
+            "view_text": "3.2K views"
+          },
+          {
+            "title": "Facelift FAQ) Is it possible for an eye lift like cat-eyes during a forehead lift?",
+            "channel": "VLIF Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=yPK6EmAPTc8&pp=ygUSR2FuZ25hbSBVbm5pIEtvcmVh",
+            "view_text": "1K views"
+          },
+          {
+            "title": "DRAMA LOCATION TOUR! Walking Tour of SEOUL CITY WALL!  [Hanyang Doseong]",
+            "channel": "Cherish Unni",
+            "url": "https://www.youtube.com/watch?v=h2SJCyaPKMI&pp=ygUSR2FuZ25hbSBVbm5pIEtvcmVh",
+            "view_text": "11K views"
+          },
+          {
+            "title": "Gangnam Aesthetics",
+            "channel": "Gangnam Aesthetics",
+            "url": "https://www.youtube.com/watch?v=4EgxRLEEzTA&pp=ygUSR2FuZ25hbSBVbm5pIEtvcmVh",
+            "view_text": "1.5K views"
+          },
+          {
+            "title": "THE ULTIMATE SEOUL BUCKET LIST #1 | Gyeongbokgung Palace & Samcheong Dong Tour",
+            "channel": "EuniUnni",
+            "url": "https://www.youtube.com/watch?v=iVHqe5zGMJw&pp=ygUSR2FuZ25hbSBVbm5pIEtvcmVh",
+            "view_text": "4.4K views"
+          },
+          {
+            "title": "Unni's Gangnam Style",
+            "channel": "abihijith br",
+            "url": "https://www.youtube.com/watch?v=dcXQu_6wbxw&pp=ygUSR2FuZ25hbSBVbm5pIEtvcmVh",
+            "view_text": "278 views"
+          },
+          {
+            "title": "SEONGSU SHOPPING, OLIVE YOUNG, HAUS NOWHERE, HOUSE OF SHINSEGAE, happy holidays from Seoul🎄🎁",
+            "channel": "EuniUnni",
+            "url": "https://www.youtube.com/watch?v=Edh7OO_bHXI&pp=ygUSR2FuZ25hbSBVbm5pIEtvcmVh",
+            "view_text": "6.9K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 17,
+  "opportunity_cost_thb": 88000,
+  "opportunity_cost_krw": 3520000
+}

@@ -1,0 +1,145 @@
+{
+  "query": "유투성형외과의원",
+  "generated_at": "2026-05-28T22:32:04.234Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 19,
+      "extra": {
+        "name": "유투성형외과의원 U2美容整形皮肤科诊所, U2美容外科皮膚科",
+        "rating": 4.9,
+        "total_reviews": 19,
+        "sample_size": 20,
+        "foreign_language_reviews": 18,
+        "lang_breakdown": {
+          "korean": 2,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 18
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 1038159,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "안면거상수술하면 목주름도 없어진다? - 【feat. 성형외과전문의】",
+            "channel": "시너지성형외과",
+            "url": "https://www.youtube.com/watch?v=AcdmoYXAc4Q&pp=ygUw7Jyg7Yis7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "41K views"
+          },
+          {
+            "title": "[홍진주의 성형 Q&A] #5. 성형, 선택의 딜레마 '매몰 vs 절개' (제이제이성형외과 홍진주 원장)",
+            "channel": "의학채널 비온뒤",
+            "url": "https://www.youtube.com/watch?v=weJT94cyHbI&pp=ygUw7Jyg7Yis7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "5.8K views"
+          },
+          {
+            "title": "저... 앞트임복원 TOP3 아닌가요? 송승욱 원장도 어려웠던 앞트임복원 케이스 모음",
+            "channel": "고쳐주는 삼촌들",
+            "url": "https://www.youtube.com/watch?v=pZltd3F3vyI&pp=ygUw7Jyg7Yis7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "7.1K views"
+          },
+          {
+            "title": "[SODA] 소다성형외과 | 안면윤곽 수술시 예뻐지는/제한적인 유형",
+            "channel": "소다성형외과",
+            "url": "https://www.youtube.com/watch?v=TQ-dM_keBr0&pp=ygUw7Jyg7Yis7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "53K views"
+          },
+          {
+            "title": "눈성형,코성형 수술기구 전격 공개! (성형외과 수술실에서 무슨일이 일어날까 3편)",
+            "channel": "닥터혜자",
+            "url": "https://www.youtube.com/watch?v=FIIqCKR4nKk&pp=ygUw7Jyg7Yis7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "9.2K views"
+          },
+          {
+            "title": "\"눈 밑 수술했다가 X신 됐다\"…병원에선 \"명예훼손 고소\" / JTBC 사건반장",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=BgFgWiQm09w&pp=ygUw7Jyg7Yis7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "827K views"
+          },
+          {
+            "title": "ㅂㄹㅂㅌ인터뷰] 글로비성형외과 쏘-스윗! 쌍수셀럽 박종철 원장님 preview",
+            "channel": "coding_stuff",
+            "url": "https://www.youtube.com/watch?v=lt85PPr3i3Y&pp=ygUw7Jyg7Yis7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.6K views"
+          },
+          {
+            "title": "불법 시술 또는 녹지 않는 필러 때문에 얼굴 이물질제거 해야 한다면?",
+            "channel": "압구정 김형진베이직성형외과",
+            "url": "https://www.youtube.com/watch?v=i5Ayyhizgqs&pp=ygUw7Jyg7Yis7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "17K views"
+          },
+          {
+            "title": "\"Why is it so hard to get a consultation at Almond? 😢\" Director, please explain..! Let's check it...",
+            "channel": "AMOND TV - 아몬드성형외과",
+            "url": "https://www.youtube.com/watch?v=VHmF-XOUB2k&pp=ygUw7Jyg7Yis7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "21K views"
+          },
+          {
+            "title": "쌍커풀 수술 '자연유착' 이 궁금하다 ! (feat.친절상담)",
+            "channel": "드레스성형외과의원",
+            "url": "https://www.youtube.com/watch?v=I1Hqwbo1N8o&pp=ygUw7Jyg7Yis7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "13K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 9,
+  "opportunity_cost_thb": 91000,
+  "opportunity_cost_krw": 3640000
+}

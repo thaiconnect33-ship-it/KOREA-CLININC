@@ -1,0 +1,147 @@
+{
+  "query": "YES성형외과의원",
+  "generated_at": "2026-05-28T23:50:38.915Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 1940,
+      "extra": {
+        "place_id": "1247494655",
+        "name": "세이예스의원 : 네이버\u001c",
+        "visitor_review_count": 175,
+        "blog_review_count": 1765,
+        "detail_url": "https://m.place.naver.com/place/1247494655/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 4,
+      "extra": {
+        "name": "YES성형외과",
+        "rating": 4,
+        "total_reviews": 4,
+        "sample_size": 8,
+        "foreign_language_reviews": 8,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 8
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 213104,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "쉽지않았다..부천..부천 병원생활 썰👌 #부천성형외과 #예스성형외과",
+            "channel": "YES 닥터",
+            "url": "https://www.youtube.com/watch?v=IpUyTHgWWug&pp=ygUnWUVT7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "2.4K views"
+          },
+          {
+            "title": "[예스성형외과] 상안검수술+하안검수술, 눈썹하거상술+쌍수.. 같이해야 더 효과있다!! # 중년 눈성형, 눈재수술 유명한 병원",
+            "channel": "눈성형 눈재수술 명가 - 예스성형외과",
+            "url": "https://www.youtube.com/watch?v=HjpJEICQ3IQ&pp=ygUnWUVT7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "2.5K views"
+          },
+          {
+            "title": "[예스성형외과]  눈썹하거상술, 상안검수술, 하안거수술, 얼마나 유지될까?  by 중년 눈성형 장인, 김동현 원장",
+            "channel": "눈성형 눈재수술 명가 - 예스성형외과",
+            "url": "https://www.youtube.com/watch?v=Whdq4b25EMo&pp=ygUnWUVT7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "5.3K views"
+          },
+          {
+            "title": "[예스성형외과] 20년 경력의 눈성형·눈재수술 중점 진료 의사, 김동현 원장이 말하는 '명의의 조건'! 의사는 고도의 집중력을 키우기 위해 어떤 관리를 할까? 눈재수술유명한곳",
+            "channel": "눈성형 눈재수술 명가 - 예스성형외과",
+            "url": "https://www.youtube.com/watch?v=JxM8uHUP1uA&pp=ygUnWUVT7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "709 views"
+          },
+          {
+            "title": "눈수술 후 붓기, 멍, 회복기간 빠르게 하는 법 (의사의 테크닉 차이)",
+            "channel": "눈성형 눈재수술 명가 - 예스성형외과",
+            "url": "https://www.youtube.com/watch?v=vgQQvkxP6ts&pp=ygUnWUVT7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "1.4K views"
+          },
+          {
+            "title": "[예스성형외과] 눈성형·눈재수술, A/S도 따져봐야 한다! 실제로 A/S 받는 비율은 얼마나 될까? #눈성형 #눈재수술 #쌍꺼풀재수술 #쌍꺼풀수술#쌍커풀수술#쌍수#눈매교정#안검하수",
+            "channel": "눈성형 눈재수술 명가 - 예스성형외과",
+            "url": "https://www.youtube.com/watch?v=pfDaimBOlew&pp=ygUnWUVT7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "936 views"
+          },
+          {
+            "title": "[예스성형외과] 전후사진과 함께보는 크고 자연스러운 '남자눈매교정'의 모든 것! 남자눈성형,남자비절개눈매교정,남자절개눈매교정",
+            "channel": "눈성형 눈재수술 명가 - 예스성형외과",
+            "url": "https://www.youtube.com/watch?v=y5AwiRR7kdk&pp=ygUnWUVT7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "588 views"
+          },
+          {
+            "title": "[예스성형외과] 남자눈매교정, 쌍꺼풀 없이 눈이 커진다? 남자눈성형 고민이면 얼른 영상보기!",
+            "channel": "눈성형 눈재수술 명가 - 예스성형외과",
+            "url": "https://www.youtube.com/watch?v=srf36SmsgfE&pp=ygUnWUVT7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "4.6K views"
+          },
+          {
+            "title": "상안검수술 할 때 눈매교정 필요없습니다! #중년눈성형 필수 시청🚨",
+            "channel": "눈성형 눈재수술 명가 - 예스성형외과",
+            "url": "https://www.youtube.com/watch?v=O6XqBGOvxCI&pp=ygUnWUVT7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "2.3K views"
+          },
+          {
+            "title": "🤔Yes! or No? 성형외과 원장이 알려주는 필러 시술 팩트체크 2탄!🤔",
+            "channel": "와우성형외과",
+            "url": "https://www.youtube.com/watch?v=2DlPJ2SAOxo&pp=ygUnWUVT7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "155 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 4,
+  "opportunity_cost_thb": 96000,
+  "opportunity_cost_krw": 3840000
+}

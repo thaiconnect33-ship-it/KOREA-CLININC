@@ -1,0 +1,148 @@
+{
+  "query": "라비체의원",
+  "generated_at": "2026-05-29T06:03:55.850Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 554,
+      "extra": {
+        "place_id": "2011249807",
+        "name": "라비체의원 : 네이버\u001c",
+        "visitor_review_count": 166,
+        "blog_review_count": 388,
+        "detail_url": "https://m.place.naver.com/place/2011249807/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 14,
+      "extra": {
+        "name": "라비체의원(lavicheclinic/ラビチェ医院/莱碧澈诊所)",
+        "rating": 5,
+        "total_reviews": 14,
+        "sample_size": 30,
+        "foreign_language_reviews": 30,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 30
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 10490353,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "내 몸에 맞는 cc가 따로 있습니다. 내 cc 찾기, My-cc",
+            "channel": "라비체 TV - 라비체의원(LAVICHE clinic)",
+            "url": "https://www.youtube.com/watch?v=-FGyPw0YY0c&pp=ygUh652867mE7LK07J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "178 views"
+          },
+          {
+            "title": "[단독] 강남 성형외과에 '분통'…\"근육 썩고 사경 헤맸다\" / SBS 8뉴스",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=svfX3-lNpIw&pp=ygUh652867mE7LK07J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "2.4M views"
+          },
+          {
+            "title": "The Truth Behind CCTV Footage of Brain Death After Liposuction [Whistleblowers] 20200819",
+            "channel": "KBS 다큐",
+            "url": "https://www.youtube.com/watch?v=Oa1cnInjgBE&pp=ygUh652867mE7LK07J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "4.9M views"
+          },
+          {
+            "title": "지방흡입 가격이 병원마다 다른 이유는?!  이것 때문입니다!!",
+            "channel": "DR.엔슬림 지방흡입연구소",
+            "url": "https://www.youtube.com/watch?v=S_jD4f5Yf2s&pp=ygUh652867mE7LK07J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "3.3K views"
+          },
+          {
+            "title": "SM 천상계 연예인으로 만들어준다는 성형외과!!",
+            "channel": "핫이슈HOT ISSUE",
+            "url": "https://www.youtube.com/watch?v=WTeNWTENa54&pp=ygUh652867mE7LK07J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.7M views"
+          },
+          {
+            "title": "지방흡입 절대 하지 마세요!💥 내 인생 최악의 실수..! (팔 지흡 부작용 5개월 후기)",
+            "channel": "제시하다Jessiehada",
+            "url": "https://www.youtube.com/watch?v=E2MtM_DWWxc&pp=ygUh652867mE7LK07J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "167K views"
+          },
+          {
+            "title": "A Day in the Life of a Doctor and Mom│Living in $12M Apartment and Works 16-Hour Days",
+            "channel": "휴먼스토리",
+            "url": "https://www.youtube.com/watch?v=Z2PA506runI&pp=ygUh652867mE7LK07J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.3M views"
+          },
+          {
+            "title": "#미스띠꼬 2F-실측31.67평.보1000/월80(VAT별도).내부화장실.도시가스인입.싱크대.칸막이시설양호#범어동학원#범어동피부샵#범어동사무실#수성구청역#범어동뷰티샵#범어동다용도",
+            "channel": "상가 고인물",
+            "url": "https://www.youtube.com/watch?v=dZMVwdAd2OY&pp=ygUh652867mE7LK07J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.9K views"
+          },
+          {
+            "title": "더서울병원 신경외과 신규 의료진을 소개합니다!",
+            "channel": "더서울병원TV 관절건강채널",
+            "url": "https://www.youtube.com/watch?v=JYsTriMTHsU&pp=ygUh652867mE7LK07J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.2K views"
+          },
+          {
+            "title": "#경토빌딩2F-전용33.15평.보2000/월90(VAT별도).관리비4만원(VAT없음).렌트프리4개월.창고.발코니.실외기실.계단화장실.승강기없음#수성동상가임대#수성동학원임대#수성동",
+            "channel": "상가 고인물",
+            "url": "https://www.youtube.com/watch?v=yG9nPsestGs&pp=ygUh652867mE7LK07J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.9K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 15,
+  "opportunity_cost_thb": 85000,
+  "opportunity_cost_krw": 3400000
+}

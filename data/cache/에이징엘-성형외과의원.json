@@ -1,0 +1,145 @@
+{
+  "query": "에이징엘 성형외과의원",
+  "generated_at": "2026-05-28T22:16:46.530Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 12,
+      "extra": {
+        "name": "에이징엘 성형외과",
+        "rating": 4.7,
+        "total_reviews": 12,
+        "sample_size": 20,
+        "foreign_language_reviews": 20,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 20
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 390213,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "안면거상 전 피부 시술 Q&A모음🔎 시술받기 전, 이건 꼭 알고가세요!",
+            "channel": "에이징엘 성형외과 Aging L FACE LIFTING SURGERY",
+            "url": "https://www.youtube.com/watch?v=kDag4ZVe14A&pp=ygU37JeQ7J207KeV7JeYIOyEse2YleyZuOqzvOydmOybkO2Goe2GoeyEse2YleyZuOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "1.9K views"
+          },
+          {
+            "title": "안면거상 후 딱딱하고 울퉁불퉁한 피부가 되는 이유는? 【에이징엘】",
+            "channel": "에이징엘 성형외과 Aging L FACE LIFTING SURGERY",
+            "url": "https://www.youtube.com/watch?v=LDV9weKxv5k&pp=ygU37JeQ7J207KeV7JeYIOyEse2YleyZuOqzvOydmOybkO2Goe2GoeyEse2YleyZuOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "10K views"
+          },
+          {
+            "title": "안면거상을 했는데도 팔자주름이 남았다고요?🫢 (원인에 따른 팔자주름)",
+            "channel": "에이징엘 성형외과 Aging L FACE LIFTING SURGERY",
+            "url": "https://www.youtube.com/watch?v=o6X0UQYJxj4&pp=ygU37JeQ7J207KeV7JeYIOyEse2YleyZuOqzvOydmOybkO2Goe2GoeyEse2YleyZuOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "911 views"
+          },
+          {
+            "title": "안면거상의 효과는 얼마나 갈까? 수술 후 빨리 처지는 3가지 요인! 【에이징엘】",
+            "channel": "에이징엘 성형외과 Aging L FACE LIFTING SURGERY",
+            "url": "https://www.youtube.com/watch?v=tKZUJnkcFrc&pp=ygU37JeQ7J207KeV7JeYIOyEse2YleyZuOqzvOydmOybkO2Goe2GoeyEse2YleyZuOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "63K views"
+          },
+          {
+            "title": "상담 전 단 20분, 안면거상 성공 여부가 달라집니다. (타 병원 시청금지🚫)",
+            "channel": "에이징엘 성형외과 Aging L FACE LIFTING SURGERY",
+            "url": "https://www.youtube.com/watch?v=6ptnOC0iAjE&pp=ygU37JeQ7J207KeV7JeYIOyEse2YleyZuOqzvOydmOybkO2Goe2GoeyEse2YleyZuOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "8.8K views"
+          },
+          {
+            "title": "[ENG] 안면거상의 모든 궁금증 이 영상 하나면 딱!!!안면거상 Q&A #엘리트성형외과",
+            "channel": "엘리트TV - ELITE Plastic Surgery in Korea",
+            "url": "https://www.youtube.com/watch?v=7EeUjTp4KLY&pp=ygU37JeQ7J207KeV7JeYIOyEse2YleyZuOqzvOydmOybkO2Goe2GoeyEse2YleyZuOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "4.4K views"
+          },
+          {
+            "title": "Stretch your sagging cheeks again! Facial lifting plastic surgery 【AGING L】",
+            "channel": "에이징엘 성형외과 Aging L FACE LIFTING SURGERY",
+            "url": "https://www.youtube.com/watch?v=HF20MYd9FtM&pp=ygU37JeQ7J207KeV7JeYIOyEse2YleyZuOqzvOydmOybkO2Goe2GoeyEse2YleyZuOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "11K views"
+          },
+          {
+            "title": "목거상과 턱밑거상의 모든 것✨  (이중턱, 칠면조턱, 목주름이 고민이라면?)",
+            "channel": "에이징엘 성형외과 Aging L FACE LIFTING SURGERY",
+            "url": "https://www.youtube.com/watch?v=WyIaMUYPSCA&pp=ygU37JeQ7J207KeV7JeYIOyEse2YleyZuOqzvOydmOybkO2Goe2GoeyEse2YleyZuOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "6.2K views"
+          },
+          {
+            "title": "진짜 '안면거상수술' 전후 케이스  【에이징엘】",
+            "channel": "에이징엘 성형외과 Aging L FACE LIFTING SURGERY",
+            "url": "https://www.youtube.com/watch?v=IdEOi_nnAdw&pp=ygU37JeQ7J207KeV7JeYIOyEse2YleyZuOqzvOydmOybkO2Goe2GoeyEse2YleyZuOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "217K views"
+          },
+          {
+            "title": "⚕️ Experience is important for \"eye surgery\". 👨🏻20 years of anti-aging plastic surgery [Aging L]",
+            "channel": "에이징엘 성형외과 Aging L FACE LIFTING SURGERY",
+            "url": "https://www.youtube.com/watch?v=Qb7XjmXHf5o&pp=ygU37JeQ7J207KeV7JeYIOyEse2YleyZuOqzvOydmOybkO2Goe2GoeyEse2YleyZuOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "47K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 10,
+  "opportunity_cost_thb": 90000,
+  "opportunity_cost_krw": 3600000
+}

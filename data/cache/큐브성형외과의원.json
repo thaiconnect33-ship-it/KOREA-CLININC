@@ -1,0 +1,147 @@
+{
+  "query": "큐브성형외과의원",
+  "generated_at": "2026-05-29T00:01:43.742Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 732,
+      "extra": {
+        "place_id": "20514668",
+        "name": "큐브성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 363,
+        "blog_review_count": 369,
+        "detail_url": "https://m.place.naver.com/place/20514668/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 11,
+      "extra": {
+        "name": "Cube Plastic Surgery",
+        "rating": 2.1,
+        "total_reviews": 11,
+        "sample_size": 18,
+        "foreign_language_reviews": 18,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 18
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 232108,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "수술 전 성형외과 의사가 손 푸는 방법! (feat. 눈 가리고 큐브 맞추기)",
+            "channel": "온리아이성형외과 - ONLYEYE TV",
+            "url": "https://www.youtube.com/watch?v=0k52ctwiBZo&pp=ygUq7YGQ67iM7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "412 views"
+          },
+          {
+            "title": "성형하기는 무섭고 예뻐지고 싶다면? 메디큐브 클리닉 분당점!",
+            "channel": "medicube clinic",
+            "url": "https://www.youtube.com/watch?v=DV9vRrdHJ3s&pp=ygUq7YGQ67iM7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "120 views"
+          },
+          {
+            "title": "안면 거상 후 이것만큼은 꼭 지켜주세요~! 기간별 필수 주의 사항 총정리!",
+            "channel": "신끌림 : 신동우 원장의 끌어올림",
+            "url": "https://www.youtube.com/watch?v=XC9qhhCBxSE&pp=ygUq7YGQ67iM7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "6.5K views"
+          },
+          {
+            "title": "에프터이펙트 큐브타입의 사면체 영상으로 만드는 성형외과 홍보용 제작",
+            "channel": "Zerois",
+            "url": "https://www.youtube.com/watch?v=Y4r-mLDO6jk&pp=ygUq7YGQ67iM7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "273 views"
+          },
+          {
+            "title": "메디큐브클리닉 중안부축소 시술 영상",
+            "channel": "clinic medicube",
+            "url": "https://www.youtube.com/watch?v=_6uygdA3xVM&pp=ygUq7YGQ67iM7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "59 views"
+          },
+          {
+            "title": "EP1.  이중턱 없애버리는 4가지 스펙트럼",
+            "channel": "송원장의 미모저모",
+            "url": "https://www.youtube.com/watch?v=-vlqCqLOox4&pp=ygUq7YGQ67iM7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "610 views"
+          },
+          {
+            "title": "DA성형외과_ad2",
+            "channel": "디에이성형외과 D.A Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=6SRsjZly5Ds&pp=ygUq7YGQ67iM7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "96 views"
+          },
+          {
+            "title": "성형외과 의사는 어떤 관상을 가졌을까? 성형&관상의 관계를 파헤쳐 보자!ㅣ고쳐주는 삼촌 ep.1",
+            "channel": "고쳐주는 삼촌들",
+            "url": "https://www.youtube.com/watch?v=TWWLcC27BU8&pp=ygUq7YGQ67iM7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "798 views"
+          },
+          {
+            "title": "자가늑 코수술 수술시간 엄청 오래걸리겠죠 ... ?",
+            "channel": "디아이TV",
+            "url": "https://www.youtube.com/watch?v=AYXrKnt4c2Y&pp=ygUq7YGQ67iM7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "3.5K views"
+          },
+          {
+            "title": "🤦‍♀️협찬받아서 성형외과 다녀온 홍심이/1시간에 81만원 썼다",
+            "channel": "뻔뻔한홍심이",
+            "url": "https://www.youtube.com/watch?v=JHzbdHR0Gcg&pp=ygUq7YGQ67iM7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "150 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 9,
+  "opportunity_cost_thb": 91000,
+  "opportunity_cost_krw": 3640000
+}

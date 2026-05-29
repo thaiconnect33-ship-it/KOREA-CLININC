@@ -1,0 +1,140 @@
+{
+  "query": "미라젠의원",
+  "generated_at": "2026-05-29T06:09:49.755Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "미라젠의원",
+        "rating": 5,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 9,
+      "extra": {
+        "total_views": 4423172,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 9,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 9,
+        "top_videos": [
+          {
+            "title": "\"You can look 10 years younger than your peers!\" 3 treatments even performed by a dermatologist.",
+            "channel": "박지윤의 피부 설명서",
+            "url": "https://www.youtube.com/watch?v=GN7n33Kw7BY&pp=ygUk66-465287KCg7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "238K views"
+          },
+          {
+            "title": "서울대 피부과의사가 찍어주는 스킨부스터 완벽 정리. \"이 영상보면 호구 안당합니다\" - 이도영 피부과전문의",
+            "channel": "피부텐텐 · 피부가 예뻐지는 10분",
+            "url": "https://www.youtube.com/watch?v=rigKW7zrTeI&pp=ygUk66-465287KCg7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "338K views"
+          },
+          {
+            "title": "피부과 시술 부작용 Vlog…ㅠ 내 피부 돌려줘.. 다신 안해…🫠ㅣMINCARONG",
+            "channel": "민카롱",
+            "url": "https://www.youtube.com/watch?v=wRJR2kY2x9w&pp=ygUk66-465287KCg7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1.7M views"
+          },
+          {
+            "title": "의사들만 몰래받는 S급 가성비! 수백만원 아끼는 만족도 가장 높은 시술을 20년차 피부과 전문의가 알려드립니다.",
+            "channel": "피부는 성현철",
+            "url": "https://www.youtube.com/watch?v=SFlFQByIQ1g&pp=ygUk66-465287KCg7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "913K views"
+          },
+          {
+            "title": "안면홍조 없애는 가장 쉬운 방법 I 피부재생인자 EGF",
+            "channel": "동안중심의원",
+            "url": "https://www.youtube.com/watch?v=U6cpQViFU8w&pp=ygUk66-465287KCg7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "17K views"
+          },
+          {
+            "title": "“20년동안 제 아내가 가장 만족했던 동안 주사 공개합니다” 강남 피부과 의사가 아내에게 해주는 또래보다 10년 젊어지는 동안주사 3가지",
+            "channel": "피부는 성현철",
+            "url": "https://www.youtube.com/watch?v=z5f78sydJ8U&pp=ygUk66-465287KCg7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "332K views"
+          },
+          {
+            "title": "\"무료로 받고 후기만 써줘\" 시술 딱 3시간 만에 배가..'충격' #뉴스다 / JTBC News",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=-caUe2UD70A&pp=ygUk66-465287KCg7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "608K views"
+          },
+          {
+            "title": "(SUB) Final Edition of Face Shape/Skin Care Q&A 💥 | I Submitted My MBA Application!!!! 🎓",
+            "channel": "일단이나연 NAYEON",
+            "url": "https://www.youtube.com/watch?v=dzq41DdAdvU&pp=ygUk66-465287KCg7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "277K views"
+          },
+          {
+            "title": "⭐️임종인정형외과TV⭐️ 이제는 고쳐쓰지 말고 재생시켜 쓴다, 재생의학",
+            "channel": "뉴젠정형외과TV",
+            "url": "https://www.youtube.com/watch?v=iqzT-pgy7W8&pp=ygUk66-465287KCg7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "172 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

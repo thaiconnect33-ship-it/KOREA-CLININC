@@ -1,0 +1,159 @@
+{
+  "query": "JK성형외과",
+  "generated_at": "2026-05-29T05:41:40.544Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 1836,
+      "extra": {
+        "place_id": "11888996",
+        "name": "제이케이성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 433,
+        "blog_review_count": 1403,
+        "detail_url": "https://m.place.naver.com/place/11888996/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 105,
+      "extra": {
+        "name": "JK Plastic surgery clinic",
+        "rating": 4.5,
+        "total_reviews": 105,
+        "sample_size": 17,
+        "foreign_language_reviews": 17,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 2,
+          "english_other": 15
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 2,
+      "extra": {
+        "threads": [
+          {
+            "title": "ศัลยกรรมเกาหลี 10กว่า โรงพยาบาล",
+            "url": "https://pantip.com/topic/37672426",
+            "views": 0
+          },
+          {
+            "title": "ศัลยกรรมเกาหลี โรงพยาบาลยอดนิยม ที่ดีที่สุด",
+            "url": "https://pantip.com/topic/35063159",
+            "views": 0
+          }
+        ],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 764205,
+        "foreign_video_count": 20,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 20
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "Getting a Nose Job in Korea? Here’s What It Was Like at JK Plastic Surgery",
+            "channel": "JK Plastic Surgery Center",
+            "url": "https://www.youtube.com/watch?v=RIALRtaYnGE&pp=ygUYSksgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "535 views"
+          },
+          {
+            "title": "I GOT A NOSE JOB IN KOREA | JK Plastic Surgery Center | (Surgery, Recovery, Pain Level…)",
+            "channel": "JK Plastic Surgery Center",
+            "url": "https://www.youtube.com/watch?v=IJa8DKqxOOI&pp=ygUYSksgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "5K views"
+          },
+          {
+            "title": "Foreigner Plastic Surgery Korea Review, JK Plastic Surgery Before and After",
+            "channel": "Docfinderkorea",
+            "url": "https://www.youtube.com/watch?v=kFZ1KcIQd2E&pp=ygUYSksgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "19K views"
+          },
+          {
+            "title": "JK Plastic Surgery Center (the Republic of Korea, Seoul)",
+            "channel": "Bookimed.com",
+            "url": "https://www.youtube.com/watch?v=HBL6TIv8RZQ&pp=ygUYSksgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "5K views"
+          },
+          {
+            "title": "ASK JK: What is a Mini Facelift? || Plastic Surgery in Korea",
+            "channel": "JK Plastic Surgery Center",
+            "url": "https://www.youtube.com/watch?v=ruKpsrPaCxU&pp=ygUYSksgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "24K views"
+          },
+          {
+            "title": "ASK JK: Anti-Aging and Eyes  || Plastic Surgery in Korea",
+            "channel": "JK Plastic Surgery Center",
+            "url": "https://www.youtube.com/watch?v=aNuXl2seE-w&pp=ygUYSksgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "4.7K views"
+          },
+          {
+            "title": "Full Facelift in Korea! JK PLASTIC SURGERY",
+            "channel": "CH Admin",
+            "url": "https://www.youtube.com/watch?v=qrvoBujf7Ak&pp=ygUYSksgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "181 views"
+          },
+          {
+            "title": "JK Plastic Surgery Center [Accredited Hospital for International patients]",
+            "channel": "Medical Korea Official",
+            "url": "https://www.youtube.com/watch?v=0ZLvXiyYq8M&pp=ygUYSksgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "471 views"
+          },
+          {
+            "title": "Fat Grafting at JK Plastic Surgery!  || Korean Plastic Surgery",
+            "channel": "JK Plastic Surgery Center",
+            "url": "https://www.youtube.com/watch?v=ZcggPqze1NA&pp=ygUYSksgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "16K views"
+          },
+          {
+            "title": "Skin laser treatment in KOREA  #plasticsurgeryinkorea #JKplasticsurgery",
+            "channel": "JK Plastic Surgery Center",
+            "url": "https://www.youtube.com/watch?v=LijmvL-SWKY&pp=ygUYSksgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "1.2K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 26,
+  "opportunity_cost_thb": 80500,
+  "opportunity_cost_krw": 3220000
+}

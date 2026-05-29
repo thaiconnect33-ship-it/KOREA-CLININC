@@ -1,0 +1,145 @@
+{
+  "query": "뷰티바성형외과의원",
+  "generated_at": "2026-05-28T22:28:36.376Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 33,
+      "extra": {
+        "name": "Results",
+        "rating": 4.7,
+        "total_reviews": 33,
+        "sample_size": 9,
+        "foreign_language_reviews": 9,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 9
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 3016307,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUz67ew7Yuw67CU7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1M views"
+          },
+          {
+            "title": "성형외과 전문의가 말합니다. 😱인중수술 이런 사람 절대 하지 마세요!😱",
+            "channel": "닥터뷰티바",
+            "url": "https://www.youtube.com/watch?v=m0ZxJuc7wws&pp=ygUz67ew7Yuw67CU7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "47K views"
+          },
+          {
+            "title": "Why You Should Get Dimples, According to a Plastic Surgeon - Bymi Plastic Surgery [Director Choi ...",
+            "channel": "성형외과전문의 최한뫼 Dr. Hanmoi",
+            "url": "https://www.youtube.com/watch?v=URCfvbu9Tu8&pp=ygUz67ew7Yuw67CU7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "32K views"
+          },
+          {
+            "title": "도망쳐..지금이야!! 성형외과 블랙리스트 이렇게 거르세요",
+            "channel": "지유미 JIYUMEE",
+            "url": "https://www.youtube.com/watch?v=VK1hIW0QP-g&pp=ygUz67ew7Yuw67CU7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "126K views"
+          },
+          {
+            "title": "저... 앞트임복원 TOP3 아닌가요? 송승욱 원장도 어려웠던 앞트임복원 케이스 모음",
+            "channel": "고쳐주는 삼촌들",
+            "url": "https://www.youtube.com/watch?v=pZltd3F3vyI&pp=ygUz67ew7Yuw67CU7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "7.1K views"
+          },
+          {
+            "title": "두상이 큰 건 성형외과 의사들도 못 고친다?! 하지만 포기하긴 아직 이르다! #대두윤곽수술 #안면윤곽",
+            "channel": "바탕성형외과 Batang Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=-elcZGNwiqY&pp=ygUz67ew7Yuw67CU7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "14K views"
+          },
+          {
+            "title": "얼굴지방흡입 부작용!? #홈케어",
+            "channel": "뷰티라인성형외과 Beautyline Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=pm6qlRs83nA&pp=ygUz67ew7Yuw67CU7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "13K views"
+          },
+          {
+            "title": "강유미님의 상담실장roleplay😮를 성형외과 의사와 상담실장이 본다면? 재미로 시작했다 반성회로 끝나버린..😂",
+            "channel": "다움성형외과 Dawoom Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=FU3X-FuwZUc&pp=ygUz67ew7Yuw67CU7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "15K views"
+          },
+          {
+            "title": "앞트임복원, 미세복원 부작용? 몽고주름이 생기거나 모양이 변했다?! | 실제후기까지 놓치지 말기! | 메이트성형외과",
+            "channel": "메이트성형외과",
+            "url": "https://www.youtube.com/watch?v=vx40JDVpiuc&pp=ygUz67ew7Yuw67CU7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "21K views"
+          },
+          {
+            "title": "SM 천상계 연예인으로 만들어준다는 성형외과!!",
+            "channel": "핫이슈HOT ISSUE",
+            "url": "https://www.youtube.com/watch?v=WTeNWTENa54&pp=ygUz67ew7Yuw67CU7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.7M views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 5,
+  "opportunity_cost_thb": 95500,
+  "opportunity_cost_krw": 3820000
+}

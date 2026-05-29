@@ -1,0 +1,148 @@
+{
+  "query": "Clearskin Clinic",
+  "generated_at": "2026-05-29T05:57:38.170Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 2076,
+      "extra": {
+        "place_id": "38589771",
+        "name": "오가나셀피부과의원 청담본점 : 네이버\u001c",
+        "visitor_review_count": 1201,
+        "blog_review_count": 875,
+        "detail_url": "https://m.place.naver.com/place/38589771/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Results",
+        "rating": 4.9,
+        "total_reviews": 0,
+        "sample_size": 6,
+        "foreign_language_reviews": 6,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 6
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 4060514,
+        "foreign_video_count": 18,
+        "lang_breakdown": {
+          "korean": 2,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 18
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "바늘 없이 쥬브룩 효과를?! 한국의 크리스탈 클리어 스킨 트리트먼트 🇰🇷 + 바늘 없는 쥬브룩 시술 체험",
+            "channel": "Renovo Skin Clinic",
+            "url": "https://www.youtube.com/watch?v=vEKRHkOxOT0&pp=ygUWQ2xlYXJza2luIENsaW5pYyBLb3JlYQ%3D%3D",
+            "view_text": "140 views"
+          },
+          {
+            "title": "Korean Skin Care and Beauty Clinic Nepal",
+            "channel": "Korean Clininc",
+            "url": "https://www.youtube.com/watch?v=fNAZjtf2blg&pp=ygUWQ2xlYXJza2luIENsaW5pYyBLb3JlYQ%3D%3D",
+            "view_text": "22K views"
+          },
+          {
+            "title": "the 10 step korean skincare effect",
+            "channel": "crystie.",
+            "url": "https://www.youtube.com/watch?v=X0Q7c-u2DGw&pp=ygUWQ2xlYXJza2luIENsaW5pYyBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "2.5M views"
+          },
+          {
+            "title": "I tried the New Korean \"Goddess\" Skin Treatment",
+            "channel": "Tina Yong",
+            "url": "https://www.youtube.com/watch?v=kyU5-ghlVdQ&pp=ygUWQ2xlYXJza2luIENsaW5pYyBLb3JlYQ%3D%3D",
+            "view_text": "1.5M views"
+          },
+          {
+            "title": "Brighten your body by Laser Toning",
+            "channel": "Renewme Skin Clinic Korea",
+            "url": "https://www.youtube.com/watch?v=kXAr0cwPHxM&pp=ygUWQ2xlYXJza2luIENsaW5pYyBLb3JlYQ%3D%3D",
+            "view_text": "47 views"
+          },
+          {
+            "title": "One Day Acne Treatment At A Korean Skin Clinic ft Kiya Boyd | Seoul Guide Medical",
+            "channel": "Seoul Guide Medical",
+            "url": "https://www.youtube.com/watch?v=KuhiZfW6mIg&pp=ygUWQ2xlYXJza2luIENsaW5pYyBLb3JlYQ%3D%3D",
+            "view_text": "406 views"
+          },
+          {
+            "title": "ACNE TREATMENT #korea #skincare #acne",
+            "channel": "Renovo Skin Clinic",
+            "url": "https://www.youtube.com/watch?v=i-ixiC8rNE0&pp=ygUWQ2xlYXJza2luIENsaW5pYyBLb3JlYQ%3D%3D",
+            "view_text": "1.5K views"
+          },
+          {
+            "title": "AMOA Skin Clinic | Dermatology in Korea",
+            "channel": "Seoul Guide Medical",
+            "url": "https://www.youtube.com/watch?v=EgjHlJYrrCE&pp=ygUWQ2xlYXJza2luIENsaW5pYyBLb3JlYQ%3D%3D",
+            "view_text": "9.5K views"
+          },
+          {
+            "title": "Best Dermatologist in Korea (Secret Star Treatment)",
+            "channel": "Seoulite TV",
+            "url": "https://www.youtube.com/watch?v=F10WOYLVGOw&pp=ygUWQ2xlYXJza2luIENsaW5pYyBLb3JlYQ%3D%3D",
+            "view_text": "1.3K views"
+          },
+          {
+            "title": "Ashley’s Clear Skin Experience at Theme Dermatology",
+            "channel": "THEME DERMATOLOGY",
+            "url": "https://www.youtube.com/watch?v=kuDacuqib0M&pp=ygUWQ2xlYXJza2luIENsaW5pYyBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "32 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 17,
+  "opportunity_cost_thb": 88000,
+  "opportunity_cost_krw": 3520000
+}

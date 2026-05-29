@@ -1,0 +1,145 @@
+{
+  "query": "4월31일성형외과의원",
+  "generated_at": "2026-05-29T00:02:19.227Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 44,
+      "extra": {
+        "name": "April 31 Plastic Surgery",
+        "rating": 4.5,
+        "total_reviews": 44,
+        "sample_size": 20,
+        "foreign_language_reviews": 20,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 20
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 80657,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "4월 31일 성형외과 연극영화과 학생의 꿈 1편",
+            "channel": "4월31일성형외과 - April31 PS Clinic",
+            "url": "https://www.youtube.com/watch?v=c5blMp-RYk4&pp=ygUzNOyblDMx7J287ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.5K views"
+          },
+          {
+            "title": "4월31일 성형외과 미국 모델 헤일리 리얼스토리!",
+            "channel": "4월31일성형외과 - April31 PS Clinic",
+            "url": "https://www.youtube.com/watch?v=0urZhFIO0qg&pp=ygUzNOyblDMx7J287ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.2K views"
+          },
+          {
+            "title": "[태성형외과] 공개클리닉 프로필성형 부산 태성형외과 김기태원장 20081208",
+            "channel": "kitae kim",
+            "url": "https://www.youtube.com/watch?v=0pPRnS3LvLA&pp=ygUzNOyblDMx7J287ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "139 views"
+          },
+          {
+            "title": "[PR성형외과] 민아's 리얼 모델 스토리",
+            "channel": "피알_쁘리TV",
+            "url": "https://www.youtube.com/watch?v=M9lUghzX1gc&pp=ygUzNOyblDMx7J287ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "373 views"
+          },
+          {
+            "title": "Q06_코 수술하면 인상이나 이미지가 많이 바뀔까요, 많이 예뻐질까요?  [1분닥터] ㅣ가미성형외과 박건욱 원장",
+            "channel": "가미성형외과",
+            "url": "https://www.youtube.com/watch?v=6XNdUZmg9TQ&pp=ygUzNOyblDMx7J287ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.5K views"
+          },
+          {
+            "title": "[부일여성대학] 어려보이는 성형 - 노블레스 성형외과 이명종 원장",
+            "channel": "부산일보TV",
+            "url": "https://www.youtube.com/watch?v=vYSeZmtQeCI&pp=ygUzNOyblDMx7J287ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "340 views"
+          },
+          {
+            "title": "젊은 환자의 지방부족과 쌍꺼풀",
+            "channel": "윤앤정성형외과",
+            "url": "https://www.youtube.com/watch?v=_P6IWgrVGzQ&pp=ygUzNOyblDMx7J287ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "152 views"
+          },
+          {
+            "title": "겨울방학에 쌍수 계획중인 학생들 필수시청!!",
+            "channel": "디비성형외과 DB Plastic Surgery DBtailTV",
+            "url": "https://www.youtube.com/watch?v=Qa3VZum3EEE&pp=ygUzNOyblDMx7J287ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "484 views"
+          },
+          {
+            "title": "무자격 미용학원장 성형외과까지 차려 / YTN",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=2g45J3YyJm8&pp=ygUzNOyblDMx7J287ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "98 views"
+          },
+          {
+            "title": "루비성형외과 광고 (30sec)",
+            "channel": "Hyoungwoo Seo",
+            "url": "https://www.youtube.com/watch?v=Qgj_qSfgpBA&pp=ygUzNOyblDMx7J287ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "6.3K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 10,
+  "opportunity_cost_thb": 90000,
+  "opportunity_cost_krw": 3600000
+}

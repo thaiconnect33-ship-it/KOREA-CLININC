@@ -1,0 +1,105 @@
+{
+  "query": "클림의원 홍대점피부과",
+  "generated_at": "2026-05-28T22:50:05.115Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 8912,
+      "extra": {
+        "place_id": "1247355638",
+        "name": "클림의원 홍대점 : 네이버\u001c",
+        "visitor_review_count": 1410,
+        "blog_review_count": 7502,
+        "detail_url": "https://m.place.naver.com/place/1247355638/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Kleam Clinic (Hongdae Branch)",
+        "rating": 4.7,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 3,
+      "extra": {
+        "total_views": 316385,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 3,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 3,
+        "top_videos": [
+          {
+            "title": "실펌엑스, 모공·여드름·슬로우에이징까지 한 번에 | 홍대 MZ세대 피부고민 해결법 공개! | 홍대피부과, 피부관리, 슬로우에이징 | 클림의원 윤정민 원장",
+            "channel": "클림 Kleam",
+            "url": "https://www.youtube.com/watch?v=kapfa7JkQDM&pp=ygUl7YG066a87J2Y7JuQIO2ZjeuMgOygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "85 views"
+          },
+          {
+            "title": "모델들이 받는 필러 시술, 직접 보여드리면서 설명할게요!",
+            "channel": "뷰티끄TV BeautiqueTV",
+            "url": "https://www.youtube.com/watch?v=1MnvSMX10g8&pp=ygUl7YG066a87J2Y7JuQIO2ZjeuMgOygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "2.3K views"
+          },
+          {
+            "title": "5억 쓴 언니가 알려주는 진짜 시술 후기🔥 이건 하고, 이건 하지 마세요(병원 팁 + 가성비 시술까지)",
+            "channel": "lamuqe",
+            "url": "https://www.youtube.com/watch?v=VA9KKGWmwis&pp=ygUl7YG066a87J2Y7JuQIO2ZjeuMgOygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "314K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 110000,
+  "opportunity_cost_krw": 4400000
+}

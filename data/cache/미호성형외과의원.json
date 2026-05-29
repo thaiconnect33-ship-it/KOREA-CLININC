@@ -1,0 +1,148 @@
+{
+  "query": "미호성형외과의원",
+  "generated_at": "2026-05-29T06:04:12.401Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 2587,
+      "extra": {
+        "place_id": "344342362",
+        "name": "미호성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 1551,
+        "blog_review_count": 1036,
+        "detail_url": "https://m.place.naver.com/place/344342362/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 268,
+      "extra": {
+        "name": "미호성형외과 MIHO Plastic Surgery",
+        "rating": 4.9,
+        "total_reviews": 268,
+        "sample_size": 20,
+        "foreign_language_reviews": 20,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 20
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 2079643,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "[코성형] 코수술을 싸게 할 수 있는 방법! 미용코｜기능코를 실비로 저렴하게 하는 방법, 대공개!",
+            "channel": "미호성형외과 MIHO Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=GyZqFo2kOwY&pp=ygUq66-47Zi47ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "45K views"
+          },
+          {
+            "title": "내 복 코 교정 수술 결과를 미리 아는 방법이 있다?! | 복 코 교정 수술 잘 되는 코와 잘 안되는 코 알아보기!",
+            "channel": "미호성형외과 MIHO Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=Yi-FRtzvFDs&pp=ygUq66-47Zi47ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "242K views"
+          },
+          {
+            "title": "망한 앞트임, 다시 돌아갈 수 있어요  #앞트임복원 #미호성형외과",
+            "channel": "미호성형외과 MIHO Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=F320rnFbvXs&pp=ygUq66-47Zi47ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "11K views"
+          },
+          {
+            "title": "[눈썹하거상술]누가 나이드신 분들만 하는 수술이라고해?? 진짜 진실을 알려준다!#눈썹하거상술#눈썹거상술#이마거상술#",
+            "channel": "미호성형외과 MIHO Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=OxKtzcXhqwE&pp=ygUq66-47Zi47ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "54K views"
+          },
+          {
+            "title": "[코성형] 3D 핏미코 맞춤 실리콘 보형물 무조건 해야한다! (1편)",
+            "channel": "미호성형외과 MIHO Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=z2Ccayc3nTc&pp=ygUq66-47Zi47ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "6.2K views"
+          },
+          {
+            "title": "[무쌍눈매교정 설명편] 쌍꺼풀은 싫은데 눈은 커지고 싶은 사람들 주목! 아무나 할 수 없는 무쌍눈매교정술! 확실히 파해치기!",
+            "channel": "미호성형외과 MIHO Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=sXG1c-Cs8Sg&pp=ygUq66-47Zi47ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "38K views"
+          },
+          {
+            "title": "🌺중년 눈 성형🌺 어떤 걸 해야 할지 모르겠다? 중년 맞춤 눈 성형의 종류와 장, 단점까지 모아 모아~! #상안검성형 #눈썹하거상 #이마거상술",
+            "channel": "미호성형외과 MIHO Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=-OXcpc7hSw4&pp=ygUq66-47Zi47ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "10K views"
+          },
+          {
+            "title": "코수술은 한번에 끝낼수 없는 이유? 코재수술은 필수? 1편 코수술 후 코가 휘어서, 무조건 코가 휜다 (휜코)",
+            "channel": "미호성형외과 MIHO Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=OlM8cQCt19c&pp=ygUq66-47Zi47ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "27K views"
+          },
+          {
+            "title": "[무쌍눈매교정 Q&A편]  무쌍눈매교정 수술에 대한 궁금증! 이걸로 한방에 해결 !",
+            "channel": "미호성형외과 MIHO Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=T2V_X_sfufs&pp=ygUq66-47Zi47ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "4.9K views"
+          },
+          {
+            "title": "[코성형] 3D 핏미코 맞춤 실리콘 보형물 무조건 해야한다!! (2편)",
+            "channel": "미호성형외과 MIHO Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=V11SNzec38I&pp=ygUq66-47Zi47ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "9K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 10,
+  "opportunity_cost_thb": 90000,
+  "opportunity_cost_krw": 3600000
+}

@@ -1,0 +1,147 @@
+{
+  "query": "카이로스의원",
+  "generated_at": "2026-05-28T23:19:38.164Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 56,
+      "extra": {
+        "place_id": "11680337",
+        "name": "카이로스의원 : 네이버\u001c",
+        "visitor_review_count": 9,
+        "blog_review_count": 47,
+        "detail_url": "https://m.place.naver.com/place/11680337/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 2,
+      "extra": {
+        "name": "카이로스성형외과크리닉",
+        "rating": 5,
+        "total_reviews": 2,
+        "sample_size": 4,
+        "foreign_language_reviews": 4,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 4
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 61800,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "한국방문 교포들에게 가장 적합한 성형외과 피부과 추천 시술은?",
+            "channel": "닥터 어벤저스 카이로스 의원",
+            "url": "https://www.youtube.com/watch?v=YVI_YS0iQMU&pp=ygUk7Lm07J2066Gc7Iqk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "4.1K views"
+          },
+          {
+            "title": "스킨케어 관리 이제는 자연 스킨케어 루틴으로!  따라하면 내 피부가 달라진다 - 카이로스 성형 피부",
+            "channel": "닥터 어벤저스 카이로스 의원",
+            "url": "https://www.youtube.com/watch?v=QsCoYi4B_I4&pp=ygUk7Lm07J2066Gc7Iqk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "2K views"
+          },
+          {
+            "title": "늙지않는 피부를 만드는 피부노화와 주름! 주름을 늦추고 개선하는 법! 카이러스 성형외과",
+            "channel": "닥터 어벤저스 카이로스 의원",
+            "url": "https://www.youtube.com/watch?v=UzW-YQI7DoE&pp=ygUk7Lm07J2066Gc7Iqk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.8K views"
+          },
+          {
+            "title": "무심결에 하는 피부관리 실수 10가지! 피부가 안좋아지는 주범! 카이로스 성형피부 닥터어벤저스",
+            "channel": "닥터 어벤저스 카이로스 의원",
+            "url": "https://www.youtube.com/watch?v=MwgJ5eWO_TU&pp=ygUk7Lm07J2066Gc7Iqk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.8K views"
+          },
+          {
+            "title": "여름철 피부관리 이 영상하나로 끝! 여름 skincare 1년 피부를 결정한다! 카이로스 임종학 원장",
+            "channel": "닥터 어벤저스 카이로스 의원",
+            "url": "https://www.youtube.com/watch?v=yP-DUTsp4fQ&pp=ygUk7Lm07J2066Gc7Iqk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "2.6K views"
+          },
+          {
+            "title": "해외 닥터들에게 아이돌? 2024 AFAS 의료학회에서 사진 3천장 찍히는 닥터 어벤저스 캡틴",
+            "channel": "닥터 어벤저스 카이로스 의원",
+            "url": "https://www.youtube.com/watch?v=vADZRIY6Bx0&pp=ygUk7Lm07J2066Gc7Iqk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.7K views"
+          },
+          {
+            "title": "결혼식 전 예비 신랑신부 부모님이 해야할 피부관리는? 3개국 인싸 닥터가 알려주는 웨딩 피부관리",
+            "channel": "닥터 어벤저스 카이로스 의원",
+            "url": "https://www.youtube.com/watch?v=_7a6eq-32hc&pp=ygUk7Lm07J2066Gc7Iqk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "2.1K views"
+          },
+          {
+            "title": "요즘 핫한 피부관리 레이저, 통증없고 효과좋은 장비들 추천! 카이로스 성형피부",
+            "channel": "닥터 어벤저스 카이로스 의원",
+            "url": "https://www.youtube.com/watch?v=M_KXKRAPlY8&pp=ygUk7Lm07J2066Gc7Iqk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.7K views"
+          },
+          {
+            "title": "역사만큼 재밌는 '성형수술의 역사' 과정을 보면 뷰티가 보인다",
+            "channel": "닥터 어벤저스 카이로스 의원",
+            "url": "https://www.youtube.com/watch?v=UQkTRbBQ260&pp=ygUk7Lm07J2066Gc7Iqk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.6K views"
+          },
+          {
+            "title": "처음 성형수술할 때 반드시 지켜야 할 점은?  #닥터어벤저스 돌직구 조언! 성형수술 전 필수 영상!",
+            "channel": "닥터 어벤저스 카이로스 의원",
+            "url": "https://www.youtube.com/watch?v=N2ALqJmivz8&pp=ygUk7Lm07J2066Gc7Iqk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "6.7K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 2,
+  "opportunity_cost_thb": 98000,
+  "opportunity_cost_krw": 3920000
+}

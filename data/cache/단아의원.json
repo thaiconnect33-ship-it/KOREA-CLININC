@@ -1,0 +1,145 @@
+{
+  "query": "단아의원",
+  "generated_at": "2026-05-28T23:11:47.863Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Results",
+        "rating": 4.9,
+        "total_reviews": 0,
+        "sample_size": 6,
+        "foreign_language_reviews": 6,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 6
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 15,
+      "extra": {
+        "total_views": 2498099,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 15,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 15,
+        "top_videos": [
+          {
+            "title": "을지로입구피부과 비만관리는 명동단아의원에서",
+            "channel": "최민정",
+            "url": "https://www.youtube.com/watch?v=2K-ybUigqTA&pp=ygUh64uo7JWE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "5 views"
+          },
+          {
+            "title": "(광고❌) 이거 모르고 피부과 가면 돈만 날려요😭  피부과의사 120명이 뽑은 후회 없는 시술 1위는? - 정한미 권수현 피부과전문의",
+            "channel": "피부텐텐 · 피부가 예뻐지는 10분",
+            "url": "https://www.youtube.com/watch?v=Cw3hRPXx5JE&pp=ygUh64uo7JWE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "49K views"
+          },
+          {
+            "title": "\"You can look 10 years younger than your peers!\" 3 treatments even performed by a dermatologist.",
+            "channel": "박지윤의 피부 설명서",
+            "url": "https://www.youtube.com/watch?v=GN7n33Kw7BY&pp=ygUh64uo7JWE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "237K views"
+          },
+          {
+            "title": "서울대 피부과의사가 찍어주는 스킨부스터 완벽 정리. \"이 영상보면 호구 안당합니다\" - 이도영 피부과전문의",
+            "channel": "피부텐텐 · 피부가 예뻐지는 10분",
+            "url": "https://www.youtube.com/watch?v=rigKW7zrTeI&pp=ygUh64uo7JWE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "338K views"
+          },
+          {
+            "title": "\"엉터리 정보에 속지마세요.\" 진료과목 피부과 의사가 뽑은 가성비 시술 딱 '3가지'",
+            "channel": "지식인사이드",
+            "url": "https://www.youtube.com/watch?v=a4S4JNnRIXQ&pp=ygUh64uo7JWE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "1.7M views"
+          },
+          {
+            "title": "스킨보톡스+리쥬란 시술 이렇게 합니다! #대전피부과 #스킨부스터 #리쥬란",
+            "channel": "불꽃닥터: 라끌레르 의원",
+            "url": "https://www.youtube.com/watch?v=E19L6XufDMc&pp=ygUh64uo7JWE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "8.5K views"
+          },
+          {
+            "title": "리쥬란 힐러주사 직원교육 - 일부",
+            "channel": "Francis Jeon",
+            "url": "https://www.youtube.com/watch?v=qNtwy4w0KGA&pp=ygUh64uo7JWE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "943 views"
+          },
+          {
+            "title": "아토피 ? 피부과전문의가 강조하는 TOP3 ㅣ아토피 관리법ㅣ병원 치료시기",
+            "channel": "계피부과 since1961",
+            "url": "https://www.youtube.com/watch?v=PrWI0OB6prA&pp=ygUh64uo7JWE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "17K views"
+          },
+          {
+            "title": "정말 그렇게 하고 계신다고요..? 기미전문가가 강조하는 기미 치료의 가장 중요한 습관 한 가지! feat. 기미, 선크림, 자외선, 프리즘의원. 기미상궁 ep.03",
+            "channel": "한성민의 피부인사이드",
+            "url": "https://www.youtube.com/watch?v=MazYW78BBSY&pp=ygUh64uo7JWE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "9K views"
+          },
+          {
+            "title": "‘아토피의 모든 것’[어서함쇼] (함익병피부과의원 함익병)",
+            "channel": "의학채널 비온뒤",
+            "url": "https://www.youtube.com/watch?v=veJq1_MtHTo&pp=ygUh64uo7JWE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "57K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 3,
+  "opportunity_cost_thb": 97000,
+  "opportunity_cost_krw": 3880000
+}

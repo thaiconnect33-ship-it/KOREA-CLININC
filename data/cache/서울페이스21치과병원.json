@@ -1,0 +1,145 @@
+{
+  "query": "서울페이스21치과병원",
+  "generated_at": "2026-05-29T00:13:54.063Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "SeoulFace21",
+        "rating": 4.9,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 176595,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "[단독] 대형 치과병원, 무허가 소재 사용…‘폭리’ 의혹",
+            "channel": "KBS News",
+            "url": "https://www.youtube.com/watch?v=nFZp7Eutxhg&pp=ygUv7ISc7Jq47Y6Y7J207IqkMjHsuZjqs7zrs5Hsm5DthqHthqHsuZjqs7wgS29yZWE%3D",
+            "view_text": "446 views"
+          },
+          {
+            "title": "\"부산시, 장애인치과병원 설립에 적극 나서야\"(2023-04-21,금/뉴스투데이/부산MBC)",
+            "channel": "부산MBC뉴스",
+            "url": "https://www.youtube.com/watch?v=2tyIbhRbn4M&pp=ygUv7ISc7Jq47Y6Y7J207IqkMjHsuZjqs7zrs5Hsm5DthqHthqHsuZjqs7wgS29yZWE%3D",
+            "view_text": "2.8K views"
+          },
+          {
+            "title": "충치 치료에 100만 원...치료 포기하는 장애인(2022.04.20/뉴스데스크/MBC경남)",
+            "channel": "엠뉴 | MBC경남 NEWS",
+            "url": "https://www.youtube.com/watch?v=QxWjf22beI8&pp=ygUv7ISc7Jq47Y6Y7J207IqkMjHsuZjqs7zrs5Hsm5DthqHthqHsuZjqs7wgS29yZWE%3D",
+            "view_text": "3.9K views"
+          },
+          {
+            "title": "\"충치 치료에 두세달\"...부산 장애인 치과 2곳뿐 (2023-04-19,수/뉴스데스크/부산MBC)",
+            "channel": "부산MBC뉴스",
+            "url": "https://www.youtube.com/watch?v=JQMF1kxnf-M&pp=ygUv7ISc7Jq47Y6Y7J207IqkMjHsuZjqs7zrs5Hsm5DthqHthqHsuZjqs7wgS29yZWE%3D",
+            "view_text": "5.7K views"
+          },
+          {
+            "title": "뭔가 달라달라!! 서울에 있는 조금 ‘남다른’ 치과 [TV민생연구소/안진걸/김미진/박철민]",
+            "channel": "TBS 시민의방송",
+            "url": "https://www.youtube.com/watch?v=3_ck6wd8t30&pp=ygUv7ISc7Jq47Y6Y7J207IqkMjHsuZjqs7zrs5Hsm5DthqHthqHsuZjqs7wgS29yZWE%3D",
+            "view_text": "4.2K views"
+          },
+          {
+            "title": "49만 원에서 500만 원까지…임플란트 비용 천차만별 / SBS / 뉴스딱",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=8_IvEUw1rCA&pp=ygUv7ISc7Jq47Y6Y7J207IqkMjHsuZjqs7zrs5Hsm5DthqHthqHsuZjqs7wgS29yZWE%3D",
+            "view_text": "16K views"
+          },
+          {
+            "title": "치과병원11곳 차려 부당이득 의사18명 검거20181028",
+            "channel": "부산MBC뉴스",
+            "url": "https://www.youtube.com/watch?v=zu2v4O44UQE&pp=ygUv7ISc7Jq47Y6Y7J207IqkMjHsuZjqs7zrs5Hsm5DthqHthqHsuZjqs7wgS29yZWE%3D",
+            "view_text": "307 views"
+          },
+          {
+            "title": "[#임플란트] 제3의 치아, '임플란트 치료'ㅣ의학정보 프로그램 [건강좋은날] MBC경남 210630 방송",
+            "channel": "엠키타카 MKTK",
+            "url": "https://www.youtube.com/watch?v=-J3HV7Vov3M&pp=ygUv7ISc7Jq47Y6Y7J207IqkMjHsuZjqs7zrs5Hsm5DthqHthqHsuZjqs7wgS29yZWE%3D",
+            "view_text": "205 views"
+          },
+          {
+            "title": "[사회] 임플란트 돈 냈더니 줄행랑…'먹튀 치과' 속출 (SBS8뉴스|2015.03.30)",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=dTs9bjG38OE&pp=ygUv7ISc7Jq47Y6Y7J207IqkMjHsuZjqs7zrs5Hsm5DthqHthqHsuZjqs7wgS29yZWE%3D",
+            "view_text": "4.5K views"
+          },
+          {
+            "title": "임플란트 가격 낮추는 진짜 방법?ㅣ시술 전 필수 시청! 가장 현실적인 임플란트 안내",
+            "channel": "더와이즈치과병원",
+            "url": "https://www.youtube.com/watch?v=WVS9MhBM1Pc&pp=ygUv7ISc7Jq47Y6Y7J207IqkMjHsuZjqs7zrs5Hsm5DthqHthqHsuZjqs7wgS29yZWE%3D",
+            "view_text": "6.6K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

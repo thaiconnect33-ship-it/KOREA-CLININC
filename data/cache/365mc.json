@@ -1,0 +1,144 @@
+{
+  "query": "365mc",
+  "generated_at": "2026-05-29T05:56:24.456Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 1794,
+      "extra": {
+        "place_id": "11730434",
+        "name": "365MC의원 신촌점 : 네이버\u001c",
+        "visitor_review_count": 1736,
+        "blog_review_count": 58,
+        "detail_url": "https://m.place.naver.com/place/11730434/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 1537,
+      "extra": {
+        "name": "Results",
+        "rating": 4.9,
+        "total_reviews": 1537,
+        "sample_size": 6,
+        "foreign_language_reviews": 6,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 6
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 19,
+      "extra": {
+        "total_views": 73468,
+        "foreign_video_count": 19,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 19
+        },
+        "sample_size": 19,
+        "top_videos": [
+          {
+            "title": "I Lost 35kg in Korea - Liposuction Patient Interview at 365mc in Seoul",
+            "channel": "Korea Clinic Guide",
+            "url": "https://www.youtube.com/watch?v=YgmCloAHyQ8&pp=ygUXMzY1bWMgTGlwb3N1Y3Rpb24gS29yZWHSBwkJIwsBhyohjO8%3D",
+            "view_text": "226 views"
+          },
+          {
+            "title": "Full Body Liposuction in Korea & Liposuction Techniques For Different Body Areas - 365mc Clinic",
+            "channel": "Korea Clinic Guide",
+            "url": "https://www.youtube.com/watch?v=uT4PTfaV1Q8&pp=ygUXMzY1bWMgTGlwb3N1Y3Rpb24gS29yZWE%3D",
+            "view_text": "517 views"
+          },
+          {
+            "title": "Inside Korea’s No.1 Liposuction Hospital | 365mc",
+            "channel": "365mc Liposuction Hospital English Official",
+            "url": "https://www.youtube.com/watch?v=excf6zFhcPc&pp=ygUXMzY1bWMgTGlwb3N1Y3Rpb24gS29yZWE%3D",
+            "view_text": "297 views"
+          },
+          {
+            "title": "[365mc]Let Me In5- Kim, Hyung-Soo Body Liposuction plastic surgery in Seoul, Korea",
+            "channel": "365mc Liposuction Hospital English Official",
+            "url": "https://www.youtube.com/watch?v=byULTni2a0M&pp=ygUXMzY1bWMgTGlwb3N1Y3Rpb24gS29yZWHSBwkJIwsBhyohjO8%3D",
+            "view_text": "3.9K views"
+          },
+          {
+            "title": "Waist Liposuction - Creating a Dramatic Waistline with Dr. Lee from 365mc",
+            "channel": "Korea Clinic Guide",
+            "url": "https://www.youtube.com/watch?v=OpO1Ydb8Upg&pp=ygUXMzY1bWMgTGlwb3N1Y3Rpb24gS29yZWE%3D",
+            "view_text": "80 views"
+          },
+          {
+            "title": "Liposuction - Post-Procedure Aftercare for a Smooth Recovery with 365mc",
+            "channel": "Korea Clinic Guide",
+            "url": "https://www.youtube.com/watch?v=D0jPfrAWSg0&pp=ygUXMzY1bWMgTGlwb3N1Y3Rpb24gS29yZWE%3D",
+            "view_text": "78 views"
+          },
+          {
+            "title": "Pre-Surgery Examination Process at Liposuction at 365mc",
+            "channel": "365mc Liposuction Hospital English Official",
+            "url": "https://www.youtube.com/watch?v=J1U1VixQ2Vs&pp=ygUXMzY1bWMgTGlwb3N1Y3Rpb24gS29yZWHSBwkJIwsBhyohjO8%3D",
+            "view_text": "230 views"
+          },
+          {
+            "title": "365mc | HERPAGORI Precautions | Liposuction | Fat Graft to Hip",
+            "channel": "365mc Liposuction Hospital English Official",
+            "url": "https://www.youtube.com/watch?v=mt_1IWpjdwQ&pp=ygUXMzY1bWMgTGlwb3N1Y3Rpb24gS29yZWE%3D",
+            "view_text": "861 views"
+          },
+          {
+            "title": "Small Area Liposuction | Y-Zone, Chin, & More | 365mc Korea",
+            "channel": "365mc Liposuction Hospital English Official",
+            "url": "https://www.youtube.com/watch?v=AiTuo05rlPo&pp=ygUXMzY1bWMgTGlwb3N1Y3Rpb24gS29yZWE%3D",
+            "view_text": "208 views"
+          },
+          {
+            "title": "365mc`s Obesity Clinic in Seoul, South Korea",
+            "channel": "PlacidWay Medical Tourism",
+            "url": "https://www.youtube.com/watch?v=N1hxpCdKOvY&pp=ygUXMzY1bWMgTGlwb3N1Y3Rpb24gS29yZWE%3D",
+            "view_text": "1.2K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "lemon8 HTTP 404",
+      "metric_label": "포스트",
+      "metric_value": 0
+    }
+  },
+  "global_score": 18,
+  "opportunity_cost_thb": 87500,
+  "opportunity_cost_krw": 3500000
+}

@@ -1,0 +1,147 @@
+{
+  "query": "청담비아이의원",
+  "generated_at": "2026-05-28T22:15:01.919Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 137,
+      "extra": {
+        "place_id": "13040939",
+        "name": "청담비아이의원 : 네이버\u001c",
+        "visitor_review_count": 124,
+        "blog_review_count": 13,
+        "detail_url": "https://m.place.naver.com/place/13040939/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 4,
+      "extra": {
+        "name": "청담비아이 의원",
+        "rating": 3.5,
+        "total_reviews": 4,
+        "sample_size": 2,
+        "foreign_language_reviews": 2,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 2
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 2048874,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "청담i성형외과/피부과를 소개합니다",
+            "channel": "의정부청담i성형외과피부과",
+            "url": "https://www.youtube.com/watch?v=_fqhj26Znmk&pp=ygUn7LKt64u067mE7JWE7J207J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.9K views"
+          },
+          {
+            "title": "[청담별의원] 비절개앞트임 + 비절개뒤트임 수술 전후영상",
+            "channel": "청담별 성형외과·피부과",
+            "url": "https://www.youtube.com/watch?v=HlmWMniFrJk&pp=ygUn7LKt64u067mE7JWE7J207J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "854 views"
+          },
+          {
+            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUn7LKt64u067mE7JWE7J207J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1M views"
+          },
+          {
+            "title": "진료VLOG#2 닥터진이 병원정보를 오픈하지 않는이유",
+            "channel": "닥터진TV",
+            "url": "https://www.youtube.com/watch?v=UNn2xtBr_B0&pp=ygUn7LKt64u067mE7JWE7J207J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "56K views"
+          },
+          {
+            "title": "[청담여신성형외과] 제1회 여신LIVE 1월 여신TV 눈성형, 쌍꺼풀수술, 앞트임, 뒤트임(뒷트임), 안검하수 지용훈원장님 라이브로 상담을?",
+            "channel": "청담여신성형외과 여신TV",
+            "url": "https://www.youtube.com/watch?v=SEEFv1wUju0&pp=ygUn7LKt64u067mE7JWE7J207J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "368 views"
+          },
+          {
+            "title": "쌍꺼풀 재수술 + 비절개 뒤트임 [눈성형 전후]",
+            "channel": "청담별 성형외과·피부과",
+            "url": "https://www.youtube.com/watch?v=TatvtQoAcas&pp=ygUn7LKt64u067mE7JWE7J207J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "442 views"
+          },
+          {
+            "title": "청담여신성형외과를 단 몇초만에 소개합니다.^^",
+            "channel": "청담여신성형외과 여신TV",
+            "url": "https://www.youtube.com/watch?v=IyG1NFJ0yDY&pp=ygUn7LKt64u067mE7JWE7J207J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "332 views"
+          },
+          {
+            "title": "비절개코성형 수술전후 무보정영상 리얼후기~!",
+            "channel": "청담별 성형외과·피부과",
+            "url": "https://www.youtube.com/watch?v=bZ-k6APtOZU&pp=ygUn7LKt64u067mE7JWE7J207J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "539 views"
+          },
+          {
+            "title": "[청담여신성형외과] 제5회 여신LIVE 12월 코성형, 안면윤곽 청담어워즈 권승기원장님",
+            "channel": "청담여신성형외과 여신TV",
+            "url": "https://www.youtube.com/watch?v=ZpMMQ1UUdJk&pp=ygUn7LKt64u067mE7JWE7J207J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.4K views"
+          },
+          {
+            "title": "눈 재수술 하시는 분들! 미안하지만 이런 의사들한테는 가지마세요",
+            "channel": "아이호채널",
+            "url": "https://www.youtube.com/watch?v=nUNd3A_baDA&pp=ygUn7LKt64u067mE7JWE7J207J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "805 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 1,
+  "opportunity_cost_thb": 139000,
+  "opportunity_cost_krw": 5560000
+}

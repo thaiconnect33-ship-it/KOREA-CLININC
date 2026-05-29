@@ -1,0 +1,145 @@
+{
+  "query": "연세성형외과의원",
+  "generated_at": "2026-05-28T23:45:00.171Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 1,
+      "extra": {
+        "name": "연세성형외과의원",
+        "rating": 1,
+        "total_reviews": 1,
+        "sample_size": 2,
+        "foreign_language_reviews": 2,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 2
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 4179609,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "하안검수술, 그냥 받지마세요! 성형외과 전문의가 정리한 하안검수술의 디테일✨",
+            "channel": "미도 클라스",
+            "url": "https://www.youtube.com/watch?v=r7ZA8cOiaT4&pp=ygUw7Jew7IS47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "6K views"
+          },
+          {
+            "title": "성형외과 전문의가 솔직하게 알려주는 성형 잘하는 병원 찾는 방법 - 황동연의 예쁜 가슴 클리닉 #05 병원 선택",
+            "channel": "굿라이프",
+            "url": "https://www.youtube.com/watch?v=Gwj5rlTvUzY&pp=ygUw7Jew7IS47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "36K views"
+          },
+          {
+            "title": "\"강남 유명 성형외과서 수술 뒤 눈이 실명됐습니다\" [지금이뉴스] / YTN",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=UyMrX929Q4I&pp=ygUw7Jew7IS47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "576K views"
+          },
+          {
+            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUw7Jew7IS47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "1M views"
+          },
+          {
+            "title": "성형외과 고를 때 이것만 알아두면 성형수술 대성공! - 진짜 성형 이야기#05",
+            "channel": "굿라이프",
+            "url": "https://www.youtube.com/watch?v=RK3jiqR0Mxg&pp=ygUw7Jew7IS47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "35K views"
+          },
+          {
+            "title": "배우 김소은이 선택한 성형외과는 어디일까요? (feat. 연세미니성형외과)",
+            "channel": "연세 미니 성형외과",
+            "url": "https://www.youtube.com/watch?v=GYSDWduQbvs&pp=ygUw7Jew7IS47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "398 views"
+          },
+          {
+            "title": "성형외과 전문의가 알려주는 하안검 수술의 기본부터 부작용!",
+            "channel": "미도 클라스",
+            "url": "https://www.youtube.com/watch?v=BFQWXojcF_8&pp=ygUw7Jew7IS47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "8K views"
+          },
+          {
+            "title": "[홍진주의 성형 Q&A] #5. 성형, 선택의 딜레마 '매몰 vs 절개' (제이제이성형외과 홍진주 원장)",
+            "channel": "의학채널 비온뒤",
+            "url": "https://www.youtube.com/watch?v=weJT94cyHbI&pp=ygUw7Jew7IS47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "5.8K views"
+          },
+          {
+            "title": "의사가 절대 추천하지 않는 시술&성형 TOP5 / 제 가족이라면 무조건 반대합니다",
+            "channel": "세진성형외과",
+            "url": "https://www.youtube.com/watch?v=q5D3I7gmOcY&pp=ygUw7Jew7IS47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "55K views"
+          },
+          {
+            "title": "[단독] 강남 성형외과에 '분통'…\"근육 썩고 사경 헤맸다\" / SBS 8뉴스",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=svfX3-lNpIw&pp=ygUw7Jew7IS47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "2.4M views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 1,
+  "opportunity_cost_thb": 99000,
+  "opportunity_cost_krw": 3960000
+}

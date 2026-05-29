@@ -1,0 +1,147 @@
+{
+  "query": "차민성형외과의원",
+  "generated_at": "2026-05-29T00:05:26.393Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 2350,
+      "extra": {
+        "place_id": "1079793291",
+        "name": "차민성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 2290,
+        "blog_review_count": 60,
+        "detail_url": "https://m.place.naver.com/place/1079793291/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 23,
+      "extra": {
+        "name": "CHAMIN Plastic Surgery",
+        "rating": 5,
+        "total_reviews": 23,
+        "sample_size": 30,
+        "foreign_language_reviews": 30,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 30
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 165740,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "수술 후에는 얼굴 보기 힘든 의사? | 코수술 후 제가 직접 환자의 치료, 경과를 보는 이유 | 신뢰의 아이콘 민성기 원장",
+            "channel": "차민성형외과 CHAMIN Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=fFLPHFNV2e4&pp=ygUq7LCo66-87ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "2.9K views"
+          },
+          {
+            "title": "[日SUB] 코 실리콘 피막 제거👃 해? 말아? 고민하고 있다면 일단 들어오세요. ｜코재수술 많이 하는 의사👨‍⚕️가 알려주는 코 정보",
+            "channel": "차민성형외과 CHAMIN Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=ZUARf24yyZs&pp=ygUq7LCo66-87ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "6.4K views"
+          },
+          {
+            "title": "코수술 후 전체제거 사례｜출산, 육아로 인해 발생한 염증!?😮｜L자 실리콘, 귀연골, 세균검사",
+            "channel": "차민성형외과 CHAMIN Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=HMhE5GM-jrA&pp=ygUq7LCo66-87ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "937 views"
+          },
+          {
+            "title": "코 보형물 제거 후 코가 들리지 않을까? 수축과 구축이 걱정된다면 이 영상으로 고민 해결!🙆‍♀️",
+            "channel": "차민성형외과 CHAMIN Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=BO1hM1naYqg&pp=ygUq7LCo66-87ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "14K views"
+          },
+          {
+            "title": "[50대 남자 안면거상술] 얼굴 처짐, 목주름, 처진 눈꺼풀 고민! 수술 전후, 붓기, 회복과정은?",
+            "channel": "차민성형외과 CHAMIN Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=kkBoTGgq27I&pp=ygUq7LCo66-87ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "437 views"
+          },
+          {
+            "title": "코수술 후 염증, 구축코재수술 사례｜짧은코, 들린코｜자가늑연골, 진피를 통한 코재건수술",
+            "channel": "차민성형외과 CHAMIN Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=ZorcXhM5n5o&pp=ygUq7LCo66-87ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "610 views"
+          },
+          {
+            "title": "코 보형물 제거👃 수술 전 가장 많이 걱정하는 고민 4가지!｜실리콘 제거 후 구축?, 모태코, 염증, 코가 무너지진 않을까요?",
+            "channel": "차민성형외과 CHAMIN Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=81uzxmoNgM0&pp=ygUq7LCo66-87ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "33K views"
+          },
+          {
+            "title": "코수술 잘하는 의사 찾기! 성형외과 실패 없이 고르는 8가지 방법 🚨제발 이런 병원은 피하세요!🚨",
+            "channel": "차민성형외과 CHAMIN Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=ITOR9MQB1XU&pp=ygUq7LCo66-87ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "19K views"
+          },
+          {
+            "title": "짧은코 케이스 리뷰｜자가늑연골 코수술 2주 후 모습은?👃｜콧대부터 코끝, 비주까지 자려한 여자 직선코 사례!",
+            "channel": "차민성형외과 CHAMIN Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=CB3rm6BiCY0&pp=ygUq7LCo66-87ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "2.3K views"
+          },
+          {
+            "title": "안면거상술, 목거상, 상안검수술 4개월 후기✨｜남자 얼굴처짐부터 목주름, 처진 눈꺼풀 해결!",
+            "channel": "차민성형외과 CHAMIN Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=_LcQfYWWs3Y&pp=ygUq7LCo66-87ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "356 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 15,
+  "opportunity_cost_thb": 85000,
+  "opportunity_cost_krw": 3400000
+}

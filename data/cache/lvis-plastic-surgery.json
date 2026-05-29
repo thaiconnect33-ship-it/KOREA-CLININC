@@ -1,0 +1,146 @@
+{
+  "query": "LVIS Plastic Surgery",
+  "generated_at": "2026-05-29T05:57:13.260Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Results",
+        "rating": 4,
+        "total_reviews": 0,
+        "sample_size": 6,
+        "foreign_language_reviews": 6,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 6
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 8026104,
+        "foreign_video_count": 20,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 20
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "Is \"Revision Facelift\" impossible? Find out with our doctors!",
+            "channel": "VLIF Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=7Z2z_YbWOCQ&pp=ygUaTFZJUyBQbGFzdGljIFN1cmdlcnkgS29yZWE%3D",
+            "view_text": "714"
+          },
+          {
+            "title": "EASY WAY TO LAVIAN | LAVIAN AESTHETIC & PLASTIC SURGERY | GANGNAM-SEOUL",
+            "channel": "LAVIAN PLASTIC SURGERY in KOREA",
+            "url": "https://www.youtube.com/watch?v=pOIoKIb3vWc&pp=ygUaTFZJUyBQbGFzdGljIFN1cmdlcnkgS29yZWE%3D",
+            "view_text": "655"
+          },
+          {
+            "title": "Dr Marco Faria Correa explains Extreme Makeover Plastic Surgery",
+            "channel": "Expat Choice Asia",
+            "url": "https://www.youtube.com/watch?v=PsBdRaWt97E&pp=ygUaTFZJUyBQbGFzdGljIFN1cmdlcnkgS29yZWE%3D",
+            "view_text": "155"
+          },
+          {
+            "title": "Plastic Surgery Nightmare!",
+            "channel": "Dr90210stories",
+            "url": "https://www.youtube.com/watch?v=1bIPxi0wXps&pp=ygUaTFZJUyBQbGFzdGljIFN1cmdlcnkgS29yZWE%3D",
+            "view_text": "730"
+          },
+          {
+            "title": "[ENG]What is the key to being a beautiful women?!  Let's see in celebrities comparison!",
+            "channel": "CDU & ONECELL - Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=-G3a0uEUYGE&pp=ygUaTFZJUyBQbGFzdGljIFN1cmdlcnkgS29yZWE%3D",
+            "view_text": "475"
+          },
+          {
+            "title": "MISTAKES and LESSONS From CELEBRITY PLASTIC SURGERY",
+            "channel": "Dr. Anil Rajani",
+            "url": "https://www.youtube.com/watch?v=j78E4whrMoQ&pp=ygUaTFZJUyBQbGFzdGljIFN1cmdlcnkgS29yZWE%3D",
+            "view_text": "6.4K"
+          },
+          {
+            "title": "We won again! :) Best Plastic Surgery Practice Australasia 2016",
+            "channel": "Dr. Michael Miroshnik",
+            "url": "https://www.youtube.com/watch?v=1RtCsQ11amU&pp=ygUaTFZJUyBQbGFzdGljIFN1cmdlcnkgS29yZWE%3D",
+            "view_text": "1.9K"
+          },
+          {
+            "title": "Hawaii Plastic Surgery Associates - Kim Gennaula's Procedure",
+            "channel": "Menpachi Productions",
+            "url": "https://www.youtube.com/watch?v=6rwnOGXrjKM&pp=ygUaTFZJUyBQbGFzdGljIFN1cmdlcnkgS29yZWHSBwkJIwsBhyohjO8%3D",
+            "view_text": "4.3K"
+          },
+          {
+            "title": "Fox News Channel - Dr. Youn Comments On Awful Celebrity Plastic Surgery",
+            "channel": "Doctor Youn",
+            "url": "https://www.youtube.com/watch?v=IgOGrsdbObU&pp=ygUaTFZJUyBQbGFzdGljIFN1cmdlcnkgS29yZWHSBwkJIwsBhyohjO8%3D",
+            "view_text": "55K"
+          },
+          {
+            "title": "Eps 4, (Part 1 of 3) The Beauty Show, PHX",
+            "channel": "TheBeautyShowTV",
+            "url": "https://www.youtube.com/watch?v=TSfxxnIZBQE&pp=ygUaTFZJUyBQbGFzdGljIFN1cmdlcnkgS29yZWE%3D",
+            "view_text": "295"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 19,
+  "opportunity_cost_thb": 87000,
+  "opportunity_cost_krw": 3480000
+}

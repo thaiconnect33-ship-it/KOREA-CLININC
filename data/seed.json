@@ -1,0 +1,58 @@
+[
+  { "id": "id-hospital",        "ko": "아이디병원",         "en": "ID Hospital",         "region": "강남" },
+  { "id": "jk-plastic",         "ko": "JK성형외과",         "en": "JK Plastic Surgery",  "region": "강남" },
+  { "id": "banobagi",           "ko": "바노바기성형외과",    "en": "Banobagi",            "region": "강남" },
+  { "id": "view-plastic",       "ko": "뷰성형외과",         "en": "View Plastic Surgery","region": "강남" },
+  { "id": "regen",              "ko": "리젠성형외과",        "en": "ReGen Plastic Surgery","region": "강남" },
+  { "id": "grandlux",           "ko": "그랜드성형외과",      "en": "Grand Plastic Surgery","region": "강남" },
+  { "id": "the-line",           "ko": "더라인성형외과",      "en": "The Line Plastic Surgery","region": "강남" },
+  { "id": "lienjang",           "ko": "리엔장성형외과",      "en": "Lienjang",            "region": "강남" },
+  { "id": "ic-plastic",         "ko": "아이씨성형외과",      "en": "IC Plastic Surgery",  "region": "강남" },
+  { "id": "april31",            "ko": "에이프릴서른하나",    "en": "April 31 Plastic Surgery","region": "강남" },
+  { "id": "tellus",             "ko": "텔러스성형외과",      "en": "Tellus Plastic Surgery","region": "강남" },
+  { "id": "vip-international",  "ko": "VIP성형외과",        "en": "VIP International Plastic Surgery","region": "강남" },
+  { "id": "real",               "ko": "리얼성형외과",        "en": "REAL Plastic Surgery","region": "강남" },
+  { "id": "wonjin",             "ko": "원진성형외과",        "en": "Wonjin Plastic Surgery","region": "강남" },
+  { "id": "bk-plastic",         "ko": "BK성형외과",         "en": "BK Plastic Surgery",  "region": "강남" },
+  { "id": "shimmian",           "ko": "쉬미앙성형외과",      "en": "Shimmian Rhinoplasty","region": "강남" },
+  { "id": "evita",              "ko": "에비타성형외과",      "en": "Evita Plastic Surgery","region": "강남" },
+  { "id": "namu",               "ko": "나무성형외과",        "en": "Namu Plastic Surgery","region": "강남" },
+  { "id": "ami",                "ko": "아미성형외과",        "en": "Ami Plastic Surgery", "region": "강남" },
+  { "id": "noselab",            "ko": "노즈랩성형외과",      "en": "Noselab Plastic Surgery","region": "강남" },
+  { "id": "izien",              "ko": "이지엔성형외과",      "en": "Izien Plastic Surgery","region": "강남" },
+  { "id": "ohkims",             "ko": "오킴스성형외과",      "en": "Ohkims Plastic Surgery","region": "강남" },
+  { "id": "marble",             "ko": "마블성형외과",        "en": "Marble Plastic Surgery","region": "강남" },
+  { "id": "fresh",              "ko": "프레쉬성형외과",      "en": "Fresh Plastic Surgery","region": "강남" },
+  { "id": "barunsesang",        "ko": "바른세상성형외과",    "en": "Barunsesang Plastic Surgery","region": "강남" },
+
+  { "id": "oracle-dermatology", "ko": "오라클피부과",        "en": "Oracle Dermatology Clinic","region": "강남" },
+  { "id": "toxnfill",           "ko": "톡스앤필피부과",      "en": "Tox N Fill",          "region": "강남" },
+  { "id": "gangnam-unni",       "ko": "강남언니",           "en": "Gangnam Unni",        "region": "강남" },
+  { "id": "shinedam",           "ko": "샤인담의원",         "en": "Shine Dam Clinic",    "region": "강남" },
+  { "id": "lits-derm",          "ko": "리츠피부과",         "en": "Lits Dermatology",    "region": "강남" },
+  { "id": "ruby-cell",          "ko": "루비셀피부과",        "en": "Ruby Cell Dermatology","region": "강남" },
+  { "id": "lavida",             "ko": "라비다피부과",        "en": "Lavida Dermatology",  "region": "강남" },
+  { "id": "fortune",            "ko": "포춘피부과",         "en": "Fortune Dermatology", "region": "강남" },
+  { "id": "renewme",            "ko": "리뉴미피부과",        "en": "Renewme Skin Clinic", "region": "강남" },
+  { "id": "ahnsei",             "ko": "안세성형외과",        "en": "Ahnsei Plastic Surgery","region": "강남" },
+
+  { "id": "cheongdam-u",        "ko": "청담유성형외과",      "en": "Cheongdam U Plastic Surgery","region": "청담" },
+  { "id": "cheongdam-pure",     "ko": "청담퓨어",           "en": "Cheongdam Pure Plastic Surgery","region": "청담" },
+  { "id": "the-plastic",        "ko": "더플라스틱성형외과",   "en": "The Plastic Surgery", "region": "청담" },
+  { "id": "cheongdam-clean",    "ko": "청담클린의원",        "en": "Cheongdam Clean Clinic","region": "청담" },
+
+  { "id": "apgujeong-aone",     "ko": "에이원성형외과",      "en": "A-One Plastic Surgery","region": "압구정" },
+  { "id": "apgujeong-uni",      "ko": "유니크성형외과",      "en": "Unique Plastic Surgery","region": "압구정" },
+  { "id": "apgujeong-365mc",    "ko": "365mc",             "en": "365mc Liposuction",   "region": "압구정" },
+  { "id": "apgujeong-jw",       "ko": "JW성형외과",         "en": "JW Plastic Surgery",  "region": "압구정" },
+
+  { "id": "hongdae-lvis",       "ko": "엘비스성형외과",      "en": "LVIS Plastic Surgery","region": "홍대" },
+  { "id": "hongdae-clearskin",  "ko": "클리어스킨의원",      "en": "Clearskin Clinic",    "region": "홍대" },
+
+  { "id": "myeongdong-pluxia",  "ko": "플루시아의원",        "en": "Pluxia Clinic",       "region": "명동" },
+  { "id": "myeongdong-uskin",   "ko": "유스킨의원",         "en": "U Skin Clinic",       "region": "명동" },
+
+  { "id": "jamsil-snu-derm",    "ko": "에스앤유피부과",      "en": "SNU Dermatology",     "region": "잠실" },
+
+  { "id": "global-skin",        "ko": "글로벌피부과",        "en": "Global Skin Clinic",  "region": "강남" }
+]

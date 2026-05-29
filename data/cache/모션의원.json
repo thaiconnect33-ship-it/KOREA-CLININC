@@ -1,0 +1,147 @@
+{
+  "query": "모션의원",
+  "generated_at": "2026-05-29T00:00:01.769Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 11133,
+      "extra": {
+        "place_id": "1086421561",
+        "name": "블리비의원 강남역점 : 네이버\u001c",
+        "visitor_review_count": 5329,
+        "blog_review_count": 5804,
+        "detail_url": "https://m.place.naver.com/place/1086421561/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 340,
+      "extra": {
+        "name": "Results",
+        "rating": 5,
+        "total_reviews": 340,
+        "sample_size": 9,
+        "foreign_language_reviews": 9,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 9
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 13679,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "무삭발비절개모발이식에서 유용하게 사용할 수 있는 2가지! 투 펀치 테크닉, 맘바 모션 등 #광주모발이식 #광주탈모치료",
+            "channel": "탈모치료에 대한 새로운 생각 나용필 TV",
+            "url": "https://www.youtube.com/watch?v=VwRJyXWiCrQ&pp=ygUb66qo7IWY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "49 views"
+          },
+          {
+            "title": "(포트폴리오)이즈피부과의원[타이포그래피 광고/타이포 홍보/타이포 모션]",
+            "channel": "포스프로덕션 AI",
+            "url": "https://www.youtube.com/watch?v=hwANUkVFmHM&pp=ygUb66qo7IWY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "5K views"
+          },
+          {
+            "title": "미시안의원 소개 인포그래픽 제작",
+            "channel": "엠피알",
+            "url": "https://www.youtube.com/watch?v=y-D8MiCBObs&pp=ygUb66qo7IWY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "91 views"
+          },
+          {
+            "title": "병원원내 홍보영상 청담NB피부클리닉",
+            "channel": "JongNo.1",
+            "url": "https://www.youtube.com/watch?v=1e0GYYnsA0g&pp=ygUb66qo7IWY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "32 views"
+          },
+          {
+            "title": "셀렉트 피부과의원 리프팅 전광판 타이포그래피 홍보영상",
+            "channel": "브랜픽 '아티스트 테이'",
+            "url": "https://www.youtube.com/watch?v=Jj-QaQjPcxE&pp=ygUb66qo7IWY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "No views"
+          },
+          {
+            "title": "셀렉트 피부과의원 제모 전광판 타이포그래피 홍보영상",
+            "channel": "브랜픽 '아티스트 테이'",
+            "url": "https://www.youtube.com/watch?v=jgu33qs0_r8&pp=ygUb66qo7IWY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1 view"
+          },
+          {
+            "title": "더퍼스트피부과의원_피부관리",
+            "channel": "노원일",
+            "url": "https://www.youtube.com/watch?v=4eU44ZInNJQ&pp=ygUb66qo7IWY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "84 views"
+          },
+          {
+            "title": "병원홍보영상제작_인포그래픽_오아로피부과",
+            "channel": "CREATIVE BBC",
+            "url": "https://www.youtube.com/watch?v=1RyVnGYiKEo&pp=ygUb66qo7IWY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "298 views"
+          },
+          {
+            "title": "더퍼스트피부과 병원 소개 인포그래픽 영상",
+            "channel": "엠피알",
+            "url": "https://www.youtube.com/watch?v=tun8nFAlWRY&pp=ygUb66qo7IWY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "171 views"
+          },
+          {
+            "title": "모발 이식 부작용을 피하고 싶다면?? 대표적인 부작용과 치료 방법!",
+            "channel": "젊은나ReturnToYoung",
+            "url": "https://www.youtube.com/watch?v=dwoDzO8wVug&pp=ygUb66qo7IWY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "135 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 5,
+  "opportunity_cost_thb": 95500,
+  "opportunity_cost_krw": 3820000
+}

@@ -1,0 +1,146 @@
+{
+  "query": "VS라인의원 강남점",
+  "generated_at": "2026-05-29T05:29:44.356Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Results",
+        "rating": 4.8,
+        "total_reviews": 0,
+        "sample_size": 6,
+        "foreign_language_reviews": 6,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 6
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 2759412,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "“비싼 울쎄라, 써마지 받아도 얼굴 다시 처집니다” 요즘 연예인들이 받는 가성비 시술을 20년차 피부과 전문의가 알려드립니다.",
+            "channel": "피부는 성현철",
+            "url": "https://www.youtube.com/watch?v=P-ooK3XIcKM&pp=ygUtVlPrnbzsnbjsnZjsm5Ag6rCV64Ko7KCQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "344K views"
+          },
+          {
+            "title": "[ENG] 통증없이 날렵한 라인을 만들어주는 온다리프팅 (feat. 피부과 입문 리프팅)",
+            "channel": "더피크의원 (The Peak Clinic)",
+            "url": "https://www.youtube.com/watch?v=E3fgFgymHyU&pp=ygUtVlPrnbzsnbjsnZjsm5Ag6rCV64Ko7KCQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "68K views"
+          },
+          {
+            "title": "♡V라인 예쁜 턱선♡ 모델 지애님의 하트주사",
+            "channel": "서울리거피부과",
+            "url": "https://www.youtube.com/watch?v=B5yUQ1tVgzs&pp=ygUtVlPrnbzsnbjsnZjsm5Ag6rCV64Ko7KCQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "548 views"
+          },
+          {
+            "title": "강남역제모피부과 이런 옷 안어울릴 줄 알았지?",
+            "channel": "유스타일나인, 레이저제모",
+            "url": "https://www.youtube.com/watch?v=JS0bTxu9nwM&pp=ygUtVlPrnbzsnbjsnZjsm5Ag6rCV64Ko7KCQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "37 views"
+          },
+          {
+            "title": "강남헤어라인제모 이제부터 알아보는 분 필수!",
+            "channel": "유스타일나인, 레이저제모",
+            "url": "https://www.youtube.com/watch?v=tpNLhfHrXZk&pp=ygUtVlPrnbzsnbjsnZjsm5Ag6rCV64Ko7KCQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "5 views"
+          },
+          {
+            "title": "\"Dermatologists don't tell you...\" We recommend popular youth-enhancing procedures these days. We...",
+            "channel": "박지윤의 피부 설명서",
+            "url": "https://www.youtube.com/watch?v=EFB-McCJG48&pp=ygUtVlPrnbzsnbjsnZjsm5Ag6rCV64Ko7KCQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "444K views"
+          },
+          {
+            "title": "강남 피부과 시술받고 20명 집단 패혈증 증세",
+            "channel": "MBN News",
+            "url": "https://www.youtube.com/watch?v=DtnjLKEh8G4&pp=ygUtVlPrnbzsnbjsnZjsm5Ag6rCV64Ko7KCQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "217 views"
+          },
+          {
+            "title": "강남피부과제모 시술영상 공개할게요~",
+            "channel": "레이저제모TV",
+            "url": "https://www.youtube.com/watch?v=dkxXnmsT1pk&pp=ygUtVlPrnbzsnbjsnZjsm5Ag6rCV64Ko7KCQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "56 views"
+          },
+          {
+            "title": "강남 피부과제모 내가 그걸 모를까?",
+            "channel": "레이저제모TV",
+            "url": "https://www.youtube.com/watch?v=nyS09nEAG84&pp=ygUtVlPrnbzsnbjsnZjsm5Ag6rCV64Ko7KCQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "No views"
+          },
+          {
+            "title": "서울레이저제모, 강남역 유스타일나인 제모피부과",
+            "channel": "유스타일나인, 레이저제모",
+            "url": "https://www.youtube.com/watch?v=aUlN2gjxvnM&pp=ygUtVlPrnbzsnbjsnZjsm5Ag6rCV64Ko7KCQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "43 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 3,
+  "opportunity_cost_thb": 147000,
+  "opportunity_cost_krw": 5880000
+}

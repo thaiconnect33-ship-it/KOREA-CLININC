@@ -1,0 +1,147 @@
+{
+  "query": "CBK성형외과의원",
+  "generated_at": "2026-05-29T00:09:02.640Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 22,
+      "extra": {
+        "place_id": "1855179663",
+        "name": "CBK성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 17,
+        "blog_review_count": 5,
+        "detail_url": "https://m.place.naver.com/place/1855179663/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 2,
+      "extra": {
+        "name": "cbk성형외과",
+        "rating": 5,
+        "total_reviews": 2,
+        "sample_size": 2,
+        "foreign_language_reviews": 2,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 2
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 25044,
+        "foreign_video_count": 19,
+        "lang_breakdown": {
+          "korean": 1,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 19,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "[닥터봉TV_CBK성형외과_최봉균]돌출입수술 부작용(합죽이, 노안) 예방 수술법 국제학술지 발표[CBK整形外科_チェ·ボンギュン]突出手術の副作用(歯ぎしり、老顔)予防手術法国際学術誌発表",
+            "channel": "DrBong TV",
+            "url": "https://www.youtube.com/watch?v=7kQHw4s7MBI&pp=ygUnQ0JL7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.4K views"
+          },
+          {
+            "title": "[닥터봉TV_CBK성형외과_최봉균]수술후 내몸안에 있는 핀 꼭 제거 꼭해야만 할까!? 왜 제거해야만 하는지[CBK整形外科_チェ·ボンギュン]手術後ピンを 必ず除去しないといけない理由は？",
+            "channel": "DrBong TV",
+            "url": "https://www.youtube.com/watch?v=DM23pQYgK_M&pp=ygUnQ0JL7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.1K views"
+          },
+          {
+            "title": "[닥터봉TV_CBK성형외과_최봉균]안면윤곽 사각턱 피호스 와 턱이 자라난다는 진실은~!?[CBK整形外科_チェ·ボンギュン] 顔面輪郭エラの血ホースとあごが育つという真実は~!?",
+            "channel": "DrBong TV",
+            "url": "https://www.youtube.com/watch?v=3OPN2To88-o&pp=ygUnQ0JL7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "656 views"
+          },
+          {
+            "title": "[닥터봉TV_CBK성형외과_최봉균] 입이 나왔다고 돌출입 수술을 하면 해결이될까? ㅣASO 돌출입 수술[CBK整形外科_チェ·ボンギュン] 突出口手術をすれば解決？ ㅣASO突出口手術",
+            "channel": "DrBong TV",
+            "url": "https://www.youtube.com/watch?v=DV0uL_RHmwA&pp=ygUnQ0JL7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "850 views"
+          },
+          {
+            "title": "[닥터봉TV_CBK성형외과_최봉균]양악수술 부작용도 다 옛날이야기? no~! 이제는 무서운 수술이 아니다~![CBK整形外科_チェ·ボンギュン] 両顎手術の副作用も全部昔話？",
+            "channel": "DrBong TV",
+            "url": "https://www.youtube.com/watch?v=IX4oaZ75B20&pp=ygUnQ0JL7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "919 views"
+          },
+          {
+            "title": "[닥터봉TV_CBK성형외과_최봉균]양악수술전에 무슨검사와 무엇을준비해야할까?![CBK整形外科_チェ·ボンギュン] 両顎手術前に何の検査と何を準備すればいいのか？",
+            "channel": "DrBong TV",
+            "url": "https://www.youtube.com/watch?v=YsWWph7uLr0&pp=ygUnQ0JL7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.3K views"
+          },
+          {
+            "title": "[닥터봉TV_CBK성형외과_최봉균]주걱턱치료 양악수술로 해결하자~![CBK整形外科_チェ·ボンギュン] しゃくれ顎治療、両顎手術で解決しよう~！",
+            "channel": "DrBong TV",
+            "url": "https://www.youtube.com/watch?v=Vp-2FH6m7q8&pp=ygUnQ0JL7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "2.4K views"
+          },
+          {
+            "title": "[닥터봉TV_CBK성형외과_최봉균]윤곽수술후 맘에 안들어 양악수술 결과는!?[ドクターボンTV_CBK整形外科_チェ·ボンギュン] 輪郭手術後、気に入らなく両顎手術の結果は？",
+            "channel": "DrBong TV",
+            "url": "https://www.youtube.com/watch?v=UTnDXS228EQ&pp=ygUnQ0JL7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.1K views"
+          },
+          {
+            "title": "[닥터봉TV_CBK성형외과_최봉균] 안면윤곽수술 받지 말아야 하는 경우 - 양악수술 받으셔야 합니다[CBK整形外科チェボンギュン] 輪郭手術を受けてはならないケース両顎手術を受けてください",
+            "channel": "DrBong TV",
+            "url": "https://www.youtube.com/watch?v=pjUX64hthc0&pp=ygUnQ0JL7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "2.6K views"
+          },
+          {
+            "title": "[닥터봉TV_CBK성형외과_최봉균] 턱끝수술(안면윤곽수술) 치명적 부작용 설하혈종 관련 해부학과 예방법 국제학술지[SCI저널] 개제[CBK整形外科チェボンギュン]顎先手術致命的な副作用",
+            "channel": "DrBong TV",
+            "url": "https://www.youtube.com/watch?v=E6yve_fAUj0&pp=ygUnQ0JL7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "595 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 16,
+  "opportunity_cost_thb": 89500,
+  "opportunity_cost_krw": 3580000
+}

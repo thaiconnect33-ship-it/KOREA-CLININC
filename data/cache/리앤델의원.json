@@ -1,0 +1,105 @@
+{
+  "query": "리앤델의원",
+  "generated_at": "2026-05-28T22:22:42.944Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 943,
+      "extra": {
+        "place_id": "1502689252",
+        "name": "리앤델의원 : 네이버\u001c",
+        "visitor_review_count": 768,
+        "blog_review_count": 175,
+        "detail_url": "https://m.place.naver.com/place/1502689252/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "리앤델의원 / Re&del Clinic / リアンデル医院",
+        "rating": 4.1,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 3,
+      "extra": {
+        "total_views": 2328692,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 3,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 3,
+        "top_videos": [
+          {
+            "title": "완전히 새롭게 태어난 리앤델의원을 소개합니다.",
+            "channel": "청담동 주피터(주름 피는 닥터)",
+            "url": "https://www.youtube.com/watch?v=jV2p4Jtuju0&pp=ygUe66as7JWk64247J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "692 views"
+          },
+          {
+            "title": "피부과 시술 부작용 Vlog…ㅠ 내 피부 돌려줘.. 다신 안해…🫠ㅣMINCARONG",
+            "channel": "민카롱",
+            "url": "https://www.youtube.com/watch?v=wRJR2kY2x9w&pp=ygUe66as7JWk64247J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1.7M views"
+          },
+          {
+            "title": "Now that I've left the dermatology clinic, I'm going to give you my honest recommendations and no...",
+            "channel": "피부소식",
+            "url": "https://www.youtube.com/watch?v=LZnncatHKkg&pp=ygUe66as7JWk64247J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "628K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

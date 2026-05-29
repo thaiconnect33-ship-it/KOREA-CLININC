@@ -1,0 +1,123 @@
+{
+  "query": "동대문밴스의원",
+  "generated_at": "2026-05-28T23:37:58.013Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 1505,
+      "extra": {
+        "place_id": "1556560647",
+        "name": "동대문밴스의원 : 네이버\u001c",
+        "visitor_review_count": 504,
+        "blog_review_count": 1001,
+        "detail_url": "https://m.place.naver.com/place/1556560647/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 90,
+      "extra": {
+        "name": "Dongdaemun VandS Clinic",
+        "rating": 4.5,
+        "total_reviews": 90,
+        "sample_size": 24,
+        "foreign_language_reviews": 24,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 24
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 6,
+      "extra": {
+        "total_views": 383514,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 6,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 6,
+        "top_videos": [
+          {
+            "title": "의사가 알려주는 제모 10번 해도 안 없어지는 이유 | 이거 모르면 돈만 날립니다",
+            "channel": "닥터블랑_예뻐지는비결",
+            "url": "https://www.youtube.com/watch?v=_-0TviDikkA&pp=ygUk64-Z64yA66y467C07Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "251K views"
+          },
+          {
+            "title": "대한민국 강남 피부과 원장들이 줄줄이 무너지는 진짜 이유",
+            "channel": "바른경제",
+            "url": "https://www.youtube.com/watch?v=YwtjZmKGy7M&pp=ygUk64-Z64yA66y467C07Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "45K views"
+          },
+          {
+            "title": "리니어지 시술 어떤 분들에게 권장하나요? │리니어지",
+            "channel": "피부구조대 오가나셀",
+            "url": "https://www.youtube.com/watch?v=3B3UUHhEZCg&pp=ygUk64-Z64yA66y467C07Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "5.6K views"
+          },
+          {
+            "title": "Radius Before and After Results Revealed! What Are the Real Benefits of Collagen Injections?",
+            "channel": "피부과전문의 피부담당 고원장",
+            "url": "https://www.youtube.com/watch?v=AFC76b05-I4&pp=ygUk64-Z64yA66y467C07Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "81K views"
+          },
+          {
+            "title": "이중턱이 심해서 고민이에요..😥│리니어지효과",
+            "channel": "피부구조대 오가나셀",
+            "url": "https://www.youtube.com/watch?v=VrAlAzCvgSw&pp=ygUk64-Z64yA66y467C07Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "434 views"
+          },
+          {
+            "title": "[동래준 피부과] 예민한 피부?! 홍조는 콜드 플라즈마 트랜스킨 관리! 2편",
+            "channel": "피글피글 플라플라",
+            "url": "https://www.youtube.com/watch?v=zR59C9xCJmM&pp=ygUk64-Z64yA66y467C07Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "480 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 12,
+  "opportunity_cost_thb": 88000,
+  "opportunity_cost_krw": 3520000
+}

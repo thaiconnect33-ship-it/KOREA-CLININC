@@ -1,0 +1,147 @@
+{
+  "query": "라현의원",
+  "generated_at": "2026-05-28T22:14:13.478Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 37,
+      "extra": {
+        "place_id": "1844035701",
+        "name": "라현의원 : 네이버\u001c",
+        "visitor_review_count": 14,
+        "blog_review_count": 23,
+        "detail_url": "https://m.place.naver.com/place/1844035701/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "라현의원",
+        "rating": 5,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 4163235,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "[단독] 강남 성형외과에 '분통'…\"근육 썩고 사경 헤맸다\" / SBS 8뉴스",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=svfX3-lNpIw&pp=ygUe65287ZiE7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "2.4M views"
+          },
+          {
+            "title": "\"눈 밑 수술했다가 X신 됐다\"…병원에선 \"명예훼손 고소\" / JTBC 사건반장",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=BgFgWiQm09w&pp=ygUe65287ZiE7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "827K views"
+          },
+          {
+            "title": "비바 피부과인테리어. 성형외과인테리어, 60평대 병원인테리어,비바클리닉. 일산피부과",
+            "channel": "신뢰가 가는 공간 인테리어의 시작입니다",
+            "url": "https://www.youtube.com/watch?v=L7ZPr9qQWiY&pp=ygUe65287ZiE7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "398 views"
+          },
+          {
+            "title": "+ 한방병원 인테리어 사례 : 라현한방병원 +",
+            "channel": "시간과공간TNSDESIGN",
+            "url": "https://www.youtube.com/watch?v=VGk5D1KnT7I&pp=ygUe65287ZiE7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "619 views"
+          },
+          {
+            "title": "서울 강남구 청담동 씨앤에이치에쿼티파트너스,청담스퀘어,동궁타운예식장,포르쉐 스튜디오 청담,플랙진 시흥 프리미엄 아울렛점,라현성형외과의원,동궁 주차장,드레스덴 그린 마천루,건물...",
+            "channel": "시네마틱스톡 CINEMATIC STOCK",
+            "url": "https://www.youtube.com/watch?v=2hVNtPtJe-o&pp=ygUe65287ZiE7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "302 views"
+          },
+          {
+            "title": "\"원장님께서 별세하셨기에\"…유명 피부과 '피해자 속출' / SBS 8뉴스",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=-3uLsD3sWGU&pp=ygUe65287ZiE7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "924K views"
+          },
+          {
+            "title": "병원인테리어의 최고!",
+            "channel": "팀브로",
+            "url": "https://www.youtube.com/watch?v=q59noBQJtho&pp=ygUe65287ZiE7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "74 views"
+          },
+          {
+            "title": "병원인테리어 힐튼디자인 13 - 내과인테리어 시공 병원소파 병원가구      #병원인테리어",
+            "channel": "힐튼디자인",
+            "url": "https://www.youtube.com/watch?v=KzTVoKH3mA4&pp=ygUe65287ZiE7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "113 views"
+          },
+          {
+            "title": "한의원인테리어트랜드 한의원입원실인테리어드랜드",
+            "channel": "신뢰가 가는 공간 인테리어의 시작입니다",
+            "url": "https://www.youtube.com/watch?v=Zc4GbwopRBc&pp=ygUe65287ZiE7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "84 views"
+          },
+          {
+            "title": "/SOHOME/ 쏘홈 병원 인테리어 프로젝트 메디컬오",
+            "channel": "sohome media",
+            "url": "https://www.youtube.com/watch?v=AJTJVT0rXcU&pp=ygUe65287ZiE7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "166 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

@@ -1,0 +1,145 @@
+{
+  "query": "김형진베이직성형외과의원",
+  "generated_at": "2026-05-28T22:31:48.314Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 15,
+      "extra": {
+        "name": "New Line Kim, Hyung - Jin Plastic Surgery",
+        "rating": 4,
+        "total_reviews": 15,
+        "sample_size": 16,
+        "foreign_language_reviews": 16,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 16
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 72920,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "보톡스 정도는 아무 데서나 해도 괜찮지 않냐고요?",
+            "channel": "압구정 김형진베이직성형외과",
+            "url": "https://www.youtube.com/watch?v=EOhqVyjr5LE&pp=ygU86rmA7ZiV7KeE67Kg7J207KeB7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "666 views"
+          },
+          {
+            "title": "(심부볼 괴담 예고편) 김형진원장, 드디어 폭발하다? 🔥 l 안면윤곽 생각중인 사람들도 일단 드루와",
+            "channel": "압구정 김형진베이직성형외과",
+            "url": "https://www.youtube.com/watch?v=7DI43whXm2M&pp=ygU86rmA7ZiV7KeE67Kg7J207KeB7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.6K views"
+          },
+          {
+            "title": "김형진뉴라인성형외과 하악심부볼지방제거",
+            "channel": "압구정 김형진베이직성형외과",
+            "url": "https://www.youtube.com/watch?v=8BRW0b5AFqA&pp=ygU86rmA7ZiV7KeE67Kg7J207KeB7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "11K views"
+          },
+          {
+            "title": "[얼굴형예뻐지는법] 심부볼지방제거vs안면윤곽 마지막 5탄 🔥",
+            "channel": "압구정 김형진베이직성형외과",
+            "url": "https://www.youtube.com/watch?v=AuOrqBuvJr4&pp=ygU86rmA7ZiV7KeE67Kg7J207KeB7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "5.6K views"
+          },
+          {
+            "title": "현직 의사가 팩폭으로 알려주는 팔자지방흡입의 현실🔥",
+            "channel": "압구정 김형진베이직성형외과",
+            "url": "https://www.youtube.com/watch?v=622jrTAxlmY&pp=ygU86rmA7ZiV7KeE67Kg7J207KeB7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "2.5K views"
+          },
+          {
+            "title": "마른체형은 지방이식을 할 수 없을까요?",
+            "channel": "압구정 김형진베이직성형외과",
+            "url": "https://www.youtube.com/watch?v=ZYx002n8QAI&pp=ygU86rmA7ZiV7KeE67Kg7J207KeB7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "987 views"
+          },
+          {
+            "title": "[눈밑지방재배치전문] 눈밑지방재배치후기 및 회복기간 쳌체크!",
+            "channel": "압구정 김형진베이직성형외과",
+            "url": "https://www.youtube.com/watch?v=k8cwkI2MEpE&pp=ygU86rmA7ZiV7KeE67Kg7J207KeB7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "3.3K views"
+          },
+          {
+            "title": "압구정성형외과 남자심부볼전후 l 남자안면윤곽 전 이 영상은 필수!!",
+            "channel": "압구정 김형진베이직성형외과",
+            "url": "https://www.youtube.com/watch?v=vmfWVHUn6ZE&pp=ygU86rmA7ZiV7KeE67Kg7J207KeB7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "4.7K views"
+          },
+          {
+            "title": "입꼬리필러잘하는곳(feat.김형진뉴라인성형외과)",
+            "channel": "압구정 김형진베이직성형외과",
+            "url": "https://www.youtube.com/watch?v=AGL4wu-35dg&pp=ygU86rmA7ZiV7KeE67Kg7J207KeB7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.1K views"
+          },
+          {
+            "title": "안면윤곽vs심부볼지방제거 1탄🔥 [안면윤곽 정의/윤곽수술후 변화가 없다?/윤곽후볼처짐]",
+            "channel": "압구정 김형진베이직성형외과",
+            "url": "https://www.youtube.com/watch?v=fPqKAKwLY34&pp=ygU86rmA7ZiV7KeE67Kg7J207KeB7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "5.2K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 8,
+  "opportunity_cost_thb": 92000,
+  "opportunity_cost_krw": 3680000
+}

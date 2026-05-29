@@ -1,0 +1,146 @@
+{
+  "query": "브랜뉴의원",
+  "generated_at": "2026-05-29T05:30:04.218Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 46,
+      "extra": {
+        "name": "brand new clinic",
+        "rating": 4.9,
+        "total_reviews": 46,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 13,
+      "extra": {
+        "total_views": 3474036,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 13,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 13,
+        "top_videos": [
+          {
+            "title": "브랜뉴클리닉 공간을 소개합니다 - BRANDNEW CLINIC",
+            "channel": "조각하는 의사들",
+            "url": "https://www.youtube.com/watch?v=5ng-rIcDtVY&pp=ygUk67iM656c64m07J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "593 views"
+          },
+          {
+            "title": "EP 4. Sofwave Edition | Defying Gravity—Start Now for Younger Skin in 5 Years",
+            "channel": "조각하는 의사들",
+            "url": "https://www.youtube.com/watch?v=3WYyNljfC_Q&pp=ygUk67iM656c64m07J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "30K views"
+          },
+          {
+            "title": "바디 온다 리프팅, 세상에서 가장 쉬운 다이어트인 이유? (국내 최초 온다 12mm 핸드피스 도입 병원의 팩트 체크)",
+            "channel": "조각하는 의사들",
+            "url": "https://www.youtube.com/watch?v=6_Qr4smd9Kg&pp=ygUk67iM656c64m07J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "3K views"
+          },
+          {
+            "title": "의사를 가르치는 의사, 브랜뉴클리닉 ASLS 2026 대미레 학회 현장",
+            "channel": "조각하는 의사들",
+            "url": "https://www.youtube.com/watch?v=aMJFw5bRJKU&pp=ygUk67iM656c64m07J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1K views"
+          },
+          {
+            "title": "'윤곽주사' 시술을 추천받았다면? 병원에서 말하지 않는 비밀 🤫",
+            "channel": "조각하는 의사들",
+            "url": "https://www.youtube.com/watch?v=I--Jn8qr3Fc&pp=ygUk67iM656c64m07J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "81K views"
+          },
+          {
+            "title": "청담동 연예인 쁘띠시술만 N년차 의사가 알려주는 '윤곽주사 vs 조각주사'",
+            "channel": "조각하는 의사들",
+            "url": "https://www.youtube.com/watch?v=43N5ghLG90U&pp=ygUk67iM656c64m07J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "27K views"
+          },
+          {
+            "title": "이 영상 하나로 끝! '윤곽주사 총정리' 시술 부위, 효과, 유지 기간, 다운 타임, 효과 없는 사람, 보톡스 차이",
+            "channel": "조각하는 의사들",
+            "url": "https://www.youtube.com/watch?v=83J_Ra-mF3o&pp=ygUk67iM656c64m07J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "174K views"
+          },
+          {
+            "title": "닥터브랜뉴 PDRN 메조 솔루션 라인",
+            "channel": "Dr.Brandnew닥터브랜뉴",
+            "url": "https://www.youtube.com/watch?v=3IJOIJiemDA&pp=ygUk67iM656c64m07J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "4.5K views"
+          },
+          {
+            "title": "이런 부위에 스컬트라 추천하는 병원? 위험합니다!",
+            "channel": "피부과전문의_샘닥",
+            "url": "https://www.youtube.com/watch?v=dcwsw69FB7w&pp=ygUk67iM656c64m07J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "11K views"
+          },
+          {
+            "title": "리쥬란 힐러주사 직원교육 - 일부",
+            "channel": "Francis Jeon",
+            "url": "https://www.youtube.com/watch?v=qNtwy4w0KGA&pp=ygUk67iM656c64m07J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "943 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

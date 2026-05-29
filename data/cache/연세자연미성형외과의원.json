@@ -1,0 +1,145 @@
+{
+  "query": "연세자연미성형외과의원",
+  "generated_at": "2026-05-28T22:42:28.719Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 7,
+      "extra": {
+        "name": "연세자연미성형외과",
+        "rating": 3,
+        "total_reviews": 7,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 13,
+      "extra": {
+        "total_views": 118600,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 13,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 13,
+        "top_videos": [
+          {
+            "title": "수술을 대체하는 XXX필러가 있다? [#연세메디노블 #반영구필러]",
+            "channel": "연세메디노블 Yonsei Medinoble",
+            "url": "https://www.youtube.com/watch?v=OKZAW_3JY1s&pp=ygU57Jew7IS47J6Q7Jew66-47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "3.3K views"
+          },
+          {
+            "title": "코 수술 후 숨 쉬기가 불편해졌어요!",
+            "channel": "연세코앤이비인후과",
+            "url": "https://www.youtube.com/watch?v=WIZNOHJnGYU&pp=ygU57Jew7IS47J6Q7Jew66-47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "2.2K views"
+          },
+          {
+            "title": "스컬트라,엘란쎄,아테콜 등의 구독자 QNA 1편 [#연세메디노블 #스컬트라 #엘란쎄 #아테콜 #아테센스]",
+            "channel": "연세메디노블 Yonsei Medinoble",
+            "url": "https://www.youtube.com/watch?v=UwGNui3_euc&pp=ygU57Jew7IS47J6Q7Jew66-47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "2.6K views"
+          },
+          {
+            "title": "爱贝芙: 현직 의사가 이야기하는 아테콜의 장점 5가지👍",
+            "channel": "연세메디노블 Yonsei Medinoble",
+            "url": "https://www.youtube.com/watch?v=USS3rqWM5Zs&pp=ygU57Jew7IS47J6Q7Jew66-47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "17K views"
+          },
+          {
+            "title": "스컬트라,엘란쎄,아테콜 등의 구독자 QNA 2편 [#연세메디노블 #스컬트라 #엘란쎄 #아테콜 #아테센스]",
+            "channel": "연세메디노블 Yonsei Medinoble",
+            "url": "https://www.youtube.com/watch?v=xLpJP1uod_o&pp=ygU57Jew7IS47J6Q7Jew66-47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.8K views"
+          },
+          {
+            "title": "반영구 필러 아테콜의 진실과 오해 전부 팩트 체크 해드립니다 👍 [#아테콜 #아테센스 #반영구필러 #필러]",
+            "channel": "연세메디노블 Yonsei Medinoble",
+            "url": "https://www.youtube.com/watch?v=gT18r-S3Bwo&pp=ygU57Jew7IS47J6Q7Jew66-47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "5.7K views"
+          },
+          {
+            "title": "과생착된 지방은 무조건 수술이 답일까?!(feat.지방이식제거주사)",
+            "channel": "Dr.김윤희의 톡톡한 습관",
+            "url": "https://www.youtube.com/watch?v=YTKkW4JlKKc&pp=ygU57Jew7IS47J6Q7Jew66-47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "2.7K views"
+          },
+          {
+            "title": "중안면거상술의 핵심 | 하안검하러 갔더니 중안면거상술 하라고?! #중안면거상술",
+            "channel": "우리성형외과 WOORI beauty TV",
+            "url": "https://www.youtube.com/watch?v=xIeA5-BDfNg&pp=ygU57Jew7IS47J6Q7Jew66-47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "13K views"
+          },
+          {
+            "title": "아테콜필러 사용부위와 부작용,장단점",
+            "channel": "자연미TV",
+            "url": "https://www.youtube.com/watch?v=hVeIp6US9H4&pp=ygU57Jew7IS47J6Q7Jew66-47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "8.4K views"
+          },
+          {
+            "title": "함몰유두의교정",
+            "channel": "자연미TV",
+            "url": "https://www.youtube.com/watch?v=9bJsTI6HuiM&pp=ygU57Jew7IS47J6Q7Jew66-47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "20K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

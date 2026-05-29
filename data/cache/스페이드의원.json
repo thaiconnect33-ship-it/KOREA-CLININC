@@ -1,0 +1,106 @@
+{
+  "query": "스페이드의원",
+  "generated_at": "2026-05-29T05:31:18.335Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 5017,
+      "extra": {
+        "place_id": "1514020467",
+        "name": "스페이드의원 : 네이버\u001c",
+        "visitor_review_count": 5001,
+        "blog_review_count": 16,
+        "detail_url": "https://m.place.naver.com/place/1514020467/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "스페이드의원",
+        "rating": 5,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 3,
+      "extra": {
+        "total_views": 518000,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 3,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 3,
+        "top_videos": [
+          {
+            "title": "Why Your Beard Doesn't Get Rid of Hair Even After 10 Removals | A Doctor Shares Tips to Increase ...",
+            "channel": "동네 의사 이상욱",
+            "url": "https://www.youtube.com/watch?v=-YB0PZxV2us&pp=ygUh7Iqk7Y6Y7J2065Oc7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "159K views"
+          },
+          {
+            "title": "아포지vs젠틀맥스 내돈내산 찐 후기! (수염자국 없애는 레이저제모 후기)",
+            "channel": "NEW 임파",
+            "url": "https://www.youtube.com/watch?v=E9iv4c3ezNc&pp=ygUh7Iqk7Y6Y7J2065Oc7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "259K views"
+          },
+          {
+            "title": "수염 레이저제모 얼마나 유지될까? (기계 추천,  가격, 후기)",
+            "channel": "NEW 임파",
+            "url": "https://www.youtube.com/watch?v=KZ1vY0hUS-g&pp=ygUh7Iqk7Y6Y7J2065Oc7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "100K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

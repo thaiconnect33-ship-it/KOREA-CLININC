@@ -1,0 +1,147 @@
+{
+  "query": "갤러리아성형외과의원",
+  "generated_at": "2026-05-28T23:15:34.948Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 129,
+      "extra": {
+        "place_id": "1844993005",
+        "name": "갤러리아성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 46,
+        "blog_review_count": 83,
+        "detail_url": "https://m.place.naver.com/place/1844993005/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "갤러리아성형외과",
+        "rating": 1,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 2778471,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUw6rCk65-s66as7JWE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1M views"
+          },
+          {
+            "title": "압구정 갤러리아 앞 통건물 대표가 된 40대 의사 원장의 하루",
+            "channel": "탐구생활",
+            "url": "https://www.youtube.com/watch?v=Dj9AvrusmW4&pp=ygUw6rCk65-s66as7JWE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "241K views"
+          },
+          {
+            "title": "눈썹하거상술을 알아보자 [동안사랑 김원장]",
+            "channel": "동안사랑김원장 (MS Plastic Sugery Clinic)",
+            "url": "https://www.youtube.com/watch?v=w7WAdWUfHrI&pp=ygUw6rCk65-s66as7JWE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "26K views"
+          },
+          {
+            "title": "강남 성형외과가 우리 동네에?! 25년차 성형외과 전문의가 굳이 강북이 개원한 진짜 이유",
+            "channel": "닥터 이서방",
+            "url": "https://www.youtube.com/watch?v=gVN14xrGT-0&t=81s&pp=ygUw6rCk65-s66as7JWE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "128 views"
+          },
+          {
+            "title": "★쌍꺼풀수술편 Before & After 갤러리★ 매몰법, 절개법 모두 한눈에 몰아보기!",
+            "channel": "심포니 닥터스",
+            "url": "https://www.youtube.com/watch?v=o4KtcBPzC8w&pp=ygUw6rCk65-s66as7JWE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.5K views"
+          },
+          {
+            "title": "“이건 물어보셨어요?” 코 재수술 상담 시 가장 많이 하는 질문은?_[부산성형외과]",
+            "channel": "부산 하이갤러리성형외과",
+            "url": "https://www.youtube.com/watch?v=Cga-VkEQwSE&pp=ygUw6rCk65-s66as7JWE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "10K views"
+          },
+          {
+            "title": "티나는 눈재수술, 미용적, 기능적 문제점을 해결하는 방법 #심하게 잘못된눈 #소세지눈#꺼진눈#짝눈",
+            "channel": "심포니 닥터스",
+            "url": "https://www.youtube.com/watch?v=hrH_uWkThow&pp=ygUw6rCk65-s66as7JWE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "453 views"
+          },
+          {
+            "title": "유지인대가 뭔가요? - 제이제이성형외과",
+            "channel": "제이제이 성형상식 JJ-plastic edu TV",
+            "url": "https://www.youtube.com/watch?v=idcV0NuucKE&pp=ygUw6rCk65-s66as7JWE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "489K views"
+          },
+          {
+            "title": "우리병원을 소개합니다!(병원급 장비소개, 안전 우선, 원장님소개) - 제이제이성형외과",
+            "channel": "제이제이 성형상식 JJ-plastic edu TV",
+            "url": "https://www.youtube.com/watch?v=U_hBZuu9n_U&pp=ygUw6rCk65-s66as7JWE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "3.4K views"
+          },
+          {
+            "title": "안면거상 2분 요약 Feat. 동안성형 - 제이제이성형외과",
+            "channel": "제이제이 성형상식 JJ-plastic edu TV",
+            "url": "https://www.youtube.com/watch?v=CtU8oYnx_aA&pp=ygUw6rCk65-s66as7JWE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "984K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

@@ -1,0 +1,147 @@
+{
+  "query": "얼루어성형외과의원",
+  "generated_at": "2026-05-28T22:41:13.938Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 269,
+      "extra": {
+        "place_id": "1990895854",
+        "name": "얼루어성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 178,
+        "blog_review_count": 91,
+        "detail_url": "https://m.place.naver.com/place/1990895854/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "얼루어성형외과의원(Allure Clinic)",
+        "rating": 5,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 61409,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "쌍꺼풀 재수술 | 성형외과 상담 | 쌍꺼풀 풀림 | 수술 후 짝눈 | 라인교정 | 눈매교정 | 붓기관리 | 비용",
+            "channel": "얼루어 성형외과",
+            "url": "https://www.youtube.com/watch?v=SJLQ7hXPs6I&pp=ygUt7Ja866Oo7Ja07ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "2.5K"
+          },
+          {
+            "title": "50대 리프팅 시술 추천 l 상/하안검수술 l 눈썹하거상술 l 비수술리프팅 l 콜라겐 부스터 l 안면거상수술",
+            "channel": "얼루어 성형외과",
+            "url": "https://www.youtube.com/watch?v=Kd4y2J7ccDs&pp=ygUt7Ja866Oo7Ja07ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.5K"
+          },
+          {
+            "title": "필러가 흘러내린다..? 이렇게 하면 흘러내릴 일 없음! | 앞볼필러 | 동안비결",
+            "channel": "얼루어 성형외과",
+            "url": "https://www.youtube.com/watch?v=FO_cYvtvFQc&pp=ygUt7Ja866Oo7Ja07ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "461"
+          },
+          {
+            "title": "중년 눈수술 | 눈처짐 해결｜눈썹하거상술 | 자연유착 | 상안검수술 | 하안검수술 | 눈밑지방재배치",
+            "channel": "얼루어 성형외과",
+            "url": "https://www.youtube.com/watch?v=2CjHq6s90PM&pp=ygUt7Ja866Oo7Ja07ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.3K"
+          },
+          {
+            "title": "○○는 ○○다?! 고고성형외과의 키워드인터뷰 👀 ㅣ고고성형외과ㅣ눈재수술",
+            "channel": "고고성형외과",
+            "url": "https://www.youtube.com/watch?v=SlBFeWk2ND4&pp=ygUt7Ja866Oo7Ja07ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "204"
+          },
+          {
+            "title": "필러 오해와 팩트 | 필러괴담 | 필러 부작용 | 필러 실명 |  필러 괴사 | 필러 녹이기",
+            "channel": "얼루어 성형외과",
+            "url": "https://www.youtube.com/watch?v=uViyb6-6px0&pp=ygUt7Ja866Oo7Ja07ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.2K"
+          },
+          {
+            "title": "Is it possible to proceed “Cleft Lip”, “Philtrum\" and “Nose” surgeries at the same time?",
+            "channel": "그림성형외과의원",
+            "url": "https://www.youtube.com/watch?v=8TSRnHe3N7g&pp=ygUt7Ja866Oo7Ja07ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "114"
+          },
+          {
+            "title": "[병원오빠] 손필러 부작용? JY성형외과 최준영 원장님의 솔직담백한 이야기",
+            "channel": "병원오빠",
+            "url": "https://www.youtube.com/watch?v=S42YtPjjub4&pp=ygUt7Ja866Oo7Ja07ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "12K"
+          },
+          {
+            "title": "수천 명 눈썹 문신 성형외과…알고보니 의사가?",
+            "channel": "KBS News",
+            "url": "https://www.youtube.com/watch?v=J3HTLyUzC4Y&pp=ygUt7Ja866Oo7Ja07ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "2K"
+          },
+          {
+            "title": "[마스크성형외과] 눈밑지방제거, 애교살에 영향을 주나요?",
+            "channel": "마스크성형외과",
+            "url": "https://www.youtube.com/watch?v=4lyLoZPji4k&pp=ygUt7Ja866Oo7Ja07ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "54"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

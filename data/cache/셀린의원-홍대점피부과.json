@@ -1,0 +1,93 @@
+{
+  "query": "셀린의원 홍대점피부과",
+  "generated_at": "2026-05-28T22:51:14.586Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 2792,
+      "extra": {
+        "place_id": "2018627128",
+        "name": "셀린의원 홍대점 : 네이버\u001c",
+        "visitor_review_count": 122,
+        "blog_review_count": 2670,
+        "detail_url": "https://m.place.naver.com/place/2018627128/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Cellin Clinic Hongdae 셀린의원 홍대점 | English Speaking Dermatologist | ホンデ 皮膚科 ほくろ除去 | 弘大 医美 皮膚管理",
+        "rating": 4.9,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 1,
+      "extra": {
+        "total_views": 1700000,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 1,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 1,
+        "top_videos": [
+          {
+            "title": "\"엉터리 정보에 속지마세요.\" 진료과목 피부과 의사가 뽑은 가성비 시술 딱 '3가지'",
+            "channel": "지식인사이드",
+            "url": "https://www.youtube.com/watch?v=a4S4JNnRIXQ&pp=ygUl7IWA66aw7J2Y7JuQIO2ZjeuMgOygkO2UvOu2gOqzvCBLb3JlYdIHCQkNCwGHKiGM7w%3D%3D",
+            "view_text": "1.7M views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 110000,
+  "opportunity_cost_krw": 4400000
+}

@@ -1,0 +1,147 @@
+{
+  "query": "다온의원",
+  "generated_at": "2026-05-28T23:14:27.355Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 737,
+      "extra": {
+        "place_id": "35482964",
+        "name": "다온의원 : 네이버\u001c",
+        "visitor_review_count": 162,
+        "blog_review_count": 575,
+        "detail_url": "https://m.place.naver.com/place/35482964/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "daon clinic",
+        "rating": 4.7,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 1236623,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "요즘 대세 '자려한 코성형' 실패 없이 성공하는 법! 코끝 처짐 막는 3종 고정법과 체형별 맞춤 재료 총정리 (디에이성형외과)",
+            "channel": "디에이성형외과 D.A Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=ugt5WmvQLzM&pp=ygUe64uk7Jio7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "17K"
+          },
+          {
+            "title": "디에이성형외과 이상우 원장 \"안전을 말하다!\"",
+            "channel": "디에이성형외과 D.A Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=pm__e4kcjJk&pp=ygUe64uk7Jio7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "10K"
+          },
+          {
+            "title": "[단독] 강남 성형외과서 수술 뒤 '한쪽 눈 실명'…병원은 책임 회피 / JTBC 뉴스룸",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=DNlfZN4vPqU&pp=ygUe64uk7Jio7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "58K"
+          },
+          {
+            "title": "[함익병 토크쇼] 중년 이후에도 젊어보는 비결은? / 나비성형외과 신동우",
+            "channel": "의학채널 비온뒤",
+            "url": "https://www.youtube.com/watch?v=pcLC53Vn_JI&pp=ygUe64uk7Jio7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "30K"
+          },
+          {
+            "title": "[DBtailTV] Introducing DB Plastic Surgery's Director Dongbi Guk💕",
+            "channel": "디비성형외과 DB Plastic Surgery DBtailTV",
+            "url": "https://www.youtube.com/watch?v=njENMHfxYg8&pp=ygUe64uk7Jio7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "3.4K"
+          },
+          {
+            "title": "난이도 높다고 소문난 복코 성형, 더난성형외과에서는?!",
+            "channel": "더난성형외과",
+            "url": "https://www.youtube.com/watch?v=PHLreksL6dQ&pp=ygUe64uk7Jio7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "2.1K"
+          },
+          {
+            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUe64uk7Jio7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1M"
+          },
+          {
+            "title": "의사브이로그, 디에이성형외과 원장의 하루는? | 가슴성형, 체형성형, 배재영 원장 | 디에이성형외과",
+            "channel": "디에이성형외과 D.A Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=v4QAtO7F2OU&pp=ygUe64uk7Jio7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "27K"
+          },
+          {
+            "title": "코성형 브이로그! 성형외과 직원이 직접 받은 코수술 리얼후기(시기별 경과사진, 전후사진 가득) 제1탄!",
+            "channel": "드림성형외과",
+            "url": "https://www.youtube.com/watch?v=WYEttC4DZTI&pp=ygUe64uk7Jio7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "24K"
+          },
+          {
+            "title": "쌍커풀 수술 '자연유착' 이 궁금하다 ! (feat.친절상담)",
+            "channel": "드레스성형외과의원",
+            "url": "https://www.youtube.com/watch?v=I1Hqwbo1N8o&pp=ygUe64uk7Jio7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "13K"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

@@ -1,0 +1,148 @@
+{
+  "query": "플레저성형외과의원",
+  "generated_at": "2026-05-29T06:02:31.932Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 2506,
+      "extra": {
+        "place_id": "1175277287",
+        "name": "플레저성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 410,
+        "blog_review_count": 2096,
+        "detail_url": "https://m.place.naver.com/place/1175277287/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 278,
+      "extra": {
+        "name": "pleasure plastic surgery",
+        "rating": 4.9,
+        "total_reviews": 278,
+        "sample_size": 30,
+        "foreign_language_reviews": 30,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 30
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 1642953,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "Is lower eyelid fat repositioning possible for those over 50? (How to choose the right lower eyel...",
+            "channel": "예뻐지는 기쁨, 플레저성형외과",
+            "url": "https://www.youtube.com/watch?v=h2ia5fXyV7w&pp=ygUt7ZSM66CI7KCA7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "5.6K views"
+          },
+          {
+            "title": "얼굴 동안의 비법 대공개! 눈밑지방재배치 꿀팁",
+            "channel": "예뻐지는 기쁨, 플레저성형외과",
+            "url": "https://www.youtube.com/watch?v=iRGWoEqN1A8&pp=ygUt7ZSM66CI7KCA7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "869 views"
+          },
+          {
+            "title": "눈밑지방재배치 후 필수 관리법! 부작용 없이 빠르게 회복하는 꿀팁 공개 👀 #눈밑지방재배치 #눈밑지 #shorts",
+            "channel": "예뻐지는 기쁨, 플레저성형외과",
+            "url": "https://www.youtube.com/watch?v=YsU6N6cBz0A&pp=ygUt7ZSM66CI7KCA7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "4.1K views"
+          },
+          {
+            "title": "지방이식vs필러! 선택하는 꿀팁 (피부과 전문의vs성형외과전문의)",
+            "channel": "예뻐지는 기쁨, 플레저성형외과",
+            "url": "https://www.youtube.com/watch?v=lC34ecOoFNA&pp=ygUt7ZSM66CI7KCA7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.6K views"
+          },
+          {
+            "title": "[줄기세포-Stem Cell TV] 수술 후 미세한 흉터를 보완하여 환자분들의 만족감이 높습니다 / 플레저 성형외과 손유석 원장님",
+            "channel": "줄기세포TV",
+            "url": "https://www.youtube.com/watch?v=btIj_meRiII&pp=ygUt7ZSM66CI7KCA7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "207 views"
+          },
+          {
+            "title": "정면에서 예뻐보이는 코! 정면효과를 만드는 3가지 방법은?",
+            "channel": "예뻐지는 기쁨, 플레저성형외과",
+            "url": "https://www.youtube.com/watch?v=9PtD7R_i-aM&pp=ygUt7ZSM66CI7KCA7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "12K views"
+          },
+          {
+            "title": "You can use your own costal cartilage in your first surgery?!",
+            "channel": "예뻐지는 기쁨, 플레저성형외과",
+            "url": "https://www.youtube.com/watch?v=Lefsjpj40jY&pp=ygUt7ZSM66CI7KCA7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "2.6K views"
+          },
+          {
+            "title": "안검황색종! 레이저 vs 수술 딱 정해드립니다.",
+            "channel": "예뻐지는 기쁨, 플레저성형외과",
+            "url": "https://www.youtube.com/watch?v=eqXQ_rQSEBM&pp=ygUt7ZSM66CI7KCA7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.2K views"
+          },
+          {
+            "title": "The era of course, it is possible to have 3D right dance!Which code is the most effective in?",
+            "channel": "예뻐지는 기쁨, 플레저성형외과",
+            "url": "https://www.youtube.com/watch?v=L2tzY4w-uNw&pp=ygUt7ZSM66CI7KCA7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "2.1K views"
+          },
+          {
+            "title": "피부과 전문의가 알려주는 부위별 필러시술 꿀팁! (필러는 녹지 않는다?!)",
+            "channel": "예뻐지는 기쁨, 플레저성형외과",
+            "url": "https://www.youtube.com/watch?v=DQmt3yNL4Xo&pp=ygUt7ZSM66CI7KCA7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.1K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 15,
+  "opportunity_cost_thb": 85000,
+  "opportunity_cost_krw": 3400000
+}

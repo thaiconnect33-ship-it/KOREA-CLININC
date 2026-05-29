@@ -1,0 +1,148 @@
+{
+  "query": "Oracle Dermatology Clinic",
+  "generated_at": "2026-05-29T05:49:45.685Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 2724,
+      "extra": {
+        "place_id": "21575952",
+        "name": "오라클피부과의원 구월점 : 네이버\u001c",
+        "visitor_review_count": 1601,
+        "blog_review_count": 1123,
+        "detail_url": "https://m.place.naver.com/place/21575952/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Results",
+        "rating": 4.9,
+        "total_reviews": 0,
+        "sample_size": 6,
+        "foreign_language_reviews": 6,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 6
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 11926,
+        "foreign_video_count": 19,
+        "lang_breakdown": {
+          "korean": 1,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 19
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "Oracle Dermatology Clinic",
+            "channel": "Medi-in Gangnam",
+            "url": "https://www.youtube.com/watch?v=c0W9XhAHnmw&pp=ygUfT3JhY2xlIERlcm1hdG9sb2d5IENsaW5pYyBLb3JlYQ%3D%3D",
+            "view_text": "2.6K views"
+          },
+          {
+            "title": "Oracle Clinic Thailand",
+            "channel": "Oracle Clinic Thailand",
+            "url": "https://www.youtube.com/watch?v=c5niho7vaMc&pp=ygUfT3JhY2xlIERlcm1hdG9sb2d5IENsaW5pYyBLb3JlYQ%3D%3D",
+            "view_text": "860 views"
+          },
+          {
+            "title": "Oracle Medical Group_EN",
+            "channel": "오라클피부과",
+            "url": "https://www.youtube.com/watch?v=ZZbdTMUEdtE&pp=ygUfT3JhY2xlIERlcm1hdG9sb2d5IENsaW5pYyBLb3JlYQ%3D%3D",
+            "view_text": "4.3K views"
+          },
+          {
+            "title": "Fat Transplantation in South Korea with Cheongdam Oracle Clinic",
+            "channel": "Oracle Clinic Cheongdam",
+            "url": "https://www.youtube.com/watch?v=sF9DbzydCFk&pp=ygUfT3JhY2xlIERlcm1hdG9sb2d5IENsaW5pYyBLb3JlYQ%3D%3D",
+            "view_text": "57 views"
+          },
+          {
+            "title": "Acne Scar Laser Treatment - Dermatology clinic in Korea",
+            "channel": "Oracle Clinic Cheongdam",
+            "url": "https://www.youtube.com/watch?v=fWjHXCdfZ0c&pp=ygUfT3JhY2xlIERlcm1hdG9sb2d5IENsaW5pYyBLb3JlYQ%3D%3D",
+            "view_text": "174 views"
+          },
+          {
+            "title": "[Oracle Clinic Chungdam] Chin Botox 2",
+            "channel": "Oracle Clinic Cheongdam",
+            "url": "https://www.youtube.com/watch?v=mJv54adOm5M&pp=ygUfT3JhY2xlIERlcm1hdG9sb2d5IENsaW5pYyBLb3JlYQ%3D%3D",
+            "view_text": "21 views"
+          },
+          {
+            "title": "[Oracle Clinic Chungdam] Wanghong Visit",
+            "channel": "Oracle Clinic Cheongdam",
+            "url": "https://www.youtube.com/watch?v=G1evXDh652k&pp=ygUfT3JhY2xlIERlcm1hdG9sb2d5IENsaW5pYyBLb3JlYQ%3D%3D",
+            "view_text": "176 views"
+          },
+          {
+            "title": "My First Skin Care Treatment Experience in Korea | Oracle Clinic",
+            "channel": "LetsGoBJones",
+            "url": "https://www.youtube.com/watch?v=6M-hHuW6GSc&pp=ygUfT3JhY2xlIERlcm1hdG9sb2d5IENsaW5pYyBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "1.4K views"
+          },
+          {
+            "title": "Oracle Cheongdam Clinic, Beauty and Medical, Seoul",
+            "channel": "My Destination Video HQ",
+            "url": "https://www.youtube.com/watch?v=hmcC4QcrOB0&pp=ygUfT3JhY2xlIERlcm1hdG9sb2d5IENsaW5pYyBLb3JlYQ%3D%3D",
+            "view_text": "1K views"
+          },
+          {
+            "title": "🏥 Top-Rated Dermatology Clinics in Seoul 2026 🌏",
+            "channel": "KOREA MED TOUR",
+            "url": "https://www.youtube.com/watch?v=alLIuYvmOVc&pp=ygUfT3JhY2xlIERlcm1hdG9sb2d5IENsaW5pYyBLb3JlYQ%3D%3D",
+            "view_text": "21 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 18,
+  "opportunity_cost_thb": 87500,
+  "opportunity_cost_krw": 3500000
+}

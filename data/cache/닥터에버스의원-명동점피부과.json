@@ -1,0 +1,147 @@
+{
+  "query": "닥터에버스의원 명동점피부과",
+  "generated_at": "2026-05-28T23:09:00.568Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 988,
+      "extra": {
+        "place_id": "1394628774",
+        "name": "닥터에버스의원 명동점 : 네이버\u001c",
+        "visitor_review_count": 119,
+        "blog_review_count": 869,
+        "detail_url": "https://m.place.naver.com/place/1394628774/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "닥터에버스의원 명동점 Dr.Evers myeongdong",
+        "rating": 4.4,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 13,
+      "extra": {
+        "total_views": 18927,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 13,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 13,
+        "top_videos": [
+          {
+            "title": "[피부과] 닥터에버스 명동점 VIP 라운지 오픈 | 피부 고민을 보다 편안하게 정리하는 공간",
+            "channel": "닥터에버스",
+            "url": "https://www.youtube.com/watch?v=sEGNOfig0tg&pp=ygUu64ul7YSw7JeQ67KE7Iqk7J2Y7JuQIOuqheuPmeygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "70 views"
+          },
+          {
+            "title": "피부가 고민이었다면 찾아주세요! | 닥터에버스 명동점 오픈!",
+            "channel": "닥터에버스",
+            "url": "https://www.youtube.com/watch?v=tCrtNuf3PuY&pp=ygUu64ul7YSw7JeQ67KE7Iqk7J2Y7JuQIOuqheuPmeygkO2UvOu2gOqzvCBLb3JlYdIHCQkNCwGHKiGM7w%3D%3D",
+            "view_text": "369 views"
+          },
+          {
+            "title": "잠을 푹 자도 없어지지 않는 다크서클 | '이것'이 원인입니다!",
+            "channel": "닥터에버스",
+            "url": "https://www.youtube.com/watch?v=3QKDx-bbKX4&pp=ygUu64ul7YSw7JeQ67KE7Iqk7J2Y7JuQIOuqheuPmeygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "1K views"
+          },
+          {
+            "title": "A dermatologist recommends treatments for those in their 30s | Collagen booster Radius",
+            "channel": "닥터에버스",
+            "url": "https://www.youtube.com/watch?v=wnzgp-2pi9Y&pp=ygUu64ul7YSw7JeQ67KE7Iqk7J2Y7JuQIOuqheuPmeygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "234 views"
+          },
+          {
+            "title": "Dr.Evers Symposium Dr.Evers x MERZ AESTHETICS",
+            "channel": "닥터에버스",
+            "url": "https://www.youtube.com/watch?v=l_wcBc_9i1M&pp=ygUu64ul7YSw7JeQ67KE7Iqk7J2Y7JuQIOuqheuPmeygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "544 views"
+          },
+          {
+            "title": "닥터에버스 심포지움 | 닥터에버스 x 멀츠 에스테틱스",
+            "channel": "닥터에버스",
+            "url": "https://www.youtube.com/watch?v=sJUuFQ-54IY&pp=ygUu64ul7YSw7JeQ67KE7Iqk7J2Y7JuQIOuqheuPmeygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "352 views"
+          },
+          {
+            "title": "쥬베룩의 모든 것 | 여드름 + 모공 + 잔주름 | 효과는요?",
+            "channel": "닥터에버스",
+            "url": "https://www.youtube.com/watch?v=pCtyzt0F9Og&pp=ygUu64ul7YSw7JeQ67KE7Iqk7J2Y7JuQIOuqheuPmeygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "162 views"
+          },
+          {
+            "title": "건성피부 지성피부  에 따른 세안방법",
+            "channel": "아낌없이 주는 나무",
+            "url": "https://www.youtube.com/watch?v=8F7dVHHRUMY&pp=ygUu64ul7YSw7JeQ67KE7Iqk7J2Y7JuQIOuqheuPmeygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "17 views"
+          },
+          {
+            "title": "제 59강 코로나 백신 접종 후 탈모가 생겼다면?!",
+            "channel": "닥터봉탈모이야기",
+            "url": "https://www.youtube.com/watch?v=5SMyT4N7uXI&pp=ygUu64ul7YSw7JeQ67KE7Iqk7J2Y7JuQIOuqheuPmeygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "2.4K views"
+          },
+          {
+            "title": "코로나 백신 맞고 대머리된 일본 여성.. 정말 코로나 백신 맞으면 탈모가 올까?_[모발이식, 탈모 해결사]",
+            "channel": "모법사 Dr_Bang",
+            "url": "https://www.youtube.com/watch?v=fwoNS-2sGYc&pp=ygUu64ul7YSw7JeQ67KE7Iqk7J2Y7JuQIOuqheuPmeygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "279 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

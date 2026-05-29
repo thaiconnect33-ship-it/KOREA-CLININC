@@ -1,0 +1,147 @@
+{
+  "query": "청담엔비의원",
+  "generated_at": "2026-05-28T22:26:50.572Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 1241,
+      "extra": {
+        "place_id": "35592981",
+        "name": "청담엔비의원 : 네이버\u001c",
+        "visitor_review_count": 445,
+        "blog_review_count": 796,
+        "detail_url": "https://m.place.naver.com/place/35592981/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "청담엔비의원",
+        "rating": 4.6,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 22900,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "청담엔비의원 이황희 원장-슈퍼벨로체 \"IPL을 넘어 레이저 같아\"",
+            "channel": "D&PS[DNPS Dermatologist and Plastic Surgeon]",
+            "url": "https://www.youtube.com/watch?v=VQXAfZebq44&pp=ygUh7LKt64u07JeU67mE7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1.4K views"
+          },
+          {
+            "title": "탈모약은 필수 일까? 선택일까? ( ft. 대한 레이저 피부 모발학회 창립회장 이황희 원장님 )",
+            "channel": "NAUM TV",
+            "url": "https://www.youtube.com/watch?v=5wiSuazhXaw&pp=ygUh7LKt64u07JeU67mE7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "81 views"
+          },
+          {
+            "title": "코레지 셀핏? 진피재생, 리프팅, 피부도 운동하면 탄탄해져요",
+            "channel": "청담엔비",
+            "url": "https://www.youtube.com/watch?v=Ha1kvJtjS9Q&pp=ygUh7LKt64u07JeU67mE7J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "465 views"
+          },
+          {
+            "title": "청담동피부과 PCL 실리프팅 이파니 인터뷰",
+            "channel": "청담엔비",
+            "url": "https://www.youtube.com/watch?v=e35ZMl-9WNk&pp=ygUh7LKt64u07JeU67mE7J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "2.3K views"
+          },
+          {
+            "title": "2021 울쎄라리프팅",
+            "channel": "청담엔비",
+            "url": "https://www.youtube.com/watch?v=gH6PcHZ8-y0&pp=ygUh7LKt64u07JeU67mE7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "60 views"
+          },
+          {
+            "title": "청담엔비의원 BB레이저 + LDM 물방울 리프팅 리얼 영상 후기!!",
+            "channel": "콜라겐닥터",
+            "url": "https://www.youtube.com/watch?v=k6dveuadt6w&pp=ygUh7LKt64u07JeU67mE7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "4.5K views"
+          },
+          {
+            "title": "동네병원 TV  첫번째 리뷰는?? 청담엔비 피부과에서 강이나님의 요즘 핫하다는 실펌 레이져 리뷰 ~",
+            "channel": "동네병원TV",
+            "url": "https://www.youtube.com/watch?v=tep69eZ_TpQ&pp=ygUh7LKt64u07JeU67mE7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "6.2K views"
+          },
+          {
+            "title": "청담엔비의원 스컬트라 3차 시술후 영상",
+            "channel": "청담엔비",
+            "url": "https://www.youtube.com/watch?v=zn5nV4ieZYY&pp=ygUh7LKt64u07JeU67mE7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1.8K views"
+          },
+          {
+            "title": "엑소좀과 다른 시술의 차이점은?",
+            "channel": "NAUM TV",
+            "url": "https://www.youtube.com/watch?v=g5WTLkkakBo&pp=ygUh7LKt64u07JeU67mE7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "155 views"
+          },
+          {
+            "title": "20180918_왕홍_by LEE PD&PHOTO_3 청담엔비의원",
+            "channel": "투래빗픽쳐스",
+            "url": "https://www.youtube.com/watch?v=X1L-X5BUVHw&pp=ygUh7LKt64u07JeU67mE7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "119 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 140000,
+  "opportunity_cost_krw": 5600000
+}

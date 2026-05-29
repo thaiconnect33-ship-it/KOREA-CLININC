@@ -1,0 +1,147 @@
+{
+  "query": "리앤채움의원병원,의원",
+  "generated_at": "2026-05-28T22:33:43.366Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 4180,
+      "extra": {
+        "place_id": "34721472",
+        "name": "리앤채움의원 : 네이버\u001c",
+        "visitor_review_count": 3544,
+        "blog_review_count": 636,
+        "detail_url": "https://m.place.naver.com/place/34721472/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "리앤채움의원",
+        "rating": 4.8,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 38357,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "[리앤채움] 리앤채움의 부위별 리얼! 시술직후 영상!",
+            "channel": "리앤채움 피부과",
+            "url": "https://www.youtube.com/watch?v=tX-7NWB-FRg&pp=ygUl66as7JWk7LGE7JuA7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "473 views"
+          },
+          {
+            "title": "[리앤채움] 리앤채움피부과 병원내부 대!공!개!",
+            "channel": "리앤채움 피부과",
+            "url": "https://www.youtube.com/watch?v=6lg5d7PcGE4&pp=ygUl66as7JWk7LGE7JuA7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "354 views"
+          },
+          {
+            "title": "[리앤채움] 남성 구레나룻 리얼 시술과정 및 전후!",
+            "channel": "리앤채움 피부과",
+            "url": "https://www.youtube.com/watch?v=cCQtrv1SYF4&pp=ygUl66as7JWk7LGE7JuA7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "258 views"
+          },
+          {
+            "title": "[리앤채움] 태평양 이마! 탈피한 썰?! (M자이마 헤어라인문신 후기)",
+            "channel": "리앤채움 피부과",
+            "url": "https://www.youtube.com/watch?v=BuXo1s5ddBw&pp=ygUl66as7JWk7LGE7JuA7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "2.3K views"
+          },
+          {
+            "title": "[리앤채움] 리앤채움피부과 오시는길 도보이용편!",
+            "channel": "리앤채움 피부과",
+            "url": "https://www.youtube.com/watch?v=48vxUE735GY&pp=ygUl66as7JWk7LGE7JuA7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "224 views"
+          },
+          {
+            "title": "[리앤채움] 미.모.폭.발. 언니들~ 왜! 리앤채움 눈썹문신을 받았나요?",
+            "channel": "리앤채움 피부과",
+            "url": "https://www.youtube.com/watch?v=VbeNo6mv-rQ&pp=ygUl66as7JWk7LGE7JuA7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "1.9K views"
+          },
+          {
+            "title": "[리앤채움] 코로나19 저리가주세요! 리앤채움은 일일 3회 소독, 방역중",
+            "channel": "리앤채움 피부과",
+            "url": "https://www.youtube.com/watch?v=Kz2CBn0zJV8&pp=ygUl66as7JWk7LGE7JuA7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "222 views"
+          },
+          {
+            "title": "[리앤채움의원] 여자 M자 이마라인 시술 전후 #헤어라인문신",
+            "channel": "리앤채움 피부과",
+            "url": "https://www.youtube.com/watch?v=XHFUV4M6eVA&pp=ygUl66as7JWk7LGE7JuA7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "138 views"
+          },
+          {
+            "title": "[리앤채움] 리앤채움피부과 오시는길 주차장이용편!",
+            "channel": "리앤채움 피부과",
+            "url": "https://www.youtube.com/watch?v=gj3q8T1sopQ&pp=ygUl66as7JWk7LGE7JuA7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "907 views"
+          },
+          {
+            "title": "[리앤채움]두피문신 시술전후",
+            "channel": "리앤채움 피부과",
+            "url": "https://www.youtube.com/watch?v=2CkEiHzFfVs&pp=ygUl66as7JWk7LGE7JuA7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "335 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

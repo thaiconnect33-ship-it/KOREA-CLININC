@@ -1,0 +1,117 @@
+{
+  "query": "와이즈유의원",
+  "generated_at": "2026-05-28T22:58:09.427Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 44,
+      "extra": {
+        "place_id": "1496458510",
+        "name": "와이즈유의원 : 네이버\u001c",
+        "visitor_review_count": 21,
+        "blog_review_count": 23,
+        "detail_url": "https://m.place.naver.com/place/1496458510/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "와이즈유의원",
+        "rating": 4.7,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 5,
+      "extra": {
+        "total_views": 461462,
+        "foreign_video_count": 1,
+        "lang_breakdown": {
+          "korean": 4,
+          "thai": 0,
+          "chinese": 1,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 5,
+        "top_videos": [
+          {
+            "title": "How to find a good plastic surgeon🧡 How to find a good plastic surgeon and avoid plastic surgery ...",
+            "channel": "베레나verena",
+            "url": "https://www.youtube.com/watch?v=SQzMbIJMBTQ&pp=ygUk7JmA7J207KaI7Jyg7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "277K"
+          },
+          {
+            "title": "티 안 나게 예뻐지는 수술✨ 콧볼축소수술 반년 차의 자세한 후기 (feat. 과정영상, 부작용)",
+            "channel": "퀸예진Queenyejin",
+            "url": "https://www.youtube.com/watch?v=_SwBIMko_sg&pp=ygUk7JmA7J207KaI7Jyg7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "152K"
+          },
+          {
+            "title": "북한 경비정, 서해 NLL 침범…군 경고사격 10발에 퇴각 / SBS",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=CvdfvTAij70&pp=ygUk7JmA7J207KaI7Jyg7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "7.3K"
+          },
+          {
+            "title": "탄소중립 실천, ‘착한 일’만은 아니라고?! Feat. 숭실사이버대학교 곽재식 교수",
+            "channel": "국가기후위기대응위원회",
+            "url": "https://www.youtube.com/watch?v=loszjZ1C9-4&pp=ygUk7JmA7J207KaI7Jyg7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "25K"
+          },
+          {
+            "title": "全家陷害窮小子出軌大嫂，被逼上戰場後竟成戰神歸來！豪擲一億買下美艷嬌妻，撕爛勢利家族嘴臉，通通跪地求饒！#drama #爽剧 #男频 #逆袭",
+            "channel": "爽剧一哥",
+            "url": "https://www.youtube.com/watch?v=f53P5C-_AcA&pp=ygUk7JmA7J207KaI7Jyg7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "162"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 1,
+  "opportunity_cost_thb": 99500,
+  "opportunity_cost_krw": 3980000
+}

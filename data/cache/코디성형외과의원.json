@@ -1,0 +1,147 @@
+{
+  "query": "코디성형외과의원",
+  "generated_at": "2026-05-29T00:01:27.599Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 3139,
+      "extra": {
+        "place_id": "35103401",
+        "name": "코디성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 2046,
+        "blog_review_count": 1093,
+        "detail_url": "https://m.place.naver.com/place/35103401/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 23,
+      "extra": {
+        "name": "코디성형외과의원",
+        "rating": 4.4,
+        "total_reviews": 23,
+        "sample_size": 20,
+        "foreign_language_reviews": 20,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 20
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 2067166,
+        "foreign_video_count": 1,
+        "lang_breakdown": {
+          "korean": 19,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 1,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "닥터스칼럼-코디성형외과 하상욱 원장 (최소절개술)",
+            "channel": "메디컬TV MedicalTV",
+            "url": "https://www.youtube.com/watch?v=YExvk9gdml0&pp=ygUq7L2U65SU7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "2K"
+          },
+          {
+            "title": "닥터스칼럼-코디성형외과 홍현준 원장 (안면리프팅)",
+            "channel": "메디컬TV MedicalTV",
+            "url": "https://www.youtube.com/watch?v=0duO0zaVS6w&pp=ygUq7L2U65SU7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "787"
+          },
+          {
+            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUq7L2U65SU7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1M"
+          },
+          {
+            "title": "\"강남 유명 성형외과서 수술 뒤 눈이 실명됐습니다\" [지금이뉴스] / YTN",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=UyMrX929Q4I&pp=ygUq7L2U65SU7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "576K"
+          },
+          {
+            "title": "성형외과 코디네이터 Q&A! 텃세 심한가요?/외모 많이 보나요?/ 학력 보나요? /코디네이터연봉은?/상담실장이 빨리 되기 위한 꿀팁? / 제일 힘든점?",
+            "channel": "슬기로운 병원생활",
+            "url": "https://www.youtube.com/watch?v=_c-q8ACjsuc&pp=ygUq7L2U65SU7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "22K"
+          },
+          {
+            "title": "✨성형외과 코디면접?! 질문들 다 모았다!!!✨ | 병원언니 면접꿀팁💕",
+            "channel": "병원언니TV",
+            "url": "https://www.youtube.com/watch?v=hNtkl1MTU60&pp=ygUq7L2U65SU7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "35K"
+          },
+          {
+            "title": "성형외과 원장이 직접 알려주는 성형외과 취업하는 방법과 꿀팁! (+실장,코디네이터,마케팅,간호사)",
+            "channel": "강남비율성형외과",
+            "url": "https://www.youtube.com/watch?v=0SzpFqD0Mkw&pp=ygUq7L2U65SU7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "5.1K"
+          },
+          {
+            "title": "라미체 외전 EP 2) 성형외과 코디의 하루 공개합니다😮 현실 브이로그",
+            "channel": "라미체TV",
+            "url": "https://www.youtube.com/watch?v=7QUn4XqLHvI&pp=ygUq7L2U65SU7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "140"
+          },
+          {
+            "title": "성형vs코디vs화장vs다이어트 뭐가 가장 좋을까?",
+            "channel": "제이준성형외과 Jayjun plastic surgery",
+            "url": "https://www.youtube.com/watch?v=u4c7DRXXI8E&pp=ygUq7L2U65SU7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "606"
+          },
+          {
+            "title": "[JPN/CHI sub] [VLOG] 성형외과 코디네이터 브이로그ㅣ코디네이터 업무ㅣ일상 브이로그ㅣ출근부터 퇴근까지🥰",
+            "channel": "Dr.류석태 프라미스TV",
+            "url": "https://www.youtube.com/watch?v=7OzxPjM3Rsk&pp=ygUq7L2U65SU7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "32K"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 11,
+  "opportunity_cost_thb": 89500,
+  "opportunity_cost_krw": 3580000
+}

@@ -1,0 +1,147 @@
+{
+  "query": "그랑메디의원",
+  "generated_at": "2026-05-28T22:56:54.565Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 109,
+      "extra": {
+        "place_id": "11736684",
+        "name": "그랑메디의원 : 네이버\u001c",
+        "visitor_review_count": 103,
+        "blog_review_count": 6,
+        "detail_url": "https://m.place.naver.com/place/11736684/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "그랑메디의원",
+        "rating": 3.5,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 547908,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "둥근얼굴, 각진얼굴, 넙데데한 얼굴도 예쁜 얼굴형으로 바꿔주는 피부과 시술ㅣ김명환 피부과전문의",
+            "channel": "메디팩트",
+            "url": "https://www.youtube.com/watch?v=VO8GZKOmHNk&pp=ygUh6re4656R66mU65SU7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "414 views"
+          },
+          {
+            "title": "원장 사망 뒤 피부과 폐업…'선결제' 피해자만 100여 명 / SBS",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=ykiw-o3FbNA&pp=ygUh6re4656R66mU65SU7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "6.3K views"
+          },
+          {
+            "title": "얼굴이물질 제거, 비절개로 가능할까???｜#01 얼굴이물질제거｜청담별의원",
+            "channel": "청담별 성형외과·피부과",
+            "url": "https://www.youtube.com/watch?v=KCw29CBwr3c&pp=ygUh6re4656R66mU65SU7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "4K views"
+          },
+          {
+            "title": "[자막뉴스] \"말도 안돼, 이렇게 비싸다고?\" 피부과 시술 받고 얼마 냈길래... / KBS 2025.07.21.",
+            "channel": "KBS News",
+            "url": "https://www.youtube.com/watch?v=NMNVrhfvxpY&pp=ygUh6re4656R66mU65SU7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "294K views"
+          },
+          {
+            "title": "A true legend😭;;; A review after using 1200 at Cheongdam Dermatology Clinic and still feeling the...",
+            "channel": "한별두별[Hanna]",
+            "url": "https://www.youtube.com/watch?v=6V383KO98Ig&pp=ygUh6re4656R66mU65SU7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "74K views"
+          },
+          {
+            "title": "베트남 깜의 신데렐라 랜선투어｜신데렐라성형외과｜CINDERELLA PLASTIC SURGERY",
+            "channel": "신데렐라성형외과 | Cinderella Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=44OpJSI1JZs&pp=ygUh6re4656R66mU65SU7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "137 views"
+          },
+          {
+            "title": "곰팡이의 습격 '어루러기', 악센트프라임 튠페이스 그리고 레이저토닝 바로 알기",
+            "channel": "메디컬에스테틱뉴스 Medical Aesthetic News",
+            "url": "https://www.youtube.com/watch?v=eoar2BsBV7Y&pp=ygUh6re4656R66mU65SU7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1.7K views"
+          },
+          {
+            "title": "목주름,팔자주름 리프팅- 뉴리프트",
+            "channel": "송학사",
+            "url": "https://www.youtube.com/watch?v=dV0S6xoxuTM&pp=ygUh6re4656R66mU65SU7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1.2K views"
+          },
+          {
+            "title": "당신만의 아름다움을 설계합니다 | 뷰티블라썸의원",
+            "channel": "블라썸1호 | K-Beauty No.1, Beauty Blossom",
+            "url": "https://www.youtube.com/watch?v=nyGxPL2LOhU&pp=ygUh6re4656R66mU65SU7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "63 views"
+          },
+          {
+            "title": "해운대치아교정 입으로 숨 쉬는 사람! 입툭튀/돌출입 교정",
+            "channel": "치아교정은 해운대 예바",
+            "url": "https://www.youtube.com/watch?v=3ioi7Ds3G-c&pp=ygUh6re4656R66mU65SU7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "58 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

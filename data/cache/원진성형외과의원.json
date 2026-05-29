@@ -1,0 +1,145 @@
+{
+  "query": "원진성형외과의원",
+  "generated_at": "2026-05-29T00:03:58.050Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 760,
+      "extra": {
+        "name": "Sponsored",
+        "rating": 4.9,
+        "total_reviews": 760,
+        "sample_size": 20,
+        "foreign_language_reviews": 20,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 20
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 2215414,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "쌍수할 때 가장 중요한 것⭐ 쌍꺼풀, 눈매교정 Q&Aㅣ몇 살부터 가능? 인기있는 눈? 눈매교정 효과?",
+            "channel": "WJ원진성형외과",
+            "url": "https://www.youtube.com/watch?v=-V3OscU0414&pp=ygUw7JuQ7KeE7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "172K views"
+          },
+          {
+            "title": "[WJ원진성형외과] 가슴수술 후 주의사항 1편ㅣ수술당일 ~ 7일ㅣ손유리 원장👩‍⚕️",
+            "channel": "WJ원진성형외과",
+            "url": "https://www.youtube.com/watch?v=XvEt4EFv48I&pp=ygUw7JuQ7KeE7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "11K views"
+          },
+          {
+            "title": "[WJ원진성형외과] 눈성형 후 관리법 2편ㅣ실밥 제거 후ㅣ박장우 원장님👨‍⚕️",
+            "channel": "WJ원진성형외과",
+            "url": "https://www.youtube.com/watch?v=NGuI335_EHg&pp=ygUw7JuQ7KeE7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "42K views"
+          },
+          {
+            "title": "쌍꺼풀 수술과 눈매교정 차이 쉽게❕❕ 알려드려요 1분 QnAㅣ박장우 원장",
+            "channel": "WJ원진성형외과",
+            "url": "https://www.youtube.com/watch?v=Ae0zIgq5MJA&pp=ygUw7JuQ7KeE7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "30K views"
+          },
+          {
+            "title": "A급 장영란 눈 성형 브이로그 리뷰💭 눈썹하거상은 어떤 수술일까?ㅣ박장우원장",
+            "channel": "WJ원진성형외과",
+            "url": "https://www.youtube.com/watch?v=MoiOvq_xqKk&pp=ygUw7JuQ7KeE7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "63K views"
+          },
+          {
+            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUw7JuQ7KeE7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1M views"
+          },
+          {
+            "title": "후회 없는 가슴수술을 원한다면❓ 보형물 선택은 이렇게 하는 겁니다.. 가슴성형 전 필수 시청👨‍⚕️",
+            "channel": "WJ원진성형외과",
+            "url": "https://www.youtube.com/watch?v=EH8dMA5IYLA&pp=ygUw7JuQ7KeE7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "12K views"
+          },
+          {
+            "title": "[WJ원진성형외과] 가슴수술 후 주의사항 2편ㅣ수술 후 1주일 ~ 1달ㅣ손유리 원장👩‍⚕️",
+            "channel": "WJ원진성형외과",
+            "url": "https://www.youtube.com/watch?v=7xX5qp4qL1g&pp=ygUw7JuQ7KeE7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "27K views"
+          },
+          {
+            "title": "매몰 쌍수 잘 풀리는 눈 특징ㅣ풀린 쌍꺼풀 재수술은 이렇게 하세요ㅣ박장우 원장",
+            "channel": "WJ원진성형외과",
+            "url": "https://www.youtube.com/watch?v=8cDdZBobemo&pp=ygUw7JuQ7KeE7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "30K views"
+          },
+          {
+            "title": "1편 성형외과 의사가 솔직하게 말하는 절대 하면 안되는 성형수술 총정리편😲",
+            "channel": "미오름 서원장_책임성형, 바른성형",
+            "url": "https://www.youtube.com/watch?v=4NYnn6eQanI&pp=ygUw7JuQ7KeE7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "790K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 10,
+  "opportunity_cost_thb": 90000,
+  "opportunity_cost_krw": 3600000
+}

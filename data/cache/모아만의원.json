@@ -1,0 +1,147 @@
+{
+  "query": "모아만의원",
+  "generated_at": "2026-05-28T23:55:00.667Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 1449,
+      "extra": {
+        "place_id": "32872809",
+        "name": "모아만의원 : 네이버\u001c",
+        "visitor_review_count": 1059,
+        "blog_review_count": 390,
+        "detail_url": "https://m.place.naver.com/place/32872809/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 227,
+      "extra": {
+        "name": "MOAMAN Hair Transplant Clinic",
+        "rating": 4.9,
+        "total_reviews": 227,
+        "sample_size": 20,
+        "foreign_language_reviews": 20,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 20
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 3514915,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "모아만의원 병원 소개 및 비절개/절개/로봇 모발이식",
+            "channel": "모아만의원",
+            "url": "https://www.youtube.com/watch?v=npPzj97aO0E&pp=ygUe66qo7JWE66eM7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "4.1K"
+          },
+          {
+            "title": "[Q&A]탈모에서 탈출할 수 있는 생활습관은?",
+            "channel": "모아만의원",
+            "url": "https://www.youtube.com/watch?v=Yx1Te8l2Vfs&pp=ygUe66qo7JWE66eM7J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "547"
+          },
+          {
+            "title": "[Q&A]여성형 탈모? 유전성 탈모?│탈모의 종류는?",
+            "channel": "모아만의원",
+            "url": "https://www.youtube.com/watch?v=ihFo6iuvFCk&pp=ygUe66qo7JWE66eM7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "278"
+          },
+          {
+            "title": "[Q&A]원형탈모는 가만히두면 사라질까요?",
+            "channel": "모아만의원",
+            "url": "https://www.youtube.com/watch?v=1czJXKnIhOY&pp=ygUe66qo7JWE66eM7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "286"
+          },
+          {
+            "title": "여름철 모발이식으로 탈모 완치",
+            "channel": "모발이식센터모아만",
+            "url": "https://www.youtube.com/watch?v=g8AZRE4ONmc&pp=ygUe66qo7JWE66eM7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "49"
+          },
+          {
+            "title": "아타스로봇모발이식 이런 탈모인에게 유리-[모아만의원 김태훈 원장]",
+            "channel": "탈모인TV",
+            "url": "https://www.youtube.com/watch?v=WE_GMLVigiA&pp=ygUe66qo7JWE66eM7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "620"
+          },
+          {
+            "title": "모발 이식 4년 후.. 후기, 부작용, 가격 싹 다 알려드립니다.",
+            "channel": "비트 BTE",
+            "url": "https://www.youtube.com/watch?v=6ONxOVGuC3o&pp=ygUe66qo7JWE66eM7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "231K"
+          },
+          {
+            "title": "[Hair Transplant] Will the 6,000 hairs transplanted survive? Two-Incision Hair Transplant: Result...",
+            "channel": "탈모 극복 No.1 - 털업",
+            "url": "https://www.youtube.com/watch?v=fwuOAStBEew&pp=ygUe66qo7JWE66eM7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1.6M"
+          },
+          {
+            "title": "모아만모발이식센터 real story 2",
+            "channel": "chiwoorin",
+            "url": "https://www.youtube.com/watch?v=c7WNZgfoa8E&pp=ygUe66qo7JWE66eM7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "11K"
+          },
+          {
+            "title": "[Q&A]코로나와 탈모의 관계는?",
+            "channel": "모아만의원",
+            "url": "https://www.youtube.com/watch?v=BgHj8OI_npg&pp=ygUe66qo7JWE66eM7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "634"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 10,
+  "opportunity_cost_thb": 90000,
+  "opportunity_cost_krw": 3600000
+}

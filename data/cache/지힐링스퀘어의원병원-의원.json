@@ -1,0 +1,148 @@
+{
+  "query": "지힐링스퀘어의원병원,의원",
+  "generated_at": "2026-05-29T06:01:43.779Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 2055,
+      "extra": {
+        "place_id": "13435305",
+        "name": "지힐링스퀘어의원 : 네이버\u001c",
+        "visitor_review_count": 2055,
+        "blog_review_count": 0,
+        "detail_url": "https://m.place.naver.com/place/13435305/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "G Clinic",
+        "rating": 4.9,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 112998,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "지힐링스퀘어의원 병원소개영상,홍영호 원장님",
+            "channel": "지힐링TV",
+            "url": "https://www.youtube.com/watch?v=Tbwppdk5ZWQ&pp=ygUr7KeA7Z6Q66eB7Iqk7YCY7Ja07J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "2.4K views"
+          },
+          {
+            "title": "지클리닉 힐링스퀘어 소개 영상 1",
+            "channel": "힐링스퀘어",
+            "url": "https://www.youtube.com/watch?v=qBNvxbjN06Y&pp=ygUr7KeA7Z6Q66eB7Iqk7YCY7Ja07J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "1.3K views"
+          },
+          {
+            "title": "맹우재 지힐링스퀘어의원 가정의학과 선생님 편",
+            "channel": "대한의사협회",
+            "url": "https://www.youtube.com/watch?v=n-TWKjmvBVU&pp=ygUr7KeA7Z6Q66eB7Iqk7YCY7Ja07J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "250 views"
+          },
+          {
+            "title": "지힐링스퀘어의원, 지팻주사 시술실, 디자인실 영상",
+            "channel": "지힐링TV",
+            "url": "https://www.youtube.com/watch?v=Y1Dk3h0poxE&pp=ygUr7KeA7Z6Q66eB7Iqk7YCY7Ja07J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "1.5K views"
+          },
+          {
+            "title": "지클리닉 힐링스퀘어 홍보 영상",
+            "channel": "힐링스퀘어",
+            "url": "https://www.youtube.com/watch?v=mGLhwgU3zuU&pp=ygUr7KeA7Z6Q66eB7Iqk7YCY7Ja07J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "1.6K views"
+          },
+          {
+            "title": "지힐링스퀘어의원 흉살치료 안내영상, 홍승혁원장님",
+            "channel": "지힐링TV",
+            "url": "https://www.youtube.com/watch?v=oOjGYIHEwCY&pp=ygUr7KeA7Z6Q66eB7Iqk7YCY7Ja07J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "4.4K views"
+          },
+          {
+            "title": "지팻주사 덕분에 자신감이 생긴 그녀의 리얼스토리 😉 지힐링스퀘어의원 지방추출시술 비포 & 애프터 👀",
+            "channel": "지힐링TV",
+            "url": "https://www.youtube.com/watch?v=z4PinUHzr7Q&pp=ygUr7KeA7Z6Q66eB7Iqk7YCY7Ja07J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "3.9K views"
+          },
+          {
+            "title": "지힐링스퀘어 의료진간단소개",
+            "channel": "지힐링TV",
+            "url": "https://www.youtube.com/watch?v=KrFnGc9JqaI&pp=ygUr7KeA7Z6Q66eB7Iqk7YCY7Ja07J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "2K views"
+          },
+          {
+            "title": "미올린의원 소개영상",
+            "channel": "다온메디",
+            "url": "https://www.youtube.com/watch?v=p2DWuhVA7mM&pp=ygUr7KeA7Z6Q66eB7Iqk7YCY7Ja07J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "259 views"
+          },
+          {
+            "title": "지힐링스퀘어의원, 지팻주사 디자인 영상(맹우재 원장님)",
+            "channel": "지힐링TV",
+            "url": "https://www.youtube.com/watch?v=TiFbFRi_VF8&pp=ygUr7KeA7Z6Q66eB7Iqk7YCY7Ja07J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "2.7K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

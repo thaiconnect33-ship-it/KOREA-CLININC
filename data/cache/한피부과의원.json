@@ -1,0 +1,147 @@
+{
+  "query": "한피부과의원",
+  "generated_at": "2026-05-28T23:10:30.914Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 1205,
+      "extra": {
+        "place_id": "19521332",
+        "name": "한피부과의원 : 네이버\u001c",
+        "visitor_review_count": 1053,
+        "blog_review_count": 152,
+        "detail_url": "https://m.place.naver.com/place/19521332/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "한피부과의원",
+        "rating": 3,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 3301962,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "병원 간판으로 피부과 전문의인지 아닌지 구별하는 방법 (피부과전문의병원 구분법)",
+            "channel": "계피부과 since1961",
+            "url": "https://www.youtube.com/watch?v=ctJAMejU30s&pp=ygUh7ZWc7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "11K views"
+          },
+          {
+            "title": "계피부과 TV조선 인터뷰 영상",
+            "channel": "계피부과 since1961",
+            "url": "https://www.youtube.com/watch?v=Z3arxo4C6_A&pp=ygUh7ZWc7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "750 views"
+          },
+          {
+            "title": "(광고❌) 이거 모르고 피부과 가면 돈만 날려요😭  피부과의사 120명이 뽑은 후회 없는 시술 1위는? - 정한미 권수현 피부과전문의",
+            "channel": "피부텐텐 · 피부가 예뻐지는 10분",
+            "url": "https://www.youtube.com/watch?v=Cw3hRPXx5JE&pp=ygUh7ZWc7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "49K views"
+          },
+          {
+            "title": "\"Dermatologists don't tell you...\" We recommend popular youth-enhancing procedures these days. We...",
+            "channel": "박지윤의 피부 설명서",
+            "url": "https://www.youtube.com/watch?v=EFB-McCJG48&pp=ygUh7ZWc7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "444K views"
+          },
+          {
+            "title": "Dermatologist Shin Sung-rok Appears [SNL Korea] Season 8 ‘Smile Clinic’ Highlights",
+            "channel": "쿠팡플레이 Coupang Play",
+            "url": "https://www.youtube.com/watch?v=P1IAzz8_5Ag&pp=ygUh7ZWc7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1.7M views"
+          },
+          {
+            "title": "\"원장님께서 별세하셨기에\"…유명 피부과 '피해자 속출' / SBS 8뉴스",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=-3uLsD3sWGU&pp=ygUh7ZWc7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "924K views"
+          },
+          {
+            "title": "좋은 피부과 찾는 법?? 이것만 기억하세요! (피부과 전문의)",
+            "channel": "피부고민상담소  신촌연세스타피부과",
+            "url": "https://www.youtube.com/watch?v=pxZPl_YACUA&pp=ygUh7ZWc7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "49K views"
+          },
+          {
+            "title": "강남 유명 피부과 '먹튀' 논란…70여 명 단체 소송 준비 / SBS",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=p3zjiWC53fM&pp=ygUh7ZWc7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "2.6K views"
+          },
+          {
+            "title": "대한민국 강남 피부과 원장들이 줄줄이 무너지는 진짜 이유",
+            "channel": "바른경제",
+            "url": "https://www.youtube.com/watch?v=YwtjZmKGy7M&pp=ygUh7ZWc7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "45K views"
+          },
+          {
+            "title": "300평이 넘는 피부과를 창업한 피부과 전문의",
+            "channel": "IMVIEW",
+            "url": "https://www.youtube.com/watch?v=mjIoDUE8kCA&pp=ygUh7ZWc7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "6.3K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

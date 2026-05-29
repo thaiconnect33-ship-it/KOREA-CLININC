@@ -1,0 +1,147 @@
+{
+  "query": "올소치과의원",
+  "generated_at": "2026-05-29T00:10:28.204Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 1752,
+      "extra": {
+        "place_id": "36192235",
+        "name": "올소치과의원 : 네이버\u001c",
+        "visitor_review_count": 937,
+        "blog_review_count": 815,
+        "detail_url": "https://m.place.naver.com/place/36192235/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "AllSO Oral & Maxillofacial Surgery Clinic",
+        "rating": 4.3,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 30230,
+        "foreign_video_count": 1,
+        "lang_breakdown": {
+          "korean": 19,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 1
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "32. Facial surgery at the dentist? Yes! I know. [Uvengers collaboration video]",
+            "channel": "턱수술의 모든 것, 양달TV",
+            "url": "https://www.youtube.com/watch?v=0rqS4EFSOiQ&pp=ygUe7Jis7IaM7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "1.2K views"
+          },
+          {
+            "title": "3. 수술시기 : 양악수술 언제 해야 하나요?",
+            "channel": "턱수술의 모든 것, 양달TV",
+            "url": "https://www.youtube.com/watch?v=bj6MgeY-iIw&pp=ygUe7Jis7IaM7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "1.5K views"
+          },
+          {
+            "title": "FACEGIDE User Interview with Dr. Minsu Kwon, Allso Dental Clinic 🎙️ [KR][Eng Sub]",
+            "channel": "R2playground",
+            "url": "https://www.youtube.com/watch?v=Ya72rlDPgCg&pp=ygUe7Jis7IaM7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "95 views"
+          },
+          {
+            "title": "35. 양악수술의 조금은 다른 기준. 미용양악 환자의 니즈는?",
+            "channel": "턱수술의 모든 것, 양달TV",
+            "url": "https://www.youtube.com/watch?v=YRC-8h6JCFs&pp=ygUe7Jis7IaM7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "2.3K views"
+          },
+          {
+            "title": "[AllSO clinic 올소치과 구강악안면외과] 단트롤렌 (The Preparation of Dantrolene)",
+            "channel": "Min-Su Kwon, DDS, MSD",
+            "url": "https://www.youtube.com/watch?v=359Rw0kciXI&pp=ygUe7Jis7IaM7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "673 views"
+          },
+          {
+            "title": "10. 나는 이 양악수술 반댈세 [주걱턱편]",
+            "channel": "턱수술의 모든 것, 양달TV",
+            "url": "https://www.youtube.com/watch?v=9Otekh7hHz4&pp=ygUe7Jis7IaM7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "2.2K views"
+          },
+          {
+            "title": "[Q&A] 양잘알 서백건 탐방기 시즌2! 세 번째 이야기, 주걱턱 환자 중 SSRO, IVRO 비율은?",
+            "channel": "양잘알",
+            "url": "https://www.youtube.com/watch?v=y8eHo87uBSI&pp=ygUe7Jis7IaM7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "5.5K views"
+          },
+          {
+            "title": "[AllSO clinic, 올소치과]  무턱, 코골이 양악수술",
+            "channel": "Min-Su Kwon, DDS, MSD",
+            "url": "https://www.youtube.com/watch?v=Ai0i8geu0Ts&pp=ygUe7Jis7IaM7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "1.2K views"
+          },
+          {
+            "title": "18. 양악vs윤곽, 어떤걸 해야돼요?",
+            "channel": "턱수술의 모든 것, 양달TV",
+            "url": "https://www.youtube.com/watch?v=YU62YPbExCI&pp=ygUe7Jis7IaM7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "702 views"
+          },
+          {
+            "title": "22. 양악수술, 전신마취에 대한 오해와 진실!",
+            "channel": "턱수술의 모든 것, 양달TV",
+            "url": "https://www.youtube.com/watch?v=Q5JIN_Hr4eA&pp=ygUe7Jis7IaM7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "817 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 1,
+  "opportunity_cost_thb": 99500,
+  "opportunity_cost_krw": 3980000
+}

@@ -1,0 +1,111 @@
+{
+  "query": "제트구강악안면외과치과의원병원,의원",
+  "generated_at": "2026-05-29T00:11:49.080Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 219,
+      "extra": {
+        "place_id": "1312695566",
+        "name": "제트구강악안면외과치과의원 : 네이버\u001c",
+        "visitor_review_count": 192,
+        "blog_review_count": 27,
+        "detail_url": "https://m.place.naver.com/place/1312695566/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Jet Oral and Maxillofacial Surgery Dental Clinic",
+        "rating": 5,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 4,
+      "extra": {
+        "total_views": 1070,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 4,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 4,
+        "top_videos": [
+          {
+            "title": "구강악안면외과의사회 10월16일",
+            "channel": "덴탈프레스dentalpress",
+            "url": "https://www.youtube.com/watch?v=gE1dwhlzM7U&pp=ygU67KCc7Yq46rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "578 views"
+          },
+          {
+            "title": "국제사체해부연수회 대한턱얼굴미용외과",
+            "channel": "덴탈프레스dentalpress",
+            "url": "https://www.youtube.com/watch?v=bT0ok6HyvyY&pp=ygU67KCc7Yq46rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "277 views"
+          },
+          {
+            "title": "가지런히 치과광고",
+            "channel": "jinwha jeong",
+            "url": "https://www.youtube.com/watch?v=2c7q24pE6es&pp=ygU67KCc7Yq46rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "129 views"
+          },
+          {
+            "title": "끌림365창원점 보톡스 시술 소개영상",
+            "channel": "YO YO",
+            "url": "https://www.youtube.com/watch?v=qFDxUzX3GCQ&pp=ygU67KCc7Yq46rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "86 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

@@ -1,0 +1,147 @@
+{
+  "query": "와이구강악안면외과치과의원",
+  "generated_at": "2026-05-29T00:13:21.866Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 508,
+      "extra": {
+        "place_id": "1377862338",
+        "name": "와이구강악안면외과치과의원 : 네이버\u001c",
+        "visitor_review_count": 99,
+        "blog_review_count": 409,
+        "detail_url": "https://m.place.naver.com/place/1377862338/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "와이구강악안면외과치과의원 : WHY Oral & Maxillofacial Surgery",
+        "rating": 4.7,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 121042,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "[JP]원장님에게 물어봤습니다. 뭐가 더 좋습니까? ㅣ 와이구강악안면외과 치과의원",
+            "channel": "이석재의 양악생활",
+            "url": "https://www.youtube.com/watch?v=1LxtjFRcpSc&pp=ygUz7JmA7J206rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "615 views"
+          },
+          {
+            "title": "양악 수술 이런 분들은 하지 마세요. 후회합니다.ㅣ와이구강악안면외과 치과의원 이석재 원장",
+            "channel": "이석재의 양악생활",
+            "url": "https://www.youtube.com/watch?v=TP4fxoWRAfE&pp=ygUz7JmA7J206rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "17K views"
+          },
+          {
+            "title": "사랑니를 구강악안면외과에서 뽑아야 하는 이유...? ㅣ와이구강악안면외과 치과의원",
+            "channel": "이석재의 양악생활",
+            "url": "https://www.youtube.com/watch?v=N5HFiRgf11M&pp=ygUz7JmA7J206rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "3.3K views"
+          },
+          {
+            "title": "[EN/JP] 양악수술 상담받으러 가기 전 봐야할 영상 ㅣ 와이구강악안면외과 치과의원",
+            "channel": "이석재의 양악생활",
+            "url": "https://www.youtube.com/watch?v=jbtSzhBO56w&pp=ygUz7JmA7J206rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "9K views"
+          },
+          {
+            "title": "[JP]이런 경우는 치아교정이 아니라 양악수술을 해야 합니다",
+            "channel": "이석재의 양악생활",
+            "url": "https://www.youtube.com/watch?v=-S47muCGA-U&pp=ygUz7JmA7J206rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "489 views"
+          },
+          {
+            "title": "내가 구강악안면외과 의사가 된 이유...! ㅣ와이구강악안면외과 치과의원 이석재 원장",
+            "channel": "이석재의 양악생활",
+            "url": "https://www.youtube.com/watch?v=kXQPxbdoY2w&pp=ygUz7JmA7J206rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "3.5K views"
+          },
+          {
+            "title": "[JP]주걱턱 양악수술 후기 리뷰! 수술 계획은 이렇게 잡습니다",
+            "channel": "이석재의 양악생활",
+            "url": "https://www.youtube.com/watch?v=6nigYG4Ffco&pp=ygUz7JmA7J206rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "27K views"
+          },
+          {
+            "title": "[JP]긴 얼굴로 양악을 고민하신다면 보세요 ㅣ 와이구강악안면외과 치과의원",
+            "channel": "이석재의 양악생활",
+            "url": "https://www.youtube.com/watch?v=y4MUfHVn1Ag&pp=ygUz7JmA7J206rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "15K views"
+          },
+          {
+            "title": "양악수술&안면윤곽수술 후에 어색한 얼굴이 되는 이유?",
+            "channel": "이유구강악안면외과",
+            "url": "https://www.youtube.com/watch?v=c9kcak3QgGY&pp=ygUz7JmA7J206rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "4.8K views"
+          },
+          {
+            "title": "[JP]양악수술 하루에 딱! 1번만 하는 이유 ㅣ 와이구강악안면외과 치과의원",
+            "channel": "이석재의 양악생활",
+            "url": "https://www.youtube.com/watch?v=GeHQmpxv4Uc&pp=ygUz7JmA7J206rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "4.7K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

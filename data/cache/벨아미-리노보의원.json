@@ -1,0 +1,117 @@
+{
+  "query": "벨아미 리노보의원",
+  "generated_at": "2026-05-28T22:43:41.526Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 418,
+      "extra": {
+        "place_id": "13138491",
+        "name": "벨아미 리노보의원 : 네이버\u001c",
+        "visitor_review_count": 160,
+        "blog_review_count": 258,
+        "detail_url": "https://m.place.naver.com/place/13138491/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Belleamie Renovo Skin Clinic hongdae 벨아미리노보 홍대 dermatology ホンデ美容外科 韩国皮肤科",
+        "rating": 5,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 5,
+      "extra": {
+        "total_views": 970819,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 5,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 5,
+        "top_videos": [
+          {
+            "title": "벨아미리노보의원 이전개원1주년 인사",
+            "channel": "hongdaedoctor",
+            "url": "https://www.youtube.com/watch?v=AjGY3VE2lGA&pp=ygUo67Ko7JWE66-4IOumrOuFuOuztOydmOybkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "257 views"
+          },
+          {
+            "title": "리노보홍대레이저PRP",
+            "channel": "Hongdae Belleamie Renovo clinic & beauty center",
+            "url": "https://www.youtube.com/watch?v=lh_gii7fKeo&pp=ygUo67Ko7JWE66-4IOumrOuFuOuztOydmOybkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "78 views"
+          },
+          {
+            "title": "홍대피부과, 손발톱무좀 치료법에 대해 알아보자!",
+            "channel": "hongdaedoctor",
+            "url": "https://www.youtube.com/watch?v=t5B2ESiwnB4&pp=ygUo67Ko7JWE66-4IOumrOuFuOuztOydmOybkO2UvOu2gOqzvCBLb3JlYdIHCQkNCwGHKiGM7w%3D%3D",
+            "view_text": "358 views"
+          },
+          {
+            "title": "헤어라인이식 리얼스토리1-3_홍대 리노보",
+            "channel": "taehoon park",
+            "url": "https://www.youtube.com/watch?v=eMmXGAZOMbs&pp=ygUo67Ko7JWE66-4IOumrOuFuOuztOydmOybkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "126 views"
+          },
+          {
+            "title": "대부분 모르는 세럼 바를 때 실수 5가지 | 세럼 효과 제대로 보는 방법",
+            "channel": "닥터블랑_예뻐지는비결",
+            "url": "https://www.youtube.com/watch?v=56-s3SCtoQc&pp=ygUo67Ko7JWE66-4IOumrOuFuOuztOydmOybkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "970K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

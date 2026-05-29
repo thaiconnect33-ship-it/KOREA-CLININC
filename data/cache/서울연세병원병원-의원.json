@@ -1,0 +1,147 @@
+{
+  "query": "서울연세병원병원,의원",
+  "generated_at": "2026-05-28T22:44:22.377Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 181,
+      "extra": {
+        "place_id": "1269990484",
+        "name": "연세웰정신건강의학과의원 : 네이버\u001c",
+        "visitor_review_count": 179,
+        "blog_review_count": 2,
+        "detail_url": "https://m.place.naver.com/place/1269990484/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "서울연세병원",
+        "rating": 3.3,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 3963916,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "서울연세한방병원 소개 영상",
+            "channel": "서울연세한방병원",
+            "url": "https://www.youtube.com/watch?v=LVXaW-1l2ow&pp=ygUl7ISc7Jq47Jew7IS467OR7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "367"
+          },
+          {
+            "title": "연세별내내과의원 #남양주내과 건강검진 내과 진료는 여기로 오세요! (서울대학교병원/서울아산병원 협력병원)",
+            "channel": "빛네트워크",
+            "url": "https://www.youtube.com/watch?v=A1TafgnWjB8&pp=ygUl7ISc7Jq47Jew7IS467OR7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "490"
+          },
+          {
+            "title": "인공관절 수술, 너무 이릅니다! 무릎을 살리는 최신 치료법 (ft. 줄기세포치료)",
+            "channel": "척추관절 바른TV-연세바른병원",
+            "url": "https://www.youtube.com/watch?v=XkGEO8z_7B4&pp=ygUl7ISc7Jq47Jew7IS467OR7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "21K"
+          },
+          {
+            "title": "우리 병원을 소개합니다 / 연세산돌병원 신경외과 김병우",
+            "channel": "의학채널 비온뒤",
+            "url": "https://www.youtube.com/watch?v=ejmmCeAn-00&t=47s&pp=ygUl7ISc7Jq47Jew7IS467OR7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "7.4K"
+          },
+          {
+            "title": "[홍보영상] 병원홍보영상 충주서울연세치과",
+            "channel": "마제스타지",
+            "url": "https://www.youtube.com/watch?v=MEHFbY9hmFU&pp=ygUl7ISc7Jq47Jew7IS467OR7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "647"
+          },
+          {
+            "title": "목디스크, 가장 위험한 증상은 '이 증상' 입니다!😲 l 목디스크의 대표적인 증상들과 치료 방법에 대해 알아보자! [강북연세 TV]",
+            "channel": "강북연세병원",
+            "url": "https://www.youtube.com/watch?v=NcXlvObuuwI&pp=ygUl7ISc7Jq47Jew7IS467OR7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "617K"
+          },
+          {
+            "title": "서울역연세공감의원을 소개합니다.",
+            "channel": "통증백과사전",
+            "url": "https://www.youtube.com/watch?v=ncqPg2YQ9JQ&pp=ygUl7ISc7Jq47Jew7IS467OR7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "965"
+          },
+          {
+            "title": "척추관절 ♥ 연세본병원 소개영상",
+            "channel": "연세본병원 (연세본병원)",
+            "url": "https://www.youtube.com/watch?v=EiJFcQ0gC08&pp=ygUl7ISc7Jq47Jew7IS467OR7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "1.2K"
+          },
+          {
+            "title": "마취통증의학과는 무엇인가요? 통증의학과를 꼭 가야하는 질환 5가지!",
+            "channel": "연세신통TV",
+            "url": "https://www.youtube.com/watch?v=qZc1Kqw8BEA&pp=ygUl7ISc7Jq47Jew7IS467OR7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "15K"
+          },
+          {
+            "title": "(특별인터뷰) 연세사랑병원 고용곤 또 걸렸다! 줄기세포 치료광고 주의보! / 2025.03.17",
+            "channel": "신의한수",
+            "url": "https://www.youtube.com/watch?v=IpSKCqRB6qE&pp=ygUl7ISc7Jq47Jew7IS467OR7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "14K"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

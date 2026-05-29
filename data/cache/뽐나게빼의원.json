@@ -1,0 +1,148 @@
+{
+  "query": "뽐나게빼의원",
+  "generated_at": "2026-05-29T06:04:29.047Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 1945,
+      "extra": {
+        "place_id": "1328868675",
+        "name": "뽐나게빼의원 : 네이버\u001c",
+        "visitor_review_count": 273,
+        "blog_review_count": 1672,
+        "detail_url": "https://m.place.naver.com/place/1328868675/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 111,
+      "extra": {
+        "name": "Bbae Clinic",
+        "rating": 4.9,
+        "total_reviews": 111,
+        "sample_size": 20,
+        "foreign_language_reviews": 20,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 20
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 9743725,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "[지방흡입 재수술] 지방흡입 재수술, 재재수술 몇번이고 가능할까요??",
+            "channel": "뽐빼TV",
+            "url": "https://www.youtube.com/watch?v=keBPQv98PcM&pp=ygUk672Q64KY6rKM67m87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.2K views"
+          },
+          {
+            "title": "상담 스타일 다 알려드림!! 뽐나게빼 원장님들을 소개합니다~😆",
+            "channel": "뽐빼TV",
+            "url": "https://www.youtube.com/watch?v=bf6H7fb6jsA&pp=ygUk672Q64KY6rKM67m87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "336 views"
+          },
+          {
+            "title": "지방흡입 가격 뭘로 정해질까? 뽐나게빼는 bmi 정찰제!! 같은 bmi면 수술비 동일👍",
+            "channel": "뽐빼TV",
+            "url": "https://www.youtube.com/watch?v=dj5YZ6HBqDU&pp=ygUk672Q64KY6rKM67m87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "489 views"
+          },
+          {
+            "title": "지방흡입은 위험한 수술 아닌가요? 빼닥터 강대원 원장님이 말하는 안전한 지방흡입이란?",
+            "channel": "뽐빼TV",
+            "url": "https://www.youtube.com/watch?v=vfp7-hkdapA&pp=ygUk672Q64KY6rKM67m87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "1K views"
+          },
+          {
+            "title": "지방은 빠졌는데 흉터는 안 보여요!! 뽐나게빼 티투흉터 지방흡입을 소개합니다~",
+            "channel": "뽐빼TV",
+            "url": "https://www.youtube.com/watch?v=5qtidPeVoYs&pp=ygUk672Q64KY6rKM67m87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "415 views"
+          },
+          {
+            "title": "골반이식하면 일어날 수 있는 부작용? 전부 알려드릴게요",
+            "channel": "뽐빼TV",
+            "url": "https://www.youtube.com/watch?v=Ni6f20xcD9Q&pp=ygUk672Q64KY6rKM67m87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "2.1K views"
+          },
+          {
+            "title": "지방흡입 다이어트 성공하고싶은분들!!!!!! 뽐나게빼 강대원 원장님을 소개합니다",
+            "channel": "뽐빼TV",
+            "url": "https://www.youtube.com/watch?v=KuZ3U3Wnrsk&pp=ygUk672Q64KY6rKM67m87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "1.1K views"
+          },
+          {
+            "title": "뽐나게빼 티투흉터지방흡입을 정식으로 소개합니다😍✨",
+            "channel": "뽐빼TV",
+            "url": "https://www.youtube.com/watch?v=UJs_9micgEI&pp=ygUk672Q64KY6rKM67m87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "637 views"
+          },
+          {
+            "title": "[1편] 은근 준비할게 많다는 지방흡입 수술 준비물! '수술전' 필수 준비물만 준비했습니다",
+            "channel": "뽐빼TV",
+            "url": "https://www.youtube.com/watch?v=zagr1qtAgLs&pp=ygUk672Q64KY6rKM67m87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.9K views"
+          },
+          {
+            "title": "지방흡입한 걸로 이식을 한다고 생각하시는 분들이 많아서 영상 찍었어요 수술전 필수 시청!",
+            "channel": "뽐빼TV",
+            "url": "https://www.youtube.com/watch?v=yoJBuN8Ij-4&pp=ygUk672Q64KY6rKM67m87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "715 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 10,
+  "opportunity_cost_thb": 90000,
+  "opportunity_cost_krw": 3600000
+}

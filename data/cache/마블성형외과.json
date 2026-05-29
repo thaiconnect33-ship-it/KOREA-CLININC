@@ -1,0 +1,148 @@
+{
+  "query": "마블성형외과",
+  "generated_at": "2026-05-29T05:48:34.636Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 2320,
+      "extra": {
+        "place_id": "37206762",
+        "name": "마블성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 815,
+        "blog_review_count": 1505,
+        "detail_url": "https://m.place.naver.com/place/37206762/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 83,
+      "extra": {
+        "name": "Marble Plastic Surgery",
+        "rating": 4.7,
+        "total_reviews": 83,
+        "sample_size": 20,
+        "foreign_language_reviews": 20,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 20
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 5121,
+        "foreign_video_count": 20,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 1,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 19
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "Natural Style Nose VS Dolly Style Nose Explained By Korean Plastic Surgeon!  │Marble Plastic Surgery",
+            "channel": "Marble Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=gOk7-D9RAIg&pp=ygUcTWFyYmxlIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "726 views"
+          },
+          {
+            "title": "FROM CONSULTATION TO ACHIEVING AMAZING KOREAN PLASTIC SURGERY RESULT AT MARBLE PLASTIC SURGERY",
+            "channel": "Marble Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=qJcKHTMhZZo&pp=ygUcTWFyYmxlIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "139 views"
+          },
+          {
+            "title": "Amazing Korean rhinoplasty and acculift result at Marble Plastic Surgery!",
+            "channel": "Marble Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=LAgV8d_860g&pp=ygUcTWFyYmxlIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "238 views"
+          },
+          {
+            "title": "COMPILATION OF MARBLE'S REAL MODEL BEFORE AND AFTER PLASTIC SURGERY!",
+            "channel": "Marble Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=jHQpUtm23B0&pp=ygUcTWFyYmxlIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "120 views"
+          },
+          {
+            "title": "REAL MODEL PHOTOSHOOT AT MARBLE PS KOREA THAT HAS MANY BELLAGEL BREAST AUGMENTATION REVIEW!",
+            "channel": "Marble Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=WFB1_MxmWts&pp=ygUcTWFyYmxlIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "105 views"
+          },
+          {
+            "title": "[Korean Rhinoplasty] Types of Rhinoplasty Explained by Marble's Dr. Kim Jun Hyung!",
+            "channel": "Marble Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=uWevSYEwITo&pp=ygUcTWFyYmxlIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "611 views"
+          },
+          {
+            "title": "RECOVERY JOURNEY OF REVISION RHINOPLASTY IN KOREA!",
+            "channel": "Marble Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=EZgMXt0n1yI&pp=ygUcTWFyYmxlIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "137 views"
+          },
+          {
+            "title": "Welcome to Marble Plastic Surgery",
+            "channel": "Marble Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=SzmZl5zkmxw&pp=ygUcTWFyYmxlIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "938 views"
+          },
+          {
+            "title": "[ Marble  Plastic Surgery Korea ] Real Model Photoshoot Set! Behind the Scenes Big Reveal!",
+            "channel": "Marble Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=3o_1CFRAZjY&pp=ygUcTWFyYmxlIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "526 views"
+          },
+          {
+            "title": "Burning Questions About Revision Rhinoplasty Answered by Dr. Seo Il Beom! (Ft. Jiyu) [Marble PS]",
+            "channel": "Marble Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=2y5whag1x10&pp=ygUcTWFyYmxlIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "257 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 26,
+  "opportunity_cost_thb": 80000,
+  "opportunity_cost_krw": 3200000
+}

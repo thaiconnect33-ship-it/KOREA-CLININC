@@ -1,0 +1,147 @@
+{
+  "query": "더힐피부과의원 신사본점피부과",
+  "generated_at": "2026-05-28T22:38:00.141Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 1847,
+      "extra": {
+        "place_id": "1721530795",
+        "name": "더힐피부과의원 신사본점 : 네이버\u001c",
+        "visitor_review_count": 700,
+        "blog_review_count": 1147,
+        "detail_url": "https://m.place.naver.com/place/1721530795/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "더힐피부과의원 신사본점 ㅣ ソウル皮膚科 リジュラン 美容皮膚科 ㅣ The Heal Clinic Sinsa - English Speaking Dermatologist",
+        "rating": 5,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 12,
+      "extra": {
+        "total_views": 454023,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 12,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 12,
+        "top_videos": [
+          {
+            "title": "더힐피부과 의원 병원 홍보영상 제작",
+            "channel": "신비웹",
+            "url": "https://www.youtube.com/watch?v=X3rgOg4nuzc&pp=ygUx642U7Z6Q7ZS867aA6rO87J2Y7JuQIOyLoOyCrOuzuOygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "287 views"
+          },
+          {
+            "title": "[병원소개] 더힐피부과 병원 소개 영상",
+            "channel": "화이트베이스 스튜디오",
+            "url": "https://www.youtube.com/watch?v=ElPKC3vUmMY&pp=ygUx642U7Z6Q7ZS867aA6rO87J2Y7JuQIOyLoOyCrOuzuOygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "927 views"
+          },
+          {
+            "title": "청담동피부관리 전문 압구정 더힐피부과",
+            "channel": "see mo",
+            "url": "https://www.youtube.com/watch?v=gfbVDN8QmxU&pp=ygUx642U7Z6Q7ZS867aA6rO87J2Y7JuQIOyLoOyCrOuzuOygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "147 views"
+          },
+          {
+            "title": "볼패임, 땅콩형 얼굴 걱정이라면 소프웨이브 리프팅을 선택해보세요 🌊",
+            "channel": "소프웨이브™ 리프팅 (Sofwave™ Korea)",
+            "url": "https://www.youtube.com/watch?v=y_4McRe2Z1g&pp=ygUx642U7Z6Q7ZS867aA6rO87J2Y7JuQIOyLoOyCrOuzuOygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "246 views"
+          },
+          {
+            "title": "[오시는길] 더힐피부과 오시는길",
+            "channel": "화이트베이스 스튜디오",
+            "url": "https://www.youtube.com/watch?v=F0ZQyEP6Uc4&pp=ygUx642U7Z6Q7ZS867aA6rO87J2Y7JuQIOyLoOyCrOuzuOygkO2UvOu2gOqzvCBLb3JlYdIHCQkNCwGHKiGM7w%3D%3D",
+            "view_text": "337 views"
+          },
+          {
+            "title": "청담동피부관리 압구정 더힐피부과",
+            "channel": "see mo",
+            "url": "https://www.youtube.com/watch?v=Sh-ICI8h3tU&pp=ygUx642U7Z6Q7ZS867aA6rO87J2Y7JuQIOyLoOyCrOuzuOygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "399 views"
+          },
+          {
+            "title": "여드름 흉터 치료, 서브시전 시술 전부 보여드립니다!",
+            "channel": "피부과전문의 피부담당 고원장",
+            "url": "https://www.youtube.com/watch?v=l5lzLvR-e6g&pp=ygUx642U7Z6Q7ZS867aA6rO87J2Y7JuQIOyLoOyCrOuzuOygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "19K views"
+          },
+          {
+            "title": "신사동 프리미엄 피부과, 전문의 원장님을 어렵게 만나보았습니다. 🔥🔥🔥",
+            "channel": "소프웨이브™ 리프팅 (Sofwave™ Korea)",
+            "url": "https://www.youtube.com/watch?v=9rB5FOdUvIc&pp=ygUx642U7Z6Q7ZS867aA6rO87J2Y7JuQIOyLoOyCrOuzuOygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "252 views"
+          },
+          {
+            "title": "프리미엄 피부과 원장님이 직접 알려준 리프팅 선택 기준 🌊",
+            "channel": "소프웨이브™ 리프팅 (Sofwave™ Korea)",
+            "url": "https://www.youtube.com/watch?v=SCErK3pofQM&pp=ygUx642U7Z6Q7ZS867aA6rO87J2Y7JuQIOyLoOyCrOuzuOygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "1K views"
+          },
+          {
+            "title": "나에게 맞는 피부과 시술 딱 알려드립니다",
+            "channel": "한혜진 Han Hye Jin",
+            "url": "https://www.youtube.com/watch?v=pz9U2bHJz30&pp=ygUx642U7Z6Q7ZS867aA6rO87J2Y7JuQIOyLoOyCrOuzuOygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "431K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

@@ -1,0 +1,146 @@
+{
+  "query": "컴포트성형외과의원",
+  "generated_at": "2026-05-29T06:08:20.265Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 6,
+      "extra": {
+        "name": "컴포트 성형외과",
+        "rating": 4.2,
+        "total_reviews": 6,
+        "sample_size": 12,
+        "foreign_language_reviews": 12,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 12
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 1540322,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUt7Lu07Y-s7Yq47ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1M views"
+          },
+          {
+            "title": "청순하게 살아보고 싶은 장영란의 진짜 마지막 선택 (성형외과)",
+            "channel": "A급 장영란",
+            "url": "https://www.youtube.com/watch?v=cEEvSwHAieo&pp=ygUt7Lu07Y-s7Yq47ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "423K views"
+          },
+          {
+            "title": "프로파운드 후 관리! '컴포트듀얼' 실제 시술공개",
+            "channel": "the yujin",
+            "url": "https://www.youtube.com/watch?v=AuJM8eemlNs&pp=ygUt7Lu07Y-s7Yq47ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1K views"
+          },
+          {
+            "title": "영수쌤에게 받은 문신제거, 이렇게 관리하세요!!",
+            "channel": "문신 지우는 영수쌤",
+            "url": "https://www.youtube.com/watch?v=17q2JaHlGns&pp=ygUt7Lu07Y-s7Yq47ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "41K views"
+          },
+          {
+            "title": "아이라인 제거? 정말로 안 아픕니다 (feat. 쌍꺼풀 수술, 속눈썹)",
+            "channel": "뷰티렐라tv",
+            "url": "https://www.youtube.com/watch?v=v-eRj531HLQ&pp=ygUt7Lu07Y-s7Yq47ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "16K views"
+          },
+          {
+            "title": "\"문신 제거, 빠르게 지울 수 있나요?\"｜네! 의사가 문신제거수술 직접 설명합니다 #문신제거 #타투제거",
+            "channel": "오체안 TV",
+            "url": "https://www.youtube.com/watch?v=LIh8C_dRMCM&pp=ygUt7Lu07Y-s7Yq47ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.7K views"
+          },
+          {
+            "title": "프로파운드 서브큐팁, 진짜 병원에서 사용하지 않을까?",
+            "channel": "the yujin",
+            "url": "https://www.youtube.com/watch?v=heIe6k04vT0&pp=ygUt7Lu07Y-s7Yq47ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "390 views"
+          },
+          {
+            "title": "흡입 수술없이 시술로 얼굴지방 뺄 수 있을까?(시술 공개)",
+            "channel": "the yujin",
+            "url": "https://www.youtube.com/watch?v=Woo4AO-33tA&pp=ygUt7Lu07Y-s7Yq47ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "964 views"
+          },
+          {
+            "title": "가슴확대 수술 후 스포츠 브라는 얼마나 착용해야 할까?",
+            "channel": "조목조목TV",
+            "url": "https://www.youtube.com/watch?v=-XW14K-qvLk&pp=ygUt7Lu07Y-s7Yq47ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "8.6K views"
+          },
+          {
+            "title": "아이라인 문신제거? 시술 전 꼭 알아야 할 것 (+ 절대 하지 말아야 할 것)",
+            "channel": "뷰티렐라tv",
+            "url": "https://www.youtube.com/watch?v=JJkZfzrnx84&pp=ygUt7Lu07Y-s7Yq47ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "10K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 6,
+  "opportunity_cost_thb": 94000,
+  "opportunity_cost_krw": 3760000
+}

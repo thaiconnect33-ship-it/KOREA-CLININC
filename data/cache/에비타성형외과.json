@@ -1,0 +1,146 @@
+{
+  "query": "에비타성형외과",
+  "generated_at": "2026-05-29T05:46:29.017Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 57,
+      "extra": {
+        "name": "Results",
+        "rating": 4.9,
+        "total_reviews": 57,
+        "sample_size": 9,
+        "foreign_language_reviews": 9,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 9
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 5600202,
+        "foreign_video_count": 19,
+        "lang_breakdown": {
+          "korean": 1,
+          "thai": 0,
+          "chinese": 1,
+          "japanese": 0,
+          "english_other": 18
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "How is Liposuction surgery done?",
+            "channel": "Evita Clinic",
+            "url": "https://www.youtube.com/watch?v=UDDr3mVu-kU&pp=ygUbRXZpdGEgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "Dr. Jeon Cheol Woo's Interview at Evita Clinic Short Explain about Evita Clinic's Liposuction Method."
+          },
+          {
+            "title": "What's the BEST Clinic for Gynecomastia in Seoul South Korea?",
+            "channel": "PlacidWay Medical Tourism",
+            "url": "https://www.youtube.com/watch?v=gisLgIhZBro&pp=ygUbRXZpdGEgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "89"
+          },
+          {
+            "title": "Top Surgery in Korea for International Patients | Safe, Professional Chest Surgery",
+            "channel": "Evita Clinic",
+            "url": "https://www.youtube.com/watch?v=3-E_uUg51n0&pp=ygUbRXZpdGEgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "1.9K"
+          },
+          {
+            "title": "Breast Reduction in Korea for International Patients | Skilled, Trusted Care by Dr. Francis Jeon.",
+            "channel": "Evita Clinic",
+            "url": "https://www.youtube.com/watch?v=B25TTk2spwM&pp=ygUbRXZpdGEgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "2K"
+          },
+          {
+            "title": "What should patients do after surgery?",
+            "channel": "Evita Clinic",
+            "url": "https://www.youtube.com/watch?v=bJOMvDSGMjg&pp=ygUbRXZpdGEgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "Interview with Evita's manager Myrene Senora. She explains what should patients do after liposuction."
+          },
+          {
+            "title": "What Is Liposuction?",
+            "channel": "Evita Clinic",
+            "url": "https://www.youtube.com/watch?v=oU1l7U9w1sY&pp=ygUbRXZpdGEgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "Dr. Jeon's Interview in Evita Clinic Liposuction is the suctioning of unwanted fats in any parts of your body. Each person has ..."
+          },
+          {
+            "title": "Evita Clinic: What To Expect After Gynecomastia Surgery",
+            "channel": "Evita Clinic",
+            "url": "https://www.youtube.com/watch?v=SaUK6mxn-wg&pp=ygUbRXZpdGEgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "914"
+          },
+          {
+            "title": "Fatal cosmetic surgery: the deadly downside of cheap overseas procedures  | 7NEWS Spotlight",
+            "channel": "7 News Spotlight",
+            "url": "https://www.youtube.com/watch?v=Q_iJMFVqSOM&pp=ygUbRXZpdGEgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "5M"
+          },
+          {
+            "title": "Dr. Jeon's Interview About Gynecomastia (Male Breast Reduction)",
+            "channel": "Evita Clinic",
+            "url": "https://www.youtube.com/watch?v=oi0Ud3hE7ps&pp=ygUbRXZpdGEgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "1.8K"
+          },
+          {
+            "title": "What should patients expect during recovery period?",
+            "channel": "Evita Clinic",
+            "url": "https://www.youtube.com/watch?v=E6PpsqgB1EY&pp=ygUbRXZpdGEgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "Interview with Evita Clinic's Dr. Jeon. He explains what should patients expect during recovery period. Evita Clinic is a renowned ..."
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 20,
+  "opportunity_cost_thb": 86000,
+  "opportunity_cost_krw": 3440000
+}

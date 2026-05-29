@@ -1,0 +1,147 @@
+{
+  "query": "모프로의원",
+  "generated_at": "2026-05-28T22:39:52.685Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 1637,
+      "extra": {
+        "place_id": "1821744096",
+        "name": "모프로의원 : 네이버\u001c",
+        "visitor_review_count": 660,
+        "blog_review_count": 977,
+        "detail_url": "https://m.place.naver.com/place/1821744096/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 193,
+      "extra": {
+        "name": "Results",
+        "rating": 5,
+        "total_reviews": 193,
+        "sample_size": 8,
+        "foreign_language_reviews": 8,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 8
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 15,
+      "extra": {
+        "total_views": 2265454,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 15,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 15,
+        "top_videos": [
+          {
+            "title": "[발상의 전환] 모발이식 병원 선택, 너무 어려워요 ㅠㅠ 최악의 모발이식 병원 피하는 7가지 방법 !!",
+            "channel": "당신의 탈모주치의 모나라",
+            "url": "https://www.youtube.com/watch?v=DO4ZRjaXSJA&pp=ygUe66qo7ZSE66Gc7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "354 views"
+          },
+          {
+            "title": "탈모로 고민이신분들 진짜 이거 보셔야합니다!!🤷‍♂️(feat. 전주모래내피부과 강광영 원장)",
+            "channel": "전주MBC Original",
+            "url": "https://www.youtube.com/watch?v=4YXqZtyh3-w&pp=ygUe66qo7ZSE66Gc7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1.4K views"
+          },
+          {
+            "title": "모발 이식 4년 후.. 후기, 부작용, 가격 싹 다 알려드립니다.",
+            "channel": "비트 BTE",
+            "url": "https://www.youtube.com/watch?v=6ONxOVGuC3o&pp=ygUe66qo7ZSE66Gc7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "231K views"
+          },
+          {
+            "title": "모발이식 후 11개월... 이건 꼭 알아야 합니다 (100% 솔직 후기)",
+            "channel": "용닥터",
+            "url": "https://www.youtube.com/watch?v=meGxqXFvikw&pp=ygUe66qo7ZSE66Gc7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "860K views"
+          },
+          {
+            "title": "[전참시] '탈모인들의 희망 한상보' 의사의 병원 대공개 MBC240831방송",
+            "channel": "픽잇 :Pick it",
+            "url": "https://www.youtube.com/watch?v=g1JtONR12DA&pp=ygUe66qo7ZSE66Gc7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "197K views"
+          },
+          {
+            "title": "[단독] '탈모인의 성지' 의원, '대리 처방'에 '탈모약 택배'까지 (2022.05.16/뉴스데스크/MBC)",
+            "channel": "MBCNEWS",
+            "url": "https://www.youtube.com/watch?v=kf1dgODU8bg&pp=ygUe66qo7ZSE66Gc7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "30K views"
+          },
+          {
+            "title": "모발이식 수술 결과가 잘 나올 사람과 아닌 사람│모벤져스",
+            "channel": "모벤져스",
+            "url": "https://www.youtube.com/watch?v=CyKccCAYwhw&pp=ygUe66qo7ZSE66Gc7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "47K views"
+          },
+          {
+            "title": "모발이식 후 절대 하지 말아야 할 것 3가지❗ (생착기간 주의사항)  l 김경복원장 l 모먼트의원(MOMENT)  l 히든컷",
+            "channel": "모먼트의원",
+            "url": "https://www.youtube.com/watch?v=bpzRO_adrOQ&pp=ygUe66qo7ZSE66Gc7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "45K views"
+          },
+          {
+            "title": "정수리 모발이식 하고 병원과 싸우는 이유",
+            "channel": "탈모N모에버 강세훈",
+            "url": "https://www.youtube.com/watch?v=VEhHI7E5X1s&pp=ygUe66qo7ZSE66Gc7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "77K views"
+          },
+          {
+            "title": "내게 찾아온..모발이식 부작용 4가지",
+            "channel": "탈모언니 TalmoSister",
+            "url": "https://www.youtube.com/watch?v=Dg6esPc_k4s&pp=ygUe66qo7ZSE66Gc7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "574K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 4,
+  "opportunity_cost_thb": 96000,
+  "opportunity_cost_krw": 3840000
+}

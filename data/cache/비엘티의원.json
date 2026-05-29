@@ -1,0 +1,147 @@
+{
+  "query": "비엘티의원",
+  "generated_at": "2026-05-28T23:40:58.776Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 1589,
+      "extra": {
+        "place_id": "11482708",
+        "name": "비엘티의원 : 네이버\u001c",
+        "visitor_review_count": 1158,
+        "blog_review_count": 431,
+        "detail_url": "https://m.place.naver.com/place/11482708/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "비엘티의원",
+        "rating": 4.9,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 2229542,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "\"Dermatologists don't tell you...\" We recommend popular youth-enhancing procedures these days. We...",
+            "channel": "박지윤의 피부 설명서",
+            "url": "https://www.youtube.com/watch?v=EFB-McCJG48&pp=ygUe67mE7JeY7Yuw7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "444K views"
+          },
+          {
+            "title": "(광고❌) 이거 모르고 피부과 가면 돈만 날려요😭  피부과의사 120명이 뽑은 후회 없는 시술 1위는? - 정한미 권수현 피부과전문의",
+            "channel": "피부텐텐 · 피부가 예뻐지는 10분",
+            "url": "https://www.youtube.com/watch?v=Cw3hRPXx5JE&pp=ygUe67mE7JeY7Yuw7J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "49K views"
+          },
+          {
+            "title": "큐어젯 vs 미라젯, 의사들이 이렇게까지 싸우는 이유",
+            "channel": "피부과전문의_샘닥",
+            "url": "https://www.youtube.com/watch?v=XFkp-SOHT7c&pp=ygUe67mE7JeY7Yuw7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "392 views"
+          },
+          {
+            "title": "The actual side effects revealed by a hospital employee who prescribed diet pills!!! I really wan...",
+            "channel": "소의튜브soytube",
+            "url": "https://www.youtube.com/watch?v=Q8F4Vpz49O4&pp=ygUe67mE7JeY7Yuw7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "320K views"
+          },
+          {
+            "title": "통증치료에도 탁월한 레이저 치료! / 목어깨통증 / 무릎통증 / 테니스엘보 /",
+            "channel": "Begin Again 강남세란의원 (Seran Clinic)",
+            "url": "https://www.youtube.com/watch?v=w4RKwy65ctE&pp=ygUe67mE7JeY7Yuw7J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "5.7K views"
+          },
+          {
+            "title": "Dermatology Treatments: Types, Price Differences, and Secrets | Top 3 Most Painful Procedures | D...",
+            "channel": "더놀자시니어TV",
+            "url": "https://www.youtube.com/watch?v=gOWddbEbNfs&pp=ygUe67mE7JeY7Yuw7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "28 views"
+          },
+          {
+            "title": "BL Plastic Surgery Clinic Review ♥ Crystal Injection for a Glowing Skin! A Skin Regeneration and ...",
+            "channel": "권초록",
+            "url": "https://www.youtube.com/watch?v=Zi1GvvQ7JHI&pp=ygUe67mE7JeY7Yuw7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "4.3K views"
+          },
+          {
+            "title": "Dermatology clinics that don't treat skin diseases... What is the reason? / Channel A / News A",
+            "channel": "채널A News",
+            "url": "https://www.youtube.com/watch?v=XCDC5lw3qVY&pp=ygUe67mE7JeY7Yuw7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "201K views"
+          },
+          {
+            "title": "Why Are Dermatologists Obsessed With Celldm ECM Boosters? The Secret to Slow Aging Revealed",
+            "channel": "뷰티플라이",
+            "url": "https://www.youtube.com/watch?v=LLgHF9-KSDE&pp=ygUe67mE7JeY7Yuw7J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "1.2K views"
+          },
+          {
+            "title": "남자 피부과 시술, 이 4개면 끝입니다  │ 괜히 다른 거 하지 마세요 ❌ (TOP 4 남자 시술 티어리스트)",
+            "channel": "닥터이레이저",
+            "url": "https://www.youtube.com/watch?v=EO41YOfSYtQ&pp=ygUe67mE7JeY7Yuw7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "456 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

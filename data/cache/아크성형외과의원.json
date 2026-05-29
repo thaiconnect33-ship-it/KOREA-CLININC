@@ -1,0 +1,145 @@
+{
+  "query": "아크성형외과의원",
+  "generated_at": "2026-05-29T00:06:07.447Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Results",
+        "rating": 4.9,
+        "total_reviews": 0,
+        "sample_size": 9,
+        "foreign_language_reviews": 9,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 9
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 596664,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "눈성형,코성형 수술기구 전격 공개! (성형외과 수술실에서 무슨일이 일어날까 3편)",
+            "channel": "닥터혜자",
+            "url": "https://www.youtube.com/watch?v=FIIqCKR4nKk&pp=ygUw7JWE7YGs7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "9.2K views"
+          },
+          {
+            "title": "마녀턱에 대한 모든 것! 마녀턱 수술 Q&A",
+            "channel": "아크성형외과 - Arc is Art",
+            "url": "https://www.youtube.com/watch?v=e36b5rLdhLI&pp=ygUw7JWE7YGs7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.7K views"
+          },
+          {
+            "title": "처음이자 마지막 쌍수가 되기위한 방법 알려드립니다!",
+            "channel": "닥터혜자",
+            "url": "https://www.youtube.com/watch?v=x4zJzDlgD6k&pp=ygUw7JWE7YGs7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "131K views"
+          },
+          {
+            "title": "도망쳐..지금이야!! 성형외과 블랙리스트 이렇게 거르세요",
+            "channel": "지유미 JIYUMEE",
+            "url": "https://www.youtube.com/watch?v=VK1hIW0QP-g&pp=ygUw7JWE7YGs7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "126K views"
+          },
+          {
+            "title": "주름 제거했는데 흉터는 어딨어?  (feat. 미니리프팅, 안면거상)",
+            "channel": "통찰의학 돈건통",
+            "url": "https://www.youtube.com/watch?v=aCe6wkwiZ8I&pp=ygUw7JWE7YGs7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.9K views"
+          },
+          {
+            "title": "눈밑지방재배치 그것이 알고싶다!",
+            "channel": "윌리엄컴퍼니",
+            "url": "https://www.youtube.com/watch?v=8LWGQN7bw5k&pp=ygUw7JWE7YGs7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "162 views"
+          },
+          {
+            "title": "닥터혜자 피셜 📢 중년 눈밑성형 수술 고객의 공통점!",
+            "channel": "닥터혜자",
+            "url": "https://www.youtube.com/watch?v=cIE726TNl5I&t=41s&pp=ygUw7JWE7YGs7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "5.6K views"
+          },
+          {
+            "title": "성형외과 상담갈때 알고가면 좋은것! 그리고 피해야 할 병원까지~",
+            "channel": "닥터혜자",
+            "url": "https://www.youtube.com/watch?v=sOtAVS95goQ&pp=ygUw7JWE7YGs7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "134K views"
+          },
+          {
+            "title": "국경넘는 성형 탈세",
+            "channel": "KBS News",
+            "url": "https://www.youtube.com/watch?v=tBYOk0fZshE&pp=ygUw7JWE7YGs7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "956 views"
+          },
+          {
+            "title": "재수술이 많은 코 성형? 재수술 없이 한번에 만족하는 방법 - 진짜 성형 이야기#04 코성형",
+            "channel": "굿라이프",
+            "url": "https://www.youtube.com/watch?v=5rKC9Y9Slz0&pp=ygUw7JWE7YGs7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "23K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 5,
+  "opportunity_cost_thb": 95500,
+  "opportunity_cost_krw": 3820000
+}

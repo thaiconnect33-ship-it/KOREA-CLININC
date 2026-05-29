@@ -1,0 +1,146 @@
+{
+  "query": "Ruby Cell Dermatology",
+  "generated_at": "2026-05-29T05:51:52.410Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Results",
+        "rating": 4.8,
+        "total_reviews": 0,
+        "sample_size": 6,
+        "foreign_language_reviews": 6,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 6
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 25507,
+        "foreign_video_count": 19,
+        "lang_breakdown": {
+          "korean": 1,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 19
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "Ruby-Cell Dermatology",
+            "channel": "APHROZONE THAILAND",
+            "url": "https://www.youtube.com/watch?v=KqqpVisVZvg&pp=ygUbUnVieSBDZWxsIERlcm1hdG9sb2d5IEtvcmVh",
+            "view_text": "71 views"
+          },
+          {
+            "title": "Ruby-Cell Testimony 2",
+            "channel": "TLS Social Media Marketing",
+            "url": "https://www.youtube.com/watch?v=KSF4Z0dlSRM&pp=ygUbUnVieSBDZWxsIERlcm1hdG9sb2d5IEtvcmVh",
+            "view_text": "65 views"
+          },
+          {
+            "title": "Ruby-Cell Intensive 4U Ampoule [JPN]",
+            "channel": "루비셀 공식TV",
+            "url": "https://www.youtube.com/watch?v=e49cVoEWRz4&pp=ygUbUnVieSBDZWxsIERlcm1hdG9sb2d5IEtvcmVh",
+            "view_text": "2.7K views"
+          },
+          {
+            "title": "Ruby-Cell Sydney by Annie's Beauty House",
+            "channel": "Ruby-Cell Sydney",
+            "url": "https://www.youtube.com/watch?v=3ybw5XUaT_g&pp=ygUbUnVieSBDZWxsIERlcm1hdG9sb2d5IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "1K views"
+          },
+          {
+            "title": "Beautfix & Ruby Cell",
+            "channel": "Beautfix TV",
+            "url": "https://www.youtube.com/watch?v=hu0cJgCEVxI&pp=ygUbUnVieSBDZWxsIERlcm1hdG9sb2d5IEtvcmVh",
+            "view_text": "1.4K views"
+          },
+          {
+            "title": "YUMI'S CELLS: RUBY LOOP [ Lee Yu-Bi ]",
+            "channel": "H - Drama",
+            "url": "https://www.youtube.com/watch?v=IT96s2QEzv8&pp=ygUbUnVieSBDZWxsIERlcm1hdG9sb2d5IEtvcmVh",
+            "view_text": "14K views"
+          },
+          {
+            "title": "Introduction of AAPE",
+            "channel": "Ruby Cell Global",
+            "url": "https://www.youtube.com/watch?v=bJlUpKs3Hzw&pp=ygUbUnVieSBDZWxsIERlcm1hdG9sb2d5IEtvcmVh",
+            "view_text": "2.1K views"
+          },
+          {
+            "title": "Ruby Cell Finish",
+            "channel": "APHROZONE THAILAND",
+            "url": "https://www.youtube.com/watch?v=N5VT9Tw7hdM&pp=ygUbUnVieSBDZWxsIERlcm1hdG9sb2d5IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "213 views"
+          },
+          {
+            "title": "Grand Opening: Ruby-Cell Malaysia - Korean Skincare Now in Malaysia | Revolutionary Plant Stem Cell",
+            "channel": "Ruby-Cell Space",
+            "url": "https://www.youtube.com/watch?v=9i09NVtxwWs&pp=ygUbUnVieSBDZWxsIERlcm1hdG9sb2d5IEtvcmVh",
+            "view_text": "385 views"
+          },
+          {
+            "title": "Ruby-Cell Testimony 1",
+            "channel": "TLS Social Media Marketing",
+            "url": "https://www.youtube.com/watch?v=tDlMo-xJVmM&pp=ygUbUnVieSBDZWxsIERlcm1hdG9sb2d5IEtvcmVh",
+            "view_text": "437 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 18,
+  "opportunity_cost_thb": 87500,
+  "opportunity_cost_krw": 3500000
+}

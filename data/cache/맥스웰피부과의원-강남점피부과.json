@@ -1,0 +1,145 @@
+{
+  "query": "맥스웰피부과의원 강남점피부과",
+  "generated_at": "2026-05-28T23:58:10.362Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Maxwell Hair Transplant Clinic",
+        "rating": 4,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 14727,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "\"탈모 해결 솔루션 맥스웰 피부과의 홍보 뮤직비디오\"",
+            "channel": "브이티엠 애드랩",
+            "url": "https://www.youtube.com/watch?v=njBPx4y50u4&pp=ygUx66el7Iqk7Juw7ZS867aA6rO87J2Y7JuQIOqwleuCqOygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "36"
+          },
+          {
+            "title": "맥스웰피부과 박성호원장!! 모발이식 받아 본 찐 후기! 수술후기가 궁금하다면?ㅣ부산맥스웰피부과ㅣ모발이식ㅣ탈모치료",
+            "channel": "부산맥스웰TV",
+            "url": "https://www.youtube.com/watch?v=4ENQWKZStC0&pp=ygUx66el7Iqk7Juw7ZS867aA6rO87J2Y7JuQIOqwleuCqOygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "788"
+          },
+          {
+            "title": "모발을 뽑으면 다시는 안자란다?ㅣ부산맥스웰피부과",
+            "channel": "부산맥스웰TV",
+            "url": "https://www.youtube.com/watch?v=7oKzSNGIGCw&pp=ygUx66el7Iqk7Juw7ZS867aA6rO87J2Y7JuQIOqwleuCqOygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "496"
+          },
+          {
+            "title": "[건강365] 진행 느린 '여성 탈모' , 관리만 해도 충분? l 맥스웰피부과 l 051) 806-5824",
+            "channel": "캐내네 메디컬",
+            "url": "https://www.youtube.com/watch?v=aTGEykQeHT8&pp=ygUx66el7Iqk7Juw7ZS867aA6rO87J2Y7JuQIOqwleuCqOygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "506"
+          },
+          {
+            "title": "맥스웰 피부과  탈모를 인지할 수 있는 자가 진단법",
+            "channel": "삼탈모tv",
+            "url": "https://www.youtube.com/watch?v=yLNZkDnOLuw&pp=ygUx66el7Iqk7Juw7ZS867aA6rO87J2Y7JuQIOqwleuCqOygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "458"
+          },
+          {
+            "title": "2013.04.01 Hanbit",
+            "channel": "탈모치료, 모발이식은 역시 맥스웰피부과",
+            "url": "https://www.youtube.com/watch?v=d4r3FVY6HKU&pp=ygUx66el7Iqk7Juw7ZS867aA6rO87J2Y7JuQIOqwleuCqOygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "75"
+          },
+          {
+            "title": "[건강365] 스르르 빠지는 머리칼...여성 탈모 치료는? l 맥스웰피부과 l 051)806-5824",
+            "channel": "캐내네 메디컬",
+            "url": "https://www.youtube.com/watch?v=7VlvHpLeeVw&pp=ygUx66el7Iqk7Juw7ZS867aA6rO87J2Y7JuQIOqwleuCqOygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "743"
+          },
+          {
+            "title": "맥스웰피부과는 자연스럽고 아름다운 헤어라인을 제안합니다.",
+            "channel": "busanmaxwell",
+            "url": "https://www.youtube.com/watch?v=NRy3e8nHmh0&pp=ygUx66el7Iqk7Juw7ZS867aA6rO87J2Y7JuQIOqwleuCqOygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "97"
+          },
+          {
+            "title": "10년 노하우 탈모치료 모발이식 맥스웰피부과",
+            "channel": "삼탈모tv",
+            "url": "https://www.youtube.com/watch?v=ezUbQU2MnWw&pp=ygUx66el7Iqk7Juw7ZS867aA6rO87J2Y7JuQIOqwleuCqOygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "1.4K"
+          },
+          {
+            "title": "여성헤어라인! (부산 맥스웰 피부과/ 김택훈 원장/ 051-806-5824)",
+            "channel": "캐내네 메디컬",
+            "url": "https://www.youtube.com/watch?v=3yGmtQuWf10&pp=ygUx66el7Iqk7Juw7ZS867aA6rO87J2Y7JuQIOqwleuCqOygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "457"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 150000,
+  "opportunity_cost_krw": 6000000
+}

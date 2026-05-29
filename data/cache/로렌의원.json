@@ -1,0 +1,145 @@
+{
+  "query": "로렌의원",
+  "generated_at": "2026-05-28T22:28:52.859Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 34,
+      "extra": {
+        "name": "로렌클리닉 LAUREN Clinic",
+        "rating": 5,
+        "total_reviews": 34,
+        "sample_size": 29,
+        "foreign_language_reviews": 29,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 29
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 14,
+      "extra": {
+        "total_views": 230472,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 14,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 14,
+        "top_videos": [
+          {
+            "title": "[홍진주의 성형 Q&A] #5. 성형, 선택의 딜레마 '매몰 vs 절개' (제이제이성형외과 홍진주 원장)",
+            "channel": "의학채널 비온뒤",
+            "url": "https://www.youtube.com/watch?v=weJT94cyHbI&pp=ygUk66Gc66CM7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "5.8K views"
+          },
+          {
+            "title": "안면거상수술하면 목주름도 없어진다? - 【feat. 성형외과전문의】",
+            "channel": "시너지성형외과",
+            "url": "https://www.youtube.com/watch?v=AcdmoYXAc4Q&pp=ygUk66Gc66CM7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "41K views"
+          },
+          {
+            "title": "눈성형,코성형 수술기구 전격 공개! (성형외과 수술실에서 무슨일이 일어날까 3편)",
+            "channel": "닥터혜자",
+            "url": "https://www.youtube.com/watch?v=FIIqCKR4nKk&pp=ygUk66Gc66CM7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "9.2K views"
+          },
+          {
+            "title": "재수술이 많은 코 성형? 재수술 없이 한번에 만족하는 방법 - 진짜 성형 이야기#04 코성형",
+            "channel": "굿라이프",
+            "url": "https://www.youtube.com/watch?v=5rKC9Y9Slz0&pp=ygUk66Gc66CM7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "23K views"
+          },
+          {
+            "title": "[복부거상] 수술 전후 궁금하죠?🤩[레아트성형외과]",
+            "channel": "레아트성형외과",
+            "url": "https://www.youtube.com/watch?v=ae0GIe0hWbY&pp=ygUk66Gc66CM7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "2.1K views"
+          },
+          {
+            "title": "[SODA] 소다성형외과 | 안면윤곽 수술시 예뻐지는/제한적인 유형",
+            "channel": "소다성형외과",
+            "url": "https://www.youtube.com/watch?v=TQ-dM_keBr0&pp=ygUk66Gc66CM7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "53K views"
+          },
+          {
+            "title": "ㅂㄹㅂㅌ인터뷰] 논현동 신의 손, 信손 노상훈 원장님",
+            "channel": "coding_stuff",
+            "url": "https://www.youtube.com/watch?v=DrajZjakTsc&pp=ygUk66Gc66CM7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "9.6K views"
+          },
+          {
+            "title": "큰 이미지 변화 없이 답답하고 졸린 눈매 개선💛 | 자연유착&눈매교정",
+            "channel": "AMOND TV - 아몬드성형외과",
+            "url": "https://www.youtube.com/watch?v=Mh407T_Yijs&pp=ygUk66Gc66CM7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "13K views"
+          },
+          {
+            "title": "쌍커풀 수술 '자연유착' 이 궁금하다 ! (feat.친절상담)",
+            "channel": "드레스성형외과의원",
+            "url": "https://www.youtube.com/watch?v=I1Hqwbo1N8o&pp=ygUk66Gc66CM7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "13K views"
+          },
+          {
+            "title": "성형외과 전문의가 직접 알려드립니다! 시너지성형외과 눈썹거상Q&A :: 수술전후CASE 【Feat. 정경인대표원장님】",
+            "channel": "시너지성형외과",
+            "url": "https://www.youtube.com/watch?v=RfgeZl88_GA&pp=ygUk66Gc66CM7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "48K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 14,
+  "opportunity_cost_thb": 85500,
+  "opportunity_cost_krw": 3420000
+}

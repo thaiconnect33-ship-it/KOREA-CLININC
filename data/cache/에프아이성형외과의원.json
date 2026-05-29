@@ -1,0 +1,147 @@
+{
+  "query": "에프아이성형외과의원",
+  "generated_at": "2026-05-28T22:29:09.289Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 843,
+      "extra": {
+        "place_id": "1229507735",
+        "name": "에프아이성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 389,
+        "blog_review_count": 454,
+        "detail_url": "https://m.place.naver.com/place/1229507735/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "에프아이성형외과의원",
+        "rating": 5,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 8398,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "눈밑 수술, 언제 해야 늦지 않나요? #눈밑지",
+            "channel": "에프아이성형외과 FI Plastic Surgery Clinic",
+            "url": "https://www.youtube.com/watch?v=cygfsHfivok&pp=ygUw7JeQ7ZSE7JWE7J207ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "216"
+          },
+          {
+            "title": "입가처짐 고민? 팔자주름 , 마리오넷주름 없애는 법!│FI PLASTIC SURGERY CLINIC 에프아이 성형외과",
+            "channel": "에프아이성형외과 FI Plastic Surgery Clinic",
+            "url": "https://www.youtube.com/watch?v=PeML60FGbkg&pp=ygUw7JeQ7ZSE7JWE7J207ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "583"
+          },
+          {
+            "title": "눈밑지, 1주면 끝? 실제 회복기간 공개 │FI PLASTIC SURGERY CLINIC",
+            "channel": "에프아이성형외과 FI Plastic Surgery Clinic",
+            "url": "https://www.youtube.com/watch?v=QIXJhMaIlpg&pp=ygUw7JeQ7ZSE7JWE7J207ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "206"
+          },
+          {
+            "title": "이거 없는 하안검 수술은 하지 마세요! 만족스러운 하안검 수술을 위한 방법!│FI PLASTIC SURGERY CLINIC",
+            "channel": "에프아이성형외과 FI Plastic Surgery Clinic",
+            "url": "https://www.youtube.com/watch?v=b6CjJsxdgqk&pp=ygUw7JeQ7ZSE7JWE7J207ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "888"
+          },
+          {
+            "title": "레이저 눈밑지방제거?!  안보고 수술하면 후회합니다! │FI PLASTIC SURGERY CLINIC",
+            "channel": "에프아이성형외과 FI Plastic Surgery Clinic",
+            "url": "https://www.youtube.com/watch?v=gVhpQlA6ITg&pp=ygUw7JeQ7ZSE7JWE7J207ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.2K"
+          },
+          {
+            "title": "눈밑지방재배치 얼마나 알고 수술받으시나요?! 눈밑지방재배치 Q&A│FI PLASTIC SURGERY CLINIC 에프아이 성형외과",
+            "channel": "에프아이성형외과 FI Plastic Surgery Clinic",
+            "url": "https://www.youtube.com/watch?v=YT3gWggqKCQ&pp=ygUw7JeQ7ZSE7JWE7J207ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "389"
+          },
+          {
+            "title": "처진 눈에서 또렷한 눈으로, 한달만의 변화 #리얼모델",
+            "channel": "에프아이성형외과 FI Plastic Surgery Clinic",
+            "url": "https://www.youtube.com/watch?v=zUrSVkUpcUA&pp=ygUw7JeQ7ZSE7JWE7J207ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "103"
+          },
+          {
+            "title": "성형 상담, 이렇게 해야 실패 확률 내려갑니다 #성형외과상담",
+            "channel": "에프아이성형외과 FI Plastic Surgery Clinic",
+            "url": "https://www.youtube.com/watch?v=F0PSpWUwuJY&pp=ygUw7JeQ7ZSE7JWE7J207ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "119"
+          },
+          {
+            "title": "요즘 하안검 수술법? 최근에 수술하셨다면 보세요!│FI PLASTIC SURGERY CLINIC 에프아이 성형외과",
+            "channel": "에프아이성형외과 FI Plastic Surgery Clinic",
+            "url": "https://www.youtube.com/watch?v=LhFm3lmUThU&pp=ygUw7JeQ7ZSE7JWE7J207ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "510"
+          },
+          {
+            "title": "코성형이 부담스럽다면, 코끝이라도?!│FI PLASTIC SURGERY CLINIC 에프아이 성형외과",
+            "channel": "에프아이성형외과 FI Plastic Surgery Clinic",
+            "url": "https://www.youtube.com/watch?v=b4Ki67iy4Gs&pp=ygUw7JeQ7ZSE7JWE7J207ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "296"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

@@ -1,0 +1,147 @@
+{
+  "query": "페이스라인성형외과의원",
+  "generated_at": "2026-05-28T22:30:59.377Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 629,
+      "extra": {
+        "place_id": "1071973801",
+        "name": "페이스라인성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 204,
+        "blog_review_count": 425,
+        "detail_url": "https://m.place.naver.com/place/1071973801/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 55,
+      "extra": {
+        "name": "Face Line Plastic Surgery",
+        "rating": 4.6,
+        "total_reviews": 55,
+        "sample_size": 16,
+        "foreign_language_reviews": 16,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 16
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 1591719,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "수술한 티가 많이 나도 예뻐지고 싶어요! 페이스라인성형외과 이진수 원장의 답변은?",
+            "channel": "페이스라인성형외과",
+            "url": "https://www.youtube.com/watch?v=kL6jydGAUac&pp=ygUz7Y6Y7J207Iqk65287J247ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "230K views"
+          },
+          {
+            "title": "페이스라인 성형외과 극장광고",
+            "channel": "페이스라인성형외과",
+            "url": "https://www.youtube.com/watch?v=h5_iDvCVDJM&pp=ygUz7Y6Y7J207Iqk65287J247ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "38K views"
+          },
+          {
+            "title": "안면윤곽수술 상담! 수술 방법부터 질문 해결까지!┃#페이스라인성형외과 #안면윤곽수술 #안면윤곽상담 #윤곽4종",
+            "channel": "페이스라인성형외과",
+            "url": "https://www.youtube.com/watch?v=QALoDsJOjUA&pp=ygUz7Y6Y7J207Iqk65287J247ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "3K views"
+          },
+          {
+            "title": "[페이스라인] 윤곽수술 방법 - 광대수술과 턱수술은 다르다?!",
+            "channel": "Faceline Doctors Interview",
+            "url": "https://www.youtube.com/watch?v=2L4crYjbHsw&pp=ygUz7Y6Y7J207Iqk65287J247ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "537 views"
+          },
+          {
+            "title": "이진수 원장님 JSRO 인터뷰 1편- 페이스라인 성형외과",
+            "channel": "페이스라인성형외과",
+            "url": "https://www.youtube.com/watch?v=PiB7Csti5tk&pp=ygUz7Y6Y7J207Iqk65287J247ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "633 views"
+          },
+          {
+            "title": "[잘못 알고 있는 성형 상식] EP3 _ \"각을 많이 잘라주세요┃Faceline Plastic Surgery 페이스라인 성형외과",
+            "channel": "페이스라인성형외과",
+            "url": "https://www.youtube.com/watch?v=QGzbsrv5qaQ&pp=ygUz7Y6Y7J207Iqk65287J247ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "408 views"
+          },
+          {
+            "title": "[페이스라인] 40~50대 동안성형방법은?",
+            "channel": "페이스라인성형외과",
+            "url": "https://www.youtube.com/watch?v=aakfgEULCRc&pp=ygUz7Y6Y7J207Iqk65287J247ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "5K views"
+          },
+          {
+            "title": "양악수술은 몇살부터 가능할까요? [양악수술의 오해와 진실. 페이스라인성형외과·치과 이진수원장 이신정원장]",
+            "channel": "페이스라인성형외과",
+            "url": "https://www.youtube.com/watch?v=n25dVxTNS0A&pp=ygUz7Y6Y7J207Iqk65287J247ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "299 views"
+          },
+          {
+            "title": "[미스트로트 지원이의 리얼상담] 홈케어로만으로 부족하다면?! 스마일리프팅으로 고민해결!",
+            "channel": "페이스라인성형외과",
+            "url": "https://www.youtube.com/watch?v=E4aKArq5hJk&pp=ygUz7Y6Y7J207Iqk65287J247ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.2K views"
+          },
+          {
+            "title": "이연정님의 안티에이징 동안성형 수술 후 100일간의 변화 [아름다운당신 X 페이스라인성형외과]",
+            "channel": "페이스라인성형외과",
+            "url": "https://www.youtube.com/watch?v=pLwq1wKbRhA&pp=ygUz7Y6Y7J207Iqk65287J247ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "1.4K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 8,
+  "opportunity_cost_thb": 92000,
+  "opportunity_cost_krw": 3680000
+}

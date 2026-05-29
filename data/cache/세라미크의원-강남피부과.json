@@ -1,0 +1,112 @@
+{
+  "query": "세라미크의원 강남피부과",
+  "generated_at": "2026-05-29T05:33:19.323Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 17486,
+      "extra": {
+        "place_id": "2062825643",
+        "name": "세라미크의원 강남 : 네이버\u001c",
+        "visitor_review_count": 7968,
+        "blog_review_count": 9518,
+        "detail_url": "https://m.place.naver.com/place/2062825643/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Ceramique clinic gangnam(세라미크의원 강남)",
+        "rating": 4.9,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 4,
+      "extra": {
+        "total_views": 289344,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 4,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 4,
+        "top_videos": [
+          {
+            "title": "[바크로] 네오스트라타 7년만의 내한, 세라미크 의원 방문",
+            "channel": "BAQUERO[바크로]",
+            "url": "https://www.youtube.com/watch?v=cV3j6pESADc&pp=ygUo7IS4652866-47YGs7J2Y7JuQIOqwleuCqO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "92 views"
+          },
+          {
+            "title": "효과 없는 시술, 이유는 따로 있습니다 | 신뢰로 진료하는 신사역 피부과 세레아의원",
+            "channel": "신사역피부과 세레아의원",
+            "url": "https://www.youtube.com/watch?v=8xpQuDDw-7c&pp=ygUo7IS4652866-47YGs7J2Y7JuQIOqwleuCqO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "153 views"
+          },
+          {
+            "title": "상담존부터 시술실까지… 규모부터 다른 신사역피부과 세레아의원✨",
+            "channel": "신사역피부과 세레아의원",
+            "url": "https://www.youtube.com/watch?v=aBMIRNsssgg&pp=ygUo7IS4652866-47YGs7J2Y7JuQIOqwleuCqO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "99 views"
+          },
+          {
+            "title": "[티톡스] 10년 달고 살았던 수염자국이 싹- 없어졌다🔥레이저 제모 찐후기 (병원, 가격, 기계, 시술후 관리 등등)",
+            "channel": "티벳동생",
+            "url": "https://www.youtube.com/watch?v=xsQS3Hufiqg&pp=ygUo7IS4652866-47YGs7J2Y7JuQIOqwleuCqO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "289K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 150000,
+  "opportunity_cost_krw": 6000000
+}

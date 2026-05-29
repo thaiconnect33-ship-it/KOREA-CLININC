@@ -1,0 +1,147 @@
+{
+  "query": "더블유성형외과의원",
+  "generated_at": "2026-05-28T23:49:14.033Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 248,
+      "extra": {
+        "place_id": "13503610",
+        "name": "더블유성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 64,
+        "blog_review_count": 184,
+        "detail_url": "https://m.place.naver.com/place/13503610/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "강남더블유성형외과ㅣGangnam W Plastic Surgery Clinic",
+        "rating": 5,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 1345366,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "더블유성형외과",
+            "channel": "박승범",
+            "url": "https://www.youtube.com/watch?v=SOJeFKOe_AE&pp=ygUt642U67iU7Jyg7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "149 views"
+          },
+          {
+            "title": "강남 더블유성형외과에서 원장님과 상담",
+            "channel": "더블유성형외과강남",
+            "url": "https://www.youtube.com/watch?v=F49Q9Db0su0&pp=ygUt642U67iU7Jyg7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "286 views"
+          },
+          {
+            "title": "더성형외과「가슴성형」 가슴성형 후 며칠이 지나야 일상생활이 가능할까요?",
+            "channel": "더성형외과",
+            "url": "https://www.youtube.com/watch?v=0pitECSa2lo&pp=ygUt642U67iU7Jyg7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "2.9K views"
+          },
+          {
+            "title": "강남 더블유성형외과에서 원장님과 상담",
+            "channel": "더블유성형외과강남",
+            "url": "https://www.youtube.com/watch?v=SmpNW1GnXos&pp=ygUt642U67iU7Jyg7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "166 views"
+          },
+          {
+            "title": "더블유성형외과 하베스트젯가슴지방이식",
+            "channel": "강남 더블유성형외과",
+            "url": "https://www.youtube.com/watch?v=xXF5E-hH-BM&pp=ygUt642U67iU7Jyg7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "146 views"
+          },
+          {
+            "title": "강남 더블유성형외과 가슴성형전  실장님과 상담",
+            "channel": "더블유성형외과강남",
+            "url": "https://www.youtube.com/watch?v=KTzrFtspR7o&pp=ygUt642U67iU7Jyg7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "580 views"
+          },
+          {
+            "title": "강남 더블유성형외과에서 가슴성형하기전",
+            "channel": "더블유성형외과강남",
+            "url": "https://www.youtube.com/watch?v=WkAuARIgsc4&pp=ygUt642U67iU7Jyg7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "42 views"
+          },
+          {
+            "title": "강남 더블유성형외과에서 실장님과 상담",
+            "channel": "더블유성형외과강남",
+            "url": "https://www.youtube.com/watch?v=AG-Iohvm81Q&pp=ygUt642U67iU7Jyg7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "276 views"
+          },
+          {
+            "title": "강남 더블유성형외과에서 가슴성형후  귀가",
+            "channel": "더블유성형외과강남",
+            "url": "https://www.youtube.com/watch?v=1x01XGLfUqI&pp=ygUt642U67iU7Jyg7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "429 views"
+          },
+          {
+            "title": "⁉️보형물제거 후 가슴 모양? 파열, 피막제거,부작용까지🔥#더더블유의원 #가슴보형물제거",
+            "channel": "더더블유가슴센터",
+            "url": "https://www.youtube.com/watch?v=UKgDYPVKKVU&pp=ygUt642U67iU7Jyg7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.4K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

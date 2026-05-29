@@ -1,0 +1,138 @@
+{
+  "query": "더씨엘의원",
+  "generated_at": "2026-05-28T22:24:17.625Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 3275,
+      "extra": {
+        "place_id": "35572206",
+        "name": "더씨엘의원 : 네이버\u001c",
+        "visitor_review_count": 239,
+        "blog_review_count": 3036,
+        "detail_url": "https://m.place.naver.com/place/35572206/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "Google Maps 결과 없음",
+        "foreign_language_reviews": 0
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 444677,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "지방이식, 넣는 것보다 빼는 게 10배 어렵습니다. 1,000건의 복구 시술로 경험한 노하우 대방출",
+            "channel": "닥터씨엘 Dr. CL",
+            "url": "https://www.youtube.com/watch?v=JzkQRqlddE0&pp=ygUe642U7JSo7JeY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1.5K views"
+          },
+          {
+            "title": "[ 옥시젠슈티컬스 ] OxygenCeuticals X 더씨엘클리닉",
+            "channel": "OxygenCeuticals Korea",
+            "url": "https://www.youtube.com/watch?v=_PhBkClJe64&pp=ygUe642U7JSo7JeY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "953 views"
+          },
+          {
+            "title": "무조건 효과 본다고 생각하는 #지방흡입, 5천 건 이상 해보니 알게 된 진실을 알려드리겠습니다",
+            "channel": "닥터씨엘 Dr. CL",
+            "url": "https://www.youtube.com/watch?v=rqd77IVTKAY&pp=ygUe642U7JSo7JeY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1.9K views"
+          },
+          {
+            "title": "청담동 동안 피부과 원장이 매년 받는 시술 공개합니다 (인모드, 울쎄라)",
+            "channel": "최크마이피부",
+            "url": "https://www.youtube.com/watch?v=tOz3RumcsrM&pp=ygUe642U7JSo7JeY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "670 views"
+          },
+          {
+            "title": "실리프팅 전 필독! 거울 보고 3초 만에 효과 자가진단 하는 법",
+            "channel": "닥터씨엘 Dr. CL",
+            "url": "https://www.youtube.com/watch?v=kvCkZdVDBqA&pp=ygUe642U7JSo7JeY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1.5K views"
+          },
+          {
+            "title": "“무조건 10년 젊어져요” 필러보다 효과 좋은 얼굴 볼륨 시술 TOP1 | 엘란쎄",
+            "channel": "닥터씨엘 Dr. CL",
+            "url": "https://www.youtube.com/watch?v=wpRcWJETRhM&pp=ygUe642U7JSo7JeY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "4.6K views"
+          },
+          {
+            "title": "From Thermage tips to information you'll regret missing out on, I'll share it all!",
+            "channel": "닥터씨엘 Dr. CL",
+            "url": "https://www.youtube.com/watch?v=NUFG0crRsaA&pp=ygUe642U7JSo7JeY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "29K views"
+          },
+          {
+            "title": "엘란쎄 부작용, 정말 위험할까? 10년 넘게 시술해 본 의사의 솔직한 고백",
+            "channel": "닥터씨엘 Dr. CL",
+            "url": "https://www.youtube.com/watch?v=bWyIP47kQqo&pp=ygUe642U7JSo7JeY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "3.9K views"
+          },
+          {
+            "title": "턱보톡스를 더씨엘클리닉 최원장님께 놔드리는 장면",
+            "channel": "닥터씨엘 Dr. CL",
+            "url": "https://www.youtube.com/watch?v=Vm8VBkTmDgw&pp=ygUe642U7JSo7JeY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "654 views"
+          },
+          {
+            "title": "얼굴지방흡입과 이마지방이식 동시 시술 후기 Ep.1",
+            "channel": "닥터씨엘 Dr. CL",
+            "url": "https://www.youtube.com/watch?v=qVEibFf9__Q&pp=ygUe642U7JSo7JeY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "26K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

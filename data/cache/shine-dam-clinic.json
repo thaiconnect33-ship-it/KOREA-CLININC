@@ -1,0 +1,146 @@
+{
+  "query": "Shine Dam Clinic",
+  "generated_at": "2026-05-29T05:51:00.420Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Results",
+        "rating": 4.8,
+        "total_reviews": 0,
+        "sample_size": 9,
+        "foreign_language_reviews": 9,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 9
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 12015303,
+        "foreign_video_count": 17,
+        "lang_breakdown": {
+          "korean": 3,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 17
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "Singapore’s 1st Authentic Korean Skin Management Facial Shop  –  Cheongdam Korean Skin Management",
+            "channel": "CHEONGDAM 청담 Korean Skin Management",
+            "url": "https://www.youtube.com/watch?v=Qlh9uJN-7XY&pp=ygUWU2hpbmUgRGFtIENsaW5pYyBLb3JlYQ%3D%3D",
+            "view_text": "1.5K views"
+          },
+          {
+            "title": "Why Should You Choose Cheongdam Aesthetics For Better Skin Care?",
+            "channel": "Cheongdam 청담 Aesthetics Clinic",
+            "url": "https://www.youtube.com/watch?v=DHFDNVGjGB4&pp=ygUWU2hpbmUgRGFtIENsaW5pYyBLb3JlYQ%3D%3D",
+            "view_text": "370 views"
+          },
+          {
+            "title": "High-Impact Skin Treatments That Don’t Break the Bank 💸 | Dr. Sam Ellis",
+            "channel": "Dr. Sam Ellis",
+            "url": "https://www.youtube.com/watch?v=J0-_KZw-eHQ&pp=ygUWU2hpbmUgRGFtIENsaW5pYyBLb3JlYQ%3D%3D",
+            "view_text": "257K views"
+          },
+          {
+            "title": "How to Get #Korean Glass #Skin – #Dermatologist Explains! Korean Glass Skin Facial #Treatment #India",
+            "channel": "Dr. Haror's Wellness",
+            "url": "https://www.youtube.com/watch?v=mZplV5qIbZs&pp=ygUWU2hpbmUgRGFtIENsaW5pYyBLb3JlYQ%3D%3D",
+            "view_text": "30K views"
+          },
+          {
+            "title": "Dermatologist Explains: What is a HydraFacial? Should You Do It? | Dr. Sam Ellis",
+            "channel": "Dr. Sam Ellis",
+            "url": "https://www.youtube.com/watch?v=OPz6tTTNdVs&pp=ygUWU2hpbmUgRGFtIENsaW5pYyBLb3JlYQ%3D%3D",
+            "view_text": "559K views"
+          },
+          {
+            "title": "BB Glow Treatment |  Step by Step Process | HINDI",
+            "channel": "La Victoria Salon & Academy",
+            "url": "https://www.youtube.com/watch?v=9YLsdMPVQPM&pp=ygUWU2hpbmUgRGFtIENsaW5pYyBLb3JlYQ%3D%3D",
+            "view_text": "1.2M views"
+          },
+          {
+            "title": "How to get clear skin at home? Dr. Prakash Acharya",
+            "channel": "Dr. Prakash Acharya, MD",
+            "url": "https://www.youtube.com/watch?v=HXCEg8ozceE&pp=ygUWU2hpbmUgRGFtIENsaW5pYyBLb3JlYQ%3D%3D",
+            "view_text": "394K views"
+          },
+          {
+            "title": "Teeth Whitening At The Dentist | Fastest Way To Whiten Your Teeth",
+            "channel": "Teeth Talk Girl",
+            "url": "https://www.youtube.com/watch?v=IE1P9O3myWw&pp=ygUWU2hpbmUgRGFtIENsaW5pYyBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "6.3M views"
+          },
+          {
+            "title": "Astrodome",
+            "channel": "CHEONGDAM 청담 Korean Skin Management",
+            "url": "https://www.youtube.com/watch?v=zdPb33XkUjc&pp=ygUWU2hpbmUgRGFtIENsaW5pYyBLb3JlYQ%3D%3D",
+            "view_text": "763 views"
+          },
+          {
+            "title": "7 In 1 Pro Hydra Dermabrasion Water Dermabrasion Hydrogen Oxygen Machine",
+            "channel": "MYCHWAY.ONLINE",
+            "url": "https://www.youtube.com/watch?v=QvKEfG1-CJ8&pp=ygUWU2hpbmUgRGFtIENsaW5pYyBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "340K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 18,
+  "opportunity_cost_thb": 87000,
+  "opportunity_cost_krw": 3480000
+}

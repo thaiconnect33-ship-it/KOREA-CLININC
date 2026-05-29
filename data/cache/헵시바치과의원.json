@@ -1,0 +1,136 @@
+{
+  "query": "헵시바치과의원",
+  "generated_at": "2026-05-29T00:14:57.160Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "Google Maps 결과 없음",
+        "foreign_language_reviews": 0
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 10,
+      "extra": {
+        "total_views": 5648,
+        "foreign_video_count": 1,
+        "lang_breakdown": {
+          "korean": 9,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 1
+        },
+        "sample_size": 10,
+        "top_videos": [
+          {
+            "title": "뷰티앤부티 4회 헵시바",
+            "channel": "민필름",
+            "url": "https://www.youtube.com/watch?v=9kn3bB5ilUM&pp=ygUh7Ze17Iuc67CU7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "354"
+          },
+          {
+            "title": "양악수술",
+            "channel": "90omfs",
+            "url": "https://www.youtube.com/watch?v=VXsrNJGQwWE&pp=ygUh7Ze17Iuc67CU7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "2.7K"
+          },
+          {
+            "title": "구강악안면외과의사회 10월16일",
+            "channel": "덴탈프레스dentalpress",
+            "url": "https://www.youtube.com/watch?v=gE1dwhlzM7U&pp=ygUh7Ze17Iuc67CU7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "578"
+          },
+          {
+            "title": "65. 5년동안 교정을??? [수술이 꼭 필요한 경우]",
+            "channel": "턱수술의 모든 것, 양달TV",
+            "url": "https://www.youtube.com/watch?v=KGduHbu7wxM&pp=ygUh7Ze17Iuc67CU7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "690"
+          },
+          {
+            "title": "Company Close Up Ep13 Saeromvision - Oscillating Toothbrush, Hephzibah F and B - Dried Fruit Chips",
+            "channel": "Arirang TV",
+            "url": "https://www.youtube.com/watch?v=3lZJ-LU7wbg&pp=ygUh7Ze17Iuc67CU7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "161"
+          },
+          {
+            "title": "칭찬합시다 시즌1 마무리",
+            "channel": "RED. Apple",
+            "url": "https://www.youtube.com/watch?v=7NpgzwMCCAc&pp=ygUh7Ze17Iuc67CU7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "123"
+          },
+          {
+            "title": "뷰티앤부티 6회_비브라스",
+            "channel": "민필름",
+            "url": "https://www.youtube.com/watch?v=PM0uL5EdFzE&pp=ygUh7Ze17Iuc67CU7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "252"
+          },
+          {
+            "title": "뷰티앤부티 12회 리제론",
+            "channel": "민필름",
+            "url": "https://www.youtube.com/watch?v=lvvJv_GZXD8&pp=ygUh7Ze17Iuc67CU7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "426"
+          },
+          {
+            "title": "20170816 뷰티앤부티2회  원더페이스",
+            "channel": "민필름",
+            "url": "https://www.youtube.com/watch?v=bBWrbdHkEmE&pp=ygUh7Ze17Iuc67CU7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "168"
+          },
+          {
+            "title": "뷰티앤부티 3회 플랜미의원",
+            "channel": "민필름",
+            "url": "https://www.youtube.com/watch?v=DUfp-zjXK3M&pp=ygUh7Ze17Iuc67CU7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "196"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 1,
+  "opportunity_cost_thb": 99500,
+  "opportunity_cost_krw": 3980000
+}

@@ -1,0 +1,147 @@
+{
+  "query": "111의원",
+  "generated_at": "2026-05-28T22:32:51.821Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 4,
+      "extra": {
+        "place_id": "18673036",
+        "name": "장일성형외과 : 네이버\u001c",
+        "visitor_review_count": 3,
+        "blog_review_count": 1,
+        "detail_url": "https://m.place.naver.com/place/18673036/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "111 Dermatology Cosmetic Surgery",
+        "rating": 4.9,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 580677,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "10년은 젊어지는 눈성형 💕 중년눈성형 TOP 3 #111의원",
+            "channel": "닥터호호",
+            "url": "https://www.youtube.com/watch?v=Cp1Oa6VBHRE&pp=ygUbMTEx7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "7.1K views"
+          },
+          {
+            "title": "눈 성형 수술 건강보험 적용된다? 안검하수 완벽 정리합니다! #111의원",
+            "channel": "닥터호호",
+            "url": "https://www.youtube.com/watch?v=3pUcgZlvDqY&pp=ygUbMTEx7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "411K views"
+          },
+          {
+            "title": "예쁜 쌍꺼풀을 만들기 위해 꼭 알아야 할 5가지! 쌍수 라인 높이?#111의원 korean double eyelid upper blepharoplasty",
+            "channel": "닥터호호",
+            "url": "https://www.youtube.com/watch?v=-PzkSq1oN-E&pp=ygUbMTEx7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "8K views"
+          },
+          {
+            "title": "지방흡입 흉터를 적게 하면서 수술하는 방법!",
+            "channel": "닥터호호",
+            "url": "https://www.youtube.com/watch?v=U5bwe3VIPSA&pp=ygUbMTEx7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "4K views"
+          },
+          {
+            "title": "소세지 쌍꺼풀 되는 이유는 바로 이것! 실밥 제거 후에도 실이 남아있다??! #111의원",
+            "channel": "닥터호호",
+            "url": "https://www.youtube.com/watch?v=qvjX0qVdyQU&pp=ygUbMTEx7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "6.5K views"
+          },
+          {
+            "title": "눈썹거상술 상담, 디자인, 수술 전 과정 공개 #111의원 #눈썹하거상 korean subbrow lift design",
+            "channel": "닥터호호",
+            "url": "https://www.youtube.com/watch?v=o48-fQEfS3Q&pp=ygUbMTEx7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "27K views"
+          },
+          {
+            "title": "눈썹하절제술이란? (그림설명)",
+            "channel": "스타라인성형외과피부과",
+            "url": "https://www.youtube.com/watch?v=P-r_hf0WvUk&pp=ygUbMTEx7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "111 views"
+          },
+          {
+            "title": "남자 눈썹하거상! 제일 궁금해 하시는 질문 1탄! korean subbrow lift",
+            "channel": "닥터호호",
+            "url": "https://www.youtube.com/watch?v=Gmi_XcuOOdk&pp=ygUbMTEx7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "4.9K views"
+          },
+          {
+            "title": "[하안검 vs 눈밑지] 수술방법, 자가진단법, 장단점, 부작용까지 총정리! lower blepharoplasty vs transconjunctival repositioning",
+            "channel": "닥터호호",
+            "url": "https://www.youtube.com/watch?v=M0_Qqd8_3sU&pp=ygUbMTEx7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "8.9K views"
+          },
+          {
+            "title": "처진 눈을 되돌리는 상안검 수술 ! 중년 눈 수술 '상안검'하려면 필수 시청 korean upper blepharoplasty",
+            "channel": "닥터호호",
+            "url": "https://www.youtube.com/watch?v=vVyL5RgPa6w&pp=ygUbMTEx7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "4.5K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

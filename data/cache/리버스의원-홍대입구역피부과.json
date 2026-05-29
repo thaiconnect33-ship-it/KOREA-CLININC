@@ -1,0 +1,147 @@
+{
+  "query": "리버스의원 홍대입구역피부과",
+  "generated_at": "2026-05-28T22:52:12.518Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 5678,
+      "extra": {
+        "place_id": "1815646405",
+        "name": "리버스의원 홍대입구역 : 네이버\u001c",
+        "visitor_review_count": 1232,
+        "blog_review_count": 4446,
+        "detail_url": "https://m.place.naver.com/place/1815646405/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "리버스클리닉 홍대점/Reverse Clinic Hongdae/リバースクリニック 弘大",
+        "rating": 4.6,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 15,
+      "extra": {
+        "total_views": 155857,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 15,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 15,
+        "top_videos": [
+          {
+            "title": "스킨부스터 결절 방지 마사지, '이만큼도' 투자안하면 손해봅니다｜울트라콜, 쥬베룩, 스컬트라 부작용",
+            "channel": "땡기는 의사 이용석",
+            "url": "https://www.youtube.com/watch?v=fN5-auWplJs&pp=ygUu66as67KE7Iqk7J2Y7JuQIO2ZjeuMgOyeheq1rOyXre2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "958 views"
+          },
+          {
+            "title": "병원에서 절대 안 알려주는 포텐자의 모든것 │ 원장님에게 '이걸' 꼭 말하세요! │ 모공, 흉터, 여드름, 홍조 이게 다 된다고..?",
+            "channel": "땡기는 의사 이용석",
+            "url": "https://www.youtube.com/watch?v=80hRsj3fxgY&pp=ygUu66as67KE7Iqk7J2Y7JuQIO2ZjeuMgOyeheq1rOyXre2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "1K views"
+          },
+          {
+            "title": "제일 핫한 스킨부스터 고우리 시술 과정 대공개💉🔥",
+            "channel": "로바에 의원 LOVAE CLINIC",
+            "url": "https://www.youtube.com/watch?v=j6AUx9l1wFI&pp=ygUu66as67KE7Iqk7J2Y7JuQIO2ZjeuMgOyeheq1rOyXre2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "573 views"
+          },
+          {
+            "title": "이걸 모르면 흉터 오래 갑니다...｜듀오덤 vs 메디폼, 알고 쓰세요!",
+            "channel": "땡기는 의사 이용석",
+            "url": "https://www.youtube.com/watch?v=htVJhXjqT-0&pp=ygUu66as67KE7Iqk7J2Y7JuQIO2ZjeuMgOyeheq1rOyXre2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "3.1K views"
+          },
+          {
+            "title": "실리프팅을 10만원치 삼겹살에?｜민트실로 몇 개로 깊은 주름을 펼 수 있을까! [리프팅 실험 1편]",
+            "channel": "땡기는 의사 이용석",
+            "url": "https://www.youtube.com/watch?v=vIlkqrWrxGo&pp=ygUu66as67KE7Iqk7J2Y7JuQIO2ZjeuMgOyeheq1rOyXre2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "3K views"
+          },
+          {
+            "title": "최소 5년은 어려보임 ㄷㄷ｜👩‍⚕️마취 없이 받는 앞볼 필러 데모 현장 공개 💉",
+            "channel": "땡기는 의사 이용석",
+            "url": "https://www.youtube.com/watch?v=i5Y57_XcdMQ&pp=ygUu66as67KE7Iqk7J2Y7JuQIO2ZjeuMgOyeheq1rOyXre2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "1.8K views"
+          },
+          {
+            "title": "울트라콜 VS 쥬베룩 볼륨 우주 최초 반반시술 결과!｜마취없이 통증비교",
+            "channel": "땡기는 의사 이용석",
+            "url": "https://www.youtube.com/watch?v=G2bsuUIZ1xU&pp=ygUu66as67KE7Iqk7J2Y7JuQIO2ZjeuMgOyeheq1rOyXre2UvOu2gOqzvCBLb3JlYdIHCQkNCwGHKiGM7w%3D%3D",
+            "view_text": "11K views"
+          },
+          {
+            "title": "울쎄라 끝물? 요즘은 다 이거 해요 👉 슈링크 진짜 효과",
+            "channel": "유리에성형외과의원 YURIE PLASTIC SURGERY",
+            "url": "https://www.youtube.com/watch?v=4i9jqjUS-PQ&pp=ygUu66as67KE7Iqk7J2Y7JuQIO2ZjeuMgOyeheq1rOyXre2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "8.1K views"
+          },
+          {
+            "title": "뱃살 빼는법! 효과적인 다이어트 시술 3가지｜3분 안에 보는 알뜰지식 🧪",
+            "channel": "땡기는 의사 이용석",
+            "url": "https://www.youtube.com/watch?v=Y2iedIR3CTA&pp=ygUu66as67KE7Iqk7J2Y7JuQIO2ZjeuMgOyeheq1rOyXre2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "2.2K views"
+          },
+          {
+            "title": "등드름, 슴드름, 여드름 없애는 1위 시술｜알라딘필링｜ 연예인 관리",
+            "channel": "땡기는 의사 이용석",
+            "url": "https://www.youtube.com/watch?v=RofaOq35Mwg&pp=ygUu66as67KE7Iqk7J2Y7JuQIO2ZjeuMgOyeheq1rOyXre2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "23K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 110000,
+  "opportunity_cost_krw": 4400000
+}

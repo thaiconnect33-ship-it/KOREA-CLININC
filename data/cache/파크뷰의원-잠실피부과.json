@@ -1,0 +1,147 @@
+{
+  "query": "파크뷰의원 잠실피부과",
+  "generated_at": "2026-05-28T23:28:55.897Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 1297,
+      "extra": {
+        "place_id": "1232253947",
+        "name": "파크뷰의원 잠실 : 네이버\u001c",
+        "visitor_review_count": 457,
+        "blog_review_count": 840,
+        "detail_url": "https://m.place.naver.com/place/1232253947/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Parkview Clinic (Jamsil Branch)",
+        "rating": 4.7,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 10,
+      "extra": {
+        "total_views": 4319,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 10,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 10,
+        "top_videos": [
+          {
+            "title": "🎯울쎄라피 프라임, 효과는 언제부터?",
+            "channel": "조조언니 파크뷰의원 잠실점",
+            "url": "https://www.youtube.com/watch?v=GzYG2UsvmbA&pp=ygUl7YyM7YGs67ew7J2Y7JuQIOyeoOyLpO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "27 views"
+          },
+          {
+            "title": "피부,파크뷰로 보세요! 파크뷰의원 잠실점 소개합니다! @familydermadr",
+            "channel": "조조언니 파크뷰의원 잠실점",
+            "url": "https://www.youtube.com/watch?v=I3v3qrZp-aU&pp=ygUl7YyM7YGs67ew7J2Y7JuQIOyeoOyLpO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "299 views"
+          },
+          {
+            "title": "[병의원 유튜브] 파크뷰 의원 - 인터뷰, 시술",
+            "channel": "인덕션(in production)",
+            "url": "https://www.youtube.com/watch?v=mDiICr66GDI&pp=ygUl7YyM7YGs67ew7J2Y7JuQIOyeoOyLpO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "120 views"
+          },
+          {
+            "title": "피부관리하러 일본인들이 오는 이유?📌파크뷰의원 잠실점 (feat.조주은원장)",
+            "channel": "조조언니 파크뷰의원 잠실점",
+            "url": "https://www.youtube.com/watch?v=vx_5X509LcA&pp=ygUl7YyM7YGs67ew7J2Y7JuQIOyeoOyLpO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "96 views"
+          },
+          {
+            "title": "울쎄라 총정리(시술원리,추천대상,유지기간,정품인증법) #파크뷰의원 잠실점",
+            "channel": "조조언니 파크뷰의원 잠실점",
+            "url": "https://www.youtube.com/watch?v=gdU4hmnI8YA&pp=ygUl7YyM7YGs67ew7J2Y7JuQIOyeoOyLpO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "462 views"
+          },
+          {
+            "title": "출장간 조조언니!  도쿄도쿄⭐️조주은 원장님의 하루 in TOKYO",
+            "channel": "조조언니 파크뷰의원 잠실점",
+            "url": "https://www.youtube.com/watch?v=9SR9MagPEeM&pp=ygUl7YyM7YGs67ew7J2Y7JuQIOyeoOyLpO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "86 views"
+          },
+          {
+            "title": "울쎄라 통증과 울쎄라  잘 받는 법? @familydermadr✌파크뷰의원 잠실점 feat:조주은원장",
+            "channel": "조조언니 파크뷰의원 잠실점",
+            "url": "https://www.youtube.com/watch?v=kdbWeOIT85E&pp=ygUl7YyM7YGs67ew7J2Y7JuQIOyeoOyLpO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "109 views"
+          },
+          {
+            "title": "마리오네트 꺼짐...수술없이 마리오네트 주름 없애는 방법",
+            "channel": "조조언니 파크뷰의원 잠실점",
+            "url": "https://www.youtube.com/watch?v=KyixxrrwpdI&pp=ygUl7YyM7YGs67ew7J2Y7JuQIOyeoOyLpO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "206 views"
+          },
+          {
+            "title": "피부가 좋아지는 최고의 시술🔥 “엑소좀 X 포텐자” (feat.조주은원장)",
+            "channel": "조조언니 파크뷰의원 잠실점",
+            "url": "https://www.youtube.com/watch?v=EyC87NAek7M&pp=ygUl7YyM7YGs67ew7J2Y7JuQIOyeoOyLpO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "2.1K views"
+          },
+          {
+            "title": "인생 첫 울쎄라! 300샷 맞아봤습니다... (feat.조주은원장)",
+            "channel": "조조언니 파크뷰의원 잠실점",
+            "url": "https://www.youtube.com/watch?v=pcN3XfOY6CU&pp=ygUl7YyM7YGs67ew7J2Y7JuQIOyeoOyLpO2UvOu2gOqzvCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "814 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 90000,
+  "opportunity_cost_krw": 3600000
+}

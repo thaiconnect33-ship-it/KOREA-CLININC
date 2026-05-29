@@ -1,0 +1,809 @@
+{
+  "generated_at": "2026-05-29T08:28:54.229Z",
+  "total_posts": 538,
+  "total_likes": 437542,
+  "topics_searched": 40,
+  "by_topic": {
+    "Korean plastic surgery": {
+      "posts": 16,
+      "likes": 0
+    },
+    "Korean doctor": {
+      "posts": 37,
+      "likes": 6082
+    },
+    "Korean beauty": {
+      "posts": 43,
+      "likes": 51479
+    },
+    "Korea review": {
+      "posts": 77,
+      "likes": 49061
+    },
+    "Korean face surgery": {
+      "posts": 3,
+      "likes": 0
+    },
+    "Korean nose job": {
+      "posts": 3,
+      "likes": 0
+    },
+    "Korean nose augmentation": {
+      "posts": 4,
+      "likes": 0
+    },
+    "Korean nose revision": {
+      "posts": 6,
+      "likes": 0
+    },
+    "Korean chin": {
+      "posts": 26,
+      "likes": 74924
+    },
+    "Korean filler": {
+      "posts": 46,
+      "likes": 17363
+    },
+    "Korean botox": {
+      "posts": 9,
+      "likes": 0
+    },
+    "Korean face injection": {
+      "posts": 2,
+      "likes": 0
+    },
+    "Korean hair transplant": {
+      "posts": 2,
+      "likes": 0
+    },
+    "Korean skin": {
+      "posts": 69,
+      "likes": 192327
+    },
+    "Korean acne treatment": {
+      "posts": 1,
+      "likes": 0
+    },
+    "Korean mask": {
+      "posts": 11,
+      "likes": 0
+    },
+    "Korean serum": {
+      "posts": 95,
+      "likes": 36781
+    },
+    "Gangnam": {
+      "posts": 12,
+      "likes": 0
+    },
+    "Cheongdam": {
+      "posts": 1,
+      "likes": 0
+    },
+    "Myeongdong": {
+      "posts": 75,
+      "likes": 9525
+    }
+  },
+  "top_influencers": [
+    {
+      "author": "MakeUpTips",
+      "posts": 2,
+      "total_likes": 60799,
+      "topics": [
+        "Korean chin"
+      ]
+    },
+    {
+      "author": "เซียร์ 🦢",
+      "posts": 1,
+      "total_likes": 27100,
+      "topics": [
+        "Korean skin"
+      ]
+    },
+    {
+      "author": "Angel Beauty☁️",
+      "posts": 1,
+      "total_likes": 22100,
+      "topics": [
+        "Korean skin"
+      ]
+    },
+    {
+      "author": "URBEAUTY💖🪽👀",
+      "posts": 1,
+      "total_likes": 18700,
+      "topics": [
+        "Korean skin"
+      ]
+    },
+    {
+      "author": "ชีวิตเบาขึ้น",
+      "posts": 2,
+      "total_likes": 13197,
+      "topics": [
+        "Korean beauty",
+        "Korean skin"
+      ]
+    },
+    {
+      "author": "callmeploy",
+      "posts": 6,
+      "total_likes": 11836,
+      "topics": [
+        "Korean beauty",
+        "Korean skin"
+      ]
+    },
+    {
+      "author": "QuenTin Peel",
+      "posts": 1,
+      "total_likes": 11000,
+      "topics": [
+        "Korean beauty"
+      ]
+    },
+    {
+      "author": "น้อง'ง นุดา'า",
+      "posts": 1,
+      "total_likes": 9406,
+      "topics": [
+        "Korean skin"
+      ]
+    },
+    {
+      "author": "ployturtle",
+      "posts": 2,
+      "total_likes": 8712,
+      "topics": [
+        "Korean beauty",
+        "Korean skin"
+      ]
+    },
+    {
+      "author": "ThatMyGirl | ภัส 🤏🏻💘",
+      "posts": 3,
+      "total_likes": 7624,
+      "topics": [
+        "Korean skin",
+        "Korean serum"
+      ]
+    },
+    {
+      "author": "บิ้วตี้ไดอารี่",
+      "posts": 5,
+      "total_likes": 6843,
+      "topics": [
+        "Korean beauty",
+        "Korea review",
+        "Korean serum"
+      ]
+    },
+    {
+      "author": "Sale Here",
+      "posts": 2,
+      "total_likes": 6792,
+      "topics": [
+        "Korean serum",
+        "Myeongdong"
+      ]
+    },
+    {
+      "author": "cloudysstory",
+      "posts": 1,
+      "total_likes": 6528,
+      "topics": [
+        "Korean skin"
+      ]
+    },
+    {
+      "author": "มิ้นจ๋อง",
+      "posts": 3,
+      "total_likes": 6317,
+      "topics": [
+        "Korean chin"
+      ]
+    },
+    {
+      "author": "Nananatt",
+      "posts": 1,
+      "total_likes": 6123,
+      "topics": [
+        "Korean skin"
+      ]
+    },
+    {
+      "author": "✿ Gundam",
+      "posts": 1,
+      "total_likes": 5923,
+      "topics": [
+        "Korean skin"
+      ]
+    },
+    {
+      "author": "rita b.",
+      "posts": 1,
+      "total_likes": 5672,
+      "topics": [
+        "Korean skin"
+      ]
+    },
+    {
+      "author": "Namsom 🥤",
+      "posts": 1,
+      "total_likes": 5536,
+      "topics": [
+        "Korean skin"
+      ]
+    },
+    {
+      "author": "Nalinnaaa",
+      "posts": 2,
+      "total_likes": 5387,
+      "topics": [
+        "Korean beauty",
+        "Korea review"
+      ]
+    },
+    {
+      "author": "เธอ มันดีมาก",
+      "posts": 2,
+      "total_likes": 5118,
+      "topics": [
+        "Korean beauty",
+        "Korean skin"
+      ]
+    },
+    {
+      "author": "Pearrie bob ツ",
+      "posts": 5,
+      "total_likes": 4804,
+      "topics": [
+        "Korean beauty",
+        "Korea review",
+        "Myeongdong"
+      ]
+    },
+    {
+      "author": "Rainyday_nn",
+      "posts": 2,
+      "total_likes": 4472,
+      "topics": [
+        "Korean skin",
+        "Korean serum"
+      ]
+    },
+    {
+      "author": "ก้อยศรีรีวิว",
+      "posts": 1,
+      "total_likes": 4429,
+      "topics": [
+        "Korean beauty"
+      ]
+    },
+    {
+      "author": "ป๊อปปี้รีวิ๊ว✨",
+      "posts": 2,
+      "total_likes": 4402,
+      "topics": [
+        "Korean chin",
+        "Korean filler"
+      ]
+    },
+    {
+      "author": "Something_like",
+      "posts": 1,
+      "total_likes": 4301,
+      "topics": [
+        "Korean skin"
+      ]
+    },
+    {
+      "author": "Dr.Chanya",
+      "posts": 2,
+      "total_likes": 4062,
+      "topics": [
+        "Korean beauty",
+        "Korean skin"
+      ]
+    },
+    {
+      "author": "Pchyganta",
+      "posts": 1,
+      "total_likes": 3892,
+      "topics": [
+        "Korean skin"
+      ]
+    },
+    {
+      "author": "KIRAGLAER",
+      "posts": 1,
+      "total_likes": 3842,
+      "topics": [
+        "Korean skin"
+      ]
+    },
+    {
+      "author": "🌼นุ่น รีวิว🌼",
+      "posts": 1,
+      "total_likes": 3709,
+      "topics": [
+        "Korean skin"
+      ]
+    },
+    {
+      "author": "meennie",
+      "posts": 1,
+      "total_likes": 3689,
+      "topics": [
+        "Korean skin"
+      ]
+    },
+    {
+      "author": "นานๆ มาบอกต่อ  🤏🏻",
+      "posts": 2,
+      "total_likes": 3642,
+      "topics": [
+        "Korean chin",
+        "Korean filler"
+      ]
+    },
+    {
+      "author": "มายมาreview",
+      "posts": 1,
+      "total_likes": 3514,
+      "topics": [
+        "Korean skin"
+      ]
+    },
+    {
+      "author": "Sa Thananchamon",
+      "posts": 4,
+      "total_likes": 3263,
+      "topics": [
+        "Korean filler"
+      ]
+    },
+    {
+      "author": "SeriousRies",
+      "posts": 1,
+      "total_likes": 3014,
+      "topics": [
+        "Korean skin"
+      ]
+    },
+    {
+      "author": "Aumjumma",
+      "posts": 2,
+      "total_likes": 2944,
+      "topics": [
+        "Korea review"
+      ]
+    },
+    {
+      "author": "guttcha",
+      "posts": 2,
+      "total_likes": 2839,
+      "topics": [
+        "Korean beauty",
+        "Korea review"
+      ]
+    },
+    {
+      "author": "Meayingz",
+      "posts": 2,
+      "total_likes": 2810,
+      "topics": [
+        "Korea review",
+        "Myeongdong"
+      ]
+    },
+    {
+      "author": "Kib.kibbon",
+      "posts": 1,
+      "total_likes": 2730,
+      "topics": [
+        "Korean skin"
+      ]
+    },
+    {
+      "author": "Jenny💖",
+      "posts": 2,
+      "total_likes": 2634,
+      "topics": [
+        "Korean chin",
+        "Korean filler"
+      ]
+    },
+    {
+      "author": "NUT",
+      "posts": 1,
+      "total_likes": 2562,
+      "topics": [
+        "Korean skin"
+      ]
+    },
+    {
+      "author": "น้ำ ไปทำงาน",
+      "posts": 1,
+      "total_likes": 2554,
+      "topics": [
+        "Korean serum"
+      ]
+    },
+    {
+      "author": "chobchill🐱",
+      "posts": 1,
+      "total_likes": 2478,
+      "topics": [
+        "Korean doctor"
+      ]
+    },
+    {
+      "author": "Alicechibi🪄",
+      "posts": 1,
+      "total_likes": 2423,
+      "topics": [
+        "Korean serum"
+      ]
+    },
+    {
+      "author": "ビーム ( beam )",
+      "posts": 2,
+      "total_likes": 2344,
+      "topics": [
+        "Korean skin"
+      ]
+    },
+    {
+      "author": "ห้องทดลองบิวตี้",
+      "posts": 1,
+      "total_likes": 2312,
+      "topics": [
+        "Korean skin"
+      ]
+    },
+    {
+      "author": "𝐦𝐢𝐮𝐦𝐢𝐬𝐨💐",
+      "posts": 1,
+      "total_likes": 2279,
+      "topics": [
+        "Korean serum"
+      ]
+    },
+    {
+      "author": "KBeverywhere",
+      "posts": 3,
+      "total_likes": 2163,
+      "topics": [
+        "Korea review",
+        "Korean serum",
+        "Myeongdong"
+      ]
+    },
+    {
+      "author": "Loogtan02",
+      "posts": 2,
+      "total_likes": 2161,
+      "topics": [
+        "Korean skin",
+        "Korean serum"
+      ]
+    },
+    {
+      "author": "Yammie15friends",
+      "posts": 1,
+      "total_likes": 2117,
+      "topics": [
+        "Korea review"
+      ]
+    },
+    {
+      "author": "Beautysweeties",
+      "posts": 1,
+      "total_likes": 2093,
+      "topics": [
+        "Korean skin"
+      ]
+    }
+  ],
+  "clinic_mentions": [
+    {
+      "name": "lienjang",
+      "mention_count": 3,
+      "samples": [
+        {
+          "url": "",
+          "snippet": "รีจูรันครั้งแรกที่ลีเอนจาง เกาหลี 🇰🇷 (ถูกมาก!) เราทำที่ Lienjang เกาหลี สาขาฮงแด สะดวกสุด ขึ้นจากรถไฟปู้ป อยู่ติดกันเลย (ไม่มีสปอนเลยค่า 5555) - มีล่ามไทย ทั้งหน้าคลีนิกที่เกาหลี หรือแชทถามเป็นภาษาไ",
+          "likes": 0,
+          "author": ""
+        },
+        {
+          "url": "",
+          "snippet": "พาไปฉีดหน้าที่เกาหลี คลินิคสุดฮิต Lienjang 〰️ bbmm43 bbmm",
+          "likes": 43,
+          "author": "bbmm"
+        },
+        {
+          "url": "",
+          "snippet": "รีวิวทำ inmode ที่ @Lienjang Clinic SIAMSCAPE Wakuzawa.a1 Wakuzawa.a",
+          "likes": 1,
+          "author": "Wakuzawa.a"
+        }
+      ]
+    }
+  ],
+  "sample_posts": [
+    {
+      "topic": "Korean chin",
+      "topic_th": "ทำคางเกาหลี",
+      "title": "ทิ้งคางอ้วนๆ ติดมัน เปลี่ยนคางหมูให้กลายเป็นคางเรียวสวยได้ทันที",
+      "description": "MakeUpTips54.5K",
+      "author": "MakeUpTips",
+      "likes": 54500,
+      "url": ""
+    },
+    {
+      "topic": "Korean skin",
+      "topic_th": "ผิวเกาหลี",
+      "title": "ทฤษฎี 21 วัน ผิวขาวขึ้น 300% (โนสปอน🧤)",
+      "description": "เซียร์ 🦢27.1K",
+      "author": "เซียร์ 🦢",
+      "likes": 27100,
+      "url": ""
+    },
+    {
+      "topic": "Korean skin",
+      "topic_th": "ผิวเกาหลี",
+      "title": "HOW TO ผิวขาวใน 3 เดือน🌟🤍",
+      "description": "Angel Beauty☁️22.1K",
+      "author": "Angel Beauty☁️",
+      "likes": 22100,
+      "url": ""
+    },
+    {
+      "topic": "Korean skin",
+      "topic_th": "ผิวเกาหลี",
+      "title": "🪄💭ไอเทมผิวขาวงบมัธยมใน 7-11 (ver.ใช้เองทุกตัว)✅🪄🍅",
+      "description": "URBEAUTY💖🪽👀18.7K",
+      "author": "URBEAUTY💖🪽👀",
+      "likes": 18700,
+      "url": ""
+    },
+    {
+      "topic": "Korean beauty",
+      "topic_th": "ความงามเกาหลี",
+      "title": "โตว่หลี โซจึ้งมาก 🇨🇳🇰🇷",
+      "description": "QuenTin Peel11K",
+      "author": "QuenTin Peel",
+      "likes": 11000,
+      "url": ""
+    },
+    {
+      "topic": "Korean skin",
+      "topic_th": "ผิวเกาหลี",
+      "title": "สูตรลับคนคลั่งผิว",
+      "description": "น้อง'ง นุดา'า9406",
+      "author": "น้อง'ง นุดา'า",
+      "likes": 9406,
+      "url": ""
+    },
+    {
+      "topic": "Korean beauty",
+      "topic_th": "ความงามเกาหลี",
+      "title": "ความลับผิวเด้งของสาวเกาหลี 😘 คุณก็ทำได้",
+      "description": "ชีวิตเบาขึ้น6619",
+      "author": "ชีวิตเบาขึ้น",
+      "likes": 6619,
+      "url": ""
+    },
+    {
+      "topic": "Korean skin",
+      "topic_th": "ผิวเกาหลี",
+      "title": "ความลับผิวเด้งของสาวเกาหลี 😘 คุณก็ทำได้",
+      "description": "ชีวิตเบาขึ้น6578",
+      "author": "ชีวิตเบาขึ้น",
+      "likes": 6578,
+      "url": ""
+    },
+    {
+      "topic": "Korean skin",
+      "topic_th": "ผิวเกาหลี",
+      "title": "เทคนิคลงงานผิวแบบสาวเกา 🧚🏻‍♀️🛁 เรียนกับมาสเตอร์ JSM เองเลย!",
+      "description": "cloudysstory6528",
+      "author": "cloudysstory",
+      "likes": 6528,
+      "url": ""
+    },
+    {
+      "topic": "Korean chin",
+      "topic_th": "ทำคางเกาหลี",
+      "title": "วิธีแต่งคางที่เห็นบ่อยที่สุด 6 รูปแบบ!",
+      "description": "MakeUpTips6299",
+      "author": "MakeUpTips",
+      "likes": 6299,
+      "url": ""
+    },
+    {
+      "topic": "Korean serum",
+      "topic_th": "เซรั่มเกาหลี",
+      "title": "แนะนำ11 สกินแคร์หน้าใสผิวแข็งแรง ✨",
+      "description": "Sale Here6167",
+      "author": "Sale Here",
+      "likes": 6167,
+      "url": ""
+    },
+    {
+      "topic": "Korean skin",
+      "topic_th": "ผิวเกาหลี",
+      "title": "ทริคลงคุชชั่นให้ผิวสวย ฉบับพส.เกาหลี",
+      "description": "Nananatt6123",
+      "author": "Nananatt",
+      "likes": 6123,
+      "url": ""
+    },
+    {
+      "topic": "Korean skin",
+      "topic_th": "ผิวเกาหลี",
+      "title": "Skin cycling ผิวกาย",
+      "description": "✿ Gundam5923",
+      "author": "✿ Gundam",
+      "likes": 5923,
+      "url": ""
+    },
+    {
+      "topic": "Korean skin",
+      "topic_th": "ผิวเกาหลี",
+      "title": "Skincare Routine ที่หมอผิวเกาหลีแนะนำ😻",
+      "description": "rita b.5672",
+      "author": "rita b.",
+      "likes": 5672,
+      "url": ""
+    },
+    {
+      "topic": "Korean skin",
+      "topic_th": "ผิวเกาหลี",
+      "title": "บอกต่อ “วิตามินเกาหลี” ที่กินแล้วผิวขาวขึ้นตั้งแต่กล่องแรก 🇰🇷✨",
+      "description": "Namsom 🥤5536",
+      "author": "Namsom 🥤",
+      "likes": 5536,
+      "url": ""
+    },
+    {
+      "topic": "Korean skin",
+      "topic_th": "ผิวเกาหลี",
+      "title": "“How to ผิวใสฉ่ำฉบับวอนยอง“💖🫶🏻",
+      "description": "ThatMyGirl | ภัส 🤏🏻💘4616",
+      "author": "ThatMyGirl | ภัส 🤏🏻💘",
+      "likes": 4616,
+      "url": ""
+    },
+    {
+      "topic": "Korean skin",
+      "topic_th": "ผิวเกาหลี",
+      "title": "💙How to เช็ดหน้าตามแบบเกาหลี",
+      "description": "Rainyday_nn4432",
+      "author": "Rainyday_nn",
+      "likes": 4432,
+      "url": ""
+    },
+    {
+      "topic": "Korean beauty",
+      "topic_th": "ความงามเกาหลี",
+      "title": "แจกทริค แต่งหน้า\"ฉ่ำ\"เหมือนสาวเกา เมคอัพไม่หลุด !",
+      "description": "ก้อยศรีรีวิว4429",
+      "author": "ก้อยศรีรีวิว",
+      "likes": 4429,
+      "url": ""
+    },
+    {
+      "topic": "Korean beauty",
+      "topic_th": "ความงามเกาหลี",
+      "title": "10 เทคนิคผิวใสสไตล์ดาราและไอดอลเกาหลีที่น่าหยิบไปลองทำตาม✨",
+      "description": "ployturtle4356",
+      "author": "ployturtle",
+      "likes": 4356,
+      "url": ""
+    },
+    {
+      "topic": "Korean skin",
+      "topic_th": "ผิวเกาหลี",
+      "title": "10 เทคนิคผิวใสสไตล์ดาราและไอดอลเกาหลีที่น่าหยิบไปลองทำตาม✨",
+      "description": "ployturtle4356",
+      "author": "ployturtle",
+      "likes": 4356,
+      "url": ""
+    },
+    {
+      "topic": "Korean skin",
+      "topic_th": "ผิวเกาหลี",
+      "title": "ผิวแก่ รูขุมขนกว้าง หายได้นะรู้ยัง…แค่ทำสิ่งนี้!!",
+      "description": "Something_like4301",
+      "author": "Something_like",
+      "likes": 4301,
+      "url": ""
+    },
+    {
+      "topic": "Korean chin",
+      "topic_th": "ทำคางเกาหลี",
+      "title": "งบน้อยเสริมจมูกและคางที่ไหนดี? ราคาถูก ปลอดภัย 🧚🏻‍♀️✨",
+      "description": "มิ้นจ๋อง4008",
+      "author": "มิ้นจ๋อง",
+      "likes": 4008,
+      "url": ""
+    },
+    {
+      "topic": "Korean skin",
+      "topic_th": "ผิวเกาหลี",
+      "title": "รวมสกินแคร์ ✨คล็ดลับผิวใสของไอดอลเกาหลี! พร้อมพิกัด📌",
+      "description": "Pchyganta3892",
+      "author": "Pchyganta",
+      "likes": 3892,
+      "url": ""
+    },
+    {
+      "topic": "Korean skin",
+      "topic_th": "ผิวเกาหลี",
+      "title": "How to Glass Skin (ผิวโกล์วทั้งตัว)🤎",
+      "description": "KIRAGLAER3842",
+      "author": "KIRAGLAER",
+      "likes": 3842,
+      "url": ""
+    },
+    {
+      "topic": "Korean skin",
+      "topic_th": "ผิวเกาหลี",
+      "title": "ใช้แค่ 3 สเต็ป ผิวเนียนละเอียดจนเพื่อนทัก ✨",
+      "description": "🌼นุ่น รีวิว🌼3709",
+      "author": "🌼นุ่น รีวิว🌼",
+      "likes": 3709,
+      "url": ""
+    },
+    {
+      "topic": "Korean skin",
+      "topic_th": "ผิวเกาหลี",
+      "title": "- How to ผิวขาวใสฉบับเร่งด่วน -💖🪄",
+      "description": "meennie3689",
+      "author": "meennie",
+      "likes": 3689,
+      "url": ""
+    },
+    {
+      "topic": "Korean skin",
+      "topic_th": "ผิวเกาหลี",
+      "title": "อยากผิว glass skin แบบน้องวอนยองควรใช้อะไรบ้าง",
+      "description": "มายมาreview3514",
+      "author": "มายมาreview",
+      "likes": 3514,
+      "url": ""
+    },
+    {
+      "topic": "Korean skin",
+      "topic_th": "ผิวเกาหลี",
+      "title": "รีวิวพลีชีพ ทริคหน้าฉ่ำวาว แบบสาวเกาหลี เห็นผลจริงมั้ย?",
+      "description": "SeriousRies3014",
+      "author": "SeriousRies",
+      "likes": 3014,
+      "url": ""
+    },
+    {
+      "topic": "Korea review",
+      "topic_th": "รีวิวเกาหลี",
+      "title": "ไปเกาหลีต้องโหลดแอพอะไรบ้าง 🇰🇷",
+      "description": "guttcha2836",
+      "author": "guttcha",
+      "likes": 2836,
+      "url": ""
+    },
+    {
+      "topic": "Korean skin",
+      "topic_th": "ผิวเกาหลี",
+      "title": "แจกฟิลเตอร์ไอจี ผิวสวยเกาหลี",
+      "description": "Kib.kibbon2730",
+      "author": "Kib.kibbon",
+      "likes": 2730,
+      "url": ""
+    }
+  ]
+}

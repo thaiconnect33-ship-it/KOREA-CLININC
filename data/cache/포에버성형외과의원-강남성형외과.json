@@ -1,0 +1,146 @@
+{
+  "query": "포에버성형외과의원 강남성형외과",
+  "generated_at": "2026-05-29T06:07:31.142Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "강남 포에버성형외과의원 | 강남 피부과 | 피부과 클리닉 | Korean plastic surgery | Beauty clinic | 江南整形外科 | 成形外科",
+        "rating": 4.9,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 1016675,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "[토르 리프팅] 의료진 리뷰_포에버성형외과 강남점 정해진 원장님편",
+            "channel": "토르리프팅",
+            "url": "https://www.youtube.com/watch?v=sSIyGFVr_f4&pp=ygU07Y-s7JeQ67KE7ISx7ZiV7Jm46rO87J2Y7JuQIOqwleuCqOyEse2YleyZuOqzvCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "4.2K"
+          },
+          {
+            "title": "포에버성형외과 강남점 진료내용 소개",
+            "channel": "포에버성형외과강남",
+            "url": "https://www.youtube.com/watch?v=nLr01qEuIsU&pp=ygU07Y-s7JeQ67KE7ISx7ZiV7Jm46rO87J2Y7JuQIOqwleuCqOyEse2YleyZuOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "643"
+          },
+          {
+            "title": "포에버강남점 임형우원장님 인사말",
+            "channel": "포에버성형외과강남",
+            "url": "https://www.youtube.com/watch?v=w2SCOS55ofw&pp=ygU07Y-s7JeQ67KE7ISx7ZiV7Jm46rO87J2Y7JuQIOqwleuCqOyEse2YleyZuOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "479"
+          },
+          {
+            "title": "포에버강남점 임형우원장님 인사말",
+            "channel": "포에버성형외과강남",
+            "url": "https://www.youtube.com/watch?v=yNR9BPh6nrQ&pp=ygU07Y-s7JeQ67KE7ISx7ZiV7Jm46rO87J2Y7JuQIOqwleuCqOyEse2YleyZuOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "186"
+          },
+          {
+            "title": "[#여기는포에버] 💉필러가 이정도였어❓| 🔎필러 시술 전,후 사진을 함께보며 확인하는 \"이것이 필러 노하우다!\" | #이마필러 #턱끝필러 #눈밑필러",
+            "channel": "여기는 포에버",
+            "url": "https://www.youtube.com/watch?v=BsiHiFiYJbU&pp=ygU07Y-s7JeQ67KE7ISx7ZiV7Jm46rO87J2Y7JuQIOqwleuCqOyEse2YleyZuOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "1.1K"
+          },
+          {
+            "title": "포에버성형외과_F&T_ADE_Partner",
+            "channel": "ADE Partner",
+            "url": "https://www.youtube.com/watch?v=HwrAWJEMya0&pp=ygU07Y-s7JeQ67KE7ISx7ZiV7Jm46rO87J2Y7JuQIOqwleuCqOyEse2YleyZuOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "334"
+          },
+          {
+            "title": "[포에버성형외과 강남점] 리얼모델 자원님의 리얼후기! [리얼모델 구자원  편]",
+            "channel": "포에버성형외과강남",
+            "url": "https://www.youtube.com/watch?v=Op-_gweJVbY&pp=ygU07Y-s7JeQ67KE7ISx7ZiV7Jm46rO87J2Y7JuQIOqwleuCqOyEse2YleyZuOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "277"
+          },
+          {
+            "title": "[포에버성형외과 강남점] 리얼모델 미래님의 리얼후기! [리얼모델 박미래 편]",
+            "channel": "포에버성형외과강남",
+            "url": "https://www.youtube.com/watch?v=aEs75TDC5hk&pp=ygU07Y-s7JeQ67KE7ISx7ZiV7Jm46rO87J2Y7JuQIOqwleuCqOyEse2YleyZuOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "272"
+          },
+          {
+            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygU07Y-s7JeQ67KE7ISx7ZiV7Jm46rO87J2Y7JuQIOqwleuCqOyEse2YleyZuOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "1M"
+          },
+          {
+            "title": "BJ동설 포에버강남점 방문!",
+            "channel": "포에버성형외과강남",
+            "url": "https://www.youtube.com/watch?v=_3hx2ix-YTk&pp=ygU07Y-s7JeQ67KE7ISx7ZiV7Jm46rO87J2Y7JuQIOqwleuCqOyEse2YleyZuOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "177"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 150000,
+  "opportunity_cost_krw": 6000000
+}

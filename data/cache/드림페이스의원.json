@@ -1,0 +1,145 @@
+{
+  "query": "드림페이스의원",
+  "generated_at": "2026-05-28T22:40:40.938Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 17,
+      "extra": {
+        "name": "Dream Face Clinic",
+        "rating": 5,
+        "total_reviews": 17,
+        "sample_size": 20,
+        "foreign_language_reviews": 20,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 20
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 4447662,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "유령의사? 대리수술? 성형외과 의사가 직접 말하다! 👨‍⚕ 팩트만 확인하세요!! [신뢰, 전문의, 의료철학]",
+            "channel": "탑페티비",
+            "url": "https://www.youtube.com/watch?v=10PO-leAYxM&pp=ygUt65Oc66a87Y6Y7J207Iqk7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "2.8K views"
+          },
+          {
+            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUt65Oc66a87Y6Y7J207Iqk7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1M views"
+          },
+          {
+            "title": "유명 성형외과의 충격적인 '수술 중 파티' / YTN",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=ZwCGlkx6Mew&pp=ygUt65Oc66a87Y6Y7J207Iqk7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "10K views"
+          },
+          {
+            "title": "\"강남 유명 성형외과서 수술 뒤 눈이 실명됐습니다\" [지금이뉴스] / YTN",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=UyMrX929Q4I&pp=ygUt65Oc66a87Y6Y7J207Iqk7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "576K views"
+          },
+          {
+            "title": "[단독] 강남 성형외과에 '분통'…\"근육 썩고 사경 헤맸다\" / SBS 8뉴스",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=svfX3-lNpIw&pp=ygUt65Oc66a87Y6Y7J207Iqk7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "2.4M views"
+          },
+          {
+            "title": "[리팅성형외과] 미니리프팅의 상위 버전이 있다고?!😲 스마일 리프팅의 모든 것!😊",
+            "channel": "강남 신사 안면거상 리프팅 리팅",
+            "url": "https://www.youtube.com/watch?v=Qq5Zg3DjrBU&pp=ygUt65Oc66a87Y6Y7J207Iqk7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "16K views"
+          },
+          {
+            "title": "[단독] 서울 성형외과서 안면윤곽수술 받은 20대, 이틀 뒤 중태[MBN 종합뉴스]",
+            "channel": "MBN News",
+            "url": "https://www.youtube.com/watch?v=uEmdpajWbns&pp=ygUt65Oc66a87Y6Y7J207Iqk7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "76K views"
+          },
+          {
+            "title": "How to find a good plastic surgeon🧡 How to find a good plastic surgeon and avoid plastic surgery ...",
+            "channel": "베레나verena",
+            "url": "https://www.youtube.com/watch?v=SQzMbIJMBTQ&pp=ygUt65Oc66a87Y6Y7J207Iqk7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "277K views"
+          },
+          {
+            "title": "쌍커풀 수술 '자연유착' 이 궁금하다 ! (feat.친절상담)",
+            "channel": "드레스성형외과의원",
+            "url": "https://www.youtube.com/watch?v=I1Hqwbo1N8o&pp=ygUt65Oc66a87Y6Y7J207Iqk7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "13K views"
+          },
+          {
+            "title": "[윤곽수술] 안면윤곽수술 부작용? l 사각턱수술,턱끝수술,광대축소술 부위별 염증 가능성과 치료법 [디에이성형외과]",
+            "channel": "디에이성형외과 D.A Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=OM-jJiEiLqs&pp=ygUt65Oc66a87Y6Y7J207Iqk7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "16K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 10,
+  "opportunity_cost_thb": 90000,
+  "opportunity_cost_krw": 3600000
+}

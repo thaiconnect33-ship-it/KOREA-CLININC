@@ -1,0 +1,138 @@
+{
+  "query": "퀸즈성형외과의원",
+  "generated_at": "2026-05-29T00:00:55.724Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 85,
+      "extra": {
+        "place_id": "1964599034",
+        "name": "퀸즈성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 84,
+        "blog_review_count": 1,
+        "detail_url": "https://m.place.naver.com/place/1964599034/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "Google Maps 결과 없음",
+        "foreign_language_reviews": 0
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 17224,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "퀸즈파크성형외과 소개",
+            "channel": "퀸즈파크성형외과",
+            "url": "https://www.youtube.com/watch?v=sHLrzDcAz_w&pp=ygUq7YC47KaI7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "308 views"
+          },
+          {
+            "title": "퀸즈파크 성형외과 원장단 스케치영상",
+            "channel": "퀸즈파크성형외과",
+            "url": "https://www.youtube.com/watch?v=3F0fbBOXXfM&pp=ygUq7YC47KaI7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "881 views"
+          },
+          {
+            "title": "퀸즈에서 알려드리는 수술전 주의사항",
+            "channel": "퀸즈파크성형외과",
+            "url": "https://www.youtube.com/watch?v=4R8O2cvhFeY&pp=ygUq7YC47KaI7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "71 views"
+          },
+          {
+            "title": "퀸즈파크성형외과 뷰티모델 1기 신현아 (트러블 케어 관리)",
+            "channel": "퀸즈파크성형외과",
+            "url": "https://www.youtube.com/watch?v=A9pPyR0qAac&pp=ygUq7YC47KaI7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "261 views"
+          },
+          {
+            "title": "[양정학 원장] MBC QUEEN 매거진 퀸 출연 영상",
+            "channel": "제림성형외과",
+            "url": "https://www.youtube.com/watch?v=3cW7TfCDwVs&pp=ygUq7YC47KaI7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "872 views"
+          },
+          {
+            "title": "리쥬란+물광주사 시술편 (피부톤개선+모공축소+주름개선)",
+            "channel": "퀸즈파크성형외과",
+            "url": "https://www.youtube.com/watch?v=K5KgsmMpQJI&pp=ygUq7YC47KaI7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "2.5K views"
+          },
+          {
+            "title": "[시술편] 진피재생",
+            "channel": "퀸즈파크성형외과",
+            "url": "https://www.youtube.com/watch?v=PAon1DPFEXM&pp=ygUq7YC47KaI7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.3K views"
+          },
+          {
+            "title": "넥시스 시술편 (보습+미백효과+주름개선)",
+            "channel": "퀸즈파크성형외과",
+            "url": "https://www.youtube.com/watch?v=fgaTTn25Z3Q&pp=ygUq7YC47KaI7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "503 views"
+          },
+          {
+            "title": "퀸즈파크의 뷰티1기 뷰티모델 신현아 3차 영상( 블랙필 관리 )",
+            "channel": "퀸즈파크성형외과",
+            "url": "https://www.youtube.com/watch?v=ATQ4AbD0z6U&pp=ygUq7YC47KaI7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "528 views"
+          },
+          {
+            "title": "실리프팅 시술후 주의사항",
+            "channel": "퀸즈파크성형외과",
+            "url": "https://www.youtube.com/watch?v=8avEz3yuCjg&pp=ygUq7YC47KaI7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "388 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

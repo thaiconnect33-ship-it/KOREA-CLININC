@@ -1,0 +1,145 @@
+{
+  "query": "아이루미성형외과의원",
+  "generated_at": "2026-05-29T00:08:30.803Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 5,
+      "extra": {
+        "name": "ilumi plastic surgery",
+        "rating": 5,
+        "total_reviews": 5,
+        "sample_size": 8,
+        "foreign_language_reviews": 8,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 8
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 2983570,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "성형하면 대박 날 사람 VS 절대 하면 안되는 사람",
+            "channel": "드로우앤드류",
+            "url": "https://www.youtube.com/watch?v=5omPrNSaLIQ&pp=ygU27JWE7J2066Oo66-47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "54K views"
+          },
+          {
+            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygU27JWE7J2066Oo66-47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1M views"
+          },
+          {
+            "title": "성형외과 의사가 알려주는 진짜 내 얼굴| 한번 따라해보세요",
+            "channel": "잼뱅TV",
+            "url": "https://www.youtube.com/watch?v=Z_O9UjtvXPc&pp=ygU27JWE7J2066Oo66-47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "66K views"
+          },
+          {
+            "title": "성형상담예약의 장점",
+            "channel": "윤앤정성형외과",
+            "url": "https://www.youtube.com/watch?v=rjv3WJsSVFk&pp=ygU27JWE7J2066Oo66-47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "198 views"
+          },
+          {
+            "title": "성형외과 의사는 얼굴만 보고 성형을 어디 했는지 알수있을까?",
+            "channel": "진용진",
+            "url": "https://www.youtube.com/watch?v=5mg_zWFTf8A&pp=ygU27JWE7J2066Oo66-47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.8M views"
+          },
+          {
+            "title": "A former plastic surgery nurse exposes the shocking reality of ghost surgery (shadow doctors) and...",
+            "channel": "쀼TV",
+            "url": "https://www.youtube.com/watch?v=Lqr-NnGotCU&t=51s&pp=ygU27JWE7J2066Oo66-47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "28K views"
+          },
+          {
+            "title": "청춘성형외과 소개",
+            "channel": "청춘성형외과 ccclinic",
+            "url": "https://www.youtube.com/watch?v=rZahx8OK_lU&pp=ygU27JWE7J2066Oo66-47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "3.8K views"
+          },
+          {
+            "title": "[태성형외과] 공개클리닉 프로필성형 부산 태성형외과 김기태원장 20081208",
+            "channel": "kitae kim",
+            "url": "https://www.youtube.com/watch?v=0pPRnS3LvLA&pp=ygU27JWE7J2066Oo66-47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "139 views"
+          },
+          {
+            "title": "쌍수? 눈매교정? 짝눈? 속쌍? 눈성형 고민 중이라면 꼭 보세요! | 성형외과 전문의 Q&A",
+            "channel": "슬기로운 병원생활",
+            "url": "https://www.youtube.com/watch?v=8I52D817Fy4&pp=ygU27JWE7J2066Oo66-47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "624 views"
+          },
+          {
+            "title": "의사가 직접 목격한 최악의 성형 부작용 썰.zip (ft. 뒤밑트임, 필러, 지방이식)",
+            "channel": "앤드성형외과의원 [ 눈서코TV ]",
+            "url": "https://www.youtube.com/watch?v=y5eNjBkOTi0&t=20s&pp=ygU27JWE7J2066Oo66-47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "1.4K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 4,
+  "opportunity_cost_thb": 96000,
+  "opportunity_cost_krw": 3840000
+}

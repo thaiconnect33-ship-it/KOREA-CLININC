@@ -1,0 +1,93 @@
+{
+  "query": "홍승현성형외과의원",
+  "generated_at": "2026-05-28T23:32:28.550Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 40,
+      "extra": {
+        "place_id": "19534687",
+        "name": "홍승현성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 37,
+        "blog_review_count": 3,
+        "detail_url": "https://m.place.naver.com/place/19534687/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 163,
+      "extra": {
+        "name": "프레쉬 홍닥터의원 (Fresh Dr.Hong Clinic)",
+        "rating": 4.9,
+        "total_reviews": 163,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 1,
+      "extra": {
+        "total_views": 42000,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 1,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 1,
+        "top_videos": [
+          {
+            "title": "이제는 더 이상 지방추출주사를 보틀로 하지 않는 이유",
+            "channel": "지힐링TV",
+            "url": "https://www.youtube.com/watch?v=9YMYJOAZ03k&pp=ygUt7ZmN7Iq57ZiE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "42K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

@@ -1,0 +1,148 @@
+{
+  "query": "Unique Plastic Surgery",
+  "generated_at": "2026-05-29T05:56:00.168Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 392,
+      "extra": {
+        "place_id": "32769344",
+        "name": "유니크성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 166,
+        "blog_review_count": 226,
+        "detail_url": "https://m.place.naver.com/place/32769344/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 53,
+      "extra": {
+        "name": "유니크성형외과",
+        "rating": 4.6,
+        "total_reviews": 53,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 19327367,
+        "foreign_video_count": 19,
+        "lang_breakdown": {
+          "korean": 1,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 19
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "EXTREME Asian Plastic Surgery TikToks! WHY???",
+            "channel": "Doctor Youn",
+            "url": "https://www.youtube.com/watch?v=wUXnC-CuMP0&pp=ygUcVW5pcXVlIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "1.9M views"
+          },
+          {
+            "title": "Explore Korea: Cosmetic Surgery",
+            "channel": "WTHR",
+            "url": "https://www.youtube.com/watch?v=oiOSfQRuwaY&pp=ygUcVW5pcXVlIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "2.9K views"
+          },
+          {
+            "title": "A Step-by-Step Guideline to Visit Korea for Plastic Surgery",
+            "channel": "VIP Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=bjGVbSLv54M&pp=ygUcVW5pcXVlIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "15K views"
+          },
+          {
+            "title": "How to be Successful in South Korea: Plastic Surgery to Impress your Boss? | Full Documentary",
+            "channel": "Java Discover | Free Global Documentaries & Clips",
+            "url": "https://www.youtube.com/watch?v=fRoWlhbtR_0&pp=ygUcVW5pcXVlIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "236K views"
+          },
+          {
+            "title": "Do all Koreans Get Plastic Surgery? | Street Interview",
+            "channel": "Asian Boss",
+            "url": "https://www.youtube.com/watch?v=xH05IWxggfM&t=125s&pp=ygUcVW5pcXVlIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "793K views"
+          },
+          {
+            "title": "[SUB] Inside a Korean Plastic Surgery Clinic",
+            "channel": "Woori Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=bK6X4FAnyv8&pp=ygUcVW5pcXVlIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "31K views"
+          },
+          {
+            "title": "Becoming an IDOL in Korea...💕  | Kylie's plastic surgery journey at Braun! (Part 1)",
+            "channel": "BRAUN Global Aesthetic",
+            "url": "https://www.youtube.com/watch?v=KPBDwyLMP34&pp=ygUcVW5pcXVlIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "129K views"
+          },
+          {
+            "title": "A Day in Life of Top Korean Plastic Surgeon In Gangnam",
+            "channel": "Asian Boss",
+            "url": "https://www.youtube.com/watch?v=jRfw0kMlsKI&pp=ygUcVW5pcXVlIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "4.3M views"
+          },
+          {
+            "title": "APS Korea 2025 Highlights: What Korea Does Better in Plastic Surgery?! | Dr. Roy Kim",
+            "channel": "Dr Roy Kim",
+            "url": "https://www.youtube.com/watch?v=GyVkgtj5pYI&pp=ygUcVW5pcXVlIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "12K views"
+          },
+          {
+            "title": "The Crazy World of Korea's Plastic Surgery Industry",
+            "channel": "Mina Le",
+            "url": "https://www.youtube.com/watch?v=BsBSgtkmjak&pp=ygUcVW5pcXVlIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "1.6M views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 15,
+  "opportunity_cost_thb": 90500,
+  "opportunity_cost_krw": 3620000
+}

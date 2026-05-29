@@ -1,0 +1,147 @@
+{
+  "query": "청담포워드피부과의원",
+  "generated_at": "2026-05-28T22:25:42.988Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 264,
+      "extra": {
+        "place_id": "1964566326",
+        "name": "청담포워드피부과의원 : 네이버\u001c",
+        "visitor_review_count": 244,
+        "blog_review_count": 20,
+        "detail_url": "https://m.place.naver.com/place/1964566326/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 126,
+      "extra": {
+        "name": "Sponsored",
+        "rating": 4.9,
+        "total_reviews": 126,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 12,
+      "extra": {
+        "total_views": 569008,
+        "foreign_video_count": 1,
+        "lang_breakdown": {
+          "korean": 11,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 1
+        },
+        "sample_size": 12,
+        "top_videos": [
+          {
+            "title": "The unexpected reason why I was the only one who didn't see results even after visiting the derma...",
+            "channel": "청담셀팅의원",
+            "url": "https://www.youtube.com/watch?v=gTNXwuZgOvc&pp=ygUt7LKt64u07Y-s7JuM65Oc7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "222 views"
+          },
+          {
+            "title": "\"I prefer a routine daily life to a glamorous one.\" The busy daily life of a young dermatologist ...",
+            "channel": "CBS 경제연구실",
+            "url": "https://www.youtube.com/watch?v=7uuBiEkJHGQ&pp=ygUt7LKt64u07Y-s7JuM65Oc7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "12K views"
+          },
+          {
+            "title": "3 Ways to Whiten Your Skin (This Is the End) \"Anyone Can Do It at Home!\" #SkinCare | Yangdaedi - ...",
+            "channel": "양동준원장 원셀의원(구 청담유성형외과)",
+            "url": "https://www.youtube.com/watch?v=VExLTBqmeLk&pp=ygUt7LKt64u07Y-s7JuM65Oc7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "252K views"
+          },
+          {
+            "title": "[ENG SUB] A Deep Dive into Moisturizer Ingredients!! (feat. Dermatologist) How to moisturize faci...",
+            "channel": "Dr.Bae의 피부이야기 배Skin",
+            "url": "https://www.youtube.com/watch?v=ABI8vIJ5wW4&pp=ygUt7LKt64u07Y-s7JuM65Oc7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1K views"
+          },
+          {
+            "title": "Never undergo ineffective laser treatments! HIFU ultrasound and radiofrequency in one! From elast...",
+            "channel": "뷰티디렉터 쥴리쿠",
+            "url": "https://www.youtube.com/watch?v=CSaDSYdvvNw&pp=ygUt7LKt64u07Y-s7JuM65Oc7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "15K views"
+          },
+          {
+            "title": "(SUB) Final Edition of Face Shape/Skin Care Q&A 💥 | I Submitted My MBA Application!!!! 🎓",
+            "channel": "일단이나연 NAYEON",
+            "url": "https://www.youtube.com/watch?v=dzq41DdAdvU&pp=ygUt7LKt64u07Y-s7JuM65Oc7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "277K views"
+          },
+          {
+            "title": "김솔 원장이 목 빠지게 기다렸던 억!🤑 소리나는 레이저 장비 엑셀브이를 소개합니다🙌",
+            "channel": "닥터솔루션",
+            "url": "https://www.youtube.com/watch?v=x4hAI0LlMY0&pp=ygUt7LKt64u07Y-s7JuM65Oc7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "5.7K views"
+          },
+          {
+            "title": "하이코 콧대가 넓어져 아바타코로 변한다? (HIKO has a broad nose and turns into an avataco?)",
+            "channel": "Dr Kwon (Dermaster Official)",
+            "url": "https://www.youtube.com/watch?v=SUksFy6X7sE&pp=ygUt7LKt64u07Y-s7JuM65Oc7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "341 views"
+          },
+          {
+            "title": "다이어트약 고민이라면 꼭 보기! 트레이너가 밝히는 체중 감량제 효과와 부작용~ 엠제이티비 민정쌤의 초청 특강#2 #살과의 전쟁에서 이기는 방법｜MJTV(엠제이티비) EP. 33",
+            "channel": "김민정 MJTV (RDH) 치과위생사의 임상 이야기",
+            "url": "https://www.youtube.com/watch?v=pgI7YwqSK5g&pp=ygUt7LKt64u07Y-s7JuM65Oc7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "802 views"
+          },
+          {
+            "title": "DSmedi | MEDICA 2022 | Highlights  #FASCELLA #VESTA",
+            "channel": "DSmedi, Inc.",
+            "url": "https://www.youtube.com/watch?v=ctWFLJVncHU&pp=ygUt7LKt64u07Y-s7JuM65Oc7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "543 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 1,
+  "opportunity_cost_thb": 139500,
+  "opportunity_cost_krw": 5580000
+}

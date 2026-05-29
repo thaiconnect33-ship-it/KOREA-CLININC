@@ -1,0 +1,147 @@
+{
+  "query": "더미스성형외과의원",
+  "generated_at": "2026-05-28T23:52:44.468Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 642,
+      "extra": {
+        "place_id": "35346507",
+        "name": "더미스성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 40,
+        "blog_review_count": 602,
+        "detail_url": "https://m.place.naver.com/place/35346507/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 16,
+      "extra": {
+        "name": "Results",
+        "rating": 4.3,
+        "total_reviews": 16,
+        "sample_size": 6,
+        "foreign_language_reviews": 6,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 6
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 31351,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "〔더성형외과 가슴성형〕 자연스러운 볼륨! 물방울 가슴성형은 모두 같은 보형물의 형태로 만들어지나요?",
+            "channel": "더성형외과",
+            "url": "https://www.youtube.com/watch?v=uIHTjzyEnCY&pp=ygUt642U66-47Iqk7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.3K"
+          },
+          {
+            "title": "『더성형외과 가슴성형』 물방울 보형물은 누구에게 다 사용 가능한 보형물인가요? 그리고 물방울 보형물의 크기와 디자인은 모두 같나요?",
+            "channel": "더성형외과",
+            "url": "https://www.youtube.com/watch?v=LavbNHz4WwE&pp=ygUt642U66-47Iqk7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "692"
+          },
+          {
+            "title": "[JPN/CHI sub] 여름에 성형하면 염증 생긴다?💦 어느 계절이 수술하기 좋을까?",
+            "channel": "Dr.류석태 프라미스TV",
+            "url": "https://www.youtube.com/watch?v=X3ESYOibyGQ&pp=ygUt642U66-47Iqk7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.3K"
+          },
+          {
+            "title": "미스코리아 하현정과 함께하는 성형상식-쌍꺼풀 수술",
+            "channel": "the yujin",
+            "url": "https://www.youtube.com/watch?v=q6Bguj6g_cY&pp=ygUt642U66-47Iqk7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "690"
+          },
+          {
+            "title": "그냥 뒤밑트임이 아닙니다! 더 확실하고 견고한 위버스성형외과만의 코너트임!",
+            "channel": "위버스성형외과 Üverse Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=HujAifwGGTs&pp=ygUt642U66-47Iqk7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "995"
+          },
+          {
+            "title": "미스코리아 하현정과 함께하는 성형상식 5편 '가슴보형물이 궁금해?'",
+            "channel": "the yujin",
+            "url": "https://www.youtube.com/watch?v=Z3M3aX65WIc&pp=ygUt642U66-47Iqk7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "3.6K"
+          },
+          {
+            "title": "「가슴성형_더성형외과」회복기간이 빠른 가슴성형이 있다【주말에 수술하고 월요일에 출근】",
+            "channel": "Ock Jae Jin 옥재진 원장 THE Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=SlDeZ4xHAfI&pp=ygUt642U66-47Iqk7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "1.6K"
+          },
+          {
+            "title": "더라인성형외과 지방흡입수술 20년 경력! 김윤근 대표원장 소개영상👍",
+            "channel": "줄기세포 성형ㅣ더라인-Theline Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=uTLbpFgaIBw&pp=ygUt642U66-47Iqk7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "217"
+          },
+          {
+            "title": "안녕하세요! 미드림성형외과입니다!",
+            "channel": "섬세한 백박사",
+            "url": "https://www.youtube.com/watch?v=zLhkWBjQBYU&pp=ygUt642U66-47Iqk7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.8K"
+          },
+          {
+            "title": "[JPN/CHI sub] 성형외과 상담 전 필수시청💛 상담 꿀팁 다 알려드릴게요! | 상담과정 | 워너비 사진 가져가기 | 남자성형상담",
+            "channel": "Dr.류석태 프라미스TV",
+            "url": "https://www.youtube.com/watch?v=VXPPhtwzpIw&t=122s&pp=ygUt642U66-47Iqk7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "2K"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 3,
+  "opportunity_cost_thb": 97000,
+  "opportunity_cost_krw": 3880000
+}

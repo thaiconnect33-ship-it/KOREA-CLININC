@@ -1,0 +1,148 @@
+{
+  "query": "리츠피부과",
+  "generated_at": "2026-05-29T05:51:25.619Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 673,
+      "extra": {
+        "place_id": "21818160",
+        "name": "리츠피부과의원 : 네이버\u001c",
+        "visitor_review_count": 594,
+        "blog_review_count": 79,
+        "detail_url": "https://m.place.naver.com/place/21818160/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Results",
+        "rating": 5,
+        "total_reviews": 0,
+        "sample_size": 7,
+        "foreign_language_reviews": 7,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 7
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 8776565,
+        "foreign_video_count": 20,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 20
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "TOP 5 Cosmetic Procedures in Korea: What’s Worth Trying?",
+            "channel": "meamo",
+            "url": "https://www.youtube.com/watch?v=2iIg6VOfVTU&pp=ygUWTGl0cyBEZXJtYXRvbG9neSBLb3JlYQ%3D%3D",
+            "view_text": "16K views"
+          },
+          {
+            "title": "Everyone Said My Skin Changed After This Trip… | Lamiche Korea Review",
+            "channel": "yours truly, Yuki",
+            "url": "https://www.youtube.com/watch?v=vOYWzNADU_k&pp=ygUWTGl0cyBEZXJtYXRvbG9neSBLb3JlYQ%3D%3D",
+            "view_text": "1.5K views"
+          },
+          {
+            "title": "Top Korean Skincare Ingredients You Need to Know | Dermatologist Dr. Jenny Liu",
+            "channel": "Dr. Jenny Liu",
+            "url": "https://www.youtube.com/watch?v=gWH_v30CN6c&pp=ygUWTGl0cyBEZXJtYXRvbG9neSBLb3JlYQ%3D%3D",
+            "view_text": "12K views"
+          },
+          {
+            "title": "Can You Really Get Glass Skin? 👀✨ | Dermatology Treatments Explained (Korea)",
+            "channel": "THEME DERMATOLOGY",
+            "url": "https://www.youtube.com/watch?v=zW-ww35uy9c&pp=ygUWTGl0cyBEZXJtYXRvbG9neSBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "39 views"
+          },
+          {
+            "title": "*BEST* Korean skin treatments in 2025!! (ft. rejuran, pico, fat dissolving treatments, etc!)",
+            "channel": "Jooshica",
+            "url": "https://www.youtube.com/watch?v=ISExL3UPZu0&pp=ygUWTGl0cyBEZXJtYXRvbG9neSBLb3JlYQ%3D%3D",
+            "view_text": "48K views"
+          },
+          {
+            "title": "Everyone Uses THESE in Korea👌 What Koreans ACTUALLY buy!",
+            "channel": "Beauty Within",
+            "url": "https://www.youtube.com/watch?v=5WbOn6ht3JU&pp=ygUWTGl0cyBEZXJtYXRvbG9neSBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "491K views"
+          },
+          {
+            "title": "AZELAIC ACID - IS IT WORTH THE HYPE? | Dermatologists Explain",
+            "channel": "Doctorly",
+            "url": "https://www.youtube.com/watch?v=fjIGAFmBgRE&pp=ygUWTGl0cyBEZXJtYXRvbG9neSBLb3JlYQ%3D%3D",
+            "view_text": "686K views"
+          },
+          {
+            "title": "I spent $$$ in Korea so you don't have to 🇰🇷 the skin treatments that were worth it",
+            "channel": "Christine Le",
+            "url": "https://www.youtube.com/watch?v=5DjXp4kAhEY&pp=ygUWTGl0cyBEZXJtYXRvbG9neSBLb3JlYQ%3D%3D",
+            "view_text": "49K views"
+          },
+          {
+            "title": "The Oracle Diaries  (Dermatology in Korea)",
+            "channel": "Arianna Hall",
+            "url": "https://www.youtube.com/watch?v=D9Smsg75O9o&pp=ygUWTGl0cyBEZXJtYXRvbG9neSBLb3JlYQ%3D%3D",
+            "view_text": "26 views"
+          },
+          {
+            "title": "Dermatologist Reviews the Best Korean & Japanese Sunscreens 🌞 | Dr. Aleksandra Brown",
+            "channel": "Dr. Aleksandra Brown",
+            "url": "https://www.youtube.com/watch?v=fn6lpWpKYtM&pp=ygUWTGl0cyBEZXJtYXRvbG9neSBLb3JlYQ%3D%3D",
+            "view_text": "11K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 20,
+  "opportunity_cost_thb": 86500,
+  "opportunity_cost_krw": 3460000
+}

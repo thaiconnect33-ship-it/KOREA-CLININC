@@ -1,0 +1,97 @@
+{
+  "query": "닥터이레이저피부과의원",
+  "generated_at": "2026-05-28T22:20:05.726Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Dr. E-Laser Dermatology Clinic (닥터이레이저 피부과)",
+        "rating": 4.8,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 2,
+      "extra": {
+        "total_views": 240075,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 2,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 2,
+        "top_videos": [
+          {
+            "title": "브라질리언레이저면도 해주는 피부과 어디에 있을까요?",
+            "channel": "유스타일나인, 레이저제모",
+            "url": "https://www.youtube.com/watch?v=enn5yfIn60I&pp=ygU264ul7YSw7J2066CI7J207KCA7ZS867aA6rO87J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "75 views"
+          },
+          {
+            "title": "\"You Look 10 Years Younger!\" | A Doctor Reveals Her TOP 2 Anti-Aging Procedures 🤫✨",
+            "channel": "동네 의사 이상욱",
+            "url": "https://www.youtube.com/watch?v=h3xfhPjqHrQ&pp=ygU264ul7YSw7J2066CI7J207KCA7ZS867aA6rO87J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "240K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

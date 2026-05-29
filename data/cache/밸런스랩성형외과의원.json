@@ -1,0 +1,148 @@
+{
+  "query": "밸런스랩성형외과의원",
+  "generated_at": "2026-05-29T06:00:35.403Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 3762,
+      "extra": {
+        "place_id": "1094218524",
+        "name": "밸런스랩성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 767,
+        "blog_review_count": 2995,
+        "detail_url": "https://m.place.naver.com/place/1094218524/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Balance Lab Plastic Surgery Clinic",
+        "rating": 4.8,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 8541836,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "당신의 리프팅 시술이 망하는, 실패하는 이유 ? (feat. 부작용과 해결법)  모든 것을 알려드립니다!!",
+            "channel": "밸런스랩 성형외과의원",
+            "url": "https://www.youtube.com/watch?v=rn-_nLroYcM&pp=ygUw67C465-w7Iqk656p7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "3.2K views"
+          },
+          {
+            "title": "흉터 때문에 거상 수술 고민이라면? 필수시청 흉터 최소화 하는 노하우 알려드립니다!",
+            "channel": "밸런스랩 성형외과의원",
+            "url": "https://www.youtube.com/watch?v=jqMYbJLyY3A&pp=ygUw67C465-w7Iqk656p7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "4.7K views"
+          },
+          {
+            "title": "지방분해주사 성형외과에서 맞아야하는 이유? (ft. 성형외과 의사들만 아는 비밀)",
+            "channel": "밸런스랩 성형외과의원",
+            "url": "https://www.youtube.com/watch?v=psEYiI6n3Ls&pp=ygUw67C465-w7Iqk656p7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "52K views"
+          },
+          {
+            "title": "리프팅 남들보다 빨리 처지는 이유? 전문의들이 알려드립니다.",
+            "channel": "밸런스랩 성형외과의원",
+            "url": "https://www.youtube.com/watch?v=5V0A9jXrY6M&pp=ygUw67C465-w7Iqk656p7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "31K views"
+          },
+          {
+            "title": "💉 지방분해주사? 지방추출주사?  차이점과 효과적인 시술 부위 지방추출주사의 모든 것 알려드립니다.😃",
+            "channel": "밸런스랩 성형외과의원",
+            "url": "https://www.youtube.com/watch?v=Y6rrNyULJhM&pp=ygUw67C465-w7Iqk656p7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "14K views"
+          },
+          {
+            "title": "폭식증 NO! 조금만 먹어도 배가 고프다?? 고도비만 및 반복된 요요현상에 지친신 분들 필수시청!!  (ft. 위풍선 다이어트)",
+            "channel": "밸런스랩 성형외과의원",
+            "url": "https://www.youtube.com/watch?v=MukD60jobXo&pp=ygUw67C465-w7Iqk656p7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "711 views"
+          },
+          {
+            "title": "지방, 뱃살 뺴는데 도움이 되는 핵심성분은 따로 있다? (다이어트 수액)",
+            "channel": "밸런스랩 성형외과의원",
+            "url": "https://www.youtube.com/watch?v=KrEpEfoD8to&pp=ygUw67C465-w7Iqk656p7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "5.9K views"
+          },
+          {
+            "title": "성형외과 전문의가 하는 #밸런스게임 l #실리프팅 l 추천하는 마취 방식은?",
+            "channel": "글로비성형외과의원",
+            "url": "https://www.youtube.com/watch?v=PbqEpyTs4X0&pp=ygUw67C465-w7Iqk656p7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "869 views"
+          },
+          {
+            "title": "다이어트 주사 시술 전 꼭 시청하세요!! 나에게 맞는 다이어트 주사 알려드립니다!",
+            "channel": "밸런스랩 성형외과의원",
+            "url": "https://www.youtube.com/watch?v=pgXnfwq2AXA&pp=ygUw67C465-w7Iqk656p7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.3K views"
+          },
+          {
+            "title": "실리프팅하면 다 이렇게 되는걸까ㅣ이지혜 실리프팅 분석",
+            "channel": "아름닥터tv_자연스러운게 예쁜거다_15년차",
+            "url": "https://www.youtube.com/watch?v=N7BMfluL_Yg&pp=ygUw67C465-w7Iqk656p7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "103K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

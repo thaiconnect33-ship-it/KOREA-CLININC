@@ -1,0 +1,138 @@
+{
+  "query": "청담잇츠미의원",
+  "generated_at": "2026-05-28T22:36:31.081Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 4046,
+      "extra": {
+        "place_id": "2027390075",
+        "name": "청담잇츠미의원 : 네이버\u001c",
+        "visitor_review_count": 428,
+        "blog_review_count": 3618,
+        "detail_url": "https://m.place.naver.com/place/2027390075/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "Google Maps 결과 없음",
+        "foreign_language_reviews": 0
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 737094,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "경~🎉잇츠미 불당점 유튜브 개설🎉~축 / 100만 유튜버 가.보.자.고🔥🔥🔥[천안/아산] 진료과목 피부과 성형외과 #진료과목피부과#진료과목성형외과",
+            "channel": "탱탱정보통",
+            "url": "https://www.youtube.com/watch?v=2yz9dLVLdjk&pp=ygUk7LKt64u07J6H7Lig66-47J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "2.8K views"
+          },
+          {
+            "title": "🥳ㅣ동탄 잇츠미의원ㅣ 첫 유튜브 개설! 😮 이지환 원장이 말하는 우리병원! 잇츠미의원 어떤병원일까?",
+            "channel": "잇츠미의원동탄",
+            "url": "https://www.youtube.com/watch?v=QG_LL5I2mOM&pp=ygUk7LKt64u07J6H7Lig66-47J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "716 views"
+          },
+          {
+            "title": "ㅣ동탄 잇츠미의원ㅣ🏃🏻열심히 운동해도 안빠지는 살은?😠 잇츠미 #지방분해주사 시술로 해결!😮",
+            "channel": "잇츠미의원동탄",
+            "url": "https://www.youtube.com/watch?v=9XjDvFipYU0&pp=ygUk7LKt64u07J6H7Lig66-47J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "742 views"
+          },
+          {
+            "title": "시술 브이로그 | 얼굴 곳곳 부족한 볼륨 충전💚 '풀페이스 필러'로 동안된 후기!",
+            "channel": "잇츠미의원_official",
+            "url": "https://www.youtube.com/watch?v=sMx-ufV9_rk&pp=ygUk7LKt64u07J6H7Lig66-47J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "4.9K views"
+          },
+          {
+            "title": "\"강남 유명 성형외과서 수술 뒤 눈이 실명됐습니다\" [지금이뉴스] / YTN",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=UyMrX929Q4I&pp=ygUk7LKt64u07J6H7Lig66-47J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "576K views"
+          },
+          {
+            "title": "골드ptt",
+            "channel": "잇츠미의원안산",
+            "url": "https://www.youtube.com/watch?v=CckIgyla4pE&pp=ygUk7LKt64u07J6H7Lig66-47J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "92 views"
+          },
+          {
+            "title": "도망쳐..지금이야!! 성형외과 블랙리스트 이렇게 거르세요",
+            "channel": "지유미 JIYUMEE",
+            "url": "https://www.youtube.com/watch?v=VK1hIW0QP-g&pp=ygUk7LKt64u07J6H7Lig66-47J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "126K views"
+          },
+          {
+            "title": "아직도 울쎄라, 써마지만 하세요? 청담 피부과에서는 '이것'을 합니다",
+            "channel": "본질남 - 젊음의 본질을 알려주는 남자",
+            "url": "https://www.youtube.com/watch?v=mbO1FVKSBgw&pp=ygUk7LKt64u07J6H7Lig66-47J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "7K views"
+          },
+          {
+            "title": "2022년 엘러간 학회! 김민주 원장님 참석 소식",
+            "channel": "V&MJ피부과성형외과",
+            "url": "https://www.youtube.com/watch?v=JMOWDhdANxk&pp=ygUk7LKt64u07J6H7Lig66-47J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "549 views"
+          },
+          {
+            "title": "청담힐의원 다리가 이뻐지는 [ 하이힐 주사 ]",
+            "channel": "메디캔",
+            "url": "https://www.youtube.com/watch?v=5KP4Axi5agE&pp=ygUk7LKt64u07J6H7Lig66-47J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1.1K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 140000,
+  "opportunity_cost_krw": 5600000
+}

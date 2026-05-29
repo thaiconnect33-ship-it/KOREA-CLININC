@@ -1,0 +1,147 @@
+{
+  "query": "이선우성형외과의원",
+  "generated_at": "2026-05-28T22:59:57.333Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 12,
+      "extra": {
+        "place_id": "13152454",
+        "name": "이선우성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 9,
+        "blog_review_count": 3,
+        "detail_url": "https://m.place.naver.com/place/13152454/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 2,
+      "extra": {
+        "name": "이선우성형외과",
+        "rating": 4.5,
+        "total_reviews": 2,
+        "sample_size": 2,
+        "foreign_language_reviews": 2,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 2
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 18,
+      "extra": {
+        "total_views": 2405102,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 18,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 18,
+        "top_videos": [
+          {
+            "title": "(vlog) Giving a lecture on lip fillers at a conference",
+            "channel": "우선이선우",
+            "url": "https://www.youtube.com/watch?v=YWv6ppeJRGY&pp=ygUt7J207ISg7Jqw7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.9K views"
+          },
+          {
+            "title": "Just changing your forehead will make you three times prettier. l Types that will hit the jackpot...",
+            "channel": "우선이선우",
+            "url": "https://www.youtube.com/watch?v=B3rdyD7tTq4&pp=ygUt7J207ISg7Jqw7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "60K views"
+          },
+          {
+            "title": "Peanut-shaped face? Don't get fillers! We'll show you how to get a prettier face shape without fi...",
+            "channel": "우선이선우",
+            "url": "https://www.youtube.com/watch?v=f3dElHX8n68&pp=ygUt7J207ISg7Jqw7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "51K views"
+          },
+          {
+            "title": "처진 얼굴 올려주는 실리프팅, 하지말아야 하는 이유 8가지",
+            "channel": "아름닥터tv_자연스러운게 예쁜거다_15년차",
+            "url": "https://www.youtube.com/watch?v=uBFkSccItuU&pp=ygUt7J207ISg7Jqw7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "175K views"
+          },
+          {
+            "title": "카마마 기업홍보영상 \"드림성형외과\"",
+            "channel": "이선우",
+            "url": "https://www.youtube.com/watch?v=gXS7wlzO71o&pp=ygUt7J207ISg7Jqw7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "338 views"
+          },
+          {
+            "title": "I got lip fillers again… | 2026 Trendy Lips | Lip Filler Trends",
+            "channel": "우선이선우",
+            "url": "https://www.youtube.com/watch?v=8r53-gh4jyQ&pp=ygUt7J207ISg7Jqw7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "9.7K views"
+          },
+          {
+            "title": "The Completely Different Forehead Filler Trends of 2025🔥🔥🔥",
+            "channel": "의사 이유주",
+            "url": "https://www.youtube.com/watch?v=ra1vvTDTUmU&pp=ygUt7J207ISg7Jqw7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "110K views"
+          },
+          {
+            "title": "99%of people don't know this when getting lip fillers|Facts you must know before getting lip fillers",
+            "channel": "친절한 송이씨",
+            "url": "https://www.youtube.com/watch?v=STmZUHuo_Hs&pp=ygUt7J207ISg7Jqw7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "283K views"
+          },
+          {
+            "title": "자칭 성형 전문가 45세 이지혜 실리프팅 시술 최초공개(내돈내산, 찐후기)",
+            "channel": "밉지않은 관종언니",
+            "url": "https://www.youtube.com/watch?v=YBZl0vBx_AA&pp=ygUt7J207ISg7Jqw7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.2M views"
+          },
+          {
+            "title": "“비싼 울쎄라, 써마지 받아도 얼굴 다시 처집니다” 요즘 연예인들이 받는 가성비 시술을 20년차 피부과 전문의가 알려드립니다.",
+            "channel": "피부는 성현철",
+            "url": "https://www.youtube.com/watch?v=P-ooK3XIcKM&pp=ygUt7J207ISg7Jqw7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "344K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 1,
+  "opportunity_cost_thb": 99000,
+  "opportunity_cost_krw": 3960000
+}

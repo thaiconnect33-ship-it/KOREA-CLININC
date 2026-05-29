@@ -1,0 +1,7 @@
+{
+  "_README": "수동 시드 - 사용자가 RED 앱에서 발견한 인기 포스트 URL 을 여기에 추가하면 xhs_fetch.ts 가 자동으로 fetch + parse.",
+  "_example_format": "한 줄당 'https://www.xiaohongshu.com/explore/<id>' 형식의 url 객체",
+  "seeds": [
+    { "url": "", "note": "예: Banobagi 코성형 후기" }
+  ]
+}

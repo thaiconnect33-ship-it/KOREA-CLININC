@@ -1,0 +1,145 @@
+{
+  "query": "엠레드의원 청담",
+  "generated_at": "2026-05-28T22:19:49.629Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Results",
+        "rating": 4.9,
+        "total_reviews": 0,
+        "sample_size": 9,
+        "foreign_language_reviews": 9,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 9
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 19,
+      "extra": {
+        "total_views": 7060100,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 19,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 19,
+        "top_videos": [
+          {
+            "title": "낮에는 피부보고 밤에는 근육보는 청담동 매버릭 의사",
+            "channel": "엠레드 클리닉 AMRED CLINIC",
+            "url": "https://www.youtube.com/watch?v=jPPQsRzcZG4&pp=ygUr7Jeg66CI65Oc7J2Y7JuQIOyyreuLtO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "20K views"
+          },
+          {
+            "title": "청담 피부 클리닉 의사 4인이 말하는 튠페이스, 아~주 자세하게 I 효과, 원리, 부작용, 장단점",
+            "channel": "엠레드 클리닉 AMRED CLINIC",
+            "url": "https://www.youtube.com/watch?v=rGwNgZ0EYWE&pp=ygUr7Jeg66CI65Oc7J2Y7JuQIOyyreuLtO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "213K views"
+          },
+          {
+            "title": "스컬트라, 영상 하나로 졸업하기!📚 | 가격 효과 부작용 시술원리 시술주기 I Sculptra, Skincare",
+            "channel": "엠레드 클리닉 AMRED CLINIC",
+            "url": "https://www.youtube.com/watch?v=uRilYY1o1fQ&pp=ygUr7Jeg66CI65Oc7J2Y7JuQIOyyreuLtO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "14K views"
+          },
+          {
+            "title": "튠페이스의 모든 것 I 효과, 가격, 통증, 부작용, kJ 다 알려드립니다!",
+            "channel": "엠레드 클리닉 AMRED CLINIC",
+            "url": "https://www.youtube.com/watch?v=pvDjPX1oTUE&pp=ygUr7Jeg66CI65Oc7J2Y7JuQIOyyreuLtO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "9.3K views"
+          },
+          {
+            "title": "사람들은 왜 요즘 '필러' 말고 '이걸' 맞을까?",
+            "channel": "엠레드 클리닉 AMRED CLINIC",
+            "url": "https://www.youtube.com/watch?v=FvrHDab8v6o&pp=ygUr7Jeg66CI65Oc7J2Y7JuQIOyyreuLtO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "2.8K views"
+          },
+          {
+            "title": "에스테틱 ASMR 👂 물광피부 PHA 물톡스 필링 ASMR I 촉촉하고 광이 나는 피부를 위한 과정",
+            "channel": "엠레드 클리닉 AMRED CLINIC",
+            "url": "https://www.youtube.com/watch?v=BhB6uODqzcY&pp=ygUr7Jeg66CI65Oc7J2Y7JuQIOyyreuLtO2Goe2Goe2UvOu2gOqzvCBLb3JlYdIHCQkNCwGHKiGM7w%3D%3D",
+            "view_text": "24K views"
+          },
+          {
+            "title": "What did you do to your face? 6 treatments that really worked, costing you $500 at the dermatolog...",
+            "channel": "잇츠나라 itisnara",
+            "url": "https://www.youtube.com/watch?v=bGG-Leq2Gvo&pp=ygUr7Jeg66CI65Oc7J2Y7JuQIOyyreuLtO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "251K views"
+          },
+          {
+            "title": "\"You can look 10 years younger than your peers!\" 3 treatments even performed by a dermatologist.",
+            "channel": "박지윤의 피부 설명서",
+            "url": "https://www.youtube.com/watch?v=GN7n33Kw7BY&pp=ygUr7Jeg66CI65Oc7J2Y7JuQIOyyreuLtO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "237K views"
+          },
+          {
+            "title": "“비싼 울쎄라, 써마지 받아도 얼굴 다시 처집니다” 요즘 연예인들이 받는 가성비 시술을 20년차 피부과 전문의가 알려드립니다.",
+            "channel": "피부는 성현철",
+            "url": "https://www.youtube.com/watch?v=P-ooK3XIcKM&pp=ygUr7Jeg66CI65Oc7J2Y7JuQIOyyreuLtO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "344K views"
+          },
+          {
+            "title": "최근 인기 폭발이라는 '엠페이스 리프팅' 200% 효과 보는 방법과 뜯어말릴 부위 총정리",
+            "channel": "닥터라이언TV 피부과전문의",
+            "url": "https://www.youtube.com/watch?v=y1MthRaS_JU&pp=ygUr7Jeg66CI65Oc7J2Y7JuQIOyyreuLtO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "5K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 5,
+  "opportunity_cost_thb": 135500,
+  "opportunity_cost_krw": 5420000
+}

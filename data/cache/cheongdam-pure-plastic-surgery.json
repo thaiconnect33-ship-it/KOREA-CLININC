@@ -1,0 +1,146 @@
+{
+  "query": "Cheongdam Pure Plastic Surgery",
+  "generated_at": "2026-05-29T05:54:26.287Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 50,
+      "extra": {
+        "name": "Results",
+        "rating": 4.6,
+        "total_reviews": 50,
+        "sample_size": 6,
+        "foreign_language_reviews": 6,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 6
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 68887,
+        "foreign_video_count": 17,
+        "lang_breakdown": {
+          "korean": 3,
+          "thai": 1,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 16
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "Lee Jeong Soo, White Swan X Jayjun, Plastic Surgery in Korea",
+            "channel": "JAYJUN PLASTIC SURGERY",
+            "url": "https://www.youtube.com/watch?v=54uvnX076SI&pp=ygUkQ2hlb25nZGFtIFB1cmUgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "659 views"
+          },
+          {
+            "title": "[VLOG]Korean Skin Care Treatment for Acne Scars, Pores, Wrinkles, and Rejuvenation with Before&After",
+            "channel": "NANA Hospital Korea Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=L-NAQOnsAJw&pp=ygUkQ2hlb25nZGFtIFB1cmUgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "4.9K views"
+          },
+          {
+            "title": "Aesthetics in Seoul, Korea #3.2: Interview with Mikyung Song, Platelet Rich Plasma procedure Patient",
+            "channel": "Aesthetics Hub",
+            "url": "https://www.youtube.com/watch?v=2s-MAJTgJn0&pp=ygUkQ2hlb25nZGFtIFB1cmUgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "1.6K views"
+          },
+          {
+            "title": "[BANOBAGI] Plastic surgery in Korea/ Let me in โรงพยาบาลศัลยกรรมเกาหลี บาโนบากิ",
+            "channel": "Thai BANOBAGI",
+            "url": "https://www.youtube.com/watch?v=Rkj2sHQBz5E&pp=ygUkQ2hlb25nZGFtIFB1cmUgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "636 views"
+          },
+          {
+            "title": "North Korean actress who had plastic surgery to survive",
+            "channel": "DimpleVideo",
+            "url": "https://www.youtube.com/watch?v=AwaqMktAtCA&pp=ygUkQ2hlb25nZGFtIFB1cmUgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "10K views"
+          },
+          {
+            "title": "The relationship between cheek deflection and cheekbone surgery.",
+            "channel": "Dr. Baek _H성형외과 (성형외과 전문의)",
+            "url": "https://www.youtube.com/watch?v=PP-TvKLI3FQ&pp=ygUkQ2hlb25nZGFtIFB1cmUgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "379 views"
+          },
+          {
+            "title": "Secrets About Plastic Surgery & Skin Care |  Seoul Guide Medical Abroad Episode 3",
+            "channel": "Seoul Guide Medical",
+            "url": "https://www.youtube.com/watch?v=jAnqqV6zjYg&pp=ygUkQ2hlb25nZGFtIFB1cmUgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "9.9K views"
+          },
+          {
+            "title": "Cheongdam u plastic surgery CF 1min : In korea",
+            "channel": "양동준원장 원셀의원(구 청담유성형외과)",
+            "url": "https://www.youtube.com/watch?v=ZD9l5lnHGWg&pp=ygUkQ2hlb25nZGFtIFB1cmUgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "209 views"
+          },
+          {
+            "title": "Estevam's First Korean Skin Treatment | Seoul Guide Medical",
+            "channel": "Seoul Guide Medical",
+            "url": "https://www.youtube.com/watch?v=N67udhT_tDs&pp=ygUkQ2hlb25nZGFtIFB1cmUgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "8.7K views"
+          },
+          {
+            "title": "(Korean Beauty Treatments) HIFU Shurink Face Lift/Facial Fat Removal in Gangnam",
+            "channel": "LAVIAN PLASTIC SURGERY in KOREA",
+            "url": "https://www.youtube.com/watch?v=kp62GvxwtEY&pp=ygUkQ2hlb25nZGFtIFB1cmUgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "1.3K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 17,
+  "opportunity_cost_thb": 88500,
+  "opportunity_cost_krw": 3540000
+}

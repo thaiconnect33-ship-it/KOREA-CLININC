@@ -1,0 +1,39 @@
+{
+  "_README": "이 파일은 schema 예시입니다. 실제 데이터는 data/xiaohongshu_market.json 으로 저장하면 ClinicDetail/Compare/Home 에서 자동으로 사용됩니다.",
+  "_schema_matches": "lemon8_market.json / pantip_market.json / youtube_market.json 과 동일 구조",
+  "generated_at": "2026-05-29T00:00:00Z",
+  "total_posts": 0,
+  "total_likes": 0,
+  "topics_searched": 0,
+  "by_topic": {
+    "Korean rhinoplasty": { "posts": 0, "likes": 0 }
+  },
+  "top_influencers": [
+    {
+      "author": "example_user",
+      "posts": 1,
+      "total_likes": 0,
+      "topics": ["Korean rhinoplasty"]
+    }
+  ],
+  "clinic_mentions": [
+    {
+      "name": "Banobagi",
+      "mention_count": 0,
+      "samples": [
+        { "url": "https://www.xiaohongshu.com/explore/abc", "snippet": "발췌 텍스트", "views": 0 }
+      ]
+    }
+  ],
+  "sample_posts": [
+    {
+      "topic": "Korean rhinoplasty",
+      "topic_th": "ทำจมูกเกาหลี",
+      "title": "후기 제목",
+      "author": "user_id",
+      "url": "https://www.xiaohongshu.com/explore/abc",
+      "views": 0,
+      "likes": 0
+    }
+  ]
+}

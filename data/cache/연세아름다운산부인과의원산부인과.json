@@ -1,0 +1,145 @@
+{
+  "query": "연세아름다운산부인과의원산부인과",
+  "generated_at": "2026-05-28T23:37:26.257Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 2,
+      "extra": {
+        "name": "연세아름다운산부인과",
+        "rating": 3,
+        "total_reviews": 2,
+        "sample_size": 2,
+        "foreign_language_reviews": 2,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 2
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 19,
+      "extra": {
+        "total_views": 2732896,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 19,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 19,
+        "top_videos": [
+          {
+            "title": "If you leave a lump on your vulva untreated, it will grow to the size of a fist.",
+            "channel": "연세아름다운산부인과",
+            "url": "https://www.youtube.com/watch?v=jTABrbv_vYA&pp=ygU87Jew7IS47JWE66aE64uk7Jq07IKw67aA7J246rO87J2Y7JuQ7Yah7Yah7IKw67aA7J246rO8IEtvcmVh",
+            "view_text": "767 views"
+          },
+          {
+            "title": "Wasteful OB/GYN Checkups, Must-Check Free Checkups",
+            "channel": "연세아름다운산부인과",
+            "url": "https://www.youtube.com/watch?v=3bWBy9JOwzM&pp=ygU87Jew7IS47JWE66aE64uk7Jq07IKw67aA7J246rO87J2Y7JuQ7Yah7Yah7IKw67aA7J246rO8IEtvcmVh",
+            "view_text": "416 views"
+          },
+          {
+            "title": "오르가즘 못 느끼는 70% 여성들 해법이 따로 있다?!",
+            "channel": "연세아름다운산부인과",
+            "url": "https://www.youtube.com/watch?v=BzOX-VsRJj4&pp=ygU87Jew7IS47JWE66aE64uk7Jq07IKw67aA7J246rO87J2Y7JuQ7Yah7Yah7IKw67aA7J246rO8IEtvcmVh",
+            "view_text": "1.7K views"
+          },
+          {
+            "title": "소음순 성형 할 때 음핵수술 같이 해야 하나요?",
+            "channel": "연세아름다운산부인과",
+            "url": "https://www.youtube.com/watch?v=b8QHce6-BHY&pp=ygU87Jew7IS47JWE66aE64uk7Jq07IKw67aA7J246rO87J2Y7JuQ7Yah7Yah7IKw67aA7J246rO8IEtvcmVh",
+            "view_text": "321 views"
+          },
+          {
+            "title": "Guide to a new world, come on, filler",
+            "channel": "병원하는언니오빠",
+            "url": "https://www.youtube.com/watch?v=eiprBUMtpVs&pp=ygU87Jew7IS47JWE66aE64uk7Jq07IKw67aA7J246rO87J2Y7JuQ7Yah7Yah7IKw67aA7J246rO8IEtvcmVh",
+            "view_text": "1K views"
+          },
+          {
+            "title": "Rejuvenation or Uterine Cancer? - Professor Lee Dae-hyung, Department of Obstetrics and Gynecolog...",
+            "channel": "대구MBC Program",
+            "url": "https://www.youtube.com/watch?v=DkZ7FIwy-JU&pp=ygU87Jew7IS47JWE66aE64uk7Jq07IKw67aA7J246rO87J2Y7JuQ7Yah7Yah7IKw67aA7J246rO8IEtvcmVh",
+            "view_text": "7.6K views"
+          },
+          {
+            "title": "An obstetrician and gynecologist personally received vaginal tightening laser treatment.",
+            "channel": "숏부인과",
+            "url": "https://www.youtube.com/watch?v=QMIRS_fmaMI&pp=ygU87Jew7IS47JWE66aE64uk7Jq07IKw67aA7J246rO87J2Y7JuQ7Yah7Yah7IKw67aA7J246rO8IEtvcmVh",
+            "view_text": "2.6M views"
+          },
+          {
+            "title": "유방암, 내 가슴은 내가 지킨다 / YTN",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=JOJWuH-EH8w&pp=ygU87Jew7IS47JWE66aE64uk7Jq07IKw67aA7J246rO87J2Y7JuQ7Yah7Yah7IKw67aA7J246rO8IEtvcmVh",
+            "view_text": "1.9K views"
+          },
+          {
+            "title": "[기분 좋은 날] 감기로 병원 갈 때 동네 의원과 대학병원 진찰료 차이는? 20200422",
+            "channel": "MBClife",
+            "url": "https://www.youtube.com/watch?v=WNEu0JgUj94&pp=ygU87Jew7IS47JWE66aE64uk7Jq07IKw67aA7J246rO87J2Y7JuQ7Yah7Yah7IKw67aA7J246rO8IEtvcmVh",
+            "view_text": "118 views"
+          },
+          {
+            "title": "여성 생식기계 구조 #해부학입문",
+            "channel": "의대교수의 명쾌한 해부학",
+            "url": "https://www.youtube.com/watch?v=EaIWWhhwV88&pp=ygU87Jew7IS47JWE66aE64uk7Jq07IKw67aA7J246rO87J2Y7JuQ7Yah7Yah7IKw67aA7J246rO8IEtvcmVh",
+            "view_text": "68K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 1,
+  "opportunity_cost_thb": 99000,
+  "opportunity_cost_krw": 3960000
+}

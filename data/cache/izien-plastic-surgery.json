@@ -1,0 +1,146 @@
+{
+  "query": "Izien Plastic Surgery",
+  "generated_at": "2026-05-29T05:47:53.722Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Results",
+        "rating": 4.9,
+        "total_reviews": 0,
+        "sample_size": 9,
+        "foreign_language_reviews": 9,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 9
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 35189,
+        "foreign_video_count": 19,
+        "lang_breakdown": {
+          "korean": 1,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 19
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "Perfection assured in Eye surgery methods of IZIEN Plastic Surgery Clinic",
+            "channel": "Izien Plastic Surgery Clinic",
+            "url": "https://www.youtube.com/watch?v=jYgNpoZp4jo&pp=ygUbSXppZW4gUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "125"
+          },
+          {
+            "title": "Incur Voluminous Face Line through Facial Feminization Surgery",
+            "channel": "Izien Plastic Surgery Clinic",
+            "url": "https://www.youtube.com/watch?v=1gIJfk5PL5o&pp=ygUbSXppZW4gUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "175"
+          },
+          {
+            "title": "Korean Body Contouring Surgery Procedures  IZIEN Plastic Surgery Clinic",
+            "channel": "Izien Plastic Surgery Clinic",
+            "url": "https://www.youtube.com/watch?v=eyvRZVECXus&pp=ygUbSXppZW4gUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "731"
+          },
+          {
+            "title": "A transformation through facial assymetric surgery that Kim is waiting for",
+            "channel": "Izien Plastic Surgery Clinic",
+            "url": "https://www.youtube.com/watch?v=aLUQA0gmm0I&pp=ygUbSXppZW4gUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "364"
+          },
+          {
+            "title": "Most effective wrinkle treatments through different Anti aging procedures | Izien Plastic Surgery",
+            "channel": "Izien Plastic Surgery Clinic",
+            "url": "https://www.youtube.com/watch?v=C0eRhyyxvaE&pp=ygUbSXppZW4gUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "147"
+          },
+          {
+            "title": "Liposuction in Korea | Breast Reduction Liposuction | Izien Plastic Surgery Clinic",
+            "channel": "Izien Plastic Surgery Clinic",
+            "url": "https://www.youtube.com/watch?v=AZKBdLnBsP4&pp=ygUbSXppZW4gUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "555"
+          },
+          {
+            "title": "TL Plastic Surgery - Introduction of the main director/plastic surgeon, Dr. Yim",
+            "channel": "TL Body Contouring Korea",
+            "url": "https://www.youtube.com/watch?v=RZ6ThyIkPI8&pp=ygUbSXppZW4gUGxhc3RpYyBTdXJnZXJ5IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "51"
+          },
+          {
+            "title": "#ChaseLayMD Asian Eyelid Surgery: Anchoring Technique 02",
+            "channel": "Chase Lay",
+            "url": "https://www.youtube.com/watch?v=7wQSNUVdKiM&pp=ygUbSXppZW4gUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "1.8K"
+          },
+          {
+            "title": "Abdomen Liposuction in Korea-2018",
+            "channel": "Liposuction Korea - Full Body Liposuction in Korea",
+            "url": "https://www.youtube.com/watch?v=RbkrVIWZRZE&pp=ygUbSXppZW4gUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "569"
+          },
+          {
+            "title": "Liposuction Overview",
+            "channel": "Omni Aesthetics",
+            "url": "https://www.youtube.com/watch?v=kY9pwuMrJf4&pp=ygUbSXppZW4gUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "100"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 20,
+  "opportunity_cost_thb": 86000,
+  "opportunity_cost_krw": 3440000
+}

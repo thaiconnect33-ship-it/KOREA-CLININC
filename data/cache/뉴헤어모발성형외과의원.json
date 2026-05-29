@@ -1,0 +1,146 @@
+{
+  "query": "뉴헤어모발성형외과의원",
+  "generated_at": "2026-05-29T06:00:51.488Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 363,
+      "extra": {
+        "name": "New Hair Institute",
+        "rating": 4.9,
+        "total_reviews": 363,
+        "sample_size": 30,
+        "foreign_language_reviews": 30,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 30
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 147640,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "붉닭발, 삼겹살이 탈모의 원인?! - 뉴헤어 I 탈모치료",
+            "channel": "김진오의 뉴헤어 프로젝트",
+            "url": "https://www.youtube.com/watch?v=BnePDZBazqQ&pp=ygU564m07Zek7Ja066qo67Cc7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.4K views"
+          },
+          {
+            "title": "탈모치료, 모발이식 하기전에 왜 검사가 필요할까?",
+            "channel": "탈모의사 모리의원 이상욱",
+            "url": "https://www.youtube.com/watch?v=ZszHq3xLFaY&pp=ygU564m07Zek7Ja066qo67Cc7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "153 views"
+          },
+          {
+            "title": "일란성 쌍둥이 간에 모발이식이 가능할까?! - 뉴헤어 I 모발이식 I 탈모QnA I",
+            "channel": "김진오의 뉴헤어 프로젝트",
+            "url": "https://www.youtube.com/watch?v=Fl5EQce_d30&pp=ygU564m07Zek7Ja066qo67Cc7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "582 views"
+          },
+          {
+            "title": "의느님답변📂ㅣ모발이식수술시 마취는 크게 두가지로 나뉩니다. [109회-수면및국소마취 2부]",
+            "channel": "다나성형외과 DANA Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=mGRw74zHqEA&pp=ygU564m07Zek7Ja066qo67Cc7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "2.1K views"
+          },
+          {
+            "title": "모발이식비용 심하지 않은 M자탈모 헤어라인중앙 밀도 보강 MAX4000 290만원 3162모 이식",
+            "channel": "유레카닥TV",
+            "url": "https://www.youtube.com/watch?v=sWy8P3l3XLo&pp=ygU564m07Zek7Ja066qo67Cc7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "132 views"
+          },
+          {
+            "title": "홍조가 심하면 머리가 빠진다?｜호북이 탈모바이러스 한 장면을 본 의사 리뷰 #탈모 #홍조",
+            "channel": "모자람의미학 - 대구모발이식",
+            "url": "https://www.youtube.com/watch?v=MEtk3yFvZWE&pp=ygU564m07Zek7Ja066qo67Cc7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "377 views"
+          },
+          {
+            "title": "탈모약 복용 중! 혈액검사나 헌혈해도 될까? - 뉴헤어 I 탈모치료",
+            "channel": "김진오의 뉴헤어 프로젝트",
+            "url": "https://www.youtube.com/watch?v=lTkrkxMQ2ZM&pp=ygU564m07Zek7Ja066qo67Cc7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "3.6K views"
+          },
+          {
+            "title": "두피건조한 사람과 지루성 두피의 올바른 샴푸 사용법｜뉴헤어",
+            "channel": "김진오의 뉴헤어 프로젝트",
+            "url": "https://www.youtube.com/watch?v=lyDtPTk4Uyg&pp=ygU564m07Zek7Ja066qo67Cc7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "4.5K views"
+          },
+          {
+            "title": "염색하면 머리카락 더 빠진다?... | 그렇다고 염색을 안할수도 없고 | 머리카락 지키는 방법 | 연세에이엔비피부과 이해진 원장",
+            "channel": "이해진의황금피부",
+            "url": "https://www.youtube.com/watch?v=VQ_TXoKsXoE&pp=ygU564m07Zek7Ja066qo67Cc7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.3K views"
+          },
+          {
+            "title": "모낭주사 치료 머리카락 자라날까? |  탈모 치료를 위한 확실하고 정확한 방법 | 연세에이엔비피부과 이해진 원장",
+            "channel": "이해진의황금피부",
+            "url": "https://www.youtube.com/watch?v=LB_ZSXpD5GQ&pp=ygU564m07Zek7Ja066qo67Cc7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "911 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 15,
+  "opportunity_cost_thb": 85000,
+  "opportunity_cost_krw": 3400000
+}

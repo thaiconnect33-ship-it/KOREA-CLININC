@@ -1,0 +1,147 @@
+{
+  "query": "모우림의원병원,의원",
+  "generated_at": "2026-05-28T23:54:08.573Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 2848,
+      "extra": {
+        "place_id": "1859764370",
+        "name": "모우림의원 : 네이버\u001c",
+        "visitor_review_count": 1204,
+        "blog_review_count": 1644,
+        "detail_url": "https://m.place.naver.com/place/1859764370/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "모우림의원",
+        "rating": 4.4,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 17383,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "이원장 한국경제TV뉴스 출연🥰",
+            "channel": "모우림(毛雨林) 의원",
+            "url": "https://www.youtube.com/watch?v=ABvCs9q08Hg&pp=ygUi66qo7Jqw66a87J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "268 views"
+          },
+          {
+            "title": "대표원장이 말하는 모우림의 복지! 👏👏👏",
+            "channel": "모우림(毛雨林) 의원",
+            "url": "https://www.youtube.com/watch?v=rx4hls_3A0E&pp=ygUi66qo7Jqw66a87J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "369 views"
+          },
+          {
+            "title": "모발이식 수술 다음날 내원이 어려운 환자들을 위한 메뉴얼 #모우림의원",
+            "channel": "모우림(毛雨林) 의원",
+            "url": "https://www.youtube.com/watch?v=Y5T_kxxqMZ0&pp=ygUi66qo7Jqw66a87J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "6K views"
+          },
+          {
+            "title": "상품권 주인을 찾습니다 ㅠㅠ 얼른 받아가세요",
+            "channel": "모우림(毛雨林) 의원",
+            "url": "https://www.youtube.com/watch?v=OXckLOjLHBk&pp=ygUi66qo7Jqw66a87J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "313 views"
+          },
+          {
+            "title": "리얼모델 은비의 모우림 찾아가기 + 수술 전 주의사항(자막 켜고 보세요!)",
+            "channel": "모우림(毛雨林) 의원",
+            "url": "https://www.youtube.com/watch?v=E2TFqJjLlEo&pp=ygUi66qo7Jqw66a87J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "1.3K views"
+          },
+          {
+            "title": "압구정 모발이식 병원 대표원장의 최애 아이돌은?",
+            "channel": "모우림(毛雨林) 의원",
+            "url": "https://www.youtube.com/watch?v=zgZzH7Si2SE&pp=ygUi66qo7Jqw66a87J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "427 views"
+          },
+          {
+            "title": "대표원장이 코스프레 하는 모우림 (할로윈 파티 1부)",
+            "channel": "모우림(毛雨林) 의원",
+            "url": "https://www.youtube.com/watch?v=5N1L-NP9tH8&pp=ygUi66qo7Jqw66a87J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "243 views"
+          },
+          {
+            "title": "모발이식 수술 다음날 내원이 어려운 환자들을 위한 메뉴얼/모우림 의원",
+            "channel": "모우림(毛雨林) 의원",
+            "url": "https://www.youtube.com/watch?v=g97By5u8YhI&pp=ygUi66qo7Jqw66a87J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "1.6K views"
+          },
+          {
+            "title": "스무살 여대생의 모발이식 체험기 (여성 헤어라인 3300모 절개모발이식)",
+            "channel": "모우림(毛雨林) 의원",
+            "url": "https://www.youtube.com/watch?v=pSgVhfWDZhI&pp=ygUi66qo7Jqw66a87J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "395 views"
+          },
+          {
+            "title": "Enter the MOWOOLIM - 모우림(毛雨林)의원",
+            "channel": "모우림(毛雨林) 의원",
+            "url": "https://www.youtube.com/watch?v=9ookNdxC1ck&pp=ygUi66qo7Jqw66a87J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "695 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

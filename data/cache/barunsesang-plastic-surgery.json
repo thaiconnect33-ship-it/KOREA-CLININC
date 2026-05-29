@@ -1,0 +1,94 @@
+{
+  "query": "Barunsesang Plastic Surgery",
+  "generated_at": "2026-05-29T05:49:19.921Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 4817,
+      "extra": {
+        "place_id": "11798255",
+        "name": "바른세상병원 : 네이버\u001c",
+        "visitor_review_count": 564,
+        "blog_review_count": 4253,
+        "detail_url": "https://m.place.naver.com/place/11798255/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 15,
+      "extra": {
+        "name": "Results",
+        "rating": 5,
+        "total_reviews": 15,
+        "sample_size": 6,
+        "foreign_language_reviews": 6,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 6
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 1,
+      "extra": {
+        "total_views": 2300,
+        "foreign_video_count": 1,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 1
+        },
+        "sample_size": 1,
+        "top_videos": [
+          {
+            "title": "Discover Digest Korea (Medical Tour)",
+            "channel": "Discover Digest",
+            "url": "https://www.youtube.com/watch?v=ZZUuWcmsR34&t=73s&pp=ygUhQmFydW5zZXNhbmcgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "2.3K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 4,
+  "opportunity_cost_thb": 96500,
+  "opportunity_cost_krw": 3860000
+}

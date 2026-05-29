@@ -1,0 +1,138 @@
+{
+  "query": "김동진성형외과의원",
+  "generated_at": "2026-05-28T22:58:28.658Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 11,
+      "extra": {
+        "place_id": "10982517",
+        "name": "김동진성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 7,
+        "blog_review_count": 4,
+        "detail_url": "https://m.place.naver.com/place/10982517/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "Google Maps 결과 없음",
+        "foreign_language_reviews": 0
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 991028,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "이마거상술 1~2년 vs 10년 차이, 원인은 이것! 수술 전 꼭 보세요!",
+            "channel": "라봄튜브",
+            "url": "https://www.youtube.com/watch?v=jd8ojemL8uk&pp=ygUt6rmA64-Z7KeE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "9.7K views"
+          },
+          {
+            "title": "\"강남 유명 성형외과서 수술 뒤 눈이 실명됐습니다\" [지금이뉴스] / YTN",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=UyMrX929Q4I&pp=ygUt6rmA64-Z7KeE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "576K views"
+          },
+          {
+            "title": "Lower eyelid surgery? If you don't know, don't get it done. 👨‍⚕️The truth about lower eyelid surg...",
+            "channel": "라봄튜브",
+            "url": "https://www.youtube.com/watch?v=YplgYfveRpk&pp=ygUt6rmA64-Z7KeE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "672 views"
+          },
+          {
+            "title": "Middle-aged eye surgery: If done incorrectly, you'll look older! What surgeries should you absolu...",
+            "channel": "라봄튜브",
+            "url": "https://www.youtube.com/watch?v=WDbe93ycMwM&pp=ygUt6rmA64-Z7KeE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "86K views"
+          },
+          {
+            "title": "When is the best time for double eyelid surgery for teenagers? (feat. side effects of double eyel...",
+            "channel": "라봄튜브",
+            "url": "https://www.youtube.com/watch?v=TKSpKTQTV_Q&pp=ygUt6rmA64-Z7KeE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "243 views"
+          },
+          {
+            "title": "How to find a good plastic surgeon🧡 How to find a good plastic surgeon and avoid plastic surgery ...",
+            "channel": "베레나verena",
+            "url": "https://www.youtube.com/watch?v=SQzMbIJMBTQ&pp=ygUt6rmA64-Z7KeE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "277K views"
+          },
+          {
+            "title": "What is the list of surgeries that three plastic surgeons say will go wrong in middle age?",
+            "channel": "라봄튜브",
+            "url": "https://www.youtube.com/watch?v=pY0uK9d2nxM&pp=ygUt6rmA64-Z7KeE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "8.6K views"
+          },
+          {
+            "title": "Ancient Beauties' Skin Care Secrets✨ Did they take care of their skin like this? 🤔",
+            "channel": "라봄튜브",
+            "url": "https://www.youtube.com/watch?v=OXOwYgXyyIg&pp=ygUt6rmA64-Z7KeE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "271 views"
+          },
+          {
+            "title": "성형외과 전문의가 말하는 매력적인 얼굴은 어떤 얼굴일까?🤔",
+            "channel": "라봄튜브",
+            "url": "https://www.youtube.com/watch?v=Yq25nRPqEmg&pp=ygUt6rmA64-Z7KeE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1K views"
+          },
+          {
+            "title": "Facelift in your 30s? Facelift in your 50s? 🤔 There's a real standard!",
+            "channel": "라봄튜브",
+            "url": "https://www.youtube.com/watch?v=n4k8OwgMk38&pp=ygUt6rmA64-Z7KeE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.4K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

@@ -1,0 +1,147 @@
+{
+  "query": "미병원",
+  "generated_at": "2026-05-29T00:16:46.004Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 1340,
+      "extra": {
+        "place_id": "36336228",
+        "name": "위즈앤미의원 : 네이버\u001c",
+        "visitor_review_count": 598,
+        "blog_review_count": 742,
+        "detail_url": "https://m.place.naver.com/place/36336228/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Results",
+        "rating": 4.9,
+        "total_reviews": 0,
+        "sample_size": 6,
+        "foreign_language_reviews": 6,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 6
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 5383341,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "안녕하세요! 미드림성형외과입니다!",
+            "channel": "섬세한 백박사",
+            "url": "https://www.youtube.com/watch?v=zLhkWBjQBYU&pp=ygUb66-467OR7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.8K views"
+          },
+          {
+            "title": "땡김이(?) 압박드레싱은 언제까지 해야하나요?",
+            "channel": "Dr. Baek _H성형외과 (성형외과 전문의)",
+            "url": "https://www.youtube.com/watch?v=edDt477rm9I&pp=ygUb66-467OR7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "59K views"
+          },
+          {
+            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUb66-467OR7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1M views"
+          },
+          {
+            "title": "투시적 안면윤곽수술 사각턱축소 과정 및 전후 비교",
+            "channel": "미병원",
+            "url": "https://www.youtube.com/watch?v=_b1_9zn5EXM&pp=ygUb66-467OR7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "2.7K views"
+          },
+          {
+            "title": "\"강남 유명 성형외과서 수술 뒤 눈이 실명됐습니다\" [지금이뉴스] / YTN",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=UyMrX929Q4I&pp=ygUb66-467OR7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "576K views"
+          },
+          {
+            "title": "강남성형외과 베스트리뷰 TOP5병원",
+            "channel": "봄의환희",
+            "url": "https://www.youtube.com/watch?v=J1Nug-Oqxxs&pp=ygUb66-467OR7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "4.4K views"
+          },
+          {
+            "title": "How to find a good plastic surgeon🧡 How to find a good plastic surgeon and avoid plastic surgery ...",
+            "channel": "베레나verena",
+            "url": "https://www.youtube.com/watch?v=SQzMbIJMBTQ&pp=ygUb66-467OR7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "277K views"
+          },
+          {
+            "title": "내가 상안검 수술을 하지 않는 이유(feat.성형외과 전문의,부작용,전후)",
+            "channel": "미오름 서원장_책임성형, 바른성형",
+            "url": "https://www.youtube.com/watch?v=_DKpQoszoI0&pp=ygUb66-467OR7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "186K views"
+          },
+          {
+            "title": "눈매교정, 그것이 궁금해!",
+            "channel": "SM미성형외과",
+            "url": "https://www.youtube.com/watch?v=g4BOlGW1DdU&pp=ygUb66-467OR7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "258 views"
+          },
+          {
+            "title": "진주 미피부과성형외과의원 둘러보기",
+            "channel": "진주미피부과성형외과",
+            "url": "https://www.youtube.com/watch?v=UW5rrGaM3vs&pp=ygUb66-467OR7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.1K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 3,
+  "opportunity_cost_thb": 97000,
+  "opportunity_cost_krw": 3880000
+}

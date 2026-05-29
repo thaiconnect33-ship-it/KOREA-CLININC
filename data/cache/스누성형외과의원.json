@@ -1,0 +1,147 @@
+{
+  "query": "스누성형외과의원",
+  "generated_at": "2026-05-28T22:17:22.376Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 1151,
+      "extra": {
+        "place_id": "1017857105",
+        "name": "스누성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 522,
+        "blog_review_count": 629,
+        "detail_url": "https://m.place.naver.com/place/1017857105/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 26,
+      "extra": {
+        "name": "SNU Plastic Surgery Clinic",
+        "rating": 5,
+        "total_reviews": 26,
+        "sample_size": 16,
+        "foreign_language_reviews": 16,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 16
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 489799,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "스누성형외과 소개 영상 SNU Plastic Surgery",
+            "channel": "스누성형외과 SNU Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=4s2wwCEoKNI&pp=ygUq7Iqk64iE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "6.4K"
+          },
+          {
+            "title": "성형수술 회복기, 진짜 중요한 건 이 시기입니다",
+            "channel": "스누성형외과 SNU Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=snTh4Uq6k2Y&pp=ygUq7Iqk64iE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "88"
+          },
+          {
+            "title": "눈재수술이 필요한 유형 셀프체크하는 방법!",
+            "channel": "스누성형외과 SNU Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=nns3DOmwZw8&pp=ygUq7Iqk64iE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "274K"
+          },
+          {
+            "title": "의사도 받는 피부윤곽시술! 나에게 딱 맞는 윤곽시술은?",
+            "channel": "스누성형외과 SNU Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=d8SWqD-Vi7M&pp=ygUq7Iqk64iE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "46K"
+          },
+          {
+            "title": "시술 선택 전 꼭 알아야 할 추천 기준",
+            "channel": "스누성형외과 SNU Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=UlrqyrzYoas&pp=ygUq7Iqk64iE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "82"
+          },
+          {
+            "title": "시간이 지나도 남는 흉터, 흉터성형술로 해결하는 방법",
+            "channel": "스누성형외과 SNU Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=jebxD3bfAGs&pp=ygUq7Iqk64iE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "208"
+          },
+          {
+            "title": "실리프팅 통증 최소화, 중요한 포인트는 이것!",
+            "channel": "스누성형외과 SNU Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=eaJvq4FFq4g&pp=ygUq7Iqk64iE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "113"
+          },
+          {
+            "title": "[V라인 만들기] 비수술부터 수술적 방법까지",
+            "channel": "스누성형외과 SNU Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=7eFdC5BHqsw&pp=ygUq7Iqk64iE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "90"
+          },
+          {
+            "title": "팔자주름이 생기는 이유와 수술 없이 없애는 방법❗",
+            "channel": "스누성형외과 SNU Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=h712WLw-YBg&pp=ygUq7Iqk64iE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "70"
+          },
+          {
+            "title": "코수술 한 번으로 끝낼 수 있을까? VS 여러 번 해야 완벽해질까?!",
+            "channel": "스누성형외과 SNU Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=lviNLpsVTBE&pp=ygUq7Iqk64iE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "78K"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 8,
+  "opportunity_cost_thb": 92000,
+  "opportunity_cost_krw": 3680000
+}

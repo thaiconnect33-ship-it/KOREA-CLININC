@@ -1,0 +1,147 @@
+{
+  "query": "산타클로스의원",
+  "generated_at": "2026-05-28T23:15:18.550Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 1650,
+      "extra": {
+        "place_id": "31806792",
+        "name": "산타클로스의원 : 네이버\u001c",
+        "visitor_review_count": 229,
+        "blog_review_count": 1421,
+        "detail_url": "https://m.place.naver.com/place/31806792/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 2,
+      "extra": {
+        "name": "산타클로스의원",
+        "rating": 5,
+        "total_reviews": 2,
+        "sample_size": 2,
+        "foreign_language_reviews": 2,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 2
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 16,
+      "extra": {
+        "total_views": 2267726,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 16,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 16,
+        "top_videos": [
+          {
+            "title": "주름개선 수술!! 안면 거상술이란? / 건강UP! 울산UP! 8월 11일 방송",
+            "channel": "울산MBC",
+            "url": "https://www.youtube.com/watch?v=C2VUguErYYs&pp=ygUn7IKw7YOA7YG066Gc7Iqk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "124 views"
+          },
+          {
+            "title": "재벌총수 출국금지...성형외과 '필적' 감정 방침 / YTN (Yes! Top News)",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=8W21vEG3Sn8&pp=ygUn7IKw7YOA7YG066Gc7Iqk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "252 views"
+          },
+          {
+            "title": "'보톡스 3편' (서울에이치피부과 김형수 원장)",
+            "channel": "의학채널 비온뒤",
+            "url": "https://www.youtube.com/watch?v=Z6aOw4d4ph4&pp=ygUn7IKw7YOA7YG066Gc7Iqk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "3.3K views"
+          },
+          {
+            "title": "#헤나염색 했는데... 피부가 왜 이러지? 혹시 내가 헤나 염색 #부작용 [강남피부과, 성형외과 산타홍🎅🏻]",
+            "channel": "산타홍의원",
+            "url": "https://www.youtube.com/watch?v=g0yFVjbdrY4&pp=ygUn7IKw7YOA7YG066Gc7Iqk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.1K views"
+          },
+          {
+            "title": "큐오필 마스터가 말한다! 풀페이스 필러 큐오필의 효과와 장단점",
+            "channel": "닥터호호",
+            "url": "https://www.youtube.com/watch?v=B_AhUoTx-SU&pp=ygUn7IKw7YOA7YG066Gc7Iqk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "11K views"
+          },
+          {
+            "title": "Transgender plastic surgery addict",
+            "channel": "카광",
+            "url": "https://www.youtube.com/watch?v=V_68vGAFtHk&pp=ygUn7IKw7YOA7YG066Gc7Iqk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.3M views"
+          },
+          {
+            "title": "명의 - Best Doctors_필리핀 의료 봉사 - 1부_#004",
+            "channel": "EBSDocumentary (EBS 다큐)",
+            "url": "https://www.youtube.com/watch?v=_PHF_f9tSLs&pp=ygUn7IKw7YOA7YG066Gc7Iqk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "10K views"
+          },
+          {
+            "title": "2019 크리스마스 소품을 추천합니다!3편! Christmas, Christmas item",
+            "channel": "하늘성형외과의원",
+            "url": "https://www.youtube.com/watch?v=YVg01OAuHI0&pp=ygUn7IKw7YOA7YG066Gc7Iqk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "3.2K views"
+          },
+          {
+            "title": "′파란만장 연애사′ 데미무어, 젊어지기 위해 무릎 성형 수술까지?! ′충격′ 180912 EP.320",
+            "channel": "eNEWS24",
+            "url": "https://www.youtube.com/watch?v=0h-8tSQM9Wk&pp=ygUn7IKw7YOA7YG066Gc7Iqk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "365 views"
+          },
+          {
+            "title": "보톡스 내성 없다는 근거 보여드립니다!!!! 내성이 무서워서 보톡스 시술 안 받고 계신가요? 보톡스 내성 걱정 마시고 이뻐지고 젊어지세요!!!",
+            "channel": "김태영의 피부공식",
+            "url": "https://www.youtube.com/watch?v=QvLi65jLmWA&pp=ygUn7IKw7YOA7YG066Gc7Iqk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "12K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 1,
+  "opportunity_cost_thb": 99000,
+  "opportunity_cost_krw": 3960000
+}

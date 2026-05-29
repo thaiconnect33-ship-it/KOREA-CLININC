@@ -1,0 +1,147 @@
+{
+  "query": "이지연성형외과의원",
+  "generated_at": "2026-05-28T23:50:22.498Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 76,
+      "extra": {
+        "place_id": "11667098",
+        "name": "이지연성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 70,
+        "blog_review_count": 6,
+        "detail_url": "https://m.place.naver.com/place/11667098/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "이지연성형외과",
+        "rating": 4,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 892112,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "[Q&A]안면비대칭 주걱턱 양악수술 케이스 교정과 이지연원장님과 함께(1) | 나우미 NOWME",
+            "channel": "양잘알",
+            "url": "https://www.youtube.com/watch?v=1gHiekqZ5w8&pp=ygUt7J207KeA7Jew7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "252 views"
+          },
+          {
+            "title": "[Q&A]안면비대칭 주걱턱 양악수술 케이스 교정과 이지연원장님과 함께(2) | 나우미 NOWME",
+            "channel": "양잘알",
+            "url": "https://www.youtube.com/watch?v=_rzaQtas4e0&pp=ygUt7J207KeA7Jew7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "233 views"
+          },
+          {
+            "title": "[Q&A]양악수술 없는 부정교합 교정 케이스 교정과 이지연원장님과 함께(2) | 나우미 NOWME",
+            "channel": "양잘알",
+            "url": "https://www.youtube.com/watch?v=MdmrwcSHlvw&pp=ygUt7J207KeA7Jew7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "222 views"
+          },
+          {
+            "title": "[국민건강보험 일산병원] 흉터 걱정은 이제 그만! 흉터성형레이저클리닉",
+            "channel": "국민건강보험일산병원",
+            "url": "https://www.youtube.com/watch?v=ugtVxgc4CCk&pp=ygUt7J207KeA7Jew7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "947 views"
+          },
+          {
+            "title": "도그 이어에 대한 모든 것 알려드리겠습니다  l  #도그이어 #흉터제거 #레이저치료",
+            "channel": "흉터명의 청담아이비성형외과",
+            "url": "https://www.youtube.com/watch?v=47-MW1QSMJc&pp=ygUt7J207KeA7Jew7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "2.8K views"
+          },
+          {
+            "title": "중점 시술 인터뷰 영상3",
+            "channel": "브랜딩퍼플(brandingpurple)",
+            "url": "https://www.youtube.com/watch?v=ZSeugAdEAGE&pp=ygUt7J207KeA7Jew7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "281 views"
+          },
+          {
+            "title": "한방성형이란? 구산한의원 원장 인터뷰 머니투데이방송",
+            "channel": "CLINIC GUSAN (구산한의원)",
+            "url": "https://www.youtube.com/watch?v=nE_o44yS31M&pp=ygUt7J207KeA7Jew7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "712 views"
+          },
+          {
+            "title": "실리프팅하면 다 이렇게 되는걸까ㅣ이지혜 실리프팅 분석",
+            "channel": "아름닥터tv_자연스러운게 예쁜거다_15년차",
+            "url": "https://www.youtube.com/watch?v=N7BMfluL_Yg&pp=ygUt7J207KeA7Jew7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "103K views"
+          },
+          {
+            "title": "양악수술을 하는 사람들은 중간이 패인건 감안해야 하나요?",
+            "channel": "Dr. Baek _H성형외과 (성형외과 전문의)",
+            "url": "https://www.youtube.com/watch?v=MnGvFb8zJNQ&pp=ygUt7J207KeA7Jew7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.2K views"
+          },
+          {
+            "title": "모발이식 해도 머리카락이 빠진다? by Dr. 김학영 제이제이 성형외과",
+            "channel": "제이제이 성형상식 JJ-plastic edu TV",
+            "url": "https://www.youtube.com/watch?v=nrG_wBJqtcE&pp=ygUt7J207KeA7Jew7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "616 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

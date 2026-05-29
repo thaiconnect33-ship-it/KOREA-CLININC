@@ -1,0 +1,145 @@
+{
+  "query": "뷰성형외과의원",
+  "generated_at": "2026-05-29T00:21:34.305Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 760,
+      "extra": {
+        "name": "View Plastic Surgery",
+        "rating": 4.9,
+        "total_reviews": 760,
+        "sample_size": 20,
+        "foreign_language_reviews": 20,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 20
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 1221472,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "안면거상 VS 이마거상 도대체 무슨 차이일까요?",
+            "channel": "뷰성형외과 VIEW Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=fMXaFEkYfAE&pp=ygUt67ew7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.5K"
+          },
+          {
+            "title": "[가슴성형] 성형 후 불만족스러운 가슴 모양! 재수술해야 할까?",
+            "channel": "뷰성형외과 VIEW Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=r28EHUHPJg4&pp=ygUt67ew7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "... 뷰성형외과의원 (플러스친구 ID) 홈페이지 : https://www.viewclinic.com 인스타그램 : https://www.instagram.com/viewplastic ..."
+          },
+          {
+            "title": "👨‍⚕️ A-Top Plastic Surgery Doctor Introduction 👨‍⚕️ Introducing Director Kwon Jun-seong",
+            "channel": "에이탑성형외과의원",
+            "url": "https://www.youtube.com/watch?v=ESPvXtHN1us&pp=ygUt67ew7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "905"
+          },
+          {
+            "title": "[코성형] 전신마취가 안전한 이유?",
+            "channel": "뷰성형외과 VIEW Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=YtagsnBZGq8&pp=ygUt67ew7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "상담전화 : 02-539-1177 카카오톡 문의 : @뷰성형외과의원 (플러스친구 ID) 홈페이지 : https://www.viewclinic.com ✨ 구독, 알림 ..."
+          },
+          {
+            "title": "[가슴성형] 가슴보형물 크게 넣으면 무조건 C컵될까?",
+            "channel": "뷰성형외과 VIEW Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=BQ1_STtt-HQ&pp=ygUt67ew7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "... 뷰성형외과의원 (플러스친구 ID) 홈페이지 : https://www.viewclinic.com/ 인스타그램 : https://www.instagram.com/viewplastic/ ..."
+          },
+          {
+            "title": "코성형! 내 얼굴에 가장 예쁜 코 찾아드립니다! 👃🏻🤩",
+            "channel": "뷰성형외과 VIEW Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=JlYEeMt-ekw&pp=ygUt67ew7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "125K"
+          },
+          {
+            "title": "가장 VIEW다운 가치 : 안전과 신뢰의 약속✨",
+            "channel": "뷰성형외과 VIEW Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=Nbemu6mL_uY&pp=ygUt67ew7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "상담전화 : 02-539-1177 카카오톡 문의 : @뷰성형외과의원 (플러스친구 ID) 홈페이지 : https://www.viewclinic.com ✨ 구독, 알림 ..."
+          },
+          {
+            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUt67ew7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1M"
+          },
+          {
+            "title": "성형외과 의사가 알려주는 진짜 내 얼굴| 한번 따라해보세요",
+            "channel": "잼뱅TV",
+            "url": "https://www.youtube.com/watch?v=Z_O9UjtvXPc&pp=ygUt67ew7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "66K"
+          },
+          {
+            "title": "[닥터뷰] 게이트성형외과 박동권 원장님",
+            "channel": "coding_stuff",
+            "url": "https://www.youtube.com/watch?v=kEiKDwPPlJI&pp=ygUt67ew7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1K"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 10,
+  "opportunity_cost_thb": 90000,
+  "opportunity_cost_krw": 3600000
+}

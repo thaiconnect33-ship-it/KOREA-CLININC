@@ -1,0 +1,147 @@
+{
+  "query": "초이스피부과의원 신사피부과",
+  "generated_at": "2026-05-28T23:55:44.472Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 10566,
+      "extra": {
+        "place_id": "11527880",
+        "name": "초이스피부과의원 신사 : 네이버\u001c",
+        "visitor_review_count": 550,
+        "blog_review_count": 10016,
+        "detail_url": "https://m.place.naver.com/place/11527880/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "초이스피부과의원 신사점",
+        "rating": 3.1,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 10,
+      "extra": {
+        "total_views": 15299,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 10,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 10,
+        "top_videos": [
+          {
+            "title": "[에그클리닉] 피부과 원장은 얼마나 벌어요?",
+            "channel": "깐달걀TV",
+            "url": "https://www.youtube.com/watch?v=ZDiD9RkdcxU&pp=ygUu7LSI7J207Iqk7ZS867aA6rO87J2Y7JuQIOyLoOyCrO2UvOu2gOqzvCBLb3JlYdIHCQkNCwGHKiGM7w%3D%3D",
+            "view_text": "956"
+          },
+          {
+            "title": "리포소닉 비수술 지방흡입 초이스피부과",
+            "channel": "초이스",
+            "url": "https://www.youtube.com/watch?v=F7uxhMWZVkQ&pp=ygUu7LSI7J207Iqk7ZS867aA6rO87J2Y7JuQIOyLoOyCrO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "487"
+          },
+          {
+            "title": "[코리아리더스의원] 쟤는 뭘 했길래 갑자기 예뻐진 거야? #신사역필러 잘하는 곳",
+            "channel": "코리아리더스의원TV",
+            "url": "https://www.youtube.com/watch?v=wisjMZ6MfKs&pp=ygUu7LSI7J207Iqk7ZS867aA6rO87J2Y7JuQIOyLoOyCrO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "151"
+          },
+          {
+            "title": "어펌2멀티플렉스",
+            "channel": "Lamiche9",
+            "url": "https://www.youtube.com/watch?v=UT8AGyT6C8U&pp=ygUu7LSI7J207Iqk7ZS867aA6rO87J2Y7JuQIOyLoOyCrO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "550"
+          },
+          {
+            "title": "[초이스피부과] 엑셀브이플러스 시술 영상",
+            "channel": "초이스피부과",
+            "url": "https://www.youtube.com/watch?v=iTmKUQm-_Vc&pp=ygUu7LSI7J207Iqk7ZS867aA6rO87J2Y7JuQIOyLoOyCrO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "694"
+          },
+          {
+            "title": "허리통증에 특효! 통증치료와 비만관리를 동시에! 인디바치료 / 통증치료",
+            "channel": "Begin Again 강남세란의원 (Seran Clinic)",
+            "url": "https://www.youtube.com/watch?v=Y7b8rkBuSpo&pp=ygUu7LSI7J207Iqk7ZS867aA6rO87J2Y7JuQIOyLoOyCrO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "3.9K"
+          },
+          {
+            "title": "굿라인성형외과 목주름제거 솔루션 [목주름제거수술이란?] 압구정성형외과 강남역성형외과 동안성형 잘하는곳 유명한곳 추천 후기",
+            "channel": "굿라인성형외과",
+            "url": "https://www.youtube.com/watch?v=dDXsB9PJsqs&pp=ygUu7LSI7J207Iqk7ZS867aA6rO87J2Y7JuQIOyLoOyCrO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "3K"
+          },
+          {
+            "title": "흉터없는 안면거상수술의 핵심은 이것입니다! 원장님의 수술케이스와 노하우 공개🔎",
+            "channel": "에이징엘 성형외과 Aging L FACE LIFTING SURGERY",
+            "url": "https://www.youtube.com/watch?v=6CnNVfezGww&pp=ygUu7LSI7J207Iqk7ZS867aA6rO87J2Y7JuQIOyLoOyCrO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "1.7K"
+          },
+          {
+            "title": "[초이스피부과] 백반증 치료 마이크로펀치이식술",
+            "channel": "초이스피부과",
+            "url": "https://www.youtube.com/watch?v=WAtfy7RXxXA&pp=ygUu7LSI7J207Iqk7ZS867aA6rO87J2Y7JuQIOyLoOyCrO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "3.8K"
+          },
+          {
+            "title": "CELL Q COMBI허벅지",
+            "channel": "엠스마트비즈",
+            "url": "https://www.youtube.com/watch?v=m5s3XepnCy4&pp=ygUu7LSI7J207Iqk7ZS867aA6rO87J2Y7JuQIOyLoOyCrO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "61"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

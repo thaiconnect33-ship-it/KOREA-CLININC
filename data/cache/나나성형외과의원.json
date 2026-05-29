@@ -1,0 +1,146 @@
+{
+  "query": "나나성형외과의원",
+  "generated_at": "2026-05-29T05:36:17.067Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 296,
+      "extra": {
+        "name": "NANA Plastic Surgery",
+        "rating": 4.6,
+        "total_reviews": 296,
+        "sample_size": 30,
+        "foreign_language_reviews": 28,
+        "lang_breakdown": {
+          "korean": 2,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 28
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 279506,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "[의사브이로그]성형외과 대표원장님의 하루는?, 대표원장의 VLOG #1",
+            "channel": "나나TV - 나나성형외과",
+            "url": "https://www.youtube.com/watch?v=wDUPvfcTesY&pp=ygUq64KY64KY7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "47K views"
+          },
+          {
+            "title": "나나성형외과 김형준원장",
+            "channel": "예쁨의시작",
+            "url": "https://www.youtube.com/watch?v=n4cbnBsX4Tg&pp=ygUq64KY64KY7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "2.6K views"
+          },
+          {
+            "title": "[가슴 검사] 가슴 성형? 건강에 문제는 없을까? 유방외과 전문의가 보는 가슴성형!",
+            "channel": "나나TV - 나나성형외과",
+            "url": "https://www.youtube.com/watch?v=EH-td6wgBR8&pp=ygUq64KY64KY7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "2.3K views"
+          },
+          {
+            "title": "[가슴성형 꿀팁] ✨가슴성형 대박✨나는 시기는 따로 있습니다! 계절/나이/생리주기 정확하게 알려드립니다.",
+            "channel": "나나TV - 나나성형외과",
+            "url": "https://www.youtube.com/watch?v=6fs7Qx_CSoc&pp=ygUq64KY64KY7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "122K views"
+          },
+          {
+            "title": "가슴보형물 모티바 본사 CEO가 나나성형외과 황동연 원장을 찾아온 이유는?",
+            "channel": "나나TV - 나나성형외과",
+            "url": "https://www.youtube.com/watch?v=jvOlOAKUkj0&pp=ygUq64KY64KY7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "3.7K views"
+          },
+          {
+            "title": "[🎬라이브] 지방흡입&지방이식 다물어보세요!  성형외과 전문의 황동연 X 최정식 원장님의 목요라방",
+            "channel": "나나TV - 나나성형외과",
+            "url": "https://www.youtube.com/watch?v=7YJblwj9oTY&pp=ygUq64KY64KY7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "3.3K views"
+          },
+          {
+            "title": "[안면거상] 얼굴 리프팅 병원 고를때 병원 선택에 정말 신중해야 하는 이유│성형외과 전문의 김일환 원장",
+            "channel": "나나TV - 나나성형외과",
+            "url": "https://www.youtube.com/watch?v=S5GkNYr5fWY&pp=ygUq64KY64KY7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "2.6K views"
+          },
+          {
+            "title": "난 어떤 라인으로 해야 할까? 고민하지 말고 이 영상 보세요!",
+            "channel": "나나TV - 나나성형외과",
+            "url": "https://www.youtube.com/watch?v=mV8WRgJ-gEI&pp=ygUq64KY64KY7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "437 views"
+          },
+          {
+            "title": "[안면윤곽]윤곽수술하기로 마음의 결정했다면! 어떤 준비를 해야할까요😶❔ 후회없는 안면 윤곽 수술을 위한 준비🎀",
+            "channel": "나나TV - 나나성형외과",
+            "url": "https://www.youtube.com/watch?v=xEhBQXYMSvQ&pp=ygUq64KY64KY7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "6.5K views"
+          },
+          {
+            "title": "[안면윤곽 고정핀] 윤곽 수술 후 고정핀! 금속 감지기에 걸리는거 아니야?!😨꼭 제거해야 할까요??",
+            "channel": "나나TV - 나나성형외과",
+            "url": "https://www.youtube.com/watch?v=OCW52pfeVGw&pp=ygUq64KY64KY7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "5.8K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 14,
+  "opportunity_cost_thb": 86000,
+  "opportunity_cost_krw": 3440000
+}

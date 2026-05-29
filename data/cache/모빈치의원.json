@@ -1,0 +1,138 @@
+{
+  "query": "모빈치의원",
+  "generated_at": "2026-05-28T23:59:02.060Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 895,
+      "extra": {
+        "place_id": "35966054",
+        "name": "모빈치의원 : 네이버\u001c",
+        "visitor_review_count": 376,
+        "blog_review_count": 519,
+        "detail_url": "https://m.place.naver.com/place/35966054/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "Google Maps 결과 없음",
+        "foreign_language_reviews": 0
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 537199,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "모빈치의원 홍보영상",
+            "channel": "Hanbok Studio",
+            "url": "https://www.youtube.com/watch?v=J_Vm9sU5l0o&pp=ygUe66qo67mI7LmY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "229 views"
+          },
+          {
+            "title": "[모빈치TV] 여성형 탈모? Q&A!",
+            "channel": "모빈치TV",
+            "url": "https://www.youtube.com/watch?v=o_zrhhsrsLs&pp=ygUe66qo67mI7LmY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "2.2K views"
+          },
+          {
+            "title": "[전참시] '탈모인들의 희망 한상보' 의사의 병원 대공개 MBC240831방송",
+            "channel": "픽잇 :Pick it",
+            "url": "https://www.youtube.com/watch?v=g1JtONR12DA&pp=ygUe66qo67mI7LmY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "197K views"
+          },
+          {
+            "title": "김우리 탈모수술, 압구정 모발이식 병원은? (모리치피부과의원)",
+            "channel": "꿀단지",
+            "url": "https://www.youtube.com/watch?v=oKXz3qCIoDo&pp=ygUe66qo67mI7LmY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "4.1K views"
+          },
+          {
+            "title": "[모빈치TV] 조합약이라고 들어보셨나요? 조합약 그 실체와 비밀은!?",
+            "channel": "모빈치TV",
+            "url": "https://www.youtube.com/watch?v=9tmMHnzty4E&pp=ygUe66qo67mI7LmY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "21K views"
+          },
+          {
+            "title": "[모빈치TV] 두피열! 탈모의 원인일까?! 모발이식!!",
+            "channel": "모빈치TV",
+            "url": "https://www.youtube.com/watch?v=icbeGWlNg6c&pp=ygUe66qo67mI7LmY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "23K views"
+          },
+          {
+            "title": "[모빈치TV] 탈모약, 복용 시작하면 계속 먹어야 돼?! 프로페시아의 오해!",
+            "channel": "모빈치TV",
+            "url": "https://www.youtube.com/watch?v=3L6o28QreGQ&pp=ygUe66qo67mI7LmY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "33K views"
+          },
+          {
+            "title": "탈모(진행성질환) 치료 서둘러야 하는 이유는? (모리치피부과의원)",
+            "channel": "꿀단지",
+            "url": "https://www.youtube.com/watch?v=iGtiNmBLEjk&pp=ygUe66qo67mI7LmY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "20 views"
+          },
+          {
+            "title": "[모빈치TV] 선생님! 궁금해요! 모발이식으로 자주하는 질문모음",
+            "channel": "모빈치TV",
+            "url": "https://www.youtube.com/watch?v=0hX5w-CnUgg&pp=ygUe66qo67mI7LmY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "3.4K views"
+          },
+          {
+            "title": "피부과전문의 양심고백 \"이럴땐 모발이식수술 하지마세요\"",
+            "channel": "꿀단지",
+            "url": "https://www.youtube.com/watch?v=_PYkMItKx2E&pp=ygUe66qo67mI7LmY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "44 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

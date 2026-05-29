@@ -1,0 +1,147 @@
+{
+  "query": "밴스의원 명동피부과",
+  "generated_at": "2026-05-28T23:04:42.784Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 5594,
+      "extra": {
+        "place_id": "1632298593",
+        "name": "밴스의원 명동 : 네이버\u001c",
+        "visitor_review_count": 1497,
+        "blog_review_count": 4097,
+        "detail_url": "https://m.place.naver.com/place/1632298593/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Results",
+        "rating": 4.3,
+        "total_reviews": 0,
+        "sample_size": 9,
+        "foreign_language_reviews": 9,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 9
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 15,
+      "extra": {
+        "total_views": 6160810,
+        "foreign_video_count": 2,
+        "lang_breakdown": {
+          "korean": 13,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 1,
+          "english_other": 1
+        },
+        "sample_size": 15,
+        "top_videos": [
+          {
+            "title": "🔥피부과 전문의 원장님이 직접 말하는 #젠틀맥스프로플러스 A-Z🔥｜동탄피부과",
+            "channel": "밴스의원 VandS Clinic",
+            "url": "https://www.youtube.com/watch?v=kbEaRT3Y8Hs&pp=ygUi67C07Iqk7J2Y7JuQIOuqheuPme2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "703 views"
+          },
+          {
+            "title": "\"원장님께서 별세하셨기에\"…유명 피부과 '피해자 속출' / SBS 8뉴스",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=-3uLsD3sWGU&pp=ygUi67C07Iqk7J2Y7JuQIOuqheuPme2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "924K views"
+          },
+          {
+            "title": "✨리니어지 리프팅 효과✨밴스의원 신사점 원장님이 직접 보여준다! PD가 놀란 이유는?!😮(반반시술 비교, 시술후기, 통증)",
+            "channel": "밴스의원 VandS Clinic",
+            "url": "https://www.youtube.com/watch?v=QybAyMWD1eI&pp=ygUi67C07Iqk7J2Y7JuQIOuqheuPme2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "10K views"
+          },
+          {
+            "title": "\"시술 그만하겠다\"에 \"환불 불가\"…피부과 최다 / SBS",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=dYbmlkVo8AE&pp=ygUi67C07Iqk7J2Y7JuQIOuqheuPme2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "4.8K views"
+          },
+          {
+            "title": "피부과 시술 부작용 Vlog…ㅠ 내 피부 돌려줘.. 다신 안해…🫠ㅣMINCARONG",
+            "channel": "민카롱",
+            "url": "https://www.youtube.com/watch?v=wRJR2kY2x9w&pp=ygUi67C07Iqk7J2Y7JuQIOuqheuPme2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "1.7M views"
+          },
+          {
+            "title": "전직 10년차 직원이 말하는 피부과에서 일하면 안 되는 이유 4가지",
+            "channel": "소의튜브soytube",
+            "url": "https://www.youtube.com/watch?v=9TedcQ1CKwM&pp=ygUi67C07Iqk7J2Y7JuQIOuqheuPme2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "147K views"
+          },
+          {
+            "title": "대한민국 강남 피부과 원장들이 줄줄이 무너지는 진짜 이유",
+            "channel": "바른경제",
+            "url": "https://www.youtube.com/watch?v=YwtjZmKGy7M&pp=ygUi67C07Iqk7J2Y7JuQIOuqheuPme2UvOu2gOqzvCBLb3JlYdIHCQkNCwGHKiGM7w%3D%3D",
+            "view_text": "45K views"
+          },
+          {
+            "title": "공장형 피부 미용에 대해서 질문해 봤습니다.",
+            "channel": "피부엄마 조원장",
+            "url": "https://www.youtube.com/watch?v=zMZPPPvKTL8&pp=ygUi67C07Iqk7J2Y7JuQIOuqheuPme2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "2.9K views"
+          },
+          {
+            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUi67C07Iqk7J2Y7JuQIOuqheuPme2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "1M views"
+          },
+          {
+            "title": "서울대 피부과의사가 찍어주는 스킨부스터 완벽 정리. \"이 영상보면 호구 안당합니다\" - 이도영 피부과전문의",
+            "channel": "피부텐텐 · 피부가 예뻐지는 10분",
+            "url": "https://www.youtube.com/watch?v=rigKW7zrTeI&pp=ygUi67C07Iqk7J2Y7JuQIOuqheuPme2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "338K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 6,
+  "opportunity_cost_thb": 94500,
+  "opportunity_cost_krw": 3780000
+}

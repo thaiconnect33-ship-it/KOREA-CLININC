@@ -1,0 +1,147 @@
+{
+  "query": "서울예미인피부과의원",
+  "generated_at": "2026-05-28T23:51:30.299Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 801,
+      "extra": {
+        "place_id": "13032291",
+        "name": "서울예미인피부과의원 : 네이버\u001c",
+        "visitor_review_count": 564,
+        "blog_review_count": 237,
+        "detail_url": "https://m.place.naver.com/place/13032291/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "서울예미인피부과의원",
+        "rating": 3.3,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 1321597,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "넓은 이마, 헤어라인모발이식 주의점-[탈모인뉴스 인터뷰]",
+            "channel": "탈모인TV",
+            "url": "https://www.youtube.com/watch?v=gUSjjoHr8P0&pp=ygUt7ISc7Jq47JiI66-47J247ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1.9K views"
+          },
+          {
+            "title": "What Doctors Consider to Be a Good Doctor",
+            "channel": "예사부",
+            "url": "https://www.youtube.com/watch?v=H3TGspEuL3Q&pp=ygUt7ISc7Jq47JiI66-47J247ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "802 views"
+          },
+          {
+            "title": "플러스탈모치료-어떤치료?",
+            "channel": "탈모인TV",
+            "url": "https://www.youtube.com/watch?v=zVdSUaTiJAA&pp=ygUt7ISc7Jq47JiI66-47J247ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "41 views"
+          },
+          {
+            "title": "여성탈모 원인, 이드보라 원장",
+            "channel": "탈모인TV",
+            "url": "https://www.youtube.com/watch?v=tJX09WGi1Pg&pp=ygUt7ISc7Jq47JiI66-47J247ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1.2K views"
+          },
+          {
+            "title": "피부과 처음 가는데 나 뭐부터 해야 돼? 피부과전문의는 말합니다. 무조건 OOO부터 시작하세요!",
+            "channel": "렛미인닥터스 방숙현",
+            "url": "https://www.youtube.com/watch?v=mc9JUVOWW6k&pp=ygUt7ISc7Jq47JiI66-47J247ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "313 views"
+          },
+          {
+            "title": "인천에서 윤곽주사 맞기 전 꼭 봐야할 영상!",
+            "channel": "엘리트TV - ELITE Plastic Surgery in Korea",
+            "url": "https://www.youtube.com/watch?v=en7lGBbRS2w&pp=ygUt7ISc7Jq47JiI66-47J247ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "906 views"
+          },
+          {
+            "title": "2013 미스경북 22번 정미나",
+            "channel": "XXX",
+            "url": "https://www.youtube.com/watch?v=Y6-1c4zfElU&pp=ygUt7ISc7Jq47JiI66-47J247ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "475 views"
+          },
+          {
+            "title": "여성 탈모환자의 치료는 어떤가?-이드보라원장 인터뷰[탈모인뉴스 자문의]",
+            "channel": "탈모인TV",
+            "url": "https://www.youtube.com/watch?v=TNZbOvX2rL0&pp=ygUt7ISc7Jq47JiI66-47J247ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "682 views"
+          },
+          {
+            "title": "튠페이스, 튠라이너 시술 영상 아직도 안봤어요 비엘에스의원 본점",
+            "channel": "BLS클리닉",
+            "url": "https://www.youtube.com/watch?v=254Nsr89bTw&pp=ygUt7ISc7Jq47JiI66-47J247ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "850 views"
+          },
+          {
+            "title": "통증없이 리프팅! 아시겠어요?? 통증없이 리프팅 할 수 있는 '소노케어' or '물방울리프팅' 에 대해서 알려드릴께요!!",
+            "channel": "해피복happy_bok",
+            "url": "https://www.youtube.com/watch?v=61R6iSFfIz8&pp=ygUt7ISc7Jq47JiI66-47J247ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1.3K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

@@ -1,0 +1,145 @@
+{
+  "query": "일퍼센트성형외과의원",
+  "generated_at": "2026-05-29T00:07:50.319Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 14,
+      "extra": {
+        "name": "One Percent Plastic Surgery",
+        "rating": 3.8,
+        "total_reviews": 14,
+        "sample_size": 16,
+        "foreign_language_reviews": 16,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 16
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 100166,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "눈매교정, 쌍꺼풀수술시 필수일까? _메인1부 [동안사랑 김원장]",
+            "channel": "동안사랑김원장 (MS Plastic Sugery Clinic)",
+            "url": "https://www.youtube.com/watch?v=arrjJUr5t5U&pp=ygU27J287Y287IS87Yq47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "13K views"
+          },
+          {
+            "title": "Top 1 plastic surgery you should never do!",
+            "channel": "통찰의학 돈건통",
+            "url": "https://www.youtube.com/watch?v=RBAoNf82tJw&pp=ygU27J287Y287IS87Yq47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "960 views"
+          },
+          {
+            "title": "[성형외과추천] 클로엔성형외과 1분소.개.",
+            "channel": "클로엔",
+            "url": "https://www.youtube.com/watch?v=36vHLbWKMbs&pp=ygU27J287Y287IS87Yq47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "282 views"
+          },
+          {
+            "title": "[동아TV 뷰티앤 부티 시즌4] 김석한 원장님 출연! 가슴성형에 대한 모든 것! 슬리피, 홍수현, 가슴보형물, 세빈마텍 [OPERA Plastic Surgery 오페라성형외과]",
+            "channel": "오페라성형외과",
+            "url": "https://www.youtube.com/watch?v=CoNqya7N8Ik&pp=ygU27J287Y287IS87Yq47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1K views"
+          },
+          {
+            "title": "눈성형 케이스별 전후 후기 리뷰! [제1탄] 자연유착 쌍꺼풀수술 (비절개쌍꺼풀,자연유착쌍수)",
+            "channel": "그리다성형외과GRIDA TV",
+            "url": "https://www.youtube.com/watch?v=cifvVqgyoys&pp=ygU27J287Y287IS87Yq47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "6.2K views"
+          },
+          {
+            "title": "여자들이 쌍수를 하는 이유 I 쌍수당일~쌍수1개월 전 과정 공개! I 쌍수찐후기  비포애프터",
+            "channel": "Wonderful Plastic Surgery_원더풀성형외과",
+            "url": "https://www.youtube.com/watch?v=xsTSBInsUMo&pp=ygU27J287Y287IS87Yq47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "15K views"
+          },
+          {
+            "title": "Migraines: Can They Be Gone in 30 Minutes? | Headache Treatment at a Plastic Surgery Clinic | Mig...",
+            "channel": "통찰의학 돈건통",
+            "url": "https://www.youtube.com/watch?v=BT2mbHCc-eo&pp=ygU27J287Y287IS87Yq47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.6K views"
+          },
+          {
+            "title": "성형외과 전문의는 성형외과 관련 의학 용어를 다 알고 있을까?",
+            "channel": "다움성형외과 Dawoom Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=sY0TlF4XqZw&pp=ygU27J287Y287IS87Yq47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "491 views"
+          },
+          {
+            "title": "[바비톡 1분닥터] 쌍꺼풀수술 없이 눈 지방을 제거하는 수술이 있나요",
+            "channel": "디데이성형외과 D day plastic surgery KOREA",
+            "url": "https://www.youtube.com/watch?v=3IlkSokym2E&pp=ygU27J287Y287IS87Yq47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "137 views"
+          },
+          {
+            "title": "[부산눈성형] 성형에 대한 궁금증을 1분만에 풀어보자 ep1. 눈성형 매몰,절개,부분절개,순간유착을 90초 안에 설명하시오[노블레스성형외과]",
+            "channel": "노블레스성형외과-noblesse plastic surgery",
+            "url": "https://www.youtube.com/watch?v=cA3wsusRMG0&pp=ygU27J287Y287IS87Yq47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.6K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 8,
+  "opportunity_cost_thb": 92000,
+  "opportunity_cost_krw": 3680000
+}

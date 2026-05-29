@@ -1,0 +1,147 @@
+{
+  "query": "옥수수치과의원",
+  "generated_at": "2026-05-29T00:12:21.226Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 774,
+      "extra": {
+        "place_id": "13023638",
+        "name": "옥수수치과의원 : 네이버\u001c",
+        "visitor_review_count": 387,
+        "blog_review_count": 387,
+        "detail_url": "https://m.place.naver.com/place/13023638/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "옥수수치과",
+        "rating": 4.8,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 87298,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "[옥수수치과TV] 임플란트치과 선택TIP!",
+            "channel": "옥수수치과 TV",
+            "url": "https://www.youtube.com/watch?v=r8yICfRkY1Q&pp=ygUh7Jil7IiY7IiY7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "4.8K"
+          },
+          {
+            "title": "[옥수수치과TV] 양악수술은 치과에서 받으셔야 합니다!",
+            "channel": "옥수수치과 TV",
+            "url": "https://www.youtube.com/watch?v=pIVCCvJfksE&pp=ygUh7Jil7IiY7IiY7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "201"
+          },
+          {
+            "title": "내이처럼치과병원 옥용주 원장님의 닥터옥수수 채널 추천- 보스톤스마트치과의원 김종엽 원장",
+            "channel": "김종엽원장의 치과이야기",
+            "url": "https://www.youtube.com/watch?v=MB4dU2dmVRI&pp=ygUh7Jil7IiY7IiY7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "454"
+          },
+          {
+            "title": "[옥수수치과TV] 임플란트 나이제한 있나요?",
+            "channel": "옥수수치과 TV",
+            "url": "https://www.youtube.com/watch?v=B_zzRutk2zo&pp=ygUh7Jil7IiY7IiY7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "899"
+          },
+          {
+            "title": "실버치아건강과 마인드 / 옥수수치과 이승호 원장 / 실버캠프 아카데미",
+            "channel": "GoodNewsTV",
+            "url": "https://www.youtube.com/watch?v=C6m3iVFqgWU&pp=ygUh7Jil7IiY7IiY7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "4.8K"
+          },
+          {
+            "title": "[옥수수치과TV] 임플란트 수술 후 주의사항",
+            "channel": "옥수수치과 TV",
+            "url": "https://www.youtube.com/watch?v=LG2fvsbJUZ4&pp=ygUh7Jil7IiY7IiY7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "137"
+          },
+          {
+            "title": "[옥수수치과TV] 뽑지 않아도 되는 사랑니가 있나요?",
+            "channel": "옥수수치과 TV",
+            "url": "https://www.youtube.com/watch?v=2sWBz2DrcWw&pp=ygUh7Jil7IiY7IiY7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "345"
+          },
+          {
+            "title": "[옥수수치과TV] 양악수술 최소한의 선교정으로 좋은 결과를...",
+            "channel": "옥수수치과 TV",
+            "url": "https://www.youtube.com/watch?v=7jyqP3q_qZ8&pp=ygUh7Jil7IiY7IiY7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "299"
+          },
+          {
+            "title": "임플란트 어떻게 생겼는지 궁금하다구요?",
+            "channel": "옥수수치과 TV",
+            "url": "https://www.youtube.com/watch?v=Tn4cj5rwkvY&pp=ygUh7Jil7IiY7IiY7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "154"
+          },
+          {
+            "title": "[옥수수치과 TV]  양악수술에 관련된 필수주의 사항!",
+            "channel": "옥수수치과 TV",
+            "url": "https://www.youtube.com/watch?v=gSdTgJcDtsA&pp=ygUh7Jil7IiY7IiY7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "151"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

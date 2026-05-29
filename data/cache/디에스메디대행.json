@@ -1,0 +1,138 @@
+{
+  "query": "디에스메디대행",
+  "generated_at": "2026-05-28T22:45:55.862Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 26,
+      "extra": {
+        "place_id": "1836720579",
+        "name": "디에스메디 : 네이버\u001c",
+        "visitor_review_count": 26,
+        "blog_review_count": 0,
+        "detail_url": "https://m.place.naver.com/place/1836720579/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "Google Maps 결과 없음",
+        "foreign_language_reviews": 0
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 3749897,
+        "foreign_video_count": 2,
+        "lang_breakdown": {
+          "korean": 18,
+          "thai": 0,
+          "chinese": 1,
+          "japanese": 0,
+          "english_other": 1
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "귀욤뽀짝 몽디에스 라디오광고CM송 라디오광고제작 BY.멜로펀치",
+            "channel": "라디오광고 CM송 국내1위 멜로펀치",
+            "url": "https://www.youtube.com/watch?v=5hM7YcSpigw&pp=ygUh65SU7JeQ7Iqk66mU65SU6rSR6rOg64yA7ZaJIEtvcmVh",
+            "view_text": "146 views"
+          },
+          {
+            "title": "발기부전 치료제 싸게 먹는 방법. 제대로 알고 먹으면 더 좋다!!",
+            "channel": "오징어약사TV - 가장 쉬운 건강채널",
+            "url": "https://www.youtube.com/watch?v=nX4lug0LyUk&pp=ygUh65SU7JeQ7Iqk66mU65SU6rSR6rOg64yA7ZaJIEtvcmVh",
+            "view_text": "1.4M views"
+          },
+          {
+            "title": "포인트 임플란트 Point Implant 최수종",
+            "channel": "tvcfnet",
+            "url": "https://www.youtube.com/watch?v=JLDBfWWh4qw&pp=ygUh65SU7JeQ7Iqk66mU65SU6rSR6rOg64yA7ZaJIEtvcmVh",
+            "view_text": "4.4K views"
+          },
+          {
+            "title": "[존슨즈] 키즈샴푸 TV광고",
+            "channel": "Johnson's Korea",
+            "url": "https://www.youtube.com/watch?v=7OwrMkvYaTg&pp=ygUh65SU7JeQ7Iqk66mU65SU6rSR6rOg64yA7ZaJIEtvcmVh",
+            "view_text": "2M views"
+          },
+          {
+            "title": "라디오광고 CM송제작 치킨맴버 !!! 착한가격 치킨맴버 로고송",
+            "channel": "라디오광고 CM송 국내1위 멜로펀치",
+            "url": "https://www.youtube.com/watch?v=tQSoA5KBUAE&pp=ygUh65SU7JeQ7Iqk66mU65SU6rSR6rOg64yA7ZaJIEtvcmVh",
+            "view_text": "394 views"
+          },
+          {
+            "title": "하지정맥류가 의심될 땐? 하지정맥류 의료기기 \"베나실\" 라디오광고 제작 by.멜로펀치",
+            "channel": "라디오광고 CM송 국내1위 멜로펀치",
+            "url": "https://www.youtube.com/watch?v=EjQaGQ2EcOA&pp=ygUh65SU7JeQ7Iqk66mU65SU6rSR6rOg64yA7ZaJIEtvcmVh",
+            "view_text": "459 views"
+          },
+          {
+            "title": "방한마스크인데…버젓이 '미세먼지 차단' 광고 / 연합뉴스TV (YonhapnewsTV)",
+            "channel": "연합뉴스TV",
+            "url": "https://www.youtube.com/watch?v=yB29mYUZAis&pp=ygUh65SU7JeQ7Iqk66mU65SU6rSR6rOg64yA7ZaJIEtvcmVh",
+            "view_text": "226 views"
+          },
+          {
+            "title": "[TVCF] DK Dongkook Pharmaceutical - INSADOL (Lee Soon-jae, Lee Yoon-suk, Na Moon-hee, Oh Kwang-ro...",
+            "channel": "大鳥智博",
+            "url": "https://www.youtube.com/watch?v=w1wIjn3FIVc&pp=ygUh65SU7JeQ7Iqk66mU65SU6rSR6rOg64yA7ZaJIEtvcmVh",
+            "view_text": "69K views"
+          },
+          {
+            "title": "허리 편한 천장형 빨래건조대 '빨래너르미' CM송!",
+            "channel": "라디오광고 CM송 국내1위 멜로펀치",
+            "url": "https://www.youtube.com/watch?v=1AntY5jUNps&pp=ygUh65SU7JeQ7Iqk66mU65SU6rSR6rOg64yA7ZaJIEtvcmVh",
+            "view_text": "161 views"
+          },
+          {
+            "title": "제일벽지 라디오광고 CM송 영상 By. 멜로펀치 라디오광고제작 사운드마케팅 전문",
+            "channel": "라디오광고 CM송 국내1위 멜로펀치",
+            "url": "https://www.youtube.com/watch?v=JJrY7uk4XFM&pp=ygUh65SU7JeQ7Iqk66mU65SU6rSR6rOg64yA7ZaJIEtvcmVh",
+            "view_text": "308 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 2,
+  "opportunity_cost_thb": 99000,
+  "opportunity_cost_krw": 3960000
+}

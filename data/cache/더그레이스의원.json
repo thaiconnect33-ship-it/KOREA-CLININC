@@ -1,0 +1,147 @@
+{
+  "query": "더그레이스의원",
+  "generated_at": "2026-05-28T23:51:55.022Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 382,
+      "extra": {
+        "place_id": "1499004879",
+        "name": "더그레이스의원 : 네이버\u001c",
+        "visitor_review_count": 315,
+        "blog_review_count": 67,
+        "detail_url": "https://m.place.naver.com/place/1499004879/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Results",
+        "rating": 4.3,
+        "total_reviews": 0,
+        "sample_size": 6,
+        "foreign_language_reviews": 6,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 6
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 2386055,
+        "foreign_video_count": 1,
+        "lang_breakdown": {
+          "korean": 19,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 1
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "더그레이스 대표원장 인터뷰",
+            "channel": "더그레이스TV",
+            "url": "https://www.youtube.com/watch?v=6mPc1h6xs88&pp=ygUk642U6re466CI7J207Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "656 views"
+          },
+          {
+            "title": "더그레이스 대표원장 인터뷰 3",
+            "channel": "더그레이스TV",
+            "url": "https://www.youtube.com/watch?v=Sqa7F7QmTTo&pp=ygUk642U6re466CI7J207Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "538 views"
+          },
+          {
+            "title": "더그레이스의원 최종영상 mbms",
+            "channel": "더그레스의원",
+            "url": "https://www.youtube.com/watch?v=u8umLpGSdUo&pp=ygUk642U6re466CI7J207Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "108 views"
+          },
+          {
+            "title": "지방분해주사편",
+            "channel": "더그레이스TV",
+            "url": "https://www.youtube.com/watch?v=ztYukl_i-vA&pp=ygUk642U6re466CI7J207Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "23K views"
+          },
+          {
+            "title": "더그레이스  대표원장 인터뷰2",
+            "channel": "더그레이스TV",
+            "url": "https://www.youtube.com/watch?v=I9IFZmbfzz8&pp=ygUk642U6re466CI7J207Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "289 views"
+          },
+          {
+            "title": "의사가 직접 맞아본 위고비 |4회차!! |턱선이 생겼고 바지가 커졌다!",
+            "channel": "피부대장 도블리TV",
+            "url": "https://www.youtube.com/watch?v=Jc6i2fGllI8&pp=ygUk642U6re466CI7J207Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1.2K views"
+          },
+          {
+            "title": "10돼지 시절의 대표원장 '20kg감량' 노하우 대공개",
+            "channel": "더그레이스TV",
+            "url": "https://www.youtube.com/watch?v=1ogReZwJ4A0&pp=ygUk642U6re466CI7J207Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1.3K views"
+          },
+          {
+            "title": "[Ep.03] 허벅지부터 여유증까지! 더그레이스 부위별 역대급 전후사례 공개!",
+            "channel": "더그레이스TV",
+            "url": "https://www.youtube.com/watch?v=PDnS3jOobkE&pp=ygUk642U6re466CI7J207Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1.8K views"
+          },
+          {
+            "title": "UltraColl 100 vs 200, Which is Better Under the Eyes? with Busan Grace Dermatology (UltraColl 100...",
+            "channel": "Dr Kwon (Dermaster Official)",
+            "url": "https://www.youtube.com/watch?v=vrg-GKqK1LM&pp=ygUk642U6re466CI7J207Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "879 views"
+          },
+          {
+            "title": "닥터라이브 더그레이스의원 시크릿주사(feat.빠나나)",
+            "channel": "더그레이스TV",
+            "url": "https://www.youtube.com/watch?v=lxqvvk0-hx8&pp=ygUk642U6re466CI7J207Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "841 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 4,
+  "opportunity_cost_thb": 96500,
+  "opportunity_cost_krw": 3860000
+}

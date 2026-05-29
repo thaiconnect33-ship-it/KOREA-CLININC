@@ -1,0 +1,138 @@
+{
+  "query": "셀린의원 잠실점피부과",
+  "generated_at": "2026-05-28T23:27:25.088Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 2361,
+      "extra": {
+        "place_id": "2000259691",
+        "name": "셀린의원 잠실점 : 네이버\u001c",
+        "visitor_review_count": 240,
+        "blog_review_count": 2121,
+        "detail_url": "https://m.place.naver.com/place/2000259691/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "Google Maps 결과 없음",
+        "foreign_language_reviews": 0
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 5834450,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "[닥터스킨쉽] 직접 다 받아보고 추천하는 의사선생님  | 셀린의원 강남 강진규 대표원장 인터뷰 | 의사부부의 솔직한 피부이야기 #셀린의원 #강남피부과 #GangnamClinic",
+            "channel": "Dr.스킨쉽",
+            "url": "https://www.youtube.com/watch?v=mnxwuhG3-wc&pp=ygUl7IWA66aw7J2Y7JuQIOyeoOyLpOygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "473"
+          },
+          {
+            "title": "[닥터스킨쉽] 외국인 줄세운 강남 부부 피부과의 정체 | 셀린의원 강남 김유송 대표원장 인터뷰 | 의사부부의 솔직한 피부이야기 #셀린의원#강남피부과#K뷰티#GangnamClinic",
+            "channel": "Dr.스킨쉽",
+            "url": "https://www.youtube.com/watch?v=UVBv8eqYsuY&pp=ygUl7IWA66aw7J2Y7JuQIOyeoOyLpOygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "321"
+          },
+          {
+            "title": "[토르 리프팅] 의료진 리뷰_셀린 피부과 김영훈 원장님 편",
+            "channel": "토르리프팅",
+            "url": "https://www.youtube.com/watch?v=AqgwH72oi7M&pp=ygUl7IWA66aw7J2Y7JuQIOyeoOyLpOygkO2UvOu2gOqzvCBLb3JlYdIHCQkNCwGHKiGM7w%3D%3D",
+            "view_text": "3.1K"
+          },
+          {
+            "title": "\"엉터리 정보에 속지마세요.\" 진료과목 피부과 의사가 뽑은 가성비 시술 딱 '3가지'",
+            "channel": "지식인사이드",
+            "url": "https://www.youtube.com/watch?v=a4S4JNnRIXQ&pp=ygUl7IWA66aw7J2Y7JuQIOyeoOyLpOygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "1.7M"
+          },
+          {
+            "title": "고우리. 제가 직접 맞아봤습니다. 찐 후기 1분!!",
+            "channel": "셀온피부과 CELLON Dermatology",
+            "url": "https://www.youtube.com/watch?v=4TyORJD5ugc&pp=ygUl7IWA66aw7J2Y7JuQIOyeoOyLpOygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "368"
+          },
+          {
+            "title": "5 Dermatological Treatments That Will Make You Satisfied, According to a Gangnam Doctor",
+            "channel": "동네 의사 이상욱",
+            "url": "https://www.youtube.com/watch?v=C2RiYo2QlQs&pp=ygUl7IWA66aw7J2Y7JuQIOyeoOyLpOygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "1.3M"
+          },
+          {
+            "title": "가격은 저렴한데 효과는 확실한 피부 시술 TOP5 (의사 추천 가성비 시술)",
+            "channel": "동안의사 닥터셀리",
+            "url": "https://www.youtube.com/watch?v=e8KeGkjI3Lk&pp=ygUl7IWA66aw7J2Y7JuQIOyeoOyLpOygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "3.7K"
+          },
+          {
+            "title": "닥터제우스의 동안 상담실 –  중년 맞춤 시술 포인트 #중년시술 #동안필러 #피부관리 #피부시술 #피부과",
+            "channel": "닥터제우스",
+            "url": "https://www.youtube.com/watch?v=-C1FxKbFecg&pp=ygUl7IWA66aw7J2Y7JuQIOyeoOyLpOygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "67"
+          },
+          {
+            "title": "쥬브젠 ➕ 실리프팅, 웃을 때 깊어 보이던 팔자주름이 😲 확 달라졌어요 ‼️ 😎",
+            "channel": "닥터소현 Dr. So Hyun - 주름&리프팅 중점",
+            "url": "https://www.youtube.com/watch?v=eJE5Mg1_BN8&pp=ygUl7IWA66aw7J2Y7JuQIOyeoOyLpOygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "1.8K"
+          },
+          {
+            "title": "피부과 시술 부작용 Vlog…ㅠ 내 피부 돌려줘.. 다신 안해…🫠ㅣMINCARONG",
+            "channel": "민카롱",
+            "url": "https://www.youtube.com/watch?v=wRJR2kY2x9w&pp=ygUl7IWA66aw7J2Y7JuQIOyeoOyLpOygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "1.7M"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 90000,
+  "opportunity_cost_krw": 3600000
+}

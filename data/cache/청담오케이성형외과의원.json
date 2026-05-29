@@ -1,0 +1,148 @@
+{
+  "query": "청담오케이성형외과의원",
+  "generated_at": "2026-05-29T05:38:39.158Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 701,
+      "extra": {
+        "place_id": "1620999141",
+        "name": "청담오케이성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 157,
+        "blog_review_count": 544,
+        "detail_url": "https://m.place.naver.com/place/1620999141/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 14,
+      "extra": {
+        "name": "청담오케이성형외과",
+        "rating": 3.4,
+        "total_reviews": 14,
+        "sample_size": 20,
+        "foreign_language_reviews": 20,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 20
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 1048080,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "Must-Watch Before Love Handle Lipo: Key Surgical Points for a Beautiful Waistline",
+            "channel": "뽑기왕닥터성현주",
+            "url": "https://www.youtube.com/watch?v=6YXqflzWIHU&pp=ygUz7LKt64u07Jik7LyA7J207ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "678 views"
+          },
+          {
+            "title": "Hairline Tattoo Correction – Male Hair Transplant 3,500 Grafts (Strip Method)",
+            "channel": "뽑기왕닥터성현주",
+            "url": "https://www.youtube.com/watch?v=kC1nlu_2rqA&pp=ygUz7LKt64u07Jik7LyA7J207ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "262 views"
+          },
+          {
+            "title": "아름다움을 향한 욕구, 자연스러운 거 아닐까요? | 성형을 고민하는 당신이 꼭 알아야 할 진실 | 성형 고민, 외모지상주의, 자신감 | 오키도키오케이 청담오케이 이윤재 원장",
+            "channel": "오키도키 오케이",
+            "url": "https://www.youtube.com/watch?v=aIjUkB_O63I&pp=ygUz7LKt64u07Jik7LyA7J207ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "896 views"
+          },
+          {
+            "title": "Does Liposuction Really Cause Sagging Skin?",
+            "channel": "뽑기왕닥터성현주",
+            "url": "https://www.youtube.com/watch?v=XiLqlXu6JZs&pp=ygUz7LKt64u07Jik7LyA7J207ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "630 views"
+          },
+          {
+            "title": "#오케이성형외과 확장 이전 / 22.05.21부터 청담점 정상진료",
+            "channel": "성형외과 전문의 조희은",
+            "url": "https://www.youtube.com/watch?v=-jTNyQXQ-UU&pp=ygUz7LKt64u07Jik7LyA7J207ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "2.6K views"
+          },
+          {
+            "title": "수술 후 냉찜질 꼭 해야하는 이유?!  -오케이성형외과-",
+            "channel": "오케이성형외과의원",
+            "url": "https://www.youtube.com/watch?v=RKIHflph35w&pp=ygUz7LKt64u07Jik7LyA7J207ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "890 views"
+          },
+          {
+            "title": "[가슴축소]얼마나 줄일 수 있을지 고민 NO~! 얼마나 남겨야 예쁠까? OK!!!!",
+            "channel": "더성형외과",
+            "url": "https://www.youtube.com/watch?v=v8HU8Se8j6Y&pp=ygUz7LKt64u07Jik7LyA7J207ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "27K views"
+          },
+          {
+            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUz7LKt64u07Jik7LyA7J207ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1M views"
+          },
+          {
+            "title": "Hip Filler vs Fat Grafting, Which Is Better?",
+            "channel": "뽑기왕닥터성현주",
+            "url": "https://www.youtube.com/watch?v=9_9KhnGoO2Y&pp=ygUz7LKt64u07Jik7LyA7J207ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "393 views"
+          },
+          {
+            "title": "오케이성형외과 주차장 오시는 길 #차량",
+            "channel": "성형외과 전문의 조희은",
+            "url": "https://www.youtube.com/watch?v=emJL7u43VQg&pp=ygUz7LKt64u07Jik7LyA7J207ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "812 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 10,
+  "opportunity_cost_thb": 130000,
+  "opportunity_cost_krw": 5200000
+}

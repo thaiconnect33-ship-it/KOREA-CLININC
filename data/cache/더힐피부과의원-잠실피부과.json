@@ -1,0 +1,141 @@
+{
+  "query": "더힐피부과의원 잠실피부과",
+  "generated_at": "2026-05-28T23:26:33.989Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 71,
+      "extra": {
+        "place_id": "2054184311",
+        "name": "더힐피부과의원 잠실 : 네이버\u001c",
+        "visitor_review_count": 43,
+        "blog_review_count": 28,
+        "detail_url": "https://m.place.naver.com/place/2054184311/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "더힐피부과의원 잠실 / The Heal dermatology clinic Jamsil",
+        "rating": 5,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 9,
+      "extra": {
+        "total_views": 2207775,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 9,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 9,
+        "top_videos": [
+          {
+            "title": "우아한피부과 소개영상",
+            "channel": "우아한피부과",
+            "url": "https://www.youtube.com/watch?v=keH30Sajolw&pp=ygUr642U7Z6Q7ZS867aA6rO87J2Y7JuQIOyeoOyLpO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "1K views"
+          },
+          {
+            "title": "피부과 15년차 상담실장님이 말하는 '피부과 호구' 안되는 법 (추천시술 VS 비추천시술.zip📂)",
+            "channel": "황라희 Hwang Lahee",
+            "url": "https://www.youtube.com/watch?v=tD4qcIvpwyM&pp=ygUr642U7Z6Q7ZS867aA6rO87J2Y7JuQIOyeoOyLpO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "442K views"
+          },
+          {
+            "title": "피부과 시술 부작용 Vlog…ㅠ 내 피부 돌려줘.. 다신 안해…🫠ㅣMINCARONG",
+            "channel": "민카롱",
+            "url": "https://www.youtube.com/watch?v=wRJR2kY2x9w&pp=ygUr642U7Z6Q7ZS867aA6rO87J2Y7JuQIOyeoOyLpO2UvOu2gOqzvCBLb3JlYdIHCQkNCwGHKiGM7w%3D%3D",
+            "view_text": "1.7M views"
+          },
+          {
+            "title": "여드름 흉터, 절망에서 희망으로 바뀐 리얼 후기ㅣ동대문 피부과, 청량리 피부과, 흉터전문 피부과, 흉터 치료, 여드름 흉터, 여드름 흉터 레이저",
+            "channel": "피부구조대 오가나셀",
+            "url": "https://www.youtube.com/watch?v=G_WFXd8aIk4&pp=ygUr642U7Z6Q7ZS867aA6rO87J2Y7JuQIOyeoOyLpO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "37K views"
+          },
+          {
+            "title": "서울 시그니엘 타워에 오가나셀 피부과 3호점 입점했습니다 / 인테리어 점검",
+            "channel": "oh-pride 오프라이드 (오가나)",
+            "url": "https://www.youtube.com/watch?v=mQvSIuPLkHQ&pp=ygUr642U7Z6Q7ZS867aA6rO87J2Y7JuQIOyeoOyLpO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "24K views"
+          },
+          {
+            "title": "[비수술치료]힐트레이저",
+            "channel": "미사좋은하루정형외과의원",
+            "url": "https://www.youtube.com/watch?v=ojAx9lPNwRE&pp=ygUr642U7Z6Q7ZS867aA6rO87J2Y7JuQIOyeoOyLpO2UvOu2gOqzvCBLb3JlYdIHCQkNCwGHKiGM7w%3D%3D",
+            "view_text": "2.5K views"
+          },
+          {
+            "title": "송파피부과 미러의원 봄맞이 이벤트",
+            "channel": "미러의원",
+            "url": "https://www.youtube.com/watch?v=wMI0f5ZUIks&pp=ygUr642U7Z6Q7ZS867aA6rO87J2Y7JuQIOyeoOyLpO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "60 views"
+          },
+          {
+            "title": "[오시는길] 플렉스피부과 오시는길",
+            "channel": "화이트베이스 스튜디오",
+            "url": "https://www.youtube.com/watch?v=dyFWXgV7-0E&pp=ygUr642U7Z6Q7ZS867aA6rO87J2Y7JuQIOyeoOyLpO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "215 views"
+          },
+          {
+            "title": "#1 고주파온열암치료 암은 열에 약하다! (아이비랩)",
+            "channel": "(주)아이비랩",
+            "url": "https://www.youtube.com/watch?v=9gJl2SjmBso&pp=ygUr642U7Z6Q7ZS867aA6rO87J2Y7JuQIOyeoOyLpO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "1K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 90000,
+  "opportunity_cost_krw": 3600000
+}

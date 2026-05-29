@@ -1,0 +1,147 @@
+{
+  "query": "코헨의원",
+  "generated_at": "2026-05-28T23:17:51.558Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 73,
+      "extra": {
+        "place_id": "11609994",
+        "name": "코헨의원 : 네이버\u001c",
+        "visitor_review_count": 11,
+        "blog_review_count": 62,
+        "detail_url": "https://m.place.naver.com/place/11609994/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 5,
+      "extra": {
+        "name": "코헨성형외과",
+        "rating": 3.2,
+        "total_reviews": 5,
+        "sample_size": 6,
+        "foreign_language_reviews": 6,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 6
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 1130495,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "[코헨성형외과]  박귀호원장님과 상담하기 #코성형",
+            "channel": "코헨성형외과",
+            "url": "https://www.youtube.com/watch?v=Zx7_ZQU_-0k&pp=ygUe7L2U7Zeo7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "557 views"
+          },
+          {
+            "title": "[삼성동코헨 ]코성형수술잘하는병원 코헨성형외과",
+            "channel": "khpark2580",
+            "url": "https://www.youtube.com/watch?v=bTc68-Urz1E&pp=ygUe7L2U7Zeo7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "460 views"
+          },
+          {
+            "title": "코성형수술잘하는곳, 코헨성형외과 도전신데렐라",
+            "channel": "khpark2580",
+            "url": "https://www.youtube.com/watch?v=dhxk92iHYfM&pp=ygUe7L2U7Zeo7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "16K views"
+          },
+          {
+            "title": "코성형전문병원*코헨성형외과",
+            "channel": "khpark2580",
+            "url": "https://www.youtube.com/watch?v=rwGW2kZIVgE&pp=ygUe7L2U7Zeo7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "430 views"
+          },
+          {
+            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUe7L2U7Zeo7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1M views"
+          },
+          {
+            "title": "압구정역성형외과 압구정라인컬처",
+            "channel": "james KIN",
+            "url": "https://www.youtube.com/watch?v=w6PHDFj6akI&pp=ygUe7L2U7Zeo7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "32 views"
+          },
+          {
+            "title": "코코아성형외과 코성형 매부리코성형",
+            "channel": "코코아성형외과의원",
+            "url": "https://www.youtube.com/watch?v=OHLDfC8G0aM&pp=ygUe7L2U7Zeo7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1K views"
+          },
+          {
+            "title": "충전! 행복+ 코성형VS코필러",
+            "channel": "메디컬TV MedicalTV",
+            "url": "https://www.youtube.com/watch?v=GVzBL2f1A-U&pp=ygUe7L2U7Zeo7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "3.5K views"
+          },
+          {
+            "title": "코재수술, 자가진피 코성형",
+            "channel": "Sooeyon Han",
+            "url": "https://www.youtube.com/watch?v=hzNcxDwsa98&pp=ygUe7L2U7Zeo7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.6K views"
+          },
+          {
+            "title": "압구정-[모티브성형외과]-코성형잘하기로 유명한 추천병원",
+            "channel": "paradox734",
+            "url": "https://www.youtube.com/watch?v=AX6UjonDpvw&pp=ygUe7L2U7Zeo7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "791 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 3,
+  "opportunity_cost_thb": 97000,
+  "opportunity_cost_krw": 3880000
+}

@@ -1,0 +1,99 @@
+{
+  "query": "움튼산부인과의원산부인과",
+  "generated_at": "2026-05-28T22:49:45.448Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 1347,
+      "extra": {
+        "place_id": "20259888",
+        "name": "움튼산부인과의원 : 네이버\u001c",
+        "visitor_review_count": 843,
+        "blog_review_count": 504,
+        "detail_url": "https://m.place.naver.com/place/20259888/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 15,
+      "extra": {
+        "name": "WOMBTUNES OBGYN CLINIC",
+        "rating": 2.6,
+        "total_reviews": 15,
+        "sample_size": 20,
+        "foreign_language_reviews": 20,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 20
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 2,
+      "extra": {
+        "total_views": 4030,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 2,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 2,
+        "top_videos": [
+          {
+            "title": "특집 다큐멘터리 400년을 살아온 집 #존애원 전 #안동MBC 210107 방송 #상주",
+            "channel": "안동MBC PLUS",
+            "url": "https://www.youtube.com/watch?v=IA1m_zVChIU&pp=ygUq7JuA7Yq87IKw67aA7J246rO87J2Y7JuQ7IKw67aA7J246rO8IEtvcmVh",
+            "view_text": "3.9K"
+          },
+          {
+            "title": "나자렛집 개원30주년 기념영상",
+            "channel": "KKK",
+            "url": "https://www.youtube.com/watch?v=f3zwiKC81MY&pp=ygUq7JuA7Yq87IKw67aA7J246rO87J2Y7JuQ7IKw67aA7J246rO8IEtvcmVh",
+            "view_text": "130"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 10,
+  "opportunity_cost_thb": 90000,
+  "opportunity_cost_krw": 3600000
+}

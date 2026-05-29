@@ -1,0 +1,135 @@
+{
+  "query": "헤이데이의원 명동점피부과",
+  "generated_at": "2026-05-28T23:11:22.918Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 102,
+      "extra": {
+        "place_id": "1128772158",
+        "name": "헤이데이의원 명동점 : 네이버\u001c",
+        "visitor_review_count": 98,
+        "blog_review_count": 4,
+        "detail_url": "https://m.place.naver.com/place/1128772158/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "헤이데이의원 명동 | HEYDAY CLINIC Myeongdong | Heyday医院 明洞 | ヘイデイクリニック明洞店",
+        "rating": 4.9,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 8,
+      "extra": {
+        "total_views": 433733,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 8,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 8,
+        "top_videos": [
+          {
+            "title": "서울 중구 명동2가 완벽한아구찜,우먼스셀렉트,명동연세의원,리버스의원 명동점,연세미소래치과의원,한피부과의원,명동30cm아이스크림,유네스코회관 건물,창문,하부 구조,조명,이웃,하...",
+            "channel": "시네마틱스톡 CINEMATIC STOCK",
+            "url": "https://www.youtube.com/watch?v=YQLiUVQ_7_s&pp=ygUr7Zek7J20642w7J207J2Y7JuQIOuqheuPmeygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "127 views"
+          },
+          {
+            "title": "서울 중구 명동2가 고려약국,이제이엠,더식당,라화쿵부 명동2호점,미스터힐링 명동역점,명동신화,우먼스셀렉트 건물,하부 구조,식물,창문,건축학,이웃,하늘,도로 표면,선반,쇼핑 D...",
+            "channel": "시네마틱스톡 CINEMATIC STOCK",
+            "url": "https://www.youtube.com/watch?v=WY4Q0PBX6ew&pp=ygUr7Zek7J20642w7J207J2Y7JuQIOuqheuPmeygkO2UvOu2gOqzvCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "56 views"
+          },
+          {
+            "title": "서울 중구 명동2가 스미낀붓산 남대문지점,정석기업,무인우편창구,한진정보통신신용협동조합,씨앤라인,탑라인치과의원,커피스탠드,고려해운 운항관리부 건물,자동차,창문,을 통해,하늘,바...",
+            "channel": "시네마틱스톡 CINEMATIC STOCK",
+            "url": "https://www.youtube.com/watch?v=yAws-o059YY&pp=ygUr7Zek7J20642w7J207J2Y7JuQIOuqheuPmeygkO2UvOu2gOqzvCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "31 views"
+          },
+          {
+            "title": "목주름 콜라겐주사 셀프 시술!✨ ｜ 목주름, 목노화가 고민이신 분들 주목!",
+            "channel": "닥터 조성아",
+            "url": "https://www.youtube.com/watch?v=FtuODI_c3L8&pp=ygUr7Zek7J20642w7J207J2Y7JuQIOuqheuPmeygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "1.9K views"
+          },
+          {
+            "title": "vlogㅣ명동 레스케이프 호텔, 호캉스 브이로그ㅣ피크닉 🌿 정원 만들기 전시 🪴☔️",
+            "channel": "Aloha JH",
+            "url": "https://www.youtube.com/watch?v=GRDJlgl55cE&pp=ygUr7Zek7J20642w7J207J2Y7JuQIOuqheuPmeygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "42 views"
+          },
+          {
+            "title": "스킨부스터, 쉽게 생각하지 마세요🙅‍♂️제대로 알고 받아야 워너비 피부 등극!!│스킨부스터의 허와 실 (Summarize everything in the skin booster)",
+            "channel": "Dr Kwon (Dermaster Official)",
+            "url": "https://www.youtube.com/watch?v=iFDwKRxptTc&pp=ygUr7Zek7J20642w7J207J2Y7JuQIOuqheuPmeygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "70K views"
+          },
+          {
+            "title": "【4K HD】Busan Walk Seomyeon - Busan's Myeongdong | 釜山的明洞 - 釜山西面商圈 | 부산서면",
+            "channel": "dingo walk",
+            "url": "https://www.youtube.com/watch?v=LXVw8BhzvJk&pp=ygUr7Zek7J20642w7J207J2Y7JuQIOuqheuPmeygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "577 views"
+          },
+          {
+            "title": "[닥튜버] 한국인들이 참 못하는 성기자극-강동우성의원 강동우 원장",
+            "channel": "의학채널 비온뒤",
+            "url": "https://www.youtube.com/watch?v=0myXtTz_AGo&pp=ygUr7Zek7J20642w7J207J2Y7JuQIOuqheuPmeygkO2UvOu2gOqzvCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "361K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

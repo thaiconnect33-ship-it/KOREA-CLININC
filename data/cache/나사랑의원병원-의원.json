@@ -1,0 +1,138 @@
+{
+  "query": "나사랑의원병원,의원",
+  "generated_at": "2026-05-28T22:57:13.618Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 473,
+      "extra": {
+        "place_id": "11545872",
+        "name": "나사랑의원 : 네이버\u001c",
+        "visitor_review_count": 457,
+        "blog_review_count": 16,
+        "detail_url": "https://m.place.naver.com/place/11545872/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "Google Maps 결과 없음",
+        "foreign_language_reviews": 0
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 31448408,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "#사랑하는 나의 미다#미다의원 #내 사랑 꼬맹이들 #김시완원장님 #행복한 일터 #사랑하고 소중해❤️",
+            "channel": "유소영",
+            "url": "https://www.youtube.com/watch?v=NTuY5I308f4&pp=ygUi64KY7IKs656R7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "248 views"
+          },
+          {
+            "title": "[제주] [닥터박의 알쓸눈잡] 번쩍거리는 섬광, 눈에도 편두통이 있습니다 / 눈사랑안과의원 박대영",
+            "channel": "의학채널 비온뒤",
+            "url": "https://www.youtube.com/watch?v=cYmzM-FSlzM&pp=ygUi64KY7IKs656R7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "1.8K views"
+          },
+          {
+            "title": "사랑아이여성의원 조정현원장님 인터뷰",
+            "channel": "Jimmy Kim",
+            "url": "https://www.youtube.com/watch?v=q59_685PK4g&pp=ygUi64KY7IKs656R7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "1K views"
+          },
+          {
+            "title": "대학병원 예약 빨리 잡는 방법(명의가 필요한 진료 분야는?) - 前 대한의사협회장, 하트웰의원 노환규 원장",
+            "channel": "의학채널 비온뒤",
+            "url": "https://www.youtube.com/watch?v=EKjpwc2Aqn8&pp=ygUi64KY7IKs656R7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "3.2M views"
+          },
+          {
+            "title": "이런 증상이 있으면 정신과 병동에 입원하세요 | 정신과 입원 궁금증",
+            "channel": "닥터프렌즈",
+            "url": "https://www.youtube.com/watch?v=K76FYdi_4RE&pp=ygUi64KY7IKs656R7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "177K views"
+          },
+          {
+            "title": "기능의학이 뭐냐구요?",
+            "channel": "닥터케어톡",
+            "url": "https://www.youtube.com/watch?v=fBunUOZLvaI&pp=ygUi64KY7IKs656R7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYdIHCQkNCwGHKiGM7w%3D%3D",
+            "view_text": "1.1K views"
+          },
+          {
+            "title": "[제주] 내 눈에는 온찜질이 좋을까? 냉찜질이 좋을까? [닥터박의 알쓸눈잡] 눈사랑안과의원 박대영",
+            "channel": "의학채널 비온뒤",
+            "url": "https://www.youtube.com/watch?v=MEgghmWBuVk&pp=ygUi64KY7IKs656R7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "799 views"
+          },
+          {
+            "title": "[사랑아이여성의원] 자궁기형 진단 자궁경검사 하나면 충분하다",
+            "channel": "사랑아이여성의원",
+            "url": "https://www.youtube.com/watch?v=zLgkAML7RkQ&pp=ygUi64KY7IKs656R7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "158 views"
+          },
+          {
+            "title": "'살 빼기 성지' 전국에서 몰려드는 곳…수상한 약 알고 보니 / SBS 8뉴스",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=D9J995y6nBY&pp=ygUi64KY7IKs656R7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "178K views"
+          },
+          {
+            "title": "소아과는 줄어드는데…이 병원만 우후죽순 늘었다 (자막뉴스) / SBS",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=Ed45vi8FCdI&pp=ygUi64KY7IKs656R7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "5.2K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

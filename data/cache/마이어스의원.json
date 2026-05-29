@@ -1,0 +1,147 @@
+{
+  "query": "마이어스의원",
+  "generated_at": "2026-05-28T22:18:39.130Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 50,
+      "extra": {
+        "place_id": "20677075",
+        "name": "마이어스의원 : 네이버\u001c",
+        "visitor_review_count": 48,
+        "blog_review_count": 2,
+        "detail_url": "https://m.place.naver.com/place/20677075/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 3,
+      "extra": {
+        "name": "Results",
+        "rating": 5,
+        "total_reviews": 3,
+        "sample_size": 6,
+        "foreign_language_reviews": 6,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 6
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 9403,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "[망우동 우림시장 바른정형외과] 마이어스 칵테일 주사",
+            "channel": "바른정형외과의원",
+            "url": "https://www.youtube.com/watch?v=QQIvQS27q_U&pp=ygUk66eI7J207Ja07Iqk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "5K views"
+          },
+          {
+            "title": "해외환자이송 해외환자 응급환자 국내이송 문의전화 02 839 5544 서울구로디지털의원 내과 정형외과 피부과 성형외과 외래진료 PRP PDRN SVF 소르젠 도수치료 통증치료",
+            "channel": "성형외과전화팔삼구오오사사",
+            "url": "https://www.youtube.com/watch?v=0ORzALdHSpc&pp=ygUk66eI7J207Ja07Iqk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "16 views"
+          },
+          {
+            "title": "수액 치료 주사의 종류로는 감기 기관지염  갱년기 회복 남성 활력 코로나 회복 마이어스 혈액순환 간 해독 인지 개선 효도 면역 대상포진 등 있어요",
+            "channel": "성형외과전화팔삼구오오사사",
+            "url": "https://www.youtube.com/watch?v=aaT6GLi4vrU&pp=ygUk66eI7J207Ja07Iqk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "42 views"
+          },
+          {
+            "title": "광주 비타민주사 백옥/신데렐라주사 멀티블루 _ K성형외과",
+            "channel": "광주케이스타의원│케이스타성형외과",
+            "url": "https://www.youtube.com/watch?v=XMcVnxAyGPE&pp=ygUk66eI7J207Ja07Iqk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "2.4K views"
+          },
+          {
+            "title": "의사 처방전 서비스 마약검사 변호사 경찰관 관련 법무부 채용 신체 검사 의료 기관 지정서 취득한 서울 구로 디지털 내과 의원 내과 이비인후과 비뇨기과 산부인과 피부과 외과 성형외과",
+            "channel": "성형외과전화팔삼구오오사사",
+            "url": "https://www.youtube.com/watch?v=GUXsQXXAx_s&pp=ygUk66eI7J207Ja07Iqk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "308 views"
+          },
+          {
+            "title": "OBS TV주치의 433회 정맥영양주사_by 청담명작성형외과 박준한 원장",
+            "channel": "청담명작성형외과",
+            "url": "https://www.youtube.com/watch?v=WoWWPtEgGH8&pp=ygUk66eI7J207Ja07Iqk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "395 views"
+          },
+          {
+            "title": "외국인 마약검사 중국인 마약검사 연예인 마약검사 암 검사 혈액 암 유전자 종합 검사 독감 코로나 검사 방광염 검사 골밀도 검사 등 내과 진료 처방은 서울 구로 디지털 내과 의원",
+            "channel": "성형외과전화팔삼구오오사사",
+            "url": "https://www.youtube.com/watch?v=StQ5iSxr4QY&pp=ygUk66eI7J207Ja07Iqk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "7 views"
+          },
+          {
+            "title": "백옥 주사 미백 주사 필러 주사 신데렐라 주사 비만 치료 수액 진료 처방 주사 등 다양한 미용 수액 비만 관리 수액 진료 영양제 주사 성장 호르몬 주사 서울 구로 디지털 내과 의원",
+            "channel": "성형외과전화팔삼구오오사사",
+            "url": "https://www.youtube.com/watch?v=5r1uYb22EiY&pp=ygUk66eI7J207Ja07Iqk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "20 views"
+          },
+          {
+            "title": "02 839 5544 갑상선암 갑상선 기능 검사 갑상선 초음파 검사 혈액 검사 마약검사 수액 처방 잘 하는 서울 구로 디지털 의원 한인권 박사님 고혈압 당뇨 고지혈증 골다공증",
+            "channel": "성형외과전화팔삼구오오사사",
+            "url": "https://www.youtube.com/watch?v=Th-uwDBqFiw&pp=ygUk66eI7J207Ja07Iqk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "11 views"
+          },
+          {
+            "title": "채용 마약검사 입영 마약검사 공무원 마약 검사 경찰관 마약검사 변호사 마약검사 연예인 마약검사는 법무부 장관 지정서 받은 서울 구로 디지털 내과 의원",
+            "channel": "성형외과전화팔삼구오오사사",
+            "url": "https://www.youtube.com/watch?v=3-Jobd0YO9w&pp=ygUk66eI7J207Ja07Iqk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "11 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 3,
+  "opportunity_cost_thb": 97000,
+  "opportunity_cost_krw": 3880000
+}

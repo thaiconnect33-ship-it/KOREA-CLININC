@@ -1,0 +1,145 @@
+{
+  "query": "모즈의원 청담",
+  "generated_at": "2026-05-28T22:21:26.596Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "MODS Clinic",
+        "rating": 4.8,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 3672988,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "목주름 시술로 간단하게 없애는 방법! 목주름 필러 효과를 못 보셨다면 꼭 시청.ㅣ#모즈의원  #모즈클리닉",
+            "channel": "손승용원장의 안티에이징 탐구생활",
+            "url": "https://www.youtube.com/watch?v=aPdAP6KCkDY&pp=ygUo66qo7KaI7J2Y7JuQIOyyreuLtO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "7.4K views"
+          },
+          {
+            "title": "팔자주름 없애기! 가장 확실한 방법💉 \"국내 유일 팔자000으로 단번에 없애드립니다!\" #시술추천 ㅣ 모즈의원 - 손원장",
+            "channel": "손승용원장의 안티에이징 탐구생활",
+            "url": "https://www.youtube.com/watch?v=GBhgz0KsC-c&pp=ygUo66qo7KaI7J2Y7JuQIOyyreuLtO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "30K views"
+          },
+          {
+            "title": "줄기세포피부재생 주사로 나이 10살 어려지는 비밀 공개!",
+            "channel": "손승용원장의 안티에이징 탐구생활",
+            "url": "https://www.youtube.com/watch?v=SyEj0AbQTi8&pp=ygUo66qo7KaI7J2Y7JuQIOyyreuLtO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "12K views"
+          },
+          {
+            "title": "이거 모르고 리쥬란 하면 후회합니다 \"비추하는 솔직 이유\"​💉​🤫​  #리쥬란 #리쥬란힐러",
+            "channel": "손승용원장의 안티에이징 탐구생활",
+            "url": "https://www.youtube.com/watch?v=bQEsJjP3dHY&pp=ygUo66qo7KaI7J2Y7JuQIOyyreuLtO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "12K views"
+          },
+          {
+            "title": "미니거상?! 리얼 수술 후기 ※최초공개※ \"수술 전 후 과정 생생하게 보여드립니다..\" 이렇게 젊어지세요..💉",
+            "channel": "손승용원장의 안티에이징 탐구생활",
+            "url": "https://www.youtube.com/watch?v=YKCKs1_c0Vs&pp=ygUo66qo7KaI7J2Y7JuQIOyyreuLtO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "6.4K views"
+          },
+          {
+            "title": "\"Dermatologists don't tell you...\" We recommend popular youth-enhancing procedures these days. We...",
+            "channel": "박지윤의 피부 설명서",
+            "url": "https://www.youtube.com/watch?v=EFB-McCJG48&pp=ygUo66qo7KaI7J2Y7JuQIOyyreuLtO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "444K views"
+          },
+          {
+            "title": "스킨부스터 결절, 왜 생길까? 이젠 고우리 콜라겐부스터로 결절 걱정 NO!💉💦",
+            "channel": "손승용원장의 안티에이징 탐구생활",
+            "url": "https://www.youtube.com/watch?v=e219lOeRu_E&pp=ygUo66qo7KaI7J2Y7JuQIOyyreuLtO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "192 views"
+          },
+          {
+            "title": "HOW TO MAXIMIZE THE EFFECT OF ULTHERAPY UP TO 200% | Ultherapy energy level, price, shots",
+            "channel": "손승용원장의 안티에이징 탐구생활",
+            "url": "https://www.youtube.com/watch?v=Hf1Ajvv9BeI&pp=ygUo66qo7KaI7J2Y7JuQIOyyreuLtO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "461K views"
+          },
+          {
+            "title": "청담에끌라드의원 박소윤 원장-ELLISYS SENSE \"시술 시 시간·체력 소모가 절반으로 줄고 다운타임 짧아\"",
+            "channel": "D&PS[DNPS Dermatologist and Plastic Surgeon]",
+            "url": "https://www.youtube.com/watch?v=4IIOSbM9aTY&pp=ygUo66qo7KaI7J2Y7JuQIOyyreuLtO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "1.1K views"
+          },
+          {
+            "title": "부산 실리프팅 잘하는 곳 어디에 있는지 궁금하셨나요? 청담바로의원에서 젊어지자!",
+            "channel": "건강정보톡톡",
+            "url": "https://www.youtube.com/watch?v=RUz676BcfVU&pp=ygUo66qo7KaI7J2Y7JuQIOyyreuLtO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "400 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 140000,
+  "opportunity_cost_krw": 5600000
+}

@@ -1,0 +1,145 @@
+{
+  "query": "루비의원",
+  "generated_at": "2026-05-28T22:55:57.362Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "루비의원",
+        "rating": 1.8,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 6102445,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "루비레이저는 색소 치료의 끝판왕인가? 치료받고 '더 진해졌다, 효과 못 봤다.' 이 영상 한번 보고 가세요",
+            "channel": "방쌤TV 의사 방민철",
+            "url": "https://www.youtube.com/watch?v=hy9-dDQUpss&pp=ygUh66Oo67mE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "4.2K views"
+          },
+          {
+            "title": "피부과 시술 부작용 Vlog…ㅠ 내 피부 돌려줘.. 다신 안해…🫠ㅣMINCARONG",
+            "channel": "민카롱",
+            "url": "https://www.youtube.com/watch?v=wRJR2kY2x9w&pp=ygUh66Oo67mE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1.7M views"
+          },
+          {
+            "title": "🔥A collection of the hottest skin treatments these days🔥Recommended❓Not recommended❓",
+            "channel": "희재 HEEJAE",
+            "url": "https://www.youtube.com/watch?v=uS1FV0UEP2E&pp=ygUh66Oo67mE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "533K views"
+          },
+          {
+            "title": "리팟 레이저 부작용, 진료과목 피부과 의사가 양심 고백합니다 (흑자 치료 부작용에 대한 모든 것)",
+            "channel": "닥터클레어 박상아",
+            "url": "https://www.youtube.com/watch?v=GftKmlYdGuk&pp=ygUh66Oo67mE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "38K views"
+          },
+          {
+            "title": "\"You can look 10 years younger than your peers!\" 3 treatments even performed by a dermatologist.",
+            "channel": "박지윤의 피부 설명서",
+            "url": "https://www.youtube.com/watch?v=GN7n33Kw7BY&pp=ygUh66Oo67mE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "237K views"
+          },
+          {
+            "title": "“20년동안 제 아내가 가장 만족했던 동안 주사 공개합니다” 강남 피부과 의사가 아내에게 해주는 또래보다 10년 젊어지는 동안주사 3가지",
+            "channel": "피부는 성현철",
+            "url": "https://www.youtube.com/watch?v=z5f78sydJ8U&pp=ygUh66Oo67mE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "332K views"
+          },
+          {
+            "title": "권오정리얼뷰티(구.강남리더스미) 기미, 색소, 주근깨, 잡티 전후사진",
+            "channel": "권오정 TV",
+            "url": "https://www.youtube.com/watch?v=LoAKB0QmjVg&pp=ygUh66Oo67mE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "276 views"
+          },
+          {
+            "title": "서울대 피부과의사가 찍어주는 스킨부스터 완벽 정리. \"이 영상보면 호구 안당합니다\" - 이도영 피부과전문의",
+            "channel": "피부텐텐 · 피부가 예뻐지는 10분",
+            "url": "https://www.youtube.com/watch?v=rigKW7zrTeI&pp=ygUh66Oo67mE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "338K views"
+          },
+          {
+            "title": "정말 그렇게 하고 계신다고요..? 기미전문가가 강조하는 기미 치료의 가장 중요한 습관 한 가지! feat. 기미, 선크림, 자외선, 프리즘의원. 기미상궁 ep.03",
+            "channel": "한성민의 피부인사이드",
+            "url": "https://www.youtube.com/watch?v=MazYW78BBSY&pp=ygUh66Oo67mE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "9K views"
+          },
+          {
+            "title": "늦가을 피부질환과 미용치료 - 계명대 동산병원 피부과 류영욱 교수",
+            "channel": "대구MBC Program",
+            "url": "https://www.youtube.com/watch?v=vCvQvzTKYL4&pp=ygUh66Oo67mE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "582 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

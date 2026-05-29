@@ -1,0 +1,147 @@
+{
+  "query": "한땀성형외과의원병원,의원",
+  "generated_at": "2026-05-28T23:51:14.224Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 296,
+      "extra": {
+        "place_id": "1557604548",
+        "name": "한땀성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 223,
+        "blog_review_count": 73,
+        "detail_url": "https://m.place.naver.com/place/1557604548/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 3,
+      "extra": {
+        "name": "한땀성형외과",
+        "rating": 3.7,
+        "total_reviews": 3,
+        "sample_size": 6,
+        "foreign_language_reviews": 6,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 6
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 911415,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "한땀매몰 수술 당일 붓기 어느정도일까?",
+            "channel": "디비성형외과 DB Plastic Surgery DBtailTV",
+            "url": "https://www.youtube.com/watch?v=rIQojYt73HI&pp=ygUr7ZWc65WA7ISx7ZiV7Jm46rO87J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYdIHCQkNCwGHKiGM7w%3D%3D",
+            "view_text": "1.2K views"
+          },
+          {
+            "title": "한땀매몰 눈재수술 new case",
+            "channel": "디비성형외과 DB Plastic Surgery DBtailTV",
+            "url": "https://www.youtube.com/watch?v=N53puayBOAI&pp=ygUr7ZWc65WA7ISx7ZiV7Jm46rO87J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYdIHCQkNCwGHKiGM7w%3D%3D",
+            "view_text": "2.2K views"
+          },
+          {
+            "title": "한땀매몰 수술직후 사진공개",
+            "channel": "디비성형외과 DB Plastic Surgery DBtailTV",
+            "url": "https://www.youtube.com/watch?v=6IsdLyNHI8U&pp=ygUr7ZWc65WA7ISx7ZiV7Jm46rO87J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "3.6K views"
+          },
+          {
+            "title": "What happens immediately after single-stitch buried suture surgery?",
+            "channel": "디비성형외과 DB Plastic Surgery DBtailTV",
+            "url": "https://www.youtube.com/watch?v=vhlHKs9f7wk&pp=ygUr7ZWc65WA7ISx7ZiV7Jm46rO87J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYdIHCQkNCwGHKiGM7w%3D%3D",
+            "view_text": "315 views"
+          },
+          {
+            "title": "연예인들이 몰래 쌍수하는 방법(한땀매몰법)",
+            "channel": "디비성형외과 DB Plastic Surgery DBtailTV",
+            "url": "https://www.youtube.com/watch?v=yryeZUqO0Vw&pp=ygUr7ZWc65WA7ISx7ZiV7Jm46rO87J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "4.3K views"
+          },
+          {
+            "title": "\"강남 유명 성형외과서 수술 뒤 눈이 실명됐습니다\" [지금이뉴스] / YTN",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=UyMrX929Q4I&pp=ygUr7ZWc65WA7ISx7ZiV7Jm46rO87J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "576K views"
+          },
+          {
+            "title": "한땀매몰로 뒤쪽 라인 올리기",
+            "channel": "디비성형외과 DB Plastic Surgery DBtailTV",
+            "url": "https://www.youtube.com/watch?v=B0Z8JkA7Ot8&pp=ygUr7ZWc65WA7ISx7ZiV7Jm46rO87J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "7.5K views"
+          },
+          {
+            "title": "[단독] 강남 성형외과서 수술 뒤 '한쪽 눈 실명'…병원은 책임 회피 / JTBC 뉴스룸",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=DNlfZN4vPqU&pp=ygUr7ZWc65WA7ISx7ZiV7Jm46rO87J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "58K views"
+          },
+          {
+            "title": "절개재수술도 한땀매몰처럼 일부분만 가능?",
+            "channel": "디비성형외과 DB Plastic Surgery DBtailTV",
+            "url": "https://www.youtube.com/watch?v=c0erj7krj0c&pp=ygUr7ZWc65WA7ISx7ZiV7Jm46rO87J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "3.9K views"
+          },
+          {
+            "title": "한땀매몰 상표등록 하다!",
+            "channel": "디비성형외과 DB Plastic Surgery DBtailTV",
+            "url": "https://www.youtube.com/watch?v=W6_nVrXZDXk&pp=ygUr7ZWc65WA7ISx7ZiV7Jm46rO87J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "1.2K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 3,
+  "opportunity_cost_thb": 97000,
+  "opportunity_cost_krw": 3880000
+}

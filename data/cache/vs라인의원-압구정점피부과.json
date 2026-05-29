@@ -1,0 +1,147 @@
+{
+  "query": "VS라인의원 압구정점피부과",
+  "generated_at": "2026-05-28T22:38:16.605Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 2531,
+      "extra": {
+        "place_id": "1958726989",
+        "name": "VS라인의원 압구정점 : 네이버\u001c",
+        "visitor_review_count": 1712,
+        "blog_review_count": 819,
+        "detail_url": "https://m.place.naver.com/place/1958726989/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "VS Line Clinic",
+        "rating": 4.7,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 772223,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "[예능형] VS라인의원 x 쥬베룩",
+            "channel": "The SC",
+            "url": "https://www.youtube.com/watch?v=8KEM7jqEKaE&pp=ygUqVlPrnbzsnbjsnZjsm5Ag7JWV6rWs7KCV7KCQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "423 views"
+          },
+          {
+            "title": "\"Dermatologists don't tell you...\" We recommend popular youth-enhancing procedures these days. We...",
+            "channel": "박지윤의 피부 설명서",
+            "url": "https://www.youtube.com/watch?v=EFB-McCJG48&pp=ygUqVlPrnbzsnbjsnZjsm5Ag7JWV6rWs7KCV7KCQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "444K views"
+          },
+          {
+            "title": "브이라인 되고싶다면 V슈링크 시술 영상 비엘에스의원 압구정점",
+            "channel": "BLS클리닉",
+            "url": "https://www.youtube.com/watch?v=a8FNeVGI-Jk&pp=ygUqVlPrnbzsnbjsnZjsm5Ag7JWV6rWs7KCV7KCQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "202 views"
+          },
+          {
+            "title": "매끈한 얼굴라인 만드는 조각주사 함께 알아볼까요 비엘에스의원 압구정점",
+            "channel": "BLS클리닉",
+            "url": "https://www.youtube.com/watch?v=B0oBv8Mw9II&pp=ygUqVlPrnbzsnbjsnZjsm5Ag7JWV6rWs7KCV7KCQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "898 views"
+          },
+          {
+            "title": "온다 리프팅 시술 전 꼭 봐야하는 영상",
+            "channel": "여신티켓 - 피부탐구생활",
+            "url": "https://www.youtube.com/watch?v=vwW0SegSFPk&pp=ygUqVlPrnbzsnbjsnZjsm5Ag7JWV6rWs7KCV7KCQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "125 views"
+          },
+          {
+            "title": "요즘 뜨는 대세 클리닉! 오라클피부과·성형외과",
+            "channel": "오라클피부과",
+            "url": "https://www.youtube.com/watch?v=khRAKW8diqM&pp=ygUqVlPrnbzsnbjsnZjsm5Ag7JWV6rWs7KCV7KCQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "798 views"
+          },
+          {
+            "title": "매끈매끈한 피부 갖고 싶다면?",
+            "channel": "여신티켓 - 피부탐구생활",
+            "url": "https://www.youtube.com/watch?v=ywf9qjg5hwY&pp=ygUqVlPrnbzsnbjsnZjsm5Ag7JWV6rWs7KCV7KCQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "13 views"
+          },
+          {
+            "title": "아름다운 어깨라인! 승모근보톡스 시술 영상 비엘에스의원 압구정점",
+            "channel": "BLS클리닉",
+            "url": "https://www.youtube.com/watch?v=whOl8_uizMk&pp=ygUqVlPrnbzsnbjsnZjsm5Ag7JWV6rWs7KCV7KCQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1.2K views"
+          },
+          {
+            "title": "축~처진 얼굴 UP! 올리지오 시술 영상 비엘에스의원 압구정점",
+            "channel": "BLS클리닉",
+            "url": "https://www.youtube.com/watch?v=_zanG3C_ON8&pp=ygUqVlPrnbzsnbjsnZjsm5Ag7JWV6rWs7KCV7KCQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "962 views"
+          },
+          {
+            "title": "통증 없이 얼굴 탄력 해결 하고 싶어요🥹",
+            "channel": "여신티켓 - 피부탐구생활",
+            "url": "https://www.youtube.com/watch?v=NCyGvGQ0rGg&pp=ygUqVlPrnbzsnbjsnZjsm5Ag7JWV6rWs7KCV7KCQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "21 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 145000,
+  "opportunity_cost_krw": 5800000
+}

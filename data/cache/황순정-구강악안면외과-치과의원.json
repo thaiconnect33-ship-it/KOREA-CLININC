@@ -1,0 +1,147 @@
+{
+  "query": "황순정 구강악안면외과 치과의원",
+  "generated_at": "2026-05-29T00:11:00.988Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 425,
+      "extra": {
+        "place_id": "1456098705",
+        "name": "황순정 구강악안면외과 치과의원 : 네이버\u001c",
+        "visitor_review_count": 145,
+        "blog_review_count": 280,
+        "detail_url": "https://m.place.naver.com/place/1456098705/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "HSJ Oral and Maxillofacial Surgery Clinic",
+        "rating": 5,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 23409,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "황순정구강악안면외과치과 : 악교정수술이 궁금합니다",
+            "channel": "황순정구강악안면외과",
+            "url": "https://www.youtube.com/watch?v=8i6jHnqmAoI&pp=ygU47Zmp7Iic7KCVIOq1rOqwleyVheyViOuptOyZuOqzvCDsuZjqs7zsnZjsm5DsuZjqs7wgS29yZWE%3D",
+            "view_text": "1.3K views"
+          },
+          {
+            "title": "황순정구강악안면외과치과 : HSJ의 수술 시스템이 궁금합니다",
+            "channel": "황순정구강악안면외과",
+            "url": "https://www.youtube.com/watch?v=NcdEqlcoKrs&pp=ygU47Zmp7Iic7KCVIOq1rOqwleyVheyViOuptOyZuOqzvCDsuZjqs7zsnZjsm5DsuZjqs7wgS29yZWE%3D",
+            "view_text": "933 views"
+          },
+          {
+            "title": "황순정구강악안면외과치과 : 지식과 경험이 필수인 턱교정수술",
+            "channel": "황순정구강악안면외과",
+            "url": "https://www.youtube.com/watch?v=g3l3SiIbclQ&pp=ygU47Zmp7Iic7KCVIOq1rOqwleyVheyViOuptOyZuOqzvCDsuZjqs7zsnZjsm5DsuZjqs7wgS29yZWE%3D",
+            "view_text": "911 views"
+          },
+          {
+            "title": "황순정구강악안면외과치과 : 2층 시설 소개",
+            "channel": "황순정구강악안면외과",
+            "url": "https://www.youtube.com/watch?v=9xXbHjzhkWA&pp=ygU47Zmp7Iic7KCVIOq1rOqwleyVheyViOuptOyZuOqzvCDsuZjqs7zsnZjsm5DsuZjqs7wgS29yZWE%3D",
+            "view_text": "441 views"
+          },
+          {
+            "title": "황순정구강악안면외과치과 : 2층, 3층 시설 안내",
+            "channel": "황순정구강악안면외과",
+            "url": "https://www.youtube.com/watch?v=plfLpjHGRNg&pp=ygU47Zmp7Iic7KCVIOq1rOqwleyVheyViOuptOyZuOqzvCDsuZjqs7zsnZjsm5DsuZjqs7wgS29yZWE%3D",
+            "view_text": "1.2K views"
+          },
+          {
+            "title": "황순정구강악안면외과치과 - 외래진료와 수술준비부터 체크까지 알아보기",
+            "channel": "황순정구강악안면외과",
+            "url": "https://www.youtube.com/watch?v=LLD93s5-N3s&pp=ygU47Zmp7Iic7KCVIOq1rOqwleyVheyViOuptOyZuOqzvCDsuZjqs7zsnZjsm5DsuZjqs7wgS29yZWE%3D",
+            "view_text": "1.3K views"
+          },
+          {
+            "title": "황순정구강악안면외과치과 : 실시간 모니터링과 응급시스템이란?",
+            "channel": "황순정구강악안면외과",
+            "url": "https://www.youtube.com/watch?v=7Kgn_BzywVg&pp=ygU47Zmp7Iic7KCVIOq1rOqwleyVheyViOuptOyZuOqzvCDsuZjqs7zsnZjsm5DsuZjqs7wgS29yZWHSBwkJIwsBhyohjO8%3D",
+            "view_text": "421 views"
+          },
+          {
+            "title": "황순정구강악안면외과치과의원 - 인터뷰 촬영 영상",
+            "channel": "KNCM",
+            "url": "https://www.youtube.com/watch?v=SfVNooJo1js&pp=ygU47Zmp7Iic7KCVIOq1rOqwleyVheyViOuptOyZuOqzvCDsuZjqs7zsnZjsm5DsuZjqs7wgS29yZWE%3D",
+            "view_text": "113 views"
+          },
+          {
+            "title": "황순정구강악안면외과치과 : 3층 시설 소개",
+            "channel": "황순정구강악안면외과",
+            "url": "https://www.youtube.com/watch?v=GrYw0KvGh1s&pp=ygU47Zmp7Iic7KCVIOq1rOqwleyVheyViOuptOyZuOqzvCDsuZjqs7zsnZjsm5DsuZjqs7wgS29yZWE%3D",
+            "view_text": "873 views"
+          },
+          {
+            "title": "황순정구강악안면외과치과 : 구강악안면외과 전문분야란?",
+            "channel": "황순정구강악안면외과",
+            "url": "https://www.youtube.com/watch?v=T_ipqz-EadA&pp=ygU47Zmp7Iic7KCVIOq1rOqwleyVheyViOuptOyZuOqzvCDsuZjqs7zsnZjsm5DsuZjqs7wgS29yZWE%3D",
+            "view_text": "398 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

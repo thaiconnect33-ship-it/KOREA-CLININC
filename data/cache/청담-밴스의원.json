@@ -1,0 +1,147 @@
+{
+  "query": "청담 밴스의원",
+  "generated_at": "2026-05-28T22:20:54.082Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 4627,
+      "extra": {
+        "place_id": "1975377004",
+        "name": "청담 밴스의원 : 네이버\u001c",
+        "visitor_review_count": 757,
+        "blog_review_count": 3870,
+        "detail_url": "https://m.place.naver.com/place/1975377004/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 98,
+      "extra": {
+        "name": "Vands Clinic Cheongdam",
+        "rating": 4.7,
+        "total_reviews": 98,
+        "sample_size": 25,
+        "foreign_language_reviews": 25,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 25
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 11916703,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "청담 의사가 알려주는 S+급 가성비 시술은?  l  2025 가성비 시술 티어 리스트 공개! 👑",
+            "channel": "손승용원장의 안티에이징 탐구생활",
+            "url": "https://www.youtube.com/watch?v=u3696YRhla0&pp=ygUi7LKt64u0IOuwtOyKpOydmOybkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "1.2K views"
+          },
+          {
+            "title": "\"엉터리 정보에 속지마세요.\" 진료과목 피부과 의사가 뽑은 가성비 시술 딱 '3가지'",
+            "channel": "지식인사이드",
+            "url": "https://www.youtube.com/watch?v=a4S4JNnRIXQ&pp=ygUi7LKt64u0IOuwtOyKpOydmOybkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "1.7M views"
+          },
+          {
+            "title": "The hottest thing on YouTube..🔥 Revealing the truth about stem cell treatments, the ultimate anti...",
+            "channel": "뷰티나니?BeautyNANI?",
+            "url": "https://www.youtube.com/watch?v=nPG92oPDks0&pp=ygUi7LKt64u0IOuwtOyKpOydmOybkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "29K views"
+          },
+          {
+            "title": "\"원장님께서 별세하셨기에\"…유명 피부과 '피해자 속출' / SBS 8뉴스",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=-3uLsD3sWGU&pp=ygUi7LKt64u0IOuwtOyKpOydmOybkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "924K views"
+          },
+          {
+            "title": "Top 4 Dermatological Procedures Doctors Never Recommend to Your Family",
+            "channel": "동네 의사 이상욱",
+            "url": "https://www.youtube.com/watch?v=s-5hgOyRUbM&pp=ygUi7LKt64u0IOuwtOyKpOydmOybkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "960K views"
+          },
+          {
+            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUi7LKt64u0IOuwtOyKpOydmOybkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "1M views"
+          },
+          {
+            "title": "주사 맞더니 '픽' 쓰러져…수상한 강남 피부과 CCTV '충격'/ 연합뉴스 (Yonhapnews)",
+            "channel": "연합뉴스 Yonhapnews",
+            "url": "https://www.youtube.com/watch?v=HpxPrFejjX0&pp=ygUi7LKt64u0IOuwtOyKpOydmOybkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "184K views"
+          },
+          {
+            "title": "🔥피부과 전문의 원장님이 직접 말하는 #젠틀맥스프로플러스 A-Z🔥｜동탄피부과",
+            "channel": "밴스의원 VandS Clinic",
+            "url": "https://www.youtube.com/watch?v=kbEaRT3Y8Hs&pp=ygUi7LKt64u0IOuwtOyKpOydmOybkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "703 views"
+          },
+          {
+            "title": "[단독] 강남 성형외과에 '분통'…\"근육 썩고 사경 헤맸다\" / SBS 8뉴스",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=svfX3-lNpIw&pp=ygUi7LKt64u0IOuwtOyKpOydmOybkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "2.4M views"
+          },
+          {
+            "title": "5억 쓴 언니가 알려주는 진짜 시술 후기🔥 이건 하고, 이건 하지 마세요(병원 팁 + 가성비 시술까지)",
+            "channel": "lamuqe",
+            "url": "https://www.youtube.com/watch?v=VA9KKGWmwis&pp=ygUi7LKt64u0IOuwtOyKpOydmOybkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "314K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 13,
+  "opportunity_cost_thb": 127500,
+  "opportunity_cost_krw": 5100000
+}

@@ -1,0 +1,145 @@
+{
+  "query": "아비쥬의원 명동",
+  "generated_at": "2026-05-28T23:03:37.716Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Abijou Clinic Myeongdong",
+        "rating": 4.9,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 12,
+      "extra": {
+        "total_views": 3296600,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 12,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 12,
+        "top_videos": [
+          {
+            "title": "전직 10년차 직원이 말하는 피부과에서 일하면 안 되는 이유 4가지",
+            "channel": "소의튜브soytube",
+            "url": "https://www.youtube.com/watch?v=9TedcQ1CKwM&pp=ygUr7JWE67mE7KWs7J2Y7JuQIOuqheuPme2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "147K views"
+          },
+          {
+            "title": "스킨보톡스+리쥬란 시술 이렇게 합니다! #대전피부과 #스킨부스터 #리쥬란",
+            "channel": "불꽃닥터: 라끌레르 의원",
+            "url": "https://www.youtube.com/watch?v=E19L6XufDMc&pp=ygUr7JWE67mE7KWs7J2Y7JuQIOuqheuPme2Goe2Goe2UvOu2gOqzvCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "8.5K views"
+          },
+          {
+            "title": "집에서도 기미, 흑자 없애는 홈케어 관리 루틴 공개합니다⭐",
+            "channel": "피부엄마 조원장",
+            "url": "https://www.youtube.com/watch?v=p1SN55cJ3q8&pp=ygUr7JWE67mE7KWs7J2Y7JuQIOuqheuPme2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "301K views"
+          },
+          {
+            "title": "전직 피부과직원이 말하는 리쥬란힐러 효과 100% 보는 방법",
+            "channel": "소의튜브soytube",
+            "url": "https://www.youtube.com/watch?v=6y2qa9G0OFg&pp=ygUr7JWE67mE7KWs7J2Y7JuQIOuqheuPme2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "198K views"
+          },
+          {
+            "title": "남자 레이저 제모😎어떤 게 가장 고민이세요?(통증차이,효과,가격,시술횟수)",
+            "channel": "피부엄마 조원장",
+            "url": "https://www.youtube.com/watch?v=cKFlEPnWv_E&pp=ygUr7JWE67mE7KWs7J2Y7JuQIOuqheuPme2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "4K views"
+          },
+          {
+            "title": "A Skin Booster That Surpasses Rejuran? Elravie Retuo Treatment Review Revealed!",
+            "channel": "피부과전문의 피부담당 고원장",
+            "url": "https://www.youtube.com/watch?v=_Av3x8yQ9EU&pp=ygUr7JWE67mE7KWs7J2Y7JuQIOuqheuPme2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "27K views"
+          },
+          {
+            "title": "🔥A collection of the hottest skin treatments these days🔥Recommended❓Not recommended❓",
+            "channel": "희재 HEEJAE",
+            "url": "https://www.youtube.com/watch?v=uS1FV0UEP2E&pp=ygUr7JWE67mE7KWs7J2Y7JuQIOuqheuPme2Goe2Goe2UvOu2gOqzvCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "533K views"
+          },
+          {
+            "title": "좋다고 해서 하면 후회합니다. 수염 레이저 제모 5년차가 알려주는 레이저 제모 후기 [가격 / 부작용 / 관리법]",
+            "channel": "비트 BTE",
+            "url": "https://www.youtube.com/watch?v=dtSUGVOu2n4&pp=ygUr7JWE67mE7KWs7J2Y7JuQIOuqheuPme2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "366K views"
+          },
+          {
+            "title": "\"You don't have to spend a lot of money!\" Just 3 Botox injections are all you need for a youthful...",
+            "channel": "박지윤의 피부 설명서",
+            "url": "https://www.youtube.com/watch?v=Tl8vbpOC8mM&pp=ygUr7JWE67mE7KWs7J2Y7JuQIOuqheuPme2Goe2Goe2UvOu2gOqzvCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "906K views"
+          },
+          {
+            "title": "피부과관리 추천원픽!🍁 LDM 물방울관리의 모든것🌹",
+            "channel": "얼리닥터",
+            "url": "https://www.youtube.com/watch?v=5c_HQq9jnfY&pp=ygUr7JWE67mE7KWs7J2Y7JuQIOuqheuPme2Goe2Goe2UvOu2gOqzvCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "10K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

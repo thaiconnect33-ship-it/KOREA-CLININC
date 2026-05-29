@@ -1,0 +1,147 @@
+{
+  "query": "줌구강악안면외과치과의원",
+  "generated_at": "2026-05-29T00:11:33.150Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 615,
+      "extra": {
+        "place_id": "36084246",
+        "name": "줌구강악안면외과치과의원 : 네이버\u001c",
+        "visitor_review_count": 128,
+        "blog_review_count": 487,
+        "detail_url": "https://m.place.naver.com/place/36084246/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "JUM Oral and Maxillofacial Surgery, Dental Clinic",
+        "rating": 4.4,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 124919,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "양악 수술은 줌 구강악안면외과 (JUM ORAL & MAXILLOFACIAL SURGERY CLINIC)",
+            "channel": "The Best OMS",
+            "url": "https://www.youtube.com/watch?v=LVRPSmu066w&pp=ygUw7KSM6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "961"
+          },
+          {
+            "title": "A dental clinic performing double jaw surgery? This is not a plastic surgery clinic! Introducing ...",
+            "channel": "치과의사 송카롱",
+            "url": "https://www.youtube.com/watch?v=qXtSGk_bbK0&pp=ygUw7KSM6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "2.6K"
+          },
+          {
+            "title": "줌 구강악안면외과 - 양악수술, Seoul, Korea",
+            "channel": "The Best OMS",
+            "url": "https://www.youtube.com/watch?v=0tSrnHUhVWY&pp=ygUw7KSM6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "1.3K"
+          },
+          {
+            "title": "원장님은 양악수술 안하세요?! 1편 ㅣ 줌구강악안면외과",
+            "channel": "얼굴뼈 주민센터",
+            "url": "https://www.youtube.com/watch?v=rEvTVenwyTE&pp=ygUw7KSM6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "32K"
+          },
+          {
+            "title": "지금까지 이런 원장은 없었다. 이것은 디스인가 분석인가! 원장님은 수술 안하세요 2탄!! ㅣ 줌구강악안면외과",
+            "channel": "얼굴뼈 주민센터",
+            "url": "https://www.youtube.com/watch?v=SGbkoyrzTJc&pp=ygUw7KSM6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "6.2K"
+          },
+          {
+            "title": "줌구강악안면외과 [서울 X 부산] 두 원장님의 대환장 토크쇼 시작합니다.",
+            "channel": "얼굴뼈 주민센터",
+            "url": "https://www.youtube.com/watch?v=2HiRKUusnWw&pp=ygUw7KSM6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "2.7K"
+          },
+          {
+            "title": "황순정구강악안면외과치과 : 악교정수술이 궁금합니다",
+            "channel": "황순정구강악안면외과",
+            "url": "https://www.youtube.com/watch?v=8i6jHnqmAoI&pp=ygUw7KSM6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "1.3K"
+          },
+          {
+            "title": "이주민원장의 줌구강악안면외과 얼굴 뼈 주민센터 채널 추천 - 보스톤스마트치과의원 김종엽원장",
+            "channel": "김종엽원장의 치과이야기",
+            "url": "https://www.youtube.com/watch?v=FZE3V6-ByMU&pp=ygUw7KSM6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "459"
+          },
+          {
+            "title": "구강악안면외과 학회 기념일 행사에 다녀왔습니다! ㅣ 줌구강악안면외과",
+            "channel": "얼굴뼈 주민센터",
+            "url": "https://www.youtube.com/watch?v=o181Y-W3Iak&pp=ygUw7KSM6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "view_text": "1.7K"
+          },
+          {
+            "title": "사랑니를 구강악안면외과에서 뽑아야 하는 이유...? ㅣ와이구강악안면외과 치과의원",
+            "channel": "이석재의 양악생활",
+            "url": "https://www.youtube.com/watch?v=N5HFiRgf11M&pp=ygUw7KSM6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "3.3K"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

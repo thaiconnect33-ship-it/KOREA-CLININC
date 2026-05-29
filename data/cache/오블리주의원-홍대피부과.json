@@ -1,0 +1,147 @@
+{
+  "query": "오블리주의원 홍대피부과",
+  "generated_at": "2026-05-28T22:52:28.434Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 10471,
+      "extra": {
+        "place_id": "36999470",
+        "name": "오블리주의원 홍대 : 네이버\u001c",
+        "visitor_review_count": 2313,
+        "blog_review_count": 8158,
+        "detail_url": "https://m.place.naver.com/place/36999470/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "오블리주의원 홍대 | dermatology near me Ohvelyjoo Clinic hongdae skin clinic | Rejuran | ultherapy | オブリージュクリニック サーマクール | 歐薇麗珠診所 鳳凰電波",
+        "rating": 4.7,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 670862,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "[닥터오블리 현장스케치] 스킨부스터계의 레전드! 쥬베룩 100만 Vial 달성 기념행사에 다녀왔습니다!",
+            "channel": "lovely오블리주",
+            "url": "https://www.youtube.com/watch?v=u6Lc1a14Gyw&pp=ygUo7Jik67iU66as7KO87J2Y7JuQIO2ZjeuMgO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "24K views"
+          },
+          {
+            "title": "[Dr. Vlog] 성공적인 시술을 위한 원장님의 필수 준비 과정 공개!",
+            "channel": "lovely오블리주",
+            "url": "https://www.youtube.com/watch?v=zeiDVXQO14o&pp=ygUo7Jik67iU66as7KO87J2Y7JuQIO2ZjeuMgO2UvOu2gOqzvCBLb3JlYdIHCQkNCwGHKiGM7w%3D%3D",
+            "view_text": "436 views"
+          },
+          {
+            "title": "필러는 넣고, 자가진피재생술은 키운다? 둘 다 맞지만 완전히 달라요.",
+            "channel": "lovely오블리주",
+            "url": "https://www.youtube.com/watch?v=Kumw1WJXdtw&pp=ygUo7Jik67iU66as7KO87J2Y7JuQIO2ZjeuMgO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "27K views"
+          },
+          {
+            "title": "2025 트렌드 시술, 온다리프팅, '이렇게' 해야 효과 2배! 통증없이 강력한 리프팅!",
+            "channel": "lovely오블리주",
+            "url": "https://www.youtube.com/watch?v=VP6-MhYRiYc&pp=ygUo7Jik67iU66as7KO87J2Y7JuQIO2ZjeuMgO2UvOu2gOqzvCBLb3JlYdIHCQkNCwGHKiGM7w%3D%3D",
+            "view_text": "23K views"
+          },
+          {
+            "title": "챗GPT vs 닥터오블리 교차 검증시간! AI🤖한테 시술 추천 물어봤더니... 원장님 반응이?!",
+            "channel": "lovely오블리주",
+            "url": "https://www.youtube.com/watch?v=C1GDkgGUrQU&pp=ygUo7Jik67iU66as7KO87J2Y7JuQIO2ZjeuMgO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "58K views"
+          },
+          {
+            "title": "[닥터오블리 반반시술] 울쎄라 효과 100% 보는 얼굴은 바로 \"이런 분\"입니다!🔥 과연 내가 해당될까?!",
+            "channel": "lovely오블리주",
+            "url": "https://www.youtube.com/watch?v=Rb82MIFGGtY&pp=ygUo7Jik67iU66as7KO87J2Y7JuQIO2ZjeuMgO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "31K views"
+          },
+          {
+            "title": "[닥터오블리 시술정보] 떠오르는 안티에이징 스킨부스터는 바로 \"이 것!!\" 얼굴에 콜라겐 물광을 듬뿍!ㅣ시술 부위 및 과정, 효과, 주의사항 총정리!",
+            "channel": "lovely오블리주",
+            "url": "https://www.youtube.com/watch?v=djehNDQagqw&pp=ygUo7Jik67iU66as7KO87J2Y7JuQIO2ZjeuMgO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "53K views"
+          },
+          {
+            "title": "피부나이 진단 받다가 충격받은 PD... 당신의 피부가 실제 나이보다 젊은지 확인하는 방법 알려드립니다.",
+            "channel": "lovely오블리주",
+            "url": "https://www.youtube.com/watch?v=9ttnNqnYQMk&pp=ygUo7Jik67iU66as7KO87J2Y7JuQIO2ZjeuMgO2UvOu2gOqzvCBLb3JlYdIHCQkNCwGHKiGM7w%3D%3D",
+            "view_text": "40K views"
+          },
+          {
+            "title": "[닥터오블리 셀프시술] '이거' 하면 몸이 젊어 진다고? 실제로 제가 '직접' 해봤습니다. 안티에이징의 끝판왕 시술 대공개!!",
+            "channel": "lovely오블리주",
+            "url": "https://www.youtube.com/watch?v=CsRcwVyq65g&pp=ygUo7Jik67iU66as7KO87J2Y7JuQIO2ZjeuMgO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "726 views"
+          },
+          {
+            "title": "The real reason why expensive treatments don't work for me? How to reverse your skin's 'aging tech'",
+            "channel": "lovely오블리주",
+            "url": "https://www.youtube.com/watch?v=wF2Ox2XZ33M&pp=ygUo7Jik67iU66as7KO87J2Y7JuQIO2ZjeuMgO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "42K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 110000,
+  "opportunity_cost_krw": 4400000
+}

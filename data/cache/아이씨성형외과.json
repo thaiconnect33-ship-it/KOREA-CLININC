@@ -1,0 +1,146 @@
+{
+  "query": "아이씨성형외과",
+  "generated_at": "2026-05-29T05:43:46.713Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Results",
+        "rating": 4.9,
+        "total_reviews": 0,
+        "sample_size": 6,
+        "foreign_language_reviews": 6,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 6
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 295068,
+        "foreign_video_count": 20,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 2,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 18
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "IC Beauty Korea เอเจนซี่ศัลยกรรมความงามเกาหลี",
+            "channel": "IC Surgery",
+            "url": "https://www.youtube.com/watch?v=DrM8i0wGCd8&pp=ygUYSUMgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "19 views"
+          },
+          {
+            "title": "Thailand - where plastic surgery tourism can be fatal | Channel 4 News",
+            "channel": "Channel 4 News",
+            "url": "https://www.youtube.com/watch?v=aAl2NInf80w&pp=ygUYSUMgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "129K views"
+          },
+          {
+            "title": "Kim Min Ji: Plastic Surgery Exposed & The Truth Behind Her Boss Moves | Single's Inferno 5",
+            "channel": "K-Rush",
+            "url": "https://www.youtube.com/watch?v=9FmvQPHmMUo&pp=ygUYSUMgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "45K views"
+          },
+          {
+            "title": "Plastic Surgery: When Is A Patient Too Young - part one",
+            "channel": "westernmedicine1",
+            "url": "https://www.youtube.com/watch?v=lwmuua_C-ic&pp=ygUYSUMgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "306 views"
+          },
+          {
+            "title": "What is Plastic and Cosmetic Surgery Cost in Pakistan? | Dr. Farid Ahmed Khan",
+            "channel": "Cosmetic Surgery Institute Csi",
+            "url": "https://www.youtube.com/watch?v=f96Z5a90Vb4&pp=ygUYSUMgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "928 views"
+          },
+          {
+            "title": "V-Y plasty training - Myocutaneous simulator for teaching suture and reconstructive surgery",
+            "channel": "LEHMA Laboratório de Métodos Alternativos da UFPR",
+            "url": "https://www.youtube.com/watch?v=wzWNc4D2Ft0&pp=ygUYSUMgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "95K views"
+          },
+          {
+            "title": "University of Iowa Hospitals and Clinics, Plastic Surgery & Cosmetic Services - Montage",
+            "channel": "University of Iowa Health Care",
+            "url": "https://www.youtube.com/watch?v=jlK1cvgAwXM&pp=ygUYSUMgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "1.6K views"
+          },
+          {
+            "title": "Low cost DIY ICG Camera Saves Thousands   Tech Talk with Erez Dayan, MD and Samuel J  Lin, MD, MBA",
+            "channel": "Avance Plastic Surgery Institute: Dr. Erez Dayan",
+            "url": "https://www.youtube.com/watch?v=dXguB9yNkDc&pp=ygUYSUMgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "1.7K views"
+          },
+          {
+            "title": "Young Hong Kong girl wakes up from 30 plastic surgeries",
+            "channel": "hadeel adel",
+            "url": "https://www.youtube.com/watch?v=shzA4XJzn9g&pp=ygUYSUMgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "5K views"
+          },
+          {
+            "title": "An Alternative Procedure to the Brazilian Butt Lift",
+            "channel": "The Plastic Surgery Channel",
+            "url": "https://www.youtube.com/watch?v=iC-ogy8qntw&pp=ygUYSUMgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "460 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 19,
+  "opportunity_cost_thb": 87000,
+  "opportunity_cost_krw": 3480000
+}

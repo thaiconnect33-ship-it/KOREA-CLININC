@@ -1,0 +1,146 @@
+{
+  "query": "포춘피부과",
+  "generated_at": "2026-05-29T05:52:43.492Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Results",
+        "rating": 4.9,
+        "total_reviews": 0,
+        "sample_size": 6,
+        "foreign_language_reviews": 6,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 6
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 6696020,
+        "foreign_video_count": 16,
+        "lang_breakdown": {
+          "korean": 4,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 16
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "Why I QUIT Skincare Videos (Dermatologist)",
+            "channel": "Dr. Usama Syed",
+            "url": "https://www.youtube.com/watch?v=k3aIeABbNvY&pp=ygUZRm9ydHVuZSBEZXJtYXRvbG9neSBLb3JlYQ%3D%3D",
+            "view_text": "3.1M views"
+          },
+          {
+            "title": "I Went to a Celebrity Dermatologist in Korea! Full Step by Step",
+            "channel": "GRAZY GRACE",
+            "url": "https://www.youtube.com/watch?v=RqvEdWuzcwA&pp=ygUZRm9ydHVuZSBEZXJtYXRvbG9neSBLb3JlYQ%3D%3D",
+            "view_text": "337K views"
+          },
+          {
+            "title": "Sequence chinese",
+            "channel": "HS Koo",
+            "url": "https://www.youtube.com/watch?v=wzQ1hVdsWco&pp=ygUZRm9ydHVuZSBEZXJtYXRvbG9neSBLb3JlYQ%3D%3D",
+            "view_text": "32 views"
+          },
+          {
+            "title": "Why You're Overpaying for Skincare—and What a Dermatologist Would Buy Instead | Networth & Chill",
+            "channel": "Your Rich BFF",
+            "url": "https://www.youtube.com/watch?v=_VtaSG_EqoM&pp=ygUZRm9ydHVuZSBEZXJtYXRvbG9neSBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "95K views"
+          },
+          {
+            "title": "How to Manage Wrinkles with Honey + This for 3 Minutes Before Washing Your Face | Skincare #Senio...",
+            "channel": "건강정보",
+            "url": "https://www.youtube.com/watch?v=9ftA2786luE&pp=ygUZRm9ydHVuZSBEZXJtYXRvbG9neSBLb3JlYQ%3D%3D",
+            "view_text": "74K views"
+          },
+          {
+            "title": "Meet Clinique Derm Pro | Dermatologist Dr. Kang Seunghoon",
+            "channel": "Clinique Singapore",
+            "url": "https://www.youtube.com/watch?v=h6XRYZ-tLE0&pp=ygUZRm9ydHVuZSBEZXJtYXRvbG9neSBLb3JlYQ%3D%3D",
+            "view_text": "150 views"
+          },
+          {
+            "title": "Here’s What Your Moles Say About Your Dating Fortune, According To Koreans",
+            "channel": "Kpop Orion",
+            "url": "https://www.youtube.com/watch?v=fFFBdPZCWyk&pp=ygUZRm9ydHVuZSBEZXJtYXRvbG9neSBLb3JlYQ%3D%3D",
+            "view_text": "8 views"
+          },
+          {
+            "title": "KOREAN DERMATOLOGIST VISIT + HUGE Korean Skincare Giveaway (10 winners)",
+            "channel": "Beautifymeeh 뷰티파이미",
+            "url": "https://www.youtube.com/watch?v=gYB4D1CFvSo&pp=ygUZRm9ydHVuZSBEZXJtYXRvbG9neSBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "12K views"
+          },
+          {
+            "title": "CHEF RUSH SKIN TREATMENT in Korea  [View Plastic Surgery]",
+            "channel": "View Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=QQSTokZcYiM&pp=ygUZRm9ydHVuZSBEZXJtYXRvbG9neSBLb3JlYQ%3D%3D",
+            "view_text": "1.7K views"
+          },
+          {
+            "title": "Dermatologist Reveals: This Korean Secret Erases Wrinkles and Brown Spots in Weeks!",
+            "channel": "Le Docteur Révèle | Dr Enzo Durant",
+            "url": "https://www.youtube.com/watch?v=Wxz97rdX9pA&pp=ygUZRm9ydHVuZSBEZXJtYXRvbG9neSBLb3JlYQ%3D%3D",
+            "view_text": "1K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 16,
+  "opportunity_cost_thb": 89000,
+  "opportunity_cost_krw": 3560000
+}

@@ -1,0 +1,127 @@
+{
+  "query": "유앤영피부과의원 명동",
+  "generated_at": "2026-05-28T23:10:14.976Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Results",
+        "rating": 4,
+        "total_reviews": 0,
+        "sample_size": 7,
+        "foreign_language_reviews": 7,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 7
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 7,
+      "extra": {
+        "total_views": 2830300,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 7,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 7,
+        "top_videos": [
+          {
+            "title": "[메디텔] 성인여드름과 식습관의 관계 - 유앤영피부과 명동점 김지영 원장",
+            "channel": "의학채널 비온뒤",
+            "url": "https://www.youtube.com/watch?v=P-QhZceD9EE&pp=ygU07Jyg7JWk7JiB7ZS867aA6rO87J2Y7JuQIOuqheuPme2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "28K"
+          },
+          {
+            "title": "빨간얼굴 주사피부염😳완벽하게 완치하는 방법❗❗",
+            "channel": "피부영 유앤영",
+            "url": "https://www.youtube.com/watch?v=EmrTNDYYobA&pp=ygU07Jyg7JWk7JiB7ZS867aA6rO87J2Y7JuQIOuqheuPme2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "60K"
+          },
+          {
+            "title": "코로나 후유증: 탈모, 피부발진(유앤영피부과 명동점 김지영&정진희PD)",
+            "channel": "의학채널 비온뒤",
+            "url": "https://www.youtube.com/watch?v=sVZOyWWmOh4&pp=ygU07Jyg7JWk7JiB7ZS867aA6rO87J2Y7JuQIOuqheuPme2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "9.3K"
+          },
+          {
+            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygU07Jyg7JWk7JiB7ZS867aA6rO87J2Y7JuQIOuqheuPme2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "1M"
+          },
+          {
+            "title": "[2분30초] 밤마다 간지러워요-만성적인 가려움증 원인 찾는 법",
+            "channel": "의학채널 비온뒤",
+            "url": "https://www.youtube.com/watch?v=VMTAH5pMZuc&pp=ygU07Jyg7JWk7JiB7ZS867aA6rO87J2Y7JuQIOuqheuPme2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "407K"
+          },
+          {
+            "title": "도망쳐..지금이야!! 성형외과 블랙리스트 이렇게 거르세요",
+            "channel": "지유미 JIYUMEE",
+            "url": "https://www.youtube.com/watch?v=VK1hIW0QP-g&pp=ygU07Jyg7JWk7JiB7ZS867aA6rO87J2Y7JuQIOuqheuPme2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "126K"
+          },
+          {
+            "title": "자칭 성형 전문가 45세 이지혜 실리프팅 시술 최초공개(내돈내산, 찐후기)",
+            "channel": "밉지않은 관종언니",
+            "url": "https://www.youtube.com/watch?v=YBZl0vBx_AA&pp=ygU07Jyg7JWk7JiB7ZS867aA6rO87J2Y7JuQIOuqheuPme2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "1.2M"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 4,
+  "opportunity_cost_thb": 96500,
+  "opportunity_cost_krw": 3860000
+}

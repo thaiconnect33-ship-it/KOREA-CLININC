@@ -1,0 +1,147 @@
+{
+  "query": "더프라이드성형외과의원",
+  "generated_at": "2026-05-28T22:29:25.163Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 121,
+      "extra": {
+        "place_id": "2064936167",
+        "name": "더프라이드성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 41,
+        "blog_review_count": 80,
+        "detail_url": "https://m.place.naver.com/place/2064936167/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 22,
+      "extra": {
+        "name": "더 프라이드 성형외과(THE PRIDE PLASTIC SURGERY)",
+        "rating": 5,
+        "total_reviews": 22,
+        "sample_size": 20,
+        "foreign_language_reviews": 20,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 20
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 1434510,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "이청희 원장님이 말하는 피부 진료의 핵심｜더프라이드 성형외과",
+            "channel": "더프라이드성형외과",
+            "url": "https://www.youtube.com/watch?v=YQtlLmggRe8&pp=ygUz642U7ZSE65287J2065Oc7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "110"
+          },
+          {
+            "title": "성형수술 후회하냐고?  😤전혀!! ㅋㅋㅋㅋ #안면윤곽 #코재수술 #눈매교정",
+            "channel": "더프라이드성형외과",
+            "url": "https://www.youtube.com/watch?v=Xv7j_-s9dRI&pp=ygUz642U7ZSE65287J2065Oc7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "356"
+          },
+          {
+            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUz642U7ZSE65287J2065Oc7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1M"
+          },
+          {
+            "title": "도망쳐..지금이야!! 성형외과 블랙리스트 이렇게 거르세요",
+            "channel": "지유미 JIYUMEE",
+            "url": "https://www.youtube.com/watch?v=VK1hIW0QP-g&pp=ygUz642U7ZSE65287J2065Oc7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "126K"
+          },
+          {
+            "title": "How to find a good plastic surgeon🧡 How to find a good plastic surgeon and avoid plastic surgery ...",
+            "channel": "베레나verena",
+            "url": "https://www.youtube.com/watch?v=SQzMbIJMBTQ&pp=ygUz642U7ZSE65287J2065Oc7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "277K"
+          },
+          {
+            "title": "[PR성형외과] Pride UP! 가슴성형",
+            "channel": "피알_쁘리TV",
+            "url": "https://www.youtube.com/watch?v=mlYEEoNXtkI&pp=ygUz642U7ZSE65287J2065Oc7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "772"
+          },
+          {
+            "title": "성형외과, 성형전문의 헷갈리셨나요?",
+            "channel": "노블레스성형외과-noblesse plastic surgery",
+            "url": "https://www.youtube.com/watch?v=dB8vfctXDLY&pp=ygUz642U7ZSE65287J2065Oc7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "459"
+          },
+          {
+            "title": "（더성형외과 가슴성형）더성형외과의 코지가슴성형은 어떤 방식으로 진행되는 수술인가요?",
+            "channel": "더성형외과",
+            "url": "https://www.youtube.com/watch?v=vQ9MnTsUlss&pp=ygUz642U7ZSE65287J2065Oc7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "967"
+          },
+          {
+            "title": "성형외과 의사가 말하는 현실적인 의사되는 방법",
+            "channel": "쥬얼리클라쓰",
+            "url": "https://www.youtube.com/watch?v=qrAILv57BRI&pp=ygUz642U7ZSE65287J2065Oc7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "4.4K"
+          },
+          {
+            "title": "유튜버가 된 의사들, 그 이유는? (feat. 성형외과/피부과/가정의학과) ｜ Doctors on YouTube: Spreading the Knowledge",
+            "channel": "닥쓰리",
+            "url": "https://www.youtube.com/watch?v=Y7RuuMdz3Ow&pp=ygUz642U7ZSE65287J2065Oc7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "445"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 10,
+  "opportunity_cost_thb": 90000,
+  "opportunity_cost_krw": 3600000
+}

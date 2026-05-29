@@ -1,0 +1,145 @@
+{
+  "query": "라리성형외과의원",
+  "generated_at": "2026-05-29T00:02:03.324Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Sponsored",
+        "rating": 4.9,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 122601,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "[라리성형외과] 쌍수재수술 후기 전후( 짝짝이, 삼겹풀, 소세지눈교정)",
+            "channel": "라리두잇",
+            "url": "https://www.youtube.com/watch?v=LLhoJT3Ynik&pp=ygUw652866as7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.5K views"
+          },
+          {
+            "title": "쌍수매몰 티나지 않게 라리성형외과에서 해결",
+            "channel": "라리두잇",
+            "url": "https://www.youtube.com/watch?v=m4nvTpOfOlU&pp=ygUw652866as7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.7K views"
+          },
+          {
+            "title": "[라리성형외과] 쌍꺼풀재수술 눈매교정+눈꼬리내리는수술 뒤트임재수술 후기",
+            "channel": "라리두잇",
+            "url": "https://www.youtube.com/watch?v=yvWQlQy_O5U&pp=ygUw652866as7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "15K views"
+          },
+          {
+            "title": "[라리성형외과] 쌍수 매몰 아웃라인 붓기는 어떨까?",
+            "channel": "라리두잇",
+            "url": "https://www.youtube.com/watch?v=wEaaxDPGZVU&pp=ygUw652866as7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "38K views"
+          },
+          {
+            "title": "'성형 전→성형 후' 과장 광고·후기…유명 성형외과 적발 / SBS",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=SvbHboZOVCE&pp=ygUw652866as7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "5.9K views"
+          },
+          {
+            "title": "[라리성형외과] 쌍수 인라인 전후사진 (매몰+앞트임)",
+            "channel": "라리두잇",
+            "url": "https://www.youtube.com/watch?v=d9Vl1cQWMew&pp=ygUw652866as7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "9K views"
+          },
+          {
+            "title": "자연유착 자연유착법 / 매몰 쌍수 차이 ( 쌍꺼풀 수술 )",
+            "channel": "아이콘유닥-닥사친 [닥터사람친구",
+            "url": "https://www.youtube.com/watch?v=NGPU76KinSE&pp=ygUw652866as7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "4.4K views"
+          },
+          {
+            "title": "[압구정 김원장] 첫수술 병원 고르는 TIP! 재수술 전문병원은 첫수술을 못한다?   🙀",
+            "channel": "압구정김원장_성형외과전문의",
+            "url": "https://www.youtube.com/watch?v=RizdZKzszu0&pp=ygUw652866as7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "893 views"
+          },
+          {
+            "title": "[부산눈성형] 성형에 대한 궁금증을 1분만에 풀어보자 ep1. 눈성형 매몰,절개,부분절개,순간유착을 90초 안에 설명하시오[노블레스성형외과]",
+            "channel": "노블레스성형외과-noblesse plastic surgery",
+            "url": "https://www.youtube.com/watch?v=cA3wsusRMG0&pp=ygUw652866as7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.6K views"
+          },
+          {
+            "title": "[부산 눈성형] 쌍꺼풀 수술 라인 설명 들어갑니다. 인라인, 인아웃라인, 아웃라인을 쉽고 간단하게 설명해드립니다[노블레스성형외과]",
+            "channel": "노블레스성형외과-noblesse plastic surgery",
+            "url": "https://www.youtube.com/watch?v=Z1nI8f7XPU8&pp=ygUw652866as7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "2.3K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

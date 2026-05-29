@@ -1,0 +1,147 @@
+{
+  "query": "플랜에스의원 명동병원,의원",
+  "generated_at": "2026-05-28T23:03:17.999Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 350,
+      "extra": {
+        "place_id": "1702336034",
+        "name": "플랜에스의원 명동 : 네이버\u001c",
+        "visitor_review_count": 225,
+        "blog_review_count": 125,
+        "detail_url": "https://m.place.naver.com/place/1702336034/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "플랜에스의원 명동（プランエスクリニック明洞) PLAN;S CLINIC MyeongDong",
+        "rating": 4.9,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 14565517,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "두 번째 감량 플랜, 명동에서 이어집니다  🤝",
+            "channel": "플랜에스TV",
+            "url": "https://www.youtube.com/watch?v=u9X6j519E0Y&pp=ygUs7ZSM656c7JeQ7Iqk7J2Y7JuQIOuqheuPmeuzkeybkCzsnZjsm5AgS29yZWE%3D",
+            "view_text": "14K views"
+          },
+          {
+            "title": "💡시술 후 주의사항을 알려드립니다 l 플랜에스 다이어트",
+            "channel": "플랜에스TV",
+            "url": "https://www.youtube.com/watch?v=BT6RqSPyFdo&pp=ygUs7ZSM656c7JeQ7Iqk7J2Y7JuQIOuqheuPmeuzkeybkCzsnZjsm5AgS29yZWE%3D",
+            "view_text": "171 views"
+          },
+          {
+            "title": "살만 빼면 끝? NO❌ 다이어트 리프팅으로 라인까지 챙기셔야죠! l 플랜에스 다이어트",
+            "channel": "플랜에스TV",
+            "url": "https://www.youtube.com/watch?v=hPb1LKv0MAE&pp=ygUs7ZSM656c7JeQ7Iqk7J2Y7JuQIOuqheuPmeuzkeybkCzsnZjsm5AgS29yZWE%3D",
+            "view_text": "2.6K views"
+          },
+          {
+            "title": "요요는 이제 그만👋🏻 감량 후 체중 유지 방법 알려드립니다!🧐 l 플랜에스 다이어트",
+            "channel": "플랜에스TV",
+            "url": "https://www.youtube.com/watch?v=oo_LI7qGJm8&pp=ygUs7ZSM656c7JeQ7Iqk7J2Y7JuQIOuqheuPmeuzkeybkCzsnZjsm5AgS29yZWE%3D",
+            "view_text": "162 views"
+          },
+          {
+            "title": "'살 빼기 성지' 전국에서 몰려드는 곳…수상한 약 알고 보니 / SBS 8뉴스",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=D9J995y6nBY&pp=ygUs7ZSM656c7JeQ7Iqk7J2Y7JuQIOuqheuPmeuzkeybkCzsnZjsm5AgS29yZWE%3D",
+            "view_text": "178K views"
+          },
+          {
+            "title": "간단하지만 의외로 모르는 피부 관리법🪞 l 플랜에스 다이어트",
+            "channel": "플랜에스TV",
+            "url": "https://www.youtube.com/watch?v=WPvDXZoUWOU&pp=ygUs7ZSM656c7JeQ7Iqk7J2Y7JuQIOuqheuPmeuzkeybkCzsnZjsm5AgS29yZWE%3D",
+            "view_text": "411 views"
+          },
+          {
+            "title": "안 빠지는 하체비만!🥹 당신은 어떤 유형인가요? l 플랜에스 다이어트",
+            "channel": "플랜에스TV",
+            "url": "https://www.youtube.com/watch?v=gPzVYft9xhs&pp=ygUs7ZSM656c7JeQ7Iqk7J2Y7JuQIOuqheuPmeuzkeybkCzsnZjsm5AgS29yZWE%3D",
+            "view_text": "200 views"
+          },
+          {
+            "title": "2026 다이어트/뷰티 트랜드 알려드립니다 l 플랜에스 다이어트",
+            "channel": "플랜에스TV",
+            "url": "https://www.youtube.com/watch?v=9daxOM4hINE&pp=ygUs7ZSM656c7JeQ7Iqk7J2Y7JuQIOuqheuPmeuzkeybkCzsnZjsm5AgS29yZWE%3D",
+            "view_text": "167 views"
+          },
+          {
+            "title": "다이어트 주사보다 더 빠르게 살 빼려면 '이것' 드세요. 의사가 말하는 다이어트약 vs 주사. 지방을 몸밖으로 내보내는 약이 있다?",
+            "channel": "압구정 호산병원 [산부인과]",
+            "url": "https://www.youtube.com/watch?v=A6Y-_Ay-lbs&pp=ygUs7ZSM656c7JeQ7Iqk7J2Y7JuQIOuqheuPmeuzkeybkCzsnZjsm5AgS29yZWE%3D",
+            "view_text": "454K views"
+          },
+          {
+            "title": "[자막뉴스] \"헉! 이 언니 경찰이었어요?\" 커피 한 잔 시키더니 '돌변' (MBC뉴스)",
+            "channel": "MBCNEWS",
+            "url": "https://www.youtube.com/watch?v=nDV9ffUJljY&pp=ygUs7ZSM656c7JeQ7Iqk7J2Y7JuQIOuqheuPmeuzkeybkCzsnZjsm5AgS29yZWE%3D",
+            "view_text": "5.3M views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

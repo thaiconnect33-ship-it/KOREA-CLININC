@@ -1,0 +1,145 @@
+{
+  "query": "청담오케이의원",
+  "generated_at": "2026-05-28T22:13:21.173Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 760,
+      "extra": {
+        "name": "Results",
+        "rating": 4.9,
+        "total_reviews": 760,
+        "sample_size": 6,
+        "foreign_language_reviews": 6,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 6
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 18,
+      "extra": {
+        "total_views": 1682012,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 18,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 18,
+        "top_videos": [
+          {
+            "title": "[서면성형외과]부분절개법+눈매교정 10개월 후 모습은?",
+            "channel": "오케이성형외과의원",
+            "url": "https://www.youtube.com/watch?v=8s6_QKxqb3k&pp=ygUt7LKt64u07Jik7LyA7J207J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "338"
+          },
+          {
+            "title": "'성형 전→성형 후' 과장 광고·후기…유명 성형외과 적발 / SBS",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=SvbHboZOVCE&pp=ygUt7LKt64u07Jik7LyA7J207J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "5.9K"
+          },
+          {
+            "title": "가슴축소수술, 가슴만 작아지는게 아닙니다!",
+            "channel": "플랜비성형외과 PlanB Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=ikaQ3s8LCwM&pp=ygUt7LKt64u07Jik7LyA7J207J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "570"
+          },
+          {
+            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUt7LKt64u07Jik7LyA7J207J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1M"
+          },
+          {
+            "title": "도망쳐..지금이야!! 성형외과 블랙리스트 이렇게 거르세요",
+            "channel": "지유미 JIYUMEE",
+            "url": "https://www.youtube.com/watch?v=VK1hIW0QP-g&pp=ygUt7LKt64u07Jik7LyA7J207J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "126K"
+          },
+          {
+            "title": "+ 눈 성형/ 군산파티마의원 조상곤 원장",
+            "channel": "전주MBC Original",
+            "url": "https://www.youtube.com/watch?v=EXDXy9azsuQ&pp=ygUt7LKt64u07Jik7LyA7J207J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "933"
+          },
+          {
+            "title": "❌권하지 않는 가슴 시술🙅‍♂️ ep.3 가슴 지방이식 | feat. 줄기세포 가슴성형",
+            "channel": "나나TV - 나나성형외과",
+            "url": "https://www.youtube.com/watch?v=txQ8oEBFXxw&pp=ygUt7LKt64u07Jik7LyA7J207J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "58K"
+          },
+          {
+            "title": "How to find a good plastic surgeon🧡 How to find a good plastic surgeon and avoid plastic surgery ...",
+            "channel": "베레나verena",
+            "url": "https://www.youtube.com/watch?v=SQzMbIJMBTQ&pp=ygUt7LKt64u07Jik7LyA7J207J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "277K"
+          },
+          {
+            "title": "가슴 종양이 있는데 모유수유를 하면? #Shorts",
+            "channel": "산뜻의사",
+            "url": "https://www.youtube.com/watch?v=OSm4UzCp4X8&pp=ygUt7LKt64u07Jik7LyA7J207J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "230"
+          },
+          {
+            "title": "눈성형,코성형 수술기구 전격 공개! (성형외과 수술실에서 무슨일이 일어날까 3편)",
+            "channel": "닥터혜자",
+            "url": "https://www.youtube.com/watch?v=FIIqCKR4nKk&pp=ygUt7LKt64u07Jik7LyA7J207J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "9.2K"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 3,
+  "opportunity_cost_thb": 137000,
+  "opportunity_cost_krw": 5480000
+}

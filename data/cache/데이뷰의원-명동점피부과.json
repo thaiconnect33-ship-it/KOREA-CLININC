@@ -1,0 +1,147 @@
+{
+  "query": "데이뷰의원 명동점피부과",
+  "generated_at": "2026-05-28T23:05:07.181Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 2809,
+      "extra": {
+        "place_id": "1159646885",
+        "name": "데이뷰의원 명동점 : 네이버\u001c",
+        "visitor_review_count": 92,
+        "blog_review_count": 2717,
+        "detail_url": "https://m.place.naver.com/place/1159646885/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Results",
+        "rating": 4.9,
+        "total_reviews": 0,
+        "sample_size": 9,
+        "foreign_language_reviews": 9,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 9
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 13,
+      "extra": {
+        "total_views": 7024116,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 13,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 13,
+        "top_videos": [
+          {
+            "title": "데이뷰의원 진정관리 크라이오",
+            "channel": "데이뷰의원 강서발산점",
+            "url": "https://www.youtube.com/watch?v=cHEiL3aMB6w&pp=ygUo642w7J2067ew7J2Y7JuQIOuqheuPmeygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "3.4K views"
+          },
+          {
+            "title": "피부과 시술 부작용 Vlog…ㅠ 내 피부 돌려줘.. 다신 안해…🫠ㅣMINCARONG",
+            "channel": "민카롱",
+            "url": "https://www.youtube.com/watch?v=wRJR2kY2x9w&pp=ygUo642w7J2067ew7J2Y7JuQIOuqheuPmeygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "1.7M views"
+          },
+          {
+            "title": "[자막뉴스] \"말도 안돼, 이렇게 비싸다고?\" 피부과 시술 받고 얼마 냈길래... / KBS 2025.07.21.",
+            "channel": "KBS News",
+            "url": "https://www.youtube.com/watch?v=NMNVrhfvxpY&pp=ygUo642w7J2067ew7J2Y7JuQIOuqheuPmeygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "294K views"
+          },
+          {
+            "title": "피부과 10년차가 말하는 받으면 호구되는 시술 3가지",
+            "channel": "소의튜브soytube",
+            "url": "https://www.youtube.com/watch?v=fiJ6_nrjt7A&pp=ygUo642w7J2067ew7J2Y7JuQIOuqheuPmeygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "1.4M views"
+          },
+          {
+            "title": "What kind of treatments do I get? I’m telling you everything💆🏻‍♀️",
+            "channel": "최종시안",
+            "url": "https://www.youtube.com/watch?v=8W31tqhdvLA&pp=ygUo642w7J2067ew7J2Y7JuQIOuqheuPmeygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "1M views"
+          },
+          {
+            "title": "Top 4 Dermatological Procedures Doctors Never Recommend to Your Family",
+            "channel": "동네 의사 이상욱",
+            "url": "https://www.youtube.com/watch?v=s-5hgOyRUbM&pp=ygUo642w7J2067ew7J2Y7JuQIOuqheuPmeygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "960K views"
+          },
+          {
+            "title": "서울대 피부과의사가 찍어주는 스킨부스터 완벽 정리. \"이 영상보면 호구 안당합니다\" - 이도영 피부과전문의",
+            "channel": "피부텐텐 · 피부가 예뻐지는 10분",
+            "url": "https://www.youtube.com/watch?v=rigKW7zrTeI&pp=ygUo642w7J2067ew7J2Y7JuQIOuqheuPmeygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "338K views"
+          },
+          {
+            "title": "5 Dermatological Treatments That Will Make You Satisfied, According to a Gangnam Doctor",
+            "channel": "동네 의사 이상욱",
+            "url": "https://www.youtube.com/watch?v=C2RiYo2QlQs&pp=ygUo642w7J2067ew7J2Y7JuQIOuqheuPmeygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "1.3M views"
+          },
+          {
+            "title": "vlog | Dermatology Consulting Room Manager | Coordinator | From Department Store Information Desk...",
+            "channel": "밍다헤",
+            "url": "https://www.youtube.com/watch?v=5JkGnta3_jY&pp=ygUo642w7J2067ew7J2Y7JuQIOuqheuPmeygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "14K views"
+          },
+          {
+            "title": "vlogㅣ명동 레스케이프 호텔, 호캉스 브이로그ㅣ피크닉 🌿 정원 만들기 전시 🪴☔️",
+            "channel": "Aloha JH",
+            "url": "https://www.youtube.com/watch?v=GRDJlgl55cE&pp=ygUo642w7J2067ew7J2Y7JuQIOuqheuPmeygkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "42 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 5,
+  "opportunity_cost_thb": 95500,
+  "opportunity_cost_krw": 3820000
+}

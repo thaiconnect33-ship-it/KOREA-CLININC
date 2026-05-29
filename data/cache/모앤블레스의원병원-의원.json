@@ -1,0 +1,147 @@
+{
+  "query": "모앤블레스의원병원,의원",
+  "generated_at": "2026-05-28T23:53:17.178Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 1711,
+      "extra": {
+        "place_id": "33617922",
+        "name": "모앤블레스의원 : 네이버\u001c",
+        "visitor_review_count": 187,
+        "blog_review_count": 1524,
+        "detail_url": "https://m.place.naver.com/place/33617922/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Moe and Breath Clinic",
+        "rating": 4.6,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 573356,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "[모앤블레스] 건강 및 질환으로 인한 탈모는 어떤 병원을 방문해야 할까? (feat.삼탈모)",
+            "channel": "탈모박사 신박사",
+            "url": "https://www.youtube.com/watch?v=moiJCH3eJzo&pp=ygUo66qo7JWk67iU66CI7Iqk7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "76 views"
+          },
+          {
+            "title": "[모앤블레스의원] 모발이식 병원마다 달라지는 견적? 나에게 맞는 견적은?",
+            "channel": "탈모박사 신박사",
+            "url": "https://www.youtube.com/watch?v=DmbFTeoE2QA&pp=ygUo66qo7JWk67iU66CI7Iqk7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "826 views"
+          },
+          {
+            "title": "[모앤블레스] 절개 모발이식을 하지 않는 이유!",
+            "channel": "탈모박사 신박사",
+            "url": "https://www.youtube.com/watch?v=L0Vld5favKQ&pp=ygUo66qo7JWk67iU66CI7Iqk7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "4.4K views"
+          },
+          {
+            "title": "모앤제일의원 홍관의 원장님 상담영상",
+            "channel": "모앤제일",
+            "url": "https://www.youtube.com/watch?v=IjLlKjf9gA0&pp=ygUo66qo7JWk67iU66CI7Iqk7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYdIHCQkNCwGHKiGM7w%3D%3D",
+            "view_text": "1K views"
+          },
+          {
+            "title": "[모앤블레스의원] 모발이식 견적받기전 이것만 기억하면 쉽다?",
+            "channel": "탈모박사 신박사",
+            "url": "https://www.youtube.com/watch?v=A0rvTYUGz3c&pp=ygUo66qo7JWk67iU66CI7Iqk7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "391 views"
+          },
+          {
+            "title": "[모앤블레스] 모발이식의 최대 효과를 기대할 수 있는 탈모의 유형은?",
+            "channel": "탈모박사 신박사",
+            "url": "https://www.youtube.com/watch?v=8SSi7DdPse4&pp=ygUo66qo7JWk67iU66CI7Iqk7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "166 views"
+          },
+          {
+            "title": "모발 이식 4년 후.. 후기, 부작용, 가격 싹 다 알려드립니다.",
+            "channel": "비트 BTE",
+            "url": "https://www.youtube.com/watch?v=6ONxOVGuC3o&pp=ygUo66qo7JWk67iU66CI7Iqk7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYdIHCQkNCwGHKiGM7w%3D%3D",
+            "view_text": "231K views"
+          },
+          {
+            "title": "Extreme M-Shaped Forehead Hair Transplant 1-Year Review: I'll give you honest answers about every...",
+            "channel": "KINGSTON 킹스턴",
+            "url": "https://www.youtube.com/watch?v=_It0EHOWlFw&pp=ygUo66qo7JWk67iU66CI7Iqk7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "150K views"
+          },
+          {
+            "title": "[모앤블레스의원] 이식 후 다시 탈모가?? 모발이식 암흑기 슬기롭게 이겨내기~",
+            "channel": "탈모박사 신박사",
+            "url": "https://www.youtube.com/watch?v=9ZbrpbBBn5o&pp=ygUo66qo7JWk67iU66CI7Iqk7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "982 views"
+          },
+          {
+            "title": "[모앤블레스] '대량 모발이식'에 관한 모든 것!!",
+            "channel": "탈모박사 신박사",
+            "url": "https://www.youtube.com/watch?v=G01EEPeJU-U&pp=ygUo66qo7JWk67iU66CI7Iqk7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "297 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

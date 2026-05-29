@@ -1,0 +1,145 @@
+{
+  "query": "리페이스치과병원",
+  "generated_at": "2026-05-29T00:15:41.439Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Sponsored",
+        "rating": 5,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 4125478,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "의사가 알려주는 턱에 안 좋은 습관 8가지",
+            "channel": "양악도사 김도섭 | ReFace 리페이스 치과병원",
+            "url": "https://www.youtube.com/watch?v=DYmWzhaljlU&pp=ygUq66as7Y6Y7J207Iqk7LmY6rO867OR7JuQ7Yah7Yah7LmY6rO8IEtvcmVh",
+            "view_text": "864"
+          },
+          {
+            "title": "일본 환자분들을 직접 만나고 왔습니다 #vlog #양악상담회",
+            "channel": "양악도사 김도섭 | ReFace 리페이스 치과병원",
+            "url": "https://www.youtube.com/watch?v=qeZDExwOqZI&pp=ygUq66as7Y6Y7J207Iqk7LmY6rO867OR7JuQ7Yah7Yah7LmY6rO8IEtvcmVh",
+            "view_text": "632"
+          },
+          {
+            "title": "[닥터스]자연치아를 아기고 살려 100세까지 맛있게 씹자(부원뉴욕치과병원/055-332-2877)",
+            "channel": "캐내네 메디컬",
+            "url": "https://www.youtube.com/watch?v=Cc-pek6MJrw&pp=ygUq66as7Y6Y7J207Iqk7LmY6rO867OR7JuQ7Yah7Yah7LmY6rO8IEtvcmVh",
+            "view_text": "250"
+          },
+          {
+            "title": "양악 후 고무줄 교체 방법 #구강악안면외과 #양악수술",
+            "channel": "양악도사 김도섭 | ReFace 리페이스 치과병원",
+            "url": "https://www.youtube.com/watch?v=PkTuiPf_RZY&pp=ygUq66as7Y6Y7J207Iqk7LmY6rO867OR7JuQ7Yah7Yah7LmY6rO8IEtvcmVh",
+            "view_text": "591"
+          },
+          {
+            "title": "49만 원에서 500만 원까지…임플란트 비용 천차만별 / SBS / 뉴스딱",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=8_IvEUw1rCA&pp=ygUq66as7Y6Y7J207Iqk7LmY6rO867OR7JuQ7Yah7Yah7LmY6rO8IEtvcmVh",
+            "view_text": "16K"
+          },
+          {
+            "title": "병원 개원 1주년을 진심으로 축하합니다 #원장님",
+            "channel": "양악도사 김도섭 | ReFace 리페이스 치과병원",
+            "url": "https://www.youtube.com/watch?v=YYbvc4wqs4U&pp=ygUq66as7Y6Y7J207Iqk7LmY6rO867OR7JuQ7Yah7Yah7LmY6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "229"
+          },
+          {
+            "title": "치과의사가 말하는 '이런 치과는 피해라!' | [건강클리닉] 230622 방송 | MBC경남",
+            "channel": "엠박스",
+            "url": "https://www.youtube.com/watch?v=Wnp7uF7Fnk8&pp=ygUq66as7Y6Y7J207Iqk7LmY6rO867OR7JuQ7Yah7Yah7LmY6rO8IEtvcmVh",
+            "view_text": "1.5K"
+          },
+          {
+            "title": "벽에 부딪혔던 이가 결국 검은색으로 변했어요ㅠㅠ 격리 중 치과 병원도 못가고... 병원에서 확인해 봤더니?! 국민이 24시간 흔한 가족 일상 아이랑 | 말이야와친구들",
+            "channel": "MariAndFriends",
+            "url": "https://www.youtube.com/watch?v=aMeQZDUiKrM&pp=ygUq66as7Y6Y7J207Iqk7LmY6rO867OR7JuQ7Yah7Yah7LmY6rO8IEtvcmVh",
+            "view_text": "2.2M"
+          },
+          {
+            "title": "양악수술 중 신경손상이 발생하면? 신경이 끊어지면? 신경이 다치면? 회복속도/감각저하/하치조신경 마비 주의사항",
+            "channel": "양악도사 김도섭 | ReFace 리페이스 치과병원",
+            "url": "https://www.youtube.com/watch?v=EythABF21BM&pp=ygUq66as7Y6Y7J207Iqk7LmY6rO867OR7JuQ7Yah7Yah7LmY6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "3.2K"
+          },
+          {
+            "title": "MBC경남 뉴스투데이 2015 11 18 건강투데이-임플란트 주위염",
+            "channel": "구 MBCGN",
+            "url": "https://www.youtube.com/watch?v=QC_wcJSmrKY&pp=ygUq66as7Y6Y7J207Iqk7LmY6rO867OR7JuQ7Yah7Yah7LmY6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "324"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

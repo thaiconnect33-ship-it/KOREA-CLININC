@@ -1,0 +1,145 @@
+{
+  "query": "여노피산부인과의원산부인과",
+  "generated_at": "2026-05-28T23:03:53.534Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 10,
+      "extra": {
+        "name": "여노피산부인과",
+        "rating": 5,
+        "total_reviews": 10,
+        "sample_size": 20,
+        "foreign_language_reviews": 18,
+        "lang_breakdown": {
+          "korean": 2,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 18
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 48222,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "[로앤산부인과] 강남산부인과 - 자궁내막증이 나타나는 원인은 무엇인가요?",
+            "channel": "로앤산부인과의원",
+            "url": "https://www.youtube.com/watch?v=7kE0C3XOGSU&pp=ygUz7Jes64W47ZS87IKw67aA7J246rO87J2Y7JuQ7Yah7Yah7IKw67aA7J246rO8IEtvcmVh",
+            "view_text": "83 views"
+          },
+          {
+            "title": "[로앤산부인과] 잠실산부인과 - 자궁경부암은 예방접종만으로 예방할 수 있나요?",
+            "channel": "로앤산부인과의원",
+            "url": "https://www.youtube.com/watch?v=qN2bUJMHi2U&pp=ygUz7Jes64W47ZS87IKw67aA7J246rO87J2Y7JuQ7Yah7Yah7IKw67aA7J246rO8IEtvcmVh",
+            "view_text": "60 views"
+          },
+          {
+            "title": "[로앤산부인과] 수원산부인과 - 남편과 함께 정상적인 성생활을 하는 중인데도 1년 가까이 임신이 되지 않았습니다  어떻게 해야 할까요?",
+            "channel": "로앤산부인과의원",
+            "url": "https://www.youtube.com/watch?v=bOa4rBUsmro&pp=ygUz7Jes64W47ZS87IKw67aA7J246rO87J2Y7JuQ7Yah7Yah7IKw67aA7J246rO8IEtvcmVh",
+            "view_text": "147 views"
+          },
+          {
+            "title": "여성 외음부 주변의 가려움! 사면발니  [MINATV(미나티브이)   산부인과 전문의 이민아]",
+            "channel": "DODAM MEDIA",
+            "url": "https://www.youtube.com/watch?v=Yi3RmXvwzdM&pp=ygUz7Jes64W47ZS87IKw67aA7J246rO87J2Y7JuQ7Yah7Yah7IKw67aA7J246rO8IEtvcmVh",
+            "view_text": "16K views"
+          },
+          {
+            "title": "산부인과 의사가 배란유도제 불법 판매 / YTN 사이언스",
+            "channel": "YTN 사이언스",
+            "url": "https://www.youtube.com/watch?v=4rJAX0RD_xI&pp=ygUz7Jes64W47ZS87IKw67aA7J246rO87J2Y7JuQ7Yah7Yah7IKw67aA7J246rO8IEtvcmVh",
+            "view_text": "154 views"
+          },
+          {
+            "title": "[로앤산부인과] 부산산부인과 - 소변 색으로도 질환의 가능성을 찾을 수 있나요?",
+            "channel": "로앤산부인과의원",
+            "url": "https://www.youtube.com/watch?v=MNL1FdAhDe0&pp=ygUz7Jes64W47ZS87IKw67aA7J246rO87J2Y7JuQ7Yah7Yah7IKw67aA7J246rO8IEtvcmVh",
+            "view_text": "343 views"
+          },
+          {
+            "title": "[안동MBC뉴스]찾아가는 산부인과 진료 호응",
+            "channel": "안동MBC NEWS",
+            "url": "https://www.youtube.com/watch?v=j0TNZKYJG28&pp=ygUz7Jes64W47ZS87IKw67aA7J246rO87J2Y7JuQ7Yah7Yah7IKw67aA7J246rO8IEtvcmVh",
+            "view_text": "2.3K views"
+          },
+          {
+            "title": "[시연용] c0024aako [대한산부인과학회] 자궁경부 고리전기절제술 안내",
+            "channel": "HealthBreeze헬스브리즈",
+            "url": "https://www.youtube.com/watch?v=tM3mC88RP2o&pp=ygUz7Jes64W47ZS87IKw67aA7J246rO87J2Y7JuQ7Yah7Yah7IKw67aA7J246rO8IEtvcmVh",
+            "view_text": "406 views"
+          },
+          {
+            "title": "시신 유기한 산부인과 의사, 마취제 투여 뒤 성관계_120809_채널A NEWS",
+            "channel": "채널A News",
+            "url": "https://www.youtube.com/watch?v=lpMNh0Hjh1U&pp=ygUz7Jes64W47ZS87IKw67aA7J246rO87J2Y7JuQ7Yah7Yah7IKw67aA7J246rO8IEtvcmVh",
+            "view_text": "12K views"
+          },
+          {
+            "title": "[양천산부인과] episode#3 위치에 따른 자궁근종 종류",
+            "channel": "연세사랑모아 여성병원",
+            "url": "https://www.youtube.com/watch?v=IzoovskedK4&pp=ygUz7Jes64W47ZS87IKw67aA7J246rO87J2Y7JuQ7Yah7Yah7IKw67aA7J246rO8IEtvcmVh",
+            "view_text": "125 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 9,
+  "opportunity_cost_thb": 91000,
+  "opportunity_cost_krw": 3640000
+}

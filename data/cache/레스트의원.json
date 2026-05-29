@@ -1,0 +1,103 @@
+{
+  "query": "레스트의원",
+  "generated_at": "2026-05-28T22:23:07.507Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Results",
+        "rating": 5,
+        "total_reviews": 0,
+        "sample_size": 6,
+        "foreign_language_reviews": 6,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 6
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 3,
+      "extra": {
+        "total_views": 10100,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 3,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 3,
+        "top_videos": [
+          {
+            "title": "만성 두드러기에 '피해야 할 음식'과 '먹어야 할 음식'! - 박치영의 피부 톡톡 #94 만성두드러기 식단",
+            "channel": "굿라이프",
+            "url": "https://www.youtube.com/watch?v=B52BH2siKaw&pp=ygUk66CI7Iqk7Yq47J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "7.9K"
+          },
+          {
+            "title": "Hand, foot and mouth disease, which can infect many children who come into contact with it, with ...",
+            "channel": "건강의학전문채널 하이닥",
+            "url": "https://www.youtube.com/watch?v=Xfazp5BlWj4&pp=ygUk66CI7Iqk7Yq47J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1.1K"
+          },
+          {
+            "title": "가입률 고작 1% 외면받는 '119 안심콜'/대전MBC",
+            "channel": "대전MBC 뉴스/Daejeon MBC News",
+            "url": "https://www.youtube.com/watch?v=Iiln57j6f1Y&pp=ygUk66CI7Iqk7Yq47J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1.1K"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 3,
+  "opportunity_cost_thb": 97000,
+  "opportunity_cost_krw": 3880000
+}

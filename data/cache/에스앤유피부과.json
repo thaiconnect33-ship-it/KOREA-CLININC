@@ -1,0 +1,144 @@
+{
+  "query": "에스앤유피부과",
+  "generated_at": "2026-05-29T05:58:46.737Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 810,
+      "extra": {
+        "place_id": "13277687",
+        "name": "에스앤유피부과의원 : 네이버\u001c",
+        "visitor_review_count": 762,
+        "blog_review_count": 48,
+        "detail_url": "https://m.place.naver.com/place/13277687/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Sponsored",
+        "rating": 4.9,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 353606,
+        "foreign_video_count": 15,
+        "lang_breakdown": {
+          "korean": 5,
+          "thai": 0,
+          "chinese": 1,
+          "japanese": 0,
+          "english_other": 14
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "🟣 How to Look 10 Years Younger for Free, Discovered by a Seoul National University Dermatology Pr...",
+            "channel": "MKTV 김미경TV",
+            "url": "https://www.youtube.com/watch?v=h7w5AhJOgOw&pp=ygUVU05VIERlcm1hdG9sb2d5IEtvcmVh",
+            "view_text": "41K views"
+          },
+          {
+            "title": "[Eng] - Postgraduate in Dermatology at Seoul National University - Life, Experience, Love and Hate",
+            "channel": "Claudia Christin",
+            "url": "https://www.youtube.com/watch?v=ftCxa_vJKDk&pp=ygUVU05VIERlcm1hdG9sb2d5IEtvcmVh",
+            "view_text": "15K views"
+          },
+          {
+            "title": "Unlock Youth: Seoul's Quest Against Aging Skin",
+            "channel": "Dr Teri Fisher",
+            "url": "https://www.youtube.com/watch?v=7NF5hb7dvKE&pp=ygUVU05VIERlcm1hdG9sb2d5IEtvcmVh",
+            "view_text": "6 views"
+          },
+          {
+            "title": "All About Studying Medical In Korea 🧬📖",
+            "channel": "RandomStories",
+            "url": "https://www.youtube.com/watch?v=A0iA6scwqGw&pp=ygUVU05VIERlcm1hdG9sb2d5IEtvcmVh",
+            "view_text": "2.3K views"
+          },
+          {
+            "title": "2020 Seoul National University College of Medicine",
+            "channel": "SNU Medicine 서울대학교 의과대학",
+            "url": "https://www.youtube.com/watch?v=2Wsrnv6Hfas&pp=ygUVU05VIERlcm1hdG9sb2d5IEtvcmVh",
+            "view_text": "45K views"
+          },
+          {
+            "title": "HOW TO COME TO ID DERMATOLOGY from Sinsa stn.",
+            "channel": "ID Hospital Korea Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=TTa4fgQ-VGc&pp=ygUVU05VIERlcm1hdG9sb2d5IEtvcmVh",
+            "view_text": "607 views"
+          },
+          {
+            "title": "Seoul National University Cancer Hospital (Arabic Subtitles)",
+            "channel": "Seoul National University Hospital International",
+            "url": "https://www.youtube.com/watch?v=PERrDHdALbU&pp=ygUVU05VIERlcm1hdG9sb2d5IEtvcmVh",
+            "view_text": "64 views"
+          },
+          {
+            "title": "(eng) Vlog 1: study abroad in Seoul | self-study, dermatology, daily",
+            "channel": "Duc Minh Vu",
+            "url": "https://www.youtube.com/watch?v=i6HYJpkIWq0&pp=ygUVU05VIERlcm1hdG9sb2d5IEtvcmVh",
+            "view_text": "162 views"
+          },
+          {
+            "title": "Dermatologist Procedures in Korea",
+            "channel": "Seoul Cosmetic Surgery",
+            "url": "https://www.youtube.com/watch?v=yq7UyDulL-s&pp=ygUVU05VIERlcm1hdG9sb2d5IEtvcmVh",
+            "view_text": "131 views"
+          },
+          {
+            "title": "Seoul Best Dermatology ? HUS-HU ?",
+            "channel": "Clinique hus,hu",
+            "url": "https://www.youtube.com/watch?v=koKYgDzHhrU&pp=ygUVU05VIERlcm1hdG9sb2d5IEtvcmVh",
+            "view_text": "89K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "lemon8 HTTP 404",
+      "metric_label": "포스트",
+      "metric_value": 0
+    }
+  },
+  "global_score": 12,
+  "opportunity_cost_thb": 92500,
+  "opportunity_cost_krw": 3700000
+}

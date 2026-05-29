@@ -1,0 +1,148 @@
+{
+  "query": "골드제이의원",
+  "generated_at": "2026-05-29T05:33:01.581Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 2547,
+      "extra": {
+        "place_id": "1019997289",
+        "name": "골드제이의원 : 네이버\u001c",
+        "visitor_review_count": 2343,
+        "blog_review_count": 204,
+        "detail_url": "https://m.place.naver.com/place/1019997289/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "골드제이의원 ゴールドジェイクリニック Gold J Clinic Gold J 皮膚科醫院ㅣ Gangnam · Seolleung Station",
+        "rating": 4.9,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 4131823,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "의사들도 무조건 하는 S급 시술! 25년 최종 완결판으로 최애만 쏙쏙 골랐어요☺️(효과 좋은 피부 시술들로만 총정리!)",
+            "channel": "금손닥터 이현주",
+            "url": "https://www.youtube.com/watch?v=hul0XdtD2fU&pp=ygUh6rOo65Oc7KCc7J207J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1.7K"
+          },
+          {
+            "title": "쥬베룩 유지기간·결절 부작용까지 완전 총정리 | 10년 젊어지는 동안주사 12년차 의사가 알려드려요",
+            "channel": "금손닥터 이현주",
+            "url": "https://www.youtube.com/watch?v=FsRXQOqFmlo&pp=ygUh6rOo65Oc7KCc7J207J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "4.5K"
+          },
+          {
+            "title": "The turning point of skin aging: Lifestyle habits in your 40s are important.",
+            "channel": "머니랩 : 똑똑한 재테크 연구소",
+            "url": "https://www.youtube.com/watch?v=Z5r1_qc45I0&pp=ygUh6rOo65Oc7KCc7J207J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "54"
+          },
+          {
+            "title": "연세제이의원 주재훈 원장 더블로 골드 시술",
+            "channel": "예뻐지는 공간",
+            "url": "https://www.youtube.com/watch?v=KEBNFNPMFM0&pp=ygUh6rOo65Oc7KCc7J207J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1.1K"
+          },
+          {
+            "title": "이마필러, 진짜 괜찮을까? 전후 효과, 후기, 부작용까지 이 한편으로 정리 끝! 시술 받기 전 필수 시청 하세요!ㅣ셀프시술하는 12년차 의사가 밝히는 이마필러 시술",
+            "channel": "금손닥터 이현주",
+            "url": "https://www.youtube.com/watch?v=FhT6z5W_G-s&pp=ygUh6rOo65Oc7KCc7J207J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "19K"
+          },
+          {
+            "title": "주재훈 원장-더블로 골드 \"출력과 시술 속도의 발전, 최근 트렌드를 적극 반영한 HIFU\"",
+            "channel": "D&PS[DNPS Dermatologist and Plastic Surgeon]",
+            "url": "https://www.youtube.com/watch?v=3qIGw78cTeQ&pp=ygUh6rOo65Oc7KCc7J207J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1.3K"
+          },
+          {
+            "title": "굵은 가로 목주름, 왜 안 없어질까요? 목주름 필러 전후 변화로 설명드립니다",
+            "channel": "금손닥터 이현주",
+            "url": "https://www.youtube.com/watch?v=qxqvF73hGKY&pp=ygUh6rOo65Oc7KCc7J207J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "4.6K"
+          },
+          {
+            "title": "콜라겐 부스터 레디어스의 모든 기준｜효과·지속력·부작용 정리",
+            "channel": "금손닥터 이현주",
+            "url": "https://www.youtube.com/watch?v=CCRm9fnFyXY&pp=ygUh6rOo65Oc7KCc7J207J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "9.9K"
+          },
+          {
+            "title": "요즘대세 티타늄리프팅 총정리ㅣ티타늄리프팅 시술시, 가장 많이 물어보는 질문들을 금손원장님이 명쾌하게 알려드려요",
+            "channel": "금손닥터 이현주",
+            "url": "https://www.youtube.com/watch?v=yZZ9Mvvytic&pp=ygUh6rOo65Oc7KCc7J207J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "869"
+          },
+          {
+            "title": "같은 돈 내고 2배 효과 보는 골드 PTT! 하기 전에 꼭 보고 가세요!",
+            "channel": "닥터펠프스 피부과전문의",
+            "url": "https://www.youtube.com/watch?v=Ind2kYVuTfg&pp=ygUh6rOo65Oc7KCc7J207J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "50K"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

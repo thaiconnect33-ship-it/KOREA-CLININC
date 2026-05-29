@@ -1,0 +1,93 @@
+{
+  "query": "임성균피부과의원",
+  "generated_at": "2026-05-28T23:30:56.220Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 428,
+      "extra": {
+        "place_id": "13541367",
+        "name": "임성균피부과의원 : 네이버\u001c",
+        "visitor_review_count": 420,
+        "blog_review_count": 8,
+        "detail_url": "https://m.place.naver.com/place/13541367/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "임성균피부과의원",
+        "rating": 5,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 1,
+      "extra": {
+        "total_views": 18000,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 1,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 1,
+        "top_videos": [
+          {
+            "title": "[잇슈#태그] “아토피도 못 봐요?” 분통…‘간판만 피부과’ 사라진다 / KBS 2026.05.11.",
+            "channel": "KBS News",
+            "url": "https://www.youtube.com/watch?v=tBleLvn1KmY&pp=ygUn7J6E7ISx6reg7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "18K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

@@ -1,0 +1,147 @@
+{
+  "query": "입체성형외과의원",
+  "generated_at": "2026-05-29T00:21:18.337Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 384,
+      "extra": {
+        "place_id": "1493430644",
+        "name": "입체성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 122,
+        "blog_review_count": 262,
+        "detail_url": "https://m.place.naver.com/place/1493430644/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 6,
+      "extra": {
+        "name": "Ipche Plastic Surgery Clinic",
+        "rating": 4.2,
+        "total_reviews": 6,
+        "sample_size": 13,
+        "foreign_language_reviews": 13,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 13
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 28470,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "\"저는 솔직하게 말해요, 살을 빼보는게 어떻겠냐고\" | 16년차 성형외과전문의, 조현우원장님 인터뷰 영상 공개!",
+            "channel": "입체TV - IPCHE TV",
+            "url": "https://www.youtube.com/watch?v=ROOiFMIB36Y&pp=ygUq7J6F7LK07ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "3K views"
+          },
+          {
+            "title": "이마거상/안면거상 수술 전 공통적으로 물어보는 질문 4가지! 미리 시청, 필수📺",
+            "channel": "입체TV - IPCHE TV",
+            "url": "https://www.youtube.com/watch?v=VqJ9JFZq0XU&pp=ygUq7J6F7LK07ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "190 views"
+          },
+          {
+            "title": "입체성형외과 소개 ｜ IPCHE Plastic Surgery",
+            "channel": "입체TV - IPCHE TV",
+            "url": "https://www.youtube.com/watch?v=7VFeF20BbHQ&pp=ygUq7J6F7LK07ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "156 views"
+          },
+          {
+            "title": "가장 기본적이면서 효과적인 윤곽수술 후 붓기 빨리 빼는 법",
+            "channel": "입체TV - IPCHE TV",
+            "url": "https://www.youtube.com/watch?v=2FoprB_W8Bo&pp=ygUq7J6F7LK07ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "128 views"
+          },
+          {
+            "title": "광대뼈 쉐이빙하면 살이 처진다는건 사실이 아닙니다. (feat.230도입체광대축소술)",
+            "channel": "입체TV - IPCHE TV",
+            "url": "https://www.youtube.com/watch?v=TPMzPCjVnF8&pp=ygUq7J6F7LK07ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "194 views"
+          },
+          {
+            "title": "심술보는 심부볼이 아닙니다! 심술보(불독살) vs 심부볼 구별법",
+            "channel": "입체TV - IPCHE TV",
+            "url": "https://www.youtube.com/watch?v=dEArjhb_Bqw&pp=ygUq7J6F7LK07ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "174 views"
+          },
+          {
+            "title": "가족에게 권하는 수술, 실제 동생의 함몰눈 교정술 전후사진 공개😊",
+            "channel": "입체TV - IPCHE TV",
+            "url": "https://www.youtube.com/watch?v=gLefP-zT2Ps&pp=ygUq7J6F7LK07ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "947 views"
+          },
+          {
+            "title": "안면거상+목거상 수술 후 2주차 후기 (통증, 감각, 붓기, 회복과정)",
+            "channel": "입체TV - IPCHE TV",
+            "url": "https://www.youtube.com/watch?v=sm1fORX4zYY&pp=ygUq7J6F7LK07ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.1K views"
+          },
+          {
+            "title": "3개월 만에 사라진 효과... 내가 받은 실리프팅이 효과 없는 이유!",
+            "channel": "입체TV - IPCHE TV",
+            "url": "https://www.youtube.com/watch?v=24jy9ZGCwyU&pp=ygUq7J6F7LK07ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "217 views"
+          },
+          {
+            "title": "50대 안면거상 수술 후기│얼굴주름 리프팅│수술 당일부터 6개월차까지의 기록",
+            "channel": "입체TV - IPCHE TV",
+            "url": "https://www.youtube.com/watch?v=GectNertb-M&pp=ygUq7J6F7LK07ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "2.3K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 7,
+  "opportunity_cost_thb": 93500,
+  "opportunity_cost_krw": 3740000
+}

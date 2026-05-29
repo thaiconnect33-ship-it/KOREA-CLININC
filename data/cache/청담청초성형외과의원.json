@@ -1,0 +1,147 @@
+{
+  "query": "청담청초성형외과의원",
+  "generated_at": "2026-05-28T22:15:58.343Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 38,
+      "extra": {
+        "place_id": "1588696611",
+        "name": "청담청초성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 33,
+        "blog_review_count": 5,
+        "detail_url": "https://m.place.naver.com/place/1588696611/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 1,
+      "extra": {
+        "name": "청담청초성형외과의원",
+        "rating": 1,
+        "total_reviews": 1,
+        "sample_size": 2,
+        "foreign_language_reviews": 2,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 2
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 13554,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "포도송이 이중턱 없애기 (이중턱 지방흡입) 무보정 3개월차 전후 경과",
+            "channel": "청담청초 성형외과",
+            "url": "https://www.youtube.com/watch?v=mpSvt_LfSJs&pp=ygUw7LKt64u07LKt7LSI7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "851 views"
+          },
+          {
+            "title": "포도송이 이중턱 없애기 (이중턱 지방흡입) 무보정 2주차 전후",
+            "channel": "청담청초 성형외과",
+            "url": "https://www.youtube.com/watch?v=9r9UL6FD_P8&pp=ygUw7LKt64u07LKt7LSI7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "150 views"
+          },
+          {
+            "title": "포도송이 이중턱 없애기 (이중턱 지방흡입) 무보정 3개월차 전후 경과",
+            "channel": "청담청초 성형외과",
+            "url": "https://www.youtube.com/watch?v=AGSohNb2mLQ&pp=ygUw7LKt64u07LKt7LSI7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "180 views"
+          },
+          {
+            "title": "포도송이 이중턱 없애기 (이중턱 지방흡입) 무보정 1개월차 전후 경과- 청담청초 성형외과",
+            "channel": "청담청초 성형외과",
+            "url": "https://www.youtube.com/watch?v=hlhYkE26Kyg&pp=ygUw7LKt64u07LKt7LSI7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "559 views"
+          },
+          {
+            "title": "서울아산병원 성형외과 (Human Race 'April')",
+            "channel": "청담청초 성형외과",
+            "url": "https://www.youtube.com/watch?v=90HtTeRb1qc&pp=ygUw7LKt64u07LKt7LSI7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "5.3K views"
+          },
+          {
+            "title": "중년 이중턱 지방흡입 (포도송이 이중턱 없애기) 53일차 경과",
+            "channel": "청담청초 성형외과",
+            "url": "https://www.youtube.com/watch?v=XkfnmvbIR0I&pp=ygUw7LKt64u07LKt7LSI7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "635 views"
+          },
+          {
+            "title": "포도송이 이중턱 없애기 (재)+ 볼살 지방흡입+ 볼 실리프팅 1개월차",
+            "channel": "청담청초 성형외과",
+            "url": "https://www.youtube.com/watch?v=i8-EHIXu-d4&pp=ygUw7LKt64u07LKt7LSI7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "77 views"
+          },
+          {
+            "title": "이중턱 지방흡입 2일차- 포도송이 이중턱 없애기 후기 (붓기,멍)",
+            "channel": "청담청초 성형외과",
+            "url": "https://www.youtube.com/watch?v=aboJQkrp6ac&pp=ygUw7LKt64u07LKt7LSI7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "737 views"
+          },
+          {
+            "title": "포도송이 이중턱 없애기 (이중턱 지방흡입) 무보정 3개월차 전후 경과",
+            "channel": "청담청초 성형외과",
+            "url": "https://www.youtube.com/watch?v=mngXrYxDmo8&pp=ygUw7LKt64u07LKt7LSI7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "456 views"
+          },
+          {
+            "title": "포도송이 이중턱 없애기 (이중턱 지방흡입) 무보정 3개월차 전후 경과",
+            "channel": "청담청초 성형외과",
+            "url": "https://www.youtube.com/watch?v=QEhyNznLDT0&pp=ygUw7LKt64u07LKt7LSI7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "209 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 1,
+  "opportunity_cost_thb": 139000,
+  "opportunity_cost_krw": 5560000
+}

@@ -1,0 +1,147 @@
+{
+  "query": "리영의원",
+  "generated_at": "2026-05-28T23:31:32.265Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 575,
+      "extra": {
+        "place_id": "37935303",
+        "name": "리영의원 건대입구역 : 네이버\u001c",
+        "visitor_review_count": 115,
+        "blog_review_count": 460,
+        "detail_url": "https://m.place.naver.com/place/37935303/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 44,
+      "extra": {
+        "name": "리영의원 잠실ㅣReyoung Clinicㅣリヨンクリニックㅣ丽颖皮肤整形",
+        "rating": 4.6,
+        "total_reviews": 44,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 7746911,
+        "foreign_video_count": 1,
+        "lang_breakdown": {
+          "korean": 19,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 1
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "Safe collagen injected directly into the skin! The trend is \"Ultracol\" (with Lee Young Clinic)",
+            "channel": "Dr Kwon (Dermaster Official)",
+            "url": "https://www.youtube.com/watch?v=4RsYbctEM_w&pp=ygUb66as7JiB7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "662 views"
+          },
+          {
+            "title": "[리영의원 잠실점] 카메라 앞에서 너무나도 긴장했던 그녀의 반전매력(?) 촬영 에피소드!",
+            "channel": "리영닥터스_착한성형,뷰티트렌드",
+            "url": "https://www.youtube.com/watch?v=CDuV4wlTMko&pp=ygUb66as7JiB7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "201 views"
+          },
+          {
+            "title": "입소문난 'VIP 벨벳 콜라겐 관리' 궁금하시죠? 잠실리영에서 보여드립니다!",
+            "channel": "리영닥터스_착한성형,뷰티트렌드",
+            "url": "https://www.youtube.com/watch?v=nrY8UVMPQQY&pp=ygUb66as7JiB7J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "213 views"
+          },
+          {
+            "title": "지방흡입 수술 후 관리 방법 궁금해요! 리프팅효과 높이는 꿀팁까지?!😲🙌",
+            "channel": "리영닥터스_착한성형,뷰티트렌드",
+            "url": "https://www.youtube.com/watch?v=mjjNxkWGQIY&pp=ygUb66as7JiB7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "408 views"
+          },
+          {
+            "title": "뷰티비#21-리영의원_잠실",
+            "channel": "뷰티비",
+            "url": "https://www.youtube.com/watch?v=SbhFK3EHPWU&pp=ygUb66as7JiB7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "118 views"
+          },
+          {
+            "title": "잠실피부과 리영클리닉 잠실점 복권이벤트 미모의 당첨자 풀영상♡",
+            "channel": "리영닥터스_착한성형,뷰티트렌드",
+            "url": "https://www.youtube.com/watch?v=x2u800NKzwY&pp=ygUb66as7JiB7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "226 views"
+          },
+          {
+            "title": "건대리영클리닉",
+            "channel": "에이알컴퍼니",
+            "url": "https://www.youtube.com/watch?v=uX19k6yVp1M&pp=ygUb66as7JiB7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "544 views"
+          },
+          {
+            "title": "[신뢰받는 의료기관] 강남 리영 클리닉 안상태 원장",
+            "channel": "콜라보뉴스·ESG콜라보클럽",
+            "url": "https://www.youtube.com/watch?v=u-CTL3NyQjs&pp=ygUb66as7JiB7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "259 views"
+          },
+          {
+            "title": "[건대리영클리닉] 볼륨있는 얼굴라인 큐오필후기",
+            "channel": "건대리영클리닉",
+            "url": "https://www.youtube.com/watch?v=vv3Kp4hMT_k&pp=ygUb66as7JiB7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "442 views"
+          },
+          {
+            "title": "The Truth Behind CCTV Footage of Brain Death After Liposuction [Whistleblowers] 20200819",
+            "channel": "KBS 다큐",
+            "url": "https://www.youtube.com/watch?v=Oa1cnInjgBE&pp=ygUb66as7JiB7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "4.9M views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 1,
+  "opportunity_cost_thb": 99500,
+  "opportunity_cost_krw": 3980000
+}

@@ -1,0 +1,146 @@
+{
+  "query": "무드온성형외과의원",
+  "generated_at": "2026-05-29T06:05:50.264Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 29,
+      "extra": {
+        "name": "Moodon Plastic Surgery",
+        "rating": 5,
+        "total_reviews": 29,
+        "sample_size": 21,
+        "foreign_language_reviews": 19,
+        "lang_breakdown": {
+          "korean": 2,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 19
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 1653429,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "눈성형 하러 갔는데..이마거상을 하라고? 이거 과잉진료일까요? ｜무드온성형외과 윤태경 대표원장",
+            "channel": "성형천재 윤태경",
+            "url": "https://www.youtube.com/watch?v=n1Tc3OJgCTI&pp=ygUt66y065Oc7Jio7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "410 views"
+          },
+          {
+            "title": "코필러 시술 후 코수술..? 함부로 하면 큰일납니다｜신사역 무드온성형외과 리얼후기",
+            "channel": "성형천재 윤태경",
+            "url": "https://www.youtube.com/watch?v=XPsaG-wHPhQ&pp=ygUt66y065Oc7Jio7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "415 views"
+          },
+          {
+            "title": "[Moodon Plastic Surgery Guide Part 2: Eye Surgery] Eye Surgery Q&A Frequently Asked by Students |...",
+            "channel": "성형천재 윤태경",
+            "url": "https://www.youtube.com/watch?v=X7RlHNuksIQ&pp=ygUt66y065Oc7Jio7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "533 views"
+          },
+          {
+            "title": "[무드온성형백서 3편 : 쌍꺼풀] 이제 확실하게 아셨죠? ｜무드온성형외과 윤태경 대표원장",
+            "channel": "성형천재 윤태경",
+            "url": "https://www.youtube.com/watch?v=1Vqz0od4OI8&pp=ygUt66y065Oc7Jio7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "447 views"
+          },
+          {
+            "title": "중년성형 (상안검+하안검) + 리쥬란힐러 + 실리프팅 | 2개월차까지의 변화 & 인터뷰 | 무드온성형외과",
+            "channel": "성형천재 윤태경",
+            "url": "https://www.youtube.com/watch?v=Pg8ayRD3Gf0&pp=ygUt66y065Oc7Jio7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "3.2K views"
+          },
+          {
+            "title": "[Moodon Plastic Surgery Guide Part 1: Hump Nose] Check it out right now | Dr. Tae-Kyung Yoon, Chi...",
+            "channel": "성형천재 윤태경",
+            "url": "https://www.youtube.com/watch?v=SasRbLpzz1M&pp=ygUt66y065Oc7Jio7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "531 views"
+          },
+          {
+            "title": "성형수술 전 필수 주의사항 총정리📍｜영양제? 약? 술? 담배? 금식? 네일? 액세서리? 복장? 꼭..제발..지켜주세요😂",
+            "channel": "성형천재 윤태경",
+            "url": "https://www.youtube.com/watch?v=r6veaQSCyLM&pp=ygUt66y065Oc7Jio7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "2.2K views"
+          },
+          {
+            "title": "아이팅성형외과에서 안면거상 재수술을 선택한 이유",
+            "channel": "아이팅성형외과",
+            "url": "https://www.youtube.com/watch?v=XVZGtc7S4GU&pp=ygUt66y065Oc7Jio7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "395 views"
+          },
+          {
+            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUt66y065Oc7Jio7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1M views"
+          },
+          {
+            "title": "\"강남 유명 성형외과서 수술 뒤 눈이 실명됐습니다\" [지금이뉴스] / YTN",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=UyMrX929Q4I&pp=ygUt66y065Oc7Jio7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "576K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 10,
+  "opportunity_cost_thb": 90500,
+  "opportunity_cost_krw": 3620000
+}

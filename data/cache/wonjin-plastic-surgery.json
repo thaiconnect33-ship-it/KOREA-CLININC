@@ -1,0 +1,148 @@
+{
+  "query": "Wonjin Plastic Surgery",
+  "generated_at": "2026-05-29T05:45:24.659Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 2262,
+      "extra": {
+        "place_id": "11887873",
+        "name": "원진성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 1474,
+        "blog_review_count": 788,
+        "detail_url": "https://m.place.naver.com/place/11887873/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 460,
+      "extra": {
+        "name": "Wonjin Plastic Surgery",
+        "rating": 4.6,
+        "total_reviews": 460,
+        "sample_size": 26,
+        "foreign_language_reviews": 26,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 26
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 50042,
+        "foreign_video_count": 20,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 20
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "korean best plastic surgery clinic  [wonjinbeauty.com]",
+            "channel": "WONJIN Plastic surgery KOREA",
+            "url": "https://www.youtube.com/watch?v=BgYkWDKAVFg&pp=ygUcV29uamluIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "707 views"
+          },
+          {
+            "title": "Wonjin English Translator [Kelly's Consultation Vlog]",
+            "channel": "WONJIN Plastic surgery KOREA",
+            "url": "https://www.youtube.com/watch?v=zTLbrjxd5LM&pp=ygUcV29uamluIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "1.4K views"
+          },
+          {
+            "title": "\"Unlocking Beauty: Transformations at Wonjin Plastic Surgery\"",
+            "channel": "Mediworld Middle East",
+            "url": "https://www.youtube.com/watch?v=vBgEilqFU6w&pp=ygUcV29uamluIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "111 views"
+          },
+          {
+            "title": "A collection of celebrities with pretty eyes by double eyelid lineㅣFind a line that suits me well",
+            "channel": "WONJIN Plastic surgery KOREA",
+            "url": "https://www.youtube.com/watch?v=xr3oTonVeMs&pp=ygUcV29uamluIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "5.2K views"
+          },
+          {
+            "title": "Facial Contouring in Wonjin Plastic Surgery: Mini Vlog ✨ #plasticsurgerykorea",
+            "channel": "WONJIN PLASTIC SURGERY INTERNATIONAL",
+            "url": "https://www.youtube.com/watch?v=FzpMwZ8XXpg&pp=ygUcV29uamluIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "74 views"
+          },
+          {
+            "title": "wonjin plastic surgery [wonjinbeauty.com]",
+            "channel": "WONJIN Plastic surgery KOREA",
+            "url": "https://www.youtube.com/watch?v=qrcz4dfcKtM&pp=ygUcV29uamluIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "131 views"
+          },
+          {
+            "title": "2021 Spring, Wonjin Plastic Surgery newly starts as \"WJ Wonjin Plastic Surgery\"",
+            "channel": "WONJIN Plastic surgery KOREA",
+            "url": "https://www.youtube.com/watch?v=zBmHfmZVvec&pp=ygUcV29uamluIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "216 views"
+          },
+          {
+            "title": "re-operation [Wonjin Beauty Medical Group]",
+            "channel": "WONJIN Plastic surgery KOREA",
+            "url": "https://www.youtube.com/watch?v=8Qi8JbcTzG4&pp=ygUcV29uamluIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "201 views"
+          },
+          {
+            "title": "quick procedure, filler injection[Wonjin Beauty Medical Group]",
+            "channel": "WONJIN Plastic surgery KOREA",
+            "url": "https://www.youtube.com/watch?v=wSi8iRf5PsA&pp=ygUcV29uamluIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "41 views"
+          },
+          {
+            "title": "Petit treatment in korea [wonjin plastic surgery]",
+            "channel": "WONJIN Plastic surgery KOREA",
+            "url": "https://www.youtube.com/watch?v=-_0ytgPyMfU&pp=ygUcV29uamluIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "69 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 29,
+  "opportunity_cost_thb": 77000,
+  "opportunity_cost_krw": 3080000
+}

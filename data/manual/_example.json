@@ -1,0 +1,16 @@
+{
+  "_comment": "이 파일은 예시 — 실제로는 슬러그 이름으로 (예: id-hospital.json) 저장. underscore _ 로 시작하면 무시됨.",
+  "xiaohongshu": {
+    "metric_value": 87,
+    "extra": {
+      "top_5_likes": 12000,
+      "source": "수동 수집 2026-05"
+    }
+  },
+  "lemon8": {
+    "metric_value": 23,
+    "extra": {
+      "note": "2026-05 검색"
+    }
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "query": "청담별의원",
+  "generated_at": "2026-05-28T22:18:14.388Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 4672,
+      "extra": {
+        "place_id": "1860559761",
+        "name": "청담별의원 : 네이버\u001c",
+        "visitor_review_count": 1017,
+        "blog_review_count": 3655,
+        "detail_url": "https://m.place.naver.com/place/1860559761/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 112,
+      "extra": {
+        "name": "청담별의원 チョンダムビョル美容整形外科",
+        "rating": 4.9,
+        "total_reviews": 112,
+        "sample_size": 16,
+        "foreign_language_reviews": 16,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 16
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 26643,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "[청담별의원] 얼굴이물질제거,파워리프팅  수술전, 수술1주차 리얼후기",
+            "channel": "청담별 성형외과·피부과",
+            "url": "https://www.youtube.com/watch?v=b1wtpV9ahYQ&pp=ygUh7LKt64u067OE7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "3.1K views"
+          },
+          {
+            "title": "얼굴이물질 제거, 비절개로 가능할까???｜#01 얼굴이물질제거｜청담별의원",
+            "channel": "청담별 성형외과·피부과",
+            "url": "https://www.youtube.com/watch?v=KCw29CBwr3c&pp=ygUh7LKt64u067OE7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "4K views"
+          },
+          {
+            "title": "[청담별의원] 팔자필러 얼굴이물질제거 초음파영상",
+            "channel": "청담별 성형외과·피부과",
+            "url": "https://www.youtube.com/watch?v=rKzcXAeeZ94&pp=ygUh7LKt64u067OE7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "333 views"
+          },
+          {
+            "title": "[청담별의원] 지방흡입에 대한 쉽고 깊은 이야기!",
+            "channel": "청담별 성형외과·피부과",
+            "url": "https://www.youtube.com/watch?v=LUCpd5ZSbGs&pp=ygUh7LKt64u067OE7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "186 views"
+          },
+          {
+            "title": "[청담별] 얼굴이물질제거 후 파워리프팅으로 피부탄력까지! 전후영상",
+            "channel": "청담별 성형외과·피부과",
+            "url": "https://www.youtube.com/watch?v=UjJEBJz9Alg&pp=ygUh7LKt64u067OE7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "908 views"
+          },
+          {
+            "title": "[청담별의원] 안면윤곽? 비절개로 알아봐요, 비절개안면윤곽 아큐스컬프",
+            "channel": "청담별 성형외과·피부과",
+            "url": "https://www.youtube.com/watch?v=KkhnWKYTfqQ&pp=ygUh7LKt64u067OE7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "343 views"
+          },
+          {
+            "title": "[청담별의원]앞트임 수술전 알아두세요 !!",
+            "channel": "청담별 성형외과·피부과",
+            "url": "https://www.youtube.com/watch?v=qg7fec-8pJc&pp=ygUh7LKt64u067OE7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "644 views"
+          },
+          {
+            "title": "[청담별의원] 얼굴이물질제거 초음파영상",
+            "channel": "청담별 성형외과·피부과",
+            "url": "https://www.youtube.com/watch?v=ckpTpVWdEy0&pp=ygUh7LKt64u067OE7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "332 views"
+          },
+          {
+            "title": "코 성형수술(J코) - 미탑성형외과",
+            "channel": "청담별 성형외과·피부과",
+            "url": "https://www.youtube.com/watch?v=UN2yEhA6spU&pp=ygUh7LKt64u067OE7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.8K views"
+          },
+          {
+            "title": "[비절개코성형] 수술직후 ~!♥ 비절개로 이뻐지기!",
+            "channel": "청담별 성형외과·피부과",
+            "url": "https://www.youtube.com/watch?v=26w3s-2GB4Y&pp=ygUh7LKt64u067OE7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.4K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 8,
+  "opportunity_cost_thb": 132000,
+  "opportunity_cost_krw": 5280000
+}

@@ -1,0 +1,147 @@
+{
+  "query": "압구정페이스라인성형외과의원",
+  "generated_at": "2026-05-29T00:08:46.727Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 557,
+      "extra": {
+        "place_id": "11885897",
+        "name": "압구정페이스라인성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 148,
+        "blog_review_count": 409,
+        "detail_url": "https://m.place.naver.com/place/11885897/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 55,
+      "extra": {
+        "name": "Face Line Plastic Surgery",
+        "rating": 4.6,
+        "total_reviews": 55,
+        "sample_size": 16,
+        "foreign_language_reviews": 16,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 16
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 5912284,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "이연정님의 안티에이징 동안성형 수술 후 100일간의 변화 [아름다운당신 X 페이스라인성형외과]",
+            "channel": "페이스라인성형외과",
+            "url": "https://www.youtube.com/watch?v=pLwq1wKbRhA&pp=ygU87JWV6rWs7KCV7Y6Y7J207Iqk65287J247ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.4K views"
+          },
+          {
+            "title": "안면윤곽수술로 180도 달라진 지민이의 변화 [페이스라인성형외과 리얼스토리]",
+            "channel": "페이스라인성형외과",
+            "url": "https://www.youtube.com/watch?v=42zvB2gd6Rc&pp=ygU87JWV6rWs7KCV7Y6Y7J207Iqk65287J247ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "1K views"
+          },
+          {
+            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygU87JWV6rWs7KCV7Y6Y7J207Iqk65287J247ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1M views"
+          },
+          {
+            "title": "BJ여순의 강남미인 탈출 프로젝트.1 페이스라인성형외과 방문",
+            "channel": "페이스라인성형외과",
+            "url": "https://www.youtube.com/watch?v=vSlGdKs5GUE&pp=ygU87JWV6rWs7KCV7Y6Y7J207Iqk65287J247ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "12K views"
+          },
+          {
+            "title": "뷰티라인성형외과 (황지연)",
+            "channel": "최민정",
+            "url": "https://www.youtube.com/watch?v=aZcuQ4cR3j4&pp=ygU87JWV6rWs7KCV7Y6Y7J207Iqk65287J247ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.2K views"
+          },
+          {
+            "title": "SM 천상계 연예인으로 만들어준다는 성형외과!!",
+            "channel": "핫이슈HOT ISSUE",
+            "url": "https://www.youtube.com/watch?v=WTeNWTENa54&pp=ygU87JWV6rWs7KCV7Y6Y7J207Iqk65287J247ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.7M views"
+          },
+          {
+            "title": "렛미인 성형외과, 페이스라인 코성형",
+            "channel": "페이스라인성형외과",
+            "url": "https://www.youtube.com/watch?v=nky4P3rNGdA&pp=ygU87JWV6rWs7KCV7Y6Y7J207Iqk65287J247ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "178 views"
+          },
+          {
+            "title": "성형외과 실장이 직접 이마축소술 받아봤다!  #브이로그 1탄",
+            "channel": "페이스라인성형외과",
+            "url": "https://www.youtube.com/watch?v=8fSb9JRkJfY&pp=ygU87JWV6rWs7KCV7Y6Y7J207Iqk65287J247ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.6K views"
+          },
+          {
+            "title": "안면윤곽수술 후 회복기간, 얼마나 쉬어야 괜찮아질까? 직접 수술하는 의사에게 들어보는 안면윤곽 후 회복 과정! (feat. 직장인)",
+            "channel": "페이스라인성형외과",
+            "url": "https://www.youtube.com/watch?v=ERpovBMh8bM&pp=ygU87JWV6rWs7KCV7Y6Y7J207Iqk65287J247ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "5.7K views"
+          },
+          {
+            "title": "\"강남 유명 성형외과서 수술 뒤 눈이 실명됐습니다\" [지금이뉴스] / YTN",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=UyMrX929Q4I&pp=ygU87JWV6rWs7KCV7Y6Y7J207Iqk65287J247ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "576K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 8,
+  "opportunity_cost_thb": 137000,
+  "opportunity_cost_krw": 5480000
+}

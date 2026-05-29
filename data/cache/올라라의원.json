@@ -1,0 +1,147 @@
+{
+  "query": "올라라의원",
+  "generated_at": "2026-05-28T22:40:08.598Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 953,
+      "extra": {
+        "place_id": "2086342263",
+        "name": "올라라의원 : 네이버\u001c",
+        "visitor_review_count": 237,
+        "blog_review_count": 716,
+        "detail_url": "https://m.place.naver.com/place/2086342263/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "올라라의원(OlaraClinic)",
+        "rating": 5,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 3775184,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "병원 간판으로 피부과 전문의인지 아닌지 구별하는 방법 (피부과전문의병원 구분법)",
+            "channel": "계피부과 since1961",
+            "url": "https://www.youtube.com/watch?v=ctJAMejU30s&pp=ygUe7Jis652865287J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "11K"
+          },
+          {
+            "title": "\"필러는 무서워서 못 맞겠어요..\" 그런 분들을 위한 유일한 대안 \"힐로웨이브\"",
+            "channel": "피부일타 민원장",
+            "url": "https://www.youtube.com/watch?v=a4Q1IgEkuEM&pp=ygUe7Jis652865287J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "5.3K"
+          },
+          {
+            "title": "피부과 15년차 상담실장님이 말하는 '피부과 호구' 안되는 법 (추천시술 VS 비추천시술.zip📂)",
+            "channel": "황라희 Hwang Lahee",
+            "url": "https://www.youtube.com/watch?v=tD4qcIvpwyM&pp=ygUe7Jis652865287J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "442K"
+          },
+          {
+            "title": "\"원장님께서 별세하셨기에\"…유명 피부과 '피해자 속출' / SBS 8뉴스",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=-3uLsD3sWGU&pp=ygUe7Jis652865287J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "924K"
+          },
+          {
+            "title": "Pairing Juvlook with This Can Double the Firming Effect (And Ease Nodule Concerns)",
+            "channel": "피알남 피부과전문의 김홍석",
+            "url": "https://www.youtube.com/watch?v=Fx7yFPPNLE4&pp=ygUe7Jis652865287J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "2.6K"
+          },
+          {
+            "title": "한의사-의사, 레이저 시술 놓고 ‘밥그릇 싸움’ / 채널A / 뉴스A",
+            "channel": "채널A News",
+            "url": "https://www.youtube.com/watch?v=1V5w2NPurws&pp=ygUe7Jis652865287J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "11K"
+          },
+          {
+            "title": "5억 쓴 언니가 알려주는 진짜 시술 후기🔥 이건 하고, 이건 하지 마세요(병원 팁 + 가성비 시술까지)",
+            "channel": "lamuqe",
+            "url": "https://www.youtube.com/watch?v=VA9KKGWmwis&pp=ygUe7Jis652865287J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "314K"
+          },
+          {
+            "title": "좋은 피부과 찾는 법?? 이것만 기억하세요! (피부과 전문의)",
+            "channel": "피부고민상담소  신촌연세스타피부과",
+            "url": "https://www.youtube.com/watch?v=pxZPl_YACUA&pp=ygUe7Jis652865287J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "49K"
+          },
+          {
+            "title": "자연스럽게 예쁜 애교살 만드는 방법 part 1",
+            "channel": "아름닥터tv_자연스러운게 예쁜거다_15년차",
+            "url": "https://www.youtube.com/watch?v=Ns_VGBv7ebY&pp=ygUe7Jis652865287J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "63K"
+          },
+          {
+            "title": "울쎄라, 써마지 말고 이거 해달라고 하세요, 최신 얼굴리프팅 소개ㅣ천안 피부과, 불당동 피부과",
+            "channel": "천안필러 김영권",
+            "url": "https://www.youtube.com/watch?v=XApmQdkPgFI&pp=ygUe7Jis652865287J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "109K"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

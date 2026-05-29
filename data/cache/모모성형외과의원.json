@@ -1,0 +1,148 @@
+{
+  "query": "모모성형외과의원",
+  "generated_at": "2026-05-29T06:03:19.094Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 4601,
+      "extra": {
+        "place_id": "1174878112",
+        "name": "모모성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 3795,
+        "blog_review_count": 806,
+        "detail_url": "https://m.place.naver.com/place/1174878112/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 93,
+      "extra": {
+        "name": "MOMO Plastic Surgery",
+        "rating": 4.6,
+        "total_reviews": 93,
+        "sample_size": 20,
+        "foreign_language_reviews": 20,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 20
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 1722000,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "📌모발이식 수술 후 방심 금지! ㅣ수술 당일 ~ 1개월 주의사항 총정리🧐ㅣ모모성형외과ㅣ모모의원",
+            "channel": "모모성형외과",
+            "url": "https://www.youtube.com/watch?v=qmFNQJODrUM&pp=ygUq66qo66qo7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.8K"
+          },
+          {
+            "title": "여성 모발이식 후 혼자서 샴푸 어떻게 할까? 👩🏻| 모모성형외과 | 모모의원",
+            "channel": "모모성형외과",
+            "url": "https://www.youtube.com/watch?v=kEKTeLN9WEc&pp=ygUq66qo66qo7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "20K"
+          },
+          {
+            "title": "모발이식 생착률이 결정되는 시간ㅣ암흑기는 정상인가요!?!ㅣ과정을 알면 됩니다!ㅣ모모성형외과, 모모의원ㅣ강동우원장ㅣ모제림성형외과 출신",
+            "channel": "모모성형외과",
+            "url": "https://www.youtube.com/watch?v=iPHeRw4BX10&pp=ygUq66qo66qo7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "2.5K"
+          },
+          {
+            "title": "모발이식 하는 방법 실제로 보여드려요!ㅣ식모기 방식ㅣ모모성형외과, 모모의원ㅣ강동우원장ㅣ모제림성형외과 출신ㅣ",
+            "channel": "모모성형외과",
+            "url": "https://www.youtube.com/watch?v=XJTi-jRVML0&pp=ygUq66qo66qo7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "339K"
+          },
+          {
+            "title": "모발이식 후 혼자서 샴푸 어떻게 할까?! | 모발이식 셀프 샴푸 방법 | 모모성형외과",
+            "channel": "모모성형외과",
+            "url": "https://www.youtube.com/watch?v=qqzBV3BJDtk&pp=ygUq66qo66qo7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "50K"
+          },
+          {
+            "title": "같은 3,000모 인데 왜 결과가 달라보일까?  | 모모성형외과 | 김승준 대표원장",
+            "channel": "모모성형외과",
+            "url": "https://www.youtube.com/watch?v=mpLYfwgyDEQ&pp=ygUq66qo66qo7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "380K"
+          },
+          {
+            "title": "모발이식 수술 1년 경과 전후 사진 모음 🎉 모모성형외과 | 비절개 모발이식",
+            "channel": "모모성형외과",
+            "url": "https://www.youtube.com/watch?v=6gtSZBj-6Ts&pp=ygUq66qo66qo7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.3K"
+          },
+          {
+            "title": "소중한 모발을 지키는 모모 탈모치료 프로그램 소개 | 모모성형외과 | 모모의원",
+            "channel": "모모성형외과",
+            "url": "https://www.youtube.com/watch?v=70MFd_KAtx8&pp=ygUq66qo66qo7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.3K"
+          },
+          {
+            "title": "모발이식, 모수만 믿으면 안되는 이유 (통합편) | 모모성형외과 | 김승준 대표원장",
+            "channel": "모모성형외과",
+            "url": "https://www.youtube.com/watch?v=T423-zHWiJ4&pp=ygUq66qo66qo7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "43K"
+          },
+          {
+            "title": "모발이식 후 '이것' 안하면 수백만원 날립니다. | 모모성형외과 | 김승준대표원장",
+            "channel": "모모성형외과",
+            "url": "https://www.youtube.com/watch?v=jfgmyi77VHY&pp=ygUq66qo66qo7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "96K"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 10,
+  "opportunity_cost_thb": 90000,
+  "opportunity_cost_krw": 3600000
+}

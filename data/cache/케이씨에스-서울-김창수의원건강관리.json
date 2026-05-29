@@ -1,0 +1,147 @@
+{
+  "query": "케이씨에스 서울 김창수의원건강관리",
+  "generated_at": "2026-05-28T23:35:18.799Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 433,
+      "extra": {
+        "place_id": "19519779",
+        "name": "케이씨에스 서울 김창수의원 : 네이버\u001c",
+        "visitor_review_count": 338,
+        "blog_review_count": 95,
+        "detail_url": "https://m.place.naver.com/place/19519779/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "케이씨에스 서울 김창수의원",
+        "rating": 5,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 15,
+      "extra": {
+        "total_views": 44479,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 15,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 15,
+        "top_videos": [
+          {
+            "title": "병원 선택 정말 힘들죠? 한방에 정리해드립니다. 종합병원이 좋다구요?  (KCS 서울 김창수 원장)",
+            "channel": "KCS 하지정맥류 네트워크",
+            "url": "https://www.youtube.com/watch?v=gwxzD6pxARs&pp=ygU47LyA7J207JSo7JeQ7IqkIOyEnOyauCDquYDssL3siJjsnZjsm5DqsbTqsJXqtIDrpqwgS29yZWE%3D",
+            "view_text": "1.4K views"
+          },
+          {
+            "title": "정기검진, 안 하시면 재발할 수 있어요 (KCS 서울 김창수 원장)",
+            "channel": "KCS 하지정맥류 네트워크",
+            "url": "https://www.youtube.com/watch?v=rSF9k_WiK3M&pp=ygU47LyA7J207JSo7JeQ7IqkIOyEnOyauCDquYDssL3siJjsnZjsm5DqsbTqsJXqtIDrpqwgS29yZWE%3D",
+            "view_text": "95 views"
+          },
+          {
+            "title": "하지정맥류 치료 후 관리는? 수술하고 끝이 아닙니다 (KCS 서울 김창수 원장)",
+            "channel": "KCS 하지정맥류 네트워크",
+            "url": "https://www.youtube.com/watch?v=Z6ZLiXucCiY&pp=ygU47LyA7J207JSo7JeQ7IqkIOyEnOyauCDquYDssL3siJjsnZjsm5DqsbTqsJXqtIDrpqwgS29yZWE%3D",
+            "view_text": "2.6K views"
+          },
+          {
+            "title": "코로나에서 해방, 여행 많이 다니시죠? 그런데 다리가 아프세요? (KCS 서울 김창수 원장)",
+            "channel": "KCS 하지정맥류 네트워크",
+            "url": "https://www.youtube.com/watch?v=-KsZPbOpSqE&pp=ygU47LyA7J207JSo7JeQ7IqkIOyEnOyauCDquYDssL3siJjsnZjsm5DqsbTqsJXqtIDrpqwgS29yZWHSBwkJDQsBhyohjO8%3D",
+            "view_text": "208 views"
+          },
+          {
+            "title": "하지정맥류 진료실 이야기 - 보람되지만 씁쓸한 현실 (KCS 서울 김창수 원장)",
+            "channel": "KCS 하지정맥류 네트워크",
+            "url": "https://www.youtube.com/watch?v=gMTTnOhTjn0&pp=ygU47LyA7J207JSo7JeQ7IqkIOyEnOyauCDquYDssL3siJjsnZjsm5DqsbTqsJXqtIDrpqwgS29yZWE%3D",
+            "view_text": "873 views"
+          },
+          {
+            "title": "[하지정맥류 알아보자] 하지정맥류 치료는 언제가 좋을까?",
+            "channel": "KCS 하지정맥류 네트워크",
+            "url": "https://www.youtube.com/watch?v=tLPZjxD2j0w&pp=ygU47LyA7J207JSo7JeQ7IqkIOyEnOyauCDquYDssL3siJjsnZjsm5DqsbTqsJXqtIDrpqwgS29yZWE%3D",
+            "view_text": "3.7K views"
+          },
+          {
+            "title": "재발을 피하고 싶다면 이렇게 하세요. 생각보다 쉬운 수술 아니에요 (KCS 서울 김창수 원장)",
+            "channel": "KCS 하지정맥류 네트워크",
+            "url": "https://www.youtube.com/watch?v=rk5uVQYgZ7M&pp=ygU47LyA7J207JSo7JeQ7IqkIOyEnOyauCDquYDssL3siJjsnZjsm5DqsbTqsJXqtIDrpqwgS29yZWE%3D",
+            "view_text": "843 views"
+          },
+          {
+            "title": "[하지정맥류 알아보자] 나에게 알맞은 하지정맥류 치료는?",
+            "channel": "KCS 하지정맥류 네트워크",
+            "url": "https://www.youtube.com/watch?v=3mAtjgnYq2U&pp=ygU47LyA7J207JSo7JeQ7IqkIOyEnOyauCDquYDssL3siJjsnZjsm5DqsbTqsJXqtIDrpqwgS29yZWE%3D",
+            "view_text": "3.8K views"
+          },
+          {
+            "title": "[하지정맥류 알아보자] 하지정맥류 4기? 어떤 병원으로 가야할까?",
+            "channel": "KCS 하지정맥류 네트워크",
+            "url": "https://www.youtube.com/watch?v=K_rmQ1ZwSak&pp=ygU47LyA7J207JSo7JeQ7IqkIOyEnOyauCDquYDssL3siJjsnZjsm5DqsbTqsJXqtIDrpqwgS29yZWE%3D",
+            "view_text": "10K views"
+          },
+          {
+            "title": "하지정맥류 수술 후 사망까지, 수술 후 운동이 중요한 이유 - 의료 기술을 전파하는 KCS 하지정맥류 네트워크 (feat. KCS의 중국 의료 활동)",
+            "channel": "KCS 하지정맥류 네트워크",
+            "url": "https://www.youtube.com/watch?v=HsnYbQHqAb4&pp=ygU47LyA7J207JSo7JeQ7IqkIOyEnOyauCDquYDssL3siJjsnZjsm5DqsbTqsJXqtIDrpqwgS29yZWE%3D",
+            "view_text": "3.6K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

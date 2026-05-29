@@ -1,0 +1,147 @@
+{
+  "query": "드림성형외과의원",
+  "generated_at": "2026-05-28T22:30:26.711Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 1495,
+      "extra": {
+        "place_id": "11575608",
+        "name": "드림성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 459,
+        "blog_review_count": 1036,
+        "detail_url": "https://m.place.naver.com/place/11575608/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 82,
+      "extra": {
+        "name": "Results",
+        "rating": 3.8,
+        "total_reviews": 82,
+        "sample_size": 8,
+        "foreign_language_reviews": 8,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 8
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 1069623,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "코성형 재료 종류부터 특징까지 완벽 총정리! 1편, 코끝 재료👃",
+            "channel": "드림성형외과",
+            "url": "https://www.youtube.com/watch?v=pbp5P7JTLRM&pp=ygUq65Oc66a87ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "441 views"
+          },
+          {
+            "title": "안면윤곽 진실과 오해를 파헤친다! 광대뼈 사각턱 턱끝 한 편으로 끝내기✌",
+            "channel": "드림성형외과",
+            "url": "https://www.youtube.com/watch?v=KbzcfwEongw&pp=ygUq65Oc66a87ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.9K views"
+          },
+          {
+            "title": "안녕하세요! 미드림성형외과입니다!",
+            "channel": "섬세한 백박사",
+            "url": "https://www.youtube.com/watch?v=zLhkWBjQBYU&pp=ygUq65Oc66a87ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "1.8K views"
+          },
+          {
+            "title": "[병원 홍보영상] 드림성형외과",
+            "channel": "HNR그룹",
+            "url": "https://www.youtube.com/watch?v=lhfEbNtDz7A&pp=ygUq65Oc66a87ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "260 views"
+          },
+          {
+            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUq65Oc66a87ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1M views"
+          },
+          {
+            "title": "쌍꺼풀 인라인?아웃라인? 이 한편으로 정리 완료!",
+            "channel": "드림성형외과",
+            "url": "https://www.youtube.com/watch?v=8NmXtLG6jEw&pp=ygUq65Oc66a87ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "683 views"
+          },
+          {
+            "title": "#뒤트임 이 영상만 보시면 됩니다",
+            "channel": "드림성형외과",
+            "url": "https://www.youtube.com/watch?v=qzSeW3dNyoM&pp=ygUq65Oc66a87ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.1K views"
+          },
+          {
+            "title": "#윤곽수술 가장 많이 하는 질문 BEST 10❗",
+            "channel": "드림성형외과",
+            "url": "https://www.youtube.com/watch?v=VUbZxbunEOY&pp=ygUq65Oc66a87ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "644 views"
+          },
+          {
+            "title": "출렁출렁 뱃살빼는법 지방흡입 무턱대고 하다간 큰일 나요🙅‍♀️🙅‍♂️",
+            "channel": "드림성형외과",
+            "url": "https://www.youtube.com/watch?v=7YZQVpbnBjo&pp=ygUq65Oc66a87ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "459 views"
+          },
+          {
+            "title": "코성형 브이로그! 성형외과 직원이 직접 받은 코수술 리얼후기(시기별 경과사진, 전후사진 가득) 제1탄!",
+            "channel": "드림성형외과",
+            "url": "https://www.youtube.com/watch?v=WYEttC4DZTI&pp=ygUq65Oc66a87ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "24K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 4,
+  "opportunity_cost_thb": 96000,
+  "opportunity_cost_krw": 3840000
+}

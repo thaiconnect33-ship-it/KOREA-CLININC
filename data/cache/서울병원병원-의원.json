@@ -1,0 +1,147 @@
+{
+  "query": "서울병원병원,의원",
+  "generated_at": "2026-05-28T23:20:02.546Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 2821,
+      "extra": {
+        "place_id": "2008981843",
+        "name": "서울새봄플란트치과의원 : 네이버\u001c",
+        "visitor_review_count": 257,
+        "blog_review_count": 2564,
+        "detail_url": "https://m.place.naver.com/place/2008981843/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Results",
+        "rating": 2.4,
+        "total_reviews": 0,
+        "sample_size": 6,
+        "foreign_language_reviews": 6,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 6
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 5004001,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "[파트너즈센터] 삼성서울병원의 정확하고 빠른 진료가 필요하신가요? 지역병원 의사와 먼저 상담하세요!",
+            "channel": "삼성서울병원",
+            "url": "https://www.youtube.com/watch?v=wjDLUEkFPfg&pp=ygUf7ISc7Jq467OR7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "4.8K"
+          },
+          {
+            "title": "SNU서울병원의 \"핵심가치\"를 소개합니다!🏥 [병원투어 VO.1]",
+            "channel": "SNU서울병원TV",
+            "url": "https://www.youtube.com/watch?v=eLJXG6vhZ4k&pp=ygUf7ISc7Jq467OR7JuQ67OR7JuQLOydmOybkCBLb3JlYdIHCQkNCwGHKiGM7w%3D%3D",
+            "view_text": "8.9K"
+          },
+          {
+            "title": "[알기 쉬운 병원생활] 입원하기 전 준비물과 병원 생활이 궁금하다면? 이 영상 하나면 끝!",
+            "channel": "삼성서울병원",
+            "url": "https://www.youtube.com/watch?v=VL9uBW7vpbI&pp=ygUf7ISc7Jq467OR7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "176K"
+          },
+          {
+            "title": "[신규 의료진 소개] SNU서울병원 수부외과 곽상호 원장 진료개시!",
+            "channel": "SNU서울병원TV",
+            "url": "https://www.youtube.com/watch?v=OWOPVUAgKsg&pp=ygUf7ISc7Jq467OR7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "2.9K"
+          },
+          {
+            "title": "우리 병원을 소개합니다 / 땡큐서울의원 하정훈",
+            "channel": "의학채널 비온뒤",
+            "url": "https://www.youtube.com/watch?v=rY47-1ZGJIY&pp=ygUf7ISc7Jq467OR7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "11K"
+          },
+          {
+            "title": "[신규 의료진 소개] SNU서울병원 척추전문의 장승진 원장 진료개시!",
+            "channel": "SNU서울병원TV",
+            "url": "https://www.youtube.com/watch?v=vKgrXZ4APTY&pp=ygUf7ISc7Jq467OR7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "1K"
+          },
+          {
+            "title": "[Hospitalization Preparation List] Preparing for hospitalization? SNU Seoul Hospital has you cove...",
+            "channel": "SNU서울병원TV",
+            "url": "https://www.youtube.com/watch?v=I7QF0kV7qx4&pp=ygUf7ISc7Jq467OR7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "4.1K"
+          },
+          {
+            "title": "대학병원 예약 빨리 잡는 방법(명의가 필요한 진료 분야는?) - 前 대한의사협회장, 하트웰의원 노환규 원장",
+            "channel": "의학채널 비온뒤",
+            "url": "https://www.youtube.com/watch?v=EKjpwc2Aqn8&pp=ygUf7ISc7Jq467OR7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "3.2M"
+          },
+          {
+            "title": "서울 병원 차비만 24만원, 그래도 이른 아침 수서역 앞엔 줄이 늘어선다? | 시사직격 KBS 220819 방송",
+            "channel": "KBS 추적60분",
+            "url": "https://www.youtube.com/watch?v=I-T0Ii8VkeI&pp=ygUf7ISc7Jq467OR7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "1.3M"
+          },
+          {
+            "title": "삼성서울병원, 오늘부터 완전 정상 운영 / YTN 사이언스",
+            "channel": "YTN 사이언스",
+            "url": "https://www.youtube.com/watch?v=Asq8mFA_6YI&pp=ygUf7ISc7Jq467OR7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "158"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 3,
+  "opportunity_cost_thb": 97000,
+  "opportunity_cost_krw": 3880000
+}

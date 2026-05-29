@@ -1,0 +1,148 @@
+{
+  "query": "엔디어트의원",
+  "generated_at": "2026-05-29T05:30:37.045Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 13548,
+      "extra": {
+        "place_id": "1082512541",
+        "name": "엔디어트의원 : 네이버\u001c",
+        "visitor_review_count": 2019,
+        "blog_review_count": 11529,
+        "detail_url": "https://m.place.naver.com/place/1082512541/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "ENDiet Clinic",
+        "rating": 4.9,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 2405152,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "엔디어트 홍보영상",
+            "channel": "BW컨설팅",
+            "url": "https://www.youtube.com/watch?v=IY9AitxW_l8&pp=ygUh7JeU65SU7Ja07Yq47J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "7 views"
+          },
+          {
+            "title": "5 Dermatological Treatments That Will Make You Satisfied, According to a Gangnam Doctor",
+            "channel": "동네 의사 이상욱",
+            "url": "https://www.youtube.com/watch?v=C2RiYo2QlQs&pp=ygUh7JeU65SU7Ja07Yq47J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1.3M views"
+          },
+          {
+            "title": "피부과 15년차 상담실장님이 말하는 '피부과 호구' 안되는 법 (추천시술 VS 비추천시술.zip📂)",
+            "channel": "황라희 Hwang Lahee",
+            "url": "https://www.youtube.com/watch?v=tD4qcIvpwyM&pp=ygUh7JeU65SU7Ja07Yq47J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "442K views"
+          },
+          {
+            "title": "문신을 지우고 싶다면, 인라이튼레이저와 엑셀V레이저",
+            "channel": "건강의학전문채널 하이닥",
+            "url": "https://www.youtube.com/watch?v=jvcVrTFLUmc&pp=ygUh7JeU65SU7Ja07Yq47J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "1.2K views"
+          },
+          {
+            "title": "What did you do to your face? 6 treatments that really worked, costing you $500 at the dermatolog...",
+            "channel": "잇츠나라 itisnara",
+            "url": "https://www.youtube.com/watch?v=bGG-Leq2Gvo&pp=ygUh7JeU65SU7Ja07Yq47J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "251K views"
+          },
+          {
+            "title": "효과는 높아지고 통증, 피부손상이 적은 액션",
+            "channel": "연세참고운의원",
+            "url": "https://www.youtube.com/watch?v=s5AgnkmKcN4&pp=ygUh7JeU65SU7Ja07Yq47J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "242 views"
+          },
+          {
+            "title": "인모드 시술 효과가 금방 사라진다? 그 이유 설명해드립니다",
+            "channel": "Dr.Lima닥터리마",
+            "url": "https://www.youtube.com/watch?v=hi-nkS2RZV4&pp=ygUh7JeU65SU7Ja07Yq47J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "103K views"
+          },
+          {
+            "title": "[김민서 X 에스투엔디] 건조한 각질 피부엔 고민없이 생크림필 추천",
+            "channel": "에스투엔디 S2ND",
+            "url": "https://www.youtube.com/watch?v=5ELXms9yeJE&pp=ygUh7JeU65SU7Ja07Yq47J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "105 views"
+          },
+          {
+            "title": "[ 외질혜 X 에스투엔디 ] 수분 가득 생크림필링 추천!",
+            "channel": "에스투엔디 S2ND",
+            "url": "https://www.youtube.com/watch?v=Ldo495T9liE&pp=ygUh7JeU65SU7Ja07Yq47J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "290 views"
+          },
+          {
+            "title": "리뉴미피부과 브이빔레이저 renewme skin clinic V-beam laser",
+            "channel": "리뉴미피부과 (피부과전문의)",
+            "url": "https://www.youtube.com/watch?v=H5PNccJ6-f4&pp=ygUh7JeU65SU7Ja07Yq47J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "4.4K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

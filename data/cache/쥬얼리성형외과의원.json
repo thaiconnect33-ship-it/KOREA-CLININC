@@ -1,0 +1,147 @@
+{
+  "query": "쥬얼리성형외과의원",
+  "generated_at": "2026-05-29T00:07:33.882Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 1046,
+      "extra": {
+        "place_id": "13443226",
+        "name": "쥬얼리성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 262,
+        "blog_review_count": 784,
+        "detail_url": "https://m.place.naver.com/place/13443226/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 68,
+      "extra": {
+        "name": "Jewelry Plastic Surgery",
+        "rating": 4.2,
+        "total_reviews": 68,
+        "sample_size": 16,
+        "foreign_language_reviews": 16,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 16
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 117581,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "보석처럼 빛나는 아름다움을 선사하는 쥬얼리성형외과",
+            "channel": "쥬얼리성형외과(Jewelry Plastic Surgery)",
+            "url": "https://www.youtube.com/watch?v=4Dd1sA9KF0A&pp=ygUt7KWs7Ja866as7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "234 views"
+          },
+          {
+            "title": "5m 밖에서도 눈만 보이게 해주세요",
+            "channel": "쥬얼리성형외과(Jewelry Plastic Surgery)",
+            "url": "https://www.youtube.com/watch?v=WCVotsr4iAA&pp=ygUt7KWs7Ja866as7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "386 views"
+          },
+          {
+            "title": "[쥬얼리성형외과] 성형외과전문의 윤용일원장 인터뷰",
+            "channel": "쥬얼리성형외과(Jewelry Plastic Surgery)",
+            "url": "https://www.youtube.com/watch?v=TU020_-hRgQ&pp=ygUt7KWs7Ja866as7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "6.5K views"
+          },
+          {
+            "title": "눈, 코 한 번에 한 후기",
+            "channel": "쥬얼리성형외과(Jewelry Plastic Surgery)",
+            "url": "https://www.youtube.com/watch?v=1ZSeeHSBjPY&pp=ygUt7KWs7Ja866as7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "110 views"
+          },
+          {
+            "title": "※필.수.시.청※ 피곤해보이거나, 다크서클 안 가려지는 사람?!",
+            "channel": "쥬얼리성형외과(Jewelry Plastic Surgery)",
+            "url": "https://www.youtube.com/watch?v=q_838Petf5w&pp=ygUt7KWs7Ja866as7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "497 views"
+          },
+          {
+            "title": "성형외과 의사가 말하는 미인",
+            "channel": "쥬얼리클라쓰",
+            "url": "https://www.youtube.com/watch?v=nlu_po14fTU&pp=ygUt7KWs7Ja866as7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "1.8K views"
+          },
+          {
+            "title": "울퉁불퉁한 눈밑 해결방법",
+            "channel": "쥬얼리성형외과(Jewelry Plastic Surgery)",
+            "url": "https://www.youtube.com/watch?v=BWS-UyPzxn4&pp=ygUt7KWs7Ja866as7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "66K views"
+          },
+          {
+            "title": "쌍수 재수술하면서 같이 했습니다",
+            "channel": "쥬얼리성형외과(Jewelry Plastic Surgery)",
+            "url": "https://www.youtube.com/watch?v=KGd2K3PVv_0&pp=ygUt7KWs7Ja866as7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "653 views"
+          },
+          {
+            "title": "2026 성형 트렌드, 이렇게 달라진다?",
+            "channel": "쥬얼리성형외과(Jewelry Plastic Surgery)",
+            "url": "https://www.youtube.com/watch?v=R-HZDQ2LKVs&pp=ygUt7KWs7Ja866as7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "546 views"
+          },
+          {
+            "title": "[쥬얼리성형외과] SBS 모닝와이드 \"청소년 성형 열풍\" 신용원원장 출연",
+            "channel": "쥬얼리성형외과(Jewelry Plastic Surgery)",
+            "url": "https://www.youtube.com/watch?v=bVE_5sOW1-4&pp=ygUt7KWs7Ja866as7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "2.4K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 8,
+  "opportunity_cost_thb": 92000,
+  "opportunity_cost_krw": 3680000
+}

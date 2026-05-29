@@ -1,0 +1,199 @@
+{
+  "query": "Grand Plastic Surgery",
+  "generated_at": "2026-05-29T05:42:45.273Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 270,
+      "extra": {
+        "place_id": "12322994",
+        "name": "그랜드성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 141,
+        "blog_review_count": 129,
+        "detail_url": "https://m.place.naver.com/place/12322994/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 144,
+      "extra": {
+        "name": "Grand Plastic Surgery Korea",
+        "rating": 4.1,
+        "total_reviews": 144,
+        "sample_size": 27,
+        "foreign_language_reviews": 27,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 27
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 10,
+      "extra": {
+        "threads": [
+          {
+            "title": "เอเจนซี่ศัลยกรรมเกาหลี ใครเคยใช้บริการบ้าง เเนะนำเจ้าไหนคะ?",
+            "url": "https://pantip.com/topic/42107961",
+            "views": 0
+          },
+          {
+            "title": "ศัลยกรรมเกาหลีโรงพยาบาลไหนดี จะทำตากับจมูกที่เกาหลีค่ะ",
+            "url": "https://pantip.com/topic/42071910",
+            "views": 0
+          },
+          {
+            "title": "ตัดกรามลดโหนกแก้มที่ไทยหรือเกาหลี ขอคำแนะนำจากผู้มีประสบการณ์ค่ะ",
+            "url": "https://pantip.com/topic/41939568",
+            "views": 0
+          },
+          {
+            "title": "ทำศัลยกรรมตาที่เกาหลีที่ไหนดีค่ะ",
+            "url": "https://pantip.com/topic/41614008",
+            "views": 0
+          },
+          {
+            "title": "ศัลยกรรมเกาหลี",
+            "url": "https://pantip.com/topic/41150844",
+            "views": 0
+          },
+          {
+            "title": "แนะนำโรงพยาบาลหรือสถานที่ที่รับแก้ไขหน้าที่เกิดจากการทำศัลยกรรมโครงหน้าหน่อยค่า",
+            "url": "https://pantip.com/topic/40261787",
+            "views": 0
+          },
+          {
+            "title": "ศัลยกรรมตัดกรามที่ไหนดี",
+            "url": "https://pantip.com/topic/38744204",
+            "views": 0
+          },
+          {
+            "title": "แฉ‼️ศัลยกรรมเกาหลี ครบ6เดือน",
+            "url": "https://pantip.com/topic/38380676",
+            "views": 0
+          },
+          {
+            "title": "ไปศัลยกรรมที่เกาหลีแบบผ่านเอเจนซี่และไม่ผ่านเอเจนซี่ แตกต่างกันยังไง?",
+            "url": "https://pantip.com/topic/38145990",
+            "views": 0
+          },
+          {
+            "title": "ดาราผ่านมมาจนเกือบตาย ผมเคยบอกแล้วว่า การรู้จักหาความสุขจากสิ่งที่ธรรมดา ดีกว่าการทำร่างกายที่ธรรมดาให้ได้รับความทุกข์ทร",
+            "url": "https://pantip.com/topic/37864541",
+            "views": 0
+          }
+        ],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 19,
+      "extra": {
+        "total_views": 91815,
+        "foreign_video_count": 19,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 19
+        },
+        "sample_size": 19,
+        "top_videos": [
+          {
+            "title": "[Grand Plastic Surgery] At What Age is it Appropriate to Get a Facelift?",
+            "channel": "Grand Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=R3cs5lnIRpo&pp=ygUbR3JhbmQgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "81"
+          },
+          {
+            "title": "CNN Visited Grand Plastic Surgery Korea",
+            "channel": "GRAND Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=8BhynGJT9Ws&pp=ygUbR3JhbmQgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "2.3K"
+          },
+          {
+            "title": "[Grand Plastic Surgery] Double eyelid surgery at Grand Plastic Surgery",
+            "channel": "Grand Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=68OZohfYsXs&pp=ygUbR3JhbmQgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "1.1K"
+          },
+          {
+            "title": "Grand Plastic Surgery",
+            "channel": "GRAND Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=ptKm0vD_Cjc&pp=ygUbR3JhbmQgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "4.5K"
+          },
+          {
+            "title": "[Grand Plastic Surgery] Top5 Cost-effective Surgeries Ranked by a Plastic Surgeon!",
+            "channel": "Grand Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=zs3cSZiFCOw&pp=ygUbR3JhbmQgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "847"
+          },
+          {
+            "title": "Korean Plastic Surgeon, Grand's Dr.Rhee",
+            "channel": "Grand Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=d3v6gY15mF8&pp=ygUbR3JhbmQgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "Grand's Head Doctor Rhee Se Hwang, was pleased to receive an interview for a German TV company. Meeting one of the best ..."
+          },
+          {
+            "title": "[Grand Plastic Surgery] Amazing Improvement Made in Just 2 Weeks! Grand's Face and Neck Lift",
+            "channel": "Grand Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=TME4wiGvnEo&pp=ygUbR3JhbmQgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "60"
+          },
+          {
+            "title": "[Grand Plastic Surgery]What is the Right Anti-aging For Me?",
+            "channel": "Grand Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=phlUi75f2IM&pp=ygUbR3JhbmQgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "5.9K"
+          },
+          {
+            "title": "[Grand Plastic Surgery] Discovery of My Ideal Profile",
+            "channel": "Grand Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=tyfZHXOm_BY&pp=ygUbR3JhbmQgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "23K"
+          },
+          {
+            "title": "Beautiful model from Russia. Check out her Korean plastic surgery journey at Grand Plastic Surgery",
+            "channel": "Grand Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=7FOIhJbHXgs&pp=ygUbR3JhbmQgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "34K"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 35,
+  "opportunity_cost_thb": 72000,
+  "opportunity_cost_krw": 2880000
+}

@@ -1,0 +1,99 @@
+{
+  "query": "나인의원 홍대입구역피부과",
+  "generated_at": "2026-05-28T22:49:13.721Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 6610,
+      "extra": {
+        "place_id": "1032117656",
+        "name": "나인의원 홍대입구역 : 네이버\u001c",
+        "visitor_review_count": 609,
+        "blog_review_count": 6001,
+        "detail_url": "https://m.place.naver.com/place/1032117656/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "나인의원 홍대입구역 / NAIN CLINIC / ナインクリニック / 娜人皮肤科",
+        "rating": 4.8,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 2,
+      "extra": {
+        "total_views": 2327,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 2,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 2,
+        "top_videos": [
+          {
+            "title": "레이저제모, 유스타일나인 찾아오는 길",
+            "channel": "유스타일나인, 레이저제모",
+            "url": "https://www.youtube.com/watch?v=ieCX1NzqqEA&pp=ygUr64KY7J247J2Y7JuQIO2ZjeuMgOyeheq1rOyXre2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "27 views"
+          },
+          {
+            "title": "Ulthera is changing?! Don't miss out!｜Ulthera Prime Preview",
+            "channel": "땡기는 의사 이용석",
+            "url": "https://www.youtube.com/watch?v=SsjpkUr3OCY&pp=ygUr64KY7J247J2Y7JuQIO2ZjeuMgOyeheq1rOyXre2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "2.3K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 110000,
+  "opportunity_cost_krw": 4400000
+}

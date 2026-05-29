@@ -1,0 +1,145 @@
+{
+  "query": "비앤영의원",
+  "generated_at": "2026-05-29T00:06:45.146Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 42,
+      "extra": {
+        "name": "비앤영의원",
+        "rating": 5,
+        "total_reviews": 42,
+        "sample_size": 16,
+        "foreign_language_reviews": 16,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 16
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 2071075,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "[日SUB]주사로 연골을 이식하는 ‘코젤코 코성형’_[비앤영]",
+            "channel": "비앤영 Be&Young",
+            "url": "https://www.youtube.com/watch?v=1LYXxZgxbW4&pp=ygUn67mE7JWk7JiB7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "71K views"
+          },
+          {
+            "title": "수술 시간이 짧고 회복이 빠르다고 알려진 코젤코 코 성형!! 하지만 커뮤니티에 여러 분석 글이 올라오는데..._[비앤영]",
+            "channel": "비앤영 Be&Young",
+            "url": "https://www.youtube.com/watch?v=mVfzc-43xpU&pp=ygUn67mE7JWk7JiB7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "26K views"
+          },
+          {
+            "title": "간단한 수술, 빠른 회복, 확실한 효과 '코젤코' 수술!! 부작용은 없을까? 코젤코 수술의 모든 것을 알려드립니다!!_[비앤영]",
+            "channel": "비앤영 Be&Young",
+            "url": "https://www.youtube.com/watch?v=KSIUugT4Gvw&pp=ygUn67mE7JWk7JiB7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "37K views"
+          },
+          {
+            "title": "콧구멍이 들려 보이는 '용 코'!! 이것 먼저 확인하세요!!_[비앤영]",
+            "channel": "비앤영 Be&Young",
+            "url": "https://www.youtube.com/watch?v=yRWWoGzOWPA&pp=ygUn67mE7JWk7JiB7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "12K views"
+          },
+          {
+            "title": "절개 없이 주사로 하는 코 성형?!! 코젤코 수술의 모든 것!!_[비앤영]",
+            "channel": "비앤영 Be&Young",
+            "url": "https://www.youtube.com/watch?v=C89e1rXov54&pp=ygUn67mE7JWk7JiB7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "29K views"
+          },
+          {
+            "title": "코에 보형물 넣기가 부담스럽다면?! 보형물 대신 사용할 수 있는 '자가 조직'에는 어떤 것들이 있을까?!_[비앤영]",
+            "channel": "비앤영 Be&Young",
+            "url": "https://www.youtube.com/watch?v=aZOlAXXVDfU&pp=ygUn67mE7JWk7JiB7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "3.3K views"
+          },
+          {
+            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUn67mE7JWk7JiB7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1M views"
+          },
+          {
+            "title": "코 성형이 어려운 코의 특징...? 비앤영의 '코젤코'는 어떤 경우에도 좋은 결과를 만든다?!_[비앤영]",
+            "channel": "비앤영 Be&Young",
+            "url": "https://www.youtube.com/watch?v=fPrw05mY2js&pp=ygUn67mE7JWk7JiB7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "6.8K views"
+          },
+          {
+            "title": "\"강남 유명 성형외과서 수술 뒤 눈이 실명됐습니다\" [지금이뉴스] / YTN",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=UyMrX929Q4I&pp=ygUn67mE7JWk7JiB7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "576K views"
+          },
+          {
+            "title": "How to find a good plastic surgeon🧡 How to find a good plastic surgeon and avoid plastic surgery ...",
+            "channel": "베레나verena",
+            "url": "https://www.youtube.com/watch?v=SQzMbIJMBTQ&pp=ygUn67mE7JWk7JiB7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "277K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 8,
+  "opportunity_cost_thb": 92000,
+  "opportunity_cost_krw": 3680000
+}

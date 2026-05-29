@@ -1,0 +1,147 @@
+{
+  "query": "잠실맥스웰성형외과의원",
+  "generated_at": "2026-05-28T23:12:56.438Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 483,
+      "extra": {
+        "place_id": "1423729041",
+        "name": "잠실맥스웰성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 373,
+        "blog_review_count": 110,
+        "detail_url": "https://m.place.naver.com/place/1423729041/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 4,
+      "extra": {
+        "name": "잠실 맥스웰성형외과의원",
+        "rating": 4.3,
+        "total_reviews": 4,
+        "sample_size": 6,
+        "foreign_language_reviews": 6,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 6
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 1636138,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "[성형외과] 무엇이든 물어보세요 + '모발성형연구회'를 소개합니다 (뉴헤어 모발성형외과 김진오, 잠실맥스웰성형외과 김형석) [대한성형외과의사회]",
+            "channel": "의학채널 비온뒤",
+            "url": "https://www.youtube.com/watch?v=0yfnRL8iA_Y&pp=ygUz7J6g7Iuk66el7Iqk7Juw7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "2.8K views"
+          },
+          {
+            "title": "탈모 치료비 지원후  000탈모약들 처방가능!!!(ft.탈모약 지원에서 멈출 것인가? 모발이식까지 지원해 줄 것인가?)",
+            "channel": "모벤져스",
+            "url": "https://www.youtube.com/watch?v=-C9udEs_skg&pp=ygUz7J6g7Iuk66el7Iqk7Juw7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "246 views"
+          },
+          {
+            "title": "수술하는 의사는 어디가 아픈가? / 뉴헤어모발성형외과 김진오, 새길병원 정형외과 이대영",
+            "channel": "의학채널 비온뒤",
+            "url": "https://www.youtube.com/watch?v=nO_Io7qYFpQ&pp=ygUz7J6g7Iuk66el7Iqk7Juw7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "3.8K views"
+          },
+          {
+            "title": "[단계별 탈모치료]탈모진행 상태를 정확하게 진단하고 맞춤 치료를 하는게 중요합니다!!!",
+            "channel": "모벤져스",
+            "url": "https://www.youtube.com/watch?v=pD-D0b7fndU&pp=ygUz7J6g7Iuk66el7Iqk7Juw7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "814 views"
+          },
+          {
+            "title": "[잠실] 정수리 모발이식 어려운 진짜 이유, 함부로 건들이지 마세요. #탈모 #모발이식",
+            "channel": "삼탈모tv",
+            "url": "https://www.youtube.com/watch?v=5ZF2xPFZcFk&pp=ygUz7J6g7Iuk66el7Iqk7Juw7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "5K views"
+          },
+          {
+            "title": "다양한 직업의 환자들을 만났습니다(무속인, 조폭, 클럽오너, 코인부자)│모벤져스",
+            "channel": "모벤져스",
+            "url": "https://www.youtube.com/watch?v=Px9Y7WF7O9Y&pp=ygUz7J6g7Iuk66el7Iqk7Juw7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "336 views"
+          },
+          {
+            "title": "탈모 민간요법! 정말 효과가 있을까?│모벤져스",
+            "channel": "모벤져스",
+            "url": "https://www.youtube.com/watch?v=nqevU-MismM&pp=ygUz7J6g7Iuk66el7Iqk7Juw7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "479 views"
+          },
+          {
+            "title": "인생은 원래 100% 운입니다│모벤져스",
+            "channel": "모벤져스",
+            "url": "https://www.youtube.com/watch?v=jXreWjSLcKw&pp=ygUz7J6g7Iuk66el7Iqk7Juw7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "398 views"
+          },
+          {
+            "title": "모발이식하기 전에 알아야 할 모든 것(절개, 비절개부터 병원 선택까지 완벽 정리)",
+            "channel": "김진오의 뉴헤어 프로젝트",
+            "url": "https://www.youtube.com/watch?v=ilsKfp9yDNU&pp=ygUz7J6g7Iuk66el7Iqk7Juw7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.5K views"
+          },
+          {
+            "title": "모발이식 고밀도 고집하다 오히려 밀도가 떨어진다구요?? │모벤져스 #모발이식 #고밀도",
+            "channel": "모벤져스",
+            "url": "https://www.youtube.com/watch?v=uD2ppgQ85jc&pp=ygUz7J6g7Iuk66el7Iqk7Juw7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "944 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 3,
+  "opportunity_cost_thb": 87000,
+  "opportunity_cost_krw": 3480000
+}

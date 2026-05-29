@@ -1,0 +1,99 @@
+{
+  "query": "아젤린의원 정자피부과",
+  "generated_at": "2026-05-28T23:43:40.149Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 1793,
+      "extra": {
+        "place_id": "37745081",
+        "name": "아젤린의원 정자 : 네이버\u001c",
+        "visitor_review_count": 963,
+        "blog_review_count": 830,
+        "detail_url": "https://m.place.naver.com/place/37745081/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "아젤린의원",
+        "rating": 3.4,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 2,
+      "extra": {
+        "total_views": 152,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 2,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 2,
+        "top_videos": [
+          {
+            "title": "분당피부과 아젤린의원 LDM물방울리프팅 관리",
+            "channel": "아젤린의원 정자",
+            "url": "https://www.youtube.com/watch?v=SG1zjKmAD78&pp=ygUl7JWE7KCk66aw7J2Y7JuQIOygleyekO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "89 views"
+          },
+          {
+            "title": "마이크로 레이저 필(MLP)와  줄기세포 엑소좀을 이용한 피부결 개선 프로그램",
+            "channel": "아젤린의원 정자",
+            "url": "https://www.youtube.com/watch?v=fHfNQgvyUxQ&pp=ygUl7JWE7KCk66aw7J2Y7JuQIOygleyekO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "view_text": "63 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

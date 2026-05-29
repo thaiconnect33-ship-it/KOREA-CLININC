@@ -1,0 +1,147 @@
+{
+  "query": "김송이의원",
+  "generated_at": "2026-05-28T22:24:33.498Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 1504,
+      "extra": {
+        "place_id": "1636688482",
+        "name": "김송이의원 : 네이버\u001c",
+        "visitor_review_count": 1245,
+        "blog_review_count": 259,
+        "detail_url": "https://m.place.naver.com/place/1636688482/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "KSY Clinic",
+        "rating": 4.9,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 784749,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "Our clinic staff all get 'this'...? | And I got it too... lol...",
+            "channel": "친절한 송이씨",
+            "url": "https://www.youtube.com/watch?v=ZW7BsrX9zOA&pp=ygUe6rmA7Iah7J207J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "32K"
+          },
+          {
+            "title": "“청담동피부과 원장님이 인정한 실리프팅 도구가 바로 이거라구요?”",
+            "channel": "ZAVO THREAD(자보실리프팅)",
+            "url": "https://www.youtube.com/watch?v=uVa3zNP7C74&pp=ygUe6rmA7Iah7J207J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "149"
+          },
+          {
+            "title": "“아직까지 효과없다는 사람 못봤어요” l 거의 만병통치약수준인 10년 젊어지는 동안주사",
+            "channel": "친절한 송이씨",
+            "url": "https://www.youtube.com/watch?v=n8ivh9bEba8&pp=ygUe6rmA7Iah7J207J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "133K"
+          },
+          {
+            "title": "Real skin concern consultation for those who want to be beautiful [Subscriber Procedure Event ep.2]",
+            "channel": "친절한 송이씨",
+            "url": "https://www.youtube.com/watch?v=ltcxStD-MlU&pp=ygUe6rmA7Iah7J207J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "41K"
+          },
+          {
+            "title": "사진 보내주시면 얼ㅍ… 아니 얼굴 상담 해드립니다 🙂",
+            "channel": "친절한 송이씨",
+            "url": "https://www.youtube.com/watch?v=stn8c26q13U&pp=ygUe6rmA7Iah7J207J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "18K"
+          },
+          {
+            "title": "예쁘게 나이들고 싶다면 이것만큼은 꼭 챙겨주기…. l 20~50대까지 나이대별 추천시술",
+            "channel": "친절한 송이씨",
+            "url": "https://www.youtube.com/watch?v=fhdmi4jXBPM&pp=ygUe6rmA7Iah7J207J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "26K"
+          },
+          {
+            "title": "“피부 고민이 너무 많아요ㅠ 시술은 한 번도 안받아봤는데 뭐 부터 하면 좋을까요?”🥲 l 피부 초심자를 위한 진짜 솔루션!",
+            "channel": "친절한 송이씨",
+            "url": "https://www.youtube.com/watch?v=qMq9YiTiLso&pp=ygUe6rmA7Iah7J207J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "13K"
+          },
+          {
+            "title": "얼굴 쫙 올려준다고 말하는거 다 사기… l 리프팅 종류와 똑똑하게 고르는 방법",
+            "channel": "친절한 송이씨",
+            "url": "https://www.youtube.com/watch?v=1PYXq7pF7pQ&pp=ygUe6rmA7Iah7J207J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "43K"
+          },
+          {
+            "title": "A routine for better skin, just follow it ㅋㅋ l A doctor who doesn't do any procedures recommends ...",
+            "channel": "친절한 송이씨",
+            "url": "https://www.youtube.com/watch?v=AJvq7A9w4sQ&pp=ygUe6rmA7Iah7J207J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "21K"
+          },
+          {
+            "title": "Instead of Botox, do you do this? There's no such thing...",
+            "channel": "친절한 송이씨",
+            "url": "https://www.youtube.com/watch?v=YyET4vBh9W8&pp=ygUe6rmA7Iah7J207J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "10K"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

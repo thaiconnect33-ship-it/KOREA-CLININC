@@ -1,0 +1,138 @@
+{
+  "query": "뉴리즈의원",
+  "generated_at": "2026-05-28T23:27:43.991Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 1265,
+      "extra": {
+        "place_id": "1846788216",
+        "name": "뉴리즈의원 : 네이버\u001c",
+        "visitor_review_count": 619,
+        "blog_review_count": 646,
+        "detail_url": "https://m.place.naver.com/place/1846788216/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "Google Maps 결과 없음",
+        "foreign_language_reviews": 0
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 176878,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "잠실피부과 강남피부과 뉴리즈의원 _ 며느리가 해주는 효도 실리프팅 리얼후기",
+            "channel": "탱탱실닥터 장원장",
+            "url": "https://www.youtube.com/watch?v=YyZaiGZRZEQ&pp=ygUe64m066as7KaI7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "169 views"
+          },
+          {
+            "title": "뉴리즈의원 잠실피부과 - 인모드 피부탄력과 지방분해를 한 번에!",
+            "channel": "탱탱실닥터 장원장",
+            "url": "https://www.youtube.com/watch?v=3q-jo1Fr-MU&pp=ygUe64m066as7KaI7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "83 views"
+          },
+          {
+            "title": "수술없이  리프팅의 극대화! 실리프팅! 잠실뉴리즈의원에서!",
+            "channel": "뉴리즈피부톡",
+            "url": "https://www.youtube.com/watch?v=rCFQPqTEvfw&pp=ygUe64m066as7KaI7J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "151 views"
+          },
+          {
+            "title": "자연스러운 눈매의 비결! 뉴리즈 눈썹하거상술",
+            "channel": "탱탱실닥터 장원장",
+            "url": "https://www.youtube.com/watch?v=Znc1YnP_Jrg&pp=ygUe64m066as7KaI7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "75 views"
+          },
+          {
+            "title": "잠실피부과 입술필러",
+            "channel": "탱탱실닥터 장원장",
+            "url": "https://www.youtube.com/watch?v=lwR3Qov_tr0&pp=ygUe64m066as7KaI7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "55 views"
+          },
+          {
+            "title": "뉴리즈의원 잠실피부과  눈가 & 이마 주름 보톡스",
+            "channel": "탱탱실닥터 장원장",
+            "url": "https://www.youtube.com/watch?v=j0lwx3Ngi3M&pp=ygUe64m066as7KaI7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "46 views"
+          },
+          {
+            "title": "[닥터카일] 실리프팅의 대가, 피부탄력과 주름제거를 한번에, 뉴리즈의원잠실에서 한 번 할 때, 제대로 하자!",
+            "channel": "탱탱실닥터 장원장",
+            "url": "https://www.youtube.com/watch?v=G9aTzaRcaMo&pp=ygUe64m066as7KaI7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "69 views"
+          },
+          {
+            "title": "나이 티나는 목주름, 필러 시술로 확실히 개선하기! 동안 피부를 위한 목주름 필러 A to Z",
+            "channel": "탱탱실닥터 장원장",
+            "url": "https://www.youtube.com/watch?v=Pr0vVKlZ3rk&pp=ygUe64m066as7KaI7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "279 views"
+          },
+          {
+            "title": "\"팔자\"필러 ㅣ 팔자주름 때문에 나이가 들어보인다면???",
+            "channel": "탱탱실닥터 장원장",
+            "url": "https://www.youtube.com/watch?v=VviX_V_aUFI&pp=ygUe64m066as7KaI7J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "902 views"
+          },
+          {
+            "title": "짱짱하고 쫀쫀한 피부를 만들수 있다고?! 🫢지금 당장 볼류머!  #뉴리즈의원인천 #구월동피부과 #볼류머 #탄련개선 #피부탄력",
+            "channel": "뉴리즈피부톡",
+            "url": "https://www.youtube.com/watch?v=Ndupo2K1-KY&pp=ygUe64m066as7KaI7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "view_text": "21 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

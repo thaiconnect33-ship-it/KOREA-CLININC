@@ -1,0 +1,147 @@
+{
+  "query": "헤세드의원",
+  "generated_at": "2026-05-28T23:00:46.374Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 107,
+      "extra": {
+        "place_id": "1691650307",
+        "name": "헤세드의원 : 네이버\u001c",
+        "visitor_review_count": 76,
+        "blog_review_count": 31,
+        "detail_url": "https://m.place.naver.com/place/1691650307/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Results",
+        "rating": 4.9,
+        "total_reviews": 0,
+        "sample_size": 6,
+        "foreign_language_reviews": 6,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 6
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 12,
+      "extra": {
+        "total_views": 3782,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 12,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 12,
+        "top_videos": [
+          {
+            "title": "부산서면강남비율성형외과 병원 소개 영상",
+            "channel": "강남비율성형외과",
+            "url": "https://www.youtube.com/watch?v=i3CzWtzh1k4&pp=ygUh7Zek7IS465Oc7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.5K"
+          },
+          {
+            "title": "[헤세드미디어][포트폴리오][병원소개영상] 코아 이비인후과 소개 영상",
+            "channel": "chesed media",
+            "url": "https://www.youtube.com/watch?v=K1lR-rHE8Zw&pp=ygUh7Zek7IS465Oc7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "163"
+          },
+          {
+            "title": "[헤세드 미디어][포트폴리오][병원소개영상] 올바른 치과 소개 인터뷰 영상",
+            "channel": "chesed media",
+            "url": "https://www.youtube.com/watch?v=h_4A786tFV0&pp=ygUh7Zek7IS465Oc7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "176"
+          },
+          {
+            "title": "[헤세드미디어][포트폴리오][병원소개영상] 공룡 한의원 소개 영상",
+            "channel": "chesed media",
+            "url": "https://www.youtube.com/watch?v=aU34mgmtBFI&pp=ygUh7Zek7IS465Oc7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "126"
+          },
+          {
+            "title": "[헤세드미디어][포트폴리오][병원소개영상] 올바른 치과 소개 영상",
+            "channel": "chesed media",
+            "url": "https://www.youtube.com/watch?v=5MujK6zbqTE&pp=ygUh7Zek7IS465Oc7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "116"
+          },
+          {
+            "title": "툴스엠 영상제작 포트폴리오 -6편-",
+            "channel": "툴스엠TV",
+            "url": "https://www.youtube.com/watch?v=lSqZdDTXH9w&pp=ygUh7Zek7IS465Oc7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "view_text": "44"
+          },
+          {
+            "title": "[병원DID/사이니지] 피부과 소개 영상",
+            "channel": "메디비젼",
+            "url": "https://www.youtube.com/watch?v=yIsB-4ZqbHI&pp=ygUh7Zek7IS465Oc7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "185"
+          },
+          {
+            "title": "#병원영상제작 툴스엠 영상제작 포트폴리오 -5편-",
+            "channel": "툴스엠TV",
+            "url": "https://www.youtube.com/watch?v=-_DYIjXx-_k&pp=ygUh7Zek7IS465Oc7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "42"
+          },
+          {
+            "title": "[최작TV] 장산닥터남비뇨의학과의원 소개 영상 (Full 버전)",
+            "channel": "최작TV",
+            "url": "https://www.youtube.com/watch?v=qcwAYnwhcS8&pp=ygUh7Zek7IS465Oc7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "1.2K"
+          },
+          {
+            "title": "비뇨의학과 병원 홈페이지 제안 영상",
+            "channel": "minhwan kim",
+            "url": "https://www.youtube.com/watch?v=Q9Kiu3X3oGE&pp=ygUh7Zek7IS465Oc7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "view_text": "43"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": false,
+      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "manual": true
+      }
+    }
+  },
+  "global_score": 3,
+  "opportunity_cost_thb": 97000,
+  "opportunity_cost_krw": 3880000
+}
