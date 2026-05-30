@@ -14,11 +14,13 @@ type RawPost = {
   topic?: string;
 };
 
-// Thai 모드 source list — Lemon8/Pantip 포함.
+// Thai 모드 source list — 모든 sources (한/중/일/태/영) 다 노출.
 const FILES_TH: { file: string; source: string; flag: string; bg: string }[] = [
   { file: "lemon8_market.json",      source: "Lemon8",      flag: "🍋", bg: "bg-yellow-50" },
   { file: "pantip_market.json",      source: "Pantip",      flag: "🇹🇭", bg: "bg-blue-50" },
   { file: "xiaohongshu_market.json", source: "Xiaohongshu", flag: "🇨🇳", bg: "bg-pink-50" },
+  { file: "bilibili_market.json",    source: "Bilibili",    flag: "📺", bg: "bg-cyan-50" },
+  { file: "naver_blog_market.json",  source: "Naver Blog",  flag: "🇰🇷", bg: "bg-green-50" },
   { file: "reddit_market.json",      source: "Reddit",      flag: "🌐", bg: "bg-orange-50" },
   { file: "realself_market.json",    source: "Realself",    flag: "🇺🇸", bg: "bg-emerald-50" },
 ];

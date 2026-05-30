@@ -9,6 +9,8 @@ const META: Record<ReviewQuote["source"], { label: string; flag: string; color: 
   reddit:      { label: "Reddit",      flag: "🌐", color: "bg-orange-100 text-orange-800" },
   realself:    { label: "Realself",    flag: "🇺🇸", color: "bg-emerald-100 text-emerald-800" },
   google:      { label: "Google",      flag: "🔎", color: "bg-neutral-100 text-neutral-800" },
+  bilibili:    { label: "Bilibili",    flag: "📺", color: "bg-cyan-100 text-cyan-800" },
+  naver_blog:  { label: "Naver Blog",  flag: "🇰🇷", color: "bg-green-100 text-green-800" },
 };
 
 export function ReviewQuotes({ quotes, lang }: { quotes: ReviewQuote[]; lang: Lang }) {

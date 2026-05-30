@@ -69,33 +69,25 @@ export async function scrapePantip(query: string): Promise<PlatformResult> {
         else if (text.length > existing.title.length && !text.startsWith("คห.")) {
           existing.title = text.slice(0, 200);
         }
-        // view 카운트: pt-list-item__sr__info container 의 마지막 숫자 라인.
+        // view 카운트: pt-list-item__sr__info container 의 마지막 숫자 라인만 신뢰.
+        // info 컨테이너 구조: <title>\n<author>\n<date>\n<view_count>.
+        // fallback (parent text 마지막 숫자) 은 다른 컨텐츠 (포인트/금액 등) 가 매칭되는
+        // false positive 가 잦아서 제거 — 비어있으면 0 (정확도 우선).
         const info = a.closest("[class*='pt-list-item__sr__info']") as HTMLElement | null;
         if (info) {
           const t = info.innerText;
-          // 마지막 줄이 숫자만 (조회수 또는 view 수). 댓글수 패턴 "คห.NN" 은 제외.
           const lines = t.split("\n").map((l) => l.trim()).filter(Boolean);
           for (let i = lines.length - 1; i >= 0; i--) {
             const ln = lines[i];
+            // 순수 숫자 (1,234 또는 1234). 댓글 패턴 "คห.N" 은 매칭 안 됨.
+            // upper bound 100M = 일반적인 Pantip thread view 한계 (false positive 방어).
             if (/^[\d,]+$/.test(ln)) {
               const n = parseInt(ln.replace(/,/g, ""), 10);
-              if (!isNaN(n) && n > 0) {
+              if (!isNaN(n) && n > 0 && n < 100_000_000) {
                 const cur = byId.get(id)!;
                 if (n > cur.views) cur.views = n;
               }
               break;
-            }
-          }
-        }
-        // fallback: parent item text 의 마지막 숫자.
-        if ((byId.get(id)?.views ?? 0) === 0) {
-          const parent = a.closest("li, .pt-lists-item, article, [class*='item']") as HTMLElement | null;
-          if (parent) {
-            const matches = parent.innerText.match(/(\d{1,3}(?:,\d{3})+|\d+)(?=\s*$)/m);
-            if (matches) {
-              const n = parseInt(matches[1].replace(/,/g, ""), 10);
-              const cur = byId.get(id)!;
-              if (!isNaN(n) && n > cur.views) cur.views = n;
             }
           }
         }

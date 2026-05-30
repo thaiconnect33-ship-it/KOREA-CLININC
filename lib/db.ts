@@ -50,7 +50,7 @@ export type TopicSummary = {
   slug: string;
   th: string;
   en: string;
-  source: "lemon8" | "pantip" | "youtube" | "xiaohongshu" | "reddit" | "realself" | "google";
+  source: "lemon8" | "pantip" | "youtube" | "xiaohongshu" | "reddit" | "realself" | "google" | "bilibili" | "naver_blog";
   count: number;          // posts / threads / videos
   reach: number;          // likes / views
 };
@@ -247,7 +247,7 @@ export async function getTopicGroup(slug: string): Promise<{
 // ── Thai 후기 발췌 (clinic detail 에 임베드) ──────────
 // Lemon8/Pantip/YouTube market 의 sample 에서 클리닉 이름 매칭되는 글 추출.
 export type ReviewQuote = {
-  source: "lemon8" | "pantip" | "youtube" | "xiaohongshu" | "reddit" | "realself" | "google";
+  source: "lemon8" | "pantip" | "youtube" | "xiaohongshu" | "reddit" | "realself" | "google" | "bilibili" | "naver_blog";
   title: string;
   url: string;
   author?: string;
@@ -264,6 +264,8 @@ const MARKET_FILES: { file: string; source: ReviewQuote["source"] }[] = [
   { file: "reddit_market.json",      source: "reddit" },
   { file: "realself_market.json",    source: "realself" },
   { file: "google_market.json",      source: "google" },
+  { file: "bilibili_market.json",    source: "bilibili" },
+  { file: "naver_blog_market.json",  source: "naver_blog" },
 ];
 
 type SamplePost = {
@@ -400,7 +402,7 @@ export async function loadEnglishVideos(limit = 12): Promise<EnglishVideoCard[]>
 }
 
 export type EnglishReviewCard = {
-  source: "Reddit" | "YouTube" | "Realself" | "Xiaohongshu";
+  source: "Reddit" | "YouTube" | "Realself" | "Xiaohongshu" | "Bilibili";
   flag: string;
   bg: string;
   title: string;
@@ -438,6 +440,19 @@ export async function loadEnglishReviews(limit = 20): Promise<EnglishReviewCard[
       title: p.title.slice(0, 120), url: p.url,
       author: p.author || "",
       metric: p.likes ?? p.views ?? 0,
+    });
+  }
+  // 2.5) Bilibili (CJK 中文 — 영어 사용자에도 visual evidence 가치).
+  // Top-5 only — 영어 carousel 의 dominant lang 은 영어 유지, 중문은 가벼운 보조.
+  const bili = await readJSON<{ sample_posts?: SamplePost[] }>("bilibili_market.json", {});
+  for (const p of (bili.sample_posts ?? []).slice(0, 5)) {
+    if (!p.title || !p.url || seenUrl.has(p.url)) continue;
+    seenUrl.add(p.url);
+    out.push({
+      source: "Bilibili", flag: "📺", bg: "bg-cyan-50",
+      title: p.title.slice(0, 120), url: p.url,
+      author: p.author || "",
+      metric: p.views ?? p.likes ?? 0,
     });
   }
   // 3) Clinic cache 의 영어 YouTube 비디오 (high views).
