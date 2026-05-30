@@ -1,16 +1,16 @@
 {
   "query": "헤르츠랩대행",
-  "generated_at": "2026-05-28T23:37:10.298Z",
+  "generated_at": "2026-05-29T12:21:14.098Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 38,
+      "metric_value": 72,
       "extra": {
         "place_id": "1350230421",
         "name": "헤르츠랩 : 네이버\u001c",
-        "visitor_review_count": 2,
+        "visitor_review_count": 36,
         "blog_review_count": 36,
         "detail_url": "https://m.place.naver.com/place/1350230421/home"
       }
@@ -36,78 +36,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 15,
+      "metric_value": 20,
       "extra": {
-        "total_views": 1823489,
+        "total_views": 141689,
         "foreign_video_count": 0,
         "lang_breakdown": {
-          "korean": 15,
+          "korean": 20,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
           "english_other": 0
         },
-        "sample_size": 15,
+        "sample_size": 20,
         "top_videos": [
           {
-            "title": "4가지에 해당되는 광고 대행사는 무조건 거르세요 (10년차 마케터의 폭로)",
-            "channel": "끌리는 마케팅, 래아",
-            "url": "https://www.youtube.com/watch?v=CwXCnJlXIto&pp=ygUe7Zek66W07Lig656p6rSR6rOg64yA7ZaJIEtvcmVh",
-            "view_text": "27K views"
+            "title": "🌙 턱 힘만 빠져도 얼굴 분위기가 달라진다 | 큰얼굴 축소 |",
+            "channel": "Hz_Lab",
+            "url": "https://www.youtube.com/watch?v=YS2vhAm1phY&pp=ygUY7Zek66W07Lig656p64yA7ZaJIEtvcmVh",
+            "view_text": "10"
           },
           {
-            "title": "수백대 AI 노트북이 자동으로 달러 채굴해주고 한달에 6000만원 버는 23살 대표님",
-            "channel": "현장속으로",
-            "url": "https://www.youtube.com/watch?v=4RmmP7E-Dpk&pp=ygUe7Zek66W07Lig656p6rSR6rOg64yA7ZaJIEtvcmVh",
-            "view_text": "1.5M views"
-          },
-          {
-            "title": "한국방송광고진흥공사지상파.IPTV 통해 광고 의뢰 중소기업 지원 | 전주MBC 220228 방송",
-            "channel": "전주MBC News",
-            "url": "https://www.youtube.com/watch?v=NfJBog6JLXM&pp=ygUe7Zek66W07Lig656p6rSR6rOg64yA7ZaJIEtvcmVh",
-            "view_text": "170 views"
-          },
-          {
-            "title": "[슬라생] \"대신 홍보해드립니다\" 서울시, 소상공인 광고 무료 대행 #소상공인 #광고 #광고대행  _230307",
-            "channel": "YTN 라디오",
-            "url": "https://www.youtube.com/watch?v=J1WjfH6KUY4&pp=ygUe7Zek66W07Lig656p6rSR6rOg64yA7ZaJIEtvcmVh",
-            "view_text": "200 views"
-          },
-          {
-            "title": "구매대행 부업으로 1억 벌고, 퇴사 후 2억 버는 쿠팡 신흥강자 @Mulming",
-            "channel": "윈들리(Windly)",
-            "url": "https://www.youtube.com/watch?v=zCscF4-cys0&pp=ygUe7Zek66W07Lig656p6rSR6rOg64yA7ZaJIEtvcmVh",
-            "view_text": "171K views"
-          },
-          {
-            "title": "한컴 - 서울우유 광고대행 연장계약",
-            "channel": "한화그룹",
-            "url": "https://www.youtube.com/watch?v=QTG2SxpnxMk&pp=ygUe7Zek66W07Lig656p6rSR6rOg64yA7ZaJIEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "203 views"
-          },
-          {
-            "title": "Yes, I'm the youngest intern at an advertising agency... (Job Hunting Vlog)",
-            "channel": "미나달 minadal",
-            "url": "https://www.youtube.com/watch?v=KTihBYALCHU&pp=ygUe7Zek66W07Lig656p6rSR6rOg64yA7ZaJIEtvcmVh",
-            "view_text": "6.4K views"
-          },
-          {
-            "title": "\"Blue Ocean is Fake\": The Secret Behind a College Dropout with 300 Million Won in Debt Defeating ...",
-            "channel": "이코랩",
-            "url": "https://www.youtube.com/watch?v=CgMyChdsNBA&pp=ygUe7Zek66W07Lig656p6rSR6rOg64yA7ZaJIEtvcmVh",
-            "view_text": "57K views"
-          },
-          {
-            "title": "블로그 상위노출 되면서 무조건 조회수 떡상합니다. 그냥 이 영상만 10번 보세요",
-            "channel": "아임플래너",
-            "url": "https://www.youtube.com/watch?v=RFf0DwF6giw&pp=ygUe7Zek66W07Lig656p6rSR6rOg64yA7ZaJIEtvcmVh",
-            "view_text": "28K views"
-          },
-          {
-            "title": "컴퓨터 전원이 안들어와요 갑자기 컴퓨터 전원 안켜져요 i7-8700 16G 메모리 고사양 컴퓨터 사용하다 이런 황당한경우가 컴퓨터 전원이 안켜질때  USB 쇼트",
+            "title": "컴퓨터 수리 전원이 안켜져요. 컴퓨터 구입한지 한두달? I5-4670 / ASUS H81 새 컴퓨터 라구요?",
             "channel": "데일리컴 Dailycom",
-            "url": "https://www.youtube.com/watch?v=yF0osgqw29Y&pp=ygUe7Zek66W07Lig656p6rSR6rOg64yA7ZaJIEtvcmVh",
-            "view_text": "28K views"
+            "url": "https://www.youtube.com/watch?v=XcjslJXgXzE&pp=ygUY7Zek66W07Lig656p64yA7ZaJIEtvcmVh",
+            "view_text": "18K"
+          },
+          {
+            "title": "백색의 매력 속으로 | i5-9400F + RTX2060 Super + 앱코 340S 레베카 + 써모랩 트리니티 [샵다나와 조립PC]",
+            "channel": "샵다나와",
+            "url": "https://www.youtube.com/watch?v=GIeD5d5wcvY&pp=ygUY7Zek66W07Lig656p64yA7ZaJIEtvcmVh",
+            "view_text": "3.3K"
+          },
+          {
+            "title": "컴퓨터 수리 사용중 꺼짐, 종료, 안켜져요, 사용중 고주파음이!, 인텔 i7-8700 정품 쿨러 발열이..  CPU 온도가 조금 높아요",
+            "channel": "데일리컴 Dailycom",
+            "url": "https://www.youtube.com/watch?v=VjB6Ju6B5po&pp=ygUY7Zek66W07Lig656p64yA7ZaJIEtvcmVh",
+            "view_text": "6.5K"
+          },
+          {
+            "title": "컴퓨터 서비스 대행건 인텔 i5-9400F 구입한지 일주일 된 컴퓨터를 고쳐주세요,  (｡ŏ﹏ŏ)｡ 게임도중 오류 부팅이 안돼요",
+            "channel": "데일리컴 Dailycom",
+            "url": "https://www.youtube.com/watch?v=y9YFVH2_NdE&pp=ygUY7Zek66W07Lig656p64yA7ZaJIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "15K"
+          },
+          {
+            "title": "한국에서 미국 가전제품 사용하는법 $1로 해결 - 하지만 잘못 연결하면 펑 하고 터집니다",
+            "channel": "켄PD의 우연한 행복",
+            "url": "https://www.youtube.com/watch?v=nWUjWk22cYc&pp=ygUY7Zek66W07Lig656p64yA7ZaJIEtvcmVh",
+            "view_text": "31K"
+          },
+          {
+            "title": "새벽까지 뒤척이는 사람용 수면 앰비언스 |  밤에 숙면 취할 수 있다 |",
+            "channel": "Hz_Lab",
+            "url": "https://www.youtube.com/watch?v=829AQo7ioZE&pp=ygUY7Zek66W07Lig656p64yA7ZaJIEtvcmVh",
+            "view_text": "13"
+          },
+          {
+            "title": "흑과 백, RGB의 아름다움 | i7-9700F + 게인워드 RTX2070 + 아이구주 M8 + Chenglin SHARKHAN APEX4 [샵다나와 조립PC]",
+            "channel": "샵다나와",
+            "url": "https://www.youtube.com/watch?v=oXFphT-gnQo&pp=ygUY7Zek66W07Lig656p64yA7ZaJIEtvcmVh",
+            "view_text": "1.2K"
+          },
+          {
+            "title": "유리 속 신비로운 RGB | 코어 i7 10700KF + RTX 3070 + COX A6 미스틱 + 써모랩 TRINITY [샵다나와 조립컴퓨터]",
+            "channel": "샵다나와",
+            "url": "https://www.youtube.com/watch?v=eCBbrN6Xgkg&pp=ygUY7Zek66W07Lig656p64yA7ZaJIEtvcmVh",
+            "view_text": "626"
+          },
+          {
+            "title": "12세대 인텔 vs 5600x 가성비 따져보자 (영상시청전 상단덧글 필독요망!!)",
+            "channel": "고고싱컴퓨터",
+            "url": "https://www.youtube.com/watch?v=Cu2CKhA4Tio&pp=ygUY7Zek66W07Lig656p64yA7ZaJIEtvcmVh",
+            "view_text": "12K"
           }
         ]
       }
@@ -123,12 +123,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

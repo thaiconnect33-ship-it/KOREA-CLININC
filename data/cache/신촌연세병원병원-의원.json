@@ -1,17 +1,17 @@
 {
   "query": "신촌연세병원병원,의원",
-  "generated_at": "2026-05-28T23:35:34.703Z",
+  "generated_at": "2026-05-29T12:18:36.322Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 1819,
+      "metric_value": 1820,
       "extra": {
         "place_id": "13553355",
         "name": "신촌연세병원 : 네이버\u001c",
         "visitor_review_count": 517,
-        "blog_review_count": 1302,
+        "blog_review_count": 1303,
         "detail_url": "https://m.place.naver.com/place/13553355/home"
       }
     },
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 18572,
+        "total_views": 5877564,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -59,64 +59,64 @@
         "sample_size": 20,
         "top_videos": [
           {
+            "title": "1분만에 세브란스 보기",
+            "channel": "세브란스",
+            "url": "https://www.youtube.com/watch?v=o2rOzAL8pfw&pp=ygUl7Iug7LSM7Jew7IS467OR7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "8.4K views"
+          },
+          {
             "title": "4K 신촌일대 신촌세브란스병원 연세암병원 연세대 신촌역 현대백화점 유플렉스 신촌점 신촌로터리 전광판 광고 이마트신촌점 라이크치과의원 드론 신촌핫플 노고산 신촌맛집 신촌카페 7",
             "channel": "시네마틱스톡 CINEMATIC STOCK",
             "url": "https://www.youtube.com/watch?v=nEUs4C0fwFk&pp=ygUl7Iug7LSM7Jew7IS467OR7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
-            "view_text": "33"
+            "view_text": "33 views"
+          },
+          {
+            "title": "연세암병원 'Best Team'을 소개합니다.",
+            "channel": "세브란스",
+            "url": "https://www.youtube.com/watch?v=O6u_b_28Km4&pp=ygUl7Iug7LSM7Jew7IS467OR7JuQ67OR7JuQLOydmOybkCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "1.5K views"
           },
           {
             "title": "서강나루공원,신촌연세병원,경의선숲길,드론영상제작,드론영상",
             "channel": "시네마틱스톡 CINEMATIC STOCK",
             "url": "https://www.youtube.com/watch?v=Kk4xeufx9Xc&pp=ygUl7Iug7LSM7Jew7IS467OR7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
-            "view_text": "56"
-          },
-          {
-            "title": "연세암병원 'Best Team'을 소개합니다.",
-            "channel": "세브란스",
-            "url": "https://www.youtube.com/watch?v=O6u_b_28Km4&pp=ygUl7Iug7LSM7Jew7IS467OR7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
-            "view_text": "1.5K"
-          },
-          {
-            "title": "신촌연세우리내과의원 간판시공",
-            "channel": "도시의 간판들",
-            "url": "https://www.youtube.com/watch?v=Pw0gz-CI8vI&pp=ygUl7Iug7LSM7Jew7IS467OR7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
-            "view_text": "104"
+            "view_text": "56 views"
           },
           {
             "title": "여기 별이 있습니다",
             "channel": "세브란스",
             "url": "https://www.youtube.com/watch?v=Q4HI4M94BGw&pp=ygUl7Iug7LSM7Jew7IS467OR7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
-            "view_text": "1.5K"
+            "view_text": "1.5K views"
+          },
+          {
+            "title": "신촌연세우리내과의원 간판시공",
+            "channel": "도시의 간판들",
+            "url": "https://www.youtube.com/watch?v=Pw0gz-CI8vI&pp=ygUl7Iug7LSM7Jew7IS467OR7JuQ67OR7JuQLOydmOybkCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "104 views"
           },
           {
             "title": "연세암병원 '암지식정보센터' 를 소개합니다.",
             "channel": "세브란스",
             "url": "https://www.youtube.com/watch?v=Du069qMs3Do&pp=ygUl7Iug7LSM7Jew7IS467OR7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
-            "view_text": "692"
+            "view_text": "692 views"
           },
           {
-            "title": "류마티스내과병원확장이전- 창원류마티스내과 연세류마내과 (구)연세편한마디내과",
-            "channel": "류마티스질환 궁금증해결",
-            "url": "https://www.youtube.com/watch?v=lNeVX_Wodgk&pp=ygUl7Iug7LSM7Jew7IS467OR7JuQ67OR7JuQLOydmOybkCBLb3JlYdIHCQkNCwGHKiGM7w%3D%3D",
-            "view_text": "1.4K"
+            "title": "건강검진 병원, 이런 곳 가시면 됩니다",
+            "channel": "내과의사 황금빛",
+            "url": "https://www.youtube.com/watch?v=PNgitVrb6a0&pp=ygUl7Iug7LSM7Jew7IS467OR7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "42K views"
           },
           {
-            "title": "4K 신촌일대 신촌세브란스병원 연세암병원 연세대 신촌역 현대백화점 유플렉스 신촌점 이마트 신촌로터리 엘리트빌딩 YBM어학원 신촌센터 옥상 드론 신촌핫플 신촌맛집 신촌카페 10",
-            "channel": "시네마틱스톡 CINEMATIC STOCK",
-            "url": "https://www.youtube.com/watch?v=9ODhQoM6rs4&pp=ygUl7Iug7LSM7Jew7IS467OR7JuQ67OR7JuQLOydmOybkCBLb3JlYdIHCQkNCwGHKiGM7w%3D%3D",
-            "view_text": "52"
-          },
-          {
-            "title": "화상 흉터로 잠 못 이루는 분들을 위한 치료법 / 신촌연세스타피부과 이상주",
+            "title": "대학병원 예약 빨리 잡는 방법(명의가 필요한 진료 분야는?) - 前 대한의사협회장, 하트웰의원 노환규 원장",
             "channel": "의학채널 비온뒤",
-            "url": "https://www.youtube.com/watch?v=4fkf3K2jN5U&pp=ygUl7Iug7LSM7Jew7IS467OR7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
-            "view_text": "2.5K"
+            "url": "https://www.youtube.com/watch?v=EKjpwc2Aqn8&pp=ygUl7Iug7LSM7Jew7IS467OR7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "3.2M views"
           },
           {
-            "title": "[아이유안과] 닥튜버 각막 IU안과 주천기 원장과 신촌연세안과 최영주 원장의 특급 콜라보",
-            "channel": "iueyeclinic",
-            "url": "https://www.youtube.com/watch?v=qW5mz3n7Z_8&pp=ygUl7Iug7LSM7Jew7IS467OR7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
-            "view_text": "339"
+            "title": "콩팥병 환자의 뼈와 관절 케어(골절 및 관절염) / 범일연세내과 이동형, 신촌연세정형외과의원 윤상필",
+            "channel": "의학채널 비온뒤",
+            "url": "https://www.youtube.com/watch?v=9BYvSq91uzM&pp=ygUl7Iug7LSM7Jew7IS467OR7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "2.3K views"
           }
         ]
       }
@@ -132,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

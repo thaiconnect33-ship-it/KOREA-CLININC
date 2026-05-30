@@ -1,16 +1,16 @@
 {
   "query": "아미성형외과",
-  "generated_at": "2026-05-29T05:47:12.518Z",
+  "generated_at": "2026-05-29T10:13:29.362Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 814,
+      "metric_value": 816,
       "extra": {
         "place_id": "1723768976",
         "name": "아미의원 : 네이버\u001c",
-        "visitor_review_count": 442,
+        "visitor_review_count": 444,
         "blog_review_count": 372,
         "detail_url": "https://m.place.naver.com/place/1723768976/home"
       }
@@ -18,18 +18,18 @@
     "google_maps": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 91,
+      "metric_value": 0,
       "extra": {
         "name": "Results",
         "rating": 4.9,
-        "total_reviews": 91,
-        "sample_size": 6,
-        "foreign_language_reviews": 6,
+        "total_reviews": 0,
+        "sample_size": 9,
+        "foreign_language_reviews": 9,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 6
+          "english_other": 9
         }
       }
     },
@@ -47,14 +47,14 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 3955906,
-        "foreign_video_count": 18,
+        "total_views": 4224724,
+        "foreign_video_count": 19,
         "lang_breakdown": {
-          "korean": 2,
+          "korean": 1,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
-          "english_other": 18
+          "english_other": 19
         },
         "sample_size": 20,
         "top_videos": [
@@ -67,7 +67,7 @@
           {
             "title": "8 Facelifts Ranked from WORST to BEST! Plastic Surgeon Explains",
             "channel": "DrAmirKaram",
-            "url": "https://www.youtube.com/watch?v=y2AxHoBbd7Q&pp=ygUZQW1pIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "url": "https://www.youtube.com/watch?v=y2AxHoBbd7Q&pp=ygUZQW1pIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
             "view_text": "349K views"
           },
           {
@@ -79,14 +79,8 @@
           {
             "title": "2023 AMI TREND KOREA 초청 이한정 대표원장 l 강연 및 라이브 시술",
             "channel": "에이탑뷰티클리닉 • ATOP Beauty Clinic Korea",
-            "url": "https://www.youtube.com/watch?v=0hBGSXiV2i4&pp=ygUZQW1pIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "url": "https://www.youtube.com/watch?v=0hBGSXiV2i4&pp=ygUZQW1pIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
             "view_text": "190 views"
-          },
-          {
-            "title": "Aminat's Surgical Journey: Part 3",
-            "channel": "Aristocrat Plastic Surgery & MedAesthetics",
-            "url": "https://www.youtube.com/watch?v=Bwr6lsjDQIo&pp=ygUZQW1pIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
-            "view_text": "2.8K views"
           },
           {
             "title": "Plastic Surgery in Korea & A Reunion with An Old Friend",
@@ -101,9 +95,15 @@
             "view_text": "877K views"
           },
           {
+            "title": "Aminat's Surgical Journey: Part 3",
+            "channel": "Aristocrat Plastic Surgery & MedAesthetics",
+            "url": "https://www.youtube.com/watch?v=Bwr6lsjDQIo&pp=ygUZQW1pIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "2.8K views"
+          },
+          {
             "title": "TOP 5 Cosmetic Procedures in Korea: What’s Worth Trying?",
             "channel": "meamo",
-            "url": "https://www.youtube.com/watch?v=2iIg6VOfVTU&pp=ygUZQW1pIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "url": "https://www.youtube.com/watch?v=2iIg6VOfVTU&pp=ygUZQW1pIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
             "view_text": "16K views"
           },
           {
@@ -115,7 +115,7 @@
           {
             "title": "What Koreans think of Plastic Surgery(2024) | KPC ASK",
             "channel": "KPC with David Kim",
-            "url": "https://www.youtube.com/watch?v=L2Bwthju_Sk&pp=ygUZQW1pIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "url": "https://www.youtube.com/watch?v=L2Bwthju_Sk&pp=ygUZQW1pIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
             "view_text": "12K views"
           }
         ]
@@ -142,7 +142,7 @@
       }
     }
   },
-  "global_score": 17,
-  "opportunity_cost_thb": 88000,
-  "opportunity_cost_krw": 3520000
+  "global_score": 20,
+  "opportunity_cost_thb": 86000,
+  "opportunity_cost_krw": 3440000
 }

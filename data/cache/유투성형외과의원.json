@@ -1,16 +1,18 @@
 {
   "query": "유투성형외과의원",
-  "generated_at": "2026-05-28T22:32:04.234Z",
+  "generated_at": "2026-05-29T11:09:03.552Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 746,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "1843337506",
+        "name": "유투성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 431,
+        "blog_review_count": 315,
+        "detail_url": "https://m.place.naver.com/place/1843337506/home"
       }
     },
     "google_maps": {
@@ -45,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 1038159,
+        "total_views": 34494,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -57,64 +59,64 @@
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "안면거상수술하면 목주름도 없어진다? - 【feat. 성형외과전문의】",
-            "channel": "시너지성형외과",
-            "url": "https://www.youtube.com/watch?v=AcdmoYXAc4Q&pp=ygUw7Jyg7Yis7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "41K views"
+            "title": "팔자주름 30분만에 해결한 방법 Real 후기 #팔자주름없애기 #팔자주름보톡스 #팔자주름필러",
+            "channel": "유투성형외과",
+            "url": "https://www.youtube.com/watch?v=X3DacM_pZGY&pp=ygUe7Jyg7Yis7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "143"
           },
           {
-            "title": "[홍진주의 성형 Q&A] #5. 성형, 선택의 딜레마 '매몰 vs 절개' (제이제이성형외과 홍진주 원장)",
-            "channel": "의학채널 비온뒤",
-            "url": "https://www.youtube.com/watch?v=weJT94cyHbI&pp=ygUw7Jyg7Yis7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "5.8K views"
+            "title": "팔자주름 제거 3",
+            "channel": "유투성형외과",
+            "url": "https://www.youtube.com/watch?v=UhXQKbOUtPE&pp=ygUe7Jyg7Yis7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "5.1K"
           },
           {
-            "title": "저... 앞트임복원 TOP3 아닌가요? 송승욱 원장도 어려웠던 앞트임복원 케이스 모음",
-            "channel": "고쳐주는 삼촌들",
-            "url": "https://www.youtube.com/watch?v=pZltd3F3vyI&pp=ygUw7Jyg7Yis7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "7.1K views"
+            "title": "팔자주름  1-3",
+            "channel": "유투성형외과",
+            "url": "https://www.youtube.com/watch?v=_FT_pN6QbE0&pp=ygUe7Jyg7Yis7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "4"
           },
           {
-            "title": "[SODA] 소다성형외과 | 안면윤곽 수술시 예뻐지는/제한적인 유형",
-            "channel": "소다성형외과",
-            "url": "https://www.youtube.com/watch?v=TQ-dM_keBr0&pp=ygUw7Jyg7Yis7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "53K views"
+            "title": "팔자주름  1-4",
+            "channel": "유투성형외과",
+            "url": "https://www.youtube.com/watch?v=UsrZJ-GAakk&pp=ygUe7Jyg7Yis7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "2"
           },
           {
-            "title": "눈성형,코성형 수술기구 전격 공개! (성형외과 수술실에서 무슨일이 일어날까 3편)",
-            "channel": "닥터혜자",
-            "url": "https://www.youtube.com/watch?v=FIIqCKR4nKk&pp=ygUw7Jyg7Yis7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "9.2K views"
+            "title": "팔자주름 제거 4",
+            "channel": "유투성형외과",
+            "url": "https://www.youtube.com/watch?v=kiWXQ8YC60g&pp=ygUe7Jyg7Yis7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "4"
           },
           {
-            "title": "\"눈 밑 수술했다가 X신 됐다\"…병원에선 \"명예훼손 고소\" / JTBC 사건반장",
-            "channel": "JTBC News",
-            "url": "https://www.youtube.com/watch?v=BgFgWiQm09w&pp=ygUw7Jyg7Yis7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "827K views"
+            "title": "팔자주름 1-6",
+            "channel": "유투성형외과",
+            "url": "https://www.youtube.com/watch?v=oQrWaZWEUpw&pp=ygUe7Jyg7Yis7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "9"
           },
           {
-            "title": "ㅂㄹㅂㅌ인터뷰] 글로비성형외과 쏘-스윗! 쌍수셀럽 박종철 원장님 preview",
-            "channel": "coding_stuff",
-            "url": "https://www.youtube.com/watch?v=lt85PPr3i3Y&pp=ygUw7Jyg7Yis7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.6K views"
+            "title": "팔자주름 3 1",
+            "channel": "유투성형외과",
+            "url": "https://www.youtube.com/watch?v=-cUPlMH19NU&pp=ygUe7Jyg7Yis7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "26"
           },
           {
-            "title": "불법 시술 또는 녹지 않는 필러 때문에 얼굴 이물질제거 해야 한다면?",
-            "channel": "압구정 김형진베이직성형외과",
-            "url": "https://www.youtube.com/watch?v=i5Ayyhizgqs&pp=ygUw7Jyg7Yis7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "17K views"
+            "title": "팔자주름  1-2",
+            "channel": "유투성형외과",
+            "url": "https://www.youtube.com/watch?v=bICuR1VTCGI&pp=ygUe7Jyg7Yis7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "3"
           },
           {
-            "title": "\"Why is it so hard to get a consultation at Almond? 😢\" Director, please explain..! Let's check it...",
-            "channel": "AMOND TV - 아몬드성형외과",
-            "url": "https://www.youtube.com/watch?v=VHmF-XOUB2k&pp=ygUw7Jyg7Yis7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "21K views"
+            "title": "눈밑지방재배치 3-6",
+            "channel": "유투성형외과",
+            "url": "https://www.youtube.com/watch?v=5YQJIfZYBBE&pp=ygUe7Jyg7Yis7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "5.2K"
           },
           {
-            "title": "쌍커풀 수술 '자연유착' 이 궁금하다 ! (feat.친절상담)",
-            "channel": "드레스성형외과의원",
-            "url": "https://www.youtube.com/watch?v=I1Hqwbo1N8o&pp=ygUw7Jyg7Yis7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "13K views"
+            "title": "안녕하세요 유투성형외과 입니다",
+            "channel": "유투성형외과",
+            "url": "https://www.youtube.com/watch?v=LBN3VhYQbTg&pp=ygUe7Jyg7Yis7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "70"
           }
         ]
       }
@@ -130,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

@@ -1,16 +1,18 @@
 {
   "query": "루이샤의원",
-  "generated_at": "2026-05-28T22:13:57.142Z",
+  "generated_at": "2026-05-29T10:50:18.548Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 188,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "1003794392",
+        "name": "루이샤의원 : 네이버\u001c",
+        "visitor_review_count": 173,
+        "blog_review_count": 15,
+        "detail_url": "https://m.place.naver.com/place/1003794392/home"
       }
     },
     "google_maps": {
@@ -43,9 +45,80 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 0,
+      "metric_value": 20,
       "extra": {
-        "note": "결과 없음"
+        "total_views": 9803272,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "지방흡입후 압박복? 복대?",
+            "channel": "루이샤의원",
+            "url": "https://www.youtube.com/watch?v=l9P3l9cNMwQ&pp=ygUV66Oo7J207IOk7J2Y7JuQIEtvcmVh",
+            "view_text": "405 views"
+          },
+          {
+            "title": "하루만에 복부, 허벅지 지방흡입 가능할까?",
+            "channel": "루이샤의원",
+            "url": "https://www.youtube.com/watch?v=V4IxNU-zSeo&pp=ygUV66Oo7J207IOk7J2Y7JuQIEtvcmVh",
+            "view_text": "219 views"
+          },
+          {
+            "title": "The Truth Behind CCTV Footage of Brain Death After Liposuction [Whistleblowers] 20200819",
+            "channel": "KBS 다큐",
+            "url": "https://www.youtube.com/watch?v=Oa1cnInjgBE&pp=ygUV66Oo7J207IOk7J2Y7JuQIEtvcmVh",
+            "view_text": "4.9M views"
+          },
+          {
+            "title": "똥배 부분에만 지방흡입이 가능할까요",
+            "channel": "루이샤의원",
+            "url": "https://www.youtube.com/watch?v=qJ2qbCfd4B0&pp=ygUV66Oo7J207IOk7J2Y7JuQIEtvcmVh",
+            "view_text": "138 views"
+          },
+          {
+            "title": "루이샤의원 바비톡 1분 닥터 촬영 메이킹 영상 미리보기",
+            "channel": "루이샤의원",
+            "url": "https://www.youtube.com/watch?v=2mUHYQaP670&pp=ygUV66Oo7J207IOk7J2Y7JuQIEtvcmVh",
+            "view_text": "163 views"
+          },
+          {
+            "title": "라인 위주의 지방흡입과 대용량 지방흡입의 차이점이 뭔가요",
+            "channel": "루이샤의원",
+            "url": "https://www.youtube.com/watch?v=bTZBdPpXpWg&pp=ygUV66Oo7J207IOk7J2Y7JuQIEtvcmVh",
+            "view_text": "66 views"
+          },
+          {
+            "title": "팔지방흡입, 복부지방흡입 어느부위먼저?",
+            "channel": "루이샤의원",
+            "url": "https://www.youtube.com/watch?v=KBKWaXAM5cE&pp=ygUV66Oo7J207IOk7J2Y7JuQIEtvcmVh",
+            "view_text": "184 views"
+          },
+          {
+            "title": "루이샤의원_지방흡입은 청담 루이샤의원에서!",
+            "channel": "루이샤의원",
+            "url": "https://www.youtube.com/watch?v=MyQuCkxjldw&pp=ygUV66Oo7J207IOk7J2Y7JuQIEtvcmVh",
+            "view_text": "332 views"
+          },
+          {
+            "title": "비대칭 종아리 지방흡입은?",
+            "channel": "루이샤의원",
+            "url": "https://www.youtube.com/watch?v=Pn6OVYLgjIw&pp=ygUV66Oo7J207IOk7J2Y7JuQIEtvcmVh",
+            "view_text": "181 views"
+          },
+          {
+            "title": "고도비만도 하루만에 전신흡입이 가능할까요?",
+            "channel": "루이샤의원",
+            "url": "https://www.youtube.com/watch?v=hyB1sQXIpOs&pp=ygUV66Oo7J207IOk7J2Y7JuQIEtvcmVh",
+            "view_text": "66 views"
+          }
+        ]
       }
     },
     "xiaohongshu": {
@@ -59,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

@@ -1,35 +1,35 @@
 {
   "query": "시선성형외과의원",
-  "generated_at": "2026-05-29T00:02:59.981Z",
+  "generated_at": "2026-05-29T12:49:32.284Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 2702,
+      "metric_value": 2704,
       "extra": {
         "place_id": "38520305",
         "name": "시선성형외과의원 : 네이버\u001c",
         "visitor_review_count": 244,
-        "blog_review_count": 2458,
+        "blog_review_count": 2460,
         "detail_url": "https://m.place.naver.com/place/38520305/home"
       }
     },
     "google_maps": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 91,
+      "metric_value": 88,
       "extra": {
         "name": "시선성형외과",
         "rating": 4.9,
-        "total_reviews": 91,
-        "sample_size": 16,
-        "foreign_language_reviews": 16,
+        "total_reviews": 88,
+        "sample_size": 20,
+        "foreign_language_reviews": 20,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 16
+          "english_other": 20
         }
       }
     },
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 4303,
+        "total_views": 51758,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -59,64 +59,64 @@
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "두줄따기 후기, 두꺼운 쌍커풀로 소세지눈이 고민이라면?",
-            "channel": "시선성형외과",
-            "url": "https://www.youtube.com/watch?v=f0Nn_YSs0pc&pp=ygUq7Iuc7ISg7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "84 views"
-          },
-          {
             "title": "눈꺼풀꺼짐 원인과 문제점은? 그리고 해결방법까지",
             "channel": "시선성형외과",
-            "url": "https://www.youtube.com/watch?v=mf5sgFeiT4M&pp=ygUq7Iuc7ISg7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=mf5sgFeiT4M&pp=ygUe7Iuc7ISg7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "195 views"
-          },
-          {
-            "title": "앞트임복원 후 재트임에 대하여 (ft. 과복원)",
-            "channel": "시선성형외과",
-            "url": "https://www.youtube.com/watch?v=j3_bUw5HxYI&pp=ygUq7Iuc7ISg7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "975 views"
-          },
-          {
-            "title": "눈위꺼짐 꺼진 눈, 개선하고 싶어요! (눈매교정, 눈지방이식)",
-            "channel": "시선성형외과",
-            "url": "https://www.youtube.com/watch?v=fZppaGJp_to&pp=ygUq7Iuc7ISg7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "299 views"
-          },
-          {
-            "title": "시선성형외과 축돌리기로 사나운눈을 동그랗게!",
-            "channel": "시선성형외과",
-            "url": "https://www.youtube.com/watch?v=mNwnl5XSk5w&pp=ygUq7Iuc7ISg7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "57 views"
-          },
-          {
-            "title": "확실한 트임성형을 찾고있다면, 눈이 커지는 풀트임으로 (+반달눈성형)",
-            "channel": "시선성형외과",
-            "url": "https://www.youtube.com/watch?v=FUNWHzhS8IM&pp=ygUq7Iuc7ISg7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "48 views"
-          },
-          {
-            "title": "SISUN PLASTIC SURGERY",
-            "channel": "시선성형외과",
-            "url": "https://www.youtube.com/watch?v=LdG581grbzQ&pp=ygUq7Iuc7ISg7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "829 views"
           },
           {
             "title": "[함몰눈, 꼬막눈] 듀얼트임으로 자연스럽고 매력적인 눈매 완성하기",
             "channel": "시선성형외과",
-            "url": "https://www.youtube.com/watch?v=KPe6YI4ndw0&pp=ygUq7Iuc7ISg7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=KPe6YI4ndw0&pp=ygUe7Iuc7ISg7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "43 views"
           },
           {
-            "title": "세미아웃라인 교정 무보정 사례모음. zip",
+            "title": "중년 앞트임복원, 눈앞 가로주름과 아웃라인을 함께 개선한 사례",
             "channel": "시선성형외과",
-            "url": "https://www.youtube.com/watch?v=lbztJcxMpa8&pp=ygUq7Iuc7ISg7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "55 views"
+            "url": "https://www.youtube.com/watch?v=ZGUOC0iBaR0&pp=ygUe7Iuc7ISg7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "9 views"
           },
           {
-            "title": "반달눈성형 무보정 사례모음. zip",
+            "title": "앞트임복원 후 재트임에 대하여 (ft. 과복원)",
             "channel": "시선성형외과",
-            "url": "https://www.youtube.com/watch?v=AeklCE6zcbE&pp=ygUq7Iuc7ISg7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "34 views"
+            "url": "https://www.youtube.com/watch?v=j3_bUw5HxYI&pp=ygUe7Iuc7ISg7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "975 views"
+          },
+          {
+            "title": "두줄따기 후기, 두꺼운 쌍커풀로 소세지눈이 고민이라면?",
+            "channel": "시선성형외과",
+            "url": "https://www.youtube.com/watch?v=f0Nn_YSs0pc&pp=ygUe7Iuc7ISg7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "84 views"
+          },
+          {
+            "title": "확실한 트임성형을 찾고있다면, 눈이 커지는 풀트임으로 (+반달눈성형)",
+            "channel": "시선성형외과",
+            "url": "https://www.youtube.com/watch?v=FUNWHzhS8IM&pp=ygUe7Iuc7ISg7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "48 views"
+          },
+          {
+            "title": "시선성형외과 축돌리기로 사나운눈을 동그랗게!",
+            "channel": "시선성형외과",
+            "url": "https://www.youtube.com/watch?v=mNwnl5XSk5w&pp=ygUe7Iuc7ISg7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "57 views"
+          },
+          {
+            "title": "[시선성형외과] 앞트임복원 3D 수술과정",
+            "channel": "시선성형외과",
+            "url": "https://www.youtube.com/watch?v=PXnIp6RCvdg&pp=ygUe7Iuc7ISg7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "49K views"
+          },
+          {
+            "title": "악성 겹주름 (강한 쌍꺼풀 유착) 무보정 사례모음 .zip",
+            "channel": "시선성형외과",
+            "url": "https://www.youtube.com/watch?v=BalffJHeLbo&pp=ygUe7Iuc7ISg7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "29 views"
+          },
+          {
+            "title": "자연스러운 눈매 개선을 위한 뒤밑트임 수술의 모든 것",
+            "channel": "시선성형외과",
+            "url": "https://www.youtube.com/watch?v=l7u67AD4S5g&pp=ygUe7Iuc7ISg7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "25 views"
           }
         ]
       }
@@ -132,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 8,
-  "opportunity_cost_thb": 92000,
-  "opportunity_cost_krw": 3680000
+  "global_score": 10,
+  "opportunity_cost_thb": 90000,
+  "opportunity_cost_krw": 3600000
 }

@@ -1,0 +1,148 @@
+{
+  "query": "로바에의원 홍대",
+  "generated_at": "2026-05-29T11:33:49.904Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 6479,
+      "extra": {
+        "place_id": "1584469850",
+        "name": "로바에의원 홍대 : 네이버\u001c",
+        "visitor_review_count": 916,
+        "blog_review_count": 5563,
+        "detail_url": "https://m.place.naver.com/place/1584469850/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "로바에의원 홍대",
+        "rating": 5,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 36909,
+        "foreign_video_count": 10,
+        "lang_breakdown": {
+          "korean": 10,
+          "thai": 0,
+          "chinese": 10,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "제일 핫한 스킨부스터 고우리 시술 과정 대공개💉🔥",
+            "channel": "로바에 의원 LOVAE CLINIC",
+            "url": "https://www.youtube.com/watch?v=j6AUx9l1wFI&pp=ygUc66Gc67CU7JeQ7J2Y7JuQIO2ZjeuMgCBLb3JlYQ%3D%3D",
+            "view_text": "631 views"
+          },
+          {
+            "title": "麗珠蘭紅盒和麗珠蘭黑盒同時實施｜效果大公開",
+            "channel": "罗薇尔医院",
+            "url": "https://www.youtube.com/watch?v=mUPdhuWF6H0&pp=ygUc66Gc67CU7JeQ7J2Y7JuQIO2ZjeuMgCBLb3JlYQ%3D%3D",
+            "view_text": "4 views"
+          },
+          {
+            "title": "玩美電波初體驗！韓國LOVAE皮膚科診所，客製化療程效果超自然！（feat:韓國LOVAE醫院）",
+            "channel": "罗薇尔医院",
+            "url": "https://www.youtube.com/watch?v=geA9Rs7mhRA&pp=ygUc66Gc67CU7JeQ7J2Y7JuQIO2ZjeuMgCBLb3JlYQ%3D%3D",
+            "view_text": "54 views"
+          },
+          {
+            "title": "男士初體驗｜黃金微針+外泌體全過程｜改善粗大毛孔（feat:韓國LOVAE醫院）",
+            "channel": "罗薇尔医院",
+            "url": "https://www.youtube.com/watch?v=Ce_0XD1bLDc&pp=ygUc66Gc67CU7JeQ7J2Y7JuQIO2ZjeuMgCBLb3JlYQ%3D%3D",
+            "view_text": "87 views"
+          },
+          {
+            "title": "[이벤트] 요즘 겨드랑이 제모 어때요? 피부과선생님께서 직접 일려주시는 제모 이야기  #로바에 #제모가격 #제모비용 #제모후기#제모 #인중제모 #수염제모",
+            "channel": "릴드당스, 기초발레 제대로 배우기",
+            "url": "https://www.youtube.com/watch?v=3h0a7669Zk8&pp=ygUc66Gc67CU7JeQ7J2Y7JuQIO2ZjeuMgCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "841 views"
+          },
+          {
+            "title": "麗珠蘭手打，機打大不同！到底要怎麼選擇？（feat:韓國LOVAE醫院）",
+            "channel": "罗薇尔医院",
+            "url": "https://www.youtube.com/watch?v=vOy5As_izG8&pp=ygUc66Gc67CU7JeQ7J2Y7JuQIO2ZjeuMgCBLb3JlYQ%3D%3D",
+            "view_text": "1.4K views"
+          },
+          {
+            "title": "男士下巴改善案例｜2cc玻尿酸，從短下巴到理想比例。（feat. 韓國 LOVAE 醫院）",
+            "channel": "罗薇尔医院",
+            "url": "https://www.youtube.com/watch?v=aKfkYRaQMvo&pp=ygUc66Gc67CU7JeQ7J2Y7JuQIO2ZjeuMgCBLb3JlYQ%3D%3D",
+            "view_text": "37 views"
+          },
+          {
+            "title": "沉浸式體驗Potenza黃金射頻微針 #asmr",
+            "channel": "罗薇尔医院",
+            "url": "https://www.youtube.com/watch?v=oYqu8ROkQt0&pp=ygUc66Gc67CU7JeQ7J2Y7JuQIO2ZjeuMgCBLb3JlYQ%3D%3D",
+            "view_text": "198 views"
+          },
+          {
+            "title": "保柔缇｜眼底凹陷+黑眼圈救星😎 #罗薇尔医院 #로바에의원（feat:韓國LOVAE醫院）",
+            "channel": "罗薇尔医院",
+            "url": "https://www.youtube.com/watch?v=YCjYk3qZbk8&pp=ygUc66Gc67CU7JeQ7J2Y7JuQIO2ZjeuMgCBLb3JlYQ%3D%3D",
+            "view_text": "98 views"
+          },
+          {
+            "title": "韓國LOVAE皮膚科抗痘療程體驗！量身打造專屬你的淨痘計劃，肌膚大進化！（feat:韓國LOVAE醫院）",
+            "channel": "罗薇尔医院",
+            "url": "https://www.youtube.com/watch?v=i5qmU1Deoo0&pp=ygUc66Gc67CU7JeQ7J2Y7JuQIO2ZjeuMgCBLb3JlYQ%3D%3D",
+            "view_text": "32 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 8,
+  "opportunity_cost_thb": 105000,
+  "opportunity_cost_krw": 4200000
+}

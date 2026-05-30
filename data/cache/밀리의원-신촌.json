@@ -1,0 +1,148 @@
+{
+  "query": "밀리의원 신촌",
+  "generated_at": "2026-05-29T12:17:48.922Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 1135,
+      "extra": {
+        "place_id": "1113713455",
+        "name": "밀리의원 신촌 : 네이버\u001c",
+        "visitor_review_count": 1033,
+        "blog_review_count": 102,
+        "detail_url": "https://m.place.naver.com/place/1113713455/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "신촌 밀리클리닉/ミリークリニック新村/MILI皮膚科新村店/Sinchon Miliclinic",
+        "rating": 5,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 10279676,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "[메디컬 필름] 밀리클리닉 눈썹 제모_가이드 필름",
+            "channel": "Seolseol Film",
+            "url": "https://www.youtube.com/watch?v=kxIq4qmH2mI&pp=ygUZ67CA66as7J2Y7JuQIOyLoOy0jCBLb3JlYQ%3D%3D",
+            "view_text": "342 views"
+          },
+          {
+            "title": "밀리의 서재 \"1만 3천 명 회원정보 탈취 당해\" (2022.06.07/뉴스프리데스크/MBC)",
+            "channel": "MBCNEWS",
+            "url": "https://www.youtube.com/watch?v=qWExwS1DmRE&pp=ygUZ67CA66as7J2Y7JuQIOyLoOy0jCBLb3JlYQ%3D%3D",
+            "view_text": "2.2K views"
+          },
+          {
+            "title": "늑장 논란·민심 이반에 …민주, 떠밀리듯 김남국 윤리위 제소 / 연합뉴스TV (YonhapnewsTV)",
+            "channel": "연합뉴스TV",
+            "url": "https://www.youtube.com/watch?v=b6ied0e2VDE&pp=ygUZ67CA66as7J2Y7JuQIOyLoOy0jCBLb3JlYQ%3D%3D",
+            "view_text": "283 views"
+          },
+          {
+            "title": "지지율 밀리자 중진들 쓴소리…정진석 \"읍참마속 해야\" / SBS",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=E0J1u5o2-Mc&pp=ygUZ67CA66as7J2Y7JuQIOyLoOy0jCBLb3JlYQ%3D%3D",
+            "view_text": "3.5K views"
+          },
+          {
+            "title": "최종건 \"마크 밀리 美 합참의장 언급, 미군 철수 취지 아냐...한미동맹 굳건\" / YTN",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=pAw9IY1504s&pp=ygUZ67CA66as7J2Y7JuQIOyLoOy0jCBLb3JlYQ%3D%3D",
+            "view_text": "1.3K views"
+          },
+          {
+            "title": "[다시보기] ‘돈봉투 의혹’ 윤관석 이성만, 떠밀리듯 민주당 탈당│ 2023년 5월 3일 뉴스A",
+            "channel": "채널A News",
+            "url": "https://www.youtube.com/watch?v=m4nlXQEnEVA&pp=ygUZ67CA66as7J2Y7JuQIOyLoOy0jCBLb3JlYQ%3D%3D",
+            "view_text": "47K views"
+          },
+          {
+            "title": "[메디컬 필름] 밀리클리닉_브랜딩 필름 Ver.2",
+            "channel": "Seolseol Film",
+            "url": "https://www.youtube.com/watch?v=hmRVRkg452k&pp=ygUZ67CA66as7J2Y7JuQIOyLoOy0jCBLb3JlYQ%3D%3D",
+            "view_text": "155 views"
+          },
+          {
+            "title": "키드밀리와 산부인과 의사가 가장 좋아하는 피임방법은?",
+            "channel": "숏부인과",
+            "url": "https://www.youtube.com/watch?v=TYQXF4keUXw&pp=ygUZ67CA66as7J2Y7JuQIOyLoOy0jCBLb3JlYQ%3D%3D",
+            "view_text": "331K views"
+          },
+          {
+            "title": "밀리 미 육군총장 17∼19일 방한…사드배치 논의",
+            "channel": "연합뉴스TV",
+            "url": "https://www.youtube.com/watch?v=I1xs3_O5JAQ&pp=ygUZ67CA66as7J2Y7JuQIOyLoOy0jCBLb3JlYQ%3D%3D",
+            "view_text": "132 views"
+          },
+          {
+            "title": "김어준의 겸손은힘들다 뉴스공장 2023년 1월 31일 화요일[민관기, 민웅기, 김의겸, 박지원, 원종우, 박동희, 박문성, 안민호]",
+            "channel": "김어준의 겸손은힘들다 뉴스공장",
+            "url": "https://www.youtube.com/watch?v=M3m5LyeaGAU&pp=ygUZ67CA66as7J2Y7JuQIOyLoOy0jCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "1.4M views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

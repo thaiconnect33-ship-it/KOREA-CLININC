@@ -1,17 +1,17 @@
 {
   "query": "더페이스치과의원",
-  "generated_at": "2026-05-29T00:10:11.715Z",
+  "generated_at": "2026-05-29T12:57:02.774Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 697,
+      "metric_value": 700,
       "extra": {
         "place_id": "35878028",
         "name": "더페이스치과의원 : 네이버\u001c",
         "visitor_review_count": 201,
-        "blog_review_count": 496,
+        "blog_review_count": 499,
         "detail_url": "https://m.place.naver.com/place/35878028/home"
       }
     },
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 28856,
+        "total_views": 45113,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -59,64 +59,64 @@
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "이중규 대표원장님과 함께 쉽게 알아보는 임플란트 @더페이스치과",
-            "channel": "더페이스 치과 구강악안면외과 (THEFACE DENTAL)",
-            "url": "https://www.youtube.com/watch?v=6SeDVzx08qI&pp=ygUk642U7Y6Y7J207Iqk7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
-            "view_text": "275 views"
-          },
-          {
             "title": "더페이스치과의원 theFACEdental clinic",
             "channel": "더페이스 치과 구강악안면외과 (THEFACE DENTAL)",
-            "url": "https://www.youtube.com/watch?v=U-kueJb2og4&pp=ygUk642U7Y6Y7J207Iqk7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=U-kueJb2og4&pp=ygUe642U7Y6Y7J207Iqk7LmY6rO87J2Y7JuQIEtvcmVh",
             "view_text": "314 views"
           },
           {
             "title": "이중규 대표원장님이 직접 소개하는 더페이스치과",
             "channel": "더페이스 치과 구강악안면외과 (THEFACE DENTAL)",
-            "url": "https://www.youtube.com/watch?v=FH5zwSKn2mo&pp=ygUk642U7Y6Y7J207Iqk7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=FH5zwSKn2mo&pp=ygUe642U7Y6Y7J207Iqk7LmY6rO87J2Y7JuQIEtvcmVh",
             "view_text": "628 views"
           },
           {
-            "title": "Amazing story of the Face Dental Clinic",
+            "title": "이중규 대표원장님과 함께 쉽게 알아보는 임플란트 @더페이스치과",
             "channel": "더페이스 치과 구강악안면외과 (THEFACE DENTAL)",
-            "url": "https://www.youtube.com/watch?v=hTLzKQXor9w&pp=ygUk642U7Y6Y7J207Iqk7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
-            "view_text": "2.2K views"
+            "url": "https://www.youtube.com/watch?v=6SeDVzx08qI&pp=ygUe642U7Y6Y7J207Iqk7LmY6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "275 views"
           },
           {
             "title": "The Shocking Truth Behind Chinese Lifting Advertisements: Why a Maxillofacial Surgeon Says It Is ...",
             "channel": "더페이스 치과 구강악안면외과 (THEFACE DENTAL)",
-            "url": "https://www.youtube.com/watch?v=qGemv2LSCOg&pp=ygUk642U7Y6Y7J207Iqk7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=qGemv2LSCOg&pp=ygUe642U7Y6Y7J207Iqk7LmY6rO87J2Y7JuQIEtvcmVh",
             "view_text": "4.2K views"
           },
           {
             "title": "[더페이스치과]구강악안면외과 전문의가 말해주는 양악수술의 모든것!",
             "channel": "더페이스 치과 구강악안면외과 (THEFACE DENTAL)",
-            "url": "https://www.youtube.com/watch?v=ADPpV7DzRN4&pp=ygUk642U7Y6Y7J207Iqk7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=ADPpV7DzRN4&pp=ygUe642U7Y6Y7J207Iqk7LmY6rO87J2Y7JuQIEtvcmVh",
             "view_text": "2.5K views"
           },
           {
-            "title": "사랑니 발치",
+            "title": "Amazing story of the Face Dental Clinic",
             "channel": "더페이스 치과 구강악안면외과 (THEFACE DENTAL)",
-            "url": "https://www.youtube.com/watch?v=kL1bMvdhK1c&pp=ygUk642U7Y6Y7J207Iqk7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
-            "view_text": "522 views"
+            "url": "https://www.youtube.com/watch?v=hTLzKQXor9w&pp=ygUe642U7Y6Y7J207Iqk7LmY6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "2.2K views"
+          },
+          {
+            "title": "★더페이스치과 바른얼굴 스토리 1화★",
+            "channel": "더페이스 치과 구강악안면외과 (THEFACE DENTAL)",
+            "url": "https://www.youtube.com/watch?v=0hHCIiDTs64&pp=ygUe642U7Y6Y7J207Iqk7LmY6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "472 views"
           },
           {
             "title": "양악수술은 왜 더페이스치과일까요?",
             "channel": "더페이스 치과 구강악안면외과 (THEFACE DENTAL)",
-            "url": "https://www.youtube.com/watch?v=dy2vn5J3QdA&pp=ygUk642U7Y6Y7J207Iqk7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=dy2vn5J3QdA&pp=ygUe642U7Y6Y7J207Iqk7LmY6rO87J2Y7JuQIEtvcmVh",
             "view_text": "1.4K views"
           },
           {
-            "title": "★더페이스치과 바른얼굴 스토리 3화★",
+            "title": "사랑니 발치",
             "channel": "더페이스 치과 구강악안면외과 (THEFACE DENTAL)",
-            "url": "https://www.youtube.com/watch?v=uR7A5U0KbZg&pp=ygUk642U7Y6Y7J207Iqk7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh0gcJCSMLAYcqIYzv",
-            "view_text": "957 views"
+            "url": "https://www.youtube.com/watch?v=kL1bMvdhK1c&pp=ygUe642U7Y6Y7J207Iqk7LmY6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "522 views"
           },
           {
-            "title": "[더페이스치과]구강악안면외과 전문의가 알려주는 주걱턱보다 아래로 긴 얼굴의 경우 양악수술 전,후의 차이",
+            "title": "[영종시카고치과교정과] 교정과 전문의가 말하는 교정이 필요한 적절한 시기",
             "channel": "더페이스 치과 구강악안면외과 (THEFACE DENTAL)",
-            "url": "https://www.youtube.com/watch?v=8DU9RSnSWE0&pp=ygUk642U7Y6Y7J207Iqk7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
-            "view_text": "1.4K views"
+            "url": "https://www.youtube.com/watch?v=ITRpl2nIPgs&pp=ygUe642U7Y6Y7J207Iqk7LmY6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "390 views"
           }
         ]
       }
@@ -132,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

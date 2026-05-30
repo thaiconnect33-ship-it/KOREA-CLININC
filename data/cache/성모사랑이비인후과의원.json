@@ -1,6 +1,6 @@
 {
   "query": "성모사랑이비인후과의원",
-  "generated_at": "2026-05-28T23:21:35.951Z",
+  "generated_at": "2026-05-29T12:04:08.319Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 289549,
+        "total_views": 235870,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -59,64 +59,64 @@
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "명의 - Best Doctors_이비인후과 전문의 김민식 교수_#006",
-            "channel": "EBSDocumentary (EBS 다큐)",
-            "url": "https://www.youtube.com/watch?v=Ogkry-BAIxA&pp=ygU27ISx66qo7IKs656R7J2067mE7J247ZuE6rO87J2Y7JuQ7J2067mE7J247ZuE6rO8IEtvcmVh",
-            "view_text": "531"
-          },
-          {
             "title": "명의 - Best Doctors_이비인후과 전문의 홍기환 교수_#005",
             "channel": "EBSDocumentary (EBS 다큐)",
-            "url": "https://www.youtube.com/watch?v=qAP9kPmrYQk&pp=ygU27ISx66qo7IKs656R7J2067mE7J247ZuE6rO87J2Y7JuQ7J2067mE7J247ZuE6rO8IEtvcmVh0gcJCSMLAYcqIYzv",
-            "view_text": "11K"
+            "url": "https://www.youtube.com/watch?v=qAP9kPmrYQk&pp=ygUn7ISx66qo7IKs656R7J2067mE7J247ZuE6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "11K views"
           },
           {
-            "title": "인천성모병원 전정재활운동 동영상  표적보며 머리 움직이기",
-            "channel": "가톨릭대학교 인천성모병원",
-            "url": "https://www.youtube.com/watch?v=AspAfXnqxa0&pp=ygU27ISx66qo7IKs656R7J2067mE7J247ZuE6rO87J2Y7JuQ7J2067mE7J247ZuE6rO8IEtvcmVh",
-            "view_text": "6.9K"
-          },
-          {
-            "title": "이비인후과 전문의가 알려주는 난청 관리법!",
-            "channel": "부산성모병원 TV",
-            "url": "https://www.youtube.com/watch?v=190Vp72jSnU&pp=ygU27ISx66qo7IKs656R7J2067mE7J247ZuE6rO87J2Y7JuQ7J2067mE7J247ZuE6rO8IEtvcmVh",
-            "view_text": "28K"
+            "title": "명의 - Best Doctors_이비인후과 전문의 김민식 교수_#006",
+            "channel": "EBSDocumentary (EBS 다큐)",
+            "url": "https://www.youtube.com/watch?v=Ogkry-BAIxA&pp=ygUn7ISx66qo7IKs656R7J2067mE7J247ZuE6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "533 views"
           },
           {
             "title": "[대한이비인후과학회/의사회]귀로 인한 어지럼증 / 연세 소리이비인후과 임정택",
             "channel": "의학채널 비온뒤",
-            "url": "https://www.youtube.com/watch?v=h6TK4jziWs0&pp=ygU27ISx66qo7IKs656R7J2067mE7J247ZuE6rO87J2Y7JuQ7J2067mE7J247ZuE6rO8IEtvcmVh",
-            "view_text": "4.3K"
+            "url": "https://www.youtube.com/watch?v=h6TK4jziWs0&pp=ygUn7ISx66qo7IKs656R7J2067mE7J247ZuE6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "4.3K views"
           },
           {
-            "title": "돌아간 얼굴 치료 시기를 놓치면 돌아오지 않습니다 / 이비인후과 조양선, 김진 & 성형외과 장학",
-            "channel": "의학채널 비온뒤",
-            "url": "https://www.youtube.com/watch?v=SqJb0Ky5H4c&pp=ygU27ISx66qo7IKs656R7J2067mE7J247ZuE6rO87J2Y7JuQ7J2067mE7J247ZuE6rO8IEtvcmVh",
-            "view_text": "48K"
+            "title": "이비인후과 전문의가 알려주는 난청 관리법!",
+            "channel": "부산성모병원 TV",
+            "url": "https://www.youtube.com/watch?v=190Vp72jSnU&pp=ygUn7ISx66qo7IKs656R7J2067mE7J247ZuE6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "28K views"
           },
           {
-            "title": "인천성모병원 전정재활운동 발 일자로하고 서기",
+            "title": "인천성모병원 전정재활운동 동영상  표적보며 머리 움직이기",
             "channel": "가톨릭대학교 인천성모병원",
-            "url": "https://www.youtube.com/watch?v=S7TP5QX6H8U&pp=ygU27ISx66qo7IKs656R7J2067mE7J247ZuE6rO87J2Y7JuQ7J2067mE7J247ZuE6rO8IEtvcmVh",
-            "view_text": "8.5K"
+            "url": "https://www.youtube.com/watch?v=AspAfXnqxa0&pp=ygUn7ISx66qo7IKs656R7J2067mE7J247ZuE6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "6.9K views"
+          },
+          {
+            "title": "절대 미루면 안 되는 난청 치료, 그럼 언제 병원에 가야 하나요?ㅣ이비인후과 문인석 교수",
+            "channel": "강남세브란스병원",
+            "url": "https://www.youtube.com/watch?v=KDrO3VCx6xs&pp=ygUn7ISx66qo7IKs656R7J2067mE7J247ZuE6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "8.2K views"
+          },
+          {
+            "title": "이명 '집에서' 치료하는 2가지 방법 / 스페셜이비인후과 박치열",
+            "channel": "의학채널 비온뒤",
+            "url": "https://www.youtube.com/watch?v=40bYX3Gq91g&pp=ygUn7ISx66qo7IKs656R7J2067mE7J247ZuE6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "94K views"
+          },
+          {
+            "title": "가톨릭대학교 대전성모병원 이비인후과 이동창 폐쇄성 수면무호흡증",
+            "channel": "가톨릭대학교 대전성모병원",
+            "url": "https://www.youtube.com/watch?v=SVMcFcSHgEM&pp=ygUn7ISx66qo7IKs656R7J2067mE7J247ZuE6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "341 views"
+          },
+          {
+            "title": "[더킹박범정 이비인후과] 병원 소개 모션그래픽 영상 콘텐츠",
+            "channel": "리앤메디 | 병원마케팅의 모든 것",
+            "url": "https://www.youtube.com/watch?v=blxCDVXet4M&pp=ygUn7ISx66qo7IKs656R7J2067mE7J247ZuE6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "258 views"
           },
           {
             "title": "부산 이비인후과 유명한 곳",
             "channel": "김소장의 POOL & STAY",
-            "url": "https://www.youtube.com/watch?v=OpGd8aR-PUc&pp=ygU27ISx66qo7IKs656R7J2067mE7J247ZuE6rO87J2Y7JuQ7J2067mE7J247ZuE6rO8IEtvcmVh",
-            "view_text": "1.6K"
-          },
-          {
-            "title": "[명의] 분당서울대병원 송재진 이비인후과 전문의 편 / 권순용 박사의 TV자서전 - 명의 V2.0 [18회] / G1방송 / 20230916",
-            "channel": "G1메디컬플러스",
-            "url": "https://www.youtube.com/watch?v=WYP1Wcwzy_o&pp=ygU27ISx66qo7IKs656R7J2067mE7J247ZuE6rO87J2Y7JuQ7J2067mE7J247ZuE6rO8IEtvcmVh",
-            "view_text": "5.1K"
-          },
-          {
-            "title": "[이비인후과 라이브] '목에 생긴 혹의 모든 것' (땡큐서울이비인후과 천병준 원장)",
-            "channel": "의학채널 비온뒤",
-            "url": "https://www.youtube.com/watch?v=pZJqAGodNDs&pp=ygU27ISx66qo7IKs656R7J2067mE7J247ZuE6rO87J2Y7JuQ7J2067mE7J247ZuE6rO8IEtvcmVh",
-            "view_text": "50K"
+            "url": "https://www.youtube.com/watch?v=OpGd8aR-PUc&pp=ygUn7ISx66qo7IKs656R7J2067mE7J247ZuE6rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "1.6K views"
           }
         ]
       }
@@ -132,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

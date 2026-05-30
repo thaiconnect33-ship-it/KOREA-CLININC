@@ -1,6 +1,6 @@
 {
   "query": "뽀얀피부과의원",
-  "generated_at": "2026-05-28T23:42:03.822Z",
+  "generated_at": "2026-05-29T12:27:34.396Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 1179685,
+        "total_views": 1246660,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -59,64 +59,64 @@
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "점일까? 피부암일까? - 점과 피부암의 구분방법을 알아보자",
-            "channel": "대한피부과학회TV - 피부과전문의 채널",
-            "url": "https://www.youtube.com/watch?v=WSIGytW1soM&pp=ygUk672A7JaA7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "64K views"
-          },
-          {
             "title": "백옥같이 뽀얀 피부를 원한다면? #피코폴라 #미백치료 #잡티 #검버섯 #주근깨 #색소치료",
             "channel": "대영성형외과",
-            "url": "https://www.youtube.com/watch?v=XUjXFKG5uqQ&pp=ygUk672A7JaA7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=XUjXFKG5uqQ&pp=ygUb672A7JaA7ZS867aA6rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
             "view_text": "57 views"
           },
           {
-            "title": "검버섯, 일광흑자를 셀프시술로 제거! (단 5초 시술?)",
-            "channel": "봄스피부과의원(구 맑은참피부과)",
-            "url": "https://www.youtube.com/watch?v=33GkgobFrew&pp=ygUk672A7JaA7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "18K views"
+            "title": "울긋불긋한 내 얼굴! 항상 하얗고 뽀얗게 유지할 수 있는 방법! 알려드립니다!!",
+            "channel": "라마르프리미어의원_범계역",
+            "url": "https://www.youtube.com/watch?v=h3lakeiZbDI&pp=ygUb672A7JaA7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "492 views"
           },
           {
-            "title": "남포동피부과 / 가려움으로 인해 붉어지는 피부.. 아토피",
-            "channel": "맑은피부과",
-            "url": "https://www.youtube.com/watch?v=UQg6Cg6N2Ds&pp=ygUk672A7JaA7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "14 views"
-          },
-          {
-            "title": "VSLS! 검버섯(흑자) 1번 시술로 2주만에 완전 제거! 남자 흑자 제거 OK",
-            "channel": "봄스피부과의원(구 맑은참피부과)",
-            "url": "https://www.youtube.com/watch?v=iq48dItLReg&pp=ygUk672A7JaA7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "10K views"
+            "title": "시술 중단하자 \"못 줘요\"…\"잘하는 피부과랬는데\" 날벼락 / SBS 8뉴스",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=TAw-bgwY4Rs&pp=ygUb672A7JaA7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "36K views"
           },
           {
             "title": "누구나 쉽게 피부 하얘지는 방법! | 하얀 피부 되는 4가지 방법",
             "channel": "닥터블랑_예뻐지는비결",
-            "url": "https://www.youtube.com/watch?v=CLIVzjM_5Z4&pp=ygUk672A7JaA7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "947K views"
+            "url": "https://www.youtube.com/watch?v=CLIVzjM_5Z4&pp=ygUb672A7JaA7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "948K views"
           },
           {
-            "title": "30대에도 흑자(검버섯)!? VSLS로 흑자 완전 제거 성공!",
-            "channel": "봄스피부과의원(구 맑은참피부과)",
-            "url": "https://www.youtube.com/watch?v=4n9OQgVm51s&pp=ygUk672A7JaA7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "23K views"
+            "title": "피부 관리 인기 시술 20가지, 싹 다 알려드립니다!",
+            "channel": "닥터블랑_예뻐지는비결",
+            "url": "https://www.youtube.com/watch?v=1LiftNouXB0&pp=ygUb672A7JaA7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "57K views"
           },
           {
-            "title": "강남 피부과서 시술 뒤 집단 패혈증 증상…경찰 조사 / 연합뉴스TV (YonhapnewsTV)",
-            "channel": "연합뉴스TV",
-            "url": "https://www.youtube.com/watch?v=1VqkTLzqCjc&pp=ygUk672A7JaA7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "513 views"
+            "title": "뽀얀거탑 196 : 강남 00, 바디 X-피부과 성형외과 알려주는 앱, 괜찮은가? / SBS / 골라듣는 뉴스룸",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=sdshYBqQJcs&pp=ygUb672A7JaA7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "303 views"
           },
           {
-            "title": "피부과 시술 후 집단 패혈증 증상…경찰 수사 / KBS뉴스(News)",
-            "channel": "KBS News",
-            "url": "https://www.youtube.com/watch?v=QASCSXJJZTc&pp=ygUk672A7JaA7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "280 views"
+            "title": "남포동피부과 / 가려움으로 인해 붉어지는 피부.. 아토피",
+            "channel": "맑은피부과",
+            "url": "https://www.youtube.com/watch?v=UQg6Cg6N2Ds&pp=ygUb672A7JaA7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "14 views"
+          },
+          {
+            "title": "감정 홍조, 예민성 붉은 피부, 민감성 피부에서  피부장벽 탄탄 뽀얀 꿀 피부되기◀ 100%리얼 장기 프로젝트 후기",
+            "channel": "온라인스킨케어",
+            "url": "https://www.youtube.com/watch?v=uFZirj_BZz8&pp=ygUb672A7JaA7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "52K views"
           },
           {
             "title": "VSLS 흑자, 검버섯 제거 시술! 재발 이슈에 관한 진실을 폭로합니다..!!",
             "channel": "봄스피부과의원(구 맑은참피부과)",
-            "url": "https://www.youtube.com/watch?v=SH1-RWVkVkU&pp=ygUk672A7JaA7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=SH1-RWVkVkU&pp=ygUb672A7JaA7ZS867aA6rO87J2Y7JuQIEtvcmVh",
             "view_text": "12K views"
+          },
+          {
+            "title": "검버섯, 일광흑자를 셀프시술로 제거! (단 5초 시술?)",
+            "channel": "봄스피부과의원(구 맑은참피부과)",
+            "url": "https://www.youtube.com/watch?v=33GkgobFrew&pp=ygUb672A7JaA7ZS867aA6rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "18K views"
           }
         ]
       }
@@ -132,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

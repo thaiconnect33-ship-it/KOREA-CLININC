@@ -1,6 +1,6 @@
 {
   "query": "리뉴미피부과",
-  "generated_at": "2026-05-29T05:53:10.104Z",
+  "generated_at": "2026-05-29T10:19:27.440Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 7711,
+        "total_views": 8048,
         "foreign_video_count": 16,
         "lang_breakdown": {
           "korean": 4,
@@ -77,22 +77,22 @@
             "view_text": "955 views"
           },
           {
+            "title": "Renewme Skin Clinic Korea | Spectra XT Genesis Laser",
+            "channel": "리뉴미피부과 (피부과전문의)",
+            "url": "https://www.youtube.com/watch?v=yiNYrPcrSi8&pp=ygUZUmVuZXdtZSBTa2luIENsaW5pYyBLb3JlYQ%3D%3D",
+            "view_text": "700 views"
+          },
+          {
             "title": "The Merz X Renewme Skin Clinic Collab Semiar - Thermage, Ultherapy, Radiesse",
             "channel": "Renewme Skin Clinic Korea",
             "url": "https://www.youtube.com/watch?v=aItwoE8_p58&pp=ygUZUmVuZXdtZSBTa2luIENsaW5pYyBLb3JlYQ%3D%3D",
             "view_text": "22 views"
           },
           {
-            "title": "Mirajet skinbooster treatment",
+            "title": "LDM Teardrop Lifting (Renweme Skin Clinic)",
             "channel": "Renewme Skin Clinic Korea",
-            "url": "https://www.youtube.com/watch?v=abymqahyygg&pp=ygUZUmVuZXdtZSBTa2luIENsaW5pYyBLb3JlYQ%3D%3D",
-            "view_text": "228 views"
-          },
-          {
-            "title": "Renewme Skin Clinic Korea | Spectra XT Genesis Laser",
-            "channel": "리뉴미피부과 (피부과전문의)",
-            "url": "https://www.youtube.com/watch?v=yiNYrPcrSi8&pp=ygUZUmVuZXdtZSBTa2luIENsaW5pYyBLb3JlYQ%3D%3D",
-            "view_text": "700 views"
+            "url": "https://www.youtube.com/watch?v=TQf5kRx7DHg&pp=ygUZUmVuZXdtZSBTa2luIENsaW5pYyBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "730 views"
           },
           {
             "title": "Ultherapy & Thread Lift Experience at Renewme Skin Clinic Korea",
@@ -101,22 +101,22 @@
             "view_text": "2.7K views"
           },
           {
-            "title": "LDM Teardrop Lifting (Renweme Skin Clinic)",
+            "title": "Mirajet skinbooster treatment",
             "channel": "Renewme Skin Clinic Korea",
-            "url": "https://www.youtube.com/watch?v=TQf5kRx7DHg&pp=ygUZUmVuZXdtZSBTa2luIENsaW5pYyBLb3JlYQ%3D%3D",
-            "view_text": "730 views"
+            "url": "https://www.youtube.com/watch?v=abymqahyygg&pp=ygUZUmVuZXdtZSBTa2luIENsaW5pYyBLb3JlYQ%3D%3D",
+            "view_text": "228 views"
           },
           {
-            "title": "Brighten your body by Laser Toning",
-            "channel": "Renewme Skin Clinic Korea",
-            "url": "https://www.youtube.com/watch?v=kXAr0cwPHxM&pp=ygUZUmVuZXdtZSBTa2luIENsaW5pYyBLb3JlYQ%3D%3D",
-            "view_text": "47 views"
+            "title": "Renewme  Skin Clinic Korea | Cryolipolysis Fat Removal",
+            "channel": "리뉴미피부과 (피부과전문의)",
+            "url": "https://www.youtube.com/watch?v=ohm7kEuiPcY&pp=ygUZUmVuZXdtZSBTa2luIENsaW5pYyBLb3JlYQ%3D%3D",
+            "view_text": "999 views"
           },
           {
-            "title": "Gold PTT that can solve your acne problem",
-            "channel": "Renewme Skin Clinic Korea",
-            "url": "https://www.youtube.com/watch?v=2hVecff80-c&pp=ygUZUmVuZXdtZSBTa2luIENsaW5pYyBLb3JlYQ%3D%3D",
-            "view_text": "412 views"
+            "title": "Bangkok skin clinic : 2020 Annual Meeting of the Association of Renewme Skin Clinic",
+            "channel": "Renewme Skin Clinic",
+            "url": "https://www.youtube.com/watch?v=CKHKDAtE3Fo&pp=ygUZUmVuZXdtZSBTa2luIENsaW5pYyBLb3JlYQ%3D%3D",
+            "view_text": "55 views"
           }
         ]
       }

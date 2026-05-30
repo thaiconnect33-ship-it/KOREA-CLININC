@@ -1,16 +1,18 @@
 {
   "query": "10년전당신의오늘의원",
-  "generated_at": "2026-05-28T22:18:59.023Z",
+  "generated_at": "2026-05-29T10:55:37.342Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 53,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "1281561910",
+        "name": "10년전당신의오늘의원 : 네이버\u001c",
+        "visitor_review_count": 16,
+        "blog_review_count": 37,
+        "detail_url": "https://m.place.naver.com/place/1281561910/home"
       }
     },
     "google_maps": {
@@ -34,9 +36,80 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 0,
+      "metric_value": 20,
       "extra": {
-        "note": "결과 없음"
+        "total_views": 202652,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "안면거상술 제대로 하기",
+            "channel": "10년전당신의오늘",
+            "url": "https://www.youtube.com/watch?v=AFCV1tEYMpc&pp=ygUjMTDrhYTsoITri7nsi6DsnZjsmKTripjsnZjsm5AgS29yZWE%3D",
+            "view_text": "2.1K views"
+          },
+          {
+            "title": "칼귀, 안면거상 부작용! 귓불회전술로 완벽해결!!-SCIE 논문 등재",
+            "channel": "10년전당신의오늘",
+            "url": "https://www.youtube.com/watch?v=rZn34dtmLZ4&pp=ygUjMTDrhYTsoITri7nsi6DsnZjsmKTripjsnZjsm5AgS29yZWE%3D",
+            "view_text": "27 views"
+          },
+          {
+            "title": "해외에 사는데 안면거상술을 받고 싶다면?_2편) 수술 전후 관리",
+            "channel": "10년전당신의오늘",
+            "url": "https://www.youtube.com/watch?v=j0The4TGj7M&pp=ygUjMTDrhYTsoITri7nsi6DsnZjsmKTripjsnZjsm5AgS29yZWE%3D",
+            "view_text": "1.1K views"
+          },
+          {
+            "title": "내게 맞는 안면거상은? 절개선에 따른 안면거상 수술 종류와 효과(내시경, 미니거상, 안면거상)",
+            "channel": "10년전당신의오늘",
+            "url": "https://www.youtube.com/watch?v=Z4U5tKf7oYs&pp=ygUjMTDrhYTsoITri7nsi6DsnZjsmKTripjsnZjsm5AgS29yZWE%3D",
+            "view_text": "6.8K views"
+          },
+          {
+            "title": "안면거상 부작용 총정리3_회복기 부작용(흉터, 비대칭, 칼귀)",
+            "channel": "10년전당신의오늘",
+            "url": "https://www.youtube.com/watch?v=cjAVQvs-fgg&pp=ygUjMTDrhYTsoITri7nsi6DsnZjsmKTripjsnZjsm5AgS29yZWHSBwkJIwsBhyohjO8%3D",
+            "view_text": "4.7K views"
+          },
+          {
+            "title": "흉터를 최소화하는 안면거상술(흉터로 인한 안면거상 재수술)_SCIE 논문 등재",
+            "channel": "10년전당신의오늘",
+            "url": "https://www.youtube.com/watch?v=wKv9XtPV1mI&pp=ygUjMTDrhYTsoITri7nsi6DsnZjsmKTripjsnZjsm5AgS29yZWE%3D",
+            "view_text": "3.5K views"
+          },
+          {
+            "title": "하안검과 중안면 거상술을 한번에! 아이백, 눈밑처짐, 앞볼처짐, 팔자주름 해결!!",
+            "channel": "10년전당신의오늘",
+            "url": "https://www.youtube.com/watch?v=ZBoJNPEJVsI&pp=ygUjMTDrhYTsoITri7nsi6DsnZjsmKTripjsnZjsm5AgS29yZWE%3D",
+            "view_text": "1.1K views"
+          },
+          {
+            "title": "내시경 이마거상술 vs 눈썹거상술_2편) 그냥 당기면 안되는 이유",
+            "channel": "10년전당신의오늘",
+            "url": "https://www.youtube.com/watch?v=9FO_Q8rsf0g&pp=ygUjMTDrhYTsoITri7nsi6DsnZjsmKTripjsnZjsm5AgS29yZWE%3D",
+            "view_text": "1K views"
+          },
+          {
+            "title": "하안검 수술 성공 포인트 3, 이건 꼭 알고 수술하세요!!",
+            "channel": "10년전당신의오늘",
+            "url": "https://www.youtube.com/watch?v=1E0VAy10qYM&pp=ygUjMTDrhYTsoITri7nsi6DsnZjsmKTripjsnZjsm5AgS29yZWE%3D",
+            "view_text": "1.6K views"
+          },
+          {
+            "title": "안면거상 흉터가 고민된다면 꼭 시청하세요!! (흉터 최소화)",
+            "channel": "10년전당신의오늘",
+            "url": "https://www.youtube.com/watch?v=OJGQXA5CWYo&pp=ygUjMTDrhYTsoITri7nsi6DsnZjsmKTripjsnZjsm5AgS29yZWE%3D",
+            "view_text": "1.8K views"
+          }
+        ]
       }
     },
     "xiaohongshu": {
@@ -50,12 +123,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

@@ -1,16 +1,18 @@
 {
   "query": "리핏의원",
-  "generated_at": "2026-05-29T06:11:04.242Z",
+  "generated_at": "2026-05-29T10:37:55.606Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 874,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "2056472444",
+        "name": "리핏의원 : 네이버\u001c",
+        "visitor_review_count": 98,
+        "blog_review_count": 776,
+        "detail_url": "https://m.place.naver.com/place/2056472444/home"
       }
     },
     "google_maps": {
@@ -21,13 +23,13 @@
         "name": "Results",
         "rating": 4.9,
         "total_reviews": 0,
-        "sample_size": 9,
-        "foreign_language_reviews": 9,
+        "sample_size": 8,
+        "foreign_language_reviews": 8,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 9
+          "english_other": 8
         }
       }
     },
@@ -43,60 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 7,
+      "metric_value": 20,
       "extra": {
-        "total_views": 356050,
+        "total_views": 1321345,
         "foreign_video_count": 0,
         "lang_breakdown": {
-          "korean": 7,
+          "korean": 20,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
           "english_other": 0
         },
-        "sample_size": 7,
+        "sample_size": 20,
         "top_videos": [
           {
-            "title": "리팟 레이저 부작용 솔직하게 알려드립니다 #리팟 #흑자 #리팟레이저 #비쥬얼피부과 #세종시피부과 #대전피부과 #공주피부과 #조치원피부과 #오송피부과 #청주피부과 #리팟효과 #부작용",
-            "channel": "비쥬얼피부과TV",
-            "url": "https://www.youtube.com/watch?v=oVIgNBvI-eM&pp=ygUh66as7ZWP7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh0gcJCSMLAYcqIYzv",
-            "view_text": "8.4K"
+            "title": "[리핏&리핏] \"이름이 어려웡..\" 후보 발음을 틀리지 않기 위한 여정쌤의 반복 연습! #뜻밖의여정 EP.4 | tvN 220529 방송",
+            "channel": "tvN Joy",
+            "url": "https://www.youtube.com/watch?v=QgV3F_wf25o&pp=ygUS66as7ZWP7J2Y7JuQIEtvcmVh",
+            "view_text": "88K views"
+          },
+          {
+            "title": "구리 - 빅베스 레이스데이 리핏 이히히힝 맥스까지 질주 ! #슬롯방송 #프라그마틱슬롯 #슬롯잭팟 #슬롯맥스 #슬롯가디언",
+            "channel": "가디언 사육사의 슬롯이야기",
+            "url": "https://www.youtube.com/watch?v=wj5Y70tJWvQ&pp=ygUS66as7ZWP7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "16 views"
+          },
+          {
+            "title": "빅베스 릴 리핏 추천게임 3500배 !! #슬롯방송 #프라그마틱슬롯 #슬롯잭팟 #슬롯맥스 #슬롯가디언",
+            "channel": "가디언 사육사의 슬롯이야기",
+            "url": "https://www.youtube.com/watch?v=cH480_Q8x-w&pp=ygUS66as7ZWP7J2Y7JuQIEtvcmVh",
+            "view_text": "30 views"
+          },
+          {
+            "title": "T1 vs BLG, T1의 리핏을 본 더샤이 반응",
+            "channel": "Faker fan TV",
+            "url": "https://www.youtube.com/watch?v=K--eViM2h-E&pp=ygUS66as7ZWP7J2Y7JuQIEtvcmVh",
+            "view_text": "701K views"
           },
           {
             "title": "리팟 레이저 부작용, 진료과목 피부과 의사가 양심 고백합니다 (흑자 치료 부작용에 대한 모든 것)",
             "channel": "닥터클레어 박상아",
-            "url": "https://www.youtube.com/watch?v=GftKmlYdGuk&pp=ygUh66as7ZWP7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "38K"
+            "url": "https://www.youtube.com/watch?v=GftKmlYdGuk&pp=ygUS66as7ZWP7J2Y7JuQIEtvcmVh",
+            "view_text": "38K views"
           },
           {
-            "title": "클래시스 I 알파",
-            "channel": "클래시스",
-            "url": "https://www.youtube.com/watch?v=XAetuew7bTA&pp=ygUh66as7ZWP7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "593"
+            "title": "[닥터스킨쉽] 내 몸으로 만드는 가장 안전한 안티에이징, 줄기세포 시술의 모든 것 | 의사부부의 솔직한 피부이야기 #줄기세포 #안티에이징 #스템셀",
+            "channel": "Dr.스킨쉽",
+            "url": "https://www.youtube.com/watch?v=G9rosZkq8UA&pp=ygUS66as7ZWP7J2Y7JuQIEtvcmVh",
+            "view_text": "148 views"
           },
           {
-            "title": "리팟레이저vs루비레이저 흑자치료제거 1티어 공개합니다.",
-            "channel": "피부호 권인호 | 피부과전문의",
-            "url": "https://www.youtube.com/watch?v=MBuppzfu1YU&pp=ygUh66as7ZWP7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "6.6K"
+            "title": "Can the Oklahoma City Thunder make history in the 25-26 season?⚡️",
+            "channel": "느바비큐",
+            "url": "https://www.youtube.com/watch?v=2RX47JVIpuk&pp=ygUS66as7ZWP7J2Y7JuQIEtvcmVh",
+            "view_text": "29K views"
           },
           {
-            "title": "[영양제 리뷰18] 저분자피쉬콜라겐 20종 비교, 1등 추천! [콜라겐,피부성분,저분자피쉬콜라겐,피쉬콜라겐,저분자콜라겐,저분자콜라겐펩타이드] (쿠팡파트너스 광고 포함)",
-            "channel": "영양과학자 양과자",
-            "url": "https://www.youtube.com/watch?v=QINr4iG-lMY&pp=ygUh66as7ZWP7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "302K"
+            "title": "리핏캠 2016.07",
+            "channel": "HOME & SHOPPING",
+            "url": "https://www.youtube.com/watch?v=qrPF3x7fZaQ&pp=ygUS66as7ZWP7J2Y7JuQIEtvcmVh",
+            "view_text": "197 views"
           },
           {
-            "title": "녹는실과 안녹는실을 섞어서 리프팅?  #실리프팅 #팔자주름 #목주름 #V라인리프팅",
-            "channel": "미네르바TV",
-            "url": "https://www.youtube.com/watch?v=78iGy052fL0&pp=ygUh66as7ZWP7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "358"
+            "title": "리팟 레이저 부작용 솔직하게 알려드립니다 #리팟 #흑자 #리팟레이저 #비쥬얼피부과 #세종시피부과 #대전피부과 #공주피부과 #조치원피부과 #오송피부과 #청주피부과 #리팟효과 #부작용",
+            "channel": "비쥬얼피부과TV",
+            "url": "https://www.youtube.com/watch?v=oVIgNBvI-eM&pp=ygUS66as7ZWP7J2Y7JuQIEtvcmVh",
+            "view_text": "8.4K views"
           },
           {
-            "title": "주애니언이 직접 받아본 바디관리",
-            "channel": "젊어지는 주앤TV",
-            "url": "https://www.youtube.com/watch?v=jqNalZfCoCs&pp=ygUh66as7ZWP7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "99"
+            "title": "다시 뜨겁다! LG의 리핏? | 롯데 김태형 감독은 왜? | 김경문 감독의 선택은 오재원? | 박진만의 여유? | 오늘의 캠프 | 야구상담소",
+            "channel": "DKTV Daniel",
+            "url": "https://www.youtube.com/watch?v=sXkNoA_xZr4&pp=ygUS66as7ZWP7J2Y7JuQIEtvcmVh",
+            "view_text": "11K views"
           }
         ]
       }
@@ -122,7 +142,7 @@
       }
     }
   },
-  "global_score": 5,
-  "opportunity_cost_thb": 95500,
-  "opportunity_cost_krw": 3820000
+  "global_score": 4,
+  "opportunity_cost_thb": 96000,
+  "opportunity_cost_krw": 3840000
 }

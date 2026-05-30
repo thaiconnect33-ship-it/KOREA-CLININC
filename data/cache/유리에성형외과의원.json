@@ -1,16 +1,18 @@
 {
   "query": "유리에성형외과의원",
-  "generated_at": "2026-05-28T22:41:53.002Z",
+  "generated_at": "2026-05-29T11:20:21.066Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 166,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "2056718417",
+        "name": "유리에성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 72,
+        "blog_review_count": 94,
+        "detail_url": "https://m.place.naver.com/place/2056718417/home"
       }
     },
     "google_maps": {
@@ -34,9 +36,80 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 0,
+      "metric_value": 20,
       "extra": {
-        "note": "결과 없음"
+        "total_views": 15361,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "눈꺼풀 꺼짐, 이렇게 회복하세요 (ft. 지방이식)",
+            "channel": "유리에성형외과의원 YURIE PLASTIC SURGERY",
+            "url": "https://www.youtube.com/watch?v=LrwFhxi-41o&pp=ygUh7Jyg66as7JeQ7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "328"
+          },
+          {
+            "title": "지방이식이 더 낫다? 필러가 더 안전하다?｜성형외과 전문의의 설명",
+            "channel": "유리에성형외과의원 YURIE PLASTIC SURGERY",
+            "url": "https://www.youtube.com/watch?v=m3Nh6BaJdI4&pp=ygUh7Jyg66as7JeQ7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "650"
+          },
+          {
+            "title": "두 개의 전문의 자격?! 손원일 원장이 수술을 잘하는 이유",
+            "channel": "유리에성형외과의원 YURIE PLASTIC SURGERY",
+            "url": "https://www.youtube.com/watch?v=HMfeUOAHOyk&pp=ygUh7Jyg66as7JeQ7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "684"
+          },
+          {
+            "title": "상·하안검, 잘하는 병원은 이렇게 다릅니다 👁️ 꿀팁 공개!",
+            "channel": "유리에성형외과의원 YURIE PLASTIC SURGERY",
+            "url": "https://www.youtube.com/watch?v=LeROSVoOkmM&pp=ygUh7Jyg66as7JeQ7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "435"
+          },
+          {
+            "title": "쥬베룩, 아무거나 맞으면 손해입니다",
+            "channel": "유리에성형외과의원 YURIE PLASTIC SURGERY",
+            "url": "https://www.youtube.com/watch?v=QWaINd_BlJs&pp=ygUh7Jyg66as7JeQ7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "348"
+          },
+          {
+            "title": "'이 분'이 수술하면 공짜로 해줍니다 l 제발오세요👏",
+            "channel": "유리에성형외과의원 YURIE PLASTIC SURGERY",
+            "url": "https://www.youtube.com/watch?v=BD3W088KJoA&pp=ygUh7Jyg66as7JeQ7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "630"
+          },
+          {
+            "title": "울쎄라 끝물? 요즘은 다 이거 해요 👉 슈링크 진짜 효과",
+            "channel": "유리에성형외과의원 YURIE PLASTIC SURGERY",
+            "url": "https://www.youtube.com/watch?v=4i9jqjUS-PQ&pp=ygUh7Jyg66as7JeQ7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "8.1K"
+          },
+          {
+            "title": "이때 하면 리프팅 효과 2배🔥",
+            "channel": "유리에성형외과의원 YURIE PLASTIC SURGERY",
+            "url": "https://www.youtube.com/watch?v=Ig9GKxNssAY&pp=ygUh7Jyg66as7JeQ7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "525"
+          },
+          {
+            "title": "코 상담 시 무조건 질문해야 할 리스트ㅣTOP5",
+            "channel": "유리에성형외과의원 YURIE PLASTIC SURGERY",
+            "url": "https://www.youtube.com/watch?v=Qp9EsJiKthA&pp=ygUh7Jyg66as7JeQ7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "67"
+          },
+          {
+            "title": "얼굴이 달라진 이유, 유리에 성형외과 정진욱 원장의 진짜 이야기",
+            "channel": "유리에성형외과의원 YURIE PLASTIC SURGERY",
+            "url": "https://www.youtube.com/watch?v=LEPMpvTSeWM&pp=ygUh7Jyg66as7JeQ7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "810"
+          }
+        ]
       }
     },
     "xiaohongshu": {
@@ -50,12 +123,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

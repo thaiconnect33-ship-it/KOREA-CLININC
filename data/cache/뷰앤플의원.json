@@ -1,6 +1,6 @@
 {
   "query": "뷰앤플의원",
-  "generated_at": "2026-05-28T22:36:46.974Z",
+  "generated_at": "2026-05-29T11:14:56.975Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -10,8 +10,8 @@
       "extra": {
         "place_id": "1363142286",
         "name": "뷰앤플의원 : 네이버\u001c",
-        "visitor_review_count": 168,
-        "blog_review_count": 543,
+        "visitor_review_count": 169,
+        "blog_review_count": 542,
         "detail_url": "https://m.place.naver.com/place/1363142286/home"
       }
     },
@@ -45,78 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 20,
+      "metric_value": 19,
       "extra": {
-        "total_views": 7295119,
+        "total_views": 3252999,
         "foreign_video_count": 0,
         "lang_breakdown": {
-          "korean": 20,
+          "korean": 19,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
           "english_other": 0
         },
-        "sample_size": 20,
+        "sample_size": 19,
         "top_videos": [
           {
             "title": "써마지 리프팅 QnA",
             "channel": "뷰앤플의원",
-            "url": "https://www.youtube.com/watch?v=1Dnbmmyfv0Q&pp=ygUe67ew7JWk7ZSM7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "436 views"
+            "url": "https://www.youtube.com/watch?v=1Dnbmmyfv0Q&pp=ygUV67ew7JWk7ZSM7J2Y7JuQIEtvcmVh",
+            "view_text": "436"
+          },
+          {
+            "title": "[ 뷰앤플] 1~2층 내부 소개 영상",
+            "channel": "뷰앤플의원",
+            "url": "https://www.youtube.com/watch?v=FW54ow18jkI&pp=ygUV67ew7JWk7ZSM7J2Y7JuQIEtvcmVh",
+            "view_text": "2.8K"
           },
           {
             "title": "포텐자리프팅시술",
             "channel": "뷰앤플의원",
-            "url": "https://www.youtube.com/watch?v=5xY4OoNBCM0&pp=ygUe67ew7JWk7ZSM7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "42 views"
-          },
-          {
-            "title": "아포지레이저 셀프제모시술",
-            "channel": "뷰앤플의원",
-            "url": "https://www.youtube.com/watch?v=63tDqU56tQA&pp=ygUe67ew7JWk7ZSM7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "54 views"
-          },
-          {
-            "title": "뷰앤플 압구정로데오역 피부과 찾아오는 길",
-            "channel": "뷰앤플의원",
-            "url": "https://www.youtube.com/watch?v=yQZIGlV21qc&pp=ygUe67ew7JWk7ZSM7J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "3.1K views"
+            "url": "https://www.youtube.com/watch?v=5xY4OoNBCM0&pp=ygUV67ew7JWk7ZSM7J2Y7JuQIEtvcmVh",
+            "view_text": "42"
           },
           {
             "title": "콜라겐리모델링 시술 제네시스토닝",
             "channel": "뷰앤플의원",
-            "url": "https://www.youtube.com/watch?v=p0mHtD2OdrA&pp=ygUe67ew7JWk7ZSM7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "105 views"
+            "url": "https://www.youtube.com/watch?v=p0mHtD2OdrA&pp=ygUV67ew7JWk7ZSM7J2Y7JuQIEtvcmVh",
+            "view_text": "105"
+          },
+          {
+            "title": "뷰앤플의원 ! 써마지FLX 시술  과정 !",
+            "channel": "뷰앤플의원",
+            "url": "https://www.youtube.com/watch?v=FX7I757hKTA&pp=ygUV67ew7JWk7ZSM7J2Y7JuQIEtvcmVh",
+            "view_text": "331"
+          },
+          {
+            "title": "아포지레이저 셀프제모시술",
+            "channel": "뷰앤플의원",
+            "url": "https://www.youtube.com/watch?v=63tDqU56tQA&pp=ygUV67ew7JWk7ZSM7J2Y7JuQIEtvcmVh",
+            "view_text": "54"
           },
           {
             "title": "슈링크유니버스",
             "channel": "뷰앤플의원",
-            "url": "https://www.youtube.com/watch?v=OzZduKiv3GU&pp=ygUe67ew7JWk7ZSM7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "37 views"
+            "url": "https://www.youtube.com/watch?v=OzZduKiv3GU&pp=ygUV67ew7JWk7ZSM7J2Y7JuQIEtvcmVh",
+            "view_text": "37"
           },
           {
-            "title": "비타민c 이온토관리",
+            "title": "뷰앤플 압구정로데오역 피부과 찾아오는 길",
             "channel": "뷰앤플의원",
-            "url": "https://www.youtube.com/watch?v=AsL6M4LMp5I&pp=ygUe67ew7JWk7ZSM7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "1K views"
-          },
-          {
-            "title": "여드름 관리는? 천연블랙필",
-            "channel": "뷰앤플의원",
-            "url": "https://www.youtube.com/watch?v=NQvrdM5DvjY&pp=ygUe67ew7JWk7ZSM7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "3.3K views"
+            "url": "https://www.youtube.com/watch?v=yQZIGlV21qc&pp=ygUV67ew7JWk7ZSM7J2Y7JuQIEtvcmVh",
+            "view_text": "3.1K"
           },
           {
             "title": "4세대 필링 라라필",
             "channel": "뷰앤플의원",
-            "url": "https://www.youtube.com/watch?v=RFl-B3D-icY&pp=ygUe67ew7JWk7ZSM7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "370 views"
+            "url": "https://www.youtube.com/watch?v=RFl-B3D-icY&pp=ygUV67ew7JWk7ZSM7J2Y7JuQIEtvcmVh",
+            "view_text": "370"
           },
           {
-            "title": "\"Dermatologists don't tell you...\" We recommend popular youth-enhancing procedures these days. We...",
-            "channel": "박지윤의 피부 설명서",
-            "url": "https://www.youtube.com/watch?v=EFB-McCJG48&pp=ygUe67ew7JWk7ZSM7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "444K views"
+            "title": "비타민c 이온토관리",
+            "channel": "뷰앤플의원",
+            "url": "https://www.youtube.com/watch?v=AsL6M4LMp5I&pp=ygUV67ew7JWk7ZSM7J2Y7JuQIEtvcmVh",
+            "view_text": "1K"
           }
         ]
       }
@@ -132,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

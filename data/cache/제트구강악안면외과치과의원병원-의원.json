@@ -1,6 +1,6 @@
 {
   "query": "제트구강악안면외과치과의원병원,의원",
-  "generated_at": "2026-05-29T00:11:49.080Z",
+  "generated_at": "2026-05-29T12:58:55.439Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -96,12 +96,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

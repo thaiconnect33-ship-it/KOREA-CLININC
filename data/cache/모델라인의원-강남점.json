@@ -1,0 +1,148 @@
+{
+  "query": "모델라인의원 강남점",
+  "generated_at": "2026-05-29T10:31:36.017Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 1479,
+      "extra": {
+        "place_id": "36727677",
+        "name": "모델라인의원 강남점 : 네이버\u001c",
+        "visitor_review_count": 404,
+        "blog_review_count": 1075,
+        "detail_url": "https://m.place.naver.com/place/36727677/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 2,
+      "extra": {
+        "name": "모델라인의원 강남점 • Modelline Clinic Liposuction",
+        "rating": 5,
+        "total_reviews": 2,
+        "sample_size": 5,
+        "foreign_language_reviews": 5,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 5
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 7184044,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "복부지방흡입의 정답은? 모델라인의원 이예찬원장님",
+            "channel": "모델라인의원 Modelline Liposuction Clinic Korea",
+            "url": "https://www.youtube.com/watch?v=1WJnYAYqd_Q&pp=ygUi66qo642465287J247J2Y7JuQIOqwleuCqOygkCBLb3JlYQ%3D%3D",
+            "view_text": "436 views"
+          },
+          {
+            "title": "뼈팔뚝, 반드시 이곳을 빼야 합니다!",
+            "channel": "모델라인의원 Modelline Liposuction Clinic Korea",
+            "url": "https://www.youtube.com/watch?v=vdXkBKzoH58&pp=ygUi66qo642465287J247J2Y7JuQIOqwleuCqOygkCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "738 views"
+          },
+          {
+            "title": "모델라인 강남점 오시는 길 (9호선 언주역 편)",
+            "channel": "모델라인의원 Modelline Liposuction Clinic Korea",
+            "url": "https://www.youtube.com/watch?v=Aqa04IJ98FA&pp=ygUi66qo642465287J247J2Y7JuQIOqwleuCqOygkCBLb3JlYQ%3D%3D",
+            "view_text": "613 views"
+          },
+          {
+            "title": "ModelLine v01 korea",
+            "channel": "김현승",
+            "url": "https://www.youtube.com/watch?v=hQMljpKWqAc&pp=ygUi66qo642465287J247J2Y7JuQIOqwleuCqOygkCBLb3JlYQ%3D%3D",
+            "view_text": "14 views"
+          },
+          {
+            "title": "지방흡입 수술 후 붕대, 실밥 푸는 기간!",
+            "channel": "모델라인의원 Modelline Liposuction Clinic Korea",
+            "url": "https://www.youtube.com/watch?v=nnr6sEyOfP8&pp=ygUi66qo642465287J247J2Y7JuQIOqwleuCqOygkCBLb3JlYQ%3D%3D",
+            "view_text": "12K views"
+          },
+          {
+            "title": "지방흡입 압박복, 안 입어야 더 많이 뺄 수 있을까?",
+            "channel": "모델라인의원 Modelline Liposuction Clinic Korea",
+            "url": "https://www.youtube.com/watch?v=vsl8Pu2b2os&pp=ygUi66qo642465287J247J2Y7JuQIOqwleuCqOygkCBLb3JlYQ%3D%3D",
+            "view_text": "20K views"
+          },
+          {
+            "title": "지방흡입 압박복, 정말 안 입어도 될까?",
+            "channel": "모델라인의원 Modelline Liposuction Clinic Korea",
+            "url": "https://www.youtube.com/watch?v=2ZH12GDTJts&pp=ygUi66qo642465287J247J2Y7JuQIOqwleuCqOygkCBLb3JlYQ%3D%3D",
+            "view_text": "13K views"
+          },
+          {
+            "title": "The Truth Behind CCTV Footage of Brain Death After Liposuction [Whistleblowers] 20200819",
+            "channel": "KBS 다큐",
+            "url": "https://www.youtube.com/watch?v=Oa1cnInjgBE&pp=ygUi66qo642465287J247J2Y7JuQIOqwleuCqOygkCBLb3JlYQ%3D%3D",
+            "view_text": "4.9M views"
+          },
+          {
+            "title": "지방흡입 지방이식의 기준! 모델라인 대전점 강철원장님을 소개합니다.",
+            "channel": "모델라인의원 Modelline Liposuction Clinic Korea",
+            "url": "https://www.youtube.com/watch?v=ujm0kW4HQSc&pp=ygUi66qo642465287J247J2Y7JuQIOqwleuCqOygkCBLb3JlYQ%3D%3D",
+            "view_text": "1.9K views"
+          },
+          {
+            "title": "지방흡입 수술 후 멍, 붓기, 열감!",
+            "channel": "모델라인의원 Modelline Liposuction Clinic Korea",
+            "url": "https://www.youtube.com/watch?v=B48_V3XmA5s&pp=ygUi66qo642465287J247J2Y7JuQIOqwleuCqOygkCBLb3JlYQ%3D%3D",
+            "view_text": "15K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 3,
+  "opportunity_cost_thb": 147500,
+  "opportunity_cost_krw": 5900000
+}

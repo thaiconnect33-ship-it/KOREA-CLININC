@@ -1,16 +1,16 @@
 {
   "query": "모프로의원",
-  "generated_at": "2026-05-28T22:39:52.685Z",
+  "generated_at": "2026-05-29T11:18:11.928Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 1637,
+      "metric_value": 1638,
       "extra": {
         "place_id": "1821744096",
         "name": "모프로의원 : 네이버\u001c",
-        "visitor_review_count": 660,
+        "visitor_review_count": 661,
         "blog_review_count": 977,
         "detail_url": "https://m.place.naver.com/place/1821744096/home"
       }
@@ -18,11 +18,11 @@
     "google_maps": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 193,
+      "metric_value": 196,
       "extra": {
         "name": "Results",
         "rating": 5,
-        "total_reviews": 193,
+        "total_reviews": 196,
         "sample_size": 8,
         "foreign_language_reviews": 8,
         "lang_breakdown": {
@@ -45,78 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 15,
+      "metric_value": 20,
       "extra": {
-        "total_views": 2265454,
-        "foreign_video_count": 0,
+        "total_views": 8316037,
+        "foreign_video_count": 2,
         "lang_breakdown": {
-          "korean": 15,
+          "korean": 18,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
-          "english_other": 0
+          "english_other": 2
         },
-        "sample_size": 15,
+        "sample_size": 20,
         "top_videos": [
           {
-            "title": "[발상의 전환] 모발이식 병원 선택, 너무 어려워요 ㅠㅠ 최악의 모발이식 병원 피하는 7가지 방법 !!",
-            "channel": "당신의 탈모주치의 모나라",
-            "url": "https://www.youtube.com/watch?v=DO4ZRjaXSJA&pp=ygUe66qo7ZSE66Gc7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "354 views"
+            "title": "미 하원의원 \"동맹국인 한국 얼굴 정면으로 한 방 먹인 것\" / JTBC 뉴스룸",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=ewGE8wsyFDE&pp=ygUV66qo7ZSE66Gc7J2Y7JuQIEtvcmVh",
+            "view_text": "949K"
           },
           {
-            "title": "탈모로 고민이신분들 진짜 이거 보셔야합니다!!🤷‍♂️(feat. 전주모래내피부과 강광영 원장)",
-            "channel": "전주MBC Original",
-            "url": "https://www.youtube.com/watch?v=4YXqZtyh3-w&pp=ygUe66qo7ZSE66Gc7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "1.4K views"
+            "title": "박종진의 쾌도난마 - 정미홍 \"문재인 의원, 지난 1년 간 뭐했나\"_채널A",
+            "channel": "채널A News",
+            "url": "https://www.youtube.com/watch?v=DN9ownIXMAc&pp=ygUV66qo7ZSE66Gc7J2Y7JuQIEtvcmVh",
+            "view_text": "143K"
           },
           {
-            "title": "모발 이식 4년 후.. 후기, 부작용, 가격 싹 다 알려드립니다.",
-            "channel": "비트 BTE",
-            "url": "https://www.youtube.com/watch?v=6ONxOVGuC3o&pp=ygUe66qo7ZSE66Gc7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "231K views"
+            "title": "부산 국회의원 자격 있나? 해양수도 표결은 '노쇼' 현수막은 홍보에 맹폭  | 모다뉴스🤲",
+            "channel": "부산MBC뉴스",
+            "url": "https://www.youtube.com/watch?v=qpnGO6hE00I&pp=ygUV66qo7ZSE66Gc7J2Y7JuQIEtvcmVh",
+            "view_text": "245K"
           },
           {
-            "title": "모발이식 후 11개월... 이건 꼭 알아야 합니다 (100% 솔직 후기)",
-            "channel": "용닥터",
-            "url": "https://www.youtube.com/watch?v=meGxqXFvikw&pp=ygUe66qo7ZSE66Gc7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "860K views"
-          },
-          {
-            "title": "[전참시] '탈모인들의 희망 한상보' 의사의 병원 대공개 MBC240831방송",
-            "channel": "픽잇 :Pick it",
-            "url": "https://www.youtube.com/watch?v=g1JtONR12DA&pp=ygUe66qo7ZSE66Gc7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "197K views"
-          },
-          {
-            "title": "[단독] '탈모인의 성지' 의원, '대리 처방'에 '탈모약 택배'까지 (2022.05.16/뉴스데스크/MBC)",
-            "channel": "MBCNEWS",
-            "url": "https://www.youtube.com/watch?v=kf1dgODU8bg&pp=ygUe66qo7ZSE66Gc7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "30K views"
-          },
-          {
-            "title": "모발이식 수술 결과가 잘 나올 사람과 아닌 사람│모벤져스",
-            "channel": "모벤져스",
-            "url": "https://www.youtube.com/watch?v=CyKccCAYwhw&pp=ygUe66qo7ZSE66Gc7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "47K views"
-          },
-          {
-            "title": "모발이식 후 절대 하지 말아야 할 것 3가지❗ (생착기간 주의사항)  l 김경복원장 l 모먼트의원(MOMENT)  l 히든컷",
-            "channel": "모먼트의원",
-            "url": "https://www.youtube.com/watch?v=bpzRO_adrOQ&pp=ygUe66qo7ZSE66Gc7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "45K views"
-          },
-          {
-            "title": "정수리 모발이식 하고 병원과 싸우는 이유",
-            "channel": "탈모N모에버 강세훈",
-            "url": "https://www.youtube.com/watch?v=VEhHI7E5X1s&pp=ygUe66qo7ZSE66Gc7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "77K views"
+            "title": "방미 의원단 \"한국에 뒤통수\" 항의에 美 \"우려와 분노 잘 알아\" / YTN",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=sBzMYKZOJN8&pp=ygUV66qo7ZSE66Gc7J2Y7JuQIEtvcmVh",
+            "view_text": "779K"
           },
           {
             "title": "내게 찾아온..모발이식 부작용 4가지",
             "channel": "탈모언니 TalmoSister",
-            "url": "https://www.youtube.com/watch?v=Dg6esPc_k4s&pp=ygUe66qo7ZSE66Gc7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "574K views"
+            "url": "https://www.youtube.com/watch?v=Dg6esPc_k4s&pp=ygUV66qo7ZSE66Gc7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "574K"
+          },
+          {
+            "title": "[한국정치TV] 정치뉴스 - 양향자 전 민주당 의원, 최근 개혁신당 탈당하고 국민의힘 입당해 대선 경선 출마 선언. \"한국 AI를 세계 1위로 만들겠다\" 발표",
+            "channel": "한국정치TV",
+            "url": "https://www.youtube.com/watch?v=uvKBg5YeTNc&pp=ygUV66qo7ZSE66Gc7J2Y7JuQIEtvcmVh",
+            "view_text": "127"
+          },
+          {
+            "title": "Who will fill Jeon Jae-soo's vacancy as minister? The spotlight is on the appointment. / KNN",
+            "channel": "KNN NEWS",
+            "url": "https://www.youtube.com/watch?v=SzDm8a1gQfw&pp=ygUV66qo7ZSE66Gc7J2Y7JuQIEtvcmVh",
+            "view_text": "423"
+          },
+          {
+            "title": "부산 일극주의에 반대한다는 민주당 의원.. 정색하는 전재수 | 현장영상",
+            "channel": "부산MBC뉴스",
+            "url": "https://www.youtube.com/watch?v=SMEmgbUnN04&pp=ygUV66qo7ZSE66Gc7J2Y7JuQIEtvcmVh",
+            "view_text": "5.6K"
+          },
+          {
+            "title": "[자막뉴스] 탈모 정복 실마리 찾았다...국내 연구진이 개발한 신기술 / YTN",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=39_EYWe70a0&pp=ygUV66qo7ZSE66Gc7J2Y7JuQIEtvcmVh",
+            "view_text": "2.3M"
+          },
+          {
+            "title": "The twist behind the cute gecko and frog craze... The ugly truth of illegal rare animal smuggling...",
+            "channel": "환경스페셜",
+            "url": "https://www.youtube.com/watch?v=-XRw9lzJq0g&pp=ygUV66qo7ZSE66Gc7J2Y7JuQIEtvcmVh",
+            "view_text": "1.4K"
           }
         ]
       }
@@ -132,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 4,
-  "opportunity_cost_thb": 96000,
-  "opportunity_cost_krw": 3840000
+  "global_score": 6,
+  "opportunity_cost_thb": 95000,
+  "opportunity_cost_krw": 3800000
 }

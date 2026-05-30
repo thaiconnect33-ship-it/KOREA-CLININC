@@ -1,16 +1,18 @@
 {
   "query": "허쉬성형외과의원",
-  "generated_at": "2026-05-28T22:14:45.560Z",
+  "generated_at": "2026-05-29T10:51:18.263Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 183,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "13450469",
+        "name": "허쉬성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 183,
+        "blog_review_count": 0,
+        "detail_url": "https://m.place.naver.com/place/13450469/home"
       }
     },
     "google_maps": {
@@ -45,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 1078875,
+        "total_views": 1102048,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -57,64 +59,64 @@
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "안면거상수술하면 목주름도 없어진다? - 【feat. 성형외과전문의】",
-            "channel": "시너지성형외과",
-            "url": "https://www.youtube.com/watch?v=AcdmoYXAc4Q&pp=ygUw7ZeI7Ims7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "41K views"
+            "title": "힙업리프팅 하고서 바로 운동 가능해요? 힙업성형 리얼영상! | 허쉬성형외과 성형외과 전문의 정영춘 원장",
+            "channel": "영춘TV",
+            "url": "https://www.youtube.com/watch?v=OOW5NdKFUxA&pp=ygUe7ZeI7Ims7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "14K views"
+          },
+          {
+            "title": "허쉬성형외과",
+            "channel": "HERSHE Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=OyuTATSgwi0&pp=ygUe7ZeI7Ims7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "983 views"
+          },
+          {
+            "title": "내 눈도 상안검 수술이 필요할까?  | 허쉬성형외과 성형외과 전문의 김주봉 원장",
+            "channel": "영춘TV",
+            "url": "https://www.youtube.com/watch?v=Bgay6bd0hs4&pp=ygUe7ZeI7Ims7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "136K views"
+          },
+          {
+            "title": "강남구 지원 (Eng sub) - ' 허쉬성형외과의 안티에이징이란? '",
+            "channel": "영춘TV",
+            "url": "https://www.youtube.com/watch?v=fdoL4qF6UB8&pp=ygUe7ZeI7Ims7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "386 views"
+          },
+          {
+            "title": "실리프팅에 사용되는 실의 개수 | 허쉬성형외과 성형외과 전문의 정영춘 원장",
+            "channel": "영춘TV",
+            "url": "https://www.youtube.com/watch?v=6agcDXUzZds&pp=ygUe7ZeI7Ims7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "22K views"
           },
           {
             "title": "\"강남 유명 성형외과서 수술 뒤 눈이 실명됐습니다\" [지금이뉴스] / YTN",
             "channel": "YTN",
-            "url": "https://www.youtube.com/watch?v=UyMrX929Q4I&pp=ygUw7ZeI7Ims7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=UyMrX929Q4I&pp=ygUe7ZeI7Ims7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
             "view_text": "576K views"
           },
           {
-            "title": "[홍진주의 성형 Q&A] #5. 성형, 선택의 딜레마 '매몰 vs 절개' (제이제이성형외과 홍진주 원장)",
-            "channel": "의학채널 비온뒤",
-            "url": "https://www.youtube.com/watch?v=weJT94cyHbI&pp=ygUw7ZeI7Ims7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "5.8K views"
+            "title": "리프테라 레이저, 코디가 직접 받아봄! | 허쉬성형외과 성형외과 전문의 정영춘 원장",
+            "channel": "영춘TV",
+            "url": "https://www.youtube.com/watch?v=wfcwUnispN0&pp=ygUe7ZeI7Ims7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "2.7K views"
           },
           {
-            "title": "눈성형,코성형 수술기구 전격 공개! (성형외과 수술실에서 무슨일이 일어날까 3편)",
-            "channel": "닥터혜자",
-            "url": "https://www.youtube.com/watch?v=FIIqCKR4nKk&pp=ygUw7ZeI7Ims7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "9.2K views"
+            "title": "메이성형외과 리얼스토리 제작",
+            "channel": "엠피알",
+            "url": "https://www.youtube.com/watch?v=EOfF6kVqzhw&pp=ygUe7ZeI7Ims7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "173 views"
           },
           {
-            "title": "How to find a good plastic surgeon🧡 How to find a good plastic surgeon and avoid plastic surgery ...",
-            "channel": "베레나verena",
-            "url": "https://www.youtube.com/watch?v=SQzMbIJMBTQ&pp=ygUw7ZeI7Ims7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "277K views"
+            "title": "미스터리 쇼퍼 하이라이트 영상 l 뷰성형외과",
+            "channel": "뷰성형외과 VIEW Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=exEYtj60heg&pp=ygUe7ZeI7Ims7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "507 views"
           },
           {
-            "title": "강남 성형외과 앞 '맞불 1인 시위'...왜? / YTN",
-            "channel": "YTN",
-            "url": "https://www.youtube.com/watch?v=HMOFE413n0k&pp=ygUw7ZeI7Ims7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "25K views"
-          },
-          {
-            "title": "[SODA] 소다성형외과 | 안면윤곽 수술시 예뻐지는/제한적인 유형",
-            "channel": "소다성형외과",
-            "url": "https://www.youtube.com/watch?v=TQ-dM_keBr0&pp=ygUw7ZeI7Ims7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "53K views"
-          },
-          {
-            "title": "쌍커풀 수술 '자연유착' 이 궁금하다 ! (feat.친절상담)",
-            "channel": "드레스성형외과의원",
-            "url": "https://www.youtube.com/watch?v=I1Hqwbo1N8o&pp=ygUw7ZeI7Ims7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "13K views"
-          },
-          {
-            "title": "불법 시술 또는 녹지 않는 필러 때문에 얼굴 이물질제거 해야 한다면?",
-            "channel": "압구정 김형진베이직성형외과",
-            "url": "https://www.youtube.com/watch?v=i5Ayyhizgqs&pp=ygUw7ZeI7Ims7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "17K views"
-          },
-          {
-            "title": "성형외과 전문의가 직접 알려드립니다! 시너지성형외과 눈썹거상Q&A :: 수술전후CASE 【Feat. 정경인대표원장님】",
-            "channel": "시너지성형외과",
-            "url": "https://www.youtube.com/watch?v=RfgeZl88_GA&pp=ygUw7ZeI7Ims7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "48K views"
+            "title": "Curious about Butt Lift Surgery? FAQ",
+            "channel": "영춘TV",
+            "url": "https://www.youtube.com/watch?v=UQiY-7RzuVE&pp=ygUe7ZeI7Ims7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "40K views"
           }
         ]
       }
@@ -130,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

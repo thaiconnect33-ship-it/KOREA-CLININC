@@ -1,0 +1,118 @@
+{
+  "query": "아젤린의원 정자",
+  "generated_at": "2026-05-29T12:29:26.006Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 1797,
+      "extra": {
+        "place_id": "37745081",
+        "name": "아젤린의원 정자 : 네이버\u001c",
+        "visitor_review_count": 965,
+        "blog_review_count": 832,
+        "detail_url": "https://m.place.naver.com/place/37745081/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "아젤린의원",
+        "rating": 3.4,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 5,
+      "extra": {
+        "total_views": 773,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 5,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 5,
+        "top_videos": [
+          {
+            "title": "분당피부과 아젤린의원 LDM물방울리프팅 관리",
+            "channel": "아젤린의원 정자",
+            "url": "https://www.youtube.com/watch?v=SG1zjKmAD78&pp=ygUc7JWE7KCk66aw7J2Y7JuQIOygleyekCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "89 views"
+          },
+          {
+            "title": "마이크로 레이저 필(MLP)와  줄기세포 엑소좀을 이용한 피부결 개선 프로그램",
+            "channel": "아젤린의원 정자",
+            "url": "https://www.youtube.com/watch?v=fHfNQgvyUxQ&pp=ygUc7JWE7KCk66aw7J2Y7JuQIOygleyekCBLb3JlYQ%3D%3D",
+            "view_text": "63 views"
+          },
+          {
+            "title": "알렉산드라이트 알렉스 레이저 제모 DEKA 모투스 Ax 제모 (DEKA Motus photoepilation of azelin clinic)",
+            "channel": "아젤린의원 정자",
+            "url": "https://www.youtube.com/watch?v=0nrGAup8tQc&pp=ygUc7JWE7KCk66aw7J2Y7JuQIOygleyekCBLb3JlYQ%3D%3D",
+            "view_text": "82 views"
+          },
+          {
+            "title": "BBL 스킨타이트 시술 영상 (BBL skintyte procedure of azelin clinic)",
+            "channel": "아젤린의원 정자",
+            "url": "https://www.youtube.com/watch?v=3b7mkky3K1E&pp=ygUc7JWE7KCk66aw7J2Y7JuQIOygleyekCBLb3JlYQ%3D%3D",
+            "view_text": "307 views"
+          },
+          {
+            "title": "제네시스 레이저 듀얼토닝 (genesis laser dual toning procedure)",
+            "channel": "아젤린의원 정자",
+            "url": "https://www.youtube.com/watch?v=H6MzJQUBeS0&pp=ygUc7JWE7KCk66aw7J2Y7JuQIOygleyekCBLb3JlYQ%3D%3D",
+            "view_text": "232 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

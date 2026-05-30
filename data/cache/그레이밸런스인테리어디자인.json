@@ -1,16 +1,16 @@
 {
   "query": "그레이밸런스인테리어디자인",
-  "generated_at": "2026-05-28T22:46:20.638Z",
+  "generated_at": "2026-05-29T11:24:59.989Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 12,
+      "metric_value": 20,
       "extra": {
         "place_id": "1836209954",
         "name": "그레이밸런스 : 네이버\u001c",
-        "visitor_review_count": 2,
+        "visitor_review_count": 10,
         "blog_review_count": 10,
         "detail_url": "https://m.place.naver.com/place/1836209954/home"
       }
@@ -21,15 +21,15 @@
       "metric_value": 0,
       "extra": {
         "name": "Results",
-        "rating": 5,
+        "rating": 4.4,
         "total_reviews": 0,
-        "sample_size": 2,
-        "foreign_language_reviews": 2,
+        "sample_size": 6,
+        "foreign_language_reviews": 6,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 2
+          "english_other": 6
         }
       }
     },
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 6905417,
+        "total_views": 7400,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -71,34 +71,16 @@
             "view_text": "708 views"
           },
           {
-            "title": "그레이밸런스 ｜ 하니 성형외과",
-            "channel": "그레이밸런스",
-            "url": "https://www.youtube.com/watch?v=zQXnfeDz2Oc&pp=ygUt6re466CI7J2067C465-w7Iqk7J247YWM66as7Ja065SU7J6Q7J24IEtvcmVh",
-            "view_text": "942 views"
-          },
-          {
             "title": "그레이밸런스 ｜ 피니쉬 성형외과",
             "channel": "그레이밸런스",
             "url": "https://www.youtube.com/watch?v=m48ObcTs5eQ&pp=ygUt6re466CI7J2067C465-w7Iqk7J247YWM66as7Ja065SU7J6Q7J24IEtvcmVh",
             "view_text": "164 views"
           },
           {
-            "title": "그레이밸런스 ｜ 스웨이 성형외과",
+            "title": "그레이밸런스 ｜ 하니 성형외과",
             "channel": "그레이밸런스",
-            "url": "https://www.youtube.com/watch?v=lQTbp5u3fJo&pp=ygUt6re466CI7J2067C465-w7Iqk7J247YWM66as7Ja065SU7J6Q7J24IEtvcmVh",
-            "view_text": "211 views"
-          },
-          {
-            "title": "그레이밸런스 ｜ 알유 성형외과",
-            "channel": "그레이밸런스",
-            "url": "https://www.youtube.com/watch?v=eADaJKKQH0I&pp=ygUt6re466CI7J2067C465-w7Iqk7J247YWM66as7Ja065SU7J6Q7J24IEtvcmVh",
-            "view_text": "230 views"
-          },
-          {
-            "title": "그레이밸런스 ｜ 여의도 봄 정신건강의학과의원",
-            "channel": "그레이밸런스",
-            "url": "https://www.youtube.com/watch?v=qes7oDSIb8c&pp=ygUt6re466CI7J2067C465-w7Iqk7J247YWM66as7Ja065SU7J6Q7J24IEtvcmVh",
-            "view_text": "97 views"
+            "url": "https://www.youtube.com/watch?v=zQXnfeDz2Oc&pp=ygUt6re466CI7J2067C465-w7Iqk7J247YWM66as7Ja065SU7J6Q7J24IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "942 views"
           },
           {
             "title": "그레이밸런스 ｜ 다시온 클리닉",
@@ -107,16 +89,34 @@
             "view_text": "78 views"
           },
           {
+            "title": "그레이밸런스 ｜ 스웨이 성형외과",
+            "channel": "그레이밸런스",
+            "url": "https://www.youtube.com/watch?v=lQTbp5u3fJo&pp=ygUt6re466CI7J2067C465-w7Iqk7J247YWM66as7Ja065SU7J6Q7J24IEtvcmVh",
+            "view_text": "211 views"
+          },
+          {
             "title": "그레이밸런스 | 무드온 성형외과",
             "channel": "그레이밸런스",
             "url": "https://www.youtube.com/watch?v=lvVK5QB59Kc&pp=ygUt6re466CI7J2067C465-w7Iqk7J247YWM66as7Ja065SU7J6Q7J24IEtvcmVh",
             "view_text": "510 views"
           },
           {
+            "title": "그레이밸런스 ｜ 여의도 봄 정신건강의학과의원",
+            "channel": "그레이밸런스",
+            "url": "https://www.youtube.com/watch?v=qes7oDSIb8c&pp=ygUt6re466CI7J2067C465-w7Iqk7J247YWM66as7Ja065SU7J6Q7J24IEtvcmVh",
+            "view_text": "97 views"
+          },
+          {
             "title": "그레이밸런스 ｜ 청담 퍼스널 의원",
             "channel": "그레이밸런스",
             "url": "https://www.youtube.com/watch?v=jqMb2y7jeqA&pp=ygUt6re466CI7J2067C465-w7Iqk7J247YWM66as7Ja065SU7J6Q7J24IEtvcmVh",
             "view_text": "334 views"
+          },
+          {
+            "title": "그레이밸런스 ｜ 알유 성형외과",
+            "channel": "그레이밸런스",
+            "url": "https://www.youtube.com/watch?v=eADaJKKQH0I&pp=ygUt6re466CI7J2067C465-w7Iqk7J247YWM66as7Ja065SU7J6Q7J24IEtvcmVh",
+            "view_text": "230 views"
           }
         ]
       }
@@ -132,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 1,
-  "opportunity_cost_thb": 99000,
-  "opportunity_cost_krw": 3960000
+  "global_score": 3,
+  "opportunity_cost_thb": 97000,
+  "opportunity_cost_krw": 3880000
 }

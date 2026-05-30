@@ -1,6 +1,6 @@
 {
   "query": "가락한솔의원병원,의원",
-  "generated_at": "2026-05-28T23:20:54.780Z",
+  "generated_at": "2026-05-29T12:03:25.091Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 19,
       "extra": {
-        "total_views": 247986,
+        "total_views": 247987,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 19,
@@ -61,7 +61,7 @@
           {
             "title": "대화교통 063번 활천교회 안내방송 영상(본시스템)",
             "channel": "제미니ᅵ하성마을버스 25번 버스",
-            "url": "https://www.youtube.com/watch?v=bzzJ8J1P4js&pp=ygUl6rCA65297ZWc7IaU7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "url": "https://www.youtube.com/watch?v=bzzJ8J1P4js&pp=ygUl6rCA65297ZWc7IaU7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
             "view_text": "306 views"
           },
           {
@@ -71,21 +71,33 @@
             "view_text": "30 views"
           },
           {
-            "title": "서울대·아산병원 충격 경고: 60대 이상 절대 먹으면 안 되는 영양제 | 시니어",
-            "channel": "시니어",
-            "url": "https://www.youtube.com/watch?v=hS04izvVbfQ&pp=ygUl6rCA65297ZWc7IaU7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYdIHCQkNCwGHKiGM7w%3D%3D",
-            "view_text": "237K views"
-          },
-          {
             "title": "전주 건보빌딩{세나유의원/세나여성의원(세나산부인과) 본관} 리모델링전 한독엘리베이터(대성IDS제어반 방식) 탑사기(2017.01.09 촬영)",
             "channel": "김진원 (전북부산경남매니아)",
             "url": "https://www.youtube.com/watch?v=kslGMNyTdFg&pp=ygUl6rCA65297ZWc7IaU7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
             "view_text": "591 views"
           },
           {
+            "title": "서울대·아산병원 충격 경고: 60대 이상 절대 먹으면 안 되는 영양제 | 시니어",
+            "channel": "시니어",
+            "url": "https://www.youtube.com/watch?v=hS04izvVbfQ&pp=ygUl6rCA65297ZWc7IaU7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "237K views"
+          },
+          {
+            "title": "cnb뉴스연합 - 손현옥 세종시의회의원, 고운뜰 공원 조성 촉구",
+            "channel": "focus뉴스라인",
+            "url": "https://www.youtube.com/watch?v=hJW2ylCTrec&pp=ygUl6rCA65297ZWc7IaU7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "19 views"
+          },
+          {
+            "title": "(씨앤앰 뉴스)'건강검진' 꼭 챙기세요/건강관리협회 구진남 과장_천서연 기자",
+            "channel": "우리동네 우리방송",
+            "url": "https://www.youtube.com/watch?v=IuFgS2SDBJM&pp=ygUl6rCA65297ZWc7IaU7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "379 views"
+          },
+          {
             "title": "고화질 드론영상소스,세종특별자치시 세종시 새롬동 운좋은공인중개사사무소,새뜸마을5단지아이파크메이저아파트경로당,개인화물,공터영어 새롬아이파크센터,무인셀프 아이스크림할인점,메이저최...",
             "channel": "시네마틱스톡 CINEMATIC STOCK",
-            "url": "https://www.youtube.com/watch?v=7n9R1IQUA9A&pp=ygUl6rCA65297ZWc7IaU7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYdIHCQkNCwGHKiGM7w%3D%3D",
+            "url": "https://www.youtube.com/watch?v=7n9R1IQUA9A&pp=ygUl6rCA65297ZWc7IaU7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
             "view_text": "44 views"
           },
           {
@@ -95,28 +107,16 @@
             "view_text": "50 views"
           },
           {
-            "title": "(씨앤앰 뉴스)'건강검진' 꼭 챙기세요/건강관리협회 구진남 과장_천서연 기자",
-            "channel": "우리동네 우리방송",
-            "url": "https://www.youtube.com/watch?v=IuFgS2SDBJM&pp=ygUl6rCA65297ZWc7IaU7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
-            "view_text": "379 views"
+            "title": "경기도 성남시 중원구 성남대로 1126 (성남동) 메가프라자 OTIS.LG엘리베이터 대차전 탑사기",
+            "channel": "John & Alex's Production",
+            "url": "https://www.youtube.com/watch?v=sxPCh8jRIpY&pp=ygUl6rCA65297ZWc7IaU7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "1.2K views"
           },
           {
             "title": "앞모습 [ 1997 VP-L4 ] (현재 부분교체됨) 경기도 시흥시 정왕동 금강프라자 LG산전엘리베이터 (부분교체 전)",
             "channel": "Andy EWLS",
-            "url": "https://www.youtube.com/watch?v=OAUCFHBUpFo&pp=ygUl6rCA65297ZWc7IaU7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "url": "https://www.youtube.com/watch?v=OAUCFHBUpFo&pp=ygUl6rCA65297ZWc7IaU7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
             "view_text": "173 views"
-          },
-          {
-            "title": "경기도 성남시 분당구 서현로 253 분당양현보도육교 신성엘이베이터 탑사기 (1)",
-            "channel": "6789여러가지가 좋아요.",
-            "url": "https://www.youtube.com/watch?v=Wlt4vVuKOdA&pp=ygUl6rCA65297ZWc7IaU7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
-            "view_text": "128 views"
-          },
-          {
-            "title": "고화질 드론영상소스,세종특별자치시 세종시 연기면 세종리 DJI_0021_0001",
-            "channel": "시네마틱스톡 CINEMATIC STOCK",
-            "url": "https://www.youtube.com/watch?v=ozIT32tsEDk&pp=ygUl6rCA65297ZWc7IaU7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
-            "view_text": "31 views"
           }
         ]
       }
@@ -132,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

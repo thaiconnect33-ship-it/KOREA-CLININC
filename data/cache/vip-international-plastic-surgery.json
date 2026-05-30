@@ -1,6 +1,6 @@
 {
   "query": "VIP International Plastic Surgery",
-  "generated_at": "2026-05-29T05:44:52.673Z",
+  "generated_at": "2026-05-29T10:10:56.622Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -18,18 +18,18 @@
     "google_maps": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 77,
       "extra": {
         "name": "Results",
         "rating": 4.9,
-        "total_reviews": 0,
-        "sample_size": 6,
-        "foreign_language_reviews": 6,
+        "total_reviews": 77,
+        "sample_size": 9,
+        "foreign_language_reviews": 9,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
-          "chinese": 0,
-          "english_other": 6
+          "chinese": 1,
+          "english_other": 8
         }
       }
     },
@@ -47,14 +47,14 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 4896009,
-        "foreign_video_count": 17,
+        "total_views": 4919039,
+        "foreign_video_count": 18,
         "lang_breakdown": {
-          "korean": 3,
+          "korean": 2,
           "thai": 0,
           "chinese": 0,
-          "japanese": 1,
-          "english_other": 16
+          "japanese": 0,
+          "english_other": 18
         },
         "sample_size": 20,
         "top_videos": [
@@ -71,34 +71,16 @@
             "view_text": "17K views"
           },
           {
-            "title": "All-inclusive Plastic Surgery in Korea: From Consultation to Aftercare | VIP Plastic Surgery",
-            "channel": "VIP Plastic Surgery Korea",
-            "url": "https://www.youtube.com/watch?v=5-eKkfzjteY&pp=ygUnVklQIEludGVybmF0aW9uYWwgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
-            "view_text": "293K views"
-          },
-          {
             "title": "VIP Plastic Surgery Korea Review | Deep Plane Facelift",
             "channel": "VIP Plastic Surgery Korea",
             "url": "https://www.youtube.com/watch?v=Gr7M-6mpv0Y&pp=ygUnVklQIEludGVybmF0aW9uYWwgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
             "view_text": "3.1K views"
           },
           {
-            "title": "How has plastic surgery changed your life? 성형수술이 어떻게 당신의 인생을 바꿔놓았나요? VIP성형외과 Plastic Surgery Korea",
+            "title": "All-inclusive Plastic Surgery in Korea: From Consultation to Aftercare | VIP Plastic Surgery",
             "channel": "VIP Plastic Surgery Korea",
-            "url": "https://www.youtube.com/watch?v=nKqOcCmitFw&pp=ygUnVklQIEludGVybmF0aW9uYWwgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
-            "view_text": "995 views"
-          },
-          {
-            "title": "What kind of surgery do you want to get the most? 어떤 성형수술을 하고싶은가요? VIP Plastic Surgery Korea VIP성형외과",
-            "channel": "VIP Plastic Surgery Korea",
-            "url": "https://www.youtube.com/watch?v=7VPXm7tilsQ&pp=ygUnVklQIEludGVybmF0aW9uYWwgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh0gcJCSMLAYcqIYzv",
-            "view_text": "542 views"
-          },
-          {
-            "title": "Tim's Facelift Experience | VIP Plastic Surgery Clinic, Korea",
-            "channel": "VIP Plastic Surgery Korea",
-            "url": "https://www.youtube.com/watch?v=K2OpX2z6s74&pp=ygUnVklQIEludGVybmF0aW9uYWwgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh0gcJCSMLAYcqIYzv",
-            "view_text": "13K views"
+            "url": "https://www.youtube.com/watch?v=5-eKkfzjteY&pp=ygUnVklQIEludGVybmF0aW9uYWwgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "293K views"
           },
           {
             "title": "Deep Plane Facelift Consultation with Dr. Lee Myung Ju | VIP Plastic Surgery Korea",
@@ -107,16 +89,34 @@
             "view_text": "2.2K views"
           },
           {
-            "title": "Plastic Surgery Korea Video | Cosmetic Surgery in South Korea | Plastic Surgery Korea Price",
-            "channel": "Lyfboat",
-            "url": "https://www.youtube.com/watch?v=aESiLsDkwkc&t=4s&pp=ygUnVklQIEludGVybmF0aW9uYWwgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
-            "view_text": "1.6K views"
+            "title": "A Day in Life of Top Korean Plastic Surgeon In Gangnam",
+            "channel": "Asian Boss",
+            "url": "https://www.youtube.com/watch?v=jRfw0kMlsKI&pp=ygUnVklQIEludGVybmF0aW9uYWwgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "4.3M views"
           },
           {
-            "title": "My Rhinoplasty Experience at VIP Plastic Surgery Korea",
+            "title": "Korean Plastic Surgery | VIP Plastic Surgery Clinic, Seoul, Korea",
             "channel": "VIP Plastic Surgery Korea",
-            "url": "https://www.youtube.com/watch?v=zBXt5gc3MHQ&pp=ygUnVklQIEludGVybmF0aW9uYWwgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
-            "view_text": "9.7K views"
+            "url": "https://www.youtube.com/watch?v=MLwv02FNN0E&pp=ygUnVklQIEludGVybmF0aW9uYWwgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "7.2K views"
+          },
+          {
+            "title": "How has plastic surgery changed your life? 성형수술이 어떻게 당신의 인생을 바꿔놓았나요? VIP성형외과 Plastic Surgery Korea",
+            "channel": "VIP Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=nKqOcCmitFw&pp=ygUnVklQIEludGVybmF0aW9uYWwgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "996 views"
+          },
+          {
+            "title": "Tim's Facelift Experience | VIP Plastic Surgery Clinic, Korea",
+            "channel": "VIP Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=K2OpX2z6s74&pp=ygUnVklQIEludGVybmF0aW9uYWwgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "13K views"
+          },
+          {
+            "title": "The Legendary Plastic Surgeon: VIP Plastic Surgery Korea",
+            "channel": "VIP Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=zvud87XpUjg&pp=ygUnVklQIEludGVybmF0aW9uYWwgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "120K views"
           }
         ]
       }
@@ -142,7 +142,7 @@
       }
     }
   },
-  "global_score": 17,
-  "opportunity_cost_thb": 88500,
-  "opportunity_cost_krw": 3540000
+  "global_score": 19,
+  "opportunity_cost_thb": 86500,
+  "opportunity_cost_krw": 3460000
 }

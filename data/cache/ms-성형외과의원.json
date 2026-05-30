@@ -1,16 +1,18 @@
 {
   "query": "MS 성형외과의원",
-  "generated_at": "2026-05-28T23:45:16.081Z",
+  "generated_at": "2026-05-29T12:31:17.705Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 510,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "20136568",
+        "name": "MS 성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 67,
+        "blog_review_count": 443,
+        "detail_url": "https://m.place.naver.com/place/20136568/home"
       }
     },
     "google_maps": {
@@ -43,78 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 11,
+      "metric_value": 19,
       "extra": {
-        "total_views": 38945,
+        "total_views": 210108,
         "foreign_video_count": 0,
         "lang_breakdown": {
-          "korean": 11,
+          "korean": 19,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
           "english_other": 0
         },
-        "sample_size": 11,
+        "sample_size": 19,
         "top_videos": [
+          {
+            "title": "뒤트임, 눈밑트임 과연 필요한가?  - 트임성형 편 [동안사랑김원장]",
+            "channel": "동안사랑김원장 (MS Plastic Sugery Clinic)",
+            "url": "https://www.youtube.com/watch?v=-i1KL9mfq0Q&pp=ygUbTVMg7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1K views"
+          },
+          {
+            "title": "짧은코성형에서 딱딱하지 않은 '코길이연장'이 가능할까??_심층편 2부 [동안사랑 김원장]",
+            "channel": "동안사랑김원장 (MS Plastic Sugery Clinic)",
+            "url": "https://www.youtube.com/watch?v=csy614tm6sk&pp=ygUbTVMg7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.1K views"
+          },
+          {
+            "title": "윗트임 & 앞트임, 인아웃쌍꺼풀을 위한 시너지효과 ! [동안사랑 김원장]",
+            "channel": "동안사랑김원장 (MS Plastic Sugery Clinic)",
+            "url": "https://www.youtube.com/watch?v=ncSuk3nqiyQ&pp=ygUbTVMg7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "4.2K views"
+          },
+          {
+            "title": "눈재수술 (쌍수)시 안검하수 눈매교정이 필요한 경우의 사례 분석 _심층편 [동안사랑 김원장]",
+            "channel": "동안사랑김원장 (MS Plastic Sugery Clinic)",
+            "url": "https://www.youtube.com/watch?v=PTSD-iHRVFw&pp=ygUbTVMg7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "7K views"
+          },
+          {
+            "title": "장안의화제인 '눈밑지방재배치' 란?_메인1부 [동안사랑 김원장]",
+            "channel": "동안사랑김원장 (MS Plastic Sugery Clinic)",
+            "url": "https://www.youtube.com/watch?v=RutMcGaQ0NQ&pp=ygUbTVMg7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "11K views"
+          },
           {
             "title": "눈매교정, 쌍꺼풀수술시 필수일까? _메인1부 [동안사랑 김원장]",
             "channel": "동안사랑김원장 (MS Plastic Sugery Clinic)",
-            "url": "https://www.youtube.com/watch?v=arrjJUr5t5U&pp=ygUtTVMg7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=arrjJUr5t5U&pp=ygUbTVMg7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "13K views"
           },
           {
-            "title": "비절개눈매교정, 신뢰할 만한가?장,단점 전격 해부 [동안사랑 김원장]",
+            "title": "뒤트임과 밑트임 성형, 부작용과 주의사항은? - 트임성형 편 [동안사랑김원장]",
             "channel": "동안사랑김원장 (MS Plastic Sugery Clinic)",
-            "url": "https://www.youtube.com/watch?v=JzyUgfFBWJ8&pp=ygUtTVMg7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "7.4K views"
+            "url": "https://www.youtube.com/watch?v=iFqLgYVLMag&pp=ygUbTVMg7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "2.1K views"
           },
           {
-            "title": "비절개 눈매교정후기, 사례로 분석해보자. [동안사랑 김원장]",
+            "title": "앞트임 수술의 부작용과 주의 사항은? [동안사랑 김원장]",
             "channel": "동안사랑김원장 (MS Plastic Sugery Clinic)",
-            "url": "https://www.youtube.com/watch?v=wCzCtn_65Xg&pp=ygUtTVMg7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "2.3K views"
+            "url": "https://www.youtube.com/watch?v=7jHQ1nfchjs&pp=ygUbTVMg7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "6.9K views"
           },
           {
-            "title": "매몰법, 절개법, 비절개 눈매교정술,,, 복잡한 쌍꺼풀 수술방법 총정리 ! [동안사랑 김원장]",
+            "title": "하안검성형 과 큐트포인트 지방이식이 큐트라인 완성에 시너지효과 _심층2부[동안사랑 김원장]",
             "channel": "동안사랑김원장 (MS Plastic Sugery Clinic)",
-            "url": "https://www.youtube.com/watch?v=s4qUbvbXWwQ&pp=ygUtTVMg7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "4.5K views"
+            "url": "https://www.youtube.com/watch?v=I5pswVZ8GFI&pp=ygUbTVMg7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "2.4K views"
           },
           {
-            "title": "필러, 보톡스 부작용과 주의사항은? [동안사랑 김원장]",
+            "title": "눈썹하거상술을 알아보자 [동안사랑 김원장]",
             "channel": "동안사랑김원장 (MS Plastic Sugery Clinic)",
-            "url": "https://www.youtube.com/watch?v=TIzbDcSzKso&pp=ygUtTVMg7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "2.8K views"
-          },
-          {
-            "title": "시력 손실 vs 모발 손실..? 안과의사의 멘붕 밸런스 게임 l MS안과 #안과상식 #밸런스게임 #한국안과",
-            "channel": "눈에빠진형 [엠에스안과]",
-            "url": "https://www.youtube.com/watch?v=y-1n4ZggeoA&pp=ygUtTVMg7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "239 views"
-          },
-          {
-            "title": "[헬스톡톡] 라엘클리닉 김동관 원장, '눈썹문신 검증 된 곳에서 하세요'",
-            "channel": "주식회사아시아뉴스통신",
-            "url": "https://www.youtube.com/watch?v=F22Mph-_W7M&pp=ygUtTVMg7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "120 views"
-          },
-          {
-            "title": "[비즈초대석] ‘큐비스-조인트 미국시장 본격 진출’…큐렉소 이재준 대표 “올해 매출 300억원 목표”",
-            "channel": "팍스탁(Paxtock)",
-            "url": "https://www.youtube.com/watch?v=nc39w8k7100&pp=ygUtTVMg7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "2.9K views"
-          },
-          {
-            "title": "[명의] 서울대학교병원 조상헌 알레르기내과 전문의 편 / 권순용 박사의 TV자서전 - 명의 9회 / G1방송 / 20220618",
-            "channel": "G1메디컬플러스",
-            "url": "https://www.youtube.com/watch?v=hbBJeO007z0&pp=ygUtTVMg7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "4.3K views"
-          },
-          {
-            "title": "2020 지방흡입 궁금한 점 10가지",
-            "channel": "안경천",
-            "url": "https://www.youtube.com/watch?v=m7l_Gawrnyk&pp=ygUtTVMg7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "86 views"
+            "url": "https://www.youtube.com/watch?v=w7WAdWUfHrI&pp=ygUbTVMg7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "26K views"
           }
         ]
       }
@@ -130,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

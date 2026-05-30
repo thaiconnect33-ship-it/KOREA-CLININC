@@ -1,0 +1,148 @@
+{
+  "query": "포레나의원 홍대",
+  "generated_at": "2026-05-29T11:30:01.221Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 2800,
+      "extra": {
+        "place_id": "2093880278",
+        "name": "포레나의원 홍대 : 네이버\u001c",
+        "visitor_review_count": 1016,
+        "blog_review_count": 1784,
+        "detail_url": "https://m.place.naver.com/place/2093880278/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Forena Clinic Hongdae Branch",
+        "rating": 4.9,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 35164588,
+        "foreign_video_count": 4,
+        "lang_breakdown": {
+          "korean": 16,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 1,
+          "english_other": 3
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "Birthday glow-up at Forena Clinic in Hongdae | ASMR",
+            "channel": "Tony Giny's Korean Adventures",
+            "url": "https://www.youtube.com/watch?v=x9pVD2cKX6k&pp=ygUc7Y-s66CI64KY7J2Y7JuQIO2ZjeuMgCBLb3JlYQ%3D%3D",
+            "view_text": "424"
+          },
+          {
+            "title": "레이싱모델 천세라님 셀레나의원 방문",
+            "channel": "홍대 셀레나의원",
+            "url": "https://www.youtube.com/watch?v=1tr2rdvZfuA&pp=ygUc7Y-s66CI64KY7J2Y7JuQIO2ZjeuMgCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "447"
+          },
+          {
+            "title": "Ulthera VS Ultherapy Prime Difference | Forena Clinic",
+            "channel": "Forena Clinic",
+            "url": "https://www.youtube.com/watch?v=HBtA7CDfuGw&pp=ygUc7Y-s66CI64KY7J2Y7JuQIO2ZjeuMgCBLb3JlYQ%3D%3D",
+            "view_text": "200"
+          },
+          {
+            "title": "인플루언서 민건호님 셀레나의원 방문",
+            "channel": "홍대 셀레나의원",
+            "url": "https://www.youtube.com/watch?v=Abu8i2BWke4&pp=ygUc7Y-s66CI64KY7J2Y7JuQIO2ZjeuMgCBLb3JlYQ%3D%3D",
+            "view_text": "44"
+          },
+          {
+            "title": "Ultherapy vs Thermage FLX Difference | Forena Clinic, Seoul",
+            "channel": "Forena Clinic",
+            "url": "https://www.youtube.com/watch?v=pWb60h7SsUs&pp=ygUc7Y-s66CI64KY7J2Y7JuQIO2ZjeuMgCBLb3JlYQ%3D%3D",
+            "view_text": "64K"
+          },
+          {
+            "title": "인플루언서는 피부과에서 관리를 이렇게 받습니다!",
+            "channel": "홍대 셀레나의원",
+            "url": "https://www.youtube.com/watch?v=4OGKuoAo6p0&pp=ygUc7Y-s66CI64KY7J2Y7JuQIO2ZjeuMgCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "133"
+          },
+          {
+            "title": "충주시 하진솔",
+            "channel": "충주시",
+            "url": "https://www.youtube.com/watch?v=qpWMpFvKv7o&pp=ygUc7Y-s66CI64KY7J2Y7JuQIO2ZjeuMgCBLb3JlYQ%3D%3D",
+            "view_text": "1.4M"
+          },
+          {
+            "title": "레이싱모델 차혜리님 셀레나의원 방문",
+            "channel": "홍대 셀레나의원",
+            "url": "https://www.youtube.com/watch?v=0inxHQVJ8Io&pp=ygUc7Y-s66CI64KY7J2Y7JuQIO2ZjeuMgCBLb3JlYQ%3D%3D",
+            "view_text": "140"
+          },
+          {
+            "title": "첫 소절부터 소름이 쫙 돋는😖 펜타클의 ‘못다핀 꽃 한송이’♪🌷 TV CHOSUN 241010 방송 | [TV조선 대학가요제] 1회 | TV조선",
+            "channel": "TVCHOSUN - TV조선",
+            "url": "https://www.youtube.com/watch?v=8c8smwgizSI&list=RD8c8smwgizSI&start_radio=1&pp=ygUc7Y-s66CI64KY7J2Y7JuQIO2ZjeuMgCBLb3JlYaAHAQ%3D%3D",
+            "view_text": "8.4M"
+          },
+          {
+            "title": "피부과 10년차가 말하는 받으면 호구되는 시술 3가지",
+            "channel": "소의튜브soytube",
+            "url": "https://www.youtube.com/watch?v=fiJ6_nrjt7A&pp=ygUc7Y-s66CI64KY7J2Y7JuQIO2ZjeuMgCBLb3JlYQ%3D%3D",
+            "view_text": "1.4M"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 3,
+  "opportunity_cost_thb": 108000,
+  "opportunity_cost_krw": 4320000
+}

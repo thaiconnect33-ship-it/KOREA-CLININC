@@ -1,0 +1,148 @@
+{
+  "query": "유앤아이의원 잠실점",
+  "generated_at": "2026-05-29T12:07:03.471Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 7312,
+      "extra": {
+        "place_id": "32811697",
+        "name": "유앤아이의원 잠실점 : 네이버\u001c",
+        "visitor_review_count": 1527,
+        "blog_review_count": 5785,
+        "detail_url": "https://m.place.naver.com/place/32811697/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "YOU&I Skin Clinic Jamsil",
+        "rating": 4.6,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 5569587,
+        "foreign_video_count": 1,
+        "lang_breakdown": {
+          "korean": 19,
+          "thai": 0,
+          "chinese": 1,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "YOU&I Dermatology 유앤아이 피부과의원 #YSMZ(Yeongdeunpo Smart-Medical Zone)",
+            "channel": "Korea Guide Kim 코리아가이드김",
+            "url": "https://www.youtube.com/watch?v=GPoQeglzzpw&pp=ygUi7Jyg7JWk7JWE7J207J2Y7JuQIOyeoOyLpOygkCBLb3JlYQ%3D%3D",
+            "view_text": "994 views"
+          },
+          {
+            "title": "Skin Counseling 피부 상담 @You&I Dermatology 유앤아이 피부과",
+            "channel": "Korea Guide Kim 코리아가이드김",
+            "url": "https://www.youtube.com/watch?v=v9pqhOZeb3Q&pp=ygUi7Jyg7JWk7JWE7J207J2Y7JuQIOyeoOyLpOygkCBLb3JlYQ%3D%3D",
+            "view_text": "120 views"
+          },
+          {
+            "title": "What kind of treatments do I get? I’m telling you everything💆🏻‍♀️",
+            "channel": "최종시안",
+            "url": "https://www.youtube.com/watch?v=8W31tqhdvLA&pp=ygUi7Jyg7JWk7JWE7J207J2Y7JuQIOyeoOyLpOygkCBLb3JlYQ%3D%3D",
+            "view_text": "1M views"
+          },
+          {
+            "title": "\"시술 그만하겠다\"에 \"환불 불가\"…피부과 최다 / SBS",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=dYbmlkVo8AE&pp=ygUi7Jyg7JWk7JWE7J207J2Y7JuQIOyeoOyLpOygkCBLb3JlYQ%3D%3D",
+            "view_text": "4.8K views"
+          },
+          {
+            "title": "Recommended cosmetic medical treatments for men traveling to South Korea. Skin care and medical h...",
+            "channel": "GrapeCH【男子もハマる韓国】",
+            "url": "https://www.youtube.com/watch?v=sm69yPh5GWE&pp=ygUi7Jyg7JWk7JWE7J207J2Y7JuQIOyeoOyLpOygkCBLb3JlYQ%3D%3D",
+            "view_text": "275 views"
+          },
+          {
+            "title": "[1분닥터 QnA] 가슴필러 유지기간 얼마나될까요?",
+            "channel": "247클리닉 l 힙필러, 골반필러 바디컨투어링",
+            "url": "https://www.youtube.com/watch?v=qEjdB5zQH80&pp=ygUi7Jyg7JWk7JWE7J207J2Y7JuQIOyeoOyLpOygkCBLb3JlYQ%3D%3D",
+            "view_text": "2.4K views"
+          },
+          {
+            "title": "[병원 브이로그] 피부과 진료 × 점 빼는 날. 7세 여아 눈 아래 점 빼기(유앤아이피부과의원 수원점)",
+            "channel": "희파파TV",
+            "url": "https://www.youtube.com/watch?v=5iFnGcdnwag&pp=ygUi7Jyg7JWk7JWE7J207J2Y7JuQIOyeoOyLpOygkCBLb3JlYQ%3D%3D",
+            "view_text": "3K views"
+          },
+          {
+            "title": "프락셀 결제했는데요? (프락셀 비추 🙅‍♂️ 피부 장벽과 흉터 치료 동시에 잡는 방법)",
+            "channel": "닥터 레이저 Dr. LASER",
+            "url": "https://www.youtube.com/watch?v=1NAhNGcUPWY&pp=ygUi7Jyg7JWk7JWE7J207J2Y7JuQIOyeoOyLpOygkCBLb3JlYQ%3D%3D",
+            "view_text": "1K views"
+          },
+          {
+            "title": "피부과 시술 부작용 Vlog…ㅠ 내 피부 돌려줘.. 다신 안해…🫠ㅣMINCARONG",
+            "channel": "민카롱",
+            "url": "https://www.youtube.com/watch?v=wRJR2kY2x9w&pp=ygUi7Jyg7JWk7JWE7J207J2Y7JuQIOyeoOyLpOygkCBLb3JlYQ%3D%3D",
+            "view_text": "1.7M views"
+          },
+          {
+            "title": "피부과 15년차 상담실장님이 말하는 '피부과 호구' 안되는 법 (추천시술 VS 비추천시술.zip📂)",
+            "channel": "황라희 Hwang Lahee",
+            "url": "https://www.youtube.com/watch?v=tD4qcIvpwyM&pp=ygUi7Jyg7JWk7JWE7J207J2Y7JuQIOyeoOyLpOygkCBLb3JlYQ%3D%3D",
+            "view_text": "442K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 1,
+  "opportunity_cost_thb": 89500,
+  "opportunity_cost_krw": 3580000
+}

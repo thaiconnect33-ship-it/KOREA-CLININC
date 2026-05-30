@@ -1,35 +1,35 @@
 {
   "query": "아베크 성형외과의원",
-  "generated_at": "2026-05-29T00:03:16.315Z",
+  "generated_at": "2026-05-29T12:49:50.737Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 1405,
+      "metric_value": 1413,
       "extra": {
         "place_id": "1399215183",
         "name": "아베크 성형외과의원 : 네이버\u001c",
-        "visitor_review_count": 236,
-        "blog_review_count": 1169,
+        "visitor_review_count": 242,
+        "blog_review_count": 1171,
         "detail_url": "https://m.place.naver.com/place/1399215183/home"
       }
     },
     "google_maps": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 14,
+      "metric_value": 16,
       "extra": {
         "name": "아베크성형외과",
         "rating": 5,
-        "total_reviews": 14,
-        "sample_size": 14,
-        "foreign_language_reviews": 14,
+        "total_reviews": 16,
+        "sample_size": 18,
+        "foreign_language_reviews": 18,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 14
+          "english_other": 18
         }
       }
     },
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 44278,
+        "total_views": 44380,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -61,62 +61,62 @@
           {
             "title": "실리콘 보형물 전격 비교 ㅣ 3D 보형물의 차이는?",
             "channel": "아베크성형외과 AVEC Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=WZNsxFfZTKQ&pp=ygUu7JWE67Kg7YGsIOyEse2YleyZuOqzvOydmOybkOyEse2YleyZuOqzvCBLb3JlYQ%3D%3D",
+            "url": "https://www.youtube.com/watch?v=WZNsxFfZTKQ&pp=ygUi7JWE67Kg7YGsIOyEse2YleyZuOqzvOydmOybkCBLb3JlYQ%3D%3D",
             "view_text": "745 views"
           },
           {
             "title": "\"여유증 수술하고 가슴에 피멍과 물이 차요\"",
             "channel": "아베크성형외과 AVEC Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=y17rjVpFXRY&pp=ygUu7JWE67Kg7YGsIOyEse2YleyZuOqzvOydmOybkOyEse2YleyZuOqzvCBLb3JlYQ%3D%3D",
+            "url": "https://www.youtube.com/watch?v=y17rjVpFXRY&pp=ygUi7JWE67Kg7YGsIOyEse2YleyZuOqzvOydmOybkCBLb3JlYQ%3D%3D",
             "view_text": "2.6K views"
           },
           {
             "title": "\"코 끝이 뾰족해지면 복코가 개선되나요?\" ㅣ코 끝 성형의 진실",
             "channel": "아베크성형외과 AVEC Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=wfAmv3nsHAo&pp=ygUu7JWE67Kg7YGsIOyEse2YleyZuOqzvOydmOybkOyEse2YleyZuOqzvCBLb3JlYQ%3D%3D",
-            "view_text": "398 views"
+            "url": "https://www.youtube.com/watch?v=wfAmv3nsHAo&pp=ygUi7JWE67Kg7YGsIOyEse2YleyZuOqzvOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "399 views"
+          },
+          {
+            "title": "\"여유증 수술 아플까요?\"  ㅣ 수술 후 통증은 얼마나?",
+            "channel": "아베크성형외과 AVEC Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=92UlRCGORZo&pp=ygUi7JWE67Kg7YGsIOyEse2YleyZuOqzvOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "16K views"
           },
           {
             "title": "벌렁벌렁 내 콧구멍, 용코를 교정하는 '비공내리기'",
             "channel": "아베크성형외과 AVEC Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=6ufLACn1tu0&pp=ygUu7JWE67Kg7YGsIOyEse2YleyZuOqzvOydmOybkOyEse2YleyZuOqzvCBLb3JlYQ%3D%3D",
+            "url": "https://www.youtube.com/watch?v=6ufLACn1tu0&pp=ygUi7JWE67Kg7YGsIOyEse2YleyZuOqzvOydmOybkCBLb3JlYQ%3D%3D",
             "view_text": "3.3K views"
           },
           {
             "title": "'구순열 코성형' ㅣ어떻게?! 실제 수술 사례.JPG",
             "channel": "아베크성형외과 AVEC Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=VGzofrTTuBo&pp=ygUu7JWE67Kg7YGsIOyEse2YleyZuOqzvOydmOybkOyEse2YleyZuOqzvCBLb3JlYQ%3D%3D",
-            "view_text": "1.5K views"
-          },
-          {
-            "title": "\"여유증 수술 아플까요?\"  ㅣ 수술 후 통증은 얼마나?",
-            "channel": "아베크성형외과 AVEC Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=92UlRCGORZo&pp=ygUu7JWE67Kg7YGsIOyEse2YleyZuOqzvOydmOybkOyEse2YleyZuOqzvCBLb3JlYQ%3D%3D",
-            "view_text": "16K views"
-          },
-          {
-            "title": "여유증 바이오본드 ㅣ회복과정인가요? 부작용인가요?",
-            "channel": "아베크성형외과 AVEC Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=FItv_XMmtsE&pp=ygUu7JWE67Kg7YGsIOyEse2YleyZuOqzvOydmOybkOyEse2YleyZuOqzvCBLb3JlYQ%3D%3D",
+            "url": "https://www.youtube.com/watch?v=VGzofrTTuBo&pp=ygUi7JWE67Kg7YGsIOyEse2YleyZuOqzvOydmOybkCBLb3JlYQ%3D%3D",
             "view_text": "1.5K views"
           },
           {
             "title": "여유증 왜 생김? ㅣ수술이 답이다 vs 운동하면 좋아진다?",
             "channel": "아베크성형외과 AVEC Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=To1ASJmv2OY&pp=ygUu7JWE67Kg7YGsIOyEse2YleyZuOqzvOydmOybkOyEse2YleyZuOqzvCBLb3JlYQ%3D%3D",
-            "view_text": "972 views"
+            "url": "https://www.youtube.com/watch?v=To1ASJmv2OY&pp=ygUi7JWE67Kg7YGsIOyEse2YleyZuOqzvOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "973 views"
           },
           {
-            "title": "구축코재수술, 줄기세포 치료+늑연골+진피로 해결! 【feat. 코재수술성형외과 바로코】",
-            "channel": "바로코TV",
-            "url": "https://www.youtube.com/watch?v=YOTBLropXAU&pp=ygUu7JWE67Kg7YGsIOyEse2YleyZuOqzvOydmOybkOyEse2YleyZuOqzvCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
-            "view_text": "1.3K views"
+            "title": "여유증 바이오본드 ㅣ회복과정인가요? 부작용인가요?",
+            "channel": "아베크성형외과 AVEC Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=FItv_XMmtsE&pp=ygUi7JWE67Kg7YGsIOyEse2YleyZuOqzvOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "1.5K views"
           },
           {
             "title": "🧑‍⚕️학회 밖에서 나누는 코성형 이야기_Part 2/4월31일성형외과",
             "channel": "Channel 4월31일",
-            "url": "https://www.youtube.com/watch?v=mEkDzpjHwrg&t=840s&pp=ygUu7JWE67Kg7YGsIOyEse2YleyZuOqzvOydmOybkOyEse2YleyZuOqzvCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "url": "https://www.youtube.com/watch?v=mEkDzpjHwrg&pp=ygUi7JWE67Kg7YGsIOyEse2YleyZuOqzvOydmOybkCBLb3JlYQ%3D%3D",
             "view_text": "361 views"
+          },
+          {
+            "title": "고주영 원장님이 아틀리에성형외과를 개원한 이유는?",
+            "channel": "고주영의 아틀리에",
+            "url": "https://www.youtube.com/watch?v=VXYS20FYVbQ&pp=ygUi7JWE67Kg7YGsIOyEse2YleyZuOqzvOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "780 views"
           }
         ]
       }
@@ -132,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 7,
-  "opportunity_cost_thb": 93000,
-  "opportunity_cost_krw": 3720000
+  "global_score": 9,
+  "opportunity_cost_thb": 91000,
+  "opportunity_cost_krw": 3640000
 }

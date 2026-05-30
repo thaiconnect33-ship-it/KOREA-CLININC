@@ -1,0 +1,148 @@
+{
+  "query": "블리비의원 잠실점",
+  "generated_at": "2026-05-29T12:06:00.198Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 5022,
+      "extra": {
+        "place_id": "2000076573",
+        "name": "블리비의원 잠실점 : 네이버\u001c",
+        "visitor_review_count": 1326,
+        "blog_review_count": 3696,
+        "detail_url": "https://m.place.naver.com/place/2000076573/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "블리비의원 잠실점",
+        "rating": 4.8,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 12315508,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "\"엉터리 정보에 속지마세요.\" 진료과목 피부과 의사가 뽑은 가성비 시술 딱 '3가지'",
+            "channel": "지식인사이드",
+            "url": "https://www.youtube.com/watch?v=a4S4JNnRIXQ&pp=ygUf67iU66as67mE7J2Y7JuQIOyeoOyLpOygkCBLb3JlYQ%3D%3D",
+            "view_text": "1.7M views"
+          },
+          {
+            "title": "블리비에 아이폰이 떴다??",
+            "channel": "블리비의원",
+            "url": "https://www.youtube.com/watch?v=ghdzjmNRy_A&pp=ygUf67iU66as67mE7J2Y7JuQIOyeoOyLpOygkCBLb3JlYQ%3D%3D",
+            "view_text": "4.7K views"
+          },
+          {
+            "title": "[PLAYLIST] 블리비니 플레이리스트 01 🎧🎶",
+            "channel": "블리비니 velyBINI",
+            "url": "https://www.youtube.com/watch?v=XHQFhdpRk_k&list=RDXHQFhdpRk_k&start_radio=1&pp=ygUf67iU66as67mE7J2Y7JuQIOyeoOyLpOygkCBLb3JlYaAHAQ%3D%3D",
+            "view_text": "1.5K views"
+          },
+          {
+            "title": "전직 10년차 직원이 말하는 피부과에서 일하면 안 되는 이유 4가지",
+            "channel": "소의튜브soytube",
+            "url": "https://www.youtube.com/watch?v=9TedcQ1CKwM&pp=ygUf67iU66as67mE7J2Y7JuQIOyeoOyLpOygkCBLb3JlYQ%3D%3D",
+            "view_text": "147K views"
+          },
+          {
+            "title": "[PLAYLIST] 블리비니 클래식 Vol. 01 🎹✨",
+            "channel": "블리비니 velyBINI",
+            "url": "https://www.youtube.com/watch?v=MwFjTNlkfis&list=RDMwFjTNlkfis&start_radio=1&pp=ygUf67iU66as67mE7J2Y7JuQIOyeoOyLpOygkCBLb3JlYaAHAQ%3D%3D",
+            "view_text": "1.1K views"
+          },
+          {
+            "title": "What kind of treatments do I get? I’m telling you everything💆🏻‍♀️",
+            "channel": "최종시안",
+            "url": "https://www.youtube.com/watch?v=8W31tqhdvLA&pp=ygUf67iU66as67mE7J2Y7JuQIOyeoOyLpOygkCBLb3JlYQ%3D%3D",
+            "view_text": "1M views"
+          },
+          {
+            "title": "피부과 10년차가 말하는 받으면 호구되는 시술 3가지",
+            "channel": "소의튜브soytube",
+            "url": "https://www.youtube.com/watch?v=fiJ6_nrjt7A&pp=ygUf67iU66as67mE7J2Y7JuQIOyeoOyLpOygkCBLb3JlYQ%3D%3D",
+            "view_text": "1.4M views"
+          },
+          {
+            "title": "5 Dermatological Treatments That Will Make You Satisfied, According to a Gangnam Doctor",
+            "channel": "동네 의사 이상욱",
+            "url": "https://www.youtube.com/watch?v=C2RiYo2QlQs&pp=ygUf67iU66as67mE7J2Y7JuQIOyeoOyLpOygkCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "1.3M views"
+          },
+          {
+            "title": "The Inconvenient Truth About Botox, Explained by a Former Dermatologist with 10 Years of Experien...",
+            "channel": "소의튜브soytube",
+            "url": "https://www.youtube.com/watch?v=FfrZHXsNzVo&pp=ygUf67iU66as67mE7J2Y7JuQIOyeoOyLpOygkCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "647K views"
+          },
+          {
+            "title": "\"Dermatologists don't tell you...\" We recommend popular youth-enhancing procedures these days. We...",
+            "channel": "박지윤의 피부 설명서",
+            "url": "https://www.youtube.com/watch?v=EFB-McCJG48&pp=ygUf67iU66as67mE7J2Y7JuQIOyeoOyLpOygkCBLb3JlYQ%3D%3D",
+            "view_text": "444K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 90000,
+  "opportunity_cost_krw": 3600000
+}

@@ -1,6 +1,6 @@
 {
   "query": "코미인의원",
-  "generated_at": "2026-05-29T00:05:10.380Z",
+  "generated_at": "2026-05-29T12:51:42.025Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 64593,
+        "total_views": 12098687,
         "foreign_video_count": 1,
         "lang_breakdown": {
           "korean": 19,
@@ -59,64 +59,64 @@
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "코미인TV//코성형만 10000건!!  Dr.초이의 망가진코 이야기!!",
-            "channel": "코미인TV",
-            "url": "https://www.youtube.com/watch?v=6bsczp5_wZ0&pp=ygUh7L2U66-47J247J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "244"
-          },
-          {
             "title": "코미인TV// 코 달인 Dr.초이가 말하는강남 성형외과에 대하여!!!(+Dr. 초이의 일탈 영상 추가)",
             "channel": "코미인TV",
-            "url": "https://www.youtube.com/watch?v=sFZ6HMo4eLA&pp=ygUh7L2U66-47J247J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
-            "view_text": "122"
+            "url": "https://www.youtube.com/watch?v=sFZ6HMo4eLA&pp=ygUV7L2U66-47J247J2Y7JuQIEtvcmVh",
+            "view_text": "122 views"
           },
           {
             "title": "코미인성형",
             "channel": "트로트 가수 김지현TV",
-            "url": "https://www.youtube.com/watch?v=9wMV77feF24&pp=ygUh7L2U66-47J247J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "220"
+            "url": "https://www.youtube.com/watch?v=9wMV77feF24&pp=ygUV7L2U66-47J247J2Y7JuQIEtvcmVh",
+            "view_text": "220 views"
+          },
+          {
+            "title": "코미인TV//코성형만 10000건!!  Dr.초이의 망가진코 이야기!!",
+            "channel": "코미인TV",
+            "url": "https://www.youtube.com/watch?v=6bsczp5_wZ0&pp=ygUV7L2U66-47J247J2Y7JuQIEtvcmVh",
+            "view_text": "244 views"
           },
           {
             "title": "성형을 제일 잘하는 병원 (010 9341 9061)",
             "channel": "트로트 가수 김지현TV",
-            "url": "https://www.youtube.com/watch?v=gez8eEd2BaE&pp=ygUh7L2U66-47J247J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
-            "view_text": "986"
+            "url": "https://www.youtube.com/watch?v=gez8eEd2BaE&pp=ygUV7L2U66-47J247J2Y7JuQIEtvcmVh",
+            "view_text": "986 views"
           },
           {
             "title": "노화방지 학술대회 - 코미인성형외과 최종무원장",
             "channel": "msungjae",
-            "url": "https://www.youtube.com/watch?v=twchQWCimGk&pp=ygUh7L2U66-47J247J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "596"
+            "url": "https://www.youtube.com/watch?v=twchQWCimGk&pp=ygUV7L2U66-47J247J2Y7JuQIEtvcmVh",
+            "view_text": "596 views"
           },
           {
             "title": "콧볼 예쁘게 줄이고 코미인되기 / 노원연세성형외과",
             "channel": "knowledger12",
-            "url": "https://www.youtube.com/watch?v=A1wODZg9fsc&pp=ygUh7L2U66-47J247J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "839"
+            "url": "https://www.youtube.com/watch?v=A1wODZg9fsc&pp=ygUV7L2U66-47J247J2Y7JuQIEtvcmVh",
+            "view_text": "839 views"
           },
           {
             "title": "강남성형외과 베스트리뷰 TOP5병원",
             "channel": "봄의환희",
-            "url": "https://www.youtube.com/watch?v=J1Nug-Oqxxs&pp=ygUh7L2U66-47J247J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "4.4K"
+            "url": "https://www.youtube.com/watch?v=J1Nug-Oqxxs&pp=ygUV7L2U66-47J247J2Y7JuQIEtvcmVh",
+            "view_text": "4.4K views"
           },
           {
             "title": "'원래부터 오똑했던 모태 코미인 처럼' | 김준호 박사의 상담실 EP. 5",
             "channel": "김준호박사의 상담실",
-            "url": "https://www.youtube.com/watch?v=ibbyAbtmGK0&pp=ygUh7L2U66-47J247J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
-            "view_text": "3.5K"
+            "url": "https://www.youtube.com/watch?v=ibbyAbtmGK0&pp=ygUV7L2U66-47J247J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "3.5K views"
           },
           {
-            "title": "5분만에 코끝미인으로?! 미스코시술 part1│FI PLASTIC SURGERY CLINIC 에프아이 성형외과",
-            "channel": "에프아이성형외과 FI Plastic Surgery Clinic",
-            "url": "https://www.youtube.com/watch?v=aUHSPVoMI38&pp=ygUh7L2U66-47J247J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "898"
+            "title": "코미인 사용설명서",
+            "channel": "곰돌팜",
+            "url": "https://www.youtube.com/watch?v=g-sRi3Jd7uU&pp=ygUV7L2U66-47J247J2Y7JuQIEtvcmVh",
+            "view_text": "4.2K views"
           },
           {
-            "title": "코성형 마스크벗기 싫으신분? 코가 걱정되십니까? 코성형 탑스코로 해결하자",
-            "channel": "KS강남삼성성형외과 TV - KsamsungTV",
-            "url": "https://www.youtube.com/watch?v=TgvVYLxP5SI&pp=ygUh7L2U66-47J247J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.7K"
+            "title": "연예인 코.. 하고 싶다. (feat.에스파, 뉴진스)",
+            "channel": "이쁜게 다비다 (다비다성형외과)",
+            "url": "https://www.youtube.com/watch?v=pwYSORd-8Bo&pp=ygUV7L2U66-47J247J2Y7JuQIEtvcmVh",
+            "view_text": "215 views"
           }
         ]
       }
@@ -132,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

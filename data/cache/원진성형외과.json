@@ -1,6 +1,6 @@
 {
   "query": "원진성형외과",
-  "generated_at": "2026-05-29T05:45:24.659Z",
+  "generated_at": "2026-05-29T10:11:31.956Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 50042,
+        "total_views": 21934,
         "foreign_video_count": 20,
         "lang_breakdown": {
           "korean": 0,
@@ -71,6 +71,12 @@
             "view_text": "1.4K views"
           },
           {
+            "title": "Facial Contouring in Wonjin Plastic Surgery: Mini Vlog ✨ #plasticsurgerykorea",
+            "channel": "WONJIN PLASTIC SURGERY INTERNATIONAL",
+            "url": "https://www.youtube.com/watch?v=FzpMwZ8XXpg&pp=ygUcV29uamluIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "75 views"
+          },
+          {
             "title": "\"Unlocking Beauty: Transformations at Wonjin Plastic Surgery\"",
             "channel": "Mediworld Middle East",
             "url": "https://www.youtube.com/watch?v=vBgEilqFU6w&pp=ygUcV29uamluIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
@@ -83,12 +89,6 @@
             "view_text": "5.2K views"
           },
           {
-            "title": "Facial Contouring in Wonjin Plastic Surgery: Mini Vlog ✨ #plasticsurgerykorea",
-            "channel": "WONJIN PLASTIC SURGERY INTERNATIONAL",
-            "url": "https://www.youtube.com/watch?v=FzpMwZ8XXpg&pp=ygUcV29uamluIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
-            "view_text": "74 views"
-          },
-          {
             "title": "wonjin plastic surgery [wonjinbeauty.com]",
             "channel": "WONJIN Plastic surgery KOREA",
             "url": "https://www.youtube.com/watch?v=qrcz4dfcKtM&pp=ygUcV29uamluIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
@@ -97,14 +97,8 @@
           {
             "title": "2021 Spring, Wonjin Plastic Surgery newly starts as \"WJ Wonjin Plastic Surgery\"",
             "channel": "WONJIN Plastic surgery KOREA",
-            "url": "https://www.youtube.com/watch?v=zBmHfmZVvec&pp=ygUcV29uamluIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "url": "https://www.youtube.com/watch?v=zBmHfmZVvec&pp=ygUcV29uamluIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
             "view_text": "216 views"
-          },
-          {
-            "title": "re-operation [Wonjin Beauty Medical Group]",
-            "channel": "WONJIN Plastic surgery KOREA",
-            "url": "https://www.youtube.com/watch?v=8Qi8JbcTzG4&pp=ygUcV29uamluIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
-            "view_text": "201 views"
           },
           {
             "title": "quick procedure, filler injection[Wonjin Beauty Medical Group]",
@@ -113,10 +107,16 @@
             "view_text": "41 views"
           },
           {
-            "title": "Petit treatment in korea [wonjin plastic surgery]",
+            "title": "re-operation [Wonjin Beauty Medical Group]",
             "channel": "WONJIN Plastic surgery KOREA",
-            "url": "https://www.youtube.com/watch?v=-_0ytgPyMfU&pp=ygUcV29uamluIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
-            "view_text": "69 views"
+            "url": "https://www.youtube.com/watch?v=8Qi8JbcTzG4&pp=ygUcV29uamluIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "201 views"
+          },
+          {
+            "title": "[SUB] post-eye surgery care Part 1ㅣOn the day of surgery ~ before stitches are removed",
+            "channel": "WONJIN Plastic surgery KOREA",
+            "url": "https://www.youtube.com/watch?v=ucLQ-pNkgK8&pp=ygUcV29uamluIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "213 views"
           }
         ]
       }

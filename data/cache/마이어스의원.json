@@ -1,6 +1,6 @@
 {
   "query": "마이어스의원",
-  "generated_at": "2026-05-28T22:18:39.130Z",
+  "generated_at": "2026-05-29T10:55:17.917Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -18,18 +18,18 @@
     "google_maps": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 3,
+      "metric_value": 0,
       "extra": {
-        "name": "Results",
+        "name": "마이어스의원",
         "rating": 5,
-        "total_reviews": 3,
-        "sample_size": 6,
-        "foreign_language_reviews": 6,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 6
+          "english_other": 0
         }
       }
     },
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 9403,
+        "total_views": 11961423,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -59,64 +59,64 @@
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "[망우동 우림시장 바른정형외과] 마이어스 칵테일 주사",
-            "channel": "바른정형외과의원",
-            "url": "https://www.youtube.com/watch?v=QQIvQS27q_U&pp=ygUk66eI7J207Ja07Iqk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "5K views"
+            "title": "미 하원의원 \"동맹국인 한국 얼굴 정면으로 한 방 먹인 것\" / JTBC 뉴스룸",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=ewGE8wsyFDE&pp=ygUY66eI7J207Ja07Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "949K views"
           },
           {
-            "title": "해외환자이송 해외환자 응급환자 국내이송 문의전화 02 839 5544 서울구로디지털의원 내과 정형외과 피부과 성형외과 외래진료 PRP PDRN SVF 소르젠 도수치료 통증치료",
-            "channel": "성형외과전화팔삼구오오사사",
-            "url": "https://www.youtube.com/watch?v=0ORzALdHSpc&pp=ygUk66eI7J207Ja07Iqk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "16 views"
+            "title": "한국 정전협정 70주년 기념식  거행, 오레곤 한국전쟁 기념재단 주최",
+            "channel": "KBS WATV / 시애틀",
+            "url": "https://www.youtube.com/watch?v=V3teY_s5s1k&pp=ygUY66eI7J207Ja07Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "950 views"
           },
           {
-            "title": "수액 치료 주사의 종류로는 감기 기관지염  갱년기 회복 남성 활력 코로나 회복 마이어스 혈액순환 간 해독 인지 개선 효도 면역 대상포진 등 있어요",
-            "channel": "성형외과전화팔삼구오오사사",
-            "url": "https://www.youtube.com/watch?v=aaT6GLi4vrU&pp=ygUk66eI7J207Ja07Iqk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "42 views"
+            "title": "[모내기클럽] 탈모 극복하려다 00까지...? 에피소드 대방출! MBN 230218 방송",
+            "channel": "MBN Entertainment",
+            "url": "https://www.youtube.com/watch?v=IlkQDOCW_1Y&pp=ygUY66eI7J207Ja07Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "1.6K views"
           },
           {
-            "title": "광주 비타민주사 백옥/신데렐라주사 멀티블루 _ K성형외과",
-            "channel": "광주케이스타의원│케이스타성형외과",
-            "url": "https://www.youtube.com/watch?v=XMcVnxAyGPE&pp=ygUk66eI7J207Ja07Iqk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "2.4K views"
+            "title": "피부MBTI ? 위기만 버티면 꿀피부! '고진감래형' vs 총체적 난국 '민감성피부'",
+            "channel": "장비병 걸린 닥터들, 동안중심",
+            "url": "https://www.youtube.com/watch?v=mk5nUFfdfkE&pp=ygUY66eI7J207Ja07Iqk7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "1.3K views"
           },
           {
-            "title": "의사 처방전 서비스 마약검사 변호사 경찰관 관련 법무부 채용 신체 검사 의료 기관 지정서 취득한 서울 구로 디지털 내과 의원 내과 이비인후과 비뇨기과 산부인과 피부과 외과 성형외과",
-            "channel": "성형외과전화팔삼구오오사사",
-            "url": "https://www.youtube.com/watch?v=GUXsQXXAx_s&pp=ygUk66eI7J207Ja07Iqk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "308 views"
+            "title": "구로내과에서 의사 처방전 노화방지 노년내과 갱년기 골다공증 고지혈증 잘 하는 서울 구로 디지털 내과 의원 한인권 박사님 서울대학교 의과대학 대통령 영부인 주치의 삼성  주치의",
+            "channel": "성형외과 피부과 내과 정형외과 가정의학과",
+            "url": "https://www.youtube.com/watch?v=vRiQACIgZJI&pp=ygUY66eI7J207Ja07Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "12 views"
           },
           {
-            "title": "OBS TV주치의 433회 정맥영양주사_by 청담명작성형외과 박준한 원장",
-            "channel": "청담명작성형외과",
-            "url": "https://www.youtube.com/watch?v=WoWWPtEgGH8&pp=ygUk66eI7J207Ja07Iqk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "395 views"
+            "title": "운동 운동치료 도수치료 재활치료 통증 치료 등 내과에서 진료 및 처방 잘하는 서울 구로 디지털 내과 의원 한인권 박사님 서울대학교 의과대학 졸업 내분비 내과 전문의",
+            "channel": "성형외과 피부과 내과 정형외과 가정의학과",
+            "url": "https://www.youtube.com/watch?v=xO3x8pr2GvI&pp=ygUY66eI7J207Ja07Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "8 views"
           },
           {
-            "title": "외국인 마약검사 중국인 마약검사 연예인 마약검사 암 검사 혈액 암 유전자 종합 검사 독감 코로나 검사 방광염 검사 골밀도 검사 등 내과 진료 처방은 서울 구로 디지털 내과 의원",
-            "channel": "성형외과전화팔삼구오오사사",
-            "url": "https://www.youtube.com/watch?v=StQ5iSxr4QY&pp=ygUk66eI7J207Ja07Iqk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "title": "[정면] 보헤미안 랩소디 흥행 열풍… 식지 않는 ‘퀸’ 신드롬-김도헌 음악평론가 11.22(목.../ YTN 라디오",
+            "channel": "YTN 라디오",
+            "url": "https://www.youtube.com/watch?v=kEBYgyupb8o&pp=ygUY66eI7J207Ja07Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "5.3K views"
+          },
+          {
+            "title": "노화방지 갱년기 회복 골다공증 고지혈증 당뇨 고혈압 등 만성질환 예방을 위한 노년내과 노화방지 특성화 구로내과는 구로 디지털 내과 의원 혹은 서울 구로 디지털 내과 의원는 노화방지",
+            "channel": "성형외과 피부과 내과 정형외과 가정의학과",
+            "url": "https://www.youtube.com/watch?v=mEocgL1XsuU&pp=ygUY66eI7J207Ja07Iqk7J2Y7JuQIEtvcmVh",
             "view_text": "7 views"
           },
           {
-            "title": "백옥 주사 미백 주사 필러 주사 신데렐라 주사 비만 치료 수액 진료 처방 주사 등 다양한 미용 수액 비만 관리 수액 진료 영양제 주사 성장 호르몬 주사 서울 구로 디지털 내과 의원",
-            "channel": "성형외과전화팔삼구오오사사",
-            "url": "https://www.youtube.com/watch?v=5r1uYb22EiY&pp=ygUk66eI7J207Ja07Iqk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "20 views"
+            "title": "사단법인 대한민국힐링문화진흥원 ‘2022 대한민국 힐링대상’ 수상자를 발표 뉴스114 최규리기자 글로벌뉴스114",
+            "channel": "뉴스114 TV",
+            "url": "https://www.youtube.com/watch?v=Rv0SfxYXnBY&pp=ygUY66eI7J207Ja07Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "578 views"
           },
           {
-            "title": "02 839 5544 갑상선암 갑상선 기능 검사 갑상선 초음파 검사 혈액 검사 마약검사 수액 처방 잘 하는 서울 구로 디지털 의원 한인권 박사님 고혈압 당뇨 고지혈증 골다공증",
-            "channel": "성형외과전화팔삼구오오사사",
-            "url": "https://www.youtube.com/watch?v=Th-uwDBqFiw&pp=ygUk66eI7J207Ja07Iqk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "11 views"
-          },
-          {
-            "title": "채용 마약검사 입영 마약검사 공무원 마약 검사 경찰관 마약검사 변호사 마약검사 연예인 마약검사는 법무부 장관 지정서 받은 서울 구로 디지털 내과 의원",
-            "channel": "성형외과전화팔삼구오오사사",
-            "url": "https://www.youtube.com/watch?v=3-Jobd0YO9w&pp=ygUk66eI7J207Ja07Iqk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "11 views"
+            "title": "왜 언론은 세계의 칭찬에 주목하지 않을까? / YTN",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=CZ9qWeIfYfY&pp=ygUY66eI7J207Ja07Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "293K views"
           }
         ]
       }
@@ -132,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 3,
-  "opportunity_cost_thb": 97000,
-  "opportunity_cost_krw": 3880000
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
 }

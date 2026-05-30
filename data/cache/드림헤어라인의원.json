@@ -1,16 +1,18 @@
 {
   "query": "드림헤어라인의원",
-  "generated_at": "2026-05-28T23:56:47.809Z",
+  "generated_at": "2026-05-29T12:43:34.828Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 2562,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "12772456",
+        "name": "드림헤어라인의원 : 네이버\u001c",
+        "visitor_review_count": 482,
+        "blog_review_count": 2080,
+        "detail_url": "https://m.place.naver.com/place/12772456/home"
       }
     },
     "google_maps": {
@@ -21,13 +23,13 @@
         "name": "DREAM HAIRLINE(Hair Transplant Group Korea)",
         "rating": 5,
         "total_reviews": 201,
-        "sample_size": 0,
-        "foreign_language_reviews": 0,
+        "sample_size": 20,
+        "foreign_language_reviews": 20,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 0
+          "english_other": 20
         }
       }
     },
@@ -45,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 3095601,
+        "total_views": 1971769,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -57,64 +59,64 @@
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "헤어라인 모발이식 가격(feat.병원마다 비용 차이나는 이유, 부위별 이식 비용 차이)",
-            "channel": "탈모의사 모리의원 이상욱",
-            "url": "https://www.youtube.com/watch?v=bZ-ycrMW5Ug&pp=ygUt65Oc66a87Zek7Ja065287J247J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "12K views"
+            "title": "모발이식 수술 당일 가이드+리얼 인터뷰",
+            "channel": "드림헤어라인·모발이식·헤어라인교정",
+            "url": "https://www.youtube.com/watch?v=VXsOsAG0cpw&pp=ygUe65Oc66a87Zek7Ja065287J247J2Y7JuQIEtvcmVh",
+            "view_text": "168 views"
           },
           {
-            "title": "이마 트러블 필수시청🚨 이마 트러블 없애는 방법 | 연세에이엔비피부과 이해진 원장",
-            "channel": "이해진의황금피부",
-            "url": "https://www.youtube.com/watch?v=WBViFSre8Ps&pp=ygUt65Oc66a87Zek7Ja065287J247J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "7.3K views"
+            "title": "⭐필수시청⭐ 모발이식 후 가장 중요한 시기는?",
+            "channel": "드림헤어라인·모발이식·헤어라인교정",
+            "url": "https://www.youtube.com/watch?v=tG75cQ6NwLs&pp=ygUe65Oc66a87Zek7Ja065287J247J2Y7JuQIEtvcmVh",
+            "view_text": "1.1M views"
           },
           {
-            "title": "모발 이식 4년 후.. 후기, 부작용, 가격 싹 다 알려드립니다.",
-            "channel": "비트 BTE",
-            "url": "https://www.youtube.com/watch?v=6ONxOVGuC3o&pp=ygUt65Oc66a87Zek7Ja065287J247J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "231K views"
+            "title": "언주역에서 드림헤어라인의원 가는 방법 (도보 안내)",
+            "channel": "드림헤어라인·모발이식·헤어라인교정",
+            "url": "https://www.youtube.com/watch?v=I7aWqorNNzc&pp=ygUe65Oc66a87Zek7Ja065287J247J2Y7JuQIEtvcmVh",
+            "view_text": "156 views"
           },
           {
-            "title": "모발이식 암흑기 알고는 있지만  맨들맨들 하고 모공조차 안보입니다.",
-            "channel": "루트테마피부과 (루트모발이식센터)",
-            "url": "https://www.youtube.com/watch?v=9jLBAj9nKys&pp=ygUt65Oc66a87Zek7Ja065287J247J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "20K views"
+            "title": "드림헤어라인 모발이식 수술 당일 가이드 안내!",
+            "channel": "드림헤어라인·모발이식·헤어라인교정",
+            "url": "https://www.youtube.com/watch?v=AUlG1i6jOrE&pp=ygUe65Oc66a87Zek7Ja065287J247J2Y7JuQIEtvcmVh",
+            "view_text": "305 views"
           },
           {
-            "title": "What kind of treatments do I get? I’m telling you everything💆🏻‍♀️",
-            "channel": "최종시안",
-            "url": "https://www.youtube.com/watch?v=8W31tqhdvLA&pp=ygUt65Oc66a87Zek7Ja065287J247J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "1M views"
+            "title": "리프팅, 이마거상 왜 해..? 20대 헤어라인교정 후기!",
+            "channel": "드림헤어라인·모발이식·헤어라인교정",
+            "url": "https://www.youtube.com/watch?v=1pt-4b83VRg&pp=ygUe65Oc66a87Zek7Ja065287J247J2Y7JuQIEtvcmVh",
+            "view_text": "420 views"
           },
           {
-            "title": "[모힐TV] 겨우 2,300모 모발이식으로 M자탈모와 헤어라인 완벽커버가 가능해? 모힐에서는 가능해!",
-            "channel": "모힐의원 [모발이식, 헤어라인 교정]",
-            "url": "https://www.youtube.com/watch?v=91IwP3QCCPw&pp=ygUt65Oc66a87Zek7Ja065287J247J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "421 views"
+            "title": "역삼역에서 드림헤어라인의원 가는 방법 (도보 안내)",
+            "channel": "드림헤어라인·모발이식·헤어라인교정",
+            "url": "https://www.youtube.com/watch?v=aT9xeC7jyKw&pp=ygUe65Oc66a87Zek7Ja065287J247J2Y7JuQIEtvcmVh",
+            "view_text": "91 views"
           },
           {
-            "title": "[Hair Transplant] Will the 6,000 hairs transplanted survive? Two-Incision Hair Transplant: Result...",
-            "channel": "탈모 극복 No.1 - 털업",
-            "url": "https://www.youtube.com/watch?v=fwuOAStBEew&pp=ygUt65Oc66a87Zek7Ja065287J247J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "1.6M views"
+            "title": "모발이식 할 때 원하는 디자인으로 가능할까? #헤어라인교정 #드림헤어라인",
+            "channel": "드림헤어라인·모발이식·헤어라인교정",
+            "url": "https://www.youtube.com/watch?v=Lu4y-xx9NCY&pp=ygUe65Oc66a87Zek7Ja065287J247J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "555 views"
           },
           {
-            "title": "지금 당장 조합 약💊 복용을 중단하세요😱ㅣ탈모약 궁금한 모든걸 풀어드림!ㅣ스피로노락톤2편(.feat안지현)ㅣ다나성형외과(DANA)ㅣ모발이식ㅣ헤어라인교정ㅣ두피문신ㅣ탈모치료",
-            "channel": "다나성형외과 DANA Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=DPW6pPf1SLA&pp=ygUt65Oc66a87Zek7Ja065287J247J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "title": "예.. 원장님도 모발이식 합니다😂 드림헤어라인 원장님의 모발이식 전 인터뷰!",
+            "channel": "드림헤어라인·모발이식·헤어라인교정",
+            "url": "https://www.youtube.com/watch?v=EqF3tjdNN-A&pp=ygUe65Oc66a87Zek7Ja065287J247J2Y7JuQIEtvcmVh",
             "view_text": "10K views"
           },
           {
-            "title": "[설 특집] 다이어트, 패션, 탈모 꿀팁이 여기 다 있네? 언니도 FLEX 수다 모음.zip ㅣ 언니도 FLEX",
-            "channel": "메종레아",
-            "url": "https://www.youtube.com/watch?v=daP4U3OAkSk&pp=ygUt65Oc66a87Zek7Ja065287J247J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "1K views"
+            "title": "모발이식 병원 #압구정드림헤어라인 실장이 👉직접👈 받아본 #헤어라인교정 솔직 후기",
+            "channel": "드림헤어라인·모발이식·헤어라인교정",
+            "url": "https://www.youtube.com/watch?v=eoucqhqqGAw&pp=ygUe65Oc66a87Zek7Ja065287J247J2Y7JuQIEtvcmVh",
+            "view_text": "1.1K views"
           },
           {
-            "title": "내돈내산 대란 속눈썹영양제 한쪽만 바르기 챌린지 (헤어라인 후기/ 부작용/ 다크서클/ 속눈썹영양제 바르는법) [마롱실험실]",
-            "channel": "마롱 marong",
-            "url": "https://www.youtube.com/watch?v=0NHuEUJ6slA&pp=ygUt65Oc66a87Zek7Ja065287J247J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "172K views"
+            "title": "예쁜 헤어라인 갖는방법 어렵지 않은데요? 1,000만 심어도 달라짐❤️ (드림헤어라인 헤어라인교정)",
+            "channel": "드림헤어라인·모발이식·헤어라인교정",
+            "url": "https://www.youtube.com/watch?v=NLWNsG_GjpI&pp=ygUe65Oc66a87Zek7Ja065287J247J2Y7JuQIEtvcmVh",
+            "view_text": "823K views"
           }
         ]
       }
@@ -130,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 0,
-  "opportunity_cost_thb": 100000,
-  "opportunity_cost_krw": 4000000
+  "global_score": 10,
+  "opportunity_cost_thb": 90000,
+  "opportunity_cost_krw": 3600000
 }

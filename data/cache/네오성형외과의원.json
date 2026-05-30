@@ -1,16 +1,16 @@
 {
   "query": "네오성형외과의원",
-  "generated_at": "2026-05-28T23:17:10.900Z",
+  "generated_at": "2026-05-29T11:59:25.221Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 407,
+      "metric_value": 408,
       "extra": {
         "place_id": "1063550718",
         "name": "네오성형외과의원 : 네이버\u001c",
-        "visitor_review_count": 279,
+        "visitor_review_count": 280,
         "blog_review_count": 128,
         "detail_url": "https://m.place.naver.com/place/1063550718/home"
       }
@@ -23,13 +23,13 @@
         "name": "NEO Plastic Surgery Clinic",
         "rating": 5,
         "total_reviews": 24,
-        "sample_size": 23,
-        "foreign_language_reviews": 22,
+        "sample_size": 28,
+        "foreign_language_reviews": 27,
         "lang_breakdown": {
           "korean": 1,
           "thai": 0,
           "chinese": 0,
-          "english_other": 22
+          "english_other": 27
         }
       }
     },
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 15653,
+        "total_views": 14896,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -61,62 +61,62 @@
           {
             "title": "주름성형의 대가 박정일원장 -네오성형외과 - wrinkle surgery master Dr. Park , NEO",
             "channel": "여린발",
-            "url": "https://www.youtube.com/watch?v=uULRRu9ucGc&pp=ygUq64Sk7Jik7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=uULRRu9ucGc&pp=ygUe64Sk7Jik7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "700 views"
           },
           {
             "title": "아시아최고 실력파 성형외과를 가다  -  전)대한성형외과학회장 네오성형외과  정영덕 원장 인터뷰 [Best plastic surgery clinic in Asia ]",
             "channel": "여린발",
-            "url": "https://www.youtube.com/watch?v=grp0kKswQhk&pp=ygUq64Sk7Jik7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "261 views"
-          },
-          {
-            "title": "강남본점 네오성형외과",
-            "channel": "md neo",
-            "url": "https://www.youtube.com/watch?v=yj3APcHXhKM&pp=ygUq64Sk7Jik7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "129 views"
-          },
-          {
-            "title": "네오성형외과소개동영상",
-            "channel": "수녀를사랑한스님",
-            "url": "https://www.youtube.com/watch?v=TRaNl85vJt4&pp=ygUq64Sk7Jik7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.3K views"
+            "url": "https://www.youtube.com/watch?v=grp0kKswQhk&pp=ygUe64Sk7Jik7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "262 views"
           },
           {
             "title": "KBS 야생화 박정일",
             "channel": "NeoPlasticSurgery",
-            "url": "https://www.youtube.com/watch?v=8oQuqAXj9yM&pp=ygUq64Sk7Jik7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=8oQuqAXj9yM&pp=ygUe64Sk7Jik7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "192 views"
-          },
-          {
-            "title": "[Angel's Liquid X 네오성형외과] Glutathione+Spot Care Body Mist 박정일 원장",
-            "channel": "엔젤스리퀴드",
-            "url": "https://www.youtube.com/watch?v=jgw5A55Fs84&pp=ygUq64Sk7Jik7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "283 views"
           },
           {
             "title": "\"주름성형전문가  =  박정일원장 / Secret of Rejuvenation  / Fountain of youth",
             "channel": "여린발",
-            "url": "https://www.youtube.com/watch?v=oEtNdUYHrwQ&pp=ygUq64Sk7Jik7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=oEtNdUYHrwQ&pp=ygUe64Sk7Jik7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "4K views"
+          },
+          {
+            "title": "네오성형외과소개동영상",
+            "channel": "수녀를사랑한스님",
+            "url": "https://www.youtube.com/watch?v=TRaNl85vJt4&pp=ygUe64Sk7Jik7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.3K views"
+          },
+          {
+            "title": "렛미인 중국판 네오 박정일원장 출연 - Let me in ; Chinese version by Korea No.1 plastic surgeon",
+            "channel": "여린발",
+            "url": "https://www.youtube.com/watch?v=ZUd4VegiW38&pp=ygUe64Sk7Jik7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "2.1K views"
+          },
+          {
+            "title": "잘 모르고 있던 흉터의 역할 - Facts about scar part 2",
+            "channel": "여린발",
+            "url": "https://www.youtube.com/watch?v=0oyQeJT1cmA&pp=ygUe64Sk7Jik7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "87 views"
+          },
+          {
+            "title": "네오성형외과.mp4",
+            "channel": "adwitch1",
+            "url": "https://www.youtube.com/watch?v=W9uY31Fiac8&pp=ygUe64Sk7Jik7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "148 views"
           },
           {
             "title": "네오성형외과",
             "channel": "md neo",
-            "url": "https://www.youtube.com/watch?v=yMwV-uVbwQ0&pp=ygUq64Sk7Jik7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=yMwV-uVbwQ0&pp=ygUe64Sk7Jik7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
             "view_text": "67 views"
           },
           {
-            "title": "박은지의필링업16회-네오성형외과.wmv",
-            "channel": "cocowamori",
-            "url": "https://www.youtube.com/watch?v=gJw6yFoOUQI&pp=ygUq64Sk7Jik7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.8K views"
-          },
-          {
-            "title": "네오성형외과 방문 후기 = by 개그우먼 정경미  / visiting NEO plastic surgery",
+            "title": "재수술 잘하는  박정일 원장/ Top doctor  Revision surgery in Cosmetic  surgery",
             "channel": "여린발",
-            "url": "https://www.youtube.com/watch?v=e3BFgWo3M3o&pp=ygUq64Sk7Jik7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "234 views"
+            "url": "https://www.youtube.com/watch?v=2-LAvbb4_fw&pp=ygUe64Sk7Jik7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "152 views"
           }
         ]
       }
@@ -132,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 11,
-  "opportunity_cost_thb": 89000,
-  "opportunity_cost_krw": 3560000
+  "global_score": 14,
+  "opportunity_cost_thb": 86500,
+  "opportunity_cost_krw": 3460000
 }

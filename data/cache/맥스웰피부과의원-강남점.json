@@ -1,0 +1,148 @@
+{
+  "query": "맥스웰피부과의원 강남점",
+  "generated_at": "2026-05-29T12:44:49.648Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 1093,
+      "extra": {
+        "place_id": "12905297",
+        "name": "맥스웰피부과의원 강남점 : 네이버\u001c",
+        "visitor_review_count": 1043,
+        "blog_review_count": 50,
+        "detail_url": "https://m.place.naver.com/place/12905297/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Maxwell Hair Transplant Clinic",
+        "rating": 4,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 19,
+      "extra": {
+        "total_views": 15397,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 19,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 19,
+        "top_videos": [
+          {
+            "title": "\"탈모 해결 솔루션 맥스웰 피부과의 홍보 뮤직비디오\"",
+            "channel": "브이티엠 애드랩",
+            "url": "https://www.youtube.com/watch?v=njBPx4y50u4&pp=ygUo66el7Iqk7Juw7ZS867aA6rO87J2Y7JuQIOqwleuCqOygkCBLb3JlYQ%3D%3D",
+            "view_text": "36 views"
+          },
+          {
+            "title": "맥스웰피부과 박성호원장!! 모발이식 받아 본 찐 후기! 수술후기가 궁금하다면?ㅣ부산맥스웰피부과ㅣ모발이식ㅣ탈모치료",
+            "channel": "부산맥스웰TV",
+            "url": "https://www.youtube.com/watch?v=4ENQWKZStC0&pp=ygUo66el7Iqk7Juw7ZS867aA6rO87J2Y7JuQIOqwleuCqOygkCBLb3JlYQ%3D%3D",
+            "view_text": "788 views"
+          },
+          {
+            "title": "맥스웰 피부과  탈모를 인지할 수 있는 자가 진단법",
+            "channel": "삼탈모tv",
+            "url": "https://www.youtube.com/watch?v=yLNZkDnOLuw&pp=ygUo66el7Iqk7Juw7ZS867aA6rO87J2Y7JuQIOqwleuCqOygkCBLb3JlYQ%3D%3D",
+            "view_text": "458 views"
+          },
+          {
+            "title": "[건강365] 진행 느린 '여성 탈모' , 관리만 해도 충분? l 맥스웰피부과 l 051) 806-5824",
+            "channel": "캐내네 메디컬",
+            "url": "https://www.youtube.com/watch?v=aTGEykQeHT8&pp=ygUo66el7Iqk7Juw7ZS867aA6rO87J2Y7JuQIOqwleuCqOygkCBLb3JlYQ%3D%3D",
+            "view_text": "509 views"
+          },
+          {
+            "title": "2030탈모치료의 올바른 기준을 제시합니다.",
+            "channel": "busanmaxwell",
+            "url": "https://www.youtube.com/watch?v=7wBaa0frdfk&pp=ygUo66el7Iqk7Juw7ZS867aA6rO87J2Y7JuQIOqwleuCqOygkCBLb3JlYQ%3D%3D",
+            "view_text": "1.9K views"
+          },
+          {
+            "title": "2010.11.30 KBS '생생 정보통'",
+            "channel": "탈모치료, 모발이식은 역시 맥스웰피부과",
+            "url": "https://www.youtube.com/watch?v=AM7vBJK_mxk&pp=ygUo66el7Iqk7Juw7ZS867aA6rO87J2Y7JuQIOqwleuCqOygkCBLb3JlYQ%3D%3D",
+            "view_text": "600 views"
+          },
+          {
+            "title": "전두부 탈모의 모발이식 개선 효과ㅣ측두부교정ㅣ부산맥스웰피부과",
+            "channel": "부산맥스웰TV",
+            "url": "https://www.youtube.com/watch?v=EUi73sNrojg&pp=ygUo66el7Iqk7Juw7ZS867aA6rO87J2Y7JuQIOqwleuCqOygkCBLb3JlYQ%3D%3D",
+            "view_text": "112 views"
+          },
+          {
+            "title": "[건강365] 대한민국 국민 5명중 1명은 탈모? 탈모 원인과 예방법, 속설 바로 잡아드려요! (맥스웰피부과/051-806-5824)",
+            "channel": "캐내네 메디컬",
+            "url": "https://www.youtube.com/watch?v=3D-ZIkWzLl4&pp=ygUo66el7Iqk7Juw7ZS867aA6rO87J2Y7JuQIOqwleuCqOygkCBLb3JlYQ%3D%3D",
+            "view_text": "712 views"
+          },
+          {
+            "title": "[건강365] 봄바람에 휑한 두피? 탈모 치료 관건은 l 맥스웰피부과 l 051-806-5824",
+            "channel": "캐내네 메디컬",
+            "url": "https://www.youtube.com/watch?v=xx7_ekPsZeA&pp=ygUo66el7Iqk7Juw7ZS867aA6rO87J2Y7JuQIOqwleuCqOygkCBLb3JlYQ%3D%3D",
+            "view_text": "90 views"
+          },
+          {
+            "title": "MBC 다큐스페셜 - 탈모, 남기순 원장님",
+            "channel": "탈모치료, 모발이식은 역시 맥스웰피부과",
+            "url": "https://www.youtube.com/watch?v=wfwZynaFDDo&pp=ygUo66el7Iqk7Juw7ZS867aA6rO87J2Y7JuQIOqwleuCqOygkCBLb3JlYQ%3D%3D",
+            "view_text": "3.8K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 150000,
+  "opportunity_cost_krw": 6000000
+}

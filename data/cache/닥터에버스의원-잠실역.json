@@ -1,0 +1,148 @@
+{
+  "query": "닥터에버스의원 잠실역",
+  "generated_at": "2026-05-29T12:07:21.804Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 4566,
+      "extra": {
+        "place_id": "1922861972",
+        "name": "닥터에버스의원 잠실역 : 네이버\u001c",
+        "visitor_review_count": 1676,
+        "blog_review_count": 2890,
+        "detail_url": "https://m.place.naver.com/place/1922861972/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "닥터에버스의원 잠실점 | Dr.Evers Jamsil | ドクターエバーズ 蚕室(チャムシル)店 (皮膚科クリニック) | 爱肤师皮肤科蚕室店",
+        "rating": 5,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 34559603,
+        "foreign_video_count": 1,
+        "lang_breakdown": {
+          "korean": 19,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 1
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "닥터에버스 잠실점 | 피부가 고민이신 분들은 잠실점으로 찾아주세요💕",
+            "channel": "닥터에버스",
+            "url": "https://www.youtube.com/watch?v=HC35xD7Rs9U&pp=ygUl64ul7YSw7JeQ67KE7Iqk7J2Y7JuQIOyeoOyLpOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "830 views"
+          },
+          {
+            "title": "이거 배우러 러시아에서 찾아왔습니다",
+            "channel": "닥터에버스",
+            "url": "https://www.youtube.com/watch?v=LSRjxAaR2E8&pp=ygUl64ul7YSw7JeQ67KE7Iqk7J2Y7JuQIOyeoOyLpOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "750 views"
+          },
+          {
+            "title": "[Dr.Evers History] 닥터에버스 연혁 영상",
+            "channel": "닥터에버스",
+            "url": "https://www.youtube.com/watch?v=vF-K9x_d2qk&pp=ygUl64ul7YSw7JeQ67KE7Iqk7J2Y7JuQIOyeoOyLpOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "484 views"
+          },
+          {
+            "title": "[자막뉴스] \"말도 안돼, 이렇게 비싸다고?\" 피부과 시술 받고 얼마 냈길래... / KBS 2025.07.21.",
+            "channel": "KBS News",
+            "url": "https://www.youtube.com/watch?v=NMNVrhfvxpY&pp=ygUl64ul7YSw7JeQ67KE7Iqk7J2Y7JuQIOyeoOyLpOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "294K views"
+          },
+          {
+            "title": "갑자기 쓰러진 교도관…감방 문 따고 목숨 구한 죄수들 / SBS",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=ZogTuWJ8isI&pp=ygUl64ul7YSw7JeQ67KE7Iqk7J2Y7JuQIOyeoOyLpOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "8.7M views"
+          },
+          {
+            "title": "\"엉터리 정보에 속지마세요.\" 진료과목 피부과 의사가 뽑은 가성비 시술 딱 '3가지'",
+            "channel": "지식인사이드",
+            "url": "https://www.youtube.com/watch?v=a4S4JNnRIXQ&pp=ygUl64ul7YSw7JeQ67KE7Iqk7J2Y7JuQIOyeoOyLpOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "1.7M views"
+          },
+          {
+            "title": "'월세 60' 1.5평 방 내부 공개…젊은이들이 버티는 이유 (자막뉴스) / SBS",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=MLh3HMs66Ko&pp=ygUl64ul7YSw7JeQ67KE7Iqk7J2Y7JuQIOyeoOyLpOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "6.1M views"
+          },
+          {
+            "title": "[자막뉴스] \"헉! 이 언니 경찰이었어요?\" 커피 한 잔 시키더니 '돌변' (MBC뉴스)",
+            "channel": "MBCNEWS",
+            "url": "https://www.youtube.com/watch?v=nDV9ffUJljY&pp=ygUl64ul7YSw7JeQ67KE7Iqk7J2Y7JuQIOyeoOyLpOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "5.3M views"
+          },
+          {
+            "title": "90억 아파트에 혼자 사는 치과의사의 하루",
+            "channel": "아프면 손 드세요",
+            "url": "https://www.youtube.com/watch?v=g3EVFm64OuI&pp=ygUl64ul7YSw7JeQ67KE7Iqk7J2Y7JuQIOyeoOyLpOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "516K views"
+          },
+          {
+            "title": "서울아산병원 흉부외과 의사 덤프트럭에... #댓글뉴스",
+            "channel": "KNN NEWS",
+            "url": "https://www.youtube.com/watch?v=7D7TCZHYZus&pp=ygUl64ul7YSw7JeQ67KE7Iqk7J2Y7JuQIOyeoOyLpOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "1K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 1,
+  "opportunity_cost_thb": 89500,
+  "opportunity_cost_krw": 3580000
+}

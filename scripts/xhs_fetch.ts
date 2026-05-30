@@ -135,7 +135,9 @@ async function main() {
       blocked++;
       log(`  ✗ blocked`);
     }
-    const sleep = 60_000 + Math.floor(Math.random() * 30_000);
+    const baseSleep = parseInt(process.env.XHS_FETCH_SLEEP_MS || "60000", 10);
+    const jitter = parseInt(process.env.XHS_FETCH_JITTER_MS || "30000", 10);
+    const sleep = baseSleep + Math.floor(Math.random() * jitter);
     await new Promise((r) => setTimeout(r, sleep));
   }
   await browser.close();

@@ -1,16 +1,18 @@
 {
   "query": "소솜피부과의원",
-  "generated_at": "2026-05-28T23:30:08.607Z",
+  "generated_at": "2026-05-29T12:12:41.282Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 666,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "12977883",
+        "name": "소솜피부과의원 : 네이버\u001c",
+        "visitor_review_count": 580,
+        "blog_review_count": 86,
+        "detail_url": "https://m.place.naver.com/place/12977883/home"
       }
     },
     "google_maps": {
@@ -43,42 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 4,
+      "metric_value": 17,
       "extra": {
-        "total_views": 3228000,
+        "total_views": 5202429,
         "foreign_video_count": 0,
         "lang_breakdown": {
-          "korean": 4,
+          "korean": 17,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
           "english_other": 0
         },
-        "sample_size": 4,
+        "sample_size": 17,
         "top_videos": [
           {
-            "title": "피부과 시술 부작용 Vlog…ㅠ 내 피부 돌려줘.. 다신 안해…🫠ㅣMINCARONG",
-            "channel": "민카롱",
-            "url": "https://www.youtube.com/watch?v=wRJR2kY2x9w&pp=ygUq7IaM7Iac7ZS867aA6rO87J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "1.7M views"
+            "title": "시술 중단하자 \"못 줘요\"…\"잘하는 피부과랬는데\" 날벼락 / SBS 8뉴스",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=TAw-bgwY4Rs&pp=ygUb7IaM7Iac7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "36K views"
+          },
+          {
+            "title": "울쎄라, 써마지 받아도 얼굴 다시 처지는 이유. \"노화의 근본 원인 '이것'을 해결하세요\" | 피부과전문의 김협",
+            "channel": "피부텐텐 · 피부가 예뻐지는 10분",
+            "url": "https://www.youtube.com/watch?v=XQyB-faru3k&pp=ygUb7IaM7Iac7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "781K views"
+          },
+          {
+            "title": "(광고❌) 이거 모르고 피부과 가면 돈만 날려요😭  피부과의사 120명이 뽑은 후회 없는 시술 1위는? - 정한미 권수현 피부과전문의",
+            "channel": "피부텐텐 · 피부가 예뻐지는 10분",
+            "url": "https://www.youtube.com/watch?v=Cw3hRPXx5JE&pp=ygUb7IaM7Iac7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "49K views"
+          },
+          {
+            "title": "\"원장님께서 별세하셨기에\"…유명 피부과 '피해자 속출' / SBS 8뉴스",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=-3uLsD3sWGU&pp=ygUb7IaM7Iac7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "924K views"
+          },
+          {
+            "title": "“아직까지 효과없다는 사람 못봤어요” l 거의 만병통치약수준인 10년 젊어지는 동안주사",
+            "channel": "친절한 송이씨",
+            "url": "https://www.youtube.com/watch?v=n8ivh9bEba8&pp=ygUb7IaM7Iac7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "133K views"
+          },
+          {
+            "title": "강남 피부과 원장이 뽑은 동안되는 시술 3가지! 티안나게 어려지는 비결 😚정한미 피부과 전문의",
+            "channel": "피부텐텐 · 피부가 예뻐지는 10분",
+            "url": "https://www.youtube.com/watch?v=g1yz2wN3tl8&pp=ygUb7IaM7Iac7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "18K views"
           },
           {
             "title": "“20년동안 제 아내가 가장 만족했던 동안 주사 공개합니다” 강남 피부과 의사가 아내에게 해주는 또래보다 10년 젊어지는 동안주사 3가지",
             "channel": "피부는 성현철",
-            "url": "https://www.youtube.com/watch?v=z5f78sydJ8U&pp=ygUq7IaM7Iac7ZS867aA6rO87J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "332K views"
+            "url": "https://www.youtube.com/watch?v=z5f78sydJ8U&pp=ygUb7IaM7Iac7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "333K views"
           },
           {
-            "title": "The fatal flaw of skin botox? Don't waste your money by not knowing this. Be sure to check it out!",
-            "channel": "동네 의사 이상욱",
-            "url": "https://www.youtube.com/watch?v=2hxmXOZ8EOE&pp=ygUq7IaM7Iac7ZS867aA6rO87J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "402K views"
+            "title": "Instead of Botox, do you do this? There's no such thing...",
+            "channel": "친절한 송이씨",
+            "url": "https://www.youtube.com/watch?v=YyET4vBh9W8&pp=ygUb7IaM7Iac7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "10K views"
           },
           {
-            "title": "The alternative to Ulthemaji chosen by celebrities these days😎 Ask for 'this' instead of expensiv...",
-            "channel": "동네 의사 이상욱",
-            "url": "https://www.youtube.com/watch?v=TEef3hfFpx4&pp=ygUq7IaM7Iac7ZS867aA6rO87J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "794K views"
+            "title": "피부과전문의의 솔직한 인터뷰ㅣ피부 지식을 쉽게 설명하는 의사ㅣ타임리스피부과 교대점",
+            "channel": "5분피부 - 딱! 5분만 보면 좋아지는 피부",
+            "url": "https://www.youtube.com/watch?v=IfO9IhipuYw&pp=ygUb7IaM7Iac7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.3K views"
+          },
+          {
+            "title": "피부과 시술 부작용 Vlog…ㅠ 내 피부 돌려줘.. 다신 안해…🫠ㅣMINCARONG",
+            "channel": "민카롱",
+            "url": "https://www.youtube.com/watch?v=wRJR2kY2x9w&pp=ygUb7IaM7Iac7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.7M views"
           }
         ]
       }
@@ -94,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

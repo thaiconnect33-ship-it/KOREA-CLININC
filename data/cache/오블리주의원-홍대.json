@@ -1,0 +1,148 @@
+{
+  "query": "오블리주의원 홍대",
+  "generated_at": "2026-05-29T11:32:08.365Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 10478,
+      "extra": {
+        "place_id": "36999470",
+        "name": "오블리주의원 홍대 : 네이버\u001c",
+        "visitor_review_count": 2315,
+        "blog_review_count": 8163,
+        "detail_url": "https://m.place.naver.com/place/36999470/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "오블리주의원 홍대 | dermatology near me Ohvelyjoo Clinic hongdae skin clinic | Rejuran | ultherapy | オブリージュクリニック サーマクール | 歐薇麗珠診所 鳳凰電波",
+        "rating": 4.7,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 651353,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "[닥터오블리 현장스케치] 스킨부스터계의 레전드! 쥬베룩 100만 Vial 달성 기념행사에 다녀왔습니다!",
+            "channel": "lovely오블리주",
+            "url": "https://www.youtube.com/watch?v=u6Lc1a14Gyw&pp=ygUf7Jik67iU66as7KO87J2Y7JuQIO2ZjeuMgCBLb3JlYQ%3D%3D",
+            "view_text": "24K"
+          },
+          {
+            "title": "'이거' 하나면 5살 어려 보여요.. 꺼짐 리프팅 끝판왕 시술 비교 분석!",
+            "channel": "lovely오블리주",
+            "url": "https://www.youtube.com/watch?v=R5K1bPwTey4&pp=ygUf7Jik67iU66as7KO87J2Y7JuQIO2ZjeuMgCBLb3JlYQ%3D%3D",
+            "view_text": "78K"
+          },
+          {
+            "title": "필러는 넣고, 자가진피재생술은 키운다? 둘 다 맞지만 완전히 달라요.",
+            "channel": "lovely오블리주",
+            "url": "https://www.youtube.com/watch?v=Kumw1WJXdtw&pp=ygUf7Jik67iU66as7KO87J2Y7JuQIO2ZjeuMgCBLb3JlYQ%3D%3D",
+            "view_text": "27K"
+          },
+          {
+            "title": "[닥터오블리 반반시술] 울쎄라 효과 100% 보는 얼굴은 바로 \"이런 분\"입니다!🔥 과연 내가 해당될까?!",
+            "channel": "lovely오블리주",
+            "url": "https://www.youtube.com/watch?v=Rb82MIFGGtY&pp=ygUf7Jik67iU66as7KO87J2Y7JuQIO2ZjeuMgCBLb3JlYQ%3D%3D",
+            "view_text": "31K"
+          },
+          {
+            "title": "티 나는 듯 안 나는 듯~ 입술필러 자연스럽게 받는 법! 이제 '이런' 입술로 못 돌아 다닙니다.💋",
+            "channel": "lovely오블리주",
+            "url": "https://www.youtube.com/watch?v=6CzEiafkqWE&pp=ygUf7Jik67iU66as7KO87J2Y7JuQIO2ZjeuMgCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "20K"
+          },
+          {
+            "title": "2025 트렌드 시술, 온다리프팅, '이렇게' 해야 효과 2배! 통증없이 강력한 리프팅!",
+            "channel": "lovely오블리주",
+            "url": "https://www.youtube.com/watch?v=VP6-MhYRiYc&pp=ygUf7Jik67iU66as7KO87J2Y7JuQIO2ZjeuMgCBLb3JlYQ%3D%3D",
+            "view_text": "23K"
+          },
+          {
+            "title": "피부나이 진단 받다가 충격받은 PD... 당신의 피부가 실제 나이보다 젊은지 확인하는 방법 알려드립니다.",
+            "channel": "lovely오블리주",
+            "url": "https://www.youtube.com/watch?v=9ttnNqnYQMk&pp=ygUf7Jik67iU66as7KO87J2Y7JuQIO2ZjeuMgCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "40K"
+          },
+          {
+            "title": "비싼 시술 말고도 있습니다💸 닥터오블리가 직접 고른 가성비 시술 TOP3!!",
+            "channel": "lovely오블리주",
+            "url": "https://www.youtube.com/watch?v=GOblMpeTJt8&pp=ygUf7Jik67iU66as7KO87J2Y7JuQIO2ZjeuMgCBLb3JlYQ%3D%3D",
+            "view_text": "6.6K"
+          },
+          {
+            "title": "\"이렇게 하시면 동안 피부 될 수 있습니다.\" 오블리주의원 원장님도 매일 챙겨 먹는 피부 영양제 3가지!",
+            "channel": "lovely오블리주",
+            "url": "https://www.youtube.com/watch?v=eiXraLuChm4&pp=ygUf7Jik67iU66as7KO87J2Y7JuQIO2ZjeuMgCBLb3JlYQ%3D%3D",
+            "view_text": "42K"
+          },
+          {
+            "title": "[닥터오블리 시술정보] 떠오르는 안티에이징 스킨부스터는 바로 \"이 것!!\" 얼굴에 콜라겐 물광을 듬뿍!ㅣ시술 부위 및 과정, 효과, 주의사항 총정리!",
+            "channel": "lovely오블리주",
+            "url": "https://www.youtube.com/watch?v=djehNDQagqw&pp=ygUf7Jik67iU66as7KO87J2Y7JuQIO2ZjeuMgCBLb3JlYQ%3D%3D",
+            "view_text": "53K"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 110000,
+  "opportunity_cost_krw": 4400000
+}

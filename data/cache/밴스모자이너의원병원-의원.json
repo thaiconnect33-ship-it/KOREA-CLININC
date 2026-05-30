@@ -1,16 +1,18 @@
 {
   "query": "밴스모자이너의원병원,의원",
-  "generated_at": "2026-05-28T23:57:29.252Z",
+  "generated_at": "2026-05-29T12:44:12.431Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 1944,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "2002191624",
+        "name": "밴스모자이너의원 : 네이버\u001c",
+        "visitor_review_count": 95,
+        "blog_review_count": 1849,
+        "detail_url": "https://m.place.naver.com/place/2002191624/home"
       }
     },
     "google_maps": {
@@ -43,9 +45,80 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 0,
+      "metric_value": 10,
       "extra": {
-        "note": "결과 없음"
+        "total_views": 649800,
+        "foreign_video_count": 1,
+        "lang_breakdown": {
+          "korean": 9,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 1
+        },
+        "sample_size": 10,
+        "top_videos": [
+          {
+            "title": "탈모 환자에서 머리 심는 의사가 되기까지💉 절대 포기할 수 없었던 사연은?｜모발이식 탈모",
+            "channel": "모자이너 신승헌",
+            "url": "https://www.youtube.com/watch?v=iJd07vng1KE&pp=ygUr67C07Iqk66qo7J6Q7J2064SI7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "15K views"
+          },
+          {
+            "title": "'머리숱 없는 송강 VS 머리숱 많은 송강호' 모발이식 병원 탈모 밸런스 게임😂｜헤어라인 교정",
+            "channel": "모자이너 신승헌",
+            "url": "https://www.youtube.com/watch?v=3Ys1fcSARxk&pp=ygUr67C07Iqk66qo7J6Q7J2064SI7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "14K views"
+          },
+          {
+            "title": "커피를 마시지 말고 두피에 양보하면 생기는 충격적인 일...😮｜모발이식 탈모",
+            "channel": "모자이너 신승헌",
+            "url": "https://www.youtube.com/watch?v=R455SsbHCzs&pp=ygUr67C07Iqk66qo7J6Q7J2064SI7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "263K views"
+          },
+          {
+            "title": "\"모발이식도 스타일링이 있어요\" 투블럭컷부터 노컷까지 이식이 아닌 디자인이라는 철학을 지닌 대표 원장님",
+            "channel": "삼탈모tv",
+            "url": "https://www.youtube.com/watch?v=CbCTFlN239o&pp=ygUr67C07Iqk66qo7J6Q7J2064SI7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "3.7K views"
+          },
+          {
+            "title": "남편의 탈모약이 기형아를 유발한다고? 임신 중 탈모약 복용에 대한 진실｜탈모약 모발이식",
+            "channel": "모자이너 신승헌",
+            "url": "https://www.youtube.com/watch?v=wBa5yIyNoc8&pp=ygUr67C07Iqk66qo7J6Q7J2064SI7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "8.1K views"
+          },
+          {
+            "title": "헤어라인 모발이식👼🏻 수술과정/한달차 후기📝 (M자 이마•여자 헤어라인•비절개•회복 과정)ㅣMINCARONG",
+            "channel": "민카롱",
+            "url": "https://www.youtube.com/watch?v=FDhPSdXkyLA&pp=ygUr67C07Iqk66qo7J6Q7J2064SI7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "187K views"
+          },
+          {
+            "title": "미녹시딜 이렇게 바르면 효과 없습니다❌ 효과 제대로 보는 법 (로게인폼, 네옵타이드 엑스퍼트)",
+            "channel": "모자이너 신승헌",
+            "url": "https://www.youtube.com/watch?v=LetrvIafRfs&pp=ygUr67C07Iqk66qo7J6Q7J2064SI7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "74K views"
+          },
+          {
+            "title": "머리털 더 빠지기 전에 무조건 사야 하는 다이소 탈모 꿀템 리뷰 (feat. 이건 사지 마세요...) 광고❌｜탈모샴푸",
+            "channel": "모자이너 신승헌",
+            "url": "https://www.youtube.com/watch?v=ml-VcIJTf9c&pp=ygUr67C07Iqk66qo7J6Q7J2064SI7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "19K views"
+          },
+          {
+            "title": "샤이니 민호부터 배우 박서준까지, 헤어라인 하나로 인상이 확 바뀐 연예인들｜남자 연예인 헤어라인 분석",
+            "channel": "모자이너 신승헌",
+            "url": "https://www.youtube.com/watch?v=faSz9wz92Os&pp=ygUr67C07Iqk66qo7J6Q7J2064SI7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "49K views"
+          },
+          {
+            "title": "The “Canary” Murder Case by S. S. Van Dine | Philo Vance Mystery Full Audiobook",
+            "channel": "Storytime Haven",
+            "url": "https://www.youtube.com/watch?v=3X4tdyggXhM&pp=ygUr67C07Iqk66qo7J6Q7J2064SI7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "17K views"
+          }
+        ]
       }
     },
     "xiaohongshu": {
@@ -59,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 10,
-  "opportunity_cost_thb": 90000,
-  "opportunity_cost_krw": 3600000
+  "global_score": 11,
+  "opportunity_cost_thb": 89500,
+  "opportunity_cost_krw": 3580000
 }

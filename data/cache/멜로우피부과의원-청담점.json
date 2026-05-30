@@ -1,0 +1,148 @@
+{
+  "query": "멜로우피부과의원 청담점",
+  "generated_at": "2026-05-29T10:56:52.771Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 1956,
+      "extra": {
+        "place_id": "1531694998",
+        "name": "멜로우피부과의원 청담점 : 네이버\u001c",
+        "visitor_review_count": 185,
+        "blog_review_count": 1771,
+        "detail_url": "https://m.place.naver.com/place/1531694998/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "MELLOW CLINIC (THE O by mellow)",
+        "rating": 4.9,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 13,
+      "extra": {
+        "total_views": 2057474,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 13,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 13,
+        "top_videos": [
+          {
+            "title": "외모 5배 떡상하는, 피부과 의사의 역대급 동안 관리법 총정리 (진짜 효과봅니다)",
+            "channel": "피부복원소",
+            "url": "https://www.youtube.com/watch?v=dnDxqo2GNpE&pp=ygUo66mc66Gc7Jqw7ZS867aA6rO87J2Y7JuQIOyyreuLtOygkCBLb3JlYQ%3D%3D",
+            "view_text": "2.3K views"
+          },
+          {
+            "title": "피부과 전문의가 직접 받는 V라인 시술 5가지│브이라인만들기, 브이라인시술",
+            "channel": "피부복원소",
+            "url": "https://www.youtube.com/watch?v=MQC5afb6ypM&pp=ygUo66mc66Gc7Jqw7ZS867aA6rO87J2Y7JuQIOyyreuLtOygkCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "7.6K views"
+          },
+          {
+            "title": "\"필러 부작용, 대부분은 이 4가지 부위 때문에 생깁니다”",
+            "channel": "피부복원소",
+            "url": "https://www.youtube.com/watch?v=bxpq-FOwYoE&pp=ygUo66mc66Gc7Jqw7ZS867aA6rO87J2Y7JuQIOyyreuLtOygkCBLb3JlYQ%3D%3D",
+            "view_text": "968 views"
+          },
+          {
+            "title": "피부과전문의는 대체 어떤 화장품을 쓸까?",
+            "channel": "피부복원소",
+            "url": "https://www.youtube.com/watch?v=tBZCLFhoMG0&pp=ygUo66mc66Gc7Jqw7ZS867aA6rO87J2Y7JuQIOyyreuLtOygkCBLb3JlYQ%3D%3D",
+            "view_text": "656 views"
+          },
+          {
+            "title": "전세계가 주목하는 노화 혁명, 차세대 스킨부스터 ECM의 모든 것❗️ㅣ효과, 성분, 유지기간, 부작용 싹 다 정리했습니다",
+            "channel": "피부복원소",
+            "url": "https://www.youtube.com/watch?v=oFccsh5x6Qo&pp=ygUo66mc66Gc7Jqw7ZS867aA6rO87J2Y7JuQIOyyreuLtOygkCBLb3JlYQ%3D%3D",
+            "view_text": "1.5K views"
+          },
+          {
+            "title": "\"죽은 사람의 지방으로 젊어진다고?\"│할리우드가 열광하는 레누바 시술의 비밀",
+            "channel": "피부복원소",
+            "url": "https://www.youtube.com/watch?v=z9XBDW6MCAU&pp=ygUo66mc66Gc7Jqw7ZS867aA6rO87J2Y7JuQIOyyreuLtOygkCBLb3JlYQ%3D%3D",
+            "view_text": "5K views"
+          },
+          {
+            "title": "성시경님 피부과시술, 피부과 전문의로서 한 마디만 하겠습니다.",
+            "channel": "피부복원소",
+            "url": "https://www.youtube.com/watch?v=2ibmdrHkqn0&pp=ygUo66mc66Gc7Jqw7ZS867aA6rO87J2Y7JuQIOyyreuLtOygkCBLb3JlYQ%3D%3D",
+            "view_text": "3.2K views"
+          },
+          {
+            "title": "효과+가성비 보장❗피부과 의사가 추천하는 여름철 시술 TOP 5",
+            "channel": "피부복원소",
+            "url": "https://www.youtube.com/watch?v=MHqf_zoRiy8&pp=ygUo66mc66Gc7Jqw7ZS867aA6rO87J2Y7JuQIOyyreuLtOygkCBLb3JlYQ%3D%3D",
+            "view_text": "1K views"
+          },
+          {
+            "title": "피부과 시술 부작용 Vlog…ㅠ 내 피부 돌려줘.. 다신 안해…🫠ㅣMINCARONG",
+            "channel": "민카롱",
+            "url": "https://www.youtube.com/watch?v=wRJR2kY2x9w&pp=ygUo66mc66Gc7Jqw7ZS867aA6rO87J2Y7JuQIOyyreuLtOygkCBLb3JlYQ%3D%3D",
+            "view_text": "1.7M views"
+          },
+          {
+            "title": "아이돌은 다 받는 ‘카메라 마사지’의 비밀🎤✨ 데뷔 후 무조건 예뻐지는 이유❗",
+            "channel": "피부복원소",
+            "url": "https://www.youtube.com/watch?v=AAfmgKAqr4o&pp=ygUo66mc66Gc7Jqw7ZS867aA6rO87J2Y7JuQIOyyreuLtOygkCBLb3JlYQ%3D%3D",
+            "view_text": "483 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 140000,
+  "opportunity_cost_krw": 5600000
+}

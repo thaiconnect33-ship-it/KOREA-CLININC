@@ -1,0 +1,148 @@
+{
+  "query": "데이뷰의원 강남점",
+  "generated_at": "2026-05-29T10:40:02.747Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 14861,
+      "extra": {
+        "place_id": "1987745625",
+        "name": "데이뷰의원 강남점 : 네이버\u001c",
+        "visitor_review_count": 2239,
+        "blog_review_count": 12622,
+        "detail_url": "https://m.place.naver.com/place/1987745625/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Daybeau Clinic Gangnam",
+        "rating": 4.9,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 7825505,
+        "foreign_video_count": 1,
+        "lang_breakdown": {
+          "korean": 19,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 1
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "[Journey of the Beauty] Full ver. | 데이뷰의원 강남 더 프리미엄",
+            "channel": "데이뷰의원 DaybeauClinic",
+            "url": "https://www.youtube.com/watch?v=WCZQAgIxVa8&pp=ygUf642w7J2067ew7J2Y7JuQIOqwleuCqOygkCBLb3JlYQ%3D%3D",
+            "view_text": "627 views"
+          },
+          {
+            "title": "[Journey of the Beauty] Chapter.3 시공(施工) | 데이뷰의원 강남 더 프리미엄",
+            "channel": "데이뷰의원 DaybeauClinic",
+            "url": "https://www.youtube.com/watch?v=_s4Ux42tnrE&pp=ygUf642w7J2067ew7J2Y7JuQIOqwleuCqOygkCBLb3JlYQ%3D%3D",
+            "view_text": "127 views"
+          },
+          {
+            "title": "글로벌한 서비스를 기반으로🌎 | 데이뷰의원 건대입구점 서명완 대표원장 인터뷰",
+            "channel": "데이뷰의원 DaybeauClinic",
+            "url": "https://www.youtube.com/watch?v=GumexWmAbuM&pp=ygUf642w7J2067ew7J2Y7JuQIOqwleuCqOygkCBLb3JlYQ%3D%3D",
+            "view_text": "417 views"
+          },
+          {
+            "title": "[Journey of the Beauty] Chapter.1 기공(起工) | 데이뷰의원 강남 더 프리미엄",
+            "channel": "데이뷰의원 DaybeauClinic",
+            "url": "https://www.youtube.com/watch?v=-AGdTpCtXkE&pp=ygUf642w7J2067ew7J2Y7JuQIOqwleuCqOygkCBLb3JlYQ%3D%3D",
+            "view_text": "218 views"
+          },
+          {
+            "title": "[Journey of the Beauty] Chapter.0 | 데이뷰의원 강남 더 프리미엄",
+            "channel": "데이뷰의원 DaybeauClinic",
+            "url": "https://www.youtube.com/watch?v=ZtfDCm1npyA&pp=ygUf642w7J2067ew7J2Y7JuQIOqwleuCqOygkCBLb3JlYQ%3D%3D",
+            "view_text": "269 views"
+          },
+          {
+            "title": "[Journey of the Beauty] Chapter.2 착공(着工) | 데이뷰의원 강남 더 프리미엄",
+            "channel": "데이뷰의원 DaybeauClinic",
+            "url": "https://www.youtube.com/watch?v=zuXOj35kglc&pp=ygUf642w7J2067ew7J2Y7JuQIOqwleuCqOygkCBLb3JlYQ%3D%3D",
+            "view_text": "155 views"
+          },
+          {
+            "title": "[Journey of the Beauty] Chapter.4 완공(完工) | 데이뷰의원 강남 더 프리미엄",
+            "channel": "데이뷰의원 DaybeauClinic",
+            "url": "https://www.youtube.com/watch?v=T3Tz6cHc6Qs&pp=ygUf642w7J2067ew7J2Y7JuQIOqwleuCqOygkCBLb3JlYQ%3D%3D",
+            "view_text": "274 views"
+          },
+          {
+            "title": "데이뷰의원 피코슈어 레이저 영상",
+            "channel": "데이뷰의원 강서발산점",
+            "url": "https://www.youtube.com/watch?v=F7VTPlCx2G0&pp=ygUf642w7J2067ew7J2Y7JuQIOqwleuCqOygkCBLb3JlYQ%3D%3D",
+            "view_text": "478 views"
+          },
+          {
+            "title": "당신의 일상을 아름답게✨| 데이뷰의원 강서발산점 이종진 대표원장 인터뷰",
+            "channel": "데이뷰의원 DaybeauClinic",
+            "url": "https://www.youtube.com/watch?v=pYRkwdcSomU&pp=ygUf642w7J2067ew7J2Y7JuQIOqwleuCqOygkCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "979 views"
+          },
+          {
+            "title": "[단독] 강남 성형외과에 '분통'…\"근육 썩고 사경 헤맸다\" / SBS 8뉴스",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=svfX3-lNpIw&pp=ygUf642w7J2067ew7J2Y7JuQIOqwleuCqOygkCBLb3JlYQ%3D%3D",
+            "view_text": "2.4M views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 1,
+  "opportunity_cost_thb": 149500,
+  "opportunity_cost_krw": 5980000
+}

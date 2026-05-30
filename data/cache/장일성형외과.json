@@ -1,6 +1,6 @@
 {
   "query": "장일성형외과",
-  "generated_at": "2026-05-28T23:01:26.521Z",
+  "generated_at": "2026-05-29T11:41:43.245Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -18,18 +18,18 @@
     "google_maps": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 3,
+      "metric_value": 0,
       "extra": {
         "name": "Results",
-        "rating": 5,
-        "total_reviews": 3,
-        "sample_size": 2,
-        "foreign_language_reviews": 2,
+        "rating": 4,
+        "total_reviews": 0,
+        "sample_size": 7,
+        "foreign_language_reviews": 7,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 2
+          "english_other": 7
         }
       }
     },
@@ -61,16 +61,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 1,
-  "opportunity_cost_thb": 99000,
-  "opportunity_cost_krw": 3960000
+  "global_score": 4,
+  "opportunity_cost_thb": 96500,
+  "opportunity_cost_krw": 3860000
 }

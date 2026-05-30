@@ -1,16 +1,16 @@
 {
   "query": "더나은성형외과의원",
-  "generated_at": "2026-05-28T23:44:11.880Z",
+  "generated_at": "2026-05-29T12:30:02.941Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 269,
+      "metric_value": 271,
       "extra": {
         "place_id": "2072162062",
         "name": "더나은성형외과의원 : 네이버\u001c",
-        "visitor_review_count": 234,
+        "visitor_review_count": 236,
         "blog_review_count": 35,
         "detail_url": "https://m.place.naver.com/place/2072162062/home"
       }
@@ -47,11 +47,11 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 2437537,
-        "foreign_video_count": 1,
+        "total_views": 4165125,
+        "foreign_video_count": 2,
         "lang_breakdown": {
-          "korean": 19,
-          "thai": 1,
+          "korean": 18,
+          "thai": 2,
           "chinese": 0,
           "japanese": 0,
           "english_other": 0
@@ -61,62 +61,62 @@
           {
             "title": "My past story, honestly recorded to become a better doctor",
             "channel": "에톤TV",
-            "url": "https://www.youtube.com/watch?v=A98KheTEq4I&pp=ygUt642U64KY7J2A7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
+            "url": "https://www.youtube.com/watch?v=A98KheTEq4I&pp=ygUh642U64KY7J2A7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "407 views"
           },
           {
             "title": "화원이비인후과, 화원피부과 더나은의원 홍보영상으로 인사드립니다.",
             "channel": "더나은 이비인후과﻿·피부과",
-            "url": "https://www.youtube.com/watch?v=yeESWVIajro&pp=ygUt642U64KY7J2A7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=yeESWVIajro&pp=ygUh642U64KY7J2A7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "1.1K views"
           },
           {
             "title": "❌자가혈관과 인조혈관의 장단점만 따진다면? ⭕️개별맞춤형으로 만드는게 제일 중요합니다",
             "channel": "더나은길외과",
-            "url": "https://www.youtube.com/watch?v=54DXsT2MIng&pp=ygUt642U64KY7J2A7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=54DXsT2MIng&pp=ygUh642U64KY7J2A7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "1.5K views"
-          },
-          {
-            "title": "가슴 성형 수술의 양대 산맥.. '근막하' vs '근육하' 중 더 나은 선택은??_[삼사오 성형외과]",
-            "channel": "삼사오성형외과",
-            "url": "https://www.youtube.com/watch?v=QCnhGHEpWxg&pp=ygUt642U64KY7J2A7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "2.4K views"
-          },
-          {
-            "title": "가슴 축소에 관하여, 궁금했던 질문들을 모아모아 (Feat. Q&A)",
-            "channel": "더성형외과",
-            "url": "https://www.youtube.com/watch?v=kZ8rGqXPdmc&pp=ygUt642U64KY7J2A7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "2.4K views"
           },
           {
             "title": "팔 거상, 절개 짧게 해달라고 하면 100% 후회하는 이유 | 흉터 각오하고도 만족도 200%인 분들의 특징 | 팔뚝살, 팔거상술 | 탱글성형외과의원 오창현 대표원장",
             "channel": "Oh! 탱글",
-            "url": "https://www.youtube.com/watch?v=uBl2TO2dG1c&pp=ygUt642U64KY7J2A7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
+            "url": "https://www.youtube.com/watch?v=uBl2TO2dG1c&pp=ygUh642U64KY7J2A7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "7.4K views"
           },
           {
-            "title": "레이저 리프팅 10번보다 안면거상 1번이 나은 이유",
-            "channel": "설재윤성형외과",
-            "url": "https://www.youtube.com/watch?v=_EaTZCu08hs&pp=ygUt642U64KY7J2A7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "539 views"
+            "title": "SM 천상계 연예인으로 만들어준다는 성형외과!!",
+            "channel": "핫이슈HOT ISSUE",
+            "url": "https://www.youtube.com/watch?v=WTeNWTENa54&pp=ygUh642U64KY7J2A7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.7M views"
+          },
+          {
+            "title": "신종인 원장님께서 설명해주시는 눈밑지방재배치 부작용과 불만족!",
+            "channel": "โรงพยาบาลออพเจท - Objet Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=CYlE9eQ4RBI&pp=ygUh642U64KY7J2A7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.3K views"
           },
           {
             "title": "[단독] 강남 성형외과에 '분통'…\"근육 썩고 사경 헤맸다\" / SBS 8뉴스",
             "channel": "SBS 뉴스",
-            "url": "https://www.youtube.com/watch?v=svfX3-lNpIw&pp=ygUt642U64KY7J2A7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
+            "url": "https://www.youtube.com/watch?v=svfX3-lNpIw&pp=ygUh642U64KY7J2A7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "2.4M views"
           },
           {
-            "title": "[THE성형능력고사] 가슴확대 수술하면 처짐이 더 빠르게 온다고?ㅣ [feat. 옥재진원장]",
-            "channel": "더성형외과",
-            "url": "https://www.youtube.com/watch?v=3zdBmFC7pnM&pp=ygUt642U64KY7J2A7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "552 views"
+            "title": "복부거상 수술, 통증·부기·흉터 관리까지! 꼭 알아야 할 꿀팁 대공개",
+            "channel": "Oh! 탱글",
+            "url": "https://www.youtube.com/watch?v=VUkTGp7A1pM&pp=ygUh642U64KY7J2A7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "2.1K views"
           },
           {
-            "title": "코성형, 콧대와 코끝만 하면 끝일까? 의사도 모르는 노하우 지금 공개합니다",
-            "channel": "โรงพยาบาลออพเจท - Objet Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=7uoYoxpeY88&pp=ygUt642U64KY7J2A7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.8K views"
+            "title": "복부성형, 처음할 때 망하면 돌이키기 어려운 이유! | 지방흡입 하셨다면 꼭 보세요! | 처진 뱃살, 뱃살제거, 복부거상 | 탱글성형외과의원 오창현 대표원장",
+            "channel": "Oh! 탱글",
+            "url": "https://www.youtube.com/watch?v=QSG6kqnbVY8&pp=ygUh642U64KY7J2A7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "2.8K views"
+          },
+          {
+            "title": "가슴 축소에 관하여, 궁금했던 질문들을 모아모아 (Feat. Q&A)",
+            "channel": "더성형외과",
+            "url": "https://www.youtube.com/watch?v=kZ8rGqXPdmc&pp=ygUh642U64KY7J2A7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "2.4K views"
           }
         ]
       }
@@ -132,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 2,
-  "opportunity_cost_thb": 98500,
-  "opportunity_cost_krw": 3940000
+  "global_score": 3,
+  "opportunity_cost_thb": 98000,
+  "opportunity_cost_krw": 3920000
 }

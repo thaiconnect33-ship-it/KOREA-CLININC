@@ -1,16 +1,18 @@
 {
   "query": "미라젠의원",
-  "generated_at": "2026-05-29T06:09:49.755Z",
+  "generated_at": "2026-05-29T10:36:49.499Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 1843,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "1200780480",
+        "name": "미라젠의원 : 네이버\u001c",
+        "visitor_review_count": 1643,
+        "blog_review_count": 200,
+        "detail_url": "https://m.place.naver.com/place/1200780480/home"
       }
     },
     "google_maps": {
@@ -43,72 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 9,
+      "metric_value": 20,
       "extra": {
-        "total_views": 4423172,
+        "total_views": 3995207,
         "foreign_video_count": 0,
         "lang_breakdown": {
-          "korean": 9,
+          "korean": 20,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
           "english_other": 0
         },
-        "sample_size": 9,
+        "sample_size": 20,
         "top_videos": [
-          {
-            "title": "\"You can look 10 years younger than your peers!\" 3 treatments even performed by a dermatologist.",
-            "channel": "박지윤의 피부 설명서",
-            "url": "https://www.youtube.com/watch?v=GN7n33Kw7BY&pp=ygUk66-465287KCg7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "238K views"
-          },
-          {
-            "title": "서울대 피부과의사가 찍어주는 스킨부스터 완벽 정리. \"이 영상보면 호구 안당합니다\" - 이도영 피부과전문의",
-            "channel": "피부텐텐 · 피부가 예뻐지는 10분",
-            "url": "https://www.youtube.com/watch?v=rigKW7zrTeI&pp=ygUk66-465287KCg7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "338K views"
-          },
-          {
-            "title": "피부과 시술 부작용 Vlog…ㅠ 내 피부 돌려줘.. 다신 안해…🫠ㅣMINCARONG",
-            "channel": "민카롱",
-            "url": "https://www.youtube.com/watch?v=wRJR2kY2x9w&pp=ygUk66-465287KCg7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "1.7M views"
-          },
-          {
-            "title": "의사들만 몰래받는 S급 가성비! 수백만원 아끼는 만족도 가장 높은 시술을 20년차 피부과 전문의가 알려드립니다.",
-            "channel": "피부는 성현철",
-            "url": "https://www.youtube.com/watch?v=SFlFQByIQ1g&pp=ygUk66-465287KCg7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "913K views"
-          },
           {
             "title": "안면홍조 없애는 가장 쉬운 방법 I 피부재생인자 EGF",
             "channel": "동안중심의원",
-            "url": "https://www.youtube.com/watch?v=U6cpQViFU8w&pp=ygUk66-465287KCg7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=U6cpQViFU8w&pp=ygUV66-465287KCg7J2Y7JuQIEtvcmVh",
             "view_text": "17K views"
           },
           {
-            "title": "“20년동안 제 아내가 가장 만족했던 동안 주사 공개합니다” 강남 피부과 의사가 아내에게 해주는 또래보다 10년 젊어지는 동안주사 3가지",
-            "channel": "피부는 성현철",
-            "url": "https://www.youtube.com/watch?v=z5f78sydJ8U&pp=ygUk66-465287KCg7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "332K views"
+            "title": "주사피부염 재발 후 역대급 대폭발! 드디어 수란트라 사용기 - 낫는 과정",
+            "channel": "Jaelimize 재림",
+            "url": "https://www.youtube.com/watch?v=xJJiMtKRIwA&pp=ygUV66-465287KCg7J2Y7JuQIEtvcmVh",
+            "view_text": "538K views"
           },
           {
-            "title": "\"무료로 받고 후기만 써줘\" 시술 딱 3시간 만에 배가..'충격' #뉴스다 / JTBC News",
-            "channel": "JTBC News",
-            "url": "https://www.youtube.com/watch?v=-caUe2UD70A&pp=ygUk66-465287KCg7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "608K views"
+            "title": "충격주의) 주사피부염이 좋아진 방법; 얼굴 문제가 아니었습니다 (식단, 습관, 스킨케어, 시술 등)",
+            "channel": "Jaelimize 재림",
+            "url": "https://www.youtube.com/watch?v=vYiQkdFWIT4&pp=ygUV66-465287KCg7J2Y7JuQIEtvcmVh",
+            "view_text": "48K views"
           },
           {
-            "title": "(SUB) Final Edition of Face Shape/Skin Care Q&A 💥 | I Submitted My MBA Application!!!! 🎓",
-            "channel": "일단이나연 NAYEON",
-            "url": "https://www.youtube.com/watch?v=dzq41DdAdvU&pp=ygUk66-465287KCg7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh0gcJCSMLAYcqIYzv",
-            "view_text": "277K views"
+            "title": "ECM부스터, 피부를 주사한다. 엘라비에 리투오(Re2O)의 모든 것👍",
+            "channel": "피부과전문의_샘닥",
+            "url": "https://www.youtube.com/watch?v=7ubaHQ_PtoI&pp=ygUV66-465287KCg7J2Y7JuQIEtvcmVh",
+            "view_text": "92K views"
           },
           {
-            "title": "⭐️임종인정형외과TV⭐️ 이제는 고쳐쓰지 말고 재생시켜 쓴다, 재생의학",
-            "channel": "뉴젠정형외과TV",
-            "url": "https://www.youtube.com/watch?v=iqzT-pgy7W8&pp=ygUk66-465287KCg7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "172 views"
+            "title": "[고화질 고음질] 제5원소 디바 공연장면 The Fifth Element (인간이 낼 수 없는 소리로 만들어졌다는^^)",
+            "channel": "PRISM Sound 프리즘사운드 (고음질 음원 채널)",
+            "url": "https://www.youtube.com/watch?v=A2far9cun9c&list=RDA2far9cun9c&start_radio=1&pp=ygUV66-465287KCg7J2Y7JuQIEtvcmVhoAcB",
+            "view_text": "263K views"
+          },
+          {
+            "title": "완전히 달라진 피부과 시술 트렌드 | 피부과 전문의가 느낀 2026 피부 시술 트렌드",
+            "channel": "지연쌤의 피부참견",
+            "url": "https://www.youtube.com/watch?v=CiGMejkPePM&pp=ygUV66-465287KCg7J2Y7JuQIEtvcmVh",
+            "view_text": "44K views"
+          },
+          {
+            "title": "여드름흉터, 더 이상 불치병이 아닙니다. 미라젯과 함께라면!",
+            "channel": "심포니 피부연구소 Symphony Derma Lab",
+            "url": "https://www.youtube.com/watch?v=0cl0zQwYsfU&pp=ygUV66-465287KCg7J2Y7JuQIEtvcmVh",
+            "view_text": "1.8K views"
+          },
+          {
+            "title": "신상 ECM 부스터 리투오 효과·부작용·통증 총정리",
+            "channel": "피부쏙쏙 [피부과전문의 유혜린]",
+            "url": "https://www.youtube.com/watch?v=N8tog-RBa5Q&pp=ygUV66-465287KCg7J2Y7JuQIEtvcmVh",
+            "view_text": "32K views"
+          },
+          {
+            "title": "\"남들이 좋다면 의심부터 하세요\" 의사들이 꽁꽁 숨기는 리투오 문제점 솔직하게 공개합니다! | 리투오효과 리투오부작용 콜라겐주사",
+            "channel": "피부왕정윤",
+            "url": "https://www.youtube.com/watch?v=KyZipxpn8_U&pp=ygUV66-465287KCg7J2Y7JuQIEtvcmVh",
+            "view_text": "40K views"
+          },
+          {
+            "title": "[피부과 가기 전 필수] 딱 3주만 쓰면 홍조 없어지는 마법의 크림! 안면홍조·주사피부염 원인은 '얼굴 벌레'? 약사가 알려주는 홍조 치트키 수란트라 완벽 가이드",
+            "channel": "홍대앞이약사",
+            "url": "https://www.youtube.com/watch?v=3QViuSqEXRA&pp=ygUV66-465287KCg7J2Y7JuQIEtvcmVh",
+            "view_text": "54 views"
           }
         ]
       }

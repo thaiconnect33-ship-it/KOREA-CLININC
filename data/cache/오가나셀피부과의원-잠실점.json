@@ -1,0 +1,148 @@
+{
+  "query": "오가나셀피부과의원 잠실점",
+  "generated_at": "2026-05-29T12:12:04.742Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 6045,
+      "extra": {
+        "place_id": "1847188823",
+        "name": "오가나셀피부과의원 잠실점 : 네이버\u001c",
+        "visitor_review_count": 539,
+        "blog_review_count": 5506,
+        "detail_url": "https://m.place.naver.com/place/1847188823/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Oganacell dermatology clinic, Jamsil Branch / 오가나셀피부과의원 잠실점",
+        "rating": 4.8,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 56965,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "피부과 전문의가 보장합니다 🔥아프면 무조건 환불!!🔥 통증에 민감한 분들을 위한 선택지, 온다 리프팅!",
+            "channel": "피부구조대 오가나셀",
+            "url": "https://www.youtube.com/watch?v=FYbSr9UMUTE&pp=ygUr7Jik6rCA64KY7IWA7ZS867aA6rO87J2Y7JuQIOyeoOyLpOygkCBLb3JlYQ%3D%3D",
+            "view_text": "1K views"
+          },
+          {
+            "title": "피부과 레이저, 이것만 알고 계시면 됩니다 / 오가나셀 피부과 잠실점 레이저 공개",
+            "channel": "피부구조대 오가나셀",
+            "url": "https://www.youtube.com/watch?v=YtgeVdJwL-s&pp=ygUr7Jik6rCA64KY7IWA7ZS867aA6rO87J2Y7JuQIOyeoOyLpOygkCBLb3JlYQ%3D%3D",
+            "view_text": "1.5K views"
+          },
+          {
+            "title": "A Comparative Analysis of the Top 5 Lifting Procedures! Everything You Need to Know in One Video!...",
+            "channel": "피부구조대 오가나셀",
+            "url": "https://www.youtube.com/watch?v=18CGf32kDmA&pp=ygUr7Jik6rCA64KY7IWA7ZS867aA6rO87J2Y7JuQIOyeoOyLpOygkCBLb3JlYQ%3D%3D",
+            "view_text": "367 views"
+          },
+          {
+            "title": "롯데월드타워 11층 뷰맛집 피부과❤️ 잠실점 가는 법 총정리 I 잠실 피부과, 오가나셀, 롯데월드타워",
+            "channel": "피부구조대 오가나셀",
+            "url": "https://www.youtube.com/watch?v=eiKuzTrg5sI&pp=ygUr7Jik6rCA64KY7IWA7ZS867aA6rO87J2Y7JuQIOyeoOyLpOygkCBLb3JlYQ%3D%3D",
+            "view_text": "1.1K views"
+          },
+          {
+            "title": "(최초 공개) 딱 한 번만 받아도 미백,홍조,결 개선 까지, 제네오 X 관리 시술의 끝 판왕! 신규 장비를 공개 합니다!",
+            "channel": "피부구조대 오가나셀",
+            "url": "https://www.youtube.com/watch?v=zzwp3Bxlhzs&pp=ygUr7Jik6rCA64KY7IWA7ZS867aA6rO87J2Y7JuQIOyeoOyLpOygkCBLb3JlYQ%3D%3D",
+            "view_text": "1.3K views"
+          },
+          {
+            "title": "피부과 전문의가 알려주는 피부 탄력 관리(울쎄라) 200% 효과 보는 방법",
+            "channel": "피부구조대 오가나셀",
+            "url": "https://www.youtube.com/watch?v=Fi7HjXtjmUg&pp=ygUr7Jik6rCA64KY7IWA7ZS867aA6rO87J2Y7JuQIOyeoOyLpOygkCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "914 views"
+          },
+          {
+            "title": "나는솔로 30기 옥순, 영수가 받은 가성비 리프팅!ㅣ리프팅, 리프팅 추천, 써마지, 울쎄라, 올타이트, 피부처짐, 탄력, 울트라클리어, 고우리, 스킨부스터, 청담 피부과",
+            "channel": "피부구조대 오가나셀",
+            "url": "https://www.youtube.com/watch?v=kJi88AvZqpM&pp=ygUr7Jik6rCA64KY7IWA7ZS867aA6rO87J2Y7JuQIOyeoOyLpOygkCBLb3JlYQ%3D%3D",
+            "view_text": "5.3K views"
+          },
+          {
+            "title": "K뷰티 일본 도쿄에 상륙! 오가나셀 긴자점 오픈🥳ㅣ피부, 피부과, 일본 피부과, 도쿄 피부과, 긴자 피부과, 청담 피부과, 줄기세포 주사, 일본 줄기세포, 일본 성형,일본 성형외과",
+            "channel": "피부구조대 오가나셀",
+            "url": "https://www.youtube.com/watch?v=bIJnF0YszQg&pp=ygUr7Jik6rCA64KY7IWA7ZS867aA6rO87J2Y7JuQIOyeoOyLpOygkCBLb3JlYQ%3D%3D",
+            "view_text": "392 views"
+          },
+          {
+            "title": "얼굴탄력 리프팅 끝판왕 써마지 600샷 실제 시술 장면 공개!!",
+            "channel": "피부구조대 오가나셀",
+            "url": "https://www.youtube.com/watch?v=KJuR3kMUt5A&pp=ygUr7Jik6rCA64KY7IWA7ZS867aA6rO87J2Y7JuQIOyeoOyLpOygkCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "2K views"
+          },
+          {
+            "title": "피부가 얼룩덜룩하시다고요? 증상별로 치료 방법이 다른 거 알고 계셨나요? / 헛돈 쓰지 말고 정확하고 적절한 치료를 받으세요!",
+            "channel": "피부구조대 오가나셀",
+            "url": "https://www.youtube.com/watch?v=EKQxbrci9PU&pp=ygUr7Jik6rCA64KY7IWA7ZS867aA6rO87J2Y7JuQIOyeoOyLpOygkCBLb3JlYQ%3D%3D",
+            "view_text": "1.2K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 90000,
+  "opportunity_cost_krw": 3600000
+}

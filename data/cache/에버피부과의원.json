@@ -1,16 +1,18 @@
 {
   "query": "에버피부과의원",
-  "generated_at": "2026-05-28T22:34:20.973Z",
+  "generated_at": "2026-05-29T11:11:30.897Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 5545,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "11725531",
+        "name": "에버피부과의원 : 네이버\u001c",
+        "visitor_review_count": 1426,
+        "blog_review_count": 4119,
+        "detail_url": "https://m.place.naver.com/place/11725531/home"
       }
     },
     "google_maps": {
@@ -45,76 +47,76 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 6737317,
-        "foreign_video_count": 1,
+        "total_views": 1088579,
+        "foreign_video_count": 3,
         "lang_breakdown": {
-          "korean": 19,
+          "korean": 17,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
-          "english_other": 1
+          "english_other": 3
         },
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "\"Dermatologists don't tell you...\" We recommend popular youth-enhancing procedures these days. We...",
-            "channel": "박지윤의 피부 설명서",
-            "url": "https://www.youtube.com/watch?v=EFB-McCJG48&pp=ygUq7JeQ67KE7ZS867aA6rO87J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "444K views"
+            "title": "(*ENG/CHN/JP) 진짜가 나타났다! 티타늄 리프팅 효과, 부작용, 통증 Titanium Lifting - 피부과전문의 [닥터필러]",
+            "channel": "Dr. Filler – Korean Derm & Face Design",
+            "url": "https://www.youtube.com/watch?v=igLONNuLdpQ&pp=ygUb7JeQ67KE7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "76K views"
           },
           {
-            "title": "피부과 시술 부작용 Vlog…ㅠ 내 피부 돌려줘.. 다신 안해…🫠ㅣMINCARONG",
-            "channel": "민카롱",
-            "url": "https://www.youtube.com/watch?v=wRJR2kY2x9w&pp=ygUq7JeQ67KE7ZS867aA6rO87J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "1.7M views"
+            "title": "얼굴 볼륨이 부족한 사람 주목!! 요즘 대세 콜라겐부스터 에버클V 효과 직접 확인해보세요!",
+            "channel": "셀리즈피부과의원",
+            "url": "https://www.youtube.com/watch?v=-UtFxu93a68&pp=ygUb7JeQ67KE7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.1K views"
+          },
+          {
+            "title": "(*Eng) 필러 장인 닥터필러의 필러 영상 2시간 모음 filler video 2hour - 피부과전문의 [닥터필러]",
+            "channel": "Dr. Filler – Korean Derm & Face Design",
+            "url": "https://www.youtube.com/watch?v=IzGPAUl0hQE&pp=ygUb7JeQ67KE7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "166K views"
+          },
+          {
+            "title": "(*Eng) 다른 영상엔 없는 충격적인 울쎄라 써마지의 진실 Ulthera vs Thermage  - 피부과전문의 [닥터필러]",
+            "channel": "Dr. Filler – Korean Derm & Face Design",
+            "url": "https://www.youtube.com/watch?v=AKt8_qvBkaY&pp=ygUb7JeQ67KE7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "12K views"
+          },
+          {
+            "title": "이마필러 전 필수시청!! 이마필러의 모든 것",
+            "channel": "뷰티앤영 BEAUTY&YOUNG",
+            "url": "https://www.youtube.com/watch?v=GzIHzB7dM9U&pp=ygUb7JeQ67KE7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.7K views"
+          },
+          {
+            "title": "[청담피부과 콜라겐부스터 오해와 진실] 쥬베룩 vs 에버클 vs 스컬트라 나에게 딱 맞는 콜라겐 시술은?",
+            "channel": "엘레브TV",
+            "url": "https://www.youtube.com/watch?v=E9YSXBs4s94&pp=ygUb7JeQ67KE7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "2.3K views"
+          },
+          {
+            "title": "울쎄라, 병원마다 가격이 다른 이유는? 이 영상 하나로 정리해드립니다! (feat. 울쎄라 적정 가격)",
+            "channel": "뉴 피부조정",
+            "url": "https://www.youtube.com/watch?v=lVLnL-qwAy4&pp=ygUb7JeQ67KE7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "5.4K views"
+          },
+          {
+            "title": "콜라겐부스터 2025 ART LIVE 심포지움 에버클 & 에버클V",
+            "channel": "셀리즈피부과의원",
+            "url": "https://www.youtube.com/watch?v=n8UYZJyokHQ&pp=ygUb7JeQ67KE7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "317 views"
           },
           {
             "title": "(*ENG/CHN/JP) Expensive acne laser vs. cost-effective acne medication Roaccutane (Isotretinoin) -...",
             "channel": "Dr. Filler – Korean Derm & Face Design",
-            "url": "https://www.youtube.com/watch?v=8fkGIJcX_OM&pp=ygUq7JeQ67KE7ZS867aA6rO87J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=8fkGIJcX_OM&pp=ygUb7JeQ67KE7ZS867aA6rO87J2Y7JuQIEtvcmVh",
             "view_text": "87K views"
           },
           {
-            "title": "서울대 피부과의사가 찍어주는 스킨부스터 완벽 정리. \"이 영상보면 호구 안당합니다\" - 이도영 피부과전문의",
-            "channel": "피부텐텐 · 피부가 예뻐지는 10분",
-            "url": "https://www.youtube.com/watch?v=rigKW7zrTeI&pp=ygUq7JeQ67KE7ZS867aA6rO87J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "338K views"
-          },
-          {
-            "title": "한달만에 외모 10배 떡상하는 80가지 체크리스트 종결 l 64분 연속 재생",
-            "channel": "피부결",
-            "url": "https://www.youtube.com/watch?v=K9libhME0OA&pp=ygUq7JeQ67KE7ZS867aA6rO87J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "13K views"
-          },
-          {
-            "title": "\"엉터리 정보에 속지마세요.\" 진료과목 피부과 의사가 뽑은 가성비 시술 딱 '3가지'",
-            "channel": "지식인사이드",
-            "url": "https://www.youtube.com/watch?v=a4S4JNnRIXQ&pp=ygUq7JeQ67KE7ZS867aA6rO87J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "1.7M views"
-          },
-          {
-            "title": "“비싼 울쎄라, 써마지 받아도 얼굴 다시 처집니다” 요즘 연예인들이 받는 가성비 시술을 20년차 피부과 전문의가 알려드립니다.",
-            "channel": "피부는 성현철",
-            "url": "https://www.youtube.com/watch?v=P-ooK3XIcKM&pp=ygUq7JeQ67KE7ZS867aA6rO87J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "344K views"
-          },
-          {
-            "title": "응괴성여드름 켈로이드성여드름이 어떤 것인지 강남테마피부과에 물어보았습니다.",
-            "channel": "유레카닥TV",
-            "url": "https://www.youtube.com/watch?v=J3aOfk1TGtg&pp=ygUq7JeQ67KE7ZS867aA6rO87J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "2.2K views"
-          },
-          {
-            "title": "\"Stieva A Cream,\" which is used to hide wrinkles, blemishes, and acne, is no longer available at ...",
-            "channel": "닥터피부광",
-            "url": "https://www.youtube.com/watch?v=nB4Of4kM5n4&pp=ygUq7JeQ67KE7ZS867aA6rO87J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "238K views"
-          },
-          {
-            "title": "전직 피부과직원이 말하는 리쥬란힐러 효과 100% 보는 방법",
-            "channel": "소의튜브soytube",
-            "url": "https://www.youtube.com/watch?v=6y2qa9G0OFg&pp=ygUq7JeQ67KE7ZS867aA6rO87J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "198K views"
+            "title": "Jowls and frown lines? Solve them with Marionette Line Filler! - Dermatologist [Doctor Filler]",
+            "channel": "Dr. Filler – Korean Derm & Face Design",
+            "url": "https://www.youtube.com/watch?v=WTgrsx_ejM4&pp=ygUb7JeQ67KE7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "243K views"
           }
         ]
       }
@@ -130,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 1,
-  "opportunity_cost_thb": 99500,
-  "opportunity_cost_krw": 3980000
+  "global_score": 2,
+  "opportunity_cost_thb": 98500,
+  "opportunity_cost_krw": 3940000
 }

@@ -1,18 +1,18 @@
 {
   "query": "더그레이스의원",
-  "generated_at": "2026-05-28T23:51:55.022Z",
+  "generated_at": "2026-05-29T12:38:37.537Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 382,
+      "metric_value": 743,
       "extra": {
-        "place_id": "1499004879",
+        "place_id": "36778927",
         "name": "더그레이스의원 : 네이버\u001c",
-        "visitor_review_count": 315,
-        "blog_review_count": 67,
-        "detail_url": "https://m.place.naver.com/place/1499004879/home"
+        "visitor_review_count": 284,
+        "blog_review_count": 459,
+        "detail_url": "https://m.place.naver.com/place/36778927/home"
       }
     },
     "google_maps": {
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 2386055,
+        "total_views": 5560657,
         "foreign_video_count": 1,
         "lang_breakdown": {
           "korean": 19,
@@ -59,64 +59,64 @@
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "더그레이스 대표원장 인터뷰",
-            "channel": "더그레이스TV",
-            "url": "https://www.youtube.com/watch?v=6mPc1h6xs88&pp=ygUk642U6re466CI7J207Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "656 views"
-          },
-          {
             "title": "더그레이스 대표원장 인터뷰 3",
             "channel": "더그레이스TV",
-            "url": "https://www.youtube.com/watch?v=Sqa7F7QmTTo&pp=ygUk642U6re466CI7J207Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=Sqa7F7QmTTo&pp=ygUb642U6re466CI7J207Iqk7J2Y7JuQIEtvcmVh",
             "view_text": "538 views"
           },
           {
-            "title": "더그레이스의원 최종영상 mbms",
-            "channel": "더그레스의원",
-            "url": "https://www.youtube.com/watch?v=u8umLpGSdUo&pp=ygUk642U6re466CI7J207Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "108 views"
-          },
-          {
-            "title": "지방분해주사편",
+            "title": "더그레이스 대표원장 인터뷰",
             "channel": "더그레이스TV",
-            "url": "https://www.youtube.com/watch?v=ztYukl_i-vA&pp=ygUk642U6re466CI7J207Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "23K views"
+            "url": "https://www.youtube.com/watch?v=6mPc1h6xs88&pp=ygUb642U6re466CI7J207Iqk7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "656 views"
           },
           {
             "title": "더그레이스  대표원장 인터뷰2",
             "channel": "더그레이스TV",
-            "url": "https://www.youtube.com/watch?v=I9IFZmbfzz8&pp=ygUk642U6re466CI7J207Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=I9IFZmbfzz8&pp=ygUb642U6re466CI7J207Iqk7J2Y7JuQIEtvcmVh",
             "view_text": "289 views"
-          },
-          {
-            "title": "의사가 직접 맞아본 위고비 |4회차!! |턱선이 생겼고 바지가 커졌다!",
-            "channel": "피부대장 도블리TV",
-            "url": "https://www.youtube.com/watch?v=Jc6i2fGllI8&pp=ygUk642U6re466CI7J207Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "1.2K views"
           },
           {
             "title": "10돼지 시절의 대표원장 '20kg감량' 노하우 대공개",
             "channel": "더그레이스TV",
-            "url": "https://www.youtube.com/watch?v=1ogReZwJ4A0&pp=ygUk642U6re466CI7J207Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=1ogReZwJ4A0&pp=ygUb642U6re466CI7J207Iqk7J2Y7JuQIEtvcmVh",
             "view_text": "1.3K views"
+          },
+          {
+            "title": "의사가 직접 맞아본 위고비 |4회차!! |턱선이 생겼고 바지가 커졌다!",
+            "channel": "피부대장 도블리TV",
+            "url": "https://www.youtube.com/watch?v=Jc6i2fGllI8&pp=ygUb642U6re466CI7J207Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "1.2K views"
+          },
+          {
+            "title": "더그레이스의원 최종영상 mbms",
+            "channel": "더그레스의원",
+            "url": "https://www.youtube.com/watch?v=u8umLpGSdUo&pp=ygUb642U6re466CI7J207Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "108 views"
           },
           {
             "title": "[Ep.03] 허벅지부터 여유증까지! 더그레이스 부위별 역대급 전후사례 공개!",
             "channel": "더그레이스TV",
-            "url": "https://www.youtube.com/watch?v=PDnS3jOobkE&pp=ygUk642U6re466CI7J207Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=PDnS3jOobkE&pp=ygUb642U6re466CI7J207Iqk7J2Y7JuQIEtvcmVh",
             "view_text": "1.8K views"
           },
           {
-            "title": "UltraColl 100 vs 200, Which is Better Under the Eyes? with Busan Grace Dermatology (UltraColl 100...",
-            "channel": "Dr Kwon (Dermaster Official)",
-            "url": "https://www.youtube.com/watch?v=vrg-GKqK1LM&pp=ygUk642U6re466CI7J207Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "879 views"
+            "title": "지방분해주사편",
+            "channel": "더그레이스TV",
+            "url": "https://www.youtube.com/watch?v=ztYukl_i-vA&pp=ygUb642U6re466CI7J207Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "23K views"
           },
           {
             "title": "닥터라이브 더그레이스의원 시크릿주사(feat.빠나나)",
             "channel": "더그레이스TV",
-            "url": "https://www.youtube.com/watch?v=lxqvvk0-hx8&pp=ygUk642U6re466CI7J207Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=lxqvvk0-hx8&pp=ygUb642U6re466CI7J207Iqk7J2Y7JuQIEtvcmVh",
             "view_text": "841 views"
+          },
+          {
+            "title": "더그레이스의원 최종영상 mbms",
+            "channel": "구윤영",
+            "url": "https://www.youtube.com/watch?v=OHrD64zj3CM&pp=ygUb642U6re466CI7J207Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "438 views"
           }
         ]
       }
@@ -132,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

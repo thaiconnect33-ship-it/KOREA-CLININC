@@ -1,0 +1,148 @@
+{
+  "query": "아름다움을 써내려가다 에피소드의원 잠실",
+  "generated_at": "2026-05-29T12:06:45.462Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 4023,
+      "extra": {
+        "place_id": "1407096013",
+        "name": "아름다움을 써내려가다 에피소드의원 잠실 : 네이버\u001c",
+        "visitor_review_count": 733,
+        "blog_review_count": 3290,
+        "detail_url": "https://m.place.naver.com/place/1407096013/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Results",
+        "rating": 4.8,
+        "total_reviews": 0,
+        "sample_size": 9,
+        "foreign_language_reviews": 9,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 9
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 13,
+      "extra": {
+        "total_views": 44454,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 13,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 13,
+        "top_videos": [
+          {
+            "title": "에피소드의원",
+            "channel": "PLAYNOW.",
+            "url": "https://www.youtube.com/watch?v=_DeuS8Qz3OI&pp=ygU_7JWE66aE64uk7JuA7J2EIOyNqOuCtOugpOqwgOuLpCDsl5DtlLzshozrk5zsnZjsm5Ag7J6g7IukIEtvcmVh",
+            "view_text": "503 views"
+          },
+          {
+            "title": "울쎄라 써마지 시술을 대체하는 가성비 효과 확실한 시술 3가지",
+            "channel": "미노미의 뷰티코드",
+            "url": "https://www.youtube.com/watch?v=EB9WYkKJcUA&pp=ygU_7JWE66aE64uk7JuA7J2EIOyNqOuCtOugpOqwgOuLpCDsl5DtlLzshozrk5zsnZjsm5Ag7J6g7IukIEtvcmVh",
+            "view_text": "91 views"
+          },
+          {
+            "title": "요즘 강남 40대 50대의 동안 피부를 위한 필수 시술 BEST 5",
+            "channel": "미노미의 뷰티코드",
+            "url": "https://www.youtube.com/watch?v=Bbo9y4Aqwh4&pp=ygU_7JWE66aE64uk7JuA7J2EIOyNqOuCtOugpOqwgOuLpCDsl5DtlLzshozrk5zsnZjsm5Ag7J6g7IukIEtvcmVh",
+            "view_text": "8.6K views"
+          },
+          {
+            "title": "피부과 가기전 필수 시청해야 할 시술 효과 있는 약국템 추천 BEST 5",
+            "channel": "미노미의 뷰티코드",
+            "url": "https://www.youtube.com/watch?v=CCmqnSby80k&pp=ygU_7JWE66aE64uk7JuA7J2EIOyNqOuCtOugpOqwgOuLpCDsl5DtlLzshozrk5zsnZjsm5Ag7J6g7IukIEtvcmVh",
+            "view_text": "75 views"
+          },
+          {
+            "title": "속에서만 만져지는 짤 수 없는 여드름을 박멸하는 3가지 방법 | 화농성 여드름, 모낭염, 피지 낭종, 좁쌀 여드름까지",
+            "channel": "미노미의 뷰티코드",
+            "url": "https://www.youtube.com/watch?v=jmbSkeb9j84&pp=ygU_7JWE66aE64uk7JuA7J2EIOyNqOuCtOugpOqwgOuLpCDsl5DtlLzshozrk5zsnZjsm5Ag7J6g7IukIEtvcmVh",
+            "view_text": "228 views"
+          },
+          {
+            "title": "(실제 시술 과정) 10살은 어려보이는 레이저 제모 효과 3배 높이는 방법",
+            "channel": "미노미의 뷰티코드",
+            "url": "https://www.youtube.com/watch?v=MHpluZmzbqk&pp=ygU_7JWE66aE64uk7JuA7J2EIOyNqOuCtOugpOqwgOuLpCDsl5DtlLzshozrk5zsnZjsm5Ag7J6g7IukIEtvcmVh",
+            "view_text": "1.5K views"
+          },
+          {
+            "title": "또래보다 10년은 젊어지는 동안 보톡스 필수 시술 부위 3가지 | 부작용",
+            "channel": "미노미의 뷰티코드",
+            "url": "https://www.youtube.com/watch?v=dymUDHqLbrE&pp=ygU_7JWE66aE64uk7JuA7J2EIOyNqOuCtOugpOqwgOuLpCDsl5DtlLzshozrk5zsnZjsm5Ag7J6g7IukIEtvcmVh",
+            "view_text": "2.5K views"
+          },
+          {
+            "title": "피부 MBTI별 2배 더 나아지는 나만의 피부 관리법",
+            "channel": "미노미의 뷰티코드",
+            "url": "https://www.youtube.com/watch?v=0CAp_KrgrLk&pp=ygU_7JWE66aE64uk7JuA7J2EIOyNqOuCtOugpOqwgOuLpCDsl5DtlLzshozrk5zsnZjsm5Ag7J6g7IukIEtvcmVh",
+            "view_text": "104 views"
+          },
+          {
+            "title": "피부과 갈 돈 1,000만 원 아끼는 기미 잡티 막는 선크림 활용법 총정리",
+            "channel": "미노미의 뷰티코드",
+            "url": "https://www.youtube.com/watch?v=XgyPsRDLpUs&pp=ygU_7JWE66aE64uk7JuA7J2EIOyNqOuCtOugpOqwgOuLpCDsl5DtlLzshozrk5zsnZjsm5Ag7J6g7IukIEtvcmVh",
+            "view_text": "58 views"
+          },
+          {
+            "title": "집에서 관리해도 좁쌀여드름 싹 들어가는 홈케어 3단계 법칙",
+            "channel": "미노미의 뷰티코드",
+            "url": "https://www.youtube.com/watch?v=io8f4liQ8wg&pp=ygU_7JWE66aE64uk7JuA7J2EIOyNqOuCtOugpOqwgOuLpCDsl5DtlLzshozrk5zsnZjsm5Ag7J6g7IukIEtvcmVh",
+            "view_text": "95 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 5,
+  "opportunity_cost_thb": 85500,
+  "opportunity_cost_krw": 3420000
+}

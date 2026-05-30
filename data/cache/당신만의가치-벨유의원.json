@@ -1,16 +1,18 @@
 {
   "query": "당신만의가치 벨유의원",
-  "generated_at": "2026-05-28T23:06:22.299Z",
+  "generated_at": "2026-05-29T11:46:25.826Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 1821,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "1943327665",
+        "name": "당신만의가치 벨유의원 : 네이버\u001c",
+        "visitor_review_count": 682,
+        "blog_review_count": 1139,
+        "detail_url": "https://m.place.naver.com/place/1943327665/home"
       }
     },
     "google_maps": {
@@ -43,9 +45,26 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 0,
+      "metric_value": 1,
       "extra": {
-        "note": "결과 없음"
+        "total_views": 271,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 1,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 1,
+        "top_videos": [
+          {
+            "title": "[비올] 추가상승할까?",
+            "channel": "MrMoney",
+            "url": "https://www.youtube.com/watch?v=M9Qj0pGsUHc&pp=ygUl64u57Iug66eM7J2Y6rCA7LmYIOuyqOycoOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "271 views"
+          }
+        ]
       }
     },
     "xiaohongshu": {
@@ -59,12 +78,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

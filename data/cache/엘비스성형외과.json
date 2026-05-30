@@ -1,6 +1,6 @@
 {
   "query": "엘비스성형외과",
-  "generated_at": "2026-05-29T05:57:13.260Z",
+  "generated_at": "2026-05-29T10:23:24.835Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -16,18 +16,18 @@
     "google_maps": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 290,
       "extra": {
         "name": "Results",
-        "rating": 4,
-        "total_reviews": 0,
-        "sample_size": 6,
-        "foreign_language_reviews": 6,
+        "rating": 4.6,
+        "total_reviews": 290,
+        "sample_size": 9,
+        "foreign_language_reviews": 9,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 6
+          "english_other": 9
         }
       }
     },
@@ -45,7 +45,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 8026104,
+        "total_views": 8113490,
         "foreign_video_count": 20,
         "lang_breakdown": {
           "korean": 0,
@@ -60,61 +60,61 @@
             "title": "Is \"Revision Facelift\" impossible? Find out with our doctors!",
             "channel": "VLIF Plastic Surgery Korea",
             "url": "https://www.youtube.com/watch?v=7Z2z_YbWOCQ&pp=ygUaTFZJUyBQbGFzdGljIFN1cmdlcnkgS29yZWE%3D",
-            "view_text": "714"
+            "view_text": "714 views"
           },
           {
             "title": "EASY WAY TO LAVIAN | LAVIAN AESTHETIC & PLASTIC SURGERY | GANGNAM-SEOUL",
             "channel": "LAVIAN PLASTIC SURGERY in KOREA",
-            "url": "https://www.youtube.com/watch?v=pOIoKIb3vWc&pp=ygUaTFZJUyBQbGFzdGljIFN1cmdlcnkgS29yZWE%3D",
-            "view_text": "655"
+            "url": "https://www.youtube.com/watch?v=pOIoKIb3vWc&pp=ygUaTFZJUyBQbGFzdGljIFN1cmdlcnkgS29yZWHSBwkJIwsBhyohjO8%3D",
+            "view_text": "655 views"
           },
           {
             "title": "Dr Marco Faria Correa explains Extreme Makeover Plastic Surgery",
             "channel": "Expat Choice Asia",
             "url": "https://www.youtube.com/watch?v=PsBdRaWt97E&pp=ygUaTFZJUyBQbGFzdGljIFN1cmdlcnkgS29yZWE%3D",
-            "view_text": "155"
-          },
-          {
-            "title": "Plastic Surgery Nightmare!",
-            "channel": "Dr90210stories",
-            "url": "https://www.youtube.com/watch?v=1bIPxi0wXps&pp=ygUaTFZJUyBQbGFzdGljIFN1cmdlcnkgS29yZWE%3D",
-            "view_text": "730"
+            "view_text": "155 views"
           },
           {
             "title": "[ENG]What is the key to being a beautiful women?!  Let's see in celebrities comparison!",
             "channel": "CDU & ONECELL - Plastic Surgery Korea",
             "url": "https://www.youtube.com/watch?v=-G3a0uEUYGE&pp=ygUaTFZJUyBQbGFzdGljIFN1cmdlcnkgS29yZWE%3D",
-            "view_text": "475"
+            "view_text": "475 views"
+          },
+          {
+            "title": "Plastic Surgery Nightmare!",
+            "channel": "Dr90210stories",
+            "url": "https://www.youtube.com/watch?v=1bIPxi0wXps&pp=ygUaTFZJUyBQbGFzdGljIFN1cmdlcnkgS29yZWE%3D",
+            "view_text": "730 views"
           },
           {
             "title": "MISTAKES and LESSONS From CELEBRITY PLASTIC SURGERY",
             "channel": "Dr. Anil Rajani",
             "url": "https://www.youtube.com/watch?v=j78E4whrMoQ&pp=ygUaTFZJUyBQbGFzdGljIFN1cmdlcnkgS29yZWE%3D",
-            "view_text": "6.4K"
+            "view_text": "6.4K views"
           },
           {
             "title": "We won again! :) Best Plastic Surgery Practice Australasia 2016",
             "channel": "Dr. Michael Miroshnik",
             "url": "https://www.youtube.com/watch?v=1RtCsQ11amU&pp=ygUaTFZJUyBQbGFzdGljIFN1cmdlcnkgS29yZWE%3D",
-            "view_text": "1.9K"
-          },
-          {
-            "title": "Hawaii Plastic Surgery Associates - Kim Gennaula's Procedure",
-            "channel": "Menpachi Productions",
-            "url": "https://www.youtube.com/watch?v=6rwnOGXrjKM&pp=ygUaTFZJUyBQbGFzdGljIFN1cmdlcnkgS29yZWHSBwkJIwsBhyohjO8%3D",
-            "view_text": "4.3K"
+            "view_text": "1.9K views"
           },
           {
             "title": "Fox News Channel - Dr. Youn Comments On Awful Celebrity Plastic Surgery",
             "channel": "Doctor Youn",
-            "url": "https://www.youtube.com/watch?v=IgOGrsdbObU&pp=ygUaTFZJUyBQbGFzdGljIFN1cmdlcnkgS29yZWHSBwkJIwsBhyohjO8%3D",
-            "view_text": "55K"
+            "url": "https://www.youtube.com/watch?v=IgOGrsdbObU&pp=ygUaTFZJUyBQbGFzdGljIFN1cmdlcnkgS29yZWE%3D",
+            "view_text": "55K views"
           },
           {
             "title": "Eps 4, (Part 1 of 3) The Beauty Show, PHX",
             "channel": "TheBeautyShowTV",
             "url": "https://www.youtube.com/watch?v=TSfxxnIZBQE&pp=ygUaTFZJUyBQbGFzdGljIFN1cmdlcnkgS29yZWE%3D",
-            "view_text": "295"
+            "view_text": "295 views"
+          },
+          {
+            "title": "Hawaii Plastic Surgery Associates - Kim Gennaula's Procedure",
+            "channel": "Menpachi Productions",
+            "url": "https://www.youtube.com/watch?v=6rwnOGXrjKM&pp=ygUaTFZJUyBQbGFzdGljIFN1cmdlcnkgS29yZWE%3D",
+            "view_text": "4.3K views"
           }
         ]
       }
@@ -140,7 +140,7 @@
       }
     }
   },
-  "global_score": 19,
-  "opportunity_cost_thb": 87000,
-  "opportunity_cost_krw": 3480000
+  "global_score": 21,
+  "opportunity_cost_thb": 85500,
+  "opportunity_cost_krw": 3420000
 }

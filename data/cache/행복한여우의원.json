@@ -1,17 +1,17 @@
 {
   "query": "행복한여우의원",
-  "generated_at": "2026-05-28T23:45:32.122Z",
+  "generated_at": "2026-05-29T12:31:35.954Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 1142,
+      "metric_value": 1145,
       "extra": {
         "place_id": "12766928",
         "name": "행복한여우의원 : 네이버\u001c",
         "visitor_review_count": 180,
-        "blog_review_count": 962,
+        "blog_review_count": 965,
         "detail_url": "https://m.place.naver.com/place/12766928/home"
       }
     },
@@ -45,78 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 20,
+      "metric_value": 19,
       "extra": {
-        "total_views": 15878,
+        "total_views": 26735,
         "foreign_video_count": 0,
         "lang_breakdown": {
-          "korean": 20,
+          "korean": 19,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
           "english_other": 0
         },
-        "sample_size": 20,
+        "sample_size": 19,
         "top_videos": [
-          {
-            "title": "의사가 말하는 자가진피재생술 선택 기준 — 수기 vs 기계 🤫",
-            "channel": "행복한여우_자가진피재생술",
-            "url": "https://www.youtube.com/watch?v=EYVwb6G3gHk&pp=ygUn7ZaJ67O17ZWc7Jes7Jqw7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "411 views"
-          },
-          {
-            "title": "행복한여우성형외과",
-            "channel": "KOREA AM",
-            "url": "https://www.youtube.com/watch?v=i7WfOmomnqA&pp=ygUn7ZaJ67O17ZWc7Jes7Jqw7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "181 views"
-          },
           {
             "title": "#팔자주름 #입가주름 이렇게 없앴다❗ (feat. 자가진피재생술)",
             "channel": "행복한여우_자가진피재생술",
-            "url": "https://www.youtube.com/watch?v=rvRDS0tDW8A&pp=ygUn7ZaJ67O17ZWc7Jes7Jqw7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=rvRDS0tDW8A&pp=ygUb7ZaJ67O17ZWc7Jes7Jqw7J2Y7JuQIEtvcmVh",
             "view_text": "764 views"
+          },
+          {
+            "title": "의사가 말하는 자가진피재생술 선택 기준 — 수기 vs 기계 🤫",
+            "channel": "행복한여우_자가진피재생술",
+            "url": "https://www.youtube.com/watch?v=EYVwb6G3gHk&pp=ygUb7ZaJ67O17ZWc7Jes7Jqw7J2Y7JuQIEtvcmVh",
+            "view_text": "413 views"
           },
           {
             "title": "#미간주름 자가진피재생술로 얼마나 달라졌을까?",
             "channel": "행복한여우_자가진피재생술",
-            "url": "https://www.youtube.com/watch?v=kxwiE3p0-64&pp=ygUn7ZaJ67O17ZWc7Jes7Jqw7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=kxwiE3p0-64&pp=ygUb7ZaJ67O17ZWc7Jes7Jqw7J2Y7JuQIEtvcmVh",
             "view_text": "548 views"
           },
           {
-            "title": "#깊은팔자주름 깨끗하게 없어졌다?! 어떻게?!! (feat. 자가진피재생술)",
+            "title": "#필러 vs #자가진피재생술 뭐가 다른 건가요?",
             "channel": "행복한여우_자가진피재생술",
-            "url": "https://www.youtube.com/watch?v=JkOeA10CznY&pp=ygUn7ZaJ67O17ZWc7Jes7Jqw7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "785 views"
+            "url": "https://www.youtube.com/watch?v=RYrfHytvOag&pp=ygUb7ZaJ67O17ZWc7Jes7Jqw7J2Y7JuQIEtvcmVh",
+            "view_text": "5.5K views"
           },
           {
-            "title": "[Autologous Dermal Regeneration Chickenpox Scar Case] ​​A must-watch if you are worried about fac...",
+            "title": "이마 & 미간 주름 진짜 간단하면서 확실하게 없애는 방법❗ 바로 확인해 보세요~!",
             "channel": "행복한여우_자가진피재생술",
-            "url": "https://www.youtube.com/watch?v=qalF6ldCbc8&pp=ygUn7ZaJ67O17ZWc7Jes7Jqw7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.4K views"
+            "url": "https://www.youtube.com/watch?v=wUsWnAzCJNk&pp=ygUb7ZaJ67O17ZWc7Jes7Jqw7J2Y7JuQIEtvcmVh",
+            "view_text": "838 views"
           },
           {
-            "title": "웃을 때 신경 쓰이는 입가 주름, 자가진피재생술로 해결된 실제 사례! 📺",
+            "title": "자가진피재생술 수기 시술만을 고집하는 진짜 이유! (feat. 시술 전후 모습 전격 공개‼)",
             "channel": "행복한여우_자가진피재생술",
-            "url": "https://www.youtube.com/watch?v=xQudSag5v9U&pp=ygUn7ZaJ67O17ZWc7Jes7Jqw7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "541 views"
+            "url": "https://www.youtube.com/watch?v=fxuK24M9Tk4&pp=ygUb7ZaJ67O17ZWc7Jes7Jqw7J2Y7JuQIEtvcmVh",
+            "view_text": "8.5K views"
           },
           {
-            "title": "눈가 주름 제대로 없애는 방법 대공개!",
+            "title": "자가진피재생술 주름치료 Q&A [추측, 억측 NO!!] 궁금증을 해결해 보세요.",
             "channel": "행복한여우_자가진피재생술",
-            "url": "https://www.youtube.com/watch?v=mX4YddI8OYU&pp=ygUn7ZaJ67O17ZWc7Jes7Jqw7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.4K views"
+            "url": "https://www.youtube.com/watch?v=UuBmdPRtjBY&pp=ygUb7ZaJ67O17ZWc7Jes7Jqw7J2Y7JuQIEtvcmVh",
+            "view_text": "700 views"
           },
           {
-            "title": "미간 · 앞턱 주름 시술, TOP 1위 👑자가진피재생술👑 주름 없애는 법 주목하세요! 👀",
+            "title": "주름에 돈 그만 쓰세요. 비싼 리프팅 레이저보다 효과 빠른 시술 대공개 #팔자주름 #입가주름",
             "channel": "행복한여우_자가진피재생술",
-            "url": "https://www.youtube.com/watch?v=4p3BiiJFjvQ&pp=ygUn7ZaJ67O17ZWc7Jes7Jqw7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "623 views"
+            "url": "https://www.youtube.com/watch?v=MFmuuxCyEog&pp=ygUb7ZaJ67O17ZWc7Jes7Jqw7J2Y7JuQIEtvcmVh",
+            "view_text": "82 views"
           },
           {
-            "title": "축~~ 늘어져 있는 팔자주름 싹-! 없애고 리즈시절 되찾기!",
+            "title": "#눈가흉터 #미간주름 어떻게 없애냐고요? (feat. 자가진피재생술)",
             "channel": "행복한여우_자가진피재생술",
-            "url": "https://www.youtube.com/watch?v=DZxVBvA_V3A&pp=ygUn7ZaJ67O17ZWc7Jes7Jqw7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "365 views"
+            "url": "https://www.youtube.com/watch?v=nuHtDVpdz4Y&pp=ygUb7ZaJ67O17ZWc7Jes7Jqw7J2Y7JuQIEtvcmVh",
+            "view_text": "1.3K views"
+          },
+          {
+            "title": "다양한 문제들이 많았던 #눈가흉터 자가진피재생술로 없앨 수 있을까?",
+            "channel": "행복한여우_자가진피재생술",
+            "url": "https://www.youtube.com/watch?v=fPDxLxtZ1-c&pp=ygUb7ZaJ67O17ZWc7Jes7Jqw7J2Y7JuQIEtvcmVh",
+            "view_text": "1.1K views"
           }
         ]
       }
@@ -132,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

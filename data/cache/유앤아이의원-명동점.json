@@ -1,0 +1,148 @@
+{
+  "query": "유앤아이의원 명동점",
+  "generated_at": "2026-05-29T11:46:44.941Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 7411,
+      "extra": {
+        "place_id": "1528320866",
+        "name": "유앤아이의원 명동점 : 네이버\u001c",
+        "visitor_review_count": 667,
+        "blog_review_count": 6744,
+        "detail_url": "https://m.place.naver.com/place/1528320866/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "YOU&I Skin Clinic Myeong-dong",
+        "rating": 4.5,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 1735882,
+        "foreign_video_count": 1,
+        "lang_breakdown": {
+          "korean": 19,
+          "thai": 0,
+          "chinese": 1,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "진짜 솔직하게 말씀드립니다! 가족이 한다하면 무조건 말리는 시술 3가지 vs 추천하는 시술 3가지",
+            "channel": "닥터블랑_예뻐지는비결",
+            "url": "https://www.youtube.com/watch?v=tZGTeWQ5TmY&pp=ygUi7Jyg7JWk7JWE7J207J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "10K views"
+          },
+          {
+            "title": "[취뽀탐구생활]😍유앤아이 영등포점 쁘이로그😍전국 최대 규모 수준의 시설🏥 / 4년 근속의 이유 있는 이유⭐",
+            "channel": "명지전문대 뷰티 스킨 케어 전공",
+            "url": "https://www.youtube.com/watch?v=siXc37mBsxQ&pp=ygUi7Jyg7JWk7JWE7J207J2Y7JuQIOuqheuPmeygkCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "2.1K views"
+          },
+          {
+            "title": "[취뽀탐구생활]✌유앤아이 신촌점 쁘이로그 ✌ 화이팅 넘치는 그녀의 업무현장! 나만 믿고 따라와~😉",
+            "channel": "명지전문대 뷰티 스킨 케어 전공",
+            "url": "https://www.youtube.com/watch?v=PHJvdSfu_W8&pp=ygUi7Jyg7JWk7JWE7J207J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "646 views"
+          },
+          {
+            "title": "\"시술 그만하겠다\"에 \"환불 불가\"…피부과 최다 / SBS",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=dYbmlkVo8AE&pp=ygUi7Jyg7JWk7JWE7J207J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "4.8K views"
+          },
+          {
+            "title": "What kind of treatments do I get? I’m telling you everything💆🏻‍♀️",
+            "channel": "최종시안",
+            "url": "https://www.youtube.com/watch?v=8W31tqhdvLA&pp=ygUi7Jyg7JWk7JWE7J207J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "1M views"
+          },
+          {
+            "title": "피부 관리 인기 시술 20가지, 싹 다 알려드립니다!",
+            "channel": "닥터블랑_예뻐지는비결",
+            "url": "https://www.youtube.com/watch?v=1LiftNouXB0&pp=ygUi7Jyg7JWk7JWE7J207J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "57K views"
+          },
+          {
+            "title": "[피부과] 닥터에버스 명동점 VIP 라운지 오픈 | 피부 고민을 보다 편안하게 정리하는 공간",
+            "channel": "닥터에버스",
+            "url": "https://www.youtube.com/watch?v=sEGNOfig0tg&pp=ygUi7Jyg7JWk7JWE7J207J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "70 views"
+          },
+          {
+            "title": "[취뽀탐구생활]🌟웰스 피부과 압구정본점 브이로그🌟 바쁜 일상 속 한줄기 빛🌠 일상 속 힐링이 가능한 곳💖",
+            "channel": "명지전문대 뷰티 스킨 케어 전공",
+            "url": "https://www.youtube.com/watch?v=CPhG_E-AGiw&pp=ygUi7Jyg7JWk7JWE7J207J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "449 views"
+          },
+          {
+            "title": "의사가 알려주는 제모 10번 해도 안 없어지는 이유 | 이거 모르면 돈만 날립니다",
+            "channel": "닥터블랑_예뻐지는비결",
+            "url": "https://www.youtube.com/watch?v=_-0TviDikkA&pp=ygUi7Jyg7JWk7JWE7J207J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "251K views"
+          },
+          {
+            "title": "이 병원, 왜 이렇게 싸지? 싼 이유가 있습니다 | 공장형 피부과 VS 개인 병원 차이",
+            "channel": "김태영의 피부공식",
+            "url": "https://www.youtube.com/watch?v=H5CSs85Zijw&pp=ygUi7Jyg7JWk7JWE7J207J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "6K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 1,
+  "opportunity_cost_thb": 99500,
+  "opportunity_cost_krw": 3980000
+}

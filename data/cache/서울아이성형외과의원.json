@@ -1,26 +1,28 @@
 {
   "query": "서울아이성형외과의원",
-  "generated_at": "2026-05-28T23:53:00.815Z",
+  "generated_at": "2026-05-29T12:39:46.060Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 2635,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "1240083198",
+        "name": "서울아이성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 1273,
+        "blog_review_count": 1362,
+        "detail_url": "https://m.place.naver.com/place/1240083198/home"
       }
     },
     "google_maps": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 255,
+      "metric_value": 261,
       "extra": {
         "name": "서울아이성형외과 (Seoul I Plastic Surgery)",
         "rating": 4.9,
-        "total_reviews": 255,
+        "total_reviews": 261,
         "sample_size": 22,
         "foreign_language_reviews": 22,
         "lang_breakdown": {
@@ -45,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 4278840,
+        "total_views": 13074679,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -57,64 +59,64 @@
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "[생(生)로(老)성(成)형(形)의 비밀] 동안의 비밀 #1. 처진 눈꺼풀로 고민인 당신에게 (아이니크성형외과 양해원 원장)",
-            "channel": "의학채널 비온뒤",
-            "url": "https://www.youtube.com/watch?v=gd0P_Oxw0L8&pp=ygU27ISc7Jq47JWE7J207ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "17K views"
+            "title": "EP1. 경남 발품만 30곳, 강남 오자마자 \"여기다\" 싶어 바로 수술 결정한 이유 (눈매교정+눈밑지+듀얼트임) |후기있음",
+            "channel": "아이케이성형외과 IK plastic surgery clinic",
+            "url": "https://www.youtube.com/watch?v=Rh_xZRq6jFE&pp=ygUk7ISc7Jq47JWE7J207ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "4.3K views"
           },
           {
-            "title": "눈밑지방재배치, 오브제성형외과가 유명한 이유! 내 눈이 볼록해지고 피곤해보이는 원인, 하안검과의 차이점 [코디 수진과 함께하는 눈밑지 1부]",
-            "channel": "오브제TV",
-            "url": "https://www.youtube.com/watch?v=nBvF81lDSTg&pp=ygU27ISc7Jq47JWE7J207ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "10K views"
+            "title": "EP2.절개 쌍꺼풀+눈매교정+눈밑지+듀얼트임 한 달 차 리얼 후기! (feat. 나이트 프리패스 썰 푼다)",
+            "channel": "아이케이성형외과 IK plastic surgery clinic",
+            "url": "https://www.youtube.com/watch?v=-PVHjStbraE&pp=ygUk7ISc7Jq47JWE7J207ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "51K views"
           },
           {
-            "title": "쌍꺼풀 수술과 눈매교정 차이 쉽게❕❕ 알려드려요 1분 QnAㅣ박장우 원장",
-            "channel": "WJ원진성형외과",
-            "url": "https://www.youtube.com/watch?v=Ae0zIgq5MJA&pp=ygU27ISc7Jq47JWE7J207ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "30K views"
+            "title": "안면거상수술로 남들보다 두 배 더 효과볼 얼굴",
+            "channel": "아이팅성형외과",
+            "url": "https://www.youtube.com/watch?v=uf0yQw_XX9c&pp=ygUk7ISc7Jq47JWE7J207ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "14K views"
           },
           {
             "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
             "channel": "JTBC News",
-            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygU27ISc7Jq47JWE7J207ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUk7ISc7Jq47JWE7J207ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
             "view_text": "1M views"
           },
           {
             "title": "\"강남 유명 성형외과서 수술 뒤 눈이 실명됐습니다\" [지금이뉴스] / YTN",
             "channel": "YTN",
-            "url": "https://www.youtube.com/watch?v=UyMrX929Q4I&pp=ygU27ISc7Jq47JWE7J207ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=UyMrX929Q4I&pp=ygUk7ISc7Jq47JWE7J207ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "576K views"
           },
           {
-            "title": "상처 봉합, 성형외과 의사가 봉합하면 다르다?",
-            "channel": "성형외과전문의 송선호",
-            "url": "https://www.youtube.com/watch?v=ZfhNxCe44iQ&pp=ygU27ISc7Jq47JWE7J207ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
-            "view_text": "1.8K views"
+            "title": "바르고 먹는 콜라겐 말고 \"울트라콜\" 하세요! with.서울아이성형외과 (Stop eating collagen! Try \"Ultracol\")",
+            "channel": "Dr Kwon (Dermaster Official)",
+            "url": "https://www.youtube.com/watch?v=Dl2LpkpAUPI&pp=ygUk7ISc7Jq47JWE7J207ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "644 views"
           },
           {
-            "title": "나이 들어 보이는 꺼진눈, 겹주름 고민이신가요? | 케이스 리뷰 : 눈 위 꺼짐, 아이홀 간단 해결법 지방이식❌ 필러❌ (고급 눈성형&쌍꺼풀재수술 편) | 에디션성형외과X한대희원장",
-            "channel": "에디션TV [Edition Plastic Surgery Korea]",
-            "url": "https://www.youtube.com/watch?v=uT4i83HMAtw&pp=ygU27ISc7Jq47JWE7J207ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "13K views"
-          },
-          {
-            "title": "이마거상 왜 인기가 많을까요? 🌟👀 전후 효과, 부작용까지 알려드립니다",
-            "channel": "더플랜성형외과",
-            "url": "https://www.youtube.com/watch?v=6rJcJ4I3r6s&pp=ygU27ISc7Jq47JWE7J207ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "12K views"
+            "title": "The Truth Behind CCTV Footage of Brain Death After Liposuction [Whistleblowers] 20200819",
+            "channel": "KBS 다큐",
+            "url": "https://www.youtube.com/watch?v=Oa1cnInjgBE&pp=ygUk7ISc7Jq47JWE7J207ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "4.9M views"
           },
           {
             "title": "[단독] 서울 성형외과서 안면윤곽수술 받은 20대, 이틀 뒤 중태[MBN 종합뉴스]",
             "channel": "MBN News",
-            "url": "https://www.youtube.com/watch?v=uEmdpajWbns&pp=ygU27ISc7Jq47JWE7J207ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=uEmdpajWbns&pp=ygUk7ISc7Jq47JWE7J207ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "76K views"
           },
           {
-            "title": "눈 밑 지방 재배치 수술은 절대 쉬운 수술이 아닙니다!_[부산 케이엔젤성형외과]",
-            "channel": "케이엔젤 K-Angel",
-            "url": "https://www.youtube.com/watch?v=jaL81vsRwnk&pp=ygU27ISc7Jq47JWE7J207ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "7.5K views"
+            "title": "아이니크성형외과 공유택 원장님을 소개합니다🥰",
+            "channel": "아이니크TV - INIQUE PS",
+            "url": "https://www.youtube.com/watch?v=ej-lJnY3b6E&pp=ygUk7ISc7Jq47JWE7J207ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "719 views"
+          },
+          {
+            "title": "SM 천상계 연예인으로 만들어준다는 성형외과!!",
+            "channel": "핫이슈HOT ISSUE",
+            "url": "https://www.youtube.com/watch?v=WTeNWTENa54&pp=ygUk7ISc7Jq47JWE7J207ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.7M views"
           }
         ]
       }
@@ -130,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

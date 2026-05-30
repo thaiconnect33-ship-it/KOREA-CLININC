@@ -1,17 +1,17 @@
 {
   "query": "산타클로스의원",
-  "generated_at": "2026-05-28T23:15:18.550Z",
+  "generated_at": "2026-05-29T11:57:14.224Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 1650,
+      "metric_value": 1651,
       "extra": {
         "place_id": "31806792",
         "name": "산타클로스의원 : 네이버\u001c",
         "visitor_review_count": 229,
-        "blog_review_count": 1421,
+        "blog_review_count": 1422,
         "detail_url": "https://m.place.naver.com/place/31806792/home"
       }
     },
@@ -45,78 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 16,
+      "metric_value": 20,
       "extra": {
-        "total_views": 2267726,
-        "foreign_video_count": 0,
+        "total_views": 70566,
+        "foreign_video_count": 1,
         "lang_breakdown": {
-          "korean": 16,
+          "korean": 19,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
-          "english_other": 0
+          "english_other": 1
         },
-        "sample_size": 16,
+        "sample_size": 20,
         "top_videos": [
           {
-            "title": "주름개선 수술!! 안면 거상술이란? / 건강UP! 울산UP! 8월 11일 방송",
-            "channel": "울산MBC",
-            "url": "https://www.youtube.com/watch?v=C2VUguErYYs&pp=ygUn7IKw7YOA7YG066Gc7Iqk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "124 views"
+            "title": "Introducing \"Ultracol 100,\" the number one contributor to elastic and firm skin (with Santa Claus...",
+            "channel": "Dr Kwon (Dermaster Official)",
+            "url": "https://www.youtube.com/watch?v=_VOhxt686LA&pp=ygUb7IKw7YOA7YG066Gc7Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "1.5K views"
           },
           {
-            "title": "재벌총수 출국금지...성형외과 '필적' 감정 방침 / YTN (Yes! Top News)",
+            "title": "산타클로스, 알래스카 시의원 되다! / YTN",
             "channel": "YTN",
-            "url": "https://www.youtube.com/watch?v=8W21vEG3Sn8&pp=ygUn7IKw7YOA7YG066Gc7Iqk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "252 views"
+            "url": "https://www.youtube.com/watch?v=JZkA1Wts6KY&pp=ygUb7IKw7YOA7YG066Gc7Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "708 views"
           },
           {
-            "title": "'보톡스 3편' (서울에이치피부과 김형수 원장)",
-            "channel": "의학채널 비온뒤",
-            "url": "https://www.youtube.com/watch?v=Z6aOw4d4ph4&pp=ygUn7IKw7YOA7YG066Gc7Iqk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "3.3K views"
+            "title": "국회에 등장한 산타클로스? 의원들 캐럴 앨범 제작_채널A_뉴스TOP10",
+            "channel": "채널A 뉴스TOP10",
+            "url": "https://www.youtube.com/watch?v=I3BhWXCrN34&pp=ygUb7IKw7YOA7YG066Gc7Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "495 views"
           },
           {
-            "title": "#헤나염색 했는데... 피부가 왜 이러지? 혹시 내가 헤나 염색 #부작용 [강남피부과, 성형외과 산타홍🎅🏻]",
-            "channel": "산타홍의원",
-            "url": "https://www.youtube.com/watch?v=g0yFVjbdrY4&pp=ygUn7IKw7YOA7YG066Gc7Iqk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.1K views"
+            "title": "[최종현TV] KT wiz와 함께하는 제11회 수원 사랑의 산타클로스",
+            "channel": "최종현TV",
+            "url": "https://www.youtube.com/watch?v=gDIzGWBnCVk&pp=ygUb7IKw7YOA7YG066Gc7Iqk7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "38 views"
           },
           {
-            "title": "큐오필 마스터가 말한다! 풀페이스 필러 큐오필의 효과와 장단점",
-            "channel": "닥터호호",
-            "url": "https://www.youtube.com/watch?v=B_AhUoTx-SU&pp=ygUn7IKw7YOA7YG066Gc7Iqk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "11K views"
+            "title": "🎄북극의 혹독한 추위에도 산타 피부가 좋은 이유🎅🏻 산타도 피부관리 한다? 루돌프와 함께 간 피부과 썰! 세계최초 본격 산타피부 해독🌟ㅣ채정완의 피부지식",
+            "channel": "채정완의 피부지식",
+            "url": "https://www.youtube.com/watch?v=vIBi8dDu4NE&pp=ygUb7IKw7YOA7YG066Gc7Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "245 views"
           },
           {
-            "title": "Transgender plastic surgery addict",
-            "channel": "카광",
-            "url": "https://www.youtube.com/watch?v=V_68vGAFtHk&pp=ygUn7IKw7YOA7YG066Gc7Iqk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.3M views"
+            "title": "산타클로스, 중공을 내쫓다/강소국 핀란드의 역사/미얀마 사태 해설",
+            "channel": "박상후의 문명개화",
+            "url": "https://www.youtube.com/watch?v=IpphMa_GPAA&pp=ygUb7IKw7YOA7YG066Gc7Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "62K views"
           },
           {
-            "title": "명의 - Best Doctors_필리핀 의료 봉사 - 1부_#004",
-            "channel": "EBSDocumentary (EBS 다큐)",
-            "url": "https://www.youtube.com/watch?v=_PHF_f9tSLs&pp=ygUn7IKw7YOA7YG066Gc7Iqk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "10K views"
+            "title": "윤아를 찾아온 산타 2탄",
+            "channel": "Martin KO (꼬재)",
+            "url": "https://www.youtube.com/watch?v=1Cggmx0Jom0&pp=ygUb7IKw7YOA7YG066Gc7Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "46 views"
           },
           {
-            "title": "2019 크리스마스 소품을 추천합니다!3편! Christmas, Christmas item",
-            "channel": "하늘성형외과의원",
-            "url": "https://www.youtube.com/watch?v=YVg01OAuHI0&pp=ygUn7IKw7YOA7YG066Gc7Iqk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "3.2K views"
+            "title": "[국회의원 길정우] 길정우 산타클로스",
+            "channel": "길정우",
+            "url": "https://www.youtube.com/watch?v=HvTPGgkjTEo&pp=ygUb7IKw7YOA7YG066Gc7Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "643 views"
           },
           {
-            "title": "′파란만장 연애사′ 데미무어, 젊어지기 위해 무릎 성형 수술까지?! ′충격′ 180912 EP.320",
-            "channel": "eNEWS24",
-            "url": "https://www.youtube.com/watch?v=0h-8tSQM9Wk&pp=ygUn7IKw7YOA7YG066Gc7Iqk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "365 views"
+            "title": "[좋은뉴스] '대전 1월 산타클로스' 이승호 한의사 / YTN (Yes! Top News)",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=Un1fDJwLPc0&pp=ygUb7IKw7YOA7YG066Gc7Iqk7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "169 views"
           },
           {
-            "title": "보톡스 내성 없다는 근거 보여드립니다!!!! 내성이 무서워서 보톡스 시술 안 받고 계신가요? 보톡스 내성 걱정 마시고 이뻐지고 젊어지세요!!!",
-            "channel": "김태영의 피부공식",
-            "url": "https://www.youtube.com/watch?v=QvLi65jLmWA&pp=ygUn7IKw7YOA7YG066Gc7Iqk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "12K views"
+            "title": "뉴욕, 산타클로스들의 대잔치",
+            "channel": "Hi 차이나",
+            "url": "https://www.youtube.com/watch?v=IUffFcHmio4&pp=ygUb7IKw7YOA7YG066Gc7Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "229 views"
           }
         ]
       }
@@ -132,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 1,
-  "opportunity_cost_thb": 99000,
-  "opportunity_cost_krw": 3960000
+  "global_score": 2,
+  "opportunity_cost_thb": 98500,
+  "opportunity_cost_krw": 3940000
 }

@@ -1,16 +1,18 @@
 {
   "query": "스킨메디피부과의원",
-  "generated_at": "2026-05-28T22:21:10.581Z",
+  "generated_at": "2026-05-29T10:57:49.634Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 2416,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "1477499907",
+        "name": "스킨메디피부과의원 : 네이버\u001c",
+        "visitor_review_count": 627,
+        "blog_review_count": 1789,
+        "detail_url": "https://m.place.naver.com/place/1477499907/home"
       }
     },
     "google_maps": {
@@ -19,7 +21,7 @@
       "metric_value": 0,
       "extra": {
         "name": "SkinMedi Dermatology Clinic",
-        "rating": 4.2,
+        "rating": 4.3,
         "total_reviews": 0,
         "sample_size": 0,
         "foreign_language_reviews": 0,
@@ -45,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 6403098,
+        "total_views": 3457883,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -57,64 +59,64 @@
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "건조한 피부, 모공관리, 필러까지! -부산 서면 이현재피부과의원",
-            "channel": "메디TV",
-            "url": "https://www.youtube.com/watch?v=H1WiiDVIR_E&pp=ygUw7Iqk7YKo66mU65SU7ZS867aA6rO87J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "1.4K views"
+            "title": "켄델라에게 하고 싶은 말 - 이경렬 원장님(스킨다피부과)",
+            "channel": "Candela Korea",
+            "url": "https://www.youtube.com/watch?v=RPbA32mQQCQ&pp=ygUh7Iqk7YKo66mU65SU7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "128 views"
           },
           {
-            "title": "강남 원탑 #임이석테마피부과 원장님의 추천시술ㅣ15년도 어려질 수 있어요 🥹 #연예인시술 #피부과시술",
-            "channel": "메디TalkTalk",
-            "url": "https://www.youtube.com/watch?v=aKEucHRpOko&pp=ygUw7Iqk7YKo66mU65SU7ZS867aA6rO87J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "360 views"
+            "title": "켄델라에게 하고 싶은 말 - 서성락 원장님(스킨다피부과)",
+            "channel": "Candela Korea",
+            "url": "https://www.youtube.com/watch?v=0LF0dXBapMk&pp=ygUh7Iqk7YKo66mU65SU7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "349 views"
           },
           {
-            "title": "피부과 시술 부작용 Vlog…ㅠ 내 피부 돌려줘.. 다신 안해…🫠ㅣMINCARONG",
-            "channel": "민카롱",
-            "url": "https://www.youtube.com/watch?v=wRJR2kY2x9w&pp=ygUw7Iqk7YKo66mU65SU7ZS867aA6rO87J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "1.7M views"
+            "title": "[부산] \"동안 얼굴 비밀. 콜라겐 주사로 자연스럽게 볼륨살리기\" 메디아트클리닉 송경포",
+            "channel": "의학채널 비온뒤",
+            "url": "https://www.youtube.com/watch?v=aRWhoL8APsw&pp=ygUh7Iqk7YKo66mU65SU7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "994 views"
           },
           {
-            "title": "\"엉터리 정보에 속지마세요.\" 진료과목 피부과 의사가 뽑은 가성비 시술 딱 '3가지'",
-            "channel": "지식인사이드",
-            "url": "https://www.youtube.com/watch?v=a4S4JNnRIXQ&pp=ygUw7Iqk7YKo66mU65SU7ZS867aA6rO87J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "1.7M views"
+            "title": "Skinda Everlasting Symphony Campaign 스킨다피부과 인도네시아 캠페인",
+            "channel": "경렬한 의사 이경렬",
+            "url": "https://www.youtube.com/watch?v=2rfzKqyUgyY&pp=ygUh7Iqk7YKo66mU65SU7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "315 views"
           },
           {
-            "title": "The fatal flaw of skin botox? Don't waste your money by not knowing this. Be sure to check it out!",
-            "channel": "동네 의사 이상욱",
-            "url": "https://www.youtube.com/watch?v=2hxmXOZ8EOE&pp=ygUw7Iqk7YKo66mU65SU7ZS867aA6rO87J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "402K views"
+            "title": "울트라펄스앙코르🆚피코프락셀🆚미라젯(큐어젯)❗ 어떤 흉터에 효과 좋을까👀❓20,000명 시술 후기✨",
+            "channel": "닥터라이언TV 피부과전문의",
+            "url": "https://www.youtube.com/watch?v=BiO0HgV6ClU&pp=ygUh7Iqk7YKo66mU65SU7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "18K views"
           },
           {
-            "title": "여드름치료 자세히  알고 싶어 강남테마피부과에 물어보았습니다.",
-            "channel": "유레카닥TV",
-            "url": "https://www.youtube.com/watch?v=_POVXqxHZ5g&pp=ygUw7Iqk7YKo66mU65SU7ZS867aA6rO87J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "86 views"
-          },
-          {
-            "title": "서울대 피부과의사가 찍어주는 스킨부스터 완벽 정리. \"이 영상보면 호구 안당합니다\" - 이도영 피부과전문의",
-            "channel": "피부텐텐 · 피부가 예뻐지는 10분",
-            "url": "https://www.youtube.com/watch?v=rigKW7zrTeI&pp=ygUw7Iqk7YKo66mU65SU7ZS867aA6rO87J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "338K views"
-          },
-          {
-            "title": "“비싼 울쎄라, 써마지 받아도 얼굴 다시 처집니다” 요즘 연예인들이 받는 가성비 시술을 20년차 피부과 전문의가 알려드립니다.",
-            "channel": "피부는 성현철",
-            "url": "https://www.youtube.com/watch?v=P-ooK3XIcKM&pp=ygUw7Iqk7YKo66mU65SU7ZS867aA6rO87J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "344K views"
-          },
-          {
-            "title": "의사들만 몰래받는 S급 가성비! 수백만원 아끼는 만족도 가장 높은 시술을 20년차 피부과 전문의가 알려드립니다.",
-            "channel": "피부는 성현철",
-            "url": "https://www.youtube.com/watch?v=SFlFQByIQ1g&pp=ygUw7Iqk7YKo66mU65SU7ZS867aA6rO87J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "913K views"
-          },
-          {
-            "title": "[피부과] 백반증·건선치료 레이저 ‘엑시머’ 알아보기!",
+            "title": "[피부과] 여드름 치료 레이저 ‘아큐토닝’ 특징과 효과 알아보기!",
             "channel": "메디팩트",
-            "url": "https://www.youtube.com/watch?v=KBQ1-fnmqFg&pp=ygUw7Iqk7YKo66mU65SU7ZS867aA6rO87J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "611 views"
+            "url": "https://www.youtube.com/watch?v=rSM2i_pfDek&pp=ygUh7Iqk7YKo66mU65SU7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.1K views"
+          },
+          {
+            "title": "브이빔 신형 스킨다 최초 상륙✈",
+            "channel": "경렬한 의사 이경렬",
+            "url": "https://www.youtube.com/watch?v=IbfDFvNty14&pp=ygUh7Iqk7YKo66mU65SU7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "396 views"
+          },
+          {
+            "title": "Leave your skin to a #Dermatologist 🙌 Dr. Hong Soon-kwon's Candid Interview 🌹Part 2🌹",
+            "channel": "SC주미안피부과의원",
+            "url": "https://www.youtube.com/watch?v=_1QDmOraxEo&pp=ygUh7Iqk7YKo66mU65SU7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "251 views"
+          },
+          {
+            "title": "얼굴 처짐의 원인 / 울쎄라의 치료 원리 - 하이푸(HIFU) 원탑 멀츠 울쎄라(Merz, Ulthera) - 1 (feat. 러시아미녀 옥산나)",
+            "channel": "경렬한 의사 이경렬",
+            "url": "https://www.youtube.com/watch?v=33iyVvEDIK8&pp=ygUh7Iqk7YKo66mU65SU7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1K views"
+          },
+          {
+            "title": "미라젯 후 관리법·주의사항❗ [흉터편]",
+            "channel": "피부원정대",
+            "url": "https://www.youtube.com/watch?v=V-ziWCG5L2s&pp=ygUh7Iqk7YKo66mU65SU7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1K views"
           }
         ]
       }
@@ -130,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

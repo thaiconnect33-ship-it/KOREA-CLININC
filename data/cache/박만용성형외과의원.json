@@ -1,17 +1,17 @@
 {
   "query": "박만용성형외과의원",
-  "generated_at": "2026-05-28T23:01:46.546Z",
+  "generated_at": "2026-05-29T11:42:03.249Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 3,
+      "metric_value": 2,
       "extra": {
         "place_id": "18017682",
         "name": "박만용성형외과의원 : 네이버\u001c",
         "visitor_review_count": 2,
-        "blog_review_count": 1,
+        "blog_review_count": 0,
         "detail_url": "https://m.place.naver.com/place/18017682/home"
       }
     },
@@ -52,12 +52,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

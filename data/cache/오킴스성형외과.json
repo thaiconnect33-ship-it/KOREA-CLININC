@@ -1,6 +1,6 @@
 {
   "query": "오킴스성형외과",
-  "generated_at": "2026-05-29T05:48:18.085Z",
+  "generated_at": "2026-05-29T10:14:36.509Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -18,11 +18,11 @@
     "google_maps": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 323,
+      "metric_value": 0,
       "extra": {
         "name": "Results",
-        "rating": 4.9,
-        "total_reviews": 323,
+        "rating": 4,
+        "total_reviews": 0,
         "sample_size": 6,
         "foreign_language_reviews": 6,
         "lang_breakdown": {
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 11,
       "extra": {
-        "total_views": 1231852,
+        "total_views": 1231853,
         "foreign_video_count": 2,
         "lang_breakdown": {
           "korean": 9,
@@ -59,16 +59,16 @@
         "sample_size": 11,
         "top_videos": [
           {
-            "title": "My plastic surgery story (PART1) | Facial contour, rhinoplasty, double eyelid surgery, facial lipo",
-            "channel": "BRAUN Global Aesthetic",
-            "url": "https://www.youtube.com/watch?v=Vas6WwbAH9w&pp=ygUcT2hraW1zIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
-            "view_text": "1.2M views"
-          },
-          {
             "title": "오킴스성형외과 영상 (5메가).mp4",
             "channel": "JUNG AH Lee",
             "url": "https://www.youtube.com/watch?v=xx9LEr8z6OQ&pp=ygUcT2hraW1zIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
             "view_text": "494 views"
+          },
+          {
+            "title": "My plastic surgery story (PART1) | Facial contour, rhinoplasty, double eyelid surgery, facial lipo",
+            "channel": "BRAUN Global Aesthetic",
+            "url": "https://www.youtube.com/watch?v=Vas6WwbAH9w&pp=ygUcT2hraW1zIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "1.2M views"
           },
           {
             "title": "[월간오킴스] 가슴성형 후 비행기 탑승가능?! 귀에 쏙쏙 박히는 답변을 내준 \"오킴스가슴성형센터\" 임대원대표원장!",
@@ -98,7 +98,7 @@
             "title": "“30년 만의 혁신” 충격적인 탈모 신약 실체. 텅빈 머리카락 미친듯 자란다 | 김진오 원장 3부",
             "channel": "똑똑한스푼",
             "url": "https://www.youtube.com/watch?v=oyZ0bSjazlQ&pp=ygUcT2hraW1zIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
-            "view_text": "909 views"
+            "view_text": "910 views"
           },
           {
             "title": "“100% 도움 될 겁니다” 모발이식 고민이라면 꼭 보세요. 다들 ‘이걸’ 몰라서 실패합니다 | 김진오 원장 4부",

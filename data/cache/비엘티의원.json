@@ -1,17 +1,17 @@
 {
   "query": "비엘티의원",
-  "generated_at": "2026-05-28T23:40:58.776Z",
+  "generated_at": "2026-05-29T12:26:20.365Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 1589,
+      "metric_value": 1590,
       "extra": {
         "place_id": "11482708",
         "name": "비엘티의원 : 네이버\u001c",
         "visitor_review_count": 1158,
-        "blog_review_count": 431,
+        "blog_review_count": 432,
         "detail_url": "https://m.place.naver.com/place/11482708/home"
       }
     },
@@ -47,76 +47,76 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 2229542,
-        "foreign_video_count": 0,
+        "total_views": 66352372,
+        "foreign_video_count": 3,
         "lang_breakdown": {
-          "korean": 20,
+          "korean": 17,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
-          "english_other": 0
+          "english_other": 3
         },
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "\"Dermatologists don't tell you...\" We recommend popular youth-enhancing procedures these days. We...",
-            "channel": "박지윤의 피부 설명서",
-            "url": "https://www.youtube.com/watch?v=EFB-McCJG48&pp=ygUe67mE7JeY7Yuw7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "444K views"
+            "title": "[자막뉴스] 차에서 바지를 '훌렁'...민원인에 돈 받고 성관계한 양양군수, 결국 / YTN",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=Wp7u4yCGZ9Q&pp=ygUV67mE7JeY7Yuw7J2Y7JuQIEtvcmVh",
+            "view_text": "5.1M views"
           },
           {
-            "title": "(광고❌) 이거 모르고 피부과 가면 돈만 날려요😭  피부과의사 120명이 뽑은 후회 없는 시술 1위는? - 정한미 권수현 피부과전문의",
-            "channel": "피부텐텐 · 피부가 예뻐지는 10분",
-            "url": "https://www.youtube.com/watch?v=Cw3hRPXx5JE&pp=ygUe67mE7JeY7Yuw7J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "49K views"
+            "title": "회사 퇴사 후 현실... 더 열심히 살아가고 있는 태박이의 하루",
+            "channel": "태박이",
+            "url": "https://www.youtube.com/watch?v=BLT-DdpCb2M&pp=ygUV67mE7JeY7Yuw7J2Y7JuQIEtvcmVh",
+            "view_text": "4.1K views"
           },
           {
-            "title": "큐어젯 vs 미라젯, 의사들이 이렇게까지 싸우는 이유",
-            "channel": "피부과전문의_샘닥",
-            "url": "https://www.youtube.com/watch?v=XFkp-SOHT7c&pp=ygUe67mE7JeY7Yuw7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "392 views"
+            "title": "[McDonald's] Big Mac 50th Anniversary Limited Edition, Big Mac BLT Launched!",
+            "channel": "한국 맥도날드",
+            "url": "https://www.youtube.com/watch?v=6ZvgcscuMJk&pp=ygUV67mE7JeY7Yuw7J2Y7JuQIEtvcmVh",
+            "view_text": "5.1M views"
           },
           {
-            "title": "The actual side effects revealed by a hospital employee who prescribed diet pills!!! I really wan...",
-            "channel": "소의튜브soytube",
-            "url": "https://www.youtube.com/watch?v=Q8F4Vpz49O4&pp=ygUe67mE7JeY7Yuw7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "320K views"
+            "title": "Taesung & Haebom ► Enchanted [FMV] | Korean BL",
+            "channel": "seiji chan",
+            "url": "https://www.youtube.com/watch?v=4KYZdu4wm-o&list=RD4KYZdu4wm-o&start_radio=1&pp=ygUV67mE7JeY7Yuw7J2Y7JuQIEtvcmVhoAcB",
+            "view_text": "1M views"
           },
           {
-            "title": "통증치료에도 탁월한 레이저 치료! / 목어깨통증 / 무릎통증 / 테니스엘보 /",
-            "channel": "Begin Again 강남세란의원 (Seran Clinic)",
-            "url": "https://www.youtube.com/watch?v=w4RKwy65ctE&pp=ygUe67mE7JeY7Yuw7J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "5.7K views"
-          },
-          {
-            "title": "Dermatology Treatments: Types, Price Differences, and Secrets | Top 3 Most Painful Procedures | D...",
-            "channel": "더놀자시니어TV",
-            "url": "https://www.youtube.com/watch?v=gOWddbEbNfs&pp=ygUe67mE7JeY7Yuw7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "28 views"
+            "title": "BL | In Soo ✗ Sang Yi || Close To You",
+            "channel": "rosenana708",
+            "url": "https://www.youtube.com/watch?v=6DeXNlr_fIQ&list=RD6DeXNlr_fIQ&start_radio=1&pp=ygUV67mE7JeY7Yuw7J2Y7JuQIEtvcmVhoAcB",
+            "view_text": "5.3M views"
           },
           {
             "title": "BL Plastic Surgery Clinic Review ♥ Crystal Injection for a Glowing Skin! A Skin Regeneration and ...",
             "channel": "권초록",
-            "url": "https://www.youtube.com/watch?v=Zi1GvvQ7JHI&pp=ygUe67mE7JeY7Yuw7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=Zi1GvvQ7JHI&pp=ygUV67mE7JeY7Yuw7J2Y7JuQIEtvcmVh",
             "view_text": "4.3K views"
           },
           {
-            "title": "Dermatology clinics that don't treat skin diseases... What is the reason? / Channel A / News A",
-            "channel": "채널A News",
-            "url": "https://www.youtube.com/watch?v=XCDC5lw3qVY&pp=ygUe67mE7JeY7Yuw7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "201K views"
+            "title": "햄버거 전문가를  찾습니다! (#알바 경험자 환영)",
+            "channel": "버거킹",
+            "url": "https://www.youtube.com/watch?v=mGJXI_mQ2dg&pp=ygUV67mE7JeY7Yuw7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "6.2M views"
           },
           {
-            "title": "Why Are Dermatologists Obsessed With Celldm ECM Boosters? The Secret to Slow Aging Revealed",
-            "channel": "뷰티플라이",
-            "url": "https://www.youtube.com/watch?v=LLgHF9-KSDE&pp=ygUe67mE7JeY7Yuw7J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "1.2K views"
+            "title": "고졸 의사 김재원",
+            "channel": "김재원의 즐거운 세상",
+            "url": "https://www.youtube.com/watch?v=8ktZ4xSES_Y&pp=ygUV67mE7JeY7Yuw7J2Y7JuQIEtvcmVh",
+            "view_text": "741K views"
           },
           {
-            "title": "남자 피부과 시술, 이 4개면 끝입니다  │ 괜히 다른 거 하지 마세요 ❌ (TOP 4 남자 시술 티어리스트)",
-            "channel": "닥터이레이저",
-            "url": "https://www.youtube.com/watch?v=EO41YOfSYtQ&pp=ygUe67mE7JeY7Yuw7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "456 views"
+            "title": "[BLT] 고벤쳐포럼 - 2014.01.28 유철현변리사 발표",
+            "channel": "Jeonghan Eom (엄정한)",
+            "url": "https://www.youtube.com/watch?v=xj1XA-Sknos&pp=ygUV67mE7JeY7Yuw7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "145 views"
+          },
+          {
+            "title": "한국방송에선 볼수 없는 G7에서 김건희 나대기",
+            "channel": "어쩔아재",
+            "url": "https://www.youtube.com/watch?v=I7NjHaz0IAI&pp=ygUV67mE7JeY7Yuw7J2Y7JuQIEtvcmVh",
+            "view_text": "8M views"
           }
         ]
       }
@@ -132,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 0,
-  "opportunity_cost_thb": 100000,
-  "opportunity_cost_krw": 4000000
+  "global_score": 2,
+  "opportunity_cost_thb": 98500,
+  "opportunity_cost_krw": 3940000
 }

@@ -1,0 +1,142 @@
+{
+  "query": "리프톤피부과의원 신사",
+  "generated_at": "2026-05-29T10:40:41.022Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 5001,
+      "extra": {
+        "place_id": "1032127288",
+        "name": "리프톤피부과의원 신사 : 네이버\u001c",
+        "visitor_review_count": 1062,
+        "blog_review_count": 3939,
+        "detail_url": "https://m.place.naver.com/place/1032127288/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Lifton Dermatology Clinic Seoul - Lifting & Anti-aging Specialist / 리프톤 피부과의원",
+        "rating": 4.8,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 9,
+      "extra": {
+        "total_views": 1388476,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 9,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 9,
+        "top_videos": [
+          {
+            "title": "피부과 전문의의 디테일한 한 끗! 신사역 리프톤 피부과입니다.",
+            "channel": "리프톤 피부과 LIFTON DERMATOLOGY",
+            "url": "https://www.youtube.com/watch?v=TZkR1D1uSxA&pp=ygUl66as7ZSE7Yak7ZS867aA6rO87J2Y7JuQIOyLoOyCrCBLb3JlYQ%3D%3D",
+            "view_text": "930 views"
+          },
+          {
+            "title": "\"Dermatologists don't tell you...\" We recommend popular youth-enhancing procedures these days. We...",
+            "channel": "박지윤의 피부 설명서",
+            "url": "https://www.youtube.com/watch?v=EFB-McCJG48&pp=ygUl66as7ZSE7Yak7ZS867aA6rO87J2Y7JuQIOyLoOyCrCBLb3JlYQ%3D%3D",
+            "view_text": "444K views"
+          },
+          {
+            "title": "의사들만 몰래받는 S급 가성비! 수백만원 아끼는 만족도 가장 높은 시술을 20년차 피부과 전문의가 알려드립니다.",
+            "channel": "피부는 성현철",
+            "url": "https://www.youtube.com/watch?v=SFlFQByIQ1g&pp=ygUl66as7ZSE7Yak7ZS867aA6rO87J2Y7JuQIOyLoOyCrCBLb3JlYQ%3D%3D",
+            "view_text": "913K views"
+          },
+          {
+            "title": "요즘 피부 좋은 사람들만 몰래 찾고 있다는 스킨부스터 레디어스 '이 증상' 있다면 절대 하지마세요ㅣ콜라겐 부스터 레디어스의 모든 것",
+            "channel": "닥터원픽의 피부 솔루션",
+            "url": "https://www.youtube.com/watch?v=i6brsBMJP4M&pp=ygUl66as7ZSE7Yak7ZS867aA6rO87J2Y7JuQIOyLoOyCrCBLb3JlYQ%3D%3D",
+            "view_text": "26K views"
+          },
+          {
+            "title": "신사역 먹튀 피부과 원장 얼굴공개=닥터에이미=손은미 의사= #먹튀 #피부과 #신사역피부과",
+            "channel": "은미",
+            "url": "https://www.youtube.com/watch?v=vYhturj33Rg&pp=ygUl66as7ZSE7Yak7ZS867aA6rO87J2Y7JuQIOyLoOyCrCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "1.9K views"
+          },
+          {
+            "title": "갸름한 턱라인 턱보톡스 핑크라인 신사본원 신사역 피부과, 보톡스",
+            "channel": "정콘TV",
+            "url": "https://www.youtube.com/watch?v=KrXLhSuCcDk&pp=ygUl66as7ZSE7Yak7ZS867aA6rO87J2Y7JuQIOyLoOyCrCBLb3JlYQ%3D%3D",
+            "view_text": "49 views"
+          },
+          {
+            "title": "리프팅 레이저 리니어펌 짧고 굵게 분석! 시술 영상, 후기까지 / 여자피부과원장",
+            "channel": "우리, 의사언니♡",
+            "url": "https://www.youtube.com/watch?v=v4oiji76RKk&pp=ygUl66as7ZSE7Yak7ZS867aA6rO87J2Y7JuQIOyLoOyCrCBLb3JlYQ%3D%3D",
+            "view_text": "1.6K views"
+          },
+          {
+            "title": "효과 좋은 시술 부위가 따로 있다? | 리프팅이 효과 없던 이유",
+            "channel": "여신티켓 - 피부탐구생활",
+            "url": "https://www.youtube.com/watch?v=rsUewEgOg9c&pp=ygUl66as7ZSE7Yak7ZS867aA6rO87J2Y7JuQIOyLoOyCrCBLb3JlYQ%3D%3D",
+            "view_text": "775 views"
+          },
+          {
+            "title": "리니어펌의 특징과 장점을 알라보세요~! (리프팅레이저) #리프팅레이저 #얼굴리프팅",
+            "channel": "대구 보메성형외과의원",
+            "url": "https://www.youtube.com/watch?v=gJX-sbTvnkM&pp=ygUl66as7ZSE7Yak7ZS867aA6rO87J2Y7JuQIOyLoOyCrCBLb3JlYQ%3D%3D",
+            "view_text": "222 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

@@ -1,16 +1,16 @@
 {
   "query": "잠실온피부과의원",
-  "generated_at": "2026-05-28T23:24:05.980Z",
+  "generated_at": "2026-05-29T12:06:20.926Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 1142,
+      "metric_value": 1143,
       "extra": {
         "place_id": "2056990683",
         "name": "잠실온피부과의원 : 네이버\u001c",
-        "visitor_review_count": 481,
+        "visitor_review_count": 482,
         "blog_review_count": 661,
         "detail_url": "https://m.place.naver.com/place/2056990683/home"
       }
@@ -20,8 +20,8 @@
       "metric_label": "리뷰",
       "metric_value": 0,
       "extra": {
-        "name": "잠실온피부과의원/Jamsil On Dermatology",
-        "rating": 4.7,
+        "name": "Sponsored",
+        "rating": 4.5,
         "total_reviews": 0,
         "sample_size": 0,
         "foreign_language_reviews": 0,
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 21027,
+        "total_views": 1713036,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -61,62 +61,62 @@
           {
             "title": "피부시술 무조건 제가 직접 상담하는 이유, 솔직히 말씀드릴게요 [잠실새내역 피부과, 리프업의원]",
             "channel": "주름잡는 닥터훈",
-            "url": "https://www.youtube.com/watch?v=mpJJ9XY_iys&pp=ygUn7J6g7Iuk7Jio7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "416"
-          },
-          {
-            "title": "[잠실 피부과] 청피부과 소개영상",
-            "channel": "Sangouk Jeon",
-            "url": "https://www.youtube.com/watch?v=-fj2TakhKKM&pp=ygUn7J6g7Iuk7Jio7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "129"
-          },
-          {
-            "title": "얼굴 리프팅에 제발 헛돈 쓰지 마세요, 이렇게 하면 무조건 효과봅니다 [잠실새내역 피부과 리프업의원]",
-            "channel": "주름잡는 닥터훈",
-            "url": "https://www.youtube.com/watch?v=95ZDPjYh_xE&pp=ygUn7J6g7Iuk7Jio7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "2.9K"
-          },
-          {
-            "title": "퀭한눈, 꺼진눈, 눈매교정, 필러로 바로 해결! 잠실피부과 뉴리즈",
-            "channel": "뉴리즈피부톡",
-            "url": "https://www.youtube.com/watch?v=G6v7RloH2ks&pp=ygUn7J6g7Iuk7Jio7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "162"
-          },
-          {
-            "title": "잠실피부과 피부탄력 올리려면? 올리지오!  #뉴리즈의원잠실",
-            "channel": "탱탱실닥터 장원장",
-            "url": "https://www.youtube.com/watch?v=pGiLZLS986o&pp=ygUn7J6g7Iuk7Jio7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "83"
-          },
-          {
-            "title": "영등포 계피부과를 소개합니다. - SINCE 1961",
-            "channel": "계피부과 since1961",
-            "url": "https://www.youtube.com/watch?v=7pphGkeT8UM&pp=ygUn7J6g7Iuk7Jio7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "6.1K"
-          },
-          {
-            "title": "리뉴미피부과 잠실점 찾아오시는 길 (한국어ver)",
-            "channel": "리뉴미피부과 (피부과전문의)",
-            "url": "https://www.youtube.com/watch?v=EQirprnPixE&pp=ygUn7J6g7Iuk7Jio7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "1.1K"
+            "url": "https://www.youtube.com/watch?v=mpJJ9XY_iys&pp=ygUe7J6g7Iuk7Jio7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "416 views"
           },
           {
             "title": "잠실피부과 실리프팅 - 뉴리즈의원 잠실",
             "channel": "탱탱실닥터 장원장",
-            "url": "https://www.youtube.com/watch?v=RoexB6tDU5k&pp=ygUn7J6g7Iuk7Jio7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "67"
-          },
-          {
-            "title": "피부과 전문의가 보장합니다 🔥아프면 무조건 환불!!🔥 통증에 민감한 분들을 위한 선택지, 온다 리프팅!",
-            "channel": "피부구조대 오가나셀",
-            "url": "https://www.youtube.com/watch?v=FYbSr9UMUTE&pp=ygUn7J6g7Iuk7Jio7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "1K"
+            "url": "https://www.youtube.com/watch?v=RoexB6tDU5k&pp=ygUe7J6g7Iuk7Jio7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "67 views"
           },
           {
             "title": "잠실피부과 강남피부과 뉴리즈의원 _ 며느리가 해주는 효도 실리프팅 리얼후기",
             "channel": "탱탱실닥터 장원장",
-            "url": "https://www.youtube.com/watch?v=YyZaiGZRZEQ&pp=ygUn7J6g7Iuk7Jio7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "169"
+            "url": "https://www.youtube.com/watch?v=YyZaiGZRZEQ&pp=ygUe7J6g7Iuk7Jio7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "169 views"
+          },
+          {
+            "title": "\"엉터리 정보에 속지마세요.\" 진료과목 피부과 의사가 뽑은 가성비 시술 딱 '3가지'",
+            "channel": "지식인사이드",
+            "url": "https://www.youtube.com/watch?v=a4S4JNnRIXQ&pp=ygUe7J6g7Iuk7Jio7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.7M views"
+          },
+          {
+            "title": "잠실피부과 피부탄력 올리려면? 올리지오!  #뉴리즈의원잠실",
+            "channel": "탱탱실닥터 장원장",
+            "url": "https://www.youtube.com/watch?v=pGiLZLS986o&pp=ygUe7J6g7Iuk7Jio7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "83 views"
+          },
+          {
+            "title": "리뉴미피부과 잠실점 찾아오시는 길 (한국어ver)",
+            "channel": "리뉴미피부과 (피부과전문의)",
+            "url": "https://www.youtube.com/watch?v=EQirprnPixE&pp=ygUe7J6g7Iuk7Jio7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.1K views"
+          },
+          {
+            "title": "수많은 논란의 기미 치료! 진실을 알려드리겠습니다ㅣ기미 레이저, 기미 제거, 기미 없애는법, 색소, 색소침착, 색소 레이저, 토닝 레이저, 토닝 효과, 잠실 피부과",
+            "channel": "피부구조대 오가나셀",
+            "url": "https://www.youtube.com/watch?v=zn7WEI2oaLM&pp=ygUe7J6g7Iuk7Jio7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.4K views"
+          },
+          {
+            "title": "[잠실 피부과] 청피부과 소개영상",
+            "channel": "Sangouk Jeon",
+            "url": "https://www.youtube.com/watch?v=-fj2TakhKKM&pp=ygUe7J6g7Iuk7Jio7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "129 views"
+          },
+          {
+            "title": "잠실 최초 세르프 상륙 | 휴먼피부과 잠실점 그랜드 오픈‼️",
+            "channel": "임원장의 피부피셜",
+            "url": "https://www.youtube.com/watch?v=ipHKVJbWY5E&pp=ygUe7J6g7Iuk7Jio7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "318 views"
+          },
+          {
+            "title": "얼굴 리프팅에 제발 헛돈 쓰지 마세요, 이렇게 하면 무조건 효과봅니다 [잠실새내역 피부과 리프업의원]",
+            "channel": "주름잡는 닥터훈",
+            "url": "https://www.youtube.com/watch?v=95ZDPjYh_xE&pp=ygUe7J6g7Iuk7Jio7ZS867aA6rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "2.9K views"
           }
         ]
       }
@@ -132,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

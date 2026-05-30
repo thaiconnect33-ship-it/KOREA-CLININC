@@ -1,16 +1,16 @@
 {
   "query": "바우스의원",
-  "generated_at": "2026-05-28T22:35:36.084Z",
+  "generated_at": "2026-05-29T11:13:29.554Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 487,
+      "metric_value": 488,
       "extra": {
         "place_id": "1171022015",
         "name": "바우스의원 : 네이버\u001c",
-        "visitor_review_count": 380,
+        "visitor_review_count": 381,
         "blog_review_count": 107,
         "detail_url": "https://m.place.naver.com/place/1171022015/home"
       }
@@ -45,78 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 18,
+      "metric_value": 10,
       "extra": {
-        "total_views": 134732,
+        "total_views": 22857,
         "foreign_video_count": 0,
         "lang_breakdown": {
-          "korean": 18,
+          "korean": 10,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
           "english_other": 0
         },
-        "sample_size": 18,
+        "sample_size": 10,
         "top_videos": [
-          {
-            "title": "몇 살 같아 보이세요? 4개월 동안 리얼 안티에이징 결과 | BAUS Anti-Aging Project",
-            "channel": "바우스의원",
-            "url": "https://www.youtube.com/watch?v=eH8Sbx4kQM8&pp=ygUe67CU7Jqw7Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "198 views"
-          },
-          {
-            "title": "BAUS Restol 리스톨주사 - BAUS의 시그니처 | Better Aging with US",
-            "channel": "바우스의원",
-            "url": "https://www.youtube.com/watch?v=YhUGyqLbnh8&pp=ygUe67CU7Jqw7Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "130 views"
-          },
-          {
-            "title": "바우스의원, 줄기세포 치료로 피부와 몸을 함께 회복하다 | BAUS CLINIC 줄기세포",
-            "channel": "바우스의원",
-            "url": "https://www.youtube.com/watch?v=35A7_fn1AWg&pp=ygUe67CU7Jqw7Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "137 views"
-          },
-          {
-            "title": "BAUS Cellbix 셀빅스주사 - BAUS의 시그니처 | Better Aging with US",
-            "channel": "바우스의원",
-            "url": "https://www.youtube.com/watch?v=BLvWdc8wYJU&pp=ygUe67CU7Jqw7Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "115 views"
-          },
-          {
-            "title": "노화·주름·피부결 개선 – 3개월 안티에이징 피부 변화 기록 | BAUS Anti-Aging Project",
-            "channel": "바우스의원",
-            "url": "https://www.youtube.com/watch?v=ZDVE6RdahRA&pp=ygUe67CU7Jqw7Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "4.4K views"
-          },
-          {
-            "title": "모델 Pick 리프팅 조합 팔자리프팅+이중턱관리 (ft.온다+소프웨이브)",
-            "channel": "바우스의원",
-            "url": "https://www.youtube.com/watch?v=sCIHO7anQLw&pp=ygUe67CU7Jqw7Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "1.4K views"
-          },
           {
             "title": "\"아.. 이거 말하면 안되는데..\" 청담동 시크릿 대공개│#바우스의원 #소프웨이브 🌊",
             "channel": "소프웨이브™ 리프팅 (Sofwave™ Korea)",
-            "url": "https://www.youtube.com/watch?v=NqNjTG6jie8&pp=ygUe67CU7Jqw7Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=NqNjTG6jie8&pp=ygUV67CU7Jqw7Iqk7J2Y7JuQIEtvcmVh",
             "view_text": "1.5K views"
           },
           {
-            "title": "BAUS Medical Team Interview | Better Aging with US",
-            "channel": "바우스의원",
-            "url": "https://www.youtube.com/watch?v=UMNLx9GcC5Y&pp=ygUe67CU7Jqw7Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "276 views"
-          },
-          {
-            "title": "중안부 짧아지는법?! 방법은 온웨이브 리프팅! (ft.온다/소프웨이브 통증, 후기)",
-            "channel": "바우스의원",
-            "url": "https://www.youtube.com/watch?v=O4qxwBq7dPE&pp=ygUe67CU7Jqw7Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "1.3K views"
-          },
-          {
-            "title": "팔자주름, 어떤 시술로 이렇게 좋아졌을까? | BAUS Real Model",
-            "channel": "바우스의원",
-            "url": "https://www.youtube.com/watch?v=fzU4vOxdfEE&pp=ygUe67CU7Jqw7Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "title": "콜라겐X엘라스틴 팡팡! 미국 FDA 승인도 받았다는 리프팅 뭐지?│#바우스의원 #소프웨이브 🌊",
+            "channel": "소프웨이브™ 리프팅 (Sofwave™ Korea)",
+            "url": "https://www.youtube.com/watch?v=LiN7_WLqeb0&pp=ygUV67CU7Jqw7Iqk7J2Y7JuQIEtvcmVh",
             "view_text": "1.2K views"
+          },
+          {
+            "title": "아트센터인천 내달 개관…사용 제한 손질 - 티브로드 인천방송",
+            "channel": "ch B tv 인천",
+            "url": "https://www.youtube.com/watch?v=yfYvlqzlbgw&pp=ygUV67CU7Jqw7Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "271 views"
+          },
+          {
+            "title": "조업 중 스크류 빠져 표류하던 어선 구조 / YTN (Yes! Top News)",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=7m7SP7glXWg&pp=ygUV67CU7Jqw7Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "241 views"
+          },
+          {
+            "title": "120426원전하나만들기.wmv",
+            "channel": "seoulspoke1",
+            "url": "https://www.youtube.com/watch?v=C6O0jGe5-pA&pp=ygUV67CU7Jqw7Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "289 views"
+          },
+          {
+            "title": "서울 아파트값 1년 만에 올랐다..전세도 상승 전환/집값 바닥 다졌나? 하반기 역전세 우려 여전/[이슈] 2023년 5월 29일(월)/KBS",
+            "channel": "KBS News",
+            "url": "https://www.youtube.com/watch?v=NJtesqxpals&pp=ygUV67CU7Jqw7Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "19K views"
+          },
+          {
+            "title": "YTN뉴스  '엉겅퀴' 관절염에 효과",
+            "channel": "hiliving-shop",
+            "url": "https://www.youtube.com/watch?v=_LskaaDQAcw&pp=ygUV67CU7Jqw7Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "125 views"
+          },
+          {
+            "title": "8월1주서울시 서초구 아파트 시세, 시장분석",
+            "channel": "황소투혼 부동산 이야기",
+            "url": "https://www.youtube.com/watch?v=pSzJ4ij2FVY&pp=ygUV67CU7Jqw7Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "49 views"
+          },
+          {
+            "title": "5월2주서울시 서초구 아파트 시세, 시장분석",
+            "channel": "황소투혼 부동산 이야기",
+            "url": "https://www.youtube.com/watch?v=1fMgglKEXbw&pp=ygUV67CU7Jqw7Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "109 views"
+          },
+          {
+            "title": "5월1주서울시 서초구 아파트 저렴한 매물정보아파트 시세,시장분석",
+            "channel": "황소투혼 부동산 이야기",
+            "url": "https://www.youtube.com/watch?v=2tB3MdgrW7w&pp=ygUV67CU7Jqw7Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "73 views"
           }
         ]
       }
@@ -132,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

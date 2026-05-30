@@ -1,6 +1,6 @@
 {
   "query": "강남스템성형외과의원",
-  "generated_at": "2026-05-28T23:20:38.312Z",
+  "generated_at": "2026-05-29T12:03:06.438Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -38,7 +38,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 1027750,
+        "total_views": 1021606,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -50,64 +50,64 @@
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "강남스템성형외과 이상돈 원장 리프팅 강의",
+            "title": "강남스템성형외과 :: 비너스레이저 브이라인리프팅",
             "channel": "두더지의 정보나눔",
-            "url": "https://www.youtube.com/watch?v=2ntCLU1WwOA&pp=ygUw6rCV64Ko7Iqk7YWc7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "118 views"
-          },
-          {
-            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
-            "channel": "JTBC News",
-            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUw6rCV64Ko7Iqk7YWc7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1M views"
-          },
-          {
-            "title": "안면 거상 후 이것만큼은 꼭 지켜주세요~! 기간별 필수 주의 사항 총정리!",
-            "channel": "신끌림 : 신동우 원장의 끌어올림",
-            "url": "https://www.youtube.com/watch?v=XC9qhhCBxSE&pp=ygUw6rCV64Ko7Iqk7YWc7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "6.5K views"
+            "url": "https://www.youtube.com/watch?v=rzkcbMQQiDg&pp=ygUk6rCV64Ko7Iqk7YWc7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "1.9K views"
           },
           {
             "title": "실리프팅 효과 강남스템성형외과 어떠세요?",
             "channel": "두더지의 정보나눔",
-            "url": "https://www.youtube.com/watch?v=QdR7x18mxE4&pp=ygUw6rCV64Ko7Iqk7YWc7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=QdR7x18mxE4&pp=ygUk6rCV64Ko7Iqk7YWc7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "1.8K views"
           },
           {
-            "title": "강남스템성형외과 :: 비너스레이저 브이라인리프팅",
+            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUk6rCV64Ko7Iqk7YWc7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1M views"
+          },
+          {
+            "title": "강남스템성형외과 이상돈 원장 리프팅 강의",
             "channel": "두더지의 정보나눔",
-            "url": "https://www.youtube.com/watch?v=rzkcbMQQiDg&pp=ygUw6rCV64Ko7Iqk7YWc7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.9K views"
+            "url": "https://www.youtube.com/watch?v=2ntCLU1WwOA&pp=ygUk6rCV64Ko7Iqk7YWc7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "118 views"
           },
           {
             "title": "강남뷰티성형외과 리프팅",
             "channel": "강남뷰티성형외과",
-            "url": "https://www.youtube.com/watch?v=fMYfN314a4k&pp=ygUw6rCV64Ko7Iqk7YWc7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=fMYfN314a4k&pp=ygUk6rCV64Ko7Iqk7YWc7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "3.2K views"
           },
           {
             "title": "스템케이성형외과 찾아오시는 길",
             "channel": "스템케이성형외과",
-            "url": "https://www.youtube.com/watch?v=ihziDlUIkPw&pp=ygUw6rCV64Ko7Iqk7YWc7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=ihziDlUIkPw&pp=ygUk6rCV64Ko7Iqk7YWc7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "154 views"
           },
           {
             "title": "[줄기신닥터신] [TV주치의무병장수] TV주치의가 인정한 진짜 SVF 시술, 첨단시스템 완비 SC301성형외과 | 신동진 원장",
             "channel": "신동진의 줄기신닥터신",
-            "url": "https://www.youtube.com/watch?v=aVR1MgQ8cQE&pp=ygUw6rCV64Ko7Iqk7YWc7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=aVR1MgQ8cQE&pp=ygUk6rCV64Ko7Iqk7YWc7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "2.1K views"
           },
           {
-            "title": "논현동성형외과 :: 얼굴지방이식 후 팔자주름제거",
-            "channel": "두더지의 정보나눔",
-            "url": "https://www.youtube.com/watch?v=5a7pxmLImII&pp=ygUw6rCV64Ko7Iqk7YWc7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "282 views"
+            "title": "코어재생술 vs 실 리프팅 / 강남삼성성형외과 박영진",
+            "channel": "의학채널 비온뒤",
+            "url": "https://www.youtube.com/watch?v=-GXFZp5aipU&pp=ygUk6rCV64Ko7Iqk7YWc7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "3K views"
           },
           {
-            "title": "Pre-nose surgery precautions must be read! 1 mm Plastic Surgery 1 mm Plastic Surgery",
-            "channel": "1mm성형외과",
-            "url": "https://www.youtube.com/watch?v=zksEQu2ymYQ&pp=ygUw6rCV64Ko7Iqk7YWc7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "341 views"
+            "title": "[줄기신닥터신] SVF와 일반지방이식과 차이점 [SC301 신동진 원장님, SVF의 모든 것]",
+            "channel": "신동진의 줄기신닥터신",
+            "url": "https://www.youtube.com/watch?v=J6fHZyyEUys&pp=ygUk6rCV64Ko7Iqk7YWc7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "2.2K views"
+          },
+          {
+            "title": "강남K뷰티 성형외과 유중석원장님 ETN방송 선우의 필링업 시즌3 방영 45도클리닉 눈, 코 성형, 안면윤곽, 가슴성형, 주름살",
+            "channel": "김동현",
+            "url": "https://www.youtube.com/watch?v=32N3nRO2HFU&pp=ygUk6rCV64Ko7Iqk7YWc7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "287 views"
           }
         ]
       }
@@ -123,12 +123,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

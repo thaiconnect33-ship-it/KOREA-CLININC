@@ -1,18 +1,18 @@
 {
   "query": "네이처성형외과의원",
-  "generated_at": "2026-05-28T23:49:30.590Z",
+  "generated_at": "2026-05-29T12:35:50.099Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 131,
+      "metric_value": 10,
       "extra": {
-        "place_id": "2083924900",
-        "name": "네이처온성형외과의원 : 네이버\u001c",
-        "visitor_review_count": 96,
-        "blog_review_count": 35,
-        "detail_url": "https://m.place.naver.com/place/2083924900/home"
+        "place_id": "13331523",
+        "name": "네이처성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 9,
+        "blog_review_count": 1,
+        "detail_url": "https://m.place.naver.com/place/13331523/home"
       }
     },
     "google_maps": {
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 42706,
+        "total_views": 30457,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -59,64 +59,64 @@
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "네이처온성형외과 권찬 대표원장을 소개합니다",
-            "channel": "네이처온성형외과",
-            "url": "https://www.youtube.com/watch?v=1JxyZUKP7WY&pp=ygUt64Sk7J207LKY7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "529 views"
-          },
-          {
-            "title": "이것이 네이처온의 시그니처입니다!",
-            "channel": "네이처온성형외과",
-            "url": "https://www.youtube.com/watch?v=w5cSp-dETOY&pp=ygUt64Sk7J207LKY7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "251 views"
-          },
-          {
             "title": "네이처온성형외과를 소개합니다",
             "channel": "네이처온성형외과",
-            "url": "https://www.youtube.com/watch?v=fjyk7YzJPe4&pp=ygUt64Sk7J207LKY7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=fjyk7YzJPe4&pp=ygUh64Sk7J207LKY7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "186 views"
+          },
+          {
+            "title": "네이처온성형외과 권찬 대표원장을 소개합니다",
+            "channel": "네이처온성형외과",
+            "url": "https://www.youtube.com/watch?v=1JxyZUKP7WY&pp=ygUh64Sk7J207LKY7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "529 views"
           },
           {
             "title": "“성형외과 직원들 순도 100% 자연산 어린 시절 공개! 누구게~? 😂”",
             "channel": "네이처온성형외과",
-            "url": "https://www.youtube.com/watch?v=mMOW1Yqndd4&pp=ygUt64Sk7J207LKY7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=mMOW1Yqndd4&pp=ygUh64Sk7J207LKY7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "169 views"
           },
           {
-            "title": "네이처지에 실린 모티바 보형물 표면에 숨겨진 비밀은? 🔍",
-            "channel": "뷰성형외과 VIEW Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=qx-02MsHmAQ&pp=ygUt64Sk7J207LKY7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "626 views"
+            "title": "이것이 네이처온의 시그니처입니다!",
+            "channel": "네이처온성형외과",
+            "url": "https://www.youtube.com/watch?v=w5cSp-dETOY&pp=ygUh64Sk7J207LKY7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "251 views"
           },
           {
             "title": "[가슴수술] 가슴 보형물 모티바 보형물 영국 국제과학 학술지 네이처지 논문 신규 등재 l 모티바 논문읽기 안전성 [디에이성형외과]",
             "channel": "디에이성형외과 D.A Plastic Surgery Korea",
-            "url": "https://www.youtube.com/watch?v=a3-Rl8a1P58&pp=ygUt64Sk7J207LKY7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=a3-Rl8a1P58&pp=ygUh64Sk7J207LKY7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "11K views"
+          },
+          {
+            "title": "네이처지에 실린 모티바 보형물 표면에 숨겨진 비밀은? 🔍",
+            "channel": "뷰성형외과 VIEW Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=qx-02MsHmAQ&pp=ygUh64Sk7J207LKY7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "626 views"
           },
           {
             "title": "가슴보형물 논란을 종결시킨 하나의 논문",
             "channel": "위드성형tv",
-            "url": "https://www.youtube.com/watch?v=rRAqxPW_ckI&pp=ygUt64Sk7J207LKY7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "url": "https://www.youtube.com/watch?v=rRAqxPW_ckI&pp=ygUh64Sk7J207LKY7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "1.1K views"
           },
           {
-            "title": "[가슴성형] 가슴수술상담시 가상스캐너를 쓰는 진짜 이유 l 짝가슴, 가슴비대칭, 가상성형 [디에이성형외과]",
-            "channel": "디에이성형외과 D.A Plastic Surgery Korea",
-            "url": "https://www.youtube.com/watch?v=3fjPTVGLq3E&pp=ygUt64Sk7J207LKY7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "12K views"
+            "title": "잘 모르고 있던 흉터의 역할 - Facts about scar part 2",
+            "channel": "여린발",
+            "url": "https://www.youtube.com/watch?v=0oyQeJT1cmA&pp=ygUh64Sk7J207LKY7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "87 views"
           },
           {
             "title": "진짜 나를 만나는 단 하나뿐인 선택! [디에이성형외과의원]",
             "channel": "디에이성형외과 D.A Plastic Surgery Korea",
-            "url": "https://www.youtube.com/watch?v=2bYDu9KgxtA&pp=ygUt64Sk7J207LKY7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=2bYDu9KgxtA&pp=ygUh64Sk7J207LKY7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "1.3K views"
           },
           {
-            "title": "‘이 보형물’이 구형구축을 99.5% 예방한다고?🤷‍♀️",
-            "channel": "라이안성형외과(Ryan Plastic Surgery)",
-            "url": "https://www.youtube.com/watch?v=Smi0_TTZQrE&pp=ygUt64Sk7J207LKY7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "171 views"
+            "title": "네이처 리퍼블릭 필러",
+            "channel": "kang yun lee",
+            "url": "https://www.youtube.com/watch?v=x-NVEKA6qGg&pp=ygUh64Sk7J207LKY7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "129 views"
           }
         ]
       }
@@ -132,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

@@ -1,16 +1,18 @@
 {
   "query": "신사세레아의원",
-  "generated_at": "2026-05-29T06:10:39.318Z",
+  "generated_at": "2026-05-29T10:37:31.050Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 1743,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "2014365522",
+        "name": "신사세레아의원 : 네이버\u001c",
+        "visitor_review_count": 328,
+        "blog_review_count": 1415,
+        "detail_url": "https://m.place.naver.com/place/2014365522/home"
       }
     },
     "google_maps": {
@@ -18,16 +20,16 @@
       "metric_label": "리뷰",
       "metric_value": 0,
       "extra": {
-        "name": "Results",
+        "name": "신사세레아의원(Sinsa Serea Clinic)",
         "rating": 5,
         "total_reviews": 0,
-        "sample_size": 9,
-        "foreign_language_reviews": 9,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 9
+          "english_other": 0
         }
       }
     },
@@ -43,9 +45,62 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 0,
+      "metric_value": 7,
       "extra": {
-        "note": "결과 없음"
+        "total_views": 161055,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 7,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 7,
+        "top_videos": [
+          {
+            "title": "효과 없는 시술, 이유는 따로 있습니다 | 신뢰로 진료하는 신사역 피부과 세레아의원",
+            "channel": "신사역피부과 세레아의원",
+            "url": "https://www.youtube.com/watch?v=8xpQuDDw-7c&pp=ygUb7Iug7IKs7IS466CI7JWE7J2Y7JuQIEtvcmVh",
+            "view_text": "153"
+          },
+          {
+            "title": "상담존부터 시술실까지… 규모부터 다른 신사역피부과 세레아의원✨",
+            "channel": "신사역피부과 세레아의원",
+            "url": "https://www.youtube.com/watch?v=aBMIRNsssgg&pp=ygUb7Iug7IKs7IS466CI7JWE7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "103"
+          },
+          {
+            "title": "K-beauty 글로벌 의료진 대상 최신 시술 트렌드·프로토콜 및 라이브 데모",
+            "channel": "신사역피부과 세레아의원",
+            "url": "https://www.youtube.com/watch?v=X5n2FQcm0rg&pp=ygUb7Iug7IKs7IS466CI7JWE7J2Y7JuQIEtvcmVh",
+            "view_text": "131"
+          },
+          {
+            "title": "“춤추는 피부과”… 릴스 찍는 병원, 여러분은 어떻게 생각하시나요?",
+            "channel": "신사역피부과 세레아의원",
+            "url": "https://www.youtube.com/watch?v=tRVRwyNRxDI&pp=ygUb7Iug7IKs7IS466CI7JWE7J2Y7JuQIEtvcmVh",
+            "view_text": "68"
+          },
+          {
+            "title": "99%의 사람들이 모르는 홈케어기기의 충격적인 진실",
+            "channel": "닥터차오름",
+            "url": "https://www.youtube.com/watch?v=GfqtXB-0Ikc&pp=ygUb7Iug7IKs7IS466CI7JWE7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "141K"
+          },
+          {
+            "title": "[ENG] [EP 5] 도도한 남자 조나단과 떠나는 덕적도 투어!l 도도하게 살아보기ㅣ인천관광공사 INCHEON TOUR WITH 조나단",
+            "channel": "여행은 인천이지 Incheon Tour | discoverincheon",
+            "url": "https://www.youtube.com/watch?v=oF0wMFqWEU0&pp=ygUb7Iug7IKs7IS466CI7JWE7J2Y7JuQIEtvcmVh",
+            "view_text": "17K"
+          },
+          {
+            "title": "유신쇼 라이브 한동훈 윤석열 오찬초청거절,윤석열 이재명회담실무협의무산,비서실장정진석,코깽판 약자괴롭히지마,코선족 랑종보이스피싱,코섭섭 후원악귀,코썅 바보쓰노예? [20240422]",
+            "channel": "NEWKER",
+            "url": "https://www.youtube.com/watch?v=TdJXUrNXnh4&pp=ygUb7Iug7IKs7IS466CI7JWE7J2Y7JuQIEtvcmVh",
+            "view_text": "2.6K"
+          }
+        ]
       }
     },
     "xiaohongshu": {
@@ -59,13 +114,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "lemon8 HTTP 404",
+      "ok": true,
       "metric_label": "포스트",
-      "metric_value": 0
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
     }
   },
-  "global_score": 5,
-  "opportunity_cost_thb": 95500,
-  "opportunity_cost_krw": 3820000
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
 }

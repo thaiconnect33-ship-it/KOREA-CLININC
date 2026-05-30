@@ -1,16 +1,18 @@
 {
   "query": "모디헤어플란트의원",
-  "generated_at": "2026-05-28T23:57:54.338Z",
+  "generated_at": "2026-05-29T12:44:30.573Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 1033,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "1660180885",
+        "name": "모디헤어플란트의원 : 네이버\u001c",
+        "visitor_review_count": 102,
+        "blog_review_count": 931,
+        "detail_url": "https://m.place.naver.com/place/1660180885/home"
       }
     },
     "google_maps": {
@@ -43,9 +45,80 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 0,
+      "metric_value": 19,
       "extra": {
-        "note": "결과 없음"
+        "total_views": 29718,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 19,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 19,
+        "top_videos": [
+          {
+            "title": "심었다고 끝이 아닌, 모디헤어플란트 이유진 원장님 진료 철학 Modi's Dr. Lee",
+            "channel": "모디헤어플란트-모발이식·헤어라인교정",
+            "url": "https://www.youtube.com/watch?v=zeLdqH0vbvQ&pp=ygUh66qo65SU7Zek7Ja07ZSM656A7Yq47J2Y7JuQIEtvcmVh",
+            "view_text": "68 views"
+          },
+          {
+            "title": "30대 여성 탈모 치료 경과 소개🙌 모낭 줄기세포 탈모 치료 리얼 후기",
+            "channel": "모디헤어플란트-모발이식·헤어라인교정",
+            "url": "https://www.youtube.com/watch?v=B2Xx9LsYu1M&pp=ygUh66qo65SU7Zek7Ja07ZSM656A7Yq47J2Y7JuQIEtvcmVh",
+            "view_text": "335 views"
+          },
+          {
+            "title": "여성 헤어라인 교정 모발이식 수술후기! | 모디헤어플란트의원 마케터의 리얼 브이로그",
+            "channel": "모디헤어플란트의원 모발이식·헤어라인교정",
+            "url": "https://www.youtube.com/watch?v=DMYxbwpkHJY&pp=ygUh66qo65SU7Zek7Ja07ZSM656A7Yq47J2Y7JuQIEtvcmVh",
+            "view_text": "1.9K views"
+          },
+          {
+            "title": "여기가 탈모병원이라고?🤷‍♀️ 원장님들과 함께하는 병원 랜선투어",
+            "channel": "모디헤어플란트의원 모발이식·헤어라인교정",
+            "url": "https://www.youtube.com/watch?v=TZmOtlWr38s&pp=ygUh66qo65SU7Zek7Ja07ZSM656A7Yq47J2Y7JuQIEtvcmVh",
+            "view_text": "3.8K views"
+          },
+          {
+            "title": "탈모치료 효과적으로 하는 법 I stem cell hair transplant",
+            "channel": "모디헤어플란트-모발이식·헤어라인교정",
+            "url": "https://www.youtube.com/watch?v=e4cDvOKSU-A&pp=ygUh66qo65SU7Zek7Ja07ZSM656A7Yq47J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "91 views"
+          },
+          {
+            "title": "증가하고 있는 여성 탈모 환자! 이렇게 치료해보세요!🌸",
+            "channel": "모디헤어플란트-모발이식·헤어라인교정",
+            "url": "https://www.youtube.com/watch?v=vxg5qBUp7_0&pp=ygUh66qo65SU7Zek7Ja07ZSM656A7Yq47J2Y7JuQIEtvcmVh",
+            "view_text": "345 views"
+          },
+          {
+            "title": "#비절개모발이식 수술 후 주의사항 이것만 지켜주세요❗️",
+            "channel": "모디헤어플란트-모발이식·헤어라인교정",
+            "url": "https://www.youtube.com/watch?v=u_FWXAHt9Dw&pp=ygUh66qo65SU7Zek7Ja07ZSM656A7Yq47J2Y7JuQIEtvcmVh",
+            "view_text": "1.2K views"
+          },
+          {
+            "title": "탈모치료로 만족을 드리기 위해 이렇게 노력합니다 I 모디헤어플란트 유화정 원장 진료 철학 I",
+            "channel": "모디헤어플란트-모발이식·헤어라인교정",
+            "url": "https://www.youtube.com/watch?v=GVHR7mjTC_A&pp=ygUh66qo65SU7Zek7Ja07ZSM656A7Yq47J2Y7JuQIEtvcmVh",
+            "view_text": "74 views"
+          },
+          {
+            "title": "모발이식 자연스러움, 생착율에 진심인 모디헤어플란트 I 모낭분류 I",
+            "channel": "모디헤어플란트-모발이식·헤어라인교정",
+            "url": "https://www.youtube.com/watch?v=_mXP7_AX1Jg&pp=ygUh66qo65SU7Zek7Ja07ZSM656A7Yq47J2Y7JuQIEtvcmVh",
+            "view_text": "610 views"
+          },
+          {
+            "title": "[EN][JP]두피 흉터에는 모발 이식이 안된다고? ‘땜빵’으로 스타일링 고민이신 분🙋🏻‍♂️ 필수시청",
+            "channel": "모디헤어플란트-모발이식·헤어라인교정",
+            "url": "https://www.youtube.com/watch?v=xzbPvsx9sG4&pp=ygUh66qo65SU7Zek7Ja07ZSM656A7Yq47J2Y7JuQIEtvcmVh",
+            "view_text": "1.2K views"
+          }
+        ]
       }
     },
     "xiaohongshu": {
@@ -59,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

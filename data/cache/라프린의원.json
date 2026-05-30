@@ -1,16 +1,18 @@
 {
   "query": "라프린의원",
-  "generated_at": "2026-05-28T22:12:55.685Z",
+  "generated_at": "2026-05-29T10:49:15.467Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 837,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "33741139",
+        "name": "라프린의원 : 네이버\u001c",
+        "visitor_review_count": 227,
+        "blog_review_count": 610,
+        "detail_url": "https://m.place.naver.com/place/33741139/home"
       }
     },
     "google_maps": {
@@ -43,78 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 15,
+      "metric_value": 20,
       "extra": {
-        "total_views": 34816,
-        "foreign_video_count": 0,
+        "total_views": 10485044,
+        "foreign_video_count": 7,
         "lang_breakdown": {
-          "korean": 15,
+          "korean": 13,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
-          "english_other": 0
+          "english_other": 7
         },
-        "sample_size": 15,
+        "sample_size": 20,
         "top_videos": [
           {
-            "title": "의사들이 말하지 않는 지방흡입의 비밀! - 대용량 지방 삭제 프로젝트가 시작됩니다.",
-            "channel": "LaPrin TV",
-            "url": "https://www.youtube.com/watch?v=EaFu5jF8VR4&pp=ygUn65287ZSE66aw7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.6K views"
+            "title": "(Laprin)미녀들의수다 마리안의 지방흡입 셀프영상",
+            "channel": "박소희",
+            "url": "https://www.youtube.com/watch?v=UKbVfal73rY&pp=ygUV65287ZSE66aw7J2Y7JuQIEtvcmVh",
+            "view_text": "2.8K views"
           },
           {
-            "title": "가슴수술에 관한 모든 궁금증! 싹 다 알려드립니다! - 궁금한건 못참아! ep.10 /가슴성형/가슴보형물/가슴수술가격/가슴수술 부작용",
-            "channel": "LaPrin TV",
-            "url": "https://www.youtube.com/watch?v=90H1A5Hsu4M&pp=ygUn65287ZSE66aw7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "4.4K views"
+            "title": "BOOB JOB IN SOUTH KOREA   My Experience at LaPrin Plastic Surgery",
+            "channel": "박소희",
+            "url": "https://www.youtube.com/watch?v=oUnlNGxQMCE&pp=ygUV65287ZSE66aw7J2Y7JuQIEtvcmVh",
+            "view_text": "3.7K views"
           },
           {
-            "title": "소음순수술에 대한 궁금증 의사언니가 알려드림!",
-            "channel": "LaPrin TV",
-            "url": "https://www.youtube.com/watch?v=Y_zRbuSL7bg&pp=ygUn65287ZSE66aw7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "608 views"
+            "title": "코성형 코골이   2015 라프린 김승권원장님 강의(3)",
+            "channel": "Seungkwon Kim",
+            "url": "https://www.youtube.com/watch?v=_9Xdir2gvO0&pp=ygUV65287ZSE66aw7J2Y7JuQIEtvcmVh",
+            "view_text": "46 views"
           },
           {
-            "title": "성형외과 원장이 알려주는 안전한 상처치료법! 이제 혼자하세요! - 궁금한건 못참아 ep.14 #상처소독 #상처치료 #응급조치",
+            "title": "LAPRIN ⏪Reconstruction Of Body💞 [Mommy MakeOver]",
             "channel": "LaPrin TV",
-            "url": "https://www.youtube.com/watch?v=uXr8rkU3i34&pp=ygUn65287ZSE66aw7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "2.9K views"
-          },
-          {
-            "title": "성형외과 원장이 알려주는 안전한 상처치료법! 제2편  - 궁금한건 못참아 ep.16 #상처소독",
-            "channel": "LaPrin TV",
-            "url": "https://www.youtube.com/watch?v=ABKx41rWUGg&pp=ygUn65287ZSE66aw7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.3K views"
-          },
-          {
-            "title": "가슴성형 구형구축! 10년 책임져드립니다. 라프린 마이크로탄 가슴성형/Korean Breast Plastic Surgery Review- Pain, Before & After",
-            "channel": "LaPrin TV",
-            "url": "https://www.youtube.com/watch?v=bZJuvzWbXQI&pp=ygUn65287ZSE66aw7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "86 views"
-          },
-          {
-            "title": "실리프팅의 끝판왕이 나타났다! ((리프팅종류/시술방법/부작용/효과/유지기간) | 궁금한건 못참아! ep.12  #엘라스티꿈 #실리프팅 #실리프팅 부작용",
-            "channel": "LaPrin TV",
-            "url": "https://www.youtube.com/watch?v=t1flEwC72ds&pp=ygUn65287ZSE66aw7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "8.2K views"
-          },
-          {
-            "title": "아름다움의 시작, LaPrin _ 지방흡입전문병원",
-            "channel": "LaPrin TV",
-            "url": "https://www.youtube.com/watch?v=v1afPzOSSVI&pp=ygUn65287ZSE66aw7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "750 views"
-          },
-          {
-            "title": "지방흡입 후 주의사항 꼭 확인하세요! -  궁금한건 못참아! ep.6 / #지방흡입 #지방흡입 부작용 #지방흡입 후가격 #지방흡입 사후관리",
-            "channel": "LaPrin TV",
-            "url": "https://www.youtube.com/watch?v=wJEgbOwCM7s&pp=ygUn65287ZSE66aw7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "924 views"
+            "url": "https://www.youtube.com/watch?v=yg6H-2r_UMg&pp=ygUV65287ZSE66aw7J2Y7JuQIEtvcmVh",
+            "view_text": "76 views"
           },
           {
             "title": "올바르고 안전한 지방흡입 병원 선택은?",
             "channel": "LaPrin TV",
-            "url": "https://www.youtube.com/watch?v=nlggMVJ-6l0&pp=ygUn65287ZSE66aw7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "url": "https://www.youtube.com/watch?v=nlggMVJ-6l0&pp=ygUV65287ZSE66aw7J2Y7JuQIEtvcmVh",
             "view_text": "6.3K views"
+          },
+          {
+            "title": "캐나다에서 온 브로닌의 가슴성형 셀프영상",
+            "channel": "박소희",
+            "url": "https://www.youtube.com/watch?v=GSFEr_33IEA&pp=ygUV65287ZSE66aw7J2Y7JuQIEtvcmVh",
+            "view_text": "2.4K views"
+          },
+          {
+            "title": "NOSE JOB PLASTIC SURGERY IN KOREA VLOG RECOVERY DAY 5",
+            "channel": "HoneyBii - biibiibap",
+            "url": "https://www.youtube.com/watch?v=zjaf_Eqds2Y&pp=ygUV65287ZSE66aw7J2Y7JuQIEtvcmVh",
+            "view_text": "27K views"
+          },
+          {
+            "title": "NOSE JOB PLASTIC SURGERY IN KOREA VLOG DAY 6 RECOVERY",
+            "channel": "HoneyBii - biibiibap",
+            "url": "https://www.youtube.com/watch?v=TcAnDXvwHks&pp=ygUV65287ZSE66aw7J2Y7JuQIEtvcmVh",
+            "view_text": "24K views"
+          },
+          {
+            "title": "[자막뉴스] 장난감 총 들고 식당 터는데 밥 먹던 손님 진짜 총 꺼내더니.. (2023.01.09/MBC뉴스)",
+            "channel": "MBCNEWS",
+            "url": "https://www.youtube.com/watch?v=MsMtxb1W534&pp=ygUV65287ZSE66aw7J2Y7JuQIEtvcmVh",
+            "view_text": "9M views"
+          },
+          {
+            "title": "NOSE JOB PLASTIC SURGERY IN KOREA VLOG DAY 3",
+            "channel": "HoneyBii - biibiibap",
+            "url": "https://www.youtube.com/watch?v=yOV9a9Epfuw&pp=ygUV65287ZSE66aw7J2Y7JuQIEtvcmVh",
+            "view_text": "30K views"
           }
         ]
       }
@@ -130,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 10,
-  "opportunity_cost_thb": 90000,
-  "opportunity_cost_krw": 3600000
+  "global_score": 16,
+  "opportunity_cost_thb": 86500,
+  "opportunity_cost_krw": 3460000
 }

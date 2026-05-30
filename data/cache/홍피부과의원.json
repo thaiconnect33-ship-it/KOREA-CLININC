@@ -1,18 +1,18 @@
 {
   "query": "홍피부과의원",
-  "generated_at": "2026-05-28T23:29:11.955Z",
+  "generated_at": "2026-05-29T12:11:45.541Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 933,
+      "metric_value": 4344,
       "extra": {
-        "place_id": "37647948",
+        "place_id": "37687036",
         "name": "홍피부과의원 : 네이버\u001c",
-        "visitor_review_count": 930,
-        "blog_review_count": 3,
-        "detail_url": "https://m.place.naver.com/place/37647948/home"
+        "visitor_review_count": 773,
+        "blog_review_count": 3571,
+        "detail_url": "https://m.place.naver.com/place/37687036/home"
       }
     },
     "google_maps": {
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 880330,
+        "total_views": 568106,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -61,62 +61,62 @@
           {
             "title": "20230103 회사출근 홍피부과 잠실돈가쓰 우리동네새내첫연습",
             "channel": "ShowKing SAKU",
-            "url": "https://www.youtube.com/watch?v=_mIyv3903Oo&pp=ygUh7ZmN7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=_mIyv3903Oo&pp=ygUY7ZmN7ZS867aA6rO87J2Y7JuQIEtvcmVh",
             "view_text": "76 views"
-          },
-          {
-            "title": "[성수 벨리스 의원 피부과]  개원식 현장 스케치🎥",
-            "channel": "닥터홍슐랭",
-            "url": "https://www.youtube.com/watch?v=48enEwgZIaA&pp=ygUh7ZmN7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "739 views"
           },
           {
             "title": "Why do hospitals get smaller as they treat more skin diseases?",
             "channel": "닥터썰전",
-            "url": "https://www.youtube.com/watch?v=p0unJ4-k80s&pp=ygUh7ZmN7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=p0unJ4-k80s&pp=ygUY7ZmN7ZS867aA6rO87J2Y7JuQIEtvcmVh",
             "view_text": "14K views"
-          },
-          {
-            "title": "논란의 필러! 도대체 왜 아직도 모르고 있어? [강남피부과산타홍]",
-            "channel": "산타홍의원",
-            "url": "https://www.youtube.com/watch?v=ShgXSsv5FW4&pp=ygUh7ZmN7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "81 views"
-          },
-          {
-            "title": "피부과에서 이렇게 많은 마약을 사용한다구요?? | 의사가 말하는 마약과 수면마취",
-            "channel": "현타의사 홍한빛",
-            "url": "https://www.youtube.com/watch?v=vbOTuOqh2rQ&pp=ygUh7ZmN7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "2.1K views"
-          },
-          {
-            "title": "풀페이스필러 큐오필, 2년이나 유지가 된다?! 이 필러 실화야?!  [강남산타홍피부과]",
-            "channel": "산타홍의원",
-            "url": "https://www.youtube.com/watch?v=HT_Din9oTp8&pp=ygUh7ZmN7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "284 views"
-          },
-          {
-            "title": "영등포 계피부과를 소개합니다. - SINCE 1961",
-            "channel": "계피부과 since1961",
-            "url": "https://www.youtube.com/watch?v=7pphGkeT8UM&pp=ygUh7ZmN7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "6.1K views"
-          },
-          {
-            "title": "큐오필 부작용 없이 시술하는 비결! [강남피부과산타홍]",
-            "channel": "산타홍의원",
-            "url": "https://www.youtube.com/watch?v=VxXWZ92Fb4s&pp=ygUh7ZmN7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "260 views"
-          },
-          {
-            "title": "필러vs지방이식 웬만하면!! OOO을 선택하지! [강남피부과산타홍]",
-            "channel": "산타홍의원",
-            "url": "https://www.youtube.com/watch?v=aCa8sf6mYYY&pp=ygUh7ZmN7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "83 views"
           },
           {
             "title": "일반적인 탈모의 진단과 올바른 치료 / 홍피부과의원 이건홍 원장 / 의료농단 극복을 위한 성공적 개원, 경영 전략 온라인 학술대회",
             "channel": "경기도의사회",
-            "url": "https://www.youtube.com/watch?v=clSE4SwmGVs&pp=ygUh7ZmN7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=clSE4SwmGVs&pp=ygUY7ZmN7ZS867aA6rO87J2Y7JuQIEtvcmVh",
             "view_text": "250 views"
+          },
+          {
+            "title": "20221026일기 촬영 잠실홍피부과 서초구 연극연습 박사선물",
+            "channel": "ShowKing SAKU",
+            "url": "https://www.youtube.com/watch?v=vJqgsotNm9k&pp=ygUY7ZmN7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "107 views"
+          },
+          {
+            "title": "From the day of surgery to the recovery period! We reveal Dr. Hong's honest review of his rhinopl...",
+            "channel": "얼굴 읽어주는 홍원장 Dr. HONG",
+            "url": "https://www.youtube.com/watch?v=IOJ1XjvxmMk&pp=ygUY7ZmN7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "49K views"
+          },
+          {
+            "title": "논란의 필러! 도대체 왜 아직도 모르고 있어? [강남피부과산타홍]",
+            "channel": "산타홍의원",
+            "url": "https://www.youtube.com/watch?v=ShgXSsv5FW4&pp=ygUY7ZmN7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "81 views"
+          },
+          {
+            "title": "[홍혜걸GO] 병원 현장 라이브 (함익병피부과의원 함익병 원장 & 홍혜걸 기자)",
+            "channel": "의학채널 비온뒤",
+            "url": "https://www.youtube.com/watch?v=AvMf1P59ukc&pp=ygUY7ZmN7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "458K views"
+          },
+          {
+            "title": "Why do new facial ingredients keep coming out? (The Truth About Fillers, Boosters, and Collagen)",
+            "channel": "얼굴 읽어주는 홍원장 Dr. HONG",
+            "url": "https://www.youtube.com/watch?v=EeZEg2NlyHs&pp=ygUY7ZmN7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "15K views"
+          },
+          {
+            "title": "풀페이스필러 큐오필, 2년이나 유지가 된다?! 이 필러 실화야?!  [강남산타홍피부과]",
+            "channel": "산타홍의원",
+            "url": "https://www.youtube.com/watch?v=HT_Din9oTp8&pp=ygUY7ZmN7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "284 views"
+          },
+          {
+            "title": "서울대입구역피부과 홍앤유의원의 필러, 스컬필, 더블로리프팅, 기미 치료",
+            "channel": "정민지",
+            "url": "https://www.youtube.com/watch?v=zH0D_lRORf0&pp=ygUY7ZmN7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "248 views"
           }
         ]
       }
@@ -132,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

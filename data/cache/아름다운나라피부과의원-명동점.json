@@ -1,0 +1,148 @@
+{
+  "query": "아름다운나라피부과의원 명동점",
+  "generated_at": "2026-05-29T11:39:11.213Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 521,
+      "extra": {
+        "place_id": "11863699",
+        "name": "아름다운나라피부과의원 명동점 : 네이버\u001c",
+        "visitor_review_count": 377,
+        "blog_review_count": 144,
+        "detail_url": "https://m.place.naver.com/place/11863699/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "아름다운나라피부과",
+        "rating": 4.7,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 11,
+      "extra": {
+        "total_views": 3666,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 11,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 11,
+        "top_videos": [
+          {
+            "title": "아름다운나라피부과 명동점_중구 충무로_피부과",
+            "channel": "모션애드--",
+            "url": "https://www.youtube.com/watch?v=1yshY3_uHzk&pp=ygUx7JWE66aE64uk7Jq064KY65287ZS867aA6rO87J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "65 views"
+          },
+          {
+            "title": "[아름다운나라피부과] 피지샘센터",
+            "channel": "아름다운나라피부과강남/분당",
+            "url": "https://www.youtube.com/watch?v=XaV37kIJemQ&pp=ygUx7JWE66aE64uk7Jq064KY65287ZS867aA6rO87J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "877 views"
+          },
+          {
+            "title": "아름다운나라피부과",
+            "channel": "박혜영",
+            "url": "https://www.youtube.com/watch?v=qhsuAdCcpqY&pp=ygUx7JWE66aE64uk7Jq064KY65287ZS867aA6rO87J2Y7JuQIOuqheuPmeygkCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "140 views"
+          },
+          {
+            "title": "리프팅 최고의 가성비 아름다운나라피부과",
+            "channel": "강남아름다운나라피부과",
+            "url": "https://www.youtube.com/watch?v=PrF5qhcSktU&pp=ygUx7JWE66aE64uk7Jq064KY65287ZS867aA6rO87J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "378 views"
+          },
+          {
+            "title": "아름다운나라피부과 체험하기",
+            "channel": "박혜영",
+            "url": "https://www.youtube.com/watch?v=kBWj729okFc&pp=ygUx7JWE66aE64uk7Jq064KY65287ZS867aA6rO87J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "313 views"
+          },
+          {
+            "title": "아름다운나라피부과 安娜柯琳",
+            "channel": "安娜柯琳",
+            "url": "https://www.youtube.com/watch?v=EnnaGSoTz6I&pp=ygUx7JWE66aE64uk7Jq064KY65287ZS867aA6rO87J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "98 views"
+          },
+          {
+            "title": "노형 아름다운피부과 안녕하세요",
+            "channel": "赵主任",
+            "url": "https://www.youtube.com/watch?v=n_Jgs7YUPf8&pp=ygUx7JWE66aE64uk7Jq064KY65287ZS867aA6rO87J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "632 views"
+          },
+          {
+            "title": "아름다운 헤바 의원 피부과 성형외과",
+            "channel": "정규동",
+            "url": "https://www.youtube.com/watch?v=lNvjPscDxr8&pp=ygUx7JWE66aE64uk7Jq064KY65287ZS867aA6rO87J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "250 views"
+          },
+          {
+            "title": "[제주 노형 아름다운피부과]여드름, 이젠 완벽하게 이별해야 할 때!",
+            "channel": "suhyeonkim1",
+            "url": "https://www.youtube.com/watch?v=uPO9gEsd9Ng&pp=ygUx7JWE66aE64uk7Jq064KY65287ZS867aA6rO87J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "296 views"
+          },
+          {
+            "title": "서울피부과 리얼스토리   자연재생편",
+            "channel": "Dr. 김준형 TV",
+            "url": "https://www.youtube.com/watch?v=UnKqb4YqoM8&pp=ygUx7JWE66aE64uk7Jq064KY65287ZS867aA6rO87J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "30 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

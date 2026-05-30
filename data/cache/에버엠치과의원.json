@@ -1,6 +1,6 @@
 {
   "query": "에버엠치과의원",
-  "generated_at": "2026-05-29T00:14:13.745Z",
+  "generated_at": "2026-05-29T13:01:29.611Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -21,7 +21,7 @@
       "metric_value": 0,
       "extra": {
         "name": "EVERM DENTAL CLINIC",
-        "rating": 4.2,
+        "rating": 4.4,
         "total_reviews": 0,
         "sample_size": 0,
         "foreign_language_reviews": 0,
@@ -45,78 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 20,
+      "metric_value": 19,
       "extra": {
-        "total_views": 49310,
+        "total_views": 67743,
         "foreign_video_count": 0,
         "lang_breakdown": {
-          "korean": 20,
+          "korean": 19,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
           "english_other": 0
         },
-        "sample_size": 20,
+        "sample_size": 19,
         "top_videos": [
           {
             "title": "에버엠치과 대표원장님 인터뷰- SBS 모닝와이드",
             "channel": "양악수술 얼굴뼈닥터_양악 안면윤곽",
-            "url": "https://www.youtube.com/watch?v=Y4pE2yGf32Y&pp=ygUh7JeQ67KE7Jeg7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=Y4pE2yGf32Y&pp=ygUb7JeQ67KE7Jeg7LmY6rO87J2Y7JuQIEtvcmVh",
             "view_text": "697 views"
-          },
-          {
-            "title": "에버엠치과 윤규식 대표원장님 - SBS 모닝와이드 인터뷰",
-            "channel": "양악수술 얼굴뼈닥터_양악 안면윤곽",
-            "url": "https://www.youtube.com/watch?v=9ByPvTnudOc&pp=ygUh7JeQ67KE7Jeg7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
-            "view_text": "1.3K views"
           },
           {
             "title": "요즘 안면윤곽 대세는 어디? 치과에서 하는 안면윤곽 수술",
             "channel": "양악수술 얼굴뼈닥터_양악 안면윤곽",
-            "url": "https://www.youtube.com/watch?v=_UbVJb06BhI&pp=ygUh7JeQ67KE7Jeg7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=_UbVJb06BhI&pp=ygUb7JeQ67KE7Jeg7LmY6rO87J2Y7JuQIEtvcmVh",
             "view_text": "2.2K views"
+          },
+          {
+            "title": "에버엠치과 윤규식 대표원장님 - SBS 모닝와이드 인터뷰",
+            "channel": "양악수술 얼굴뼈닥터_양악 안면윤곽",
+            "url": "https://www.youtube.com/watch?v=9ByPvTnudOc&pp=ygUb7JeQ67KE7Jeg7LmY6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.3K views"
+          },
+          {
+            "title": "양악수술 후 회복기간은? 일상생활은 언제부터 가능한가요?🙄",
+            "channel": "양악수술 얼굴뼈닥터_양악 안면윤곽",
+            "url": "https://www.youtube.com/watch?v=6jjG52pSCq8&pp=ygUb7JeQ67KE7Jeg7LmY6rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "10K views"
+          },
+          {
+            "title": "핀제거수술 모든 것 알려드림😏🤘🏻",
+            "channel": "양악수술 얼굴뼈닥터_양악 안면윤곽",
+            "url": "https://www.youtube.com/watch?v=IvNwp3RxshM&pp=ygUb7JeQ67KE7Jeg7LmY6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "15K views"
+          },
+          {
+            "title": "에버엠치과_주걱턱 양악수술 관련 영상",
+            "channel": "이레이즈 : 영상 기획·제작·홍보",
+            "url": "https://www.youtube.com/watch?v=tl1-mg-rX_8&pp=ygUb7JeQ67KE7Jeg7LmY6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "84 views"
           },
           {
             "title": "양악수술 얼굴뼈수술은 에버엠치과 [에버엠치과 소개영상]",
             "channel": "양악수술 얼굴뼈닥터_양악 안면윤곽",
-            "url": "https://www.youtube.com/watch?v=mCkuHlPdeAM&pp=ygUh7JeQ67KE7Jeg7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=mCkuHlPdeAM&pp=ygUb7JeQ67KE7Jeg7LmY6rO87J2Y7JuQIEtvcmVh",
             "view_text": "1.2K views"
           },
           {
             "title": "어서와~ 얼굴뼈닥터는 처음이지?🩺 에버엠치과 유튜브 새단장했습니다! [KOR/CHN Sub]",
             "channel": "양악수술 얼굴뼈닥터_양악 안면윤곽",
-            "url": "https://www.youtube.com/watch?v=4YVAXqZQSQE&pp=ygUh7JeQ67KE7Jeg7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=4YVAXqZQSQE&pp=ygUb7JeQ67KE7Jeg7LmY6rO87J2Y7JuQIEtvcmVh",
             "view_text": "1.4K views"
           },
           {
-            "title": "치과 치료 중 고난도 치료인 임플란트, 그냥 하실 건가요?",
+            "title": "Are there faces that are difficult to have jaw surgery on? 😲💥",
             "channel": "양악수술 얼굴뼈닥터_양악 안면윤곽",
-            "url": "https://www.youtube.com/watch?v=OhupOQe6ioA&pp=ygUh7JeQ67KE7Jeg7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
-            "view_text": "695 views"
+            "url": "https://www.youtube.com/watch?v=CMU18zxgcdY&pp=ygUb7JeQ67KE7Jeg7LmY6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "4.1K views"
           },
           {
-            "title": "양악수술이 왜 힘든지? 양악 수술 통증에 대해 알아보자!",
-            "channel": "양악수술 얼굴뼈닥터_양악 안면윤곽",
-            "url": "https://www.youtube.com/watch?v=xxlE4xsKE0A&pp=ygUh7JeQ67KE7Jeg7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
-            "view_text": "7.7K views"
-          },
-          {
-            "title": "양악수술로 유명한 에버엠치과에 대해서 알아볼까요? [IMBC] TV속 주치의 방송촬영",
-            "channel": "양악수술 얼굴뼈닥터_양악 안면윤곽",
-            "url": "https://www.youtube.com/watch?v=prU4ygAu3Fg&pp=ygUh7JeQ67KE7Jeg7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
-            "view_text": "767 views"
-          },
-          {
-            "title": "기능양악은 괜찮고, 미용양악은 위험하다?",
-            "channel": "양악수술 얼굴뼈닥터_양악 안면윤곽",
-            "url": "https://www.youtube.com/watch?v=jOarxil4m8I&pp=ygUh7JeQ67KE7Jeg7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
-            "view_text": "2K views"
-          },
-          {
-            "title": "에버엠치과 MBC 8시 뉴스데스크 인터뷰",
-            "channel": "양악수술 얼굴뼈닥터_양악 안면윤곽",
-            "url": "https://www.youtube.com/watch?v=gp6rMfNa5n0&pp=ygUh7JeQ67KE7Jeg7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
-            "view_text": "1K views"
+            "title": "양악수술 진단사례! 이런 분은 양악수술 못합니다!",
+            "channel": "강남 제아치과 구강악안면외과 & 교정과",
+            "url": "https://www.youtube.com/watch?v=BqFfsIj9TbE&pp=ygUb7JeQ67KE7Jeg7LmY6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.1K views"
           }
         ]
       }
@@ -132,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

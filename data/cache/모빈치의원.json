@@ -1,6 +1,6 @@
 {
   "query": "모빈치의원",
-  "generated_at": "2026-05-28T23:59:02.060Z",
+  "generated_at": "2026-05-29T12:45:45.832Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -36,78 +36,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 20,
+      "metric_value": 19,
       "extra": {
-        "total_views": 537199,
+        "total_views": 666900,
         "foreign_video_count": 0,
         "lang_breakdown": {
-          "korean": 20,
+          "korean": 19,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
           "english_other": 0
         },
-        "sample_size": 20,
+        "sample_size": 19,
         "top_videos": [
           {
-            "title": "모빈치의원 홍보영상",
-            "channel": "Hanbok Studio",
-            "url": "https://www.youtube.com/watch?v=J_Vm9sU5l0o&pp=ygUe66qo67mI7LmY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "229 views"
-          },
-          {
-            "title": "[모빈치TV] 여성형 탈모? Q&A!",
+            "title": "[모빈치TV] 모빈치의 비절개 모발이식 마취방법?",
             "channel": "모빈치TV",
-            "url": "https://www.youtube.com/watch?v=o_zrhhsrsLs&pp=ygUe66qo67mI7LmY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "2.2K views"
+            "url": "https://www.youtube.com/watch?v=Ci51AmJC774&pp=ygUV66qo67mI7LmY7J2Y7JuQIEtvcmVh",
+            "view_text": "2.8K views"
           },
           {
-            "title": "[전참시] '탈모인들의 희망 한상보' 의사의 병원 대공개 MBC240831방송",
-            "channel": "픽잇 :Pick it",
-            "url": "https://www.youtube.com/watch?v=g1JtONR12DA&pp=ygUe66qo67mI7LmY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "197K views"
+            "title": "[모빈치TV] 모빈치의 차별화된 수술 시스템?",
+            "channel": "모빈치TV",
+            "url": "https://www.youtube.com/watch?v=tdLpcH18SMY&pp=ygUV66qo67mI7LmY7J2Y7JuQIEtvcmVh",
+            "view_text": "2.4K views"
           },
           {
-            "title": "김우리 탈모수술, 압구정 모발이식 병원은? (모리치피부과의원)",
-            "channel": "꿀단지",
-            "url": "https://www.youtube.com/watch?v=oKXz3qCIoDo&pp=ygUe66qo67mI7LmY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "4.1K views"
+            "title": "[모빈치TV] 비절개모발이식의 현실적인 부작용?! 모발이식!!",
+            "channel": "모빈치TV",
+            "url": "https://www.youtube.com/watch?v=MwGG7z_E9W0&pp=ygUV66qo67mI7LmY7J2Y7JuQIEtvcmVh",
+            "view_text": "51K views"
           },
           {
             "title": "[모빈치TV] 조합약이라고 들어보셨나요? 조합약 그 실체와 비밀은!?",
             "channel": "모빈치TV",
-            "url": "https://www.youtube.com/watch?v=9tmMHnzty4E&pp=ygUe66qo67mI7LmY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=9tmMHnzty4E&pp=ygUV66qo67mI7LmY7J2Y7JuQIEtvcmVh",
             "view_text": "21K views"
+          },
+          {
+            "title": "[모빈치TV] '모발이식 수술 시 많이 아픈가요?' 수술 후 통증이 궁금하다면!?",
+            "channel": "모빈치TV",
+            "url": "https://www.youtube.com/watch?v=U-gUBKYVFtw&pp=ygUV66qo67mI7LmY7J2Y7JuQIEtvcmVh",
+            "view_text": "17K views"
+          },
+          {
+            "title": "[탈모전문병원 1편] 남성탈모 | 여성탈모 | 탈모분야 대한민국 1등 의사에게 듣는 찐 해결법! | 여성헤어라인 | 헤어라인교정",
+            "channel": "수다의 목적",
+            "url": "https://www.youtube.com/watch?v=sF3jxsE-W6g&pp=ygUV66qo67mI7LmY7J2Y7JuQIEtvcmVh",
+            "view_text": "1.8K views"
+          },
+          {
+            "title": "[모빈치TV] 모빈치 대표원장에게도 탈모가?!",
+            "channel": "모빈치TV",
+            "url": "https://www.youtube.com/watch?v=mxbGijI7I2E&pp=ygUV66qo67mI7LmY7J2Y7JuQIEtvcmVh",
+            "view_text": "11K views"
           },
           {
             "title": "[모빈치TV] 두피열! 탈모의 원인일까?! 모발이식!!",
             "channel": "모빈치TV",
-            "url": "https://www.youtube.com/watch?v=icbeGWlNg6c&pp=ygUe66qo67mI7LmY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=icbeGWlNg6c&pp=ygUV66qo67mI7LmY7J2Y7JuQIEtvcmVh",
             "view_text": "23K views"
           },
           {
-            "title": "[모빈치TV] 탈모약, 복용 시작하면 계속 먹어야 돼?! 프로페시아의 오해!",
+            "title": "[모빈치TV] 여성형 탈모? Q&A!",
             "channel": "모빈치TV",
-            "url": "https://www.youtube.com/watch?v=3L6o28QreGQ&pp=ygUe66qo67mI7LmY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "33K views"
+            "url": "https://www.youtube.com/watch?v=o_zrhhsrsLs&pp=ygUV66qo67mI7LmY7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "2.2K views"
           },
           {
-            "title": "탈모(진행성질환) 치료 서둘러야 하는 이유는? (모리치피부과의원)",
-            "channel": "꿀단지",
-            "url": "https://www.youtube.com/watch?v=iGtiNmBLEjk&pp=ygUe66qo67mI7LmY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "20 views"
-          },
-          {
-            "title": "[모빈치TV] 선생님! 궁금해요! 모발이식으로 자주하는 질문모음",
+            "title": "[모빈치TV] 세계 최초! 한국인 프로페시아 효과 평가 논문 발표! 탈모치료제!",
             "channel": "모빈치TV",
-            "url": "https://www.youtube.com/watch?v=0hX5w-CnUgg&pp=ygUe66qo67mI7LmY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "3.4K views"
-          },
-          {
-            "title": "피부과전문의 양심고백 \"이럴땐 모발이식수술 하지마세요\"",
-            "channel": "꿀단지",
-            "url": "https://www.youtube.com/watch?v=_PYkMItKx2E&pp=ygUe66qo67mI7LmY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "44 views"
+            "url": "https://www.youtube.com/watch?v=cbJGCrfmvxc&pp=ygUV66qo67mI7LmY7J2Y7JuQIEtvcmVh",
+            "view_text": "19K views"
           }
         ]
       }
@@ -123,12 +123,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

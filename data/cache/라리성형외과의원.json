@@ -1,33 +1,35 @@
 {
   "query": "라리성형외과의원",
-  "generated_at": "2026-05-29T00:02:03.324Z",
+  "generated_at": "2026-05-29T12:48:35.730Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 3169,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "13182122",
+        "name": "라리성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 434,
+        "blog_review_count": 2735,
+        "detail_url": "https://m.place.naver.com/place/13182122/home"
       }
     },
     "google_maps": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 19,
       "extra": {
-        "name": "Sponsored",
+        "name": "라리성형외과의원",
         "rating": 4.9,
-        "total_reviews": 0,
-        "sample_size": 0,
-        "foreign_language_reviews": 0,
+        "total_reviews": 19,
+        "sample_size": 20,
+        "foreign_language_reviews": 20,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 0
+          "english_other": 20
         }
       }
     },
@@ -45,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 122601,
+        "total_views": 45187,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -57,64 +59,64 @@
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "[라리성형외과] 쌍수재수술 후기 전후( 짝짝이, 삼겹풀, 소세지눈교정)",
-            "channel": "라리두잇",
-            "url": "https://www.youtube.com/watch?v=LLhoJT3Ynik&pp=ygUw652866as7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.5K views"
+            "title": "라리성형외과 유튜브 제작",
+            "channel": "엠피알",
+            "url": "https://www.youtube.com/watch?v=5joZ479Tg4Y&pp=ygUe652866as7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "465"
           },
           {
-            "title": "쌍수매몰 티나지 않게 라리성형외과에서 해결",
-            "channel": "라리두잇",
-            "url": "https://www.youtube.com/watch?v=m4nvTpOfOlU&pp=ygUw652866as7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.7K views"
+            "title": "라리성형외과 유튜브 콘텐츠 제작",
+            "channel": "엠피알",
+            "url": "https://www.youtube.com/watch?v=Ps0plL3GTYI&pp=ygUe652866as7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "76"
           },
           {
-            "title": "[라리성형외과] 쌍꺼풀재수술 눈매교정+눈꼬리내리는수술 뒤트임재수술 후기",
-            "channel": "라리두잇",
-            "url": "https://www.youtube.com/watch?v=yvWQlQy_O5U&pp=ygUw652866as7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "15K views"
-          },
-          {
-            "title": "[라리성형외과] 쌍수 매몰 아웃라인 붓기는 어떨까?",
-            "channel": "라리두잇",
-            "url": "https://www.youtube.com/watch?v=wEaaxDPGZVU&pp=ygUw652866as7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "38K views"
-          },
-          {
-            "title": "'성형 전→성형 후' 과장 광고·후기…유명 성형외과 적발 / SBS",
-            "channel": "SBS 뉴스",
-            "url": "https://www.youtube.com/watch?v=SvbHboZOVCE&pp=ygUw652866as7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "5.9K views"
-          },
-          {
-            "title": "[라리성형외과] 쌍수 인라인 전후사진 (매몰+앞트임)",
-            "channel": "라리두잇",
-            "url": "https://www.youtube.com/watch?v=d9Vl1cQWMew&pp=ygUw652866as7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "9K views"
-          },
-          {
-            "title": "자연유착 자연유착법 / 매몰 쌍수 차이 ( 쌍꺼풀 수술 )",
-            "channel": "아이콘유닥-닥사친 [닥터사람친구",
-            "url": "https://www.youtube.com/watch?v=NGPU76KinSE&pp=ygUw652866as7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "4.4K views"
-          },
-          {
-            "title": "[압구정 김원장] 첫수술 병원 고르는 TIP! 재수술 전문병원은 첫수술을 못한다?   🙀",
+            "title": "쌍꺼풀 없애는 수술: 원장님 수술 이따위로 해놓으실 거예요 ⁉️💢💢 (수술 후 비대칭 어떻게 할까?) ㅣ 압구정 김원장",
             "channel": "압구정김원장_성형외과전문의",
-            "url": "https://www.youtube.com/watch?v=RizdZKzszu0&pp=ygUw652866as7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "893 views"
+            "url": "https://www.youtube.com/watch?v=T0WoPLGqSMk&pp=ygUe652866as7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "622"
           },
           {
-            "title": "[부산눈성형] 성형에 대한 궁금증을 1분만에 풀어보자 ep1. 눈성형 매몰,절개,부분절개,순간유착을 90초 안에 설명하시오[노블레스성형외과]",
-            "channel": "노블레스성형외과-noblesse plastic surgery",
-            "url": "https://www.youtube.com/watch?v=cA3wsusRMG0&pp=ygUw652866as7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.6K views"
+            "title": "여자들도 쌍꺼풀제거 하나요? #쌍꺼풀없애기 #여자눈성형",
+            "channel": "압구정김원장_성형외과전문의",
+            "url": "https://www.youtube.com/watch?v=OwENI3IKa0k&pp=ygUe652866as7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.5K"
           },
           {
-            "title": "[부산 눈성형] 쌍꺼풀 수술 라인 설명 들어갑니다. 인라인, 인아웃라인, 아웃라인을 쉽고 간단하게 설명해드립니다[노블레스성형외과]",
-            "channel": "노블레스성형외과-noblesse plastic surgery",
-            "url": "https://www.youtube.com/watch?v=Z1nI8f7XPU8&pp=ygUw652866as7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "2.3K views"
+            "title": "쌍꺼풀 없애기 #수술방법? #수술원리?",
+            "channel": "압구정김원장_성형외과전문의",
+            "url": "https://www.youtube.com/watch?v=-Lmsai2qS5I&pp=ygUe652866as7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.2K"
+          },
+          {
+            "title": "쌍꺼풀없애기 수술하면 ***된다? 쌍없수술의 오해와 진실! │ 라리성형외과",
+            "channel": "압구정김원장_성형외과전문의",
+            "url": "https://www.youtube.com/watch?v=N06biCVXL0g&pp=ygUe652866as7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "712"
+          },
+          {
+            "title": "제가 말한 수술이 이게 맞나요..? 쌍꺼풀없애기 부기! │ 라리성형외과",
+            "channel": "압구정김원장_성형외과전문의",
+            "url": "https://www.youtube.com/watch?v=Vuwkk7U22x8&pp=ygUe652866as7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "1.6K"
+          },
+          {
+            "title": "쌍꺼풀 없애기 부작용? 쌍꺼풀 제거수술 후 눈 안 감김 증상 나타나면? 🤨 | 압구정김원장",
+            "channel": "압구정김원장_성형외과전문의",
+            "url": "https://www.youtube.com/watch?v=pPJhOplkytc&pp=ygUe652866as7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "2.4K"
+          },
+          {
+            "title": "실패한 앞트임, 자연스럽게 살릴 수 있을까요?  | 압구정김원장",
+            "channel": "압구정김원장_성형외과전문의",
+            "url": "https://www.youtube.com/watch?v=DfkM24eRXfw&pp=ygUe652866as7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "465"
+          },
+          {
+            "title": "[라리성형외과] 쌍꺼풀없애기수술/쌍꺼풀제거수술후 자신감 상승",
+            "channel": "라리두잇",
+            "url": "https://www.youtube.com/watch?v=nWX6FyP8HMg&pp=ygUe652866as7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "5.1K"
           }
         ]
       }
@@ -130,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 0,
-  "opportunity_cost_thb": 100000,
-  "opportunity_cost_krw": 4000000
+  "global_score": 10,
+  "opportunity_cost_thb": 90000,
+  "opportunity_cost_krw": 3600000
 }

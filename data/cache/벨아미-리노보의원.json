@@ -1,6 +1,6 @@
 {
   "query": "벨아미 리노보의원",
-  "generated_at": "2026-05-28T22:43:41.526Z",
+  "generated_at": "2026-05-29T11:22:15.868Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 5,
       "extra": {
-        "total_views": 970819,
+        "total_views": 971819,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 5,
@@ -61,32 +61,32 @@
           {
             "title": "벨아미리노보의원 이전개원1주년 인사",
             "channel": "hongdaedoctor",
-            "url": "https://www.youtube.com/watch?v=AjGY3VE2lGA&pp=ygUo67Ko7JWE66-4IOumrOuFuOuztOydmOybkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "url": "https://www.youtube.com/watch?v=AjGY3VE2lGA&pp=ygUf67Ko7JWE66-4IOumrOuFuOuztOydmOybkCBLb3JlYQ%3D%3D",
             "view_text": "257 views"
           },
           {
             "title": "리노보홍대레이저PRP",
             "channel": "Hongdae Belleamie Renovo clinic & beauty center",
-            "url": "https://www.youtube.com/watch?v=lh_gii7fKeo&pp=ygUo67Ko7JWE66-4IOumrOuFuOuztOydmOybkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "url": "https://www.youtube.com/watch?v=lh_gii7fKeo&pp=ygUf67Ko7JWE66-4IOumrOuFuOuztOydmOybkCBLb3JlYQ%3D%3D",
             "view_text": "78 views"
-          },
-          {
-            "title": "홍대피부과, 손발톱무좀 치료법에 대해 알아보자!",
-            "channel": "hongdaedoctor",
-            "url": "https://www.youtube.com/watch?v=t5B2ESiwnB4&pp=ygUo67Ko7JWE66-4IOumrOuFuOuztOydmOybkO2UvOu2gOqzvCBLb3JlYdIHCQkNCwGHKiGM7w%3D%3D",
-            "view_text": "358 views"
           },
           {
             "title": "헤어라인이식 리얼스토리1-3_홍대 리노보",
             "channel": "taehoon park",
-            "url": "https://www.youtube.com/watch?v=eMmXGAZOMbs&pp=ygUo67Ko7JWE66-4IOumrOuFuOuztOydmOybkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "url": "https://www.youtube.com/watch?v=eMmXGAZOMbs&pp=ygUf67Ko7JWE66-4IOumrOuFuOuztOydmOybkCBLb3JlYQ%3D%3D",
             "view_text": "126 views"
+          },
+          {
+            "title": "홍대피부과, 손발톱무좀 치료법에 대해 알아보자!",
+            "channel": "hongdaedoctor",
+            "url": "https://www.youtube.com/watch?v=t5B2ESiwnB4&pp=ygUf67Ko7JWE66-4IOumrOuFuOuztOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "358 views"
           },
           {
             "title": "대부분 모르는 세럼 바를 때 실수 5가지 | 세럼 효과 제대로 보는 방법",
             "channel": "닥터블랑_예뻐지는비결",
-            "url": "https://www.youtube.com/watch?v=56-s3SCtoQc&pp=ygUo67Ko7JWE66-4IOumrOuFuOuztOydmOybkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
-            "view_text": "970K views"
+            "url": "https://www.youtube.com/watch?v=56-s3SCtoQc&pp=ygUf67Ko7JWE66-4IOumrOuFuOuztOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "971K views"
           }
         ]
       }
@@ -102,12 +102,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

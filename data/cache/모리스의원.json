@@ -1,16 +1,18 @@
 {
   "query": "모리스의원",
-  "generated_at": "2026-05-29T06:09:33.615Z",
+  "generated_at": "2026-05-29T10:36:31.214Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 8314,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "1140081354",
+        "name": "모리스의원 : 네이버\u001c",
+        "visitor_review_count": 7335,
+        "blog_review_count": 979,
+        "detail_url": "https://m.place.naver.com/place/1140081354/home"
       }
     },
     "google_maps": {
@@ -43,9 +45,80 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 0,
+      "metric_value": 20,
       "extra": {
-        "note": "결과 없음"
+        "total_views": 2045039,
+        "foreign_video_count": 1,
+        "lang_breakdown": {
+          "korean": 19,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 1
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "The story of Morris Chang, who founded a semiconductor company worth 630 trillion won at the age ...",
+            "channel": "티타임즈TV",
+            "url": "https://www.youtube.com/watch?v=H4XLuKobY-g&pp=ygUV66qo66as7Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "35K views"
+          },
+          {
+            "title": "필립모리스, 식약처 상대 소송…\"유해성 근거 공개하라\" / 연합뉴스TV (YonhapnewsTV)",
+            "channel": "연합뉴스TV",
+            "url": "https://www.youtube.com/watch?v=3uAcb-V0xHU&pp=ygUV66qo66as7Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "134 views"
+          },
+          {
+            "title": "인류의 기원은 무엇인가? 사랑, 표정, 인간으로의 진화 : 털 없는 원숭이 데즈먼드 모리스",
+            "channel": "일당백 : 일생동안 읽어야 할 백권의 책",
+            "url": "https://www.youtube.com/watch?v=GIZgxQ9lGXA&pp=ygUV66qo66as7Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "205K views"
+          },
+          {
+            "title": "'나한테 왜 이래요'...'부정선거론자' 민경욱 전 의원이 이재명 대통령에게 받은 '이것' 공개 \"무서운 일\" [이슈영상]",
+            "channel": "MBN News",
+            "url": "https://www.youtube.com/watch?v=CJopojEN-B4&pp=ygUV66qo66as7Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "16K views"
+          },
+          {
+            "title": "한국계 여성에 또 증오 범죄...아시아계 의원들 바이든 면담 / YTN",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=hGsZQjb08Ag&pp=ygUV66qo66as7Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "16K views"
+          },
+          {
+            "title": "[안동MBC뉴스]필립모리스, 215억 원 규모 사회 환원",
+            "channel": "안동MBC NEWS",
+            "url": "https://www.youtube.com/watch?v=SokOOjXjgDY&pp=ygUV66qo66as7Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "93 views"
+          },
+          {
+            "title": "필립모리스도 담배값인상...혼자 남은 KT&G 어쩌나?",
+            "channel": "MTN 머니투데이방송",
+            "url": "https://www.youtube.com/watch?v=sW-otjmoysU&pp=ygUV66qo66as7Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "4.3K views"
+          },
+          {
+            "title": "한국계 여성에 또 증오 범죄...아시아계 의원들 바이든 면담 / YTN",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=34sKvwWs74o&pp=ygUV66qo66as7Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "118K views"
+          },
+          {
+            "title": "BBOY MORRIS - Top 10 Sets",
+            "channel": "AlkolikaTV",
+            "url": "https://www.youtube.com/watch?v=3rdM5fBjnB8&pp=ygUV66qo66as7Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "171K views"
+          },
+          {
+            "title": "\"중독성 질병수준\" vs. \"소송자체 결함\" / YTN",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=xTwr4MGqGrQ&pp=ygUV66qo66as7Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "47 views"
+          }
+        ]
       }
     },
     "xiaohongshu": {
@@ -69,7 +142,7 @@
       }
     }
   },
-  "global_score": 0,
-  "opportunity_cost_thb": 100000,
-  "opportunity_cost_krw": 4000000
+  "global_score": 1,
+  "opportunity_cost_thb": 99500,
+  "opportunity_cost_krw": 3980000
 }

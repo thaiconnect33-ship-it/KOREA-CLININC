@@ -1,6 +1,6 @@
 {
   "query": "별성형외과의원",
-  "generated_at": "2026-05-29T00:07:17.956Z",
+  "generated_at": "2026-05-29T12:53:52.863Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 27313,
+        "total_views": 28998,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -59,64 +59,64 @@
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "첫수술 때 늑연골을 사용안하는 이유는 무엇일까?",
-            "channel": "별성형외과",
-            "url": "https://www.youtube.com/watch?v=9z52nqxwZVU&pp=ygUn67OE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
-            "view_text": "447 views"
-          },
-          {
             "title": "[별성형외과] 비염수술과 코성형 같이한다면 부작용은 없을까? 궁금해요! 알려주세요! 비염수술 비중격만곡증 비염코성형 비염코수술",
             "channel": "별성형외과",
-            "url": "https://www.youtube.com/watch?v=XiYRntditHM&pp=ygUn67OE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=XiYRntditHM&pp=ygUb67OE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "1.3K views"
+          },
+          {
+            "title": "첫수술 때 늑연골을 사용안하는 이유는 무엇일까?",
+            "channel": "별성형외과",
+            "url": "https://www.youtube.com/watch?v=9z52nqxwZVU&pp=ygUb67OE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "447 views"
           },
           {
             "title": "[별성형외과] 코성형 후 재발한 휜코와 매부리코!😢 코재수술 원장님의 REAL후기! 강남 별성형외과 백형익 원장님이 알려드려요📢",
             "channel": "별성형외과",
-            "url": "https://www.youtube.com/watch?v=LNTiJQ42QY4&pp=ygUn67OE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=LNTiJQ42QY4&pp=ygUb67OE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "516 views"
+          },
+          {
+            "title": "[별성형외과] 휜코 매부리코 동시에 있을때 어떻게 해결? 비중격만곡증교정 후 휜코성형과 매부리코성형을 한번에!",
+            "channel": "별성형외과",
+            "url": "https://www.youtube.com/watch?v=56C0xwJ0wbk&pp=ygUb67OE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "919 views"
+          },
+          {
+            "title": "원장님! 코성형의 대표적인 부작용 증상은 무엇인가요??? 코재수술 코성형부작용 코수술부작용 코성형",
+            "channel": "별성형외과",
+            "url": "https://www.youtube.com/watch?v=8s1KkelVg9o&pp=ygUb67OE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "3.4K views"
+          },
+          {
+            "title": "🌕요즘 핫한 루나코주사! 별성형외과 고국진대표원장님과 함께 자세히 알아보기❤ | 루나코 루나코주사 루나코성형 무보형물 비개방 코필러보다 루나코",
+            "channel": "별성형외과",
+            "url": "https://www.youtube.com/watch?v=Ey-fyvXTE_0&pp=ygUb67OE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.1K views"
+          },
+          {
+            "title": "[별성형외과] 별성형외과에서 알려주는 눈매교정의 모든것!",
+            "channel": "별성형외과",
+            "url": "https://www.youtube.com/watch?v=aI7jm0UgaI0&pp=ygUb67OE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "2.8K views"
           },
           {
             "title": "[별성형외과] hoxy..내 코💢 코재수술 어려운 case?? 코재수술 전 꼭! 염두해야할 점🔥 강남 별성형외과 백형익 원장님이 알려드려요📢",
             "channel": "별성형외과",
-            "url": "https://www.youtube.com/watch?v=e4nJjs43f20&pp=ygUn67OE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=e4nJjs43f20&pp=ygUb67OE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "1.8K views"
           },
           {
-            "title": "[별성형외과] 고국진원장님 매부리코수술 인터뷰",
+            "title": "파키스탄에서 한국까지! 휜코+매부리코 싹 잡으러 옴💚 | 휜코교정 매부리코수술 매부리교정 기능코성형",
             "channel": "별성형외과",
-            "url": "https://www.youtube.com/watch?v=9gqFtGRkdGs&pp=ygUn67OE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "3.7K views"
+            "url": "https://www.youtube.com/watch?v=uXZxfp4vQPM&pp=ygUb67OE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "88 views"
           },
           {
-            "title": "[별성형외과] 코재수술 반드시 지켜야할 원칙이 있다?",
+            "title": "[별성형외과] 코막힘+코성형엔 별성형외과 고국진원장님 비중격코성형! 비중격만곡증수술 코수술후기 코성형후기 매부리코수술 메부리코수술 휜코수술 비염수술",
             "channel": "별성형외과",
-            "url": "https://www.youtube.com/watch?v=l9MvARbSBXI&pp=ygUn67OE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "824 views"
-          },
-          {
-            "title": "[별성형외과] 코재수술 기본상식 Part2, 이것 만큼은 꼭 알고 병원을 내원하자!",
-            "channel": "별성형외과",
-            "url": "https://www.youtube.com/watch?v=pm17KM9MrA4&pp=ygUn67OE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "475 views"
-          },
-          {
-            "title": "[별성형외과]고국진원장님 휜코수술 인터뷰",
-            "channel": "별성형외과",
-            "url": "https://www.youtube.com/watch?v=pkuStmXMlpk&pp=ygUn67OE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.1K views"
-          },
-          {
-            "title": "[별성형외과] 코재수술 가장 기본이되는 상식, 이것 만큼은 알고 내원하자! part1",
-            "channel": "별성형외과",
-            "url": "https://www.youtube.com/watch?v=BNHZtzWROrI&pp=ygUn67OE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "165 views"
-          },
-          {
-            "title": "[별성형외과] 비중격만곡증수술! 고민중이라면?휜코 매부리코랑 연관이 되어있다구?",
-            "channel": "별성형외과",
-            "url": "https://www.youtube.com/watch?v=NcDD_CDNsj4&pp=ygUn67OE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "203 views"
+            "url": "https://www.youtube.com/watch?v=sv5lcdTWrhY&pp=ygUb67OE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "2.1K views"
           }
         ]
       }
@@ -132,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

@@ -1,16 +1,18 @@
 {
   "query": "브랜뉴의원",
-  "generated_at": "2026-05-29T05:30:04.218Z",
+  "generated_at": "2026-05-29T10:39:44.608Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 1297,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "13355651",
+        "name": "브랜뉴의원 : 네이버\u001c",
+        "visitor_review_count": 284,
+        "blog_review_count": 1013,
+        "detail_url": "https://m.place.naver.com/place/13355651/home"
       }
     },
     "google_maps": {
@@ -21,13 +23,13 @@
         "name": "brand new clinic",
         "rating": 4.9,
         "total_reviews": 46,
-        "sample_size": 0,
-        "foreign_language_reviews": 0,
+        "sample_size": 20,
+        "foreign_language_reviews": 20,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 0
+          "english_other": 20
         }
       }
     },
@@ -43,78 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 13,
+      "metric_value": 19,
       "extra": {
-        "total_views": 3474036,
+        "total_views": 305514,
         "foreign_video_count": 0,
         "lang_breakdown": {
-          "korean": 13,
+          "korean": 19,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
           "english_other": 0
         },
-        "sample_size": 13,
+        "sample_size": 19,
         "top_videos": [
+          {
+            "title": "연예인 쁘띠시술만 N년차! 청담동 시술 BEST",
+            "channel": "조각하는 의사들",
+            "url": "https://www.youtube.com/watch?v=D4AICM-v2xE&pp=ygUV67iM656c64m07J2Y7JuQIEtvcmVh",
+            "view_text": "62K"
+          },
+          {
+            "title": "브랜뉴 채용영상 | 브랜뉴와 함께 성장할 당신을 기다립니다.",
+            "channel": "조각하는 의사들",
+            "url": "https://www.youtube.com/watch?v=RSUNz8shzQU&pp=ygUV67iM656c64m07J2Y7JuQIEtvcmVh",
+            "view_text": "1.4K"
+          },
           {
             "title": "브랜뉴클리닉 공간을 소개합니다 - BRANDNEW CLINIC",
             "channel": "조각하는 의사들",
-            "url": "https://www.youtube.com/watch?v=5ng-rIcDtVY&pp=ygUk67iM656c64m07J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "593 views"
+            "url": "https://www.youtube.com/watch?v=5ng-rIcDtVY&pp=ygUV67iM656c64m07J2Y7JuQIEtvcmVh",
+            "view_text": "593"
           },
           {
-            "title": "EP 4. Sofwave Edition | Defying Gravity—Start Now for Younger Skin in 5 Years",
+            "title": "콜라보 1탄) 운동 vs 시술, 자기관리 끝판왕끼리의 만남(인데 시술을 더한 ..)",
             "channel": "조각하는 의사들",
-            "url": "https://www.youtube.com/watch?v=3WYyNljfC_Q&pp=ygUk67iM656c64m07J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "30K views"
+            "url": "https://www.youtube.com/watch?v=8M3NvX-2VJM&pp=ygUV67iM656c64m07J2Y7JuQIEtvcmVh",
+            "view_text": "8.5K"
           },
           {
-            "title": "바디 온다 리프팅, 세상에서 가장 쉬운 다이어트인 이유? (국내 최초 온다 12mm 핸드피스 도입 병원의 팩트 체크)",
+            "title": "EP 16. 윤곽주사 2편 | 나 .. 윤곽주사 맞아도 될까? (+셀프 테스트📝)",
             "channel": "조각하는 의사들",
-            "url": "https://www.youtube.com/watch?v=6_Qr4smd9Kg&pp=ygUk67iM656c64m07J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "3K views"
-          },
-          {
-            "title": "의사를 가르치는 의사, 브랜뉴클리닉 ASLS 2026 대미레 학회 현장",
-            "channel": "조각하는 의사들",
-            "url": "https://www.youtube.com/watch?v=aMJFw5bRJKU&pp=ygUk67iM656c64m07J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "1K views"
-          },
-          {
-            "title": "'윤곽주사' 시술을 추천받았다면? 병원에서 말하지 않는 비밀 🤫",
-            "channel": "조각하는 의사들",
-            "url": "https://www.youtube.com/watch?v=I--Jn8qr3Fc&pp=ygUk67iM656c64m07J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "81K views"
+            "url": "https://www.youtube.com/watch?v=IB0GKHvYJVs&t=38s&pp=ygUV67iM656c64m07J2Y7JuQIEtvcmVh",
+            "view_text": "7.1K"
           },
           {
             "title": "청담동 연예인 쁘띠시술만 N년차 의사가 알려주는 '윤곽주사 vs 조각주사'",
             "channel": "조각하는 의사들",
-            "url": "https://www.youtube.com/watch?v=43N5ghLG90U&pp=ygUk67iM656c64m07J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "27K views"
+            "url": "https://www.youtube.com/watch?v=43N5ghLG90U&pp=ygUV67iM656c64m07J2Y7JuQIEtvcmVh",
+            "view_text": "27K"
           },
           {
-            "title": "이 영상 하나로 끝! '윤곽주사 총정리' 시술 부위, 효과, 유지 기간, 다운 타임, 효과 없는 사람, 보톡스 차이",
+            "title": "윤곽주사의 창시자가 알려주는 '효과 & 유지기간' 최상급으로 높이는 방법! #윤곽주사",
             "channel": "조각하는 의사들",
-            "url": "https://www.youtube.com/watch?v=83J_Ra-mF3o&pp=ygUk67iM656c64m07J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "174K views"
+            "url": "https://www.youtube.com/watch?v=Eh_N0oELoDQ&pp=ygUV67iM656c64m07J2Y7JuQIEtvcmVh",
+            "view_text": "22K"
           },
           {
-            "title": "닥터브랜뉴 PDRN 메조 솔루션 라인",
-            "channel": "Dr.Brandnew닥터브랜뉴",
-            "url": "https://www.youtube.com/watch?v=3IJOIJiemDA&pp=ygUk67iM656c64m07J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "4.5K views"
+            "title": "청담 브랜뉴 클리닉 윤성은 원장 연애성형 SOS Onstyle",
+            "channel": "SeongEunYoon",
+            "url": "https://www.youtube.com/watch?v=VmAHcDIJdec&pp=ygUV67iM656c64m07J2Y7JuQIEtvcmVh",
+            "view_text": "495"
           },
           {
-            "title": "이런 부위에 스컬트라 추천하는 병원? 위험합니다!",
-            "channel": "피부과전문의_샘닥",
-            "url": "https://www.youtube.com/watch?v=dcwsw69FB7w&pp=ygUk67iM656c64m07J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "11K views"
+            "title": "'윤곽주사' 시술을 추천받았다면? 병원에서 말하지 않는 비밀 🤫",
+            "channel": "조각하는 의사들",
+            "url": "https://www.youtube.com/watch?v=I--Jn8qr3Fc&pp=ygUV67iM656c64m07J2Y7JuQIEtvcmVh",
+            "view_text": "81K"
           },
           {
-            "title": "리쥬란 힐러주사 직원교육 - 일부",
-            "channel": "Francis Jeon",
-            "url": "https://www.youtube.com/watch?v=qNtwy4w0KGA&pp=ygUk67iM656c64m07J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh0gcJCSMLAYcqIYzv",
-            "view_text": "943 views"
+            "title": "청담 브랜뉴 클리닉 윤성은 원장: SOS 연애성형-에이토닝, 혈관레이저,필러",
+            "channel": "SeongEunYoon",
+            "url": "https://www.youtube.com/watch?v=jFthUqZTEX8&pp=ygUV67iM656c64m07J2Y7JuQIEtvcmVh",
+            "view_text": "840"
           }
         ]
       }
@@ -140,7 +142,7 @@
       }
     }
   },
-  "global_score": 0,
-  "opportunity_cost_thb": 100000,
-  "opportunity_cost_krw": 4000000
+  "global_score": 10,
+  "opportunity_cost_thb": 90000,
+  "opportunity_cost_krw": 3600000
 }

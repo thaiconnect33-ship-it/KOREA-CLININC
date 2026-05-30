@@ -1,6 +1,6 @@
 {
   "query": "나노의원",
-  "generated_at": "2026-05-28T22:15:26.605Z",
+  "generated_at": "2026-05-29T10:51:54.853Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -20,7 +20,7 @@
       "metric_label": "리뷰",
       "metric_value": 2,
       "extra": {
-        "name": "Results",
+        "name": "나노의원",
         "rating": 1,
         "total_reviews": 2,
         "sample_size": 2,
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 178462,
+        "total_views": 4927006,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -59,64 +59,64 @@
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "뷰티라인성형외과 나노V라인 알아보기",
+            "title": "🇨🇳 Real Reviews of Chinese Rhinoplasty | Wait, how much is it? Is this a proper rhinoplasty exam?...",
+            "channel": "로라 Lola",
+            "url": "https://www.youtube.com/watch?v=z_27eP_FkMA&pp=ygUS64KY64W47J2Y7JuQIEtvcmVh",
+            "view_text": "228K views"
+          },
+          {
+            "title": "헤모나노tip-2층에가면",
+            "channel": "뉴스파인더",
+            "url": "https://www.youtube.com/watch?v=kVI7SWJ35BM&pp=ygUS64KY64W47J2Y7JuQIEtvcmVh",
+            "view_text": "118 views"
+          },
+          {
+            "title": "(한글 자막 / 가사) 메탈기어 라이징 OST - It has to be this way",
+            "channel": "SB",
+            "url": "https://www.youtube.com/watch?v=wY6PA31xoiA&list=RDwY6PA31xoiA&start_radio=1&pp=ygUS64KY64W47J2Y7JuQIEtvcmVhoAcB",
+            "view_text": "779K views"
+          },
+          {
+            "title": "[와나나] 나노마신 상원의원 변화구 영도 반응 클립 모음집",
+            "channel": "악편",
+            "url": "https://www.youtube.com/watch?v=zO2AbNLNvFE&pp=ygUS64KY64W47J2Y7JuQIEtvcmVh",
+            "view_text": "245K views"
+          },
+          {
+            "title": "뷰티라인성형외과 나노v라인효과!",
             "channel": "뷰티라인성형외과 Beautyline Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=13VYI8PRVuQ&pp=ygUe64KY64W47J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "73 views"
-          },
-          {
-            "title": "눈밑지방재배치 나노지방이식과 미세지방이식 각각의 차이점은?",
-            "channel": "스누성형외과 SNU Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=mOFditWsoBM&pp=ygUe64KY64W47J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "78K views"
-          },
-          {
-            "title": "얼굴지방흡입의 기준, 서비스표 등록된 듀얼플랜 • 나노V라인  l  뷰티라인성형외과의원",
-            "channel": "뷰티라인성형외과 Beautyline Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=6NbnqgqHa0o&pp=ygUe64KY64W47J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "764 views"
-          },
-          {
-            "title": "#뷰티라인성형외과 #나노v라인, 효과가 궁금하다면!",
-            "channel": "뷰티라인성형외과 Beautyline Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=feywvqtsQiQ&pp=ygUe64KY64W47J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "43 views"
-          },
-          {
-            "title": "나노펫(nanofat), 그것이 알고싶다!!",
-            "channel": "the yujin",
-            "url": "https://www.youtube.com/watch?v=jBciecO8NNw&pp=ygUe64KY64W47J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.4K views"
-          },
-          {
-            "title": "2월 12일 대체공휴일 정상진료 ㅣ 동탄, 수원, 화성, 수도권 성형외과 나노성형외과",
-            "channel": "나노성형외과",
-            "url": "https://www.youtube.com/watch?v=EPBGZMaimoo&pp=ygUe64KY64W47J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "7.9K views"
+            "url": "https://www.youtube.com/watch?v=uVQ-B6e1kiE&pp=ygUS64KY64W47J2Y7JuQIEtvcmVh",
+            "view_text": "113 views"
           },
           {
             "title": "나노브이라인의 모든것#뷰티라인성형외과",
             "channel": "뷰티라인성형외과 Beautyline Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=izVKs1LhNaE&pp=ygUe64KY64W47J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=izVKs1LhNaE&pp=ygUS64KY64W47J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
             "view_text": "83 views"
           },
           {
-            "title": "#나노v라인 #prp지방이식 #눈성형 #타이업리프팅",
-            "channel": "뷰티라인성형외과 Beautyline Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=__HaC-76mZI&pp=ygUe64KY64W47J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "98 views"
+            "title": "SM 천상계 연예인으로 만들어준다는 성형외과!!",
+            "channel": "핫이슈HOT ISSUE",
+            "url": "https://www.youtube.com/watch?v=WTeNWTENa54&pp=ygUS64KY64W47J2Y7JuQIEtvcmVh",
+            "view_text": "1.7M views"
           },
           {
-            "title": "REAL STORY : [나노V라인, PRP미세지방이식, 타이업리프팅] 납적한 얼굴에서 모두가 부러워하는 얼굴로 변신🌈🎶",
-            "channel": "뷰티라인성형외과 Beautyline Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=tx2n5bIDzPU&pp=ygUe64KY64W47J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "88K views"
+            "title": "몇 nm(나노미터)라는건 어떤 부분을 말하는 걸까?",
+            "channel": "민티저",
+            "url": "https://www.youtube.com/watch?v=ij6Rk8peX9Q&pp=ygUS64KY64W47J2Y7JuQIEtvcmVh",
+            "view_text": "125K views"
           },
           {
-            "title": "나노V라인 얼굴지방흡입 | 성형BEFORE/AFTER | 뷰티라인성형외과",
+            "title": "나노브이라인 리얼성형후기 전격공개!",
             "channel": "뷰티라인성형외과 Beautyline Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=tSDmvAovlu0&pp=ygUe64KY64W47J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "108 views"
+            "url": "https://www.youtube.com/watch?v=FcdwBskelDQ&pp=ygUS64KY64W47J2Y7JuQIEtvcmVh",
+            "view_text": "107 views"
+          },
+          {
+            "title": "얼굴지방흡입 리얼후기 #뷰티라인 #나노브이라인",
+            "channel": "뷰티라인성형외과 Beautyline Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=EjiI0_XK5MA&pp=ygUS64KY64W47J2Y7JuQIEtvcmVh",
+            "view_text": "346 views"
           }
         ]
       }
@@ -132,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

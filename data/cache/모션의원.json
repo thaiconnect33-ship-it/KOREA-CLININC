@@ -1,35 +1,35 @@
 {
   "query": "모션의원",
-  "generated_at": "2026-05-29T00:00:01.769Z",
+  "generated_at": "2026-05-29T12:46:42.503Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 11133,
+      "metric_value": 213,
       "extra": {
-        "place_id": "1086421561",
-        "name": "블리비의원 강남역점 : 네이버\u001c",
-        "visitor_review_count": 5329,
-        "blog_review_count": 5804,
-        "detail_url": "https://m.place.naver.com/place/1086421561/home"
+        "place_id": "11853207",
+        "name": "모션의원 : 네이버\u001c",
+        "visitor_review_count": 210,
+        "blog_review_count": 3,
+        "detail_url": "https://m.place.naver.com/place/11853207/home"
       }
     },
     "google_maps": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 340,
+      "metric_value": 341,
       "extra": {
-        "name": "Results",
+        "name": "MOTION CLINIC",
         "rating": 5,
-        "total_reviews": 340,
-        "sample_size": 9,
-        "foreign_language_reviews": 9,
+        "total_reviews": 341,
+        "sample_size": 30,
+        "foreign_language_reviews": 30,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 9
+          "english_other": 30
         }
       }
     },
@@ -47,76 +47,76 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 13679,
-        "foreign_video_count": 0,
+        "total_views": 181208,
+        "foreign_video_count": 14,
         "lang_breakdown": {
-          "korean": 20,
+          "korean": 6,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
-          "english_other": 0
+          "english_other": 14
         },
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "무삭발비절개모발이식에서 유용하게 사용할 수 있는 2가지! 투 펀치 테크닉, 맘바 모션 등 #광주모발이식 #광주탈모치료",
-            "channel": "탈모치료에 대한 새로운 생각 나용필 TV",
-            "url": "https://www.youtube.com/watch?v=VwRJyXWiCrQ&pp=ygUb66qo7IWY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "49 views"
+            "title": "모발이식 비용! 미국의 반값! 비절개모발이식",
+            "channel": "motion5882",
+            "url": "https://www.youtube.com/watch?v=CKFvSKvKB9E&pp=ygUS66qo7IWY7J2Y7JuQIEtvcmVh",
+            "view_text": "4.3K views"
           },
           {
-            "title": "(포트폴리오)이즈피부과의원[타이포그래피 광고/타이포 홍보/타이포 모션]",
-            "channel": "포스프로덕션 AI",
-            "url": "https://www.youtube.com/watch?v=hwANUkVFmHM&pp=ygUb66qo7IWY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "5K views"
+            "title": "Hair transplant at Motion Clinic Korea Gangnam - Hairline design Part 3",
+            "channel": "SAVE",
+            "url": "https://www.youtube.com/watch?v=OzM6pZ0EFGY&pp=ygUS66qo7IWY7J2Y7JuQIEtvcmVh",
+            "view_text": "1K views"
           },
           {
-            "title": "미시안의원 소개 인포그래픽 제작",
-            "channel": "엠피알",
-            "url": "https://www.youtube.com/watch?v=y-D8MiCBObs&pp=ygUb66qo7IWY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "91 views"
+            "title": "Hair transplant at Motion Clinic Korea Gangnam - Hair Shaving Part 1",
+            "channel": "SAVE",
+            "url": "https://www.youtube.com/watch?v=CBXV4t3XnIk&pp=ygUS66qo7IWY7J2Y7JuQIEtvcmVh",
+            "view_text": "9.3K views"
           },
           {
-            "title": "병원원내 홍보영상 청담NB피부클리닉",
-            "channel": "JongNo.1",
-            "url": "https://www.youtube.com/watch?v=1e0GYYnsA0g&pp=ygUb66qo7IWY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "32 views"
+            "title": "Hair transplant at Motion Clinic Korea Gangnam - Hair Shaving Part 2",
+            "channel": "SAVE",
+            "url": "https://www.youtube.com/watch?v=vZLNuubuF7o&pp=ygUS66qo7IWY7J2Y7JuQIEtvcmVh",
+            "view_text": "6.5K views"
           },
           {
-            "title": "셀렉트 피부과의원 리프팅 전광판 타이포그래피 홍보영상",
-            "channel": "브랜픽 '아티스트 테이'",
-            "url": "https://www.youtube.com/watch?v=Jj-QaQjPcxE&pp=ygUb66qo7IWY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "No views"
+            "title": "대머리 탈출! 비절개모발이식 수술 과정!!",
+            "channel": "motion5882",
+            "url": "https://www.youtube.com/watch?v=4idSsKghIB8&pp=ygUS66qo7IWY7J2Y7JuQIEtvcmVh",
+            "view_text": "3.3K views"
           },
           {
-            "title": "셀렉트 피부과의원 제모 전광판 타이포그래피 홍보영상",
-            "channel": "브랜픽 '아티스트 테이'",
-            "url": "https://www.youtube.com/watch?v=jgu33qs0_r8&pp=ygUb66qo7IWY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "1 view"
+            "title": "모발이식비용 390만원 4000모 비용으로 4900모 이식한  루트 MAX5000",
+            "channel": "루트테마피부과 (루트모발이식센터)",
+            "url": "https://www.youtube.com/watch?v=lYcKK80JDHA&pp=ygUS66qo7IWY7J2Y7JuQIEtvcmVh",
+            "view_text": "619 views"
           },
           {
-            "title": "더퍼스트피부과의원_피부관리",
-            "channel": "노원일",
-            "url": "https://www.youtube.com/watch?v=4eU44ZInNJQ&pp=ygUb66qo7IWY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "84 views"
+            "title": "Hair Transplant at South Korea Gangnam Motion Clinic - Part 1",
+            "channel": "SAVE",
+            "url": "https://www.youtube.com/watch?v=DsrA--_6Su0&pp=ygUS66qo7IWY7J2Y7JuQIEtvcmVh",
+            "view_text": "1.3K views"
           },
           {
-            "title": "병원홍보영상제작_인포그래픽_오아로피부과",
-            "channel": "CREATIVE BBC",
-            "url": "https://www.youtube.com/watch?v=1RyVnGYiKEo&pp=ygUb66qo7IWY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "298 views"
+            "title": "한국 최고의 모발이식 전문의 중 한 명! (모션 클리닉)",
+            "channel": "HAIRLICIOUSLY",
+            "url": "https://www.youtube.com/watch?v=PfOBaBP4Teg&pp=ygUS66qo7IWY7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "2.4K views"
           },
           {
-            "title": "더퍼스트피부과 병원 소개 인포그래픽 영상",
-            "channel": "엠피알",
-            "url": "https://www.youtube.com/watch?v=tun8nFAlWRY&pp=ygUb66qo7IWY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "171 views"
+            "title": "Gangnam Hair Transplant 🇰🇷Consultation at Motion Clinic Korea",
+            "channel": "Justin",
+            "url": "https://www.youtube.com/watch?v=nFvOzTw3G1g&pp=ygUS66qo7IWY7J2Y7JuQIEtvcmVh",
+            "view_text": "17K views"
           },
           {
-            "title": "모발 이식 부작용을 피하고 싶다면?? 대표적인 부작용과 치료 방법!",
-            "channel": "젊은나ReturnToYoung",
-            "url": "https://www.youtube.com/watch?v=dwoDzO8wVug&pp=ygUb66qo7IWY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "135 views"
+            "title": "2.5 YEARS POST Hair transplant PROCEDURE Update - Motion Hair Clinic, Gangnam",
+            "channel": "I Love Hair",
+            "url": "https://www.youtube.com/watch?v=RF3zeth9vDM&pp=ygUS66qo7IWY7J2Y7JuQIEtvcmVh",
+            "view_text": "214 views"
           }
         ]
       }
@@ -132,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 5,
-  "opportunity_cost_thb": 95500,
-  "opportunity_cost_krw": 3820000
+  "global_score": 26,
+  "opportunity_cost_thb": 78000,
+  "opportunity_cost_krw": 3120000
 }

@@ -1,16 +1,18 @@
 {
   "query": "단아의원",
-  "generated_at": "2026-05-28T23:11:47.863Z",
+  "generated_at": "2026-05-29T11:51:47.662Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 7693,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "33050228",
+        "name": "단아의원 : 네이버\u001c",
+        "visitor_review_count": 567,
+        "blog_review_count": 7126,
+        "detail_url": "https://m.place.naver.com/place/33050228/home"
       }
     },
     "google_maps": {
@@ -18,16 +20,16 @@
       "metric_label": "리뷰",
       "metric_value": 0,
       "extra": {
-        "name": "Results",
+        "name": "단아의원 Dan-A Clinic 明洞丹雅",
         "rating": 4.9,
         "total_reviews": 0,
-        "sample_size": 6,
-        "foreign_language_reviews": 6,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 6
+          "english_other": 0
         }
       }
     },
@@ -43,78 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 15,
+      "metric_value": 20,
       "extra": {
-        "total_views": 2498099,
+        "total_views": 7854953,
         "foreign_video_count": 0,
         "lang_breakdown": {
-          "korean": 15,
+          "korean": 20,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
           "english_other": 0
         },
-        "sample_size": 15,
+        "sample_size": 20,
         "top_videos": [
           {
-            "title": "을지로입구피부과 비만관리는 명동단아의원에서",
+            "title": "명동여드름피부과 단아클리닉의 탄필링효과!",
+            "channel": "jisun lee",
+            "url": "https://www.youtube.com/watch?v=blYexCrnN8E&pp=ygUS64uo7JWE7J2Y7JuQIEtvcmVh",
+            "view_text": "41 views"
+          },
+          {
+            "title": "한국인이 유독 안 늙는 이유❓ ㅣ '이 3가지' 습관 때문입니다",
+            "channel": "단아한 이원장",
+            "url": "https://www.youtube.com/watch?v=p67dWIztUm4&pp=ygUS64uo7JWE7J2Y7JuQIEtvcmVh",
+            "view_text": "7.6K views"
+          },
+          {
+            "title": "명동눈썹문신 반영구화장은 단아클리닉에서",
             "channel": "최민정",
-            "url": "https://www.youtube.com/watch?v=2K-ybUigqTA&pp=ygUh64uo7JWE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "5 views"
+            "url": "https://www.youtube.com/watch?v=AmnFYH9Nx68&pp=ygUS64uo7JWE7J2Y7JuQIEtvcmVh",
+            "view_text": "19 views"
           },
           {
-            "title": "(광고❌) 이거 모르고 피부과 가면 돈만 날려요😭  피부과의사 120명이 뽑은 후회 없는 시술 1위는? - 정한미 권수현 피부과전문의",
-            "channel": "피부텐텐 · 피부가 예뻐지는 10분",
-            "url": "https://www.youtube.com/watch?v=Cw3hRPXx5JE&pp=ygUh64uo7JWE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "49K views"
+            "title": "강력한 5세대 신상 스킨부스터 레스노베 크리스탈의 모든 것💜",
+            "channel": "단아한 이원장",
+            "url": "https://www.youtube.com/watch?v=86gWG_LDSnQ&pp=ygUS64uo7JWE7J2Y7JuQIEtvcmVh",
+            "view_text": "296 views"
           },
           {
-            "title": "\"You can look 10 years younger than your peers!\" 3 treatments even performed by a dermatologist.",
-            "channel": "박지윤의 피부 설명서",
-            "url": "https://www.youtube.com/watch?v=GN7n33Kw7BY&pp=ygUh64uo7JWE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "237K views"
+            "title": "[ASMR] 연예인들도 꾸준히 받는 물광관리 보여드릴게요💜",
+            "channel": "단아한 이원장",
+            "url": "https://www.youtube.com/watch?v=WUSAM_bkxaE&pp=ygUS64uo7JWE7J2Y7JuQIEtvcmVh",
+            "view_text": "145 views"
           },
           {
-            "title": "서울대 피부과의사가 찍어주는 스킨부스터 완벽 정리. \"이 영상보면 호구 안당합니다\" - 이도영 피부과전문의",
-            "channel": "피부텐텐 · 피부가 예뻐지는 10분",
-            "url": "https://www.youtube.com/watch?v=rigKW7zrTeI&pp=ygUh64uo7JWE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "338K views"
+            "title": "[ASMR] 보기만 해도 피부가 좋아지는 물광관리 루틴💦💙",
+            "channel": "단아한 이원장",
+            "url": "https://www.youtube.com/watch?v=XfAI0Vxz_Lo&pp=ygUS64uo7JWE7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "459 views"
           },
           {
-            "title": "\"엉터리 정보에 속지마세요.\" 진료과목 피부과 의사가 뽑은 가성비 시술 딱 '3가지'",
-            "channel": "지식인사이드",
-            "url": "https://www.youtube.com/watch?v=a4S4JNnRIXQ&pp=ygUh64uo7JWE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "1.7M views"
+            "title": "[청주MBC] 지방의원들은 얼마나 일을 잘할까? (도의원, 시의원) 남상미 아나운서",
+            "channel": "남상미아나운서 (남상미 아나운서)",
+            "url": "https://www.youtube.com/watch?v=bkXMlkZt490&pp=ygUS64uo7JWE7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "375 views"
           },
           {
-            "title": "스킨보톡스+리쥬란 시술 이렇게 합니다! #대전피부과 #스킨부스터 #리쥬란",
-            "channel": "불꽃닥터: 라끌레르 의원",
-            "url": "https://www.youtube.com/watch?v=E19L6XufDMc&pp=ygUh64uo7JWE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "8.5K views"
+            "title": "임단아 2018평창동계올림픽 성공기원 South Korea: The 'sports House' opens to Russian",
+            "channel": "임단아",
+            "url": "https://www.youtube.com/watch?v=fghdGKcvV8k&pp=ygUS64uo7JWE7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "39 views"
           },
           {
-            "title": "리쥬란 힐러주사 직원교육 - 일부",
-            "channel": "Francis Jeon",
-            "url": "https://www.youtube.com/watch?v=qNtwy4w0KGA&pp=ygUh64uo7JWE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "943 views"
+            "title": "예쁜 소음순으로 만들어드립니다. (노딱 각오한 교육 영상)",
+            "channel": "숏부인과",
+            "url": "https://www.youtube.com/watch?v=fRbsEo27KQo&pp=ygUS64uo7JWE7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "747K views"
           },
           {
-            "title": "아토피 ? 피부과전문의가 강조하는 TOP3 ㅣ아토피 관리법ㅣ병원 치료시기",
-            "channel": "계피부과 since1961",
-            "url": "https://www.youtube.com/watch?v=PrWI0OB6prA&pp=ygUh64uo7JWE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "17K views"
-          },
-          {
-            "title": "정말 그렇게 하고 계신다고요..? 기미전문가가 강조하는 기미 치료의 가장 중요한 습관 한 가지! feat. 기미, 선크림, 자외선, 프리즘의원. 기미상궁 ep.03",
-            "channel": "한성민의 피부인사이드",
-            "url": "https://www.youtube.com/watch?v=MazYW78BBSY&pp=ygUh64uo7JWE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "9K views"
-          },
-          {
-            "title": "‘아토피의 모든 것’[어서함쇼] (함익병피부과의원 함익병)",
-            "channel": "의학채널 비온뒤",
-            "url": "https://www.youtube.com/watch?v=veJq1_MtHTo&pp=ygUh64uo7JWE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "57K views"
+            "title": "나도 명기일까? 질압측정방법, 그대로 보여드려요~",
+            "channel": "DR.유미의 성(性)세포들",
+            "url": "https://www.youtube.com/watch?v=a9OTsWp-nmc&pp=ygUS64uo7JWE7J2Y7JuQIEtvcmVh",
+            "view_text": "347K views"
           }
         ]
       }
@@ -130,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 3,
-  "opportunity_cost_thb": 97000,
-  "opportunity_cost_krw": 3880000
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
 }

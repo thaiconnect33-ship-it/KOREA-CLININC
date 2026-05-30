@@ -1,0 +1,148 @@
+{
+  "query": "비티성형외과의원 강남",
+  "generated_at": "2026-05-29T12:52:56.980Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 1679,
+      "extra": {
+        "place_id": "1743596862",
+        "name": "비티성형외과의원 강남 : 네이버\u001c",
+        "visitor_review_count": 190,
+        "blog_review_count": 1489,
+        "detail_url": "https://m.place.naver.com/place/1743596862/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 68,
+      "extra": {
+        "name": "BT Plastic Surgery",
+        "rating": 4.8,
+        "total_reviews": 68,
+        "sample_size": 16,
+        "foreign_language_reviews": 16,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 16
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 60442,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "[비티성형외과] 기능코성형 관심 있으시다구요? 한번 들어나보고가시죠!",
+            "channel": "비티성형외과",
+            "url": "https://www.youtube.com/watch?v=mIVPxDUXyl0&pp=ygUl67mE7Yuw7ISx7ZiV7Jm46rO87J2Y7JuQIOqwleuCqCBLb3JlYQ%3D%3D",
+            "view_text": "400 views"
+          },
+          {
+            "title": "[비티성형외과] 안면윤곽수술 후 주의사항💬",
+            "channel": "비티성형외과",
+            "url": "https://www.youtube.com/watch?v=5MhqUASh77s&pp=ygUl67mE7Yuw7ISx7ZiV7Jm46rO87J2Y7JuQIOqwleuCqCBLb3JlYQ%3D%3D",
+            "view_text": "1.9K views"
+          },
+          {
+            "title": "[비티성형외과] 안면윤곽 수술 부작용, 신경손상❗❓",
+            "channel": "비티성형외과",
+            "url": "https://www.youtube.com/watch?v=z2cLnsw9Uz4&pp=ygUl67mE7Yuw7ISx7ZiV7Jm46rO87J2Y7JuQIOqwleuCqCBLb3JlYQ%3D%3D",
+            "view_text": "922 views"
+          },
+          {
+            "title": "[윤곽3종 케이스 리뷰] 4개월동안 어떤 변화가 생겼을까?",
+            "channel": "비티성형외과",
+            "url": "https://www.youtube.com/watch?v=TCmH2-ceMa0&pp=ygUl67mE7Yuw7ISx7ZiV7Jm46rO87J2Y7JuQIOqwleuCqCBLb3JlYQ%3D%3D",
+            "view_text": "6.3K views"
+          },
+          {
+            "title": "[강남 한미인의원] 이래비티 실제사례~! 이래비티 브이로그(VLOG)🤗#이래비티#이래비티리프팅#이래비티시술후기#브이로그#이래비티효과#이래비티가격#이벤트가#탄력시술#화이트닝",
+            "channel": "한미인의원-韓美人醫美",
+            "url": "https://www.youtube.com/watch?v=u8Jj_AnRzg4&pp=ygUl67mE7Yuw7ISx7ZiV7Jm46rO87J2Y7JuQIOqwleuCqCBLb3JlYQ%3D%3D",
+            "view_text": "496 views"
+          },
+          {
+            "title": "리프팅 '이래비티'는 어떤 원리???",
+            "channel": "the yujin",
+            "url": "https://www.youtube.com/watch?v=Hl-6gzkaqkk&pp=ygUl67mE7Yuw7ISx7ZiV7Jm46rO87J2Y7JuQIOqwleuCqCBLb3JlYQ%3D%3D",
+            "view_text": "321 views"
+          },
+          {
+            "title": "수 많은 피부 레이저들 내게 맞는 피부스킨레이저? 통증없는 레이저 있어? 이래비티레이저",
+            "channel": "닥터 어벤저스 카이로스 의원",
+            "url": "https://www.youtube.com/watch?v=kzRnOmwstiw&pp=ygUl67mE7Yuw7ISx7ZiV7Jm46rO87J2Y7JuQIOqwleuCqCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "1.5K views"
+          },
+          {
+            "title": "10분 시술, 안 아픈 시술, 그리고 글로우 효과 – 김기태 원장이 전하는 신개념 레이저 시술",
+            "channel": "메디컬에스테틱뉴스 Medical Aesthetic News",
+            "url": "https://www.youtube.com/watch?v=7tHELaI19Vs&pp=ygUl67mE7Yuw7ISx7ZiV7Jm46rO87J2Y7JuQIOqwleuCqCBLb3JlYQ%3D%3D",
+            "view_text": "80 views"
+          },
+          {
+            "title": "덴서티 vs 세르프 vs 이래비티, 어떤 리프팅 장비가 나에게 맞을까?",
+            "channel": "the yujin",
+            "url": "https://www.youtube.com/watch?v=kK88mj51tS0&pp=ygUl67mE7Yuw7ISx7ZiV7Jm46rO87J2Y7JuQIOqwleuCqCBLb3JlYQ%3D%3D",
+            "view_text": "519 views"
+          },
+          {
+            "title": "[지우클리닉] 통증 없는 리프팅, 메이크업이 지워지지 않는다? | 이래비티 시술과정",
+            "channel": "지우클리닉",
+            "url": "https://www.youtube.com/watch?v=9pUH5OpCt-s&pp=ygUl67mE7Yuw7ISx7ZiV7Jm46rO87J2Y7JuQIOqwleuCqCBLb3JlYQ%3D%3D",
+            "view_text": "667 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 8,
+  "opportunity_cost_thb": 142000,
+  "opportunity_cost_krw": 5680000
+}

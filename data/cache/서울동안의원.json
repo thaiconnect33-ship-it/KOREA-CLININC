@@ -1,16 +1,18 @@
 {
   "query": "서울동안의원",
-  "generated_at": "2026-05-28T23:13:12.777Z",
+  "generated_at": "2026-05-29T11:54:10.044Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 962,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "1299427843",
+        "name": "서울동안의원 : 네이버\u001c",
+        "visitor_review_count": 854,
+        "blog_review_count": 108,
+        "detail_url": "https://m.place.naver.com/place/1299427843/home"
       }
     },
     "google_maps": {
@@ -45,76 +47,76 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 1633581,
-        "foreign_video_count": 1,
+        "total_views": 228933,
+        "foreign_video_count": 2,
         "lang_breakdown": {
-          "korean": 19,
+          "korean": 18,
           "thai": 0,
           "chinese": 0,
-          "japanese": 1,
-          "english_other": 0
+          "japanese": 0,
+          "english_other": 2
         },
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "🔸The BEST Facelift Recommended by Plastic Surgeons! 🔸",
-            "channel": "강남엘케이 김원장",
-            "url": "https://www.youtube.com/watch?v=M4o8Im6mASI&pp=ygUq7ISc7Jq464-Z7JWI7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "917"
+            "title": "[News Basasak] Seosomun Overpass collapse changed the nature of the Seoul Mayoral election, MBC b...",
+            "channel": "MBC 라디오 시사",
+            "url": "https://www.youtube.com/watch?v=h1n7dUcZmbk&pp=ygUY7ISc7Jq464-Z7JWI7J2Y7JuQIEtvcmVh",
+            "view_text": "12K views"
           },
           {
-            "title": "강남성형외과 베스트리뷰 TOP5병원",
-            "channel": "봄의환희",
-            "url": "https://www.youtube.com/watch?v=J1Nug-Oqxxs&pp=ygUq7ISc7Jq464-Z7JWI7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "4.4K"
+            "title": "[SASAKEOUNGEOUN] The Heating Up Seoul Mayoral Race, Key Points to Watch for Tonight’s (28th) Deba...",
+            "channel": "KBS News",
+            "url": "https://www.youtube.com/watch?v=d-lP7ABFLqE&pp=ygUY7ISc7Jq464-Z7JWI7J2Y7JuQIEtvcmVh",
+            "view_text": "2K views"
           },
           {
-            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
+            "title": "[성민종합정치] 사전투표 D-1..마지막 공표 여론조사 '총정리' / SBS / 주영진의 뉴스브리핑",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=2Vc8hjQFXbg&pp=ygUY7ISc7Jq464-Z7JWI7J2Y7JuQIEtvcmVh",
+            "view_text": "33K views"
+          },
+          {
+            "title": "대한민국 의료관광의 미래와 활성화 방안 공청회 #전현희의원 #서울시의사회 #의료관광",
+            "channel": "서울특별시의사회",
+            "url": "https://www.youtube.com/watch?v=B2444CxB4Rg&pp=ygUY7ISc7Jq464-Z7JWI7J2Y7JuQIEtvcmVh",
+            "view_text": "22 views"
+          },
+          {
+            "title": "[더in터뷰] '탄핵 대통령'의 등장? 박주민 \"헌법 질서 가볍게 보는 것\" / JTBC 이가혁 라이브",
             "channel": "JTBC News",
-            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUq7ISc7Jq464-Z7JWI7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1M"
+            "url": "https://www.youtube.com/watch?v=uja6bpLfBWM&pp=ygUY7ISc7Jq464-Z7JWI7J2Y7JuQIEtvcmVh",
+            "view_text": "664 views"
           },
           {
-            "title": "[💎리즈 테라피] “50대 중년부터 윤곽 후 처짐까지, 일치 문형석 원장의 포니테일 리프팅 수술 사례 리뷰✨",
-            "channel": "지금이 리즈, ILCHI",
-            "url": "https://www.youtube.com/watch?v=M4tjONKRQ_A&pp=ygUq7ISc7Jq464-Z7JWI7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "2.6K"
+            "title": "민주당 전략통 김영진 의원, 이재명 정부 심판할 게 뭐가 있죠?-‘남자 최순실들’ 박근혜 소환 말라!!-김부겸 당선되면 대선 간다-한동훈의 떴다방식 선거운동",
+            "channel": "장윤선의 취재편의점",
+            "url": "https://www.youtube.com/watch?v=N0BA_h9nk08&pp=ygUY7ISc7Jq464-Z7JWI7J2Y7JuQIEtvcmVh",
+            "view_text": "4.7K views"
           },
           {
-            "title": "부담은 줄이고, 효과는 높인 심플한 거상이 있다?! (feat.ㄱ자 절개 방식)",
-            "channel": "부산성형외과 안면거상 리프팅 리팅",
-            "url": "https://www.youtube.com/watch?v=JNJ30-FdLh0&pp=ygUq7ISc7Jq464-Z7JWI7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "6.8K"
+            "title": "🔴LIVE Democratic Party of Korea Rep. Park Ju-min, Press Conference Regarding Seoul Mayoral Primar...",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=4dHJ7lJwsgY&pp=ygUY7ISc7Jq464-Z7JWI7J2Y7JuQIEtvcmVh",
+            "view_text": "1.5K views"
           },
           {
-            "title": "빠르고 티 안나게 예뻐지는 리프팅 시술 방법✨Feat. 강남 성형외과 원장",
-            "channel": "강남 신사 안면거상 리프팅 리팅",
-            "url": "https://www.youtube.com/watch?v=_KCYkK8Jyj8&pp=ygUq7ISc7Jq464-Z7JWI7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "2.7K"
+            "title": "🔴LIVE Rep. Kim Jae-seop's Press Conference Regarding Democratic Party of Korea Seoul Mayoral Prel...",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=B9vX5zaK3nE&pp=ygUY7ISc7Jq464-Z7JWI7J2Y7JuQIEtvcmVh",
+            "view_text": "3.7K views"
           },
           {
-            "title": "강남역에서 36년 동안 함께한 병원, 오늘이 마지막 입니다.",
-            "channel": "솔직한 의사 생활",
-            "url": "https://www.youtube.com/watch?v=PPV4EDjCb3A&pp=ygUq7ISc7Jq464-Z7JWI7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.4K"
+            "title": "[ENG SUB] SITMMT2020 - Daeyoung Plastic Surgery  |  대영성형외과의원",
+            "channel": "서울관광재단",
+            "url": "https://www.youtube.com/watch?v=dnjhZBnodUc&pp=ygUY7ISc7Jq464-Z7JWI7J2Y7JuQIEtvcmVh",
+            "view_text": "146 views"
           },
           {
-            "title": "1년? 10년? 평생? 안면거상 언제까지 유지되나요? (feat. 수술 관리)",
-            "channel": "강남 신사 안면거상 리프팅 리팅",
-            "url": "https://www.youtube.com/watch?v=8hsdtioEewQ&pp=ygUq7ISc7Jq464-Z7JWI7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "2.2K"
-          },
-          {
-            "title": "눈매교정 오해와 진실｜수술 전 꼭 알아야 할 Q&A",
-            "channel": "압구정서울성형외과",
-            "url": "https://www.youtube.com/watch?v=HxYuqMMtXGU&pp=ygUq7ISc7Jq464-Z7JWI7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "564"
-          },
-          {
-            "title": "Dr. Almond's Real Under-Eye Surgery SSUL",
-            "channel": "AMOND TV - 아몬드성형외과",
-            "url": "https://www.youtube.com/watch?v=3IVmYTaSIlo&pp=ygUq7ISc7Jq464-Z7JWI7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.9K"
+            "title": "[서울이코노믹포럼] 손명수·이종배 여야 의원이 본 벼랑 끝 지방 살릴 열쇠는?!｜세션4 토론 풀영상",
+            "channel": "뉴스핌TV",
+            "url": "https://www.youtube.com/watch?v=bbBC8cCsmrw&pp=ygUY7ISc7Jq464-Z7JWI7J2Y7JuQIEtvcmVh",
+            "view_text": "147 views"
           }
         ]
       }
@@ -130,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 1,
-  "opportunity_cost_thb": 99500,
-  "opportunity_cost_krw": 3980000
+  "global_score": 2,
+  "opportunity_cost_thb": 99000,
+  "opportunity_cost_krw": 3960000
 }

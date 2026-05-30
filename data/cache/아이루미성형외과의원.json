@@ -1,16 +1,18 @@
 {
   "query": "아이루미성형외과의원",
-  "generated_at": "2026-05-29T00:08:30.803Z",
+  "generated_at": "2026-05-29T12:55:09.472Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 351,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "37620148",
+        "name": "아이루미성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 227,
+        "blog_review_count": 124,
+        "detail_url": "https://m.place.naver.com/place/37620148/home"
       }
     },
     "google_maps": {
@@ -45,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 2983570,
+        "total_views": 4091993,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -57,64 +59,64 @@
         "sample_size": 20,
         "top_videos": [
           {
+            "title": "#구축코 에도 종류가 있다?! 🤯 #아이루미성형외과",
+            "channel": "아이루미TV",
+            "url": "https://www.youtube.com/watch?v=fhD3y2067Qo&pp=ygUk7JWE7J2066Oo66-47ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "4.8K"
+          },
+          {
+            "title": "#구축코 자가진단법 - 어..왔ㄴi..? 그리고 잘ㄱr...",
+            "channel": "아이루미TV",
+            "url": "https://www.youtube.com/watch?v=zEK7mMc5Qb4&pp=ygUk7JWE7J2066Oo66-47ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "5.8K"
+          },
+          {
+            "title": "#양악수술 후 #코재수술 주의💥 #아이루미성형외과",
+            "channel": "아이루미TV",
+            "url": "https://www.youtube.com/watch?v=flwu7iY4gKk&pp=ygUk7JWE7J2066Oo66-47ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "818K"
+          },
+          {
             "title": "성형하면 대박 날 사람 VS 절대 하면 안되는 사람",
             "channel": "드로우앤드류",
-            "url": "https://www.youtube.com/watch?v=5omPrNSaLIQ&pp=ygU27JWE7J2066Oo66-47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "54K views"
+            "url": "https://www.youtube.com/watch?v=5omPrNSaLIQ&pp=ygUk7JWE7J2066Oo66-47ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "54K"
           },
           {
-            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
-            "channel": "JTBC News",
-            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygU27JWE7J2066Oo66-47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1M views"
+            "title": "#이마축소 #이마거상 간단 정리 🎀 하는 김에 한번에? #아이루미성형외과",
+            "channel": "아이루미TV",
+            "url": "https://www.youtube.com/watch?v=ILoMfdH184c&pp=ygUk7JWE7J2066Oo66-47ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.4K"
           },
           {
-            "title": "성형외과 의사가 알려주는 진짜 내 얼굴| 한번 따라해보세요",
-            "channel": "잼뱅TV",
-            "url": "https://www.youtube.com/watch?v=Z_O9UjtvXPc&pp=ygU27JWE7J2066Oo66-47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "66K views"
+            "title": "실제환자 체험 💛 피부 재생 산소치료 해봤습니다 #아이루미성형외과",
+            "channel": "아이루미TV",
+            "url": "https://www.youtube.com/watch?v=Mbs04ny_BtI&pp=ygUk7JWE7J2066Oo66-47ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "2K"
           },
           {
-            "title": "성형상담예약의 장점",
-            "channel": "윤앤정성형외과",
-            "url": "https://www.youtube.com/watch?v=rjv3WJsSVFk&pp=ygU27JWE7J2066Oo66-47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "198 views"
+            "title": "아이루미성형외과 홍보영상 | IN&CHOO FILM",
+            "channel": "IN&CHOO FILM",
+            "url": "https://www.youtube.com/watch?v=OReUGshYt1k&pp=ygUk7JWE7J2066Oo66-47ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "987"
+          },
+          {
+            "title": "(CN SUB) [안면윤곽 편] EP6 양악수술 vs 안면윤곽 뭐가! 어떻게! 다를까?/ 차이점을 알려주세요~",
+            "channel": "우리성형외과 WOORI beauty TV",
+            "url": "https://www.youtube.com/watch?v=Hlb2JnBWSZg&pp=ygUk7JWE7J2066Oo66-47ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.8K"
+          },
+          {
+            "title": "주걱턱 윤곽VS양악 나는 어떤 케이스 ? #아이루미성형외과",
+            "channel": "아이루미TV",
+            "url": "https://www.youtube.com/watch?v=s5Y9Yte5lUs&pp=ygUk7JWE7J2066Oo66-47ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "26K"
           },
           {
             "title": "성형외과 의사는 얼굴만 보고 성형을 어디 했는지 알수있을까?",
             "channel": "진용진",
-            "url": "https://www.youtube.com/watch?v=5mg_zWFTf8A&pp=ygU27JWE7J2066Oo66-47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.8M views"
-          },
-          {
-            "title": "A former plastic surgery nurse exposes the shocking reality of ghost surgery (shadow doctors) and...",
-            "channel": "쀼TV",
-            "url": "https://www.youtube.com/watch?v=Lqr-NnGotCU&t=51s&pp=ygU27JWE7J2066Oo66-47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "28K views"
-          },
-          {
-            "title": "청춘성형외과 소개",
-            "channel": "청춘성형외과 ccclinic",
-            "url": "https://www.youtube.com/watch?v=rZahx8OK_lU&pp=ygU27JWE7J2066Oo66-47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "3.8K views"
-          },
-          {
-            "title": "[태성형외과] 공개클리닉 프로필성형 부산 태성형외과 김기태원장 20081208",
-            "channel": "kitae kim",
-            "url": "https://www.youtube.com/watch?v=0pPRnS3LvLA&pp=ygU27JWE7J2066Oo66-47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "139 views"
-          },
-          {
-            "title": "쌍수? 눈매교정? 짝눈? 속쌍? 눈성형 고민 중이라면 꼭 보세요! | 성형외과 전문의 Q&A",
-            "channel": "슬기로운 병원생활",
-            "url": "https://www.youtube.com/watch?v=8I52D817Fy4&pp=ygU27JWE7J2066Oo66-47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "624 views"
-          },
-          {
-            "title": "의사가 직접 목격한 최악의 성형 부작용 썰.zip (ft. 뒤밑트임, 필러, 지방이식)",
-            "channel": "앤드성형외과의원 [ 눈서코TV ]",
-            "url": "https://www.youtube.com/watch?v=y5eNjBkOTi0&t=20s&pp=ygU27JWE7J2066Oo66-47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "1.4K views"
+            "url": "https://www.youtube.com/watch?v=5mg_zWFTf8A&pp=ygUk7JWE7J2066Oo66-47ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.8M"
           }
         ]
       }
@@ -130,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

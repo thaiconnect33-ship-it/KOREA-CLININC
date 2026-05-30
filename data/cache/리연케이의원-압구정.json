@@ -1,0 +1,148 @@
+{
+  "query": "리연케이의원 압구정",
+  "generated_at": "2026-05-29T11:14:19.094Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 2967,
+      "extra": {
+        "place_id": "32315460",
+        "name": "리연케이의원 압구정 : 네이버\u001c",
+        "visitor_review_count": 689,
+        "blog_review_count": 2278,
+        "detail_url": "https://m.place.naver.com/place/32315460/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Reyeonk Clinic",
+        "rating": 4.7,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 19,
+      "extra": {
+        "total_views": 20013,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 19,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 19,
+        "top_videos": [
+          {
+            "title": "요즘 핫한 압구정로데오의 리연케이를 파헤쳐보자! - 3층안내데스크편",
+            "channel": "리연케이TV",
+            "url": "https://www.youtube.com/watch?v=Jau4fKZSQ_k&pp=ygUi66as7Jew7LyA7J207J2Y7JuQIOyVleq1rOyglSBLb3JlYQ%3D%3D",
+            "view_text": "247"
+          },
+          {
+            "title": "압구정로데오역 리연케이클리닉 피부관리실을 소개합니다! - Apgujeong Rodeo Reyeon K Clinic",
+            "channel": "리연케이TV",
+            "url": "https://www.youtube.com/watch?v=0_sXjdQVovI&pp=ygUi66as7Jew7LyA7J207J2Y7JuQIOyVleq1rOyglSBLb3JlYQ%3D%3D",
+            "view_text": "203"
+          },
+          {
+            "title": "처진얼굴 리프팅 세계에 대해 빠져 들어봅시다 ★",
+            "channel": "리연케이TV",
+            "url": "https://www.youtube.com/watch?v=-UWJMB8Aj-k&pp=ygUi66as7Jew7LyA7J207J2Y7JuQIOyVleq1rOyglSBLb3JlYQ%3D%3D",
+            "view_text": "219"
+          },
+          {
+            "title": "아이슈링크 시술 과정ㅣ눈가 리프팅을 원한다면? 압구정 리연케이 💗",
+            "channel": "리연케이TV",
+            "url": "https://www.youtube.com/watch?v=63CDJVHQoNY&pp=ygUi66as7Jew7LyA7J207J2Y7JuQIOyVleq1rOyglSBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "660"
+          },
+          {
+            "title": "리연케이 소개",
+            "channel": "리연케이TV",
+            "url": "https://www.youtube.com/watch?v=ouwdIEG9Mk8&pp=ygUi66as7Jew7LyA7J207J2Y7JuQIOyVleq1rOyglSBLb3JlYQ%3D%3D",
+            "view_text": "502"
+          },
+          {
+            "title": "20분만에 백옥피부가 될 수 있는 놀라운 비밀",
+            "channel": "리연케이TV",
+            "url": "https://www.youtube.com/watch?v=9dEzXbBBGvw&pp=ygUi66as7Jew7LyA7J207J2Y7JuQIOyVleq1rOyglSBLb3JlYQ%3D%3D",
+            "view_text": "146"
+          },
+          {
+            "title": "레이저리프팅의 진수를 맛볼 수 있는 압구정피부과",
+            "channel": "리연케이TV",
+            "url": "https://www.youtube.com/watch?v=VhqHHV7cZBw&pp=ygUi66as7Jew7LyA7J207J2Y7JuQIOyVleq1rOyglSBLb3JlYQ%3D%3D",
+            "view_text": "66"
+          },
+          {
+            "title": "피부과 효도시술 추천💐 어버이날 부모님께 젊음을 선물하기",
+            "channel": "리연케이TV",
+            "url": "https://www.youtube.com/watch?v=5GpZvIdfU38&pp=ygUi66as7Jew7LyA7J207J2Y7JuQIOyVleq1rOyglSBLb3JlYQ%3D%3D",
+            "view_text": "2.4K"
+          },
+          {
+            "title": "운동 없이 식스팩 가능하다고? 베이저2 복근성형에 대하여 알아봅시다!",
+            "channel": "리연케이TV",
+            "url": "https://www.youtube.com/watch?v=38D_JueM8jE&pp=ygUi66as7Jew7LyA7J207J2Y7JuQIOyVleq1rOyglSBLb3JlYQ%3D%3D",
+            "view_text": "2.6K"
+          },
+          {
+            "title": "[리연케이] 여드름관리 甲 시너지레이저로 해결하자",
+            "channel": "리연케이TV",
+            "url": "https://www.youtube.com/watch?v=kNmGlvwVpsY&pp=ygUi66as7Jew7LyA7J207J2Y7JuQIOyVleq1rOyglSBLb3JlYQ%3D%3D",
+            "view_text": "1.7K"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 145000,
+  "opportunity_cost_krw": 5800000
+}

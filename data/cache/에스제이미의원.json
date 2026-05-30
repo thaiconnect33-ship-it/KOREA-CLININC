@@ -1,6 +1,6 @@
 {
   "query": "에스제이미의원",
-  "generated_at": "2026-05-28T23:52:19.558Z",
+  "generated_at": "2026-05-29T12:39:02.880Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -45,48 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 5,
+      "metric_value": 20,
       "extra": {
-        "total_views": 7901246,
+        "total_views": 42147733,
         "foreign_video_count": 0,
         "lang_breakdown": {
-          "korean": 5,
+          "korean": 20,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
           "english_other": 0
         },
-        "sample_size": 5,
+        "sample_size": 20,
         "top_videos": [
           {
-            "title": "헐리우드에서 온 #인모드레이저 리프팅",
-            "channel": "더에스의원성형외과",
-            "url": "https://www.youtube.com/watch?v=X-3IEbdnpoU&pp=ygUn7JeQ7Iqk7KCc7J2066-47J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "56 views"
+            "title": "[자막뉴스] \"조퇴해요!\" 다급한 산후도우미  '촉 발동' 아기 아빠 대반전 (2024.05.04/MBC뉴스)",
+            "channel": "MBCNEWS",
+            "url": "https://www.youtube.com/watch?v=0iubguBwMFw&pp=ygUb7JeQ7Iqk7KCc7J2066-47J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "10M views"
+          },
+          {
+            "title": "\"침실에서 당장 버려야\"...3가지 지목한 의사의 경고 [지금이뉴스] / YTN",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=rOydU8F_lio&pp=ygUb7JeQ7Iqk7KCc7J2066-47J2Y7JuQIEtvcmVh",
+            "view_text": "6.5M views"
           },
           {
             "title": "SNL 코리아 시즌 7 | 박주현 편 하이라이트 | 스마일 클리닉 | 쿠팡플레이 | 쿠팡",
             "channel": "쿠팡플레이 Coupang Play",
-            "url": "https://www.youtube.com/watch?v=5Y0GIO1Mrqc&pp=ygUn7JeQ7Iqk7KCc7J2066-47J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=5Y0GIO1Mrqc&pp=ygUb7JeQ7Iqk7KCc7J2066-47J2Y7JuQIEtvcmVh",
             "view_text": "6M views"
           },
           {
-            "title": "플랫아이언 성형외과 리얼스토리(채연)",
-            "channel": "렛미스토리",
-            "url": "https://www.youtube.com/watch?v=6BcSOfmZvV4&pp=ygUn7JeQ7Iqk7KCc7J2066-47J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
-            "view_text": "1.1K views"
+            "title": "[1회] 김예지 - 골목길 | 블라인드 오디션 | 보이스 코리아 2020",
+            "channel": "The Voice of Korea",
+            "url": "https://www.youtube.com/watch?v=-JXbogoYETY&list=RD-JXbogoYETY&start_radio=1&pp=ygUb7JeQ7Iqk7KCc7J2066-47J2Y7JuQIEtvcmVhoAcB",
+            "view_text": "9.8M views"
           },
           {
-            "title": "라봄성형외과",
-            "channel": "임태훈",
-            "url": "https://www.youtube.com/watch?v=JAUmn_x0BWs&pp=ygUn7JeQ7Iqk7KCc7J2066-47J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "90 views"
+            "title": "헐리우드에서 온 #인모드레이저 리프팅",
+            "channel": "더에스의원성형외과",
+            "url": "https://www.youtube.com/watch?v=X-3IEbdnpoU&pp=ygUb7JeQ7Iqk7KCc7J2066-47J2Y7JuQIEtvcmVh",
+            "view_text": "56 views"
+          },
+          {
+            "title": "\"제 성별 제가 정하게 해주세요!\"...이게 무슨 말인가 들어보니",
+            "channel": "OBS뉴스",
+            "url": "https://www.youtube.com/watch?v=2VHR8rf4VYg&pp=ygUb7JeQ7Iqk7KCc7J2066-47J2Y7JuQIEtvcmVh",
+            "view_text": "414 views"
           },
           {
             "title": "기싸움 레전드;; 관상집 도장깨러 온 백두장군 #이수지ㅣ관상학개론 EP.08",
             "channel": "티티 스튜디오(TT STUDIO)",
-            "url": "https://www.youtube.com/watch?v=BMZTtDvzxcI&pp=ygUn7JeQ7Iqk7KCc7J2066-47J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=BMZTtDvzxcI&pp=ygUb7JeQ7Iqk7KCc7J2066-47J2Y7JuQIEtvcmVh",
             "view_text": "1.9M views"
+          },
+          {
+            "title": "Shin Min A S Body E02 in Milano, Italy | 신민아의 S바디 2편 이태리 밀라노",
+            "channel": "프라하남자(프라하남자 TV)",
+            "url": "https://www.youtube.com/watch?v=yNEFjPgLZtk&pp=ygUb7JeQ7Iqk7KCc7J2066-47J2Y7JuQIEtvcmVh",
+            "view_text": "53K views"
+          },
+          {
+            "title": "💀 미국 국회가 두 개씩 있는 이유 /  💀 상원, 하원 - 미국식 양원제의 역사",
+            "channel": "지식해적단",
+            "url": "https://www.youtube.com/watch?v=jN5-FLuILmY&pp=ygUb7JeQ7Iqk7KCc7J2066-47J2Y7JuQIEtvcmVh",
+            "view_text": "1.8M views"
+          },
+          {
+            "title": "제이미 래스킨, 비밀스러운 '평화위원회(Board of Peace)'를 둘러싼 의혹 폭로",
+            "channel": "CONGRESS WATCH",
+            "url": "https://www.youtube.com/watch?v=TfQOA7hhL_Q&pp=ygUb7JeQ7Iqk7KCc7J2066-47J2Y7JuQIEtvcmVh",
+            "view_text": "170 views"
           }
         ]
       }
@@ -102,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

@@ -1,17 +1,17 @@
 {
   "query": "다나성형외과의원",
-  "generated_at": "2026-05-28T23:59:18.063Z",
+  "generated_at": "2026-05-29T12:46:04.886Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 2143,
+      "metric_value": 2144,
       "extra": {
         "place_id": "13570706",
         "name": "다나성형외과의원 : 네이버\u001c",
         "visitor_review_count": 194,
-        "blog_review_count": 1949,
+        "blog_review_count": 1950,
         "detail_url": "https://m.place.naver.com/place/13570706/home"
       }
     },
@@ -23,13 +23,13 @@
         "name": "다나성형외과 모발이식",
         "rating": 4,
         "total_reviews": 37,
-        "sample_size": 16,
-        "foreign_language_reviews": 16,
+        "sample_size": 20,
+        "foreign_language_reviews": 20,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 16
+          "english_other": 20
         }
       }
     },
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 892100,
+        "total_views": 890200,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -59,64 +59,64 @@
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "의느님답변📂팀 수술을 하는 이유가 있나요?ㅣ다나성형외과(DANA)ㅣ모발이식ㅣ헤어라인교정ㅣ두피문신ㅣ탈모치료",
+            "title": "의느님답변📂두피문신 부위에 모발이식 가능한가요?ㅣ모발이식과 두피 문신 중 뭘 먼저 해야 할까?ㅣ다나성형외과(DANA)ㅣ모발이식ㅣ헤어라인교정ㅣ두피문신ㅣ탈모치료",
             "channel": "다나성형외과 DANA Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=G8YYN06XdnA&pp=ygUq64uk64KY7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "3.4K views"
+            "url": "https://www.youtube.com/watch?v=CB1ZUtgd4ok&pp=ygUe64uk64KY7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "3.2K views"
           },
           {
             "title": "의느님답변📂헤어라인 황금비율✍1:1:1 or 0.9:1:1😱의미가 없습니다ㅣ다나성형외과(DANA)ㅣ모발이식ㅣ헤어라인교정ㅣ두피문신ㅣ탈모치료",
             "channel": "다나성형외과 DANA Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=lmA7lahlXzM&pp=ygUq64uk64KY7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "url": "https://www.youtube.com/watch?v=lmA7lahlXzM&pp=ygUe64uk64KY7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "3.7K views"
           },
           {
-            "title": "의느님답변📂두피문신 부위에 모발이식 가능한가요?ㅣ모발이식과 두피 문신 중 뭘 먼저 해야 할까?ㅣ다나성형외과(DANA)ㅣ모발이식ㅣ헤어라인교정ㅣ두피문신ㅣ탈모치료",
+            "title": "의느님답변📂팀 수술을 하는 이유가 있나요?ㅣ다나성형외과(DANA)ㅣ모발이식ㅣ헤어라인교정ㅣ두피문신ㅣ탈모치료",
             "channel": "다나성형외과 DANA Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=CB1ZUtgd4ok&pp=ygUq64uk64KY7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "3.2K views"
-          },
-          {
-            "title": "의느님답변📂ㅣ🔍프리뷰 롱헤어에 대한 오해 혹은 진실 4가지 ㅣ프리뷰롱헤어ㅣ진실혹은오해ㅣ다나성형외과(DANA)",
-            "channel": "다나성형외과 DANA Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=dCyIcoTT48s&pp=ygUq64uk64KY7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "8.2K views"
+            "url": "https://www.youtube.com/watch?v=G8YYN06XdnA&pp=ygUe64uk64KY7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "3.4K views"
           },
           {
             "title": "의느님답변📂✔1인 원장 시스템vs✔팀 분업화 시스템, 과연 어떤 시스템이 더 좋을까요?ㅣ다나성형외과(DANA)ㅣ팀수술시스템ㅣ모발이식ㅣ헤어라인교정",
             "channel": "다나성형외과 DANA Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=rajrQltntYE&pp=ygUq64uk64KY7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=rajrQltntYE&pp=ygUe64uk64KY7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
             "view_text": "3.4K views"
+          },
+          {
+            "title": "의느님답변📂두피문신, 의학적 시술인가요?ㅣ두피문신 시 꼭 확인해야 할 점ㅣ다나성형외과(DANA)ㅣ모발이식ㅣ헤어라인교정ㅣ두피문신ㅣ탈모치료",
+            "channel": "다나성형외과 DANA Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=0nBK1QiSqVU&pp=ygUe64uk64KY7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "2.7K views"
+          },
+          {
+            "title": "의느님답변📂상담했던 모발이식 모수가 의심스러워요🤔ㅣ사진만 보고 몇 모 심었는지 알 수 있을까?ㅣ다나성형외과(DANA)ㅣ모발이식ㅣ헤어라인교정ㅣ두피문신ㅣ탈모치료",
+            "channel": "다나성형외과 DANA Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=lmKA2iZ0o84&pp=ygUe64uk64KY7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "3.1K views"
+          },
+          {
+            "title": "다나학개론📚모발이식, 마취 어떻게 하나요? ㅣ모발이식할 때 마취가 풀린다면?ㅣ다나성형외과(DANA)ㅣ모발이식ㅣ헤어라인교정ㅣ두피문신ㅣ탈모치료",
+            "channel": "다나성형외과 DANA Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=7MGg5b2Pv_w&pp=ygUe64uk64KY7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "2.9K views"
           },
           {
             "title": "🚉지방이나 ✈해외 등 멀리서 오시는 환자분들! 수술 후 어디서 자야하나 걱정이신가요? 다나에선 그런 걱정 안하셔도 됩니다 : ) ㅣ박재현원장ㅣ입원실체험ㅣ브이로그ㅣ다나성형외과",
             "channel": "다나성형외과 DANA Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=g5HxvFBcgeU&pp=ygUq64uk64KY7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=g5HxvFBcgeU&pp=ygUe64uk64KY7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "14K views"
           },
           {
             "title": "의느님답변📂왜 Why~🔍다나는 고밀도 모발이식의 최강자가 되었을까?ㅣ다나성형외과(DANA)ㅣ모발이식ㅣ헤어라인교정ㅣ두피문신ㅣ탈모치료ㅣ고밀도모발이식",
             "channel": "다나성형외과 DANA Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=HoEiHXrDhcU&pp=ygUq64uk64KY7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=HoEiHXrDhcU&pp=ygUe64uk64KY7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "4.3K views"
           },
           {
-            "title": "📣알려드립니다! #모발이식수술 후 경과별 체크리스트✍ㅣ다나성형외과ㅣDANA",
+            "title": "의느님답변📂ㅣ🔍프리뷰 롱헤어에 대한 오해 혹은 진실 4가지 ㅣ프리뷰롱헤어ㅣ진실혹은오해ㅣ다나성형외과(DANA)",
             "channel": "다나성형외과 DANA Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=DAsfv4Lo7Hg&pp=ygUq64uk64KY7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "16K views"
-          },
-          {
-            "title": "의느님답변📂두피문신, 의학적 시술인가요?ㅣ두피문신 시 꼭 확인해야 할 점ㅣ다나성형외과(DANA)ㅣ모발이식ㅣ헤어라인교정ㅣ두피문신ㅣ탈모치료",
-            "channel": "다나성형외과 DANA Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=0nBK1QiSqVU&pp=ygUq64uk64KY7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "2.7K views"
-          },
-          {
-            "title": "의느님답변📂ㅣ모발이식 계획중이세요? 일단 이 영상 먼저 보세요! [모발이식하면 안되는 8가지 케이스]",
-            "channel": "다나성형외과 DANA Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=rAgIjXuWsrs&pp=ygUq64uk64KY7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "17K views"
+            "url": "https://www.youtube.com/watch?v=dCyIcoTT48s&pp=ygUe64uk64KY7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "8.2K views"
           }
         ]
       }
@@ -132,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 8,
-  "opportunity_cost_thb": 92000,
-  "opportunity_cost_krw": 3680000
+  "global_score": 10,
+  "opportunity_cost_thb": 90000,
+  "opportunity_cost_krw": 3600000
 }

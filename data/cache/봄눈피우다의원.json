@@ -1,6 +1,6 @@
 {
   "query": "봄눈피우다의원",
-  "generated_at": "2026-05-28T22:40:57.465Z",
+  "generated_at": "2026-05-29T11:19:24.489Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -45,78 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 18,
+      "metric_value": 19,
       "extra": {
-        "total_views": 710998,
+        "total_views": 649573,
         "foreign_video_count": 0,
         "lang_breakdown": {
-          "korean": 18,
+          "korean": 19,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
           "english_other": 0
         },
-        "sample_size": 18,
+        "sample_size": 19,
         "top_videos": [
           {
             "title": "입술필러로 입술비대칭 교정 시, 부작용 발생이유와 과정!",
             "channel": "봄눈피우다 봄눈TV",
-            "url": "https://www.youtube.com/watch?v=FPCI7yX3aCc&pp=ygUn67SE64iI7ZS87Jqw64uk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=FPCI7yX3aCc&pp=ygUb67SE64iI7ZS87Jqw64uk7J2Y7JuQIEtvcmVh",
             "view_text": "1K views"
-          },
-          {
-            "title": "가장 어려운 무지개형 입술의 올바른 입술,입꼬리필러 시술방법!",
-            "channel": "봄눈피우다 봄눈TV",
-            "url": "https://www.youtube.com/watch?v=ngERbqFqHQU&pp=ygUn67SE64iI7ZS87Jqw64uk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.4K views"
-          },
-          {
-            "title": "입술필러, 국산필러와 수입필러의 가장 큰 차이점은 무엇일까?",
-            "channel": "봄눈피우다 봄눈TV",
-            "url": "https://www.youtube.com/watch?v=txmZQGAf9tE&pp=ygUn67SE64iI7ZS87Jqw64uk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "430 views"
-          },
-          {
-            "title": "입술필러 시술 시, 실패 확률이 높은 입술은 어떤 입술일까!?",
-            "channel": "봄눈피우다 봄눈TV",
-            "url": "https://www.youtube.com/watch?v=2ZahshHU47Q&pp=ygUn67SE64iI7ZS87Jqw64uk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "19K views"
-          },
-          {
-            "title": "자연스러운 입술필러 디자인의 핵심은 무엇일까!?",
-            "channel": "봄눈피우다 봄눈TV",
-            "url": "https://www.youtube.com/watch?v=FUZkkHO53Rs&pp=ygUn67SE64iI7ZS87Jqw64uk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "698 views"
-          },
-          {
-            "title": "입꼬리필러로 입술의 볼륨변화 없이 자연스럽게 입꼬리 올리는 방법!?",
-            "channel": "봄눈피우다 봄눈TV",
-            "url": "https://www.youtube.com/watch?v=AnYsesEDON8&pp=ygUn67SE64iI7ZS87Jqw64uk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "6.6K views"
           },
           {
             "title": "입술필러 궁금증 Top3(유지기간, 인중길이, 길이연장)",
             "channel": "봄눈피우다 봄눈TV",
-            "url": "https://www.youtube.com/watch?v=oVGEQHhsaP8&pp=ygUn67SE64iI7ZS87Jqw64uk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "789 views"
+            "url": "https://www.youtube.com/watch?v=oVGEQHhsaP8&pp=ygUb67SE64iI7ZS87Jqw64uk7J2Y7JuQIEtvcmVh",
+            "view_text": "791 views"
+          },
+          {
+            "title": "입술필러, 국산필러와 수입필러의 가장 큰 차이점은 무엇일까?",
+            "channel": "봄눈피우다 봄눈TV",
+            "url": "https://www.youtube.com/watch?v=txmZQGAf9tE&pp=ygUb67SE64iI7ZS87Jqw64uk7J2Y7JuQIEtvcmVh",
+            "view_text": "432 views"
+          },
+          {
+            "title": "자연스러운 입술필러 디자인의 핵심은 무엇일까!?",
+            "channel": "봄눈피우다 봄눈TV",
+            "url": "https://www.youtube.com/watch?v=FUZkkHO53Rs&pp=ygUb67SE64iI7ZS87Jqw64uk7J2Y7JuQIEtvcmVh",
+            "view_text": "701 views"
+          },
+          {
+            "title": "얇은 입술과 처진입꼬리, 입술필러 시술한다면 어떻게 해야 할까요? [입술필러 리얼후기]",
+            "channel": "봄눈피우다 봄눈TV",
+            "url": "https://www.youtube.com/watch?v=RHiTUdOaDZQ&pp=ygUb67SE64iI7ZS87Jqw64uk7J2Y7JuQIEtvcmVh",
+            "view_text": "1.6K views"
+          },
+          {
+            "title": "입꼬리필러로 입술의 볼륨변화 없이 자연스럽게 입꼬리 올리는 방법!?",
+            "channel": "봄눈피우다 봄눈TV",
+            "url": "https://www.youtube.com/watch?v=AnYsesEDON8&pp=ygUb67SE64iI7ZS87Jqw64uk7J2Y7JuQIEtvcmVh",
+            "view_text": "6.6K views"
+          },
+          {
+            "title": "가장 어려운 무지개형 입술의 올바른 입술,입꼬리필러 시술방법!",
+            "channel": "봄눈피우다 봄눈TV",
+            "url": "https://www.youtube.com/watch?v=ngERbqFqHQU&pp=ygUb67SE64iI7ZS87Jqw64uk7J2Y7JuQIEtvcmVh",
+            "view_text": "1.4K views"
+          },
+          {
+            "title": "입술필러 괴사가 발생하면 어떤 증상이 나타날까?",
+            "channel": "봄눈피우다 봄눈TV",
+            "url": "https://www.youtube.com/watch?v=xJOEF2LVNUg&pp=ygUb67SE64iI7ZS87Jqw64uk7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "1.6K views"
           },
           {
             "title": "어려보이는 입술과 나이들어보이는 입술은 어떤 입술일까? [입술필러 디자인]",
             "channel": "봄눈피우다 봄눈TV",
-            "url": "https://www.youtube.com/watch?v=SrSY0yLgYe4&pp=ygUn67SE64iI7ZS87Jqw64uk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=SrSY0yLgYe4&pp=ygUb67SE64iI7ZS87Jqw64uk7J2Y7JuQIEtvcmVh",
             "view_text": "373 views"
           },
           {
-            "title": "입술비대칭을 교정하는 입술필러의 올바른 시술방법!",
+            "title": "입술필러로 입술비대칭을 교정할 때 꼭 지켜야하는 점은 무엇일까?",
             "channel": "봄눈피우다 봄눈TV",
-            "url": "https://www.youtube.com/watch?v=PTXK-jSFD5w&pp=ygUn67SE64iI7ZS87Jqw64uk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "6.7K views"
-          },
-          {
-            "title": "입술필러로 귀여운 '뀨'입술 만들 때 시술방법 및 주의사항!",
-            "channel": "봄눈피우다 봄눈TV",
-            "url": "https://www.youtube.com/watch?v=yu3RWen-mis&pp=ygUn67SE64iI7ZS87Jqw64uk7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1K views"
+            "url": "https://www.youtube.com/watch?v=xiHzOwteLIs&pp=ygUb67SE64iI7ZS87Jqw64uk7J2Y7JuQIEtvcmVh",
+            "view_text": "368 views"
           }
         ]
       }
@@ -132,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

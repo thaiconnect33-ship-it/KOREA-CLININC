@@ -1,17 +1,17 @@
 {
   "query": "리앤채움의원병원,의원",
-  "generated_at": "2026-05-28T22:33:43.366Z",
+  "generated_at": "2026-05-29T11:10:53.561Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 4180,
+      "metric_value": 4185,
       "extra": {
         "place_id": "34721472",
         "name": "리앤채움의원 : 네이버\u001c",
-        "visitor_review_count": 3544,
-        "blog_review_count": 636,
+        "visitor_review_count": 3548,
+        "blog_review_count": 637,
         "detail_url": "https://m.place.naver.com/place/34721472/home"
       }
     },
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 38357,
+        "total_views": 43983,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -61,62 +61,62 @@
           {
             "title": "[리앤채움] 리앤채움의 부위별 리얼! 시술직후 영상!",
             "channel": "리앤채움 피부과",
-            "url": "https://www.youtube.com/watch?v=tX-7NWB-FRg&pp=ygUl66as7JWk7LGE7JuA7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
-            "view_text": "473 views"
+            "url": "https://www.youtube.com/watch?v=tX-7NWB-FRg&pp=ygUl66as7JWk7LGE7JuA7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "473"
           },
           {
             "title": "[리앤채움] 리앤채움피부과 병원내부 대!공!개!",
             "channel": "리앤채움 피부과",
             "url": "https://www.youtube.com/watch?v=6lg5d7PcGE4&pp=ygUl66as7JWk7LGE7JuA7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
-            "view_text": "354 views"
-          },
-          {
-            "title": "[리앤채움] 남성 구레나룻 리얼 시술과정 및 전후!",
-            "channel": "리앤채움 피부과",
-            "url": "https://www.youtube.com/watch?v=cCQtrv1SYF4&pp=ygUl66as7JWk7LGE7JuA7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
-            "view_text": "258 views"
+            "view_text": "354"
           },
           {
             "title": "[리앤채움] 태평양 이마! 탈피한 썰?! (M자이마 헤어라인문신 후기)",
             "channel": "리앤채움 피부과",
             "url": "https://www.youtube.com/watch?v=BuXo1s5ddBw&pp=ygUl66as7JWk7LGE7JuA7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
-            "view_text": "2.3K views"
-          },
-          {
-            "title": "[리앤채움] 리앤채움피부과 오시는길 도보이용편!",
-            "channel": "리앤채움 피부과",
-            "url": "https://www.youtube.com/watch?v=48vxUE735GY&pp=ygUl66as7JWk7LGE7JuA7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
-            "view_text": "224 views"
+            "view_text": "2.3K"
           },
           {
             "title": "[리앤채움] 미.모.폭.발. 언니들~ 왜! 리앤채움 눈썹문신을 받았나요?",
             "channel": "리앤채움 피부과",
             "url": "https://www.youtube.com/watch?v=VbeNo6mv-rQ&pp=ygUl66as7JWk7LGE7JuA7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
-            "view_text": "1.9K views"
-          },
-          {
-            "title": "[리앤채움] 코로나19 저리가주세요! 리앤채움은 일일 3회 소독, 방역중",
-            "channel": "리앤채움 피부과",
-            "url": "https://www.youtube.com/watch?v=Kz2CBn0zJV8&pp=ygUl66as7JWk7LGE7JuA7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
-            "view_text": "222 views"
-          },
-          {
-            "title": "[리앤채움의원] 여자 M자 이마라인 시술 전후 #헤어라인문신",
-            "channel": "리앤채움 피부과",
-            "url": "https://www.youtube.com/watch?v=XHFUV4M6eVA&pp=ygUl66as7JWk7LGE7JuA7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
-            "view_text": "138 views"
+            "view_text": "1.9K"
           },
           {
             "title": "[리앤채움] 리앤채움피부과 오시는길 주차장이용편!",
             "channel": "리앤채움 피부과",
             "url": "https://www.youtube.com/watch?v=gj3q8T1sopQ&pp=ygUl66as7JWk7LGE7JuA7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
-            "view_text": "907 views"
+            "view_text": "907"
           },
           {
-            "title": "[리앤채움]두피문신 시술전후",
+            "title": "[리앤채움] 아이라인 문신 해도되나요? 아이라인문신 QnA 하 편!",
             "channel": "리앤채움 피부과",
-            "url": "https://www.youtube.com/watch?v=2CkEiHzFfVs&pp=ygUl66as7JWk7LGE7JuA7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
-            "view_text": "335 views"
+            "url": "https://www.youtube.com/watch?v=1AVCdvQkLis&pp=ygUl66as7JWk7LGE7JuA7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "3.8K"
+          },
+          {
+            "title": "[리앤채움] 아이라인 반영구화장 시술과정 대공개! (시술전 필독영상!)",
+            "channel": "리앤채움 피부과",
+            "url": "https://www.youtube.com/watch?v=m4TZ7R5YbjA&pp=ygUl66as7JWk7LGE7JuA7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "1.9K"
+          },
+          {
+            "title": "[리앤채움] 남성 구레나룻 리얼 시술과정 및 전후!",
+            "channel": "리앤채움 피부과",
+            "url": "https://www.youtube.com/watch?v=cCQtrv1SYF4&pp=ygUl66as7JWk7LGE7JuA7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "258"
+          },
+          {
+            "title": "[리앤채움] 아이라인문신 유형별 시술전후!",
+            "channel": "리앤채움 피부과",
+            "url": "https://www.youtube.com/watch?v=MCbO38gVVpw&pp=ygUl66as7JWk7LGE7JuA7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "12K"
+          },
+          {
+            "title": "[리앤채움의원] 여자 M자 이마라인 시술 전후 #헤어라인문신",
+            "channel": "리앤채움 피부과",
+            "url": "https://www.youtube.com/watch?v=XHFUV4M6eVA&pp=ygUl66as7JWk7LGE7JuA7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "138"
           }
         ]
       }
@@ -132,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

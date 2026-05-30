@@ -1,6 +1,6 @@
 {
   "query": "와이즈유의원",
-  "generated_at": "2026-05-28T22:58:09.427Z",
+  "generated_at": "2026-05-29T11:38:12.985Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -45,48 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 5,
+      "metric_value": 20,
       "extra": {
-        "total_views": 461462,
-        "foreign_video_count": 1,
+        "total_views": 4001041,
+        "foreign_video_count": 2,
         "lang_breakdown": {
-          "korean": 4,
+          "korean": 18,
           "thai": 0,
-          "chinese": 1,
+          "chinese": 0,
           "japanese": 0,
-          "english_other": 0
+          "english_other": 2
         },
-        "sample_size": 5,
+        "sample_size": 20,
         "top_videos": [
           {
             "title": "How to find a good plastic surgeon🧡 How to find a good plastic surgeon and avoid plastic surgery ...",
             "channel": "베레나verena",
-            "url": "https://www.youtube.com/watch?v=SQzMbIJMBTQ&pp=ygUk7JmA7J207KaI7Jyg7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "277K"
+            "url": "https://www.youtube.com/watch?v=SQzMbIJMBTQ&pp=ygUY7JmA7J207KaI7Jyg7J2Y7JuQIEtvcmVh",
+            "view_text": "277K views"
           },
           {
             "title": "티 안 나게 예뻐지는 수술✨ 콧볼축소수술 반년 차의 자세한 후기 (feat. 과정영상, 부작용)",
             "channel": "퀸예진Queenyejin",
-            "url": "https://www.youtube.com/watch?v=_SwBIMko_sg&pp=ygUk7JmA7J207KaI7Jyg7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "152K"
+            "url": "https://www.youtube.com/watch?v=_SwBIMko_sg&pp=ygUY7JmA7J207KaI7Jyg7J2Y7JuQIEtvcmVh",
+            "view_text": "152K views"
           },
           {
-            "title": "북한 경비정, 서해 NLL 침범…군 경고사격 10발에 퇴각 / SBS",
-            "channel": "SBS 뉴스",
-            "url": "https://www.youtube.com/watch?v=CvdfvTAij70&pp=ygUk7JmA7J207KaI7Jyg7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "7.3K"
+            "title": "대전 힐스테이트 선화 더와이즈",
+            "channel": "지주ZIZU",
+            "url": "https://www.youtube.com/watch?v=IT5dviZIHMc&pp=ygUY7JmA7J207KaI7Jyg7J2Y7JuQIEtvcmVh",
+            "view_text": "6.8K views"
           },
           {
-            "title": "탄소중립 실천, ‘착한 일’만은 아니라고?! Feat. 숭실사이버대학교 곽재식 교수",
-            "channel": "국가기후위기대응위원회",
-            "url": "https://www.youtube.com/watch?v=loszjZ1C9-4&pp=ygUk7JmA7J207KaI7Jyg7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "25K"
+            "title": "[ 유후X대구MBC ] 코로나19로 인한 대구의 SOS에 달려와 준 '소방 영웅들'! | 영웅으로부터 온 편지 | 구급대원 편 | #힘내요_대구경북",
+            "channel": "와이즈슈머",
+            "url": "https://www.youtube.com/watch?v=P2hMbTxvUXs&pp=ygUY7JmA7J207KaI7Jyg7J2Y7JuQIEtvcmVh",
+            "view_text": "1.1K views"
           },
           {
-            "title": "全家陷害窮小子出軌大嫂，被逼上戰場後竟成戰神歸來！豪擲一億買下美艷嬌妻，撕爛勢利家族嘴臉，通通跪地求饒！#drama #爽剧 #男频 #逆袭",
-            "channel": "爽剧一哥",
-            "url": "https://www.youtube.com/watch?v=f53P5C-_AcA&pp=ygUk7JmA7J207KaI7Jyg7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "162"
+            "title": "[Sla-saeng] Ministry of Employment and Labor Work Report, A Detailed Review… 5 Notable Irregulari...",
+            "channel": "YTN 라디오",
+            "url": "https://www.youtube.com/watch?v=E7TqKultfkE&pp=ygUY7JmA7J207KaI7Jyg7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "231 views"
+          },
+          {
+            "title": "슬기로운 송금생활, 트랜스퍼 와이즈 한국송금 하나부터 열까지 총 정리(Singapore, Transferwise)",
+            "channel": "미친 도야지 - Crazy pigling",
+            "url": "https://www.youtube.com/watch?v=mDnZLaWQpws&pp=ygUY7JmA7J207KaI7Jyg7J2Y7JuQIEtvcmVh",
+            "view_text": "15K views"
+          },
+          {
+            "title": "미국에서 송금할 때 절차와 유의 사항",
+            "channel": "모두의 싱크탱크(Think Tank)",
+            "url": "https://www.youtube.com/watch?v=829ukyQyG3A&pp=ygUY7JmA7J207KaI7Jyg7J2Y7JuQIEtvcmVh",
+            "view_text": "21K views"
+          },
+          {
+            "title": "10 AI 스피커 개념 및 사용시 유의사항",
+            "channel": "와이즈유저",
+            "url": "https://www.youtube.com/watch?v=xnb-V1lpXMk&pp=ygUY7JmA7J207KaI7Jyg7J2Y7JuQIEtvcmVh",
+            "view_text": "702 views"
+          },
+          {
+            "title": "(ENG) '델타 바이러스', 백신💉 맞으면 끝 아니야? [와이즈맨] / 와이퍼",
+            "channel": "YTN star",
+            "url": "https://www.youtube.com/watch?v=XbmtIdcmZHI&pp=ygUY7JmA7J207KaI7Jyg7J2Y7JuQIEtvcmVh",
+            "view_text": "12K views"
+          },
+          {
+            "title": "[TWS:CLUB] Wise Health Checkup #2 | EP.43",
+            "channel": "TWS",
+            "url": "https://www.youtube.com/watch?v=2t5nLkTj0HM&pp=ygUY7JmA7J207KaI7Jyg7J2Y7JuQIEtvcmVh",
+            "view_text": "1.3M views"
           }
         ]
       }
@@ -102,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 1,
-  "opportunity_cost_thb": 99500,
-  "opportunity_cost_krw": 3980000
+  "global_score": 2,
+  "opportunity_cost_thb": 99000,
+  "opportunity_cost_krw": 3960000
 }

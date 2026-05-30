@@ -1,16 +1,18 @@
 {
   "query": "어나더성형외과의원",
-  "generated_at": "2026-05-29T06:07:57.437Z",
+  "generated_at": "2026-05-29T10:34:58.593Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 491,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "1555339863",
+        "name": "어나더성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 441,
+        "blog_review_count": 50,
+        "detail_url": "https://m.place.naver.com/place/1555339863/home"
       }
     },
     "google_maps": {
@@ -45,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 49388,
+        "total_views": 49398,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -59,62 +61,62 @@
           {
             "title": "코 수술 전 딱 세 가지만 알고 가세요!! 이것만 알아도 코 재수술 피할 수 있습니다!!",
             "channel": "어나더TV [Another Plastic Surgery]",
-            "url": "https://www.youtube.com/watch?v=VuFtVkjAXms&pp=ygUt7Ja064KY642U7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=VuFtVkjAXms&pp=ygUh7Ja064KY642U7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
             "view_text": "3K views"
-          },
-          {
-            "title": "#코재수술 인데… 이렇게 #멍 #부기 가 없다고? 😱",
-            "channel": "어나더TV [Another Plastic Surgery]",
-            "url": "https://www.youtube.com/watch?v=TAd4-6Z-LL8&pp=ygUt7Ja064KY642U7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
-            "view_text": "1K views"
-          },
-          {
-            "title": "#코성형꿀팁  모양만 봐도 답 나옵니다: 내 코 타입별 #수술  방법!",
-            "channel": "어나더TV [Another Plastic Surgery]",
-            "url": "https://www.youtube.com/watch?v=YNnHVrYs5Rg&pp=ygUt7Ja064KY642U7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "943 views"
-          },
-          {
-            "title": "예쁜 코의 기준, 단 하나 #비주 와 #비순각",
-            "channel": "어나더TV [Another Plastic Surgery]",
-            "url": "https://www.youtube.com/watch?v=OgnfWj-ckxc&pp=ygUt7Ja064KY642U7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "704 views"
           },
           {
             "title": "첫 코 성형인데 자가늑연골, 기증늑연골 추천하는 진짜 이유!?(ft. 코재수술)",
             "channel": "어나더TV [Another Plastic Surgery]",
-            "url": "https://www.youtube.com/watch?v=jsNzbVBLI1w&pp=ygUt7Ja064KY642U7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=jsNzbVBLI1w&pp=ygUh7Ja064KY642U7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
             "view_text": "3.5K views"
+          },
+          {
+            "title": "성형외과 전문의가 직접 찍은 브이로그 | 이거 진짜 올려도 되나요? ㅇㄱㅈㅉㅇㅇ?",
+            "channel": "어나더TV [Another Plastic Surgery]",
+            "url": "https://www.youtube.com/watch?v=Qlus8H-TKdg&pp=ygUh7Ja064KY642U7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "207 views"
           },
           {
             "title": "코 재수술, 첫 코 수술보다 쉽고 예쁘게 된다구요??🤔🤔 (ft. 코재수술 고민 중이라면 필수 시청!!)",
             "channel": "어나더TV [Another Plastic Surgery]",
-            "url": "https://www.youtube.com/watch?v=KL_3EDgcHZw&pp=ygUt7Ja064KY642U7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
-            "view_text": "2.7K views"
-          },
-          {
-            "title": "같은 코수술인데 왜 결과가 다를까?｜#비주 #비순각",
-            "channel": "어나더TV [Another Plastic Surgery]",
-            "url": "https://www.youtube.com/watch?v=y44m8MoPQN0&pp=ygUt7Ja064KY642U7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "719 views"
-          },
-          {
-            "title": "코수술 했는데 매부리가 생겼다고? 코수술 후 불룩해지는 이유",
-            "channel": "어나더TV [Another Plastic Surgery]",
-            "url": "https://www.youtube.com/watch?v=zBQDu1LxeeA&pp=ygUt7Ja064KY642U7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "835 views"
-          },
-          {
-            "title": "#콧볼축소 실패한 사람들의 공통점 👃",
-            "channel": "어나더TV [Another Plastic Surgery]",
-            "url": "https://www.youtube.com/watch?v=VDsH_wp4aOU&pp=ygUt7Ja064KY642U7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=KL_3EDgcHZw&pp=ygUh7Ja064KY642U7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "2.7K views"
           },
           {
             "title": "코 수술 후 딱딱해진 코.. 이것은 흉살인가 구축인가??",
             "channel": "어나더TV [Another Plastic Surgery]",
-            "url": "https://www.youtube.com/watch?v=WUwSpzEIb88&pp=ygUt7Ja064KY642U7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=WUwSpzEIb88&pp=ygUh7Ja064KY642U7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "10K views"
+          },
+          {
+            "title": "[1탄] 기증늑 vs 자가늑 | 이 영상 보고 코성형 재료 결정하세요! #코재수술 #기증늑  #자가늑연골",
+            "channel": "어나더TV [Another Plastic Surgery]",
+            "url": "https://www.youtube.com/watch?v=f4piJb_z8qQ&pp=ygUh7Ja064KY642U7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "290 views"
+          },
+          {
+            "title": "총괄실장의 5번째 #코재수술 🤧 콤플렉스 극복! #코성형브이로그",
+            "channel": "어나더TV [Another Plastic Surgery]",
+            "url": "https://www.youtube.com/watch?v=HWtaOTRZsMk&pp=ygUh7Ja064KY642U7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "10K views"
+          },
+          {
+            "title": "#코성형꿀팁  모양만 봐도 답 나옵니다: 내 코 타입별 #수술  방법!",
+            "channel": "어나더TV [Another Plastic Surgery]",
+            "url": "https://www.youtube.com/watch?v=YNnHVrYs5Rg&pp=ygUh7Ja064KY642U7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "943 views"
+          },
+          {
+            "title": "예쁜 코의 기준, 단 하나 #비주 와 #비순각",
+            "channel": "어나더TV [Another Plastic Surgery]",
+            "url": "https://www.youtube.com/watch?v=OgnfWj-ckxc&pp=ygUh7Ja064KY642U7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "705 views"
+          },
+          {
+            "title": "코수술 했는데 매부리가 생겼다고? 코수술 후 불룩해지는 이유",
+            "channel": "어나더TV [Another Plastic Surgery]",
+            "url": "https://www.youtube.com/watch?v=zBQDu1LxeeA&pp=ygUh7Ja064KY642U7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "835 views"
           }
         ]
       }

@@ -1,0 +1,148 @@
+{
+  "query": "뷰커스피부과의원 잠실점",
+  "generated_at": "2026-05-29T12:09:32.187Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 112,
+      "extra": {
+        "place_id": "2054604914",
+        "name": "뷰커스피부과의원 잠실점 : 네이버\u001c",
+        "visitor_review_count": 76,
+        "blog_review_count": 36,
+        "detail_url": "https://m.place.naver.com/place/2054604914/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "뷰커스피부과의원 잠실점",
+        "rating": 4.3,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 18,
+      "extra": {
+        "total_views": 1732391,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 18,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 18,
+        "top_videos": [
+          {
+            "title": "\"엉터리 정보에 속지마세요.\" 진료과목 피부과 의사가 뽑은 가성비 시술 딱 '3가지'",
+            "channel": "지식인사이드",
+            "url": "https://www.youtube.com/watch?v=a4S4JNnRIXQ&pp=ygUo67ew7Luk7Iqk7ZS867aA6rO87J2Y7JuQIOyeoOyLpOygkCBLb3JlYQ%3D%3D",
+            "view_text": "1.7M"
+          },
+          {
+            "title": "대한의료신문 Today 병의원 탐방 ep246: 뷰커스의원",
+            "channel": "대한의료신문",
+            "url": "https://www.youtube.com/watch?v=H48R_LhG5jw&pp=ygUo67ew7Luk7Iqk7ZS867aA6rO87J2Y7JuQIOyeoOyLpOygkCBLb3JlYQ%3D%3D",
+            "view_text": "180"
+          },
+          {
+            "title": "울쎄라? 쥬베룩? 리쥬란?  피부과의 모든 비밀 그냥 다 공개하겠습니다😎 여름철 내 피부를 지키는 가장 확실한 방법👏[강석원의 초대 x 뷰커스의원 채정완 원장]ㅣWJ디자인",
+            "channel": "WJ디자인",
+            "url": "https://www.youtube.com/watch?v=92AeI8q5xS4&pp=ygUo67ew7Luk7Iqk7ZS867aA6rO87J2Y7JuQIOyeoOyLpOygkCBLb3JlYQ%3D%3D",
+            "view_text": "1.6K"
+          },
+          {
+            "title": "의사가 자기 얼굴에 직접 시술할 정도로 좋은 시술?! 피부과 의사들의 피부 유지 비결은 바로 이것!💉꿀피부 유지 비법, 자기얼굴에 직접시술하는 루틴 대공개! 👍｜채정완의 피부지식",
+            "channel": "채정완의 피부지식",
+            "url": "https://www.youtube.com/watch?v=hrA-Rachsmo&pp=ygUo67ew7Luk7Iqk7ZS867aA6rO87J2Y7JuQIOyeoOyLpOygkCBLb3JlYQ%3D%3D",
+            "view_text": "1.4K"
+          },
+          {
+            "title": "여배우와 아이돌이 무조건 받는 피부시술 TOP3❤️ 연예인 피부과시술｜여배우 피부관리법｜아이돌피부｜채정완의 피부지식",
+            "channel": "채정완의 피부지식",
+            "url": "https://www.youtube.com/watch?v=OnnNJsbpsI8&pp=ygUo67ew7Luk7Iqk7ZS867aA6rO87J2Y7JuQIOyeoOyLpOygkCBLb3JlYQ%3D%3D",
+            "view_text": "4K"
+          },
+          {
+            "title": "얼굴 볼살 바로 빠질 수 있어요😃통증 하나도 없이 빠르게 제대로 정확하게빠집니다. 온다리프팅의 모든 것!｜채정완의 피부지식",
+            "channel": "채정완의 피부지식",
+            "url": "https://www.youtube.com/watch?v=WiwJx5xyJ-g&pp=ygUo67ew7Luk7Iqk7ZS867aA6rO87J2Y7JuQIOyeoOyLpOygkCBLb3JlYQ%3D%3D",
+            "view_text": "618"
+          },
+          {
+            "title": "진짜 이것만 드시면 꿀피부 보장, 먹자마자 바로 피부좋아지는 음식👍 마음껏 먹고 피부 좋아지세요!｜뷰커스의원 채정완의 피부지식",
+            "channel": "채정완의 피부지식",
+            "url": "https://www.youtube.com/watch?v=lWdvF-zhITw&pp=ygUo67ew7Luk7Iqk7ZS867aA6rO87J2Y7JuQIOyeoOyLpOygkCBLb3JlYQ%3D%3D",
+            "view_text": "3.3K"
+          },
+          {
+            "title": "의사는 돈을 얼마나 많이 벌까?…의사 vs 변호사, 연봉, 월급, 난이도 대결",
+            "channel": "맨스파이어 MEN'SPIRE",
+            "url": "https://www.youtube.com/watch?v=zAlH0E1iVdc&pp=ygUo67ew7Luk7Iqk7ZS867aA6rO87J2Y7JuQIOyeoOyLpOygkCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "6.1K"
+          },
+          {
+            "title": "나한테 딱 맞는 리프팅 고르는 방법 총 정리😱축 늘어진 내 얼굴 탱탱하게 만들고 불독살 없애는 가성비 좋고 효과 확실한 리프팅시술은?｜채정완의 피부지식",
+            "channel": "채정완의 피부지식",
+            "url": "https://www.youtube.com/watch?v=MSaG1M_uxMk&pp=ygUo67ew7Luk7Iqk7ZS867aA6rO87J2Y7JuQIOyeoOyLpOygkCBLb3JlYQ%3D%3D",
+            "view_text": "3.6K"
+          },
+          {
+            "title": "50대인데 30대로 보인다면? 동창회 주인공 되는 1년 피부 시술 루틴 총정리",
+            "channel": "부산피부과전문의 황원장",
+            "url": "https://www.youtube.com/watch?v=jnRnMIirMwo&pp=ygUo67ew7Luk7Iqk7ZS867aA6rO87J2Y7JuQIOyeoOyLpOygkCBLb3JlYQ%3D%3D",
+            "view_text": "2.1K"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 90000,
+  "opportunity_cost_krw": 3600000
+}

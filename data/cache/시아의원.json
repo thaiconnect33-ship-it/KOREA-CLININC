@@ -1,16 +1,18 @@
 {
   "query": "시아의원",
-  "generated_at": "2026-05-29T06:09:12.910Z",
+  "generated_at": "2026-05-29T10:36:13.037Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 1875,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "2069038371",
+        "name": "시아의원 : 네이버\u001c",
+        "visitor_review_count": 750,
+        "blog_review_count": 1125,
+        "detail_url": "https://m.place.naver.com/place/2069038371/home"
       }
     },
     "google_maps": {
@@ -45,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 8016306,
+        "total_views": 12705866,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -57,64 +59,64 @@
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "“비싼 울쎄라, 써마지 받아도 얼굴 다시 처집니다” 요즘 연예인들이 받는 가성비 시술을 20년차 피부과 전문의가 알려드립니다.",
-            "channel": "피부는 성현철",
-            "url": "https://www.youtube.com/watch?v=P-ooK3XIcKM&pp=ygUh7Iuc7JWE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "344K views"
+            "title": "25.11.20. 한국일보 코라시아포럼 | 윤건영 의원 편집본",
+            "channel": "윤건영TV",
+            "url": "https://www.youtube.com/watch?v=LlwTlyoE5VI&pp=ygUS7Iuc7JWE7J2Y7JuQIEtvcmVh",
+            "view_text": "286"
           },
           {
-            "title": "\"엉터리 정보에 속지마세요.\" 진료과목 피부과 의사가 뽑은 가성비 시술 딱 '3가지'",
-            "channel": "지식인사이드",
-            "url": "https://www.youtube.com/watch?v=a4S4JNnRIXQ&pp=ygUh7Iuc7JWE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "1.7M views"
+            "title": "[2024코라시아포럼] 축사: 주호영 한일의원연맹 회장 (국회부의장)",
+            "channel": "한국일보포럼",
+            "url": "https://www.youtube.com/watch?v=77Hc3TMD1vs&pp=ygUS7Iuc7JWE7J2Y7JuQIEtvcmVh",
+            "view_text": "444"
           },
           {
-            "title": "\"You can look 10 years younger than your peers!\" 3 treatments even performed by a dermatologist.",
-            "channel": "박지윤의 피부 설명서",
-            "url": "https://www.youtube.com/watch?v=GN7n33Kw7BY&pp=ygUh7Iuc7JWE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "238K views"
+            "title": "김한정·마스카와 루이, 한일 의원대담  [코라시아포럼 2021 신한일관계 협력과 존중의 미래를 향하여]",
+            "channel": "한국일보(hankookilbo.com)",
+            "url": "https://www.youtube.com/watch?v=TxU72szZrgI&pp=ygUS7Iuc7JWE7J2Y7JuQIEtvcmVh",
+            "view_text": "410"
           },
           {
-            "title": "서울대 피부과의사가 찍어주는 스킨부스터 완벽 정리. \"이 영상보면 호구 안당합니다\" - 이도영 피부과전문의",
-            "channel": "피부텐텐 · 피부가 예뻐지는 10분",
-            "url": "https://www.youtube.com/watch?v=rigKW7zrTeI&pp=ygUh7Iuc7JWE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "338K views"
+            "title": "[2021코라시아포럼] 화해의 정치",
+            "channel": "한국일보포럼",
+            "url": "https://www.youtube.com/watch?v=CovPedsB3Kg&pp=ygUS7Iuc7JWE7J2Y7JuQIEtvcmVh",
+            "view_text": "41"
           },
           {
-            "title": "아토피 ? 피부과전문의가 강조하는 TOP3 ㅣ아토피 관리법ㅣ병원 치료시기",
-            "channel": "계피부과 since1961",
-            "url": "https://www.youtube.com/watch?v=PrWI0OB6prA&pp=ygUh7Iuc7JWE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "17K views"
+            "title": "[2021코라시아포럼] 특파원의 눈",
+            "channel": "한국일보포럼",
+            "url": "https://www.youtube.com/watch?v=u510RqMmCys&pp=ygUS7Iuc7JWE7J2Y7JuQIEtvcmVh",
+            "view_text": "29"
           },
           {
-            "title": "피부과 10년차가 말하는 받으면 호구되는 시술 3가지",
-            "channel": "소의튜브soytube",
-            "url": "https://www.youtube.com/watch?v=fiJ6_nrjt7A&pp=ygUh7Iuc7JWE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh0gcJCSMLAYcqIYzv",
-            "view_text": "1.4M views"
+            "title": "[2025 Korea-Asia Forum] Between Nuclear Weapons and Peace: A New Approach (Special Dialogue betwe...",
+            "channel": "한국일보포럼",
+            "url": "https://www.youtube.com/watch?v=42aoZVLPPyw&pp=ygUS7Iuc7JWE7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "372"
           },
           {
-            "title": "피부과 시술 부작용 Vlog…ㅠ 내 피부 돌려줘.. 다신 안해…🫠ㅣMINCARONG",
-            "channel": "민카롱",
-            "url": "https://www.youtube.com/watch?v=wRJR2kY2x9w&pp=ygUh7Iuc7JWE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "1.7M views"
+            "title": "[2025코라시아포럼] 미중대결의 시대, 한국외교의 좌표는 (종합토론)",
+            "channel": "한국일보포럼",
+            "url": "https://www.youtube.com/watch?v=OHMqouzqBXI&pp=ygUS7Iuc7JWE7J2Y7JuQIEtvcmVh",
+            "view_text": "739"
           },
           {
-            "title": "여름마다 자주 재발하는 '어루러기' 관리하기",
-            "channel": "피부과전문의 김도엽",
-            "url": "https://www.youtube.com/watch?v=yzKhYKjIsNA&pp=ygUh7Iuc7JWE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "20K views"
+            "title": "[2024코라시아포럼] 환영사: 이성철 한국일보 사장",
+            "channel": "한국일보포럼",
+            "url": "https://www.youtube.com/watch?v=2czGTVWaQDA&pp=ygUS7Iuc7JWE7J2Y7JuQIEtvcmVh",
+            "view_text": "135"
           },
           {
-            "title": "홍조, 주사피부염 완치 비결 전격 공개! 이렇게 한번 해보세요 - 피부과전문의 닥터피부광",
-            "channel": "닥터피부광",
-            "url": "https://www.youtube.com/watch?v=vmZWgrL-ZdE&pp=ygUh7Iuc7JWE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "142K views"
+            "title": "Dermatologist Shin Sung-rok Appears [SNL Korea] Season 8 ‘Smile Clinic’ Highlights",
+            "channel": "쿠팡플레이 Coupang Play",
+            "url": "https://www.youtube.com/watch?v=P1IAzz8_5Ag&pp=ygUS7Iuc7JWE7J2Y7JuQIEtvcmVh",
+            "view_text": "1.7M"
           },
           {
-            "title": "의사들만 몰래받는 S급 가성비! 수백만원 아끼는 만족도 가장 높은 시술을 20년차 피부과 전문의가 알려드립니다.",
-            "channel": "피부는 성현철",
-            "url": "https://www.youtube.com/watch?v=SFlFQByIQ1g&pp=ygUh7Iuc7JWE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "913K views"
+            "title": "[2021코라시아포럼] 혐한의 과거, 현재 그리고 미래",
+            "channel": "한국일보포럼",
+            "url": "https://www.youtube.com/watch?v=cAN6D7IJ_Oc&pp=ygUS7Iuc7JWE7J2Y7JuQIEtvcmVh",
+            "view_text": "63"
           }
         ]
       }

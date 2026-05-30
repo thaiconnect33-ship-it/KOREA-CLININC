@@ -1,0 +1,148 @@
+{
+  "query": "아비쥬의원 홍대",
+  "generated_at": "2026-05-29T11:25:36.301Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 4631,
+      "extra": {
+        "place_id": "1692380788",
+        "name": "아비쥬의원 홍대 : 네이버\u001c",
+        "visitor_review_count": 2356,
+        "blog_review_count": 2275,
+        "detail_url": "https://m.place.naver.com/place/1692380788/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Abijou Clinic Hongdae Global Center",
+        "rating": 4.8,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 4229,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "[아비쥬홍대점] \"지하철2호선\"에서 홍대점 찾아가보자!",
+            "channel": "아비쥬뷰티",
+            "url": "https://www.youtube.com/watch?v=YynrjwVh6l8&pp=ygUc7JWE67mE7KWs7J2Y7JuQIO2ZjeuMgCBLb3JlYQ%3D%3D",
+            "view_text": "42 views"
+          },
+          {
+            "title": "[ABIJOU] 25.01.15 GRAND OPEN 아비쥬의원 홍대점",
+            "channel": "아비쥬의원",
+            "url": "https://www.youtube.com/watch?v=vCSpZpecd10&pp=ygUc7JWE67mE7KWs7J2Y7JuQIO2ZjeuMgCBLb3JlYQ%3D%3D",
+            "view_text": "294 views"
+          },
+          {
+            "title": "[아비쥬] 핫플레이스 홍대상륙! 아비쥬홍대점 OPEN!",
+            "channel": "아비쥬뷰티",
+            "url": "https://www.youtube.com/watch?v=sPSwfThrFAg&pp=ygUc7JWE67mE7KWs7J2Y7JuQIO2ZjeuMgCBLb3JlYQ%3D%3D",
+            "view_text": "328 views"
+          },
+          {
+            "title": "[아비쥬홍대점] \"공항철도\"에서 홍대점 찾아가보자!",
+            "channel": "아비쥬뷰티",
+            "url": "https://www.youtube.com/watch?v=kcoAzf-5wuE&pp=ygUc7JWE67mE7KWs7J2Y7JuQIO2ZjeuMgCBLb3JlYQ%3D%3D",
+            "view_text": "74 views"
+          },
+          {
+            "title": "[아비쥬의원] 아비쥬신촌점이 아비쥬홍대점으로 이전!!",
+            "channel": "아비쥬뷰티",
+            "url": "https://www.youtube.com/watch?v=tFkR5vttIvo&pp=ygUc7JWE67mE7KWs7J2Y7JuQIO2ZjeuMgCBLb3JlYQ%3D%3D",
+            "view_text": "124 views"
+          },
+          {
+            "title": "[아비쥬홍대점] \"버스\"로 홍대점 찾아가보자!",
+            "channel": "아비쥬뷰티",
+            "url": "https://www.youtube.com/watch?v=Vu3naPM8h6k&pp=ygUc7JWE67mE7KWs7J2Y7JuQIO2ZjeuMgCBLb3JlYQ%3D%3D",
+            "view_text": "25 views"
+          },
+          {
+            "title": "[아비쥬의원] 못생겼다 탓하지마라! 관리하는순간 달라진다!",
+            "channel": "아비쥬뷰티",
+            "url": "https://www.youtube.com/watch?v=K41WQNajYv8&pp=ygUc7JWE67mE7KWs7J2Y7JuQIO2ZjeuMgCBLb3JlYQ%3D%3D",
+            "view_text": "594 views"
+          },
+          {
+            "title": "[아비쥬홍대점] \"자동차\"로 홍대점 찾아가보자!",
+            "channel": "아비쥬뷰티",
+            "url": "https://www.youtube.com/watch?v=J27lcZbPdJI&pp=ygUc7JWE67mE7KWs7J2Y7JuQIO2ZjeuMgCBLb3JlYQ%3D%3D",
+            "view_text": "17 views"
+          },
+          {
+            "title": "아비쥬뷰티에 전선희가 떳다!!!!",
+            "channel": "아비쥬뷰티",
+            "url": "https://www.youtube.com/watch?v=LY6ksOAG-Gw&pp=ygUc7JWE67mE7KWs7J2Y7JuQIO2ZjeuMgCBLb3JlYQ%3D%3D",
+            "view_text": "159 views"
+          },
+          {
+            "title": "[아비쥬뷰티] 기본부터 퀄리티가 남다르다!",
+            "channel": "아비쥬뷰티",
+            "url": "https://www.youtube.com/watch?v=xcZEw64njrQ&pp=ygUc7JWE67mE7KWs7J2Y7JuQIO2ZjeuMgCBLb3JlYQ%3D%3D",
+            "view_text": "64 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 110000,
+  "opportunity_cost_krw": 4400000
+}

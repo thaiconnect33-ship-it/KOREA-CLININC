@@ -1,16 +1,18 @@
 {
   "query": "선릉 닥터에버스의원",
-  "generated_at": "2026-05-29T06:10:14.500Z",
+  "generated_at": "2026-05-29T10:37:13.988Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 436,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "2009873101",
+        "name": "선릉 닥터에버스의원 : 네이버\u001c",
+        "visitor_review_count": 96,
+        "blog_review_count": 340,
+        "detail_url": "https://m.place.naver.com/place/2009873101/home"
       }
     },
     "google_maps": {
@@ -19,15 +21,15 @@
       "metric_value": 0,
       "extra": {
         "name": "Results",
-        "rating": 5,
+        "rating": 4.9,
         "total_reviews": 0,
-        "sample_size": 6,
-        "foreign_language_reviews": 6,
+        "sample_size": 9,
+        "foreign_language_reviews": 9,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 6
+          "english_other": 9
         }
       }
     },
@@ -43,9 +45,56 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 0,
+      "metric_value": 6,
       "extra": {
-        "note": "결과 없음"
+        "total_views": 6174043,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 6,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 6,
+        "top_videos": [
+          {
+            "title": "[피부과] 닥터에버스 선릉점 오픈 | 내 피부 고민을 함께 고민하는 곳",
+            "channel": "닥터에버스",
+            "url": "https://www.youtube.com/watch?v=1NweFRkPi7g&pp=ygUi7ISg66aJIOuLpe2EsOyXkOuyhOyKpOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "650 views"
+          },
+          {
+            "title": "[vlog] 피부과 직원 브이로그｜텐션 넘치는 직원들｜이렇게 서로 사이 좋아도 되는 건가요?",
+            "channel": "닥터에버스",
+            "url": "https://www.youtube.com/watch?v=vY712C75dq8&pp=ygUi7ISg66aJIOuLpe2EsOyXkOuyhOyKpOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "30K views"
+          },
+          {
+            "title": "'월세 60' 1.5평 방 내부 공개…젊은이들이 버티는 이유 (자막뉴스) / SBS",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=MLh3HMs66Ko&pp=ygUi7ISg66aJIOuLpe2EsOyXkOuyhOyKpOydmOybkCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "6.1M views"
+          },
+          {
+            "title": "이의정의 핫트렌드- 리더스피부과",
+            "channel": "starimedia",
+            "url": "https://www.youtube.com/watch?v=mOsTvL7FFbs&pp=ygUi7ISg66aJIOuLpe2EsOyXkOuyhOyKpOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "114 views"
+          },
+          {
+            "title": "\"아프고 돈만 날립니다\" 제모 수만번 해본 의사가 알려주는 10번 해도 그대로인 이유ㅣ레이저 제모 잘하는 방법",
+            "channel": "피부는 성현철",
+            "url": "https://www.youtube.com/watch?v=QqRrAVySy9I&pp=ygUi7ISg66aJIOuLpe2EsOyXkOuyhOyKpOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "43K views"
+          },
+          {
+            "title": "코로나 백신 맞고 대머리된 일본 여성.. 정말 코로나 백신 맞으면 탈모가 올까?_[모발이식, 탈모 해결사]",
+            "channel": "모법사 Dr_Bang",
+            "url": "https://www.youtube.com/watch?v=fwoNS-2sGYc&pp=ygUi7ISg66aJIOuLpe2EsOyXkOuyhOyKpOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "279 views"
+          }
+        ]
       }
     },
     "xiaohongshu": {
@@ -69,7 +118,7 @@
       }
     }
   },
-  "global_score": 3,
-  "opportunity_cost_thb": 97000,
-  "opportunity_cost_krw": 3880000
+  "global_score": 5,
+  "opportunity_cost_thb": 95500,
+  "opportunity_cost_krw": 3820000
 }

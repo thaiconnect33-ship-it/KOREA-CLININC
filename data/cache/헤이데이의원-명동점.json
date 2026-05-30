@@ -1,0 +1,148 @@
+{
+  "query": "헤이데이의원 명동점",
+  "generated_at": "2026-05-29T11:51:29.307Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 102,
+      "extra": {
+        "place_id": "1128772158",
+        "name": "헤이데이의원 명동점 : 네이버\u001c",
+        "visitor_review_count": 98,
+        "blog_review_count": 4,
+        "detail_url": "https://m.place.naver.com/place/1128772158/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "헤이데이의원 명동 | HEYDAY CLINIC Myeongdong | Heyday医院 明洞 | ヘイデイクリニック明洞店",
+        "rating": 4.9,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 15,
+      "extra": {
+        "total_views": 71433,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 15,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 15,
+        "top_videos": [
+          {
+            "title": "On your way here : Myeongdong Station",
+            "channel": "헤이데이의원",
+            "url": "https://www.youtube.com/watch?v=e-NlJ979m4Q&pp=ygUi7Zek7J20642w7J207J2Y7JuQIOuqheuPmeygkCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "272 views"
+          },
+          {
+            "title": "On your way here : Euljiro Entrance Station",
+            "channel": "헤이데이의원",
+            "url": "https://www.youtube.com/watch?v=5UAf-3wZaLs&pp=ygUi7Zek7J20642w7J207J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "103 views"
+          },
+          {
+            "title": "【HeyDay明洞】約會前緊急變美🇰🇷 韓國醫美面診仔細到像面試! 價格透明＋免費寄行李🫶🏻",
+            "channel": "헤이데이의원",
+            "url": "https://www.youtube.com/watch?v=v7oTovAG-VM&pp=ygUi7Zek7J20642w7J207J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "40 views"
+          },
+          {
+            "title": "【HeyDay明洞】定期打肉毒素(西馬)管理的一天",
+            "channel": "헤이데이의원",
+            "url": "https://www.youtube.com/watch?v=gREMUu0jibw&pp=ygUi7Zek7J20642w7J207J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "35 views"
+          },
+          {
+            "title": "【HeyDay明洞】韓女變美三件套之提拉+美白+髮型管理 vlog",
+            "channel": "헤이데이의원",
+            "url": "https://www.youtube.com/watch?v=YglCBKZ209o&pp=ygUi7Zek7J20642w7J207J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "30 views"
+          },
+          {
+            "title": "【HeyDay明洞】空姐休假日常｜來首爾療癒之旅 順便把狀態調整回來🇰🇷",
+            "channel": "헤이데이의원",
+            "url": "https://www.youtube.com/watch?v=TnpKdv1ligY&pp=ygUi7Zek7J20642w7J207J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "14 views"
+          },
+          {
+            "title": "【HeyDay江南】🇰🇷術後怎麼保養消腫? 還做了InMode mini FX＋消脂針瘦雙下巴",
+            "channel": "헤이데이의원",
+            "url": "https://www.youtube.com/watch?v=0pq53U0XP8Q&pp=ygUi7Zek7J20642w7J207J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "29 views"
+          },
+          {
+            "title": "【HeyDay江南】在韓國邊創業邊讀碩士的生活｜定期幫皮膚補水光💧",
+            "channel": "헤이데이의원",
+            "url": "https://www.youtube.com/watch?v=ZcZfiIvP944&pp=ygUi7Zek7J20642w7J207J2Y7JuQIOuqheuPmeygkCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "28 views"
+          },
+          {
+            "title": "서울 중구 명동2가 완벽한아구찜,우먼스셀렉트,명동연세의원,리버스의원 명동점,연세미소래치과의원,한피부과의원,명동30cm아이스크림,유네스코회관 건물,창문,하부 구조,조명,이웃,하...",
+            "channel": "시네마틱스톡 CINEMATIC STOCK",
+            "url": "https://www.youtube.com/watch?v=YQLiUVQ_7_s&pp=ygUi7Zek7J20642w7J207J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "127 views"
+          },
+          {
+            "title": "서울 중구 명동2가 고려약국,이제이엠,더식당,라화쿵부 명동2호점,미스터힐링 명동역점,명동신화,우먼스셀렉트 건물,하부 구조,식물,창문,건축학,이웃,하늘,도로 표면,선반,쇼핑 D...",
+            "channel": "시네마틱스톡 CINEMATIC STOCK",
+            "url": "https://www.youtube.com/watch?v=WY4Q0PBX6ew&pp=ygUi7Zek7J20642w7J207J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "56 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

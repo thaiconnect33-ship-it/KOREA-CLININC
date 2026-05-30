@@ -1,28 +1,28 @@
 {
   "query": "리스펙성형외과의원",
-  "generated_at": "2026-05-29T00:20:10.941Z",
+  "generated_at": "2026-05-29T13:07:30.474Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 834,
+      "metric_value": 836,
       "extra": {
         "place_id": "1983527676",
         "name": "리스펙성형외과의원 : 네이버\u001c",
         "visitor_review_count": 172,
-        "blog_review_count": 662,
+        "blog_review_count": 664,
         "detail_url": "https://m.place.naver.com/place/1983527676/home"
       }
     },
     "google_maps": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 98,
+      "metric_value": 99,
       "extra": {
         "name": "Respect Plastic Surgery",
         "rating": 4.4,
-        "total_reviews": 98,
+        "total_reviews": 99,
         "sample_size": 20,
         "foreign_language_reviews": 20,
         "lang_breakdown": {
@@ -45,78 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 20,
+      "metric_value": 19,
       "extra": {
-        "total_views": 91400,
+        "total_views": 155300,
         "foreign_video_count": 0,
         "lang_breakdown": {
-          "korean": 20,
+          "korean": 19,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
           "english_other": 0
         },
-        "sample_size": 20,
+        "sample_size": 19,
         "top_videos": [
           {
             "title": "Magic🪄 that even fixes protruding lips after rhinoplasty revision (Respect Plastic Surgery Philtr...",
             "channel": "리스펙성형외과",
-            "url": "https://www.youtube.com/watch?v=ZEs3TVi-Hjk&pp=ygUt66as7Iqk7Y6Z7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
-            "view_text": "4.2K"
+            "url": "https://www.youtube.com/watch?v=ZEs3TVi-Hjk&pp=ygUh66as7Iqk7Y6Z7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "4.2K views"
           },
           {
             "title": "이마축소와 모발이식을 합친 시너지 수술?!🧐 | 리스펙성형외과 | 이마축소",
             "channel": "리스펙성형외과",
-            "url": "https://www.youtube.com/watch?v=XxufClIx05I&pp=ygUt66as7Iqk7Y6Z7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "4.9K"
+            "url": "https://www.youtube.com/watch?v=XxufClIx05I&pp=ygUh66as7Iqk7Y6Z7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "4.9K views"
           },
           {
             "title": "윤곽 전문 원장이 말하는 광대축소 최대한의 기준은?",
             "channel": "리스펙성형외과",
-            "url": "https://www.youtube.com/watch?v=pX8gfk_Mo74&pp=ygUt66as7Iqk7Y6Z7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "2.6K"
+            "url": "https://www.youtube.com/watch?v=pX8gfk_Mo74&pp=ygUh66as7Iqk7Y6Z7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "2.6K views"
           },
           {
-            "title": "A reflection on Baek Ji-young's plastic surgery... reviewed by a plastic surgeon.",
+            "title": "왜 나만 윤곽 효과를 못봤을까? 나를 알아야 뼈를 안다...😑",
             "channel": "리스펙성형외과",
-            "url": "https://www.youtube.com/watch?v=iNh3zh5COus&pp=ygUt66as7Iqk7Y6Z7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.4K"
-          },
-          {
-            "title": "성형수술로 줄인 인중이 다시 길어지면 어떡함?😰 인중축소를 받는 것을 망설이는 이유ㅣ리스펙성형외과",
-            "channel": "리스펙성형외과",
-            "url": "https://www.youtube.com/watch?v=EonHsD4zm6g&pp=ygUt66as7Iqk7Y6Z7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "3.1K"
-          },
-          {
-            "title": "Reduction amount, scars, hair loss... A collection of frequently asked questions about forehead r...",
-            "channel": "리스펙성형외과",
-            "url": "https://www.youtube.com/watch?v=Cci--H3w2f4&pp=ygUt66as7Iqk7Y6Z7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
-            "view_text": "2K"
-          },
-          {
-            "title": "눈 성형 없이 눈 커지는 방법! 보고 따라해 보세요!",
-            "channel": "리스펙성형외과",
-            "url": "https://www.youtube.com/watch?v=zvHgRnXjp_I&pp=ygUt66as7Iqk7Y6Z7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "2.2K"
+            "url": "https://www.youtube.com/watch?v=iCKB1ZQnSA0&pp=ygUh66as7Iqk7Y6Z7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "2.4K views"
           },
           {
             "title": "Why I Don't Use Endotine for Forehead Surgery (Feat. Forehead Reduction Cases)",
             "channel": "리스펙성형외과",
-            "url": "https://www.youtube.com/watch?v=5Gxk3uVDW8I&pp=ygUt66as7Iqk7Y6Z7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "2.3K"
+            "url": "https://www.youtube.com/watch?v=5Gxk3uVDW8I&pp=ygUh66as7Iqk7Y6Z7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "2.3K views"
           },
           {
-            "title": "대미를 장식할 '사후 관리'! 수술 이후가 중요한 이마축소 흉터 관리법! | 리스펙성형외과",
+            "title": "A reflection on Baek Ji-young's plastic surgery... reviewed by a plastic surgeon.",
             "channel": "리스펙성형외과",
-            "url": "https://www.youtube.com/watch?v=TM6qe9Dspc0&pp=ygUt66as7Iqk7Y6Z7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "3.5K"
+            "url": "https://www.youtube.com/watch?v=iNh3zh5COus&pp=ygUh66as7Iqk7Y6Z7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.4K views"
           },
           {
-            "title": "[리스펙성형외과 코성형] 어떤코가 인중코를 하면 좋을까? 대표 연예인코들은 누구?",
+            "title": "'왜 자가늑을 할까?' 미안하지만 질문 좀 할게yo~ | 코수술 | 인중코 | 리스펙성형외과",
             "channel": "리스펙성형외과",
-            "url": "https://www.youtube.com/watch?v=ih3dvJ5hf04&pp=ygUt66as7Iqk7Y6Z7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "2.4K"
+            "url": "https://www.youtube.com/watch?v=ajWJrM7FjsI&pp=ygUh66as7Iqk7Y6Z7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "2.6K views"
+          },
+          {
+            "title": "있던 흉터도 없애는 무봉합인중축소 흉터 성형술! 인중 재수술이 고민이신가요?",
+            "channel": "리스펙성형외과",
+            "url": "https://www.youtube.com/watch?v=e4vae9ib2TM&pp=ygUh66as7Iqk7Y6Z7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "2.7K views"
+          },
+          {
+            "title": "리스펙을 하기 전과 후, 리스펙만 했을 뿐인데 거울 속에 연예인이 있네?!",
+            "channel": "리스펙성형외과",
+            "url": "https://www.youtube.com/watch?v=5kuCchYLaB4&pp=ygUh66as7Iqk7Y6Z7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "2.2K views"
+          },
+          {
+            "title": "What is the right rhinoplasty material for me? Let's learn about dermis and silicone.",
+            "channel": "리스펙성형외과",
+            "url": "https://www.youtube.com/watch?v=hJcYWW_fpqY&pp=ygUh66as7Iqk7Y6Z7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "3.6K views"
           }
         ]
       }
@@ -132,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

@@ -1,16 +1,18 @@
 {
   "query": "굿모나의원",
-  "generated_at": "2026-05-29T06:06:46.438Z",
+  "generated_at": "2026-05-29T10:33:54.614Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 1476,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "1053064494",
+        "name": "굿모나의원 : 네이버\u001c",
+        "visitor_review_count": 1276,
+        "blog_review_count": 200,
+        "detail_url": "https://m.place.naver.com/place/1053064494/home"
       }
     },
     "google_maps": {
@@ -45,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 1953604,
+        "total_views": 458790,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -57,64 +59,64 @@
         "sample_size": 20,
         "top_videos": [
           {
+            "title": "하루 17시간 일하는 280평 압구정 의사의 하루",
+            "channel": "이건민의 풍성한 이야기",
+            "url": "https://www.youtube.com/watch?v=NAnhfjWMKys&pp=ygUV6rW_66qo64KY7J2Y7JuQIEtvcmVh",
+            "view_text": "4.8K views"
+          },
+          {
+            "title": "ASMR | 갱년기 여성을 위한 헤드스파 풀코스 | Head Spa Full Course for menopausal women",
+            "channel": "GOODMONA_ASMR",
+            "url": "https://www.youtube.com/watch?v=HWN9_HAgbMk&pp=ygUV6rW_66qo64KY7J2Y7JuQIEtvcmVh",
+            "view_text": "2.6K views"
+          },
+          {
+            "title": "화려한 압구정 뒤에 숨겨진 의사의 진짜 삶 (feat. 막차 퇴근)",
+            "channel": "이건민의 풍성한 이야기",
+            "url": "https://www.youtube.com/watch?v=mLwYiTwY3y8&pp=ygUV6rW_66qo64KY7J2Y7JuQIEtvcmVh",
+            "view_text": "74K views"
+          },
+          {
             "title": "압구정 헤어라인 이식 7개월 경과! 탈모인들의 희망, 굿모나! 갓모나!",
             "channel": "킴풍성",
-            "url": "https://www.youtube.com/watch?v=rwyIj92ELfk&pp=ygUh6rW_66qo64KY7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=rwyIj92ELfk&pp=ygUV6rW_66qo64KY7J2Y7JuQIEtvcmVh",
             "view_text": "595 views"
           },
           {
-            "title": "걱정반, 설렘반! 비절개 모발이식수술 굿모나로 결정했어요!",
-            "channel": "킴풍성",
-            "url": "https://www.youtube.com/watch?v=1iM49JQK4e0&pp=ygUh6rW_66qo64KY7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "118 views"
-          },
-          {
-            "title": "압구정 모발이식수술 경과 리얼후기! 섬세한 디자인으로 자연스러운 결과를! (압구정 굿모나)",
-            "channel": "킴풍성",
-            "url": "https://www.youtube.com/watch?v=JTy8pf8dlg0&pp=ygUh6rW_66qo64KY7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "85 views"
-          },
-          {
-            "title": "압구정 굿모나 비절개 모발이식 2주차 인터뷰! 암흑기 걱정 해소",
-            "channel": "킴풍성",
-            "url": "https://www.youtube.com/watch?v=KV9-uzYGB3g&pp=ygUh6rW_66qo64KY7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "626 views"
+            "title": "예약만 3개월 밀려있어요.. 압구정 280평으로 새롭게 확장한 병원 최초 공개합니다.",
+            "channel": "이건민의 풍성한 이야기",
+            "url": "https://www.youtube.com/watch?v=PXRjQsOo78Q&pp=ygUV6rW_66qo64KY7J2Y7JuQIEtvcmVh",
+            "view_text": "7.1K views"
           },
           {
             "title": "모발이식 수술전 인터뷰!! 예비신랑 성공기!  굿모나 선택!",
             "channel": "주녕이의 머리나라",
-            "url": "https://www.youtube.com/watch?v=jmf8qY-G0-Y&pp=ygUh6rW_66qo64KY7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=jmf8qY-G0-Y&pp=ygUV6rW_66qo64KY7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
             "view_text": "281 views"
           },
           {
-            "title": "모발이식 수술 일주일차 따끈따끈 후기! [굿모나]",
-            "channel": "주녕이의 머리나라",
-            "url": "https://www.youtube.com/watch?v=T9Tqdl5Va1Q&pp=ygUh6rW_66qo64KY7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "144 views"
+            "title": "또래보다 10년은 젊어집니다 탈모 때문에 고민이 된다면 꼭 이 영상을 시청하세요",
+            "channel": "이건민의 풍성한 이야기",
+            "url": "https://www.youtube.com/watch?v=o2GQWwRuoCs&pp=ygUV6rW_66qo64KY7J2Y7JuQIEtvcmVh",
+            "view_text": "3.3K views"
           },
           {
-            "title": "따끈따끈 모발이식 수술직후 영상! 리얼하게 풀어봅니다 (압구정 굿모나의원)",
-            "channel": "비보이 영훈쓰",
-            "url": "https://www.youtube.com/watch?v=udyjfSuY0gk&pp=ygUh6rW_66qo64KY7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
-            "view_text": "151 views"
-          },
-          {
-            "title": "모발이식 방금 하고 나왔어요! 압구정 굿모나 선택하길 잘했네요",
-            "channel": "주녕이의 머리나라",
-            "url": "https://www.youtube.com/watch?v=o_iX4j0XQAc&pp=ygUh6rW_66qo64KY7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "23 views"
+            "title": "ASMR | 하루의 피로를 녹여주는 헤드스파 풀코스 | Head Spa Full Course",
+            "channel": "GOODMONA_ASMR",
+            "url": "https://www.youtube.com/watch?v=0Cc9WIToZ9E&pp=ygUV6rW_66qo64KY7J2Y7JuQIEtvcmVh",
+            "view_text": "5.8K views"
           },
           {
             "title": "굿모나의원 모발이식수술 전 두근두근 인터뷰! (비보이 M자탈모)",
             "channel": "비보이 영훈쓰",
-            "url": "https://www.youtube.com/watch?v=3z_VFzQahJc&pp=ygUh6rW_66qo64KY7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=3z_VFzQahJc&pp=ygUV6rW_66qo64KY7J2Y7JuQIEtvcmVh",
             "view_text": "173 views"
           },
           {
-            "title": "모발이식수술 3주차, 암흑기 변화 과정 리얼후기! (압구정 굿모나)",
+            "title": "걱정반, 설렘반! 비절개 모발이식수술 굿모나로 결정했어요!",
             "channel": "킴풍성",
-            "url": "https://www.youtube.com/watch?v=y42nSN-XIh0&pp=ygUh6rW_66qo64KY7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.1K views"
+            "url": "https://www.youtube.com/watch?v=1iM49JQK4e0&pp=ygUV6rW_66qo64KY7J2Y7JuQIEtvcmVh",
+            "view_text": "118 views"
           }
         ]
       }

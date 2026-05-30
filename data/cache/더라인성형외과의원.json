@@ -1,16 +1,18 @@
 {
   "query": "더라인성형외과의원",
-  "generated_at": "2026-05-28T22:31:15.797Z",
+  "generated_at": "2026-05-29T11:08:07.519Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 876,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "12014238",
+        "name": "더라인성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 549,
+        "blog_review_count": 327,
+        "detail_url": "https://m.place.naver.com/place/12014238/home"
       }
     },
     "google_maps": {
@@ -43,78 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 20,
+      "metric_value": 19,
       "extra": {
-        "total_views": 40273,
+        "total_views": 16442,
         "foreign_video_count": 0,
         "lang_breakdown": {
-          "korean": 20,
+          "korean": 19,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
           "english_other": 0
         },
-        "sample_size": 20,
+        "sample_size": 19,
         "top_videos": [
           {
-            "title": "[더라인TV] 지방흡입 중 장기가 천공될 수 있나요? l 지방흡입수술전 꼭! 알아야할 정보! / 지방흡입수술방법, 더라인성형외과",
+            "title": "팀장들이 직접 모십니다!  l 더라인성형외과 인재 모집 ✨",
             "channel": "줄기세포 성형ㅣ더라인-Theline Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=muiURrqJGck&pp=ygUz642U65287J247ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "450"
+            "url": "https://www.youtube.com/watch?v=vL9TrOm_zJ0&pp=ygUh642U65287J247ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "464 views"
           },
           {
-            "title": "[더라인TV] 성형외과 원장이 직접 말해주는 비만의 진짜 이유는?",
+            "title": "안전하고 바른 의학 ㅣ 더라인성형외과  대표원장 정유석 👨‍⚕️",
             "channel": "줄기세포 성형ㅣ더라인-Theline Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=B_5z_5QGudY&pp=ygUz642U65287J247ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "491"
+            "url": "https://www.youtube.com/watch?v=tjYFvgZ0ut4&pp=ygUh642U65287J247ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "175 views"
           },
           {
-            "title": "【더라인TV】 지방흡입수술 후 바이오본드가 생기는 이유는?ㅣ더라인성형외과 조재호 원장 l 지방흡입수술방법,지방흡입수술법,지방흡입수술,지방흡입,더라인지방흡입,바이오본드",
+            "title": "뼈팔 되려면 '이것' 꼭 알아야 한다고? ㅣ 팔뚝 지방흡입 파헤치기 ✨⛱️",
             "channel": "줄기세포 성형ㅣ더라인-Theline Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=v4ukjonn5L0&pp=ygUz642U65287J247ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "706"
+            "url": "https://www.youtube.com/watch?v=Y6F0dmN9mbk&pp=ygUh642U65287J247ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "6.9K views"
           },
           {
-            "title": "코재수술은 신중하게 #뷰티라인성형외과",
-            "channel": "뷰티라인성형외과 Beautyline Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=nwh_vEo2ec8&pp=ygUz642U65287J247ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "36"
+            "title": "얼굴 지방흡입 성공하는 법, 이거 알고 수술하세요 🙌",
+            "channel": "줄기세포 성형ㅣ더라인-Theline Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=UHPOAPsrRwY&pp=ygUh642U65287J247ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "185 views"
           },
           {
-            "title": "뷰티라인성형외과 신중해야하는 #코재수술",
-            "channel": "뷰티라인성형외과 Beautyline Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=YG-Pc4rTYmo&pp=ygUz642U65287J247ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "64"
+            "title": "수술 전 주의사항 top 5 ✋ | 지방흡입 수술",
+            "channel": "줄기세포 성형ㅣ더라인-Theline Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=tEXUd-I7uQo&pp=ygUh642U65287J247ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "214 views"
           },
           {
-            "title": "볼륨감을 채워주는 #풀페이스지방이식 #뷰티라인",
-            "channel": "뷰티라인성형외과 Beautyline Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=kY1CVQdJxEk&pp=ygUz642U65287J247ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "55"
+            "title": "눈밑지 고민중이라면 필수시청! 안 보고 수술하면 후회합니다😥",
+            "channel": "줄기세포 성형ㅣ더라인-Theline Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=JENOHBDBWEY&pp=ygUh642U65287J247ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "155 views"
           },
           {
-            "title": "뼈를 깎지 않고도 안면윤곽 효과를?! [디에이 V라인 프로젝트]",
-            "channel": "디에이성형외과 D.A Plastic Surgery Korea",
-            "url": "https://www.youtube.com/watch?v=efGLmr55mbM&pp=ygUz642U65287J247ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "577"
+            "title": "Upper eyelid surgery is recommended for these people 👀✨",
+            "channel": "줄기세포 성형ㅣ더라인-Theline Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=M-5UMVSftQA&pp=ygUh642U65287J247ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "167 views"
           },
           {
-            "title": "얼굴지방흡입 부작용!? #홈케어",
-            "channel": "뷰티라인성형외과 Beautyline Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=pm6qlRs83nA&pp=ygUz642U65287J247ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "13K"
+            "title": "지방흡입 일상생활? 부작용? 전부 다 답해드립니다 🙌",
+            "channel": "줄기세포 성형ㅣ더라인-Theline Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=zFomb9InGkc&pp=ygUh642U65287J247ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "113 views"
           },
           {
-            "title": "코재수술 받은 후기, 재수술 받는 김에 지방이식,지방흡입,보톡스까지",
-            "channel": "뷰티라인성형외과 Beautyline Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=lWe7aXAdI4Q&pp=ygUz642U65287J247ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "370"
+            "title": "얼굴지방이식, 이건 꼭 알고 결정하세요🥰✅",
+            "channel": "줄기세포 성형ㅣ더라인-Theline Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=U90XtgJvBgI&pp=ygUh642U65287J247ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "2.3K views"
           },
           {
-            "title": "[부산 눈성형] 쌍꺼풀 수술 라인 설명 들어갑니다. 인라인, 인아웃라인, 아웃라인을 쉽고 간단하게 설명해드립니다[노블레스성형외과]",
-            "channel": "노블레스성형외과-noblesse plastic surgery",
-            "url": "https://www.youtube.com/watch?v=Z1nI8f7XPU8&pp=ygUz642U65287J247ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "2.3K"
+            "title": "안면거상, 무조건 하지 마세요! '이것' 꼭 알고 하세요🔥",
+            "channel": "줄기세포 성형ㅣ더라인-Theline Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=VCK31PVpBUs&pp=ygUh642U65287J247ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "253 views"
           }
         ]
       }
@@ -130,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

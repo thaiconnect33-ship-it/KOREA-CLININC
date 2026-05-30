@@ -1,16 +1,18 @@
 {
   "query": "멜론성형외과의원",
-  "generated_at": "2026-05-29T06:05:33.830Z",
+  "generated_at": "2026-05-29T10:32:37.954Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 1305,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "1167252632",
+        "name": "멜론성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 216,
+        "blog_review_count": 1089,
+        "detail_url": "https://m.place.naver.com/place/1167252632/home"
       }
     },
     "google_maps": {
@@ -45,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 607771,
+        "total_views": 490278,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -59,62 +61,62 @@
           {
             "title": "성형외과 의사들이 꼽은 가장 인상깊은 수술ㄴ😲ㄱㅣ🌺병원을 옮겨도 따라오는 환자분?!🌺ㅣ가슴성형 부작용ㅣ흉터치료",
             "channel": "사슴TV",
-            "url": "https://www.youtube.com/watch?v=9rDZyBNFjgY&pp=ygUq66mc66Gg7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=9rDZyBNFjgY&pp=ygUe66mc66Gg7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "1.1K views"
           },
           {
             "title": "[휴먼성형외과] 가슴성형 상담 시 가장 많이 받는 질문! 1탄",
             "channel": "휴먼성형외과",
-            "url": "https://www.youtube.com/watch?v=ZLEpX6tKSvo&pp=ygUq66mc66Gg7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=ZLEpX6tKSvo&pp=ygUe66mc66Gg7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "1.7K views"
-          },
-          {
-            "title": "도망쳐..지금이야!! 성형외과 블랙리스트 이렇게 거르세요",
-            "channel": "지유미 JIYUMEE",
-            "url": "https://www.youtube.com/watch?v=VK1hIW0QP-g&pp=ygUq66mc66Gg7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "126K views"
           },
           {
             "title": "가슴 보형물 교체시기 알려드립니다",
             "channel": "오늘의 상담실 [오상실]",
-            "url": "https://www.youtube.com/watch?v=9uDareZPCSQ&pp=ygUq66mc66Gg7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=9uDareZPCSQ&pp=ygUe66mc66Gg7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
             "view_text": "4.3K views"
           },
           {
             "title": "[휴먼성형외과] 가슴성형 권위자 닥터 랜퀴스트, 휴먼을 방문하다!",
             "channel": "휴먼성형외과",
-            "url": "https://www.youtube.com/watch?v=j9wqzPXhtig&pp=ygUq66mc66Gg7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=j9wqzPXhtig&pp=ygUe66mc66Gg7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
             "view_text": "1.7K views"
           },
           {
-            "title": "[가슴성형] 가슴보형물 크게 넣으면 무조건 C컵될까?",
-            "channel": "뷰성형외과 VIEW Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=BQ1_STtt-HQ&pp=ygUq66mc66Gg7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "3.3K views"
+            "title": "도망쳐..지금이야!! 성형외과 블랙리스트 이렇게 거르세요",
+            "channel": "지유미 JIYUMEE",
+            "url": "https://www.youtube.com/watch?v=VK1hIW0QP-g&pp=ygUe66mc66Gg7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "126K views"
           },
           {
             "title": "[불만족 3대장 해결] 구형구축,사이즈,비대칭.해결방법이 있습니다!",
             "channel": "멜론언니 김주원",
-            "url": "https://www.youtube.com/watch?v=tySQXnSNa10&pp=ygUq66mc66Gg7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=tySQXnSNa10&pp=ygUe66mc66Gg7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "52K views"
           },
           {
             "title": "좌 우에 다른 보형물을 넣는 이유? - 볼륨 비대칭 교정에 대하여",
             "channel": "조목조목TV",
-            "url": "https://www.youtube.com/watch?v=gf3RkYOhGXg&pp=ygUq66mc66Gg7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=gf3RkYOhGXg&pp=ygUe66mc66Gg7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "1K views"
+          },
+          {
+            "title": "[가슴성형] 가슴보형물 크게 넣으면 무조건 C컵될까?",
+            "channel": "뷰성형외과 VIEW Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=BQ1_STtt-HQ&pp=ygUe66mc66Gg7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "3.3K views"
           },
           {
             "title": "[휴먼성형외과] 가슴 수술 받기 딱 좋은 날이네~~🤭",
             "channel": "휴먼성형외과",
-            "url": "https://www.youtube.com/watch?v=_plpn54blHs&pp=ygUq66mc66Gg7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=_plpn54blHs&pp=ygUe66mc66Gg7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "1.2K views"
           },
           {
-            "title": "보형물 단위, 멘토, 모티바, 세빈 가슴보형물 중 사이즈 단위가 가장 촘촘한 것은?",
-            "channel": "엠디TV [20년 Only 가슴성형]",
-            "url": "https://www.youtube.com/watch?v=5Kly5m6Q-E8&pp=ygUq66mc66Gg7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "11K views"
+            "title": "Breast Augmentation Vlog Part 3 - A Week-Likely Review (From A Cup to E Cup)",
+            "channel": "또비니 DDOBINI",
+            "url": "https://www.youtube.com/watch?v=Y35SA0lVu2k&pp=ygUe66mc66Gg7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "253K views"
           }
         ]
       }

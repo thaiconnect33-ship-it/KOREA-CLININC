@@ -1,16 +1,18 @@
 {
   "query": "르로제의원",
-  "generated_at": "2026-05-29T05:36:39.001Z",
+  "generated_at": "2026-05-29T10:46:14.988Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 1547,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "1737445905",
+        "name": "르로제의원 : 네이버\u001c",
+        "visitor_review_count": 67,
+        "blog_review_count": 1480,
+        "detail_url": "https://m.place.naver.com/place/1737445905/home"
       }
     },
     "google_maps": {
@@ -34,9 +36,80 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 0,
+      "metric_value": 19,
       "extra": {
-        "note": "결과 없음"
+        "total_views": 110781,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 19,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 19,
+        "top_videos": [
+          {
+            "title": "지방흡입 수술 전후 주의사항!!",
+            "channel": "르로제의원",
+            "url": "https://www.youtube.com/watch?v=kZqu8kJ0ddA&pp=ygUV66W066Gc7KCc7J2Y7JuQIEtvcmVh",
+            "view_text": "5.2K"
+          },
+          {
+            "title": "내 살이 내 볼륨이 되는 지방이식, 그 첫 번째!",
+            "channel": "르로제의원",
+            "url": "https://www.youtube.com/watch?v=SccOpk67lvc&pp=ygUV66W066Gc7KCc7J2Y7JuQIEtvcmVh",
+            "view_text": "3.7K"
+          },
+          {
+            "title": "지방흡입을 실패하는 원인! (ft.르로제는 왜 안전할까?)",
+            "channel": "르로제의원",
+            "url": "https://www.youtube.com/watch?v=MWMRNaqHa5A&pp=ygUV66W066Gc7KCc7J2Y7JuQIEtvcmVh",
+            "view_text": "19K"
+          },
+          {
+            "title": "상체지방흡입 3200cc 실제 케이스｜30대초반 복부·팔 라인 변화 BEFORE & AFTER 지방흡입 결과",
+            "channel": "르로제의원",
+            "url": "https://www.youtube.com/watch?v=3gTrWoVpeg8&pp=ygUV66W066Gc7KCc7J2Y7JuQIEtvcmVh",
+            "view_text": "7K"
+          },
+          {
+            "title": "Why scars are less visible when you get liposuction at Le Rose!",
+            "channel": "르로제의원",
+            "url": "https://www.youtube.com/watch?v=eks8XNo8yHs&pp=ygUV66W066Gc7KCc7J2Y7JuQIEtvcmVh",
+            "view_text": "2.4K"
+          },
+          {
+            "title": "팔지방흡입 2550cc 결과 공개 | 팔뚝·견갑·브라라인·쇄골까지 달라진 20대후반 케이스",
+            "channel": "르로제의원",
+            "url": "https://www.youtube.com/watch?v=YjoLfVbfEIM&pp=ygUV66W066Gc7KCc7J2Y7JuQIEtvcmVh",
+            "view_text": "35K"
+          },
+          {
+            "title": "상체지방흡입 7800cc｜복부·러브핸들·하등·팔·견갑까지 달라진 20대중반 라인 변화",
+            "channel": "르로제의원",
+            "url": "https://www.youtube.com/watch?v=_oOQu2VVjgc&pp=ygUV66W066Gc7KCc7J2Y7JuQIEtvcmVh",
+            "view_text": "139"
+          },
+          {
+            "title": "청순가련 뼈팔 made in 르로제?!(ft.르로제 스탭 수술전 인터뷰)",
+            "channel": "르로제의원",
+            "url": "https://www.youtube.com/watch?v=lvXz5ManY8w&pp=ygUV66W066Gc7KCc7J2Y7JuQIEtvcmVh",
+            "view_text": "8.3K"
+          },
+          {
+            "title": "30대 복부지방흡입 4250cc｜러브핸들·하등·음부까지 라인 변화",
+            "channel": "르로제의원",
+            "url": "https://www.youtube.com/watch?v=MlQ98-k_T74&pp=ygUV66W066Gc7KCc7J2Y7JuQIEtvcmVh",
+            "view_text": "6.8K"
+          },
+          {
+            "title": "지방흡입/이식 수술하고 이러면 망한다고요!!(환자의 잘못편)",
+            "channel": "르로제의원",
+            "url": "https://www.youtube.com/watch?v=fdJKsgqNV8g&pp=ygUV66W066Gc7KCc7J2Y7JuQIEtvcmVh",
+            "view_text": "1.4K"
+          }
+        ]
       }
     },
     "xiaohongshu": {

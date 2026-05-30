@@ -1,6 +1,6 @@
 {
   "query": "아이씨성형외과",
-  "generated_at": "2026-05-29T05:43:46.713Z",
+  "generated_at": "2026-05-29T10:09:49.080Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -16,11 +16,11 @@
     "google_maps": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 53,
       "extra": {
         "name": "Results",
         "rating": 4.9,
-        "total_reviews": 0,
+        "total_reviews": 53,
         "sample_size": 6,
         "foreign_language_reviews": 6,
         "lang_breakdown": {
@@ -45,7 +45,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 295068,
+        "total_views": 1593896,
         "foreign_video_count": 20,
         "lang_breakdown": {
           "korean": 0,
@@ -84,18 +84,12 @@
             "title": "What is Plastic and Cosmetic Surgery Cost in Pakistan? | Dr. Farid Ahmed Khan",
             "channel": "Cosmetic Surgery Institute Csi",
             "url": "https://www.youtube.com/watch?v=f96Z5a90Vb4&pp=ygUYSUMgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
-            "view_text": "928 views"
-          },
-          {
-            "title": "V-Y plasty training - Myocutaneous simulator for teaching suture and reconstructive surgery",
-            "channel": "LEHMA Laboratório de Métodos Alternativos da UFPR",
-            "url": "https://www.youtube.com/watch?v=wzWNc4D2Ft0&pp=ygUYSUMgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
-            "view_text": "95K views"
+            "view_text": "930 views"
           },
           {
             "title": "University of Iowa Hospitals and Clinics, Plastic Surgery & Cosmetic Services - Montage",
             "channel": "University of Iowa Health Care",
-            "url": "https://www.youtube.com/watch?v=jlK1cvgAwXM&pp=ygUYSUMgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=jlK1cvgAwXM&pp=ygUYSUMgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh0gcJCSMLAYcqIYzv",
             "view_text": "1.6K views"
           },
           {
@@ -115,6 +109,12 @@
             "channel": "The Plastic Surgery Channel",
             "url": "https://www.youtube.com/watch?v=iC-ogy8qntw&pp=ygUYSUMgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
             "view_text": "460 views"
+          },
+          {
+            "title": "V-Y plasty training - Myocutaneous simulator for teaching suture and reconstructive surgery",
+            "channel": "LEHMA Laboratório de Métodos Alternativos da UFPR",
+            "url": "https://www.youtube.com/watch?v=wzWNc4D2Ft0&pp=ygUYSUMgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "95K views"
           }
         ]
       }

@@ -27,18 +27,30 @@ export async function scrapeNaver(query: string): Promise<PlatformResult> {
     const searchUrl = `https://m.place.naver.com/place/list?query=${encodeURIComponent(query)}`;
     await page.goto(searchUrl, { waitUntil: "domcontentloaded", timeout: NAV_TIMEOUT_MS });
 
-    // 검색 결과 또는 "결과 없음" 텍스트 대기.
+    // SPA mount 대기 — networkidle 만으로는 부족, place anchor 가 실제로 mount 되길 기다림.
+    await page.waitForSelector('a[href*="/place/"]', { timeout: SELECTOR_WAIT_MS }).catch(() => {});
     await page.waitForLoadState("networkidle", { timeout: SELECTOR_WAIT_MS }).catch(() => {});
+    await page.waitForTimeout(1200);
 
-    // 2) 첫 결과 place_id 추출. m.place.naver.com 검색결과는 SPA 라 DOM 에서 직접 탐색.
-    // 결과 카드는 보통 a[href*="/place/"] 로 표현됨.
+    // 2) 첫 결과 place_id 추출. /photo 페이지가 아닌 직접 /place/<id> URL 선호.
+    // 영문 query 의 경우 첫 결과가 false-match (예: "ID Hospital" → "연세아이디의원") 일 수 있어
+    // 동일 place_id 가 2회 이상 반복되는 것을 우선 (Naver 가 메인 결과를 중복 노출하는 패턴 활용).
     const firstHref = await page.evaluate(() => {
       const anchors = Array.from(document.querySelectorAll('a[href*="/place/"]')) as HTMLAnchorElement[];
+      const idCount = new Map<string, number>();
+      const idFirstHref = new Map<string, string>();
       for (const a of anchors) {
         const m = a.href.match(/\/place\/(\d+)/);
-        if (m) return a.href;
+        if (!m) continue;
+        const id = m[1];
+        idCount.set(id, (idCount.get(id) || 0) + 1);
+        if (!idFirstHref.has(id) && !a.href.includes("/photo")) idFirstHref.set(id, a.href);
       }
-      return null;
+      if (idCount.size === 0) return null;
+      // 2회 이상 노출된 id 중 가장 빠른 anchor 사용 (메인 결과). 없으면 그냥 첫 id.
+      const sorted = Array.from(idCount.entries()).sort((a, b) => b[1] - a[1]);
+      const winnerId = sorted[0][0];
+      return idFirstHref.get(winnerId) || `https://m.place.naver.com/place/${winnerId}`;
     });
 
     if (!firstHref) {

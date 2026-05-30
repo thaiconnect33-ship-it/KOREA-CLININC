@@ -1,0 +1,148 @@
+{
+  "query": "밴스의원 명동",
+  "generated_at": "2026-05-29T11:44:47.486Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 5595,
+      "extra": {
+        "place_id": "1632298593",
+        "name": "밴스의원 명동 : 네이버\u001c",
+        "visitor_review_count": 1497,
+        "blog_review_count": 4098,
+        "detail_url": "https://m.place.naver.com/place/1632298593/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Results",
+        "rating": 4.3,
+        "total_reviews": 0,
+        "sample_size": 9,
+        "foreign_language_reviews": 9,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 9
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 1095671,
+        "foreign_video_count": 12,
+        "lang_breakdown": {
+          "korean": 8,
+          "thai": 0,
+          "chinese": 1,
+          "japanese": 0,
+          "english_other": 11
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "[Half-Half Treatment] Hair Removal Device Comparison: A-Tone vs. GentleMax Pro Plus at VandS Clinic",
+            "channel": "VandS Clinic Global",
+            "url": "https://www.youtube.com/watch?v=g2ItFXVqzgA&pp=ygUZ67C07Iqk7J2Y7JuQIOuqheuPmSBLb3JlYQ%3D%3D",
+            "view_text": "149 views"
+          },
+          {
+            "title": "[Head Doctor Treatment] ONDA Lifting Review – Does It Really Work?",
+            "channel": "VandS Clinic Global",
+            "url": "https://www.youtube.com/watch?v=0N87-hdRI_w&pp=ygUZ67C07Iqk7J2Y7JuQIOuqheuPmSBLb3JlYQ%3D%3D",
+            "view_text": "1.2K views"
+          },
+          {
+            "title": "[Head Doctor Treatment] Ear Filler at VandS Clinic",
+            "channel": "VandS Clinic Global",
+            "url": "https://www.youtube.com/watch?v=E8dxWUZD_QA&pp=ygUZ67C07Iqk7J2Y7JuQIOuqheuPmSBLb3JlYQ%3D%3D",
+            "view_text": "287 views"
+          },
+          {
+            "title": "✨리니어지 리프팅 효과✨밴스의원 신사점 원장님이 직접 보여준다! PD가 놀란 이유는?!😮(반반시술 비교, 시술후기, 통증)",
+            "channel": "밴스의원 VandS Clinic",
+            "url": "https://www.youtube.com/watch?v=QybAyMWD1eI&pp=ygUZ67C07Iqk7J2Y7JuQIOuqheuPmSBLb3JlYQ%3D%3D",
+            "view_text": "10K views"
+          },
+          {
+            "title": "[Head Doctor Treatment] Lip Rejuran: The Secret to Naturally Plump & Youthful Lips!",
+            "channel": "VandS Clinic Global",
+            "url": "https://www.youtube.com/watch?v=J2VHcM7VmGY&pp=ygUZ67C07Iqk7J2Y7JuQIOuqheuPmSBLb3JlYQ%3D%3D",
+            "view_text": "467 views"
+          },
+          {
+            "title": "🔥피부과 전문의 원장님이 직접 말하는 #젠틀맥스프로플러스 A-Z🔥｜동탄피부과",
+            "channel": "밴스의원 VandS Clinic",
+            "url": "https://www.youtube.com/watch?v=kbEaRT3Y8Hs&pp=ygUZ67C07Iqk7J2Y7JuQIOuqheuPmSBLb3JlYQ%3D%3D",
+            "view_text": "703 views"
+          },
+          {
+            "title": "[Caption News] \"I don't think Vance knew about this either,\" Rep. Lee said, making a surprising c...",
+            "channel": "OBS뉴스",
+            "url": "https://www.youtube.com/watch?v=vqhMeCE-oSk&pp=ygUZ67C07Iqk7J2Y7JuQIOuqheuPmSBLb3JlYQ%3D%3D",
+            "view_text": "1K views"
+          },
+          {
+            "title": "First time in Korean clinic 🇰🇷 vands clinic Seoul 💉 korean cosmetology 🩹 potenza",
+            "channel": "Ksenia Kot",
+            "url": "https://www.youtube.com/watch?v=N-OZSbMWtFY&pp=ygUZ67C07Iqk7J2Y7JuQIOuqheuPmSBLb3JlYQ%3D%3D",
+            "view_text": "498 views"
+          },
+          {
+            "title": "📢모발이식?ㄴㄴ 요즘은 SMP🔥 SMP시술로 헤어라인 교정받으세요!!✨ 시술 2회차만에..???",
+            "channel": "밴스의원 VandS Clinic",
+            "url": "https://www.youtube.com/watch?v=jfqzfHQK8zM&pp=ygUZ67C07Iqk7J2Y7JuQIOuqheuPmSBLb3JlYQ%3D%3D",
+            "view_text": "6K views"
+          },
+          {
+            "title": "\"원장님께서 별세하셨기에\"…유명 피부과 '피해자 속출' / SBS 8뉴스",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=-3uLsD3sWGU&pp=ygUZ67C07Iqk7J2Y7JuQIOuqheuPmSBLb3JlYQ%3D%3D",
+            "view_text": "924K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 14,
+  "opportunity_cost_thb": 89500,
+  "opportunity_cost_krw": 3580000
+}

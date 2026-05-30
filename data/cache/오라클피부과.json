@@ -1,6 +1,6 @@
 {
   "query": "오라클피부과",
-  "generated_at": "2026-05-29T05:49:45.685Z",
+  "generated_at": "2026-05-29T10:16:07.177Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -47,14 +47,14 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 11926,
-        "foreign_video_count": 19,
+        "total_views": 12799,
+        "foreign_video_count": 18,
         "lang_breakdown": {
-          "korean": 1,
+          "korean": 2,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
-          "english_other": 19
+          "english_other": 18
         },
         "sample_size": 20,
         "top_videos": [
@@ -77,22 +77,10 @@
             "view_text": "4.3K views"
           },
           {
-            "title": "Fat Transplantation in South Korea with Cheongdam Oracle Clinic",
-            "channel": "Oracle Clinic Cheongdam",
-            "url": "https://www.youtube.com/watch?v=sF9DbzydCFk&pp=ygUfT3JhY2xlIERlcm1hdG9sb2d5IENsaW5pYyBLb3JlYQ%3D%3D",
-            "view_text": "57 views"
-          },
-          {
-            "title": "Acne Scar Laser Treatment - Dermatology clinic in Korea",
-            "channel": "Oracle Clinic Cheongdam",
-            "url": "https://www.youtube.com/watch?v=fWjHXCdfZ0c&pp=ygUfT3JhY2xlIERlcm1hdG9sb2d5IENsaW5pYyBLb3JlYQ%3D%3D",
-            "view_text": "174 views"
-          },
-          {
-            "title": "[Oracle Clinic Chungdam] Chin Botox 2",
-            "channel": "Oracle Clinic Cheongdam",
-            "url": "https://www.youtube.com/watch?v=mJv54adOm5M&pp=ygUfT3JhY2xlIERlcm1hdG9sb2d5IENsaW5pYyBLb3JlYQ%3D%3D",
-            "view_text": "21 views"
+            "title": "My First Skin Care Treatment Experience in Korea | Oracle Clinic",
+            "channel": "LetsGoBJones",
+            "url": "https://www.youtube.com/watch?v=6M-hHuW6GSc&pp=ygUfT3JhY2xlIERlcm1hdG9sb2d5IENsaW5pYyBLb3JlYQ%3D%3D",
+            "view_text": "1.4K views"
           },
           {
             "title": "[Oracle Clinic Chungdam] Wanghong Visit",
@@ -101,22 +89,34 @@
             "view_text": "176 views"
           },
           {
-            "title": "My First Skin Care Treatment Experience in Korea | Oracle Clinic",
-            "channel": "LetsGoBJones",
-            "url": "https://www.youtube.com/watch?v=6M-hHuW6GSc&pp=ygUfT3JhY2xlIERlcm1hdG9sb2d5IENsaW5pYyBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
-            "view_text": "1.4K views"
-          },
-          {
             "title": "Oracle Cheongdam Clinic, Beauty and Medical, Seoul",
             "channel": "My Destination Video HQ",
             "url": "https://www.youtube.com/watch?v=hmcC4QcrOB0&pp=ygUfT3JhY2xlIERlcm1hdG9sb2d5IENsaW5pYyBLb3JlYQ%3D%3D",
             "view_text": "1K views"
           },
           {
-            "title": "🏥 Top-Rated Dermatology Clinics in Seoul 2026 🌏",
-            "channel": "KOREA MED TOUR",
-            "url": "https://www.youtube.com/watch?v=alLIuYvmOVc&pp=ygUfT3JhY2xlIERlcm1hdG9sb2d5IENsaW5pYyBLb3JlYQ%3D%3D",
-            "view_text": "21 views"
+            "title": "Oracle Dermatology Clinic Cheongdam branch, where answers all your skin concerns!",
+            "channel": "Dr Oracle (청담오라클피부과)",
+            "url": "https://www.youtube.com/watch?v=RP7TiwIcMR0&pp=ygUfT3JhY2xlIERlcm1hdG9sb2d5IENsaW5pYyBLb3JlYQ%3D%3D",
+            "view_text": "1.1K views"
+          },
+          {
+            "title": "Acne Scar Laser Treatment - Dermatology clinic in Korea",
+            "channel": "Oracle Clinic Cheongdam",
+            "url": "https://www.youtube.com/watch?v=fWjHXCdfZ0c&pp=ygUfT3JhY2xlIERlcm1hdG9sb2d5IENsaW5pYyBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "174 views"
+          },
+          {
+            "title": "[Oracle Clinic Chungdam] Dermatology Seminar",
+            "channel": "Oracle Clinic Cheongdam",
+            "url": "https://www.youtube.com/watch?v=aY6i4nUqN4I&pp=ygUfT3JhY2xlIERlcm1hdG9sb2d5IENsaW5pYyBLb3JlYQ%3D%3D",
+            "view_text": "46 views"
+          },
+          {
+            "title": "[Oracle Clinic Chungdam] Secret Laser",
+            "channel": "Oracle Clinic Cheongdam",
+            "url": "https://www.youtube.com/watch?v=ggHVmUEkok8&pp=ygUfT3JhY2xlIERlcm1hdG9sb2d5IENsaW5pYyBLb3JlYQ%3D%3D",
+            "view_text": "196 views"
           }
         ]
       }
@@ -142,7 +142,7 @@
       }
     }
   },
-  "global_score": 18,
-  "opportunity_cost_thb": 87500,
-  "opportunity_cost_krw": 3500000
+  "global_score": 17,
+  "opportunity_cost_thb": 88000,
+  "opportunity_cost_krw": 3520000
 }

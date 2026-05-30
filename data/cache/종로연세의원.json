@@ -1,33 +1,35 @@
 {
   "query": "종로연세의원",
-  "generated_at": "2026-05-28T23:39:54.797Z",
+  "generated_at": "2026-05-29T12:24:32.821Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 2248,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "32294461",
+        "name": "종로연세의원 : 네이버\u001c",
+        "visitor_review_count": 868,
+        "blog_review_count": 1380,
+        "detail_url": "https://m.place.naver.com/place/32294461/home"
       }
     },
     "google_maps": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 14,
       "extra": {
-        "name": "JONGROYONSEI MEDICAL CLINIC",
+        "name": "Results",
         "rating": 5,
-        "total_reviews": 0,
-        "sample_size": 0,
-        "foreign_language_reviews": 0,
+        "total_reviews": 14,
+        "sample_size": 8,
+        "foreign_language_reviews": 8,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 0
+          "english_other": 8
         }
       }
     },
@@ -45,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 2188207,
+        "total_views": 10307,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -57,64 +59,64 @@
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "좋은 피부과 찾는 법?? 이것만 기억하세요! (피부과 전문의)",
-            "channel": "피부고민상담소  신촌연세스타피부과",
-            "url": "https://www.youtube.com/watch?v=pxZPl_YACUA&pp=ygUn7KKF66Gc7Jew7IS47J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "49K views"
+            "title": "종로연세의원 이규원 대표원장 전인적치료 메시지",
+            "channel": "jongro yonsei",
+            "url": "https://www.youtube.com/watch?v=eXw1zpNnWVs&pp=ygUY7KKF66Gc7Jew7IS47J2Y7JuQIEtvcmVh",
+            "view_text": "245"
           },
           {
-            "title": "주사피부염, 안면홍조, 장미증 - 얼굴이 붉어지고 염증이 발생하는 질환 치료는 이렇게 / 연세에이앤비 피부과 이해진 원장",
-            "channel": "이해진의황금피부",
-            "url": "https://www.youtube.com/watch?v=03CnU9FQiEk&pp=ygUn7KKF66Gc7Jew7IS47J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "93K views"
+            "title": "종로연세의원 목주름필러 (feat. 이규원MD) Neck wrinkles with HA Filler",
+            "channel": "jongro yonsei",
+            "url": "https://www.youtube.com/watch?v=e6Hn0nib4CI&pp=ygUY7KKF66Gc7Jew7IS47J2Y7JuQIEtvcmVh",
+            "view_text": "169"
           },
           {
-            "title": "(eng) 건선 때문에 힘들다면 확인하세요 | 피부과 조성진 교수 If you are suffering from psoriasis, please get it checked out",
-            "channel": "서울대병원tv",
-            "url": "https://www.youtube.com/watch?v=i1LxQqhMHUA&pp=ygUn7KKF66Gc7Jew7IS47J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "42K views"
+            "title": "종로연세피부과 지니어스리프팅 소개 1편",
+            "channel": "jongro yonsei",
+            "url": "https://www.youtube.com/watch?v=jZbJ7CGmCwM&pp=ygUY7KKF66Gc7Jew7IS47J2Y7JuQIEtvcmVh",
+            "view_text": "2K"
           },
           {
-            "title": "얼굴홍조, 붉음증 치료에 피부과전문의가 자세히 설명합니다.",
-            "channel": "닥터펠프스 피부과전문의",
-            "url": "https://www.youtube.com/watch?v=CX58wykK9YI&pp=ygUn7KKF66Gc7Jew7IS47J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "32K views"
+            "title": "모든 질병을 치료하는 1차 진료기관 종로연세의원",
+            "channel": "jongro yonsei",
+            "url": "https://www.youtube.com/watch?v=Zb6K0MEvnk4&pp=ygUY7KKF66Gc7Jew7IS47J2Y7JuQIEtvcmVh",
+            "view_text": "395"
           },
           {
-            "title": "붉어진 나의 홍조 | 원인은 피부장벽이 무너져서라구요? | 피부과전문의가 말하는 홍조관리법 |",
-            "channel": "이해진의황금피부",
-            "url": "https://www.youtube.com/watch?v=n6ZO_9Zx9IQ&pp=ygUn7KKF66Gc7Jew7IS47J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "36K views"
+            "title": "전인적 치료의 중심, 종로연세의원 30초 광고 with 한동균 배우님",
+            "channel": "jongro yonsei",
+            "url": "https://www.youtube.com/watch?v=lRkuBCjnmXY&pp=ygUY7KKF66Gc7Jew7IS47J2Y7JuQIEtvcmVh",
+            "view_text": "83"
           },
           {
-            "title": "스티바 단종!! 그 대안은? 동안피부 진짜 방법 / 연세리앤피부과 이세원",
-            "channel": "의학채널 비온뒤",
-            "url": "https://www.youtube.com/watch?v=zdSc8oEhlCs&pp=ygUn7KKF66Gc7Jew7IS47J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "33K views"
+            "title": "종로연세의원 이규원원장 위고비 직접 맞아봤습니다 with 박기문원장",
+            "channel": "jongro yonsei",
+            "url": "https://www.youtube.com/watch?v=el4c7g6PacM&pp=ygUY7KKF66Gc7Jew7IS47J2Y7JuQIEtvcmVh",
+            "view_text": "1K"
           },
           {
-            "title": "[어서함쇼] '여드름 특집 고민 타파' (함익병피부과의원 함익병)",
-            "channel": "의학채널 비온뒤",
-            "url": "https://www.youtube.com/watch?v=6UGXYLDR-0k&pp=ygUn7KKF66Gc7Jew7IS47J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "65K views"
+            "title": "탈모치료 중심 종로연세의원 #shorts",
+            "channel": "jongro yonsei",
+            "url": "https://www.youtube.com/watch?v=BgafYDn4xhQ&pp=ygUY7KKF66Gc7Jew7IS47J2Y7JuQIEtvcmVh",
+            "view_text": "55"
           },
           {
-            "title": "안면홍조 없애는법! - 예방과 레이저 치료! [피부과전문의 피부심]",
-            "channel": "피부심 심현철",
-            "url": "https://www.youtube.com/watch?v=imeyynECRlc&pp=ygUn7KKF66Gc7Jew7IS47J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "27K views"
+            "title": "짠맛홀릭 분들 주목! 종로연세의원 x 소문난건강법 #shorts",
+            "channel": "jongro yonsei",
+            "url": "https://www.youtube.com/watch?v=Im_RqrEmupY&pp=ygUY7KKF66Gc7Jew7IS47J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "49"
           },
           {
-            "title": "피부질환을 피부과에서 치료하여도 잘 낫지 않는 이유는?/ 나헌식한의원 (02 538 7770 ) 대표원장  한의학박사 나헌식",
-            "channel": "나헌식TV",
-            "url": "https://www.youtube.com/watch?v=fpuw0f0xNfA&pp=ygUn7KKF66Gc7Jew7IS47J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "5.5K views"
+            "title": "#shorts 레몬즙 종로연세의원",
+            "channel": "jongro yonsei",
+            "url": "https://www.youtube.com/watch?v=2JJHMj0jjnU&pp=ygUY7KKF66Gc7Jew7IS47J2Y7JuQIEtvcmVh",
+            "view_text": "24"
           },
           {
-            "title": "잡티? 기미? 치료, 개선방법 알려드려요!｜합정 피부과",
-            "channel": "홍대 뷰티스닥터 (Beautysdoctors)",
-            "url": "https://www.youtube.com/watch?v=KzBRo9EIDf4&pp=ygUn7KKF66Gc7Jew7IS47J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "1K views"
+            "title": "유산균 종로연세의원 이규원원장 #shorts",
+            "channel": "jongro yonsei",
+            "url": "https://www.youtube.com/watch?v=j0GCSHQytHY&pp=ygUY7KKF66Gc7Jew7IS47J2Y7JuQIEtvcmVh",
+            "view_text": "66"
           }
         ]
       }
@@ -130,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 0,
-  "opportunity_cost_thb": 100000,
-  "opportunity_cost_krw": 4000000
+  "global_score": 4,
+  "opportunity_cost_thb": 96000,
+  "opportunity_cost_krw": 3840000
 }

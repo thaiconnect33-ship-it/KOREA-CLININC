@@ -1,17 +1,17 @@
 {
   "query": "리엔장성형외과",
-  "generated_at": "2026-05-29T05:43:21.962Z",
+  "generated_at": "2026-05-29T10:09:24.332Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 3292,
+      "metric_value": 3294,
       "extra": {
         "place_id": "1575813064",
         "name": "리엔장성형외과의원 : 네이버\u001c",
         "visitor_review_count": 1834,
-        "blog_review_count": 1458,
+        "blog_review_count": 1460,
         "detail_url": "https://m.place.naver.com/place/1575813064/home"
       }
     },
@@ -42,55 +42,55 @@
           {
             "title": "Botox Lienjang ทำไมราคาถูกจัง",
             "url": "https://pantip.com/topic/42798855",
-            "views": 0
+            "views": 1042498
           },
           {
             "title": "lienjang ลีเอนจาง ฉีดfillerใต้ตาหน้าแก้มกะหมออะไรดีคะ ระหว่างหมอหมูกะหมอเปรียว",
             "url": "https://pantip.com/topic/41364353",
-            "views": 0
+            "views": 6190979
           },
           {
             "title": "ใครเคยทำLifteraที่คลินิกLienjang Thailandบ้างคะ ต่างจากhifu และ ulthera ยังไงคะ",
             "url": "https://pantip.com/topic/40971511",
-            "views": 0
+            "views": 6411374
           },
           {
             "title": "ใครเคยฉีดโบท็อกลดกรามที่ Lienjang บ้างคะ",
             "url": "https://pantip.com/topic/40040751",
-            "views": 0
+            "views": 5514725
           },
           {
             "title": "ฉีดหน้าเรียว K-VLine ที่ Lienjang Clinic ขอถามประสบการณ์คนที่เคยฉีดหน่อยค่าว่าเป็นยังไงบ้าง ได้ผลรึป่าวคะ",
             "url": "https://pantip.com/topic/38985367",
-            "views": 0
+            "views": 2061059
           },
           {
             "title": "มีมใครเคยไปฉีดmeso หรือกระชับใบหน้าที่lienjang ตรงสยามซ.5บ้างมั้ยคะ อยากฟังรีวิวค่ะ",
             "url": "https://pantip.com/topic/38584712",
-            "views": 0
+            "views": 4614661
           },
           {
             "title": "อยากปากอิ่มๆเหมือนฝรั่งต้องทำยังไงคะ",
             "url": "https://pantip.com/topic/38363494",
-            "views": 0
+            "views": 3329562
           },
           {
             "title": "มีใครเคยฉีด MESO FAT หรือ V-LINE บ้างแล้วคะ!!",
             "url": "https://pantip.com/topic/37983120",
-            "views": 0
+            "views": 4682974
           },
           {
             "title": "ใครเคยฉีดโบท็อลดริ้วรอยบ้างคะ ช่วยแนะนำหน่อยคะ",
             "url": "https://pantip.com/topic/36378303",
-            "views": 0
+            "views": 60
           },
           {
             "title": "++Review Filler เสริมจมูกแบบเกาหลี๊..เกาหลี ที่คลินิค Lienjang ณ กังนัม",
             "url": "https://pantip.com/topic/35875136",
-            "views": 0
+            "views": 2737760
           }
         ],
-        "total_views": 0
+        "total_views": 36585652
       }
     },
     "youtube": {
@@ -98,7 +98,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 3856731,
+        "total_views": 2156992,
         "foreign_video_count": 20,
         "lang_breakdown": {
           "korean": 0,
@@ -128,16 +128,16 @@
             "view_text": "161 views"
           },
           {
-            "title": "ทัวร์โรงพยาบาล Lienjang คลินิกทำผิวที่ใหญ่ที่สุดของเกาหลี | Beauty Surgery",
-            "channel": "Beauty Surgery",
-            "url": "https://www.youtube.com/watch?v=ypE3uCwnIDI&pp=ygUOTGllbmphbmcgS29yZWE%3D",
-            "view_text": "4.4K views"
-          },
-          {
             "title": "I tried the New Korean \"Goddess\" Skin Treatment",
             "channel": "Tina Yong",
             "url": "https://www.youtube.com/watch?v=kyU5-ghlVdQ&pp=ygUOTGllbmphbmcgS29yZWE%3D",
             "view_text": "1.5M views"
+          },
+          {
+            "title": "งานปรึกษาศัลยกรรมเกาหลี lienjang korea consult in bangkok",
+            "channel": "Lienjang ลีเอนจาง สาขาเกาหลี",
+            "url": "https://www.youtube.com/watch?v=ytuTys_A4v4&pp=ygUOTGllbmphbmcgS29yZWE%3D",
+            "view_text": "191K views"
           },
           {
             "title": "TOP 5 Cosmetic Procedures in Korea: What’s Worth Trying?",
@@ -148,26 +148,26 @@
           {
             "title": "I tried $8000 SKIN TREATMENTS in KOREA! 👀 *I’ve got thoughts...*",
             "channel": "Beauty Within",
-            "url": "https://www.youtube.com/watch?v=EyQTc8y0lO4&pp=ygUOTGllbmphbmcgS29yZWE%3D",
+            "url": "https://www.youtube.com/watch?v=EyQTc8y0lO4&pp=ygUOTGllbmphbmcgS29yZWHSBwkJIwsBhyohjO8%3D",
             "view_text": "197K views"
-          },
-          {
-            "title": "*BEST* Korean skin treatments in 2025!! (ft. rejuran, pico, fat dissolving treatments, etc!)",
-            "channel": "Jooshica",
-            "url": "https://www.youtube.com/watch?v=ISExL3UPZu0&pp=ygUOTGllbmphbmcgS29yZWE%3D",
-            "view_text": "48K views"
-          },
-          {
-            "title": "💉 I Tried Facial Treatments in Seoul! | Lienjang Clinic Hongdae Experience 🇰🇷| Inmode Fx| Botox",
-            "channel": "Pawneko Travels by Pawsitively Neko",
-            "url": "https://www.youtube.com/watch?v=Rj-IYp-q0-w&pp=ygUOTGllbmphbmcgS29yZWE%3D",
-            "view_text": "5.1K views"
           },
           {
             "title": "Came to Korea for Veneers 🇰🇷 | Full Process + Q&A",
             "channel": "Lienjang Plastic Surgery & Dermatology",
-            "url": "https://www.youtube.com/watch?v=U1IfPgDclko&pp=ygUOTGllbmphbmcgS29yZWE%3D",
+            "url": "https://www.youtube.com/watch?v=U1IfPgDclko&pp=ygUOTGllbmphbmcgS29yZWHSBwkJIwsBhyohjO8%3D",
             "view_text": "61 views"
+          },
+          {
+            "title": "LIENJANG Cosmetics, Introduction of Products",
+            "channel": "lienjang_cosmetics",
+            "url": "https://www.youtube.com/watch?v=7fMojF2RyFo&pp=ygUOTGllbmphbmcgS29yZWE%3D",
+            "view_text": "138 views"
+          },
+          {
+            "title": "ทัวร์โรงพยาบาล Lienjang คลินิกทำผิวที่ใหญ่ที่สุดของเกาหลี | Beauty Surgery",
+            "channel": "Beauty Surgery",
+            "url": "https://www.youtube.com/watch?v=ypE3uCwnIDI&pp=ygUOTGllbmphbmcgS29yZWE%3D",
+            "view_text": "4.4K views"
           }
         ]
       }

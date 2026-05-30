@@ -1,0 +1,148 @@
+{
+  "query": "리엔장의원 홍대",
+  "generated_at": "2026-05-29T11:21:19.272Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 2464,
+      "extra": {
+        "place_id": "1994979660",
+        "name": "리엔장의원 홍대 : 네이버\u001c",
+        "visitor_review_count": 2278,
+        "blog_review_count": 186,
+        "detail_url": "https://m.place.naver.com/place/1994979660/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Lienjang Hongdae Branch",
+        "rating": 4.9,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 13,
+      "extra": {
+        "total_views": 93307,
+        "foreign_video_count": 10,
+        "lang_breakdown": {
+          "korean": 3,
+          "thai": 0,
+          "chinese": 1,
+          "japanese": 0,
+          "english_other": 9
+        },
+        "sample_size": 13,
+        "top_videos": [
+          {
+            "title": "워킹맘이 1인치 주사 맞고 6주 후 생긴 일ㅣ홍대 리엔장 다이어트 주사 솔직 후기",
+            "channel": "리엔장 Lienjang Clinic",
+            "url": "https://www.youtube.com/watch?v=OzkBzwTTQC4&pp=ygUc66as7JeU7J6l7J2Y7JuQIO2ZjeuMgCBLb3JlYQ%3D%3D",
+            "view_text": "81 views"
+          },
+          {
+            "title": "책임지고 몸매 리셋! 홍대 리엔장의 책임 다이어트 프로젝트 - 메인 예고편💕",
+            "channel": "리엔장 Lienjang Clinic",
+            "url": "https://www.youtube.com/watch?v=Gm4TKwGGrb8&pp=ygUc66as7JeU7J6l7J2Y7JuQIO2ZjeuMgCBLb3JlYQ%3D%3D",
+            "view_text": "323 views"
+          },
+          {
+            "title": "My first time doing $250 Microderm in Korea | Skincare",
+            "channel": "Jenny Tso",
+            "url": "https://www.youtube.com/watch?v=9PaD20MYfXk&pp=ygUc66as7JeU7J6l7J2Y7JuQIO2ZjeuMgCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "315 views"
+          },
+          {
+            "title": "Seoul Final Vlog : Skin Treatments and Comfort Food!",
+            "channel": "Pawneko Travels by Pawsitively Neko",
+            "url": "https://www.youtube.com/watch?v=GXiFubrAik4&pp=ygUc66as7JeU7J6l7J2Y7JuQIO2ZjeuMgCBLb3JlYQ%3D%3D",
+            "view_text": "138 views"
+          },
+          {
+            "title": "💉 I Tried Facial Treatments in Seoul! | Lienjang Clinic Hongdae Experience 🇰🇷| Inmode Fx| Botox",
+            "channel": "Pawneko Travels by Pawsitively Neko",
+            "url": "https://www.youtube.com/watch?v=Rj-IYp-q0-w&pp=ygUc66as7JeU7J6l7J2Y7JuQIO2ZjeuMgCBLb3JlYQ%3D%3D",
+            "view_text": "5.1K views"
+          },
+          {
+            "title": "I did 5 skin Korean treatments at once(ENG مترجم)عملت ٥ علاجات كورية للبشرة بجلسة واحدة",
+            "channel": "LinaHassan",
+            "url": "https://www.youtube.com/watch?v=GWJBuunEcLg&pp=ygUc66as7JeU7J6l7J2Y7JuQIO2ZjeuMgCBLb3JlYQ%3D%3D",
+            "view_text": "27K views"
+          },
+          {
+            "title": "I did 5 skin Korean treatments at onceENG مترجمعملت ٥ علاجات كورية للبشرة بجلسة واحدة 1080p",
+            "channel": "Lienjang Plastic Surgery & Dermatology",
+            "url": "https://www.youtube.com/watch?v=Npo1GFSKtAM&pp=ygUc66as7JeU7J6l7J2Y7JuQIO2ZjeuMgCBLb3JlYQ%3D%3D",
+            "view_text": "1.4K views"
+          },
+          {
+            "title": "2022 10 01 Lienjang K beauty   fillers 5 zones and Botox, English",
+            "channel": "Gmy Sld",
+            "url": "https://www.youtube.com/watch?v=DVmWoz9yD0E&pp=ygUc66as7JeU7J6l7J2Y7JuQIO2ZjeuMgCBLb3JlYQ%3D%3D",
+            "view_text": "261 views"
+          },
+          {
+            "title": "Korea changed my skin foreverكوريا غيرت بشرتي للابد/رحلتي الطويلة",
+            "channel": "LinaHassan",
+            "url": "https://www.youtube.com/watch?v=dHryaEtgpjM&pp=ygUc66as7JeU7J6l7J2Y7JuQIO2ZjeuMgCBLb3JlYQ%3D%3D",
+            "view_text": "41K views"
+          },
+          {
+            "title": "생방송투데이 1808회_홍대리엔장 조재환원장",
+            "channel": "ju m",
+            "url": "https://www.youtube.com/watch?v=v6v1C7zghWs&pp=ygUc66as7JeU7J6l7J2Y7JuQIO2ZjeuMgCBLb3JlYQ%3D%3D",
+            "view_text": "337 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 8,
+  "opportunity_cost_thb": 105000,
+  "opportunity_cost_krw": 4200000
+}

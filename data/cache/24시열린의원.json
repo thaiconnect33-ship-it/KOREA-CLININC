@@ -1,18 +1,18 @@
 {
   "query": "24시열린의원",
-  "generated_at": "2026-05-28T23:30:40.363Z",
+  "generated_at": "2026-05-29T12:13:17.768Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 713,
+      "metric_value": 838,
       "extra": {
-        "place_id": "1072080611",
+        "place_id": "35559588",
         "name": "24시열린의원 : 네이버\u001c",
-        "visitor_review_count": 646,
-        "blog_review_count": 67,
-        "detail_url": "https://m.place.naver.com/place/1072080611/home"
+        "visitor_review_count": 762,
+        "blog_review_count": 76,
+        "detail_url": "https://m.place.naver.com/place/35559588/home"
       }
     },
     "google_maps": {
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 185214,
+        "total_views": 134692,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -59,64 +59,64 @@
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "[김성완의 시사야] 인더뷰｜소아과 의사들 진료과목 전환 움직임 본격화, '오픈런'보다 더한 진료대란 오나?｜임현택 대한소아청소년과회장｜KBS 230509 방송",
-            "channel": "KBS 1라디오",
-            "url": "https://www.youtube.com/watch?v=xofw9TacvDg&pp=ygUdMjTsi5zsl7TrprDsnZjsm5DrgrTqs7wgS29yZWE%3D",
-            "view_text": "794 views"
-          },
-          {
-            "title": "위기의 소아과, 난리난 지방병원...의료 공백 막을 해법? [뉴스in뉴스]   / KBS  2023.04.05.",
+            "title": "24시간 불 켜진 소아 응급실…직접 지원이 해법? / KBS  2023.04.22.",
             "channel": "KBS News",
-            "url": "https://www.youtube.com/watch?v=Maomv1Dp3VA&pp=ygUdMjTsi5zsl7TrprDsnZjsm5DrgrTqs7wgS29yZWE%3D",
-            "view_text": "2.4K views"
+            "url": "https://www.youtube.com/watch?v=Hwj5NQD3PsQ&pp=ygUXMjTsi5zsl7TrprDsnZjsm5AgS29yZWE%3D",
+            "view_text": "2.6K"
           },
           {
-            "title": "[열린K] 벼랑 끝 의료 현장…지역 소아과 의사의 이야기를 듣다 / KBS  2023.10.23.",
-            "channel": "KBS뉴스 전북",
-            "url": "https://www.youtube.com/watch?v=Bf_MAukn-UE&pp=ygUdMjTsi5zsl7TrprDsnZjsm5DrgrTqs7wgS29yZWHSBwkJIwsBhyohjO8%3D",
-            "view_text": "1.2K views"
-          },
-          {
-            "title": "[KBS 열린토론] 코로나19 재유행 국면, 시험대에 선 '과학방역' | KBS 220720 방송",
-            "channel": "KBS 1라디오",
-            "url": "https://www.youtube.com/watch?v=kONjc3mUxmg&pp=ygUdMjTsi5zsl7TrprDsnZjsm5DrgrTqs7wgS29yZWE%3D",
-            "view_text": "4.5K views"
-          },
-          {
-            "title": "의료연대 2차 파업…일부 병의원 단축 진료 · 휴진 / SBS",
-            "channel": "SBS 뉴스",
-            "url": "https://www.youtube.com/watch?v=Anpvc_RLNrc&pp=ygUdMjTsi5zsl7TrprDsnZjsm5DrgrTqs7wgS29yZWE%3D",
-            "view_text": "670 views"
-          },
-          {
-            "title": "\"소아과 탈출하자\"…살길 찾아 보톡스 강연 몰리는 의사들 / SBS / 뉴블더",
-            "channel": "SBS 뉴스",
-            "url": "https://www.youtube.com/watch?v=qp3aJq4Ja2k&pp=ygUdMjTsi5zsl7TrprDsnZjsm5DrgrTqs7wgS29yZWE%3D",
-            "view_text": "4.6K views"
-          },
-          {
-            "title": "[KBS 열린토론] 실내마스크 의무 해제, 엔데믹의 시작인가? | KBS 230201 방송",
-            "channel": "KBS 1라디오",
-            "url": "https://www.youtube.com/watch?v=7-nL9_nxX30&pp=ygUdMjTsi5zsl7TrprDsnZjsm5DrgrTqs7wgS29yZWE%3D",
-            "view_text": "1K views"
-          },
-          {
-            "title": "정부, 메르스 환자 접촉 병원 24곳 공개 / YTN",
+            "title": "남북 공동 연락사무소 오늘 개소...\"24시간 협의\" / YTN",
             "channel": "YTN",
-            "url": "https://www.youtube.com/watch?v=IXiJ00hn8fI&pp=ygUdMjTsi5zsl7TrprDsnZjsm5DrgrTqs7wgS29yZWE%3D",
-            "view_text": "108 views"
+            "url": "https://www.youtube.com/watch?v=vWumS0U8YhE&pp=ygUXMjTsi5zsl7TrprDsnZjsm5AgS29yZWE%3D",
+            "view_text": "1.3K"
           },
           {
-            "title": "구음 검무 (  노수연)-한국민족춤제전 2020 ”열린굿-벽사진경”-젊은춤축전",
-            "channel": "한국민족춤협회 TV",
-            "url": "https://www.youtube.com/watch?v=mPrcTs6Pdqo&pp=ygUdMjTsi5zsl7TrprDsnZjsm5DrgrTqs7wgS29yZWE%3D",
-            "view_text": "260 views"
+            "title": "민주당, 필리버스터 오늘 종결 시도...국민의힘, 강력 반발 / YTN",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=rvuADfo0TVE&pp=ygUXMjTsi5zsl7TrprDsnZjsm5AgS29yZWE%3D",
+            "view_text": "19K"
           },
           {
-            "title": "[최경영의 이슈오도독_74회] 백신, 안심하고 맞아도 됩니까 - 의사 출신 전·현직 의원 '백신 토크 배틀'｜KBS 210520 방송",
+            "title": "[이슈인 #5] 박용진 \"오랜만에 열린 본회의…자기 자리 못 찾는 의원 속출\"",
+            "channel": "한겨레TV",
+            "url": "https://www.youtube.com/watch?v=-x0bkfcqYAQ&pp=ygUXMjTsi5zsl7TrprDsnZjsm5AgS29yZWHSBwkJIwsBhyohjO8%3D",
+            "view_text": "2.9K"
+          },
+          {
+            "title": "열린민주당, 비례후보 2번 최강욱·4번 김의겸 | 정치데스크",
+            "channel": "채널A News",
+            "url": "https://www.youtube.com/watch?v=JZaZf5zL4-8&pp=ygUXMjTsi5zsl7TrprDsnZjsm5AgS29yZWE%3D",
+            "view_text": "11K"
+          },
+          {
+            "title": "민주당, \"소모적 정쟁 그만하자\"...국민의힘 강력 반발 / YTN",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=F2xbD2uapS0&pp=ygUXMjTsi5zsl7TrprDsnZjsm5AgS29yZWE%3D",
+            "view_text": "4.4K"
+          },
+          {
+            "title": "[정관용의 시사본부] 거두절미 각설하고 Go! | 추경호 의원, 다음달 2일 구속영장 심사 | KBS 251129",
             "channel": "KBS 1라디오",
-            "url": "https://www.youtube.com/watch?v=0AXpHuwEF-c&pp=ygUdMjTsi5zsl7TrprDsnZjsm5DrgrTqs7wgS29yZWE%3D",
-            "view_text": "18K views"
+            "url": "https://www.youtube.com/watch?v=G3lyMuThgSg&pp=ygUXMjTsi5zsl7TrprDsnZjsm5AgS29yZWE%3D",
+            "view_text": "9.5K"
+          },
+          {
+            "title": "[최경영의 최강시사] 김기현 “의원 정수 줄이자”… 선거제 논의 다시 불붙나 - 조해진 의원 (국민의힘, 국회 정개특위 위원)｜KBS 230621 방송",
+            "channel": "KBS 1라디오",
+            "url": "https://www.youtube.com/watch?v=88NJTLGVvus&pp=ygUXMjTsi5zsl7TrprDsnZjsm5AgS29yZWE%3D",
+            "view_text": "1.2K"
+          },
+          {
+            "title": "무제한 토론도 중단됐다 재개…민주당 ‘강제종결’ 착수 / KBS",
+            "channel": "KBS News",
+            "url": "https://www.youtube.com/watch?v=UY6rPwHAq68&pp=ygUXMjTsi5zsl7TrprDsnZjsm5AgS29yZWE%3D",
+            "view_text": "651"
+          },
+          {
+            "title": "[특집KBS1라디오오늘] 민주당 당내 민주주의 논란에 대한 입장 - 안민석 의원 (더불어민주당)｜KBS 231206 방송",
+            "channel": "KBS 1라디오",
+            "url": "https://www.youtube.com/watch?v=Q8IwpO5hStA&pp=ygUXMjTsi5zsl7TrprDsnZjsm5AgS29yZWE%3D",
+            "view_text": "1.1K"
           }
         ]
       }
@@ -132,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

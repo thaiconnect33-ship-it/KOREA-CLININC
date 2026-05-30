@@ -1,17 +1,17 @@
 {
   "query": "커브라인의원",
-  "generated_at": "2026-05-28T23:08:44.213Z",
+  "generated_at": "2026-05-29T11:48:53.253Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 898,
+      "metric_value": 902,
       "extra": {
         "place_id": "2031699186",
         "name": "커브라인의원 : 네이버\u001c",
-        "visitor_review_count": 254,
-        "blog_review_count": 644,
+        "visitor_review_count": 257,
+        "blog_review_count": 645,
         "detail_url": "https://m.place.naver.com/place/2031699186/home"
       }
     },
@@ -47,76 +47,76 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 3337412,
-        "foreign_video_count": 0,
+        "total_views": 14718969,
+        "foreign_video_count": 2,
         "lang_breakdown": {
-          "korean": 20,
+          "korean": 18,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
-          "english_other": 0
+          "english_other": 2
         },
         "sample_size": 20,
         "top_videos": [
           {
             "title": "복부비만 치료의 시작 코어레비 (아큐커브)",
             "channel": "쁘띠라인 클리닉",
-            "url": "https://www.youtube.com/watch?v=hD1BdkAIZOI&pp=ygUh7Luk67iM65287J247J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=hD1BdkAIZOI&pp=ygUY7Luk67iM65287J247J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
             "view_text": "472 views"
-          },
-          {
-            "title": "대한민국 강남 피부과 원장들이 줄줄이 무너지는 진짜 이유",
-            "channel": "바른경제",
-            "url": "https://www.youtube.com/watch?v=YwtjZmKGy7M&pp=ygUh7Luk67iM65287J247J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "45K views"
-          },
-          {
-            "title": "“비싼 울쎄라, 써마지 받아도 얼굴 다시 처집니다” 요즘 연예인들이 받는 가성비 시술을 20년차 피부과 전문의가 알려드립니다.",
-            "channel": "피부는 성현철",
-            "url": "https://www.youtube.com/watch?v=P-ooK3XIcKM&pp=ygUh7Luk67iM65287J247J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "344K views"
           },
           {
             "title": "건강한 다이어트 치료 코어레비 (아큐커브) HIFEM 치료",
             "channel": "쁘띠라인 클리닉",
-            "url": "https://www.youtube.com/watch?v=K4GtVD1BKds&pp=ygUh7Luk67iM65287J247J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=K4GtVD1BKds&pp=ygUY7Luk67iM65287J247J2Y7JuQIEtvcmVh",
             "view_text": "275 views"
           },
           {
-            "title": "\"원장님께서 별세하셨기에\"…유명 피부과 '피해자 속출' / SBS 8뉴스",
+            "title": "이것만 따라해 보세요! 화제의 100만뷰! 거북목 일자목 교정 영상 Best neck curve correction exercises.",
+            "channel": "Begin Again 강남세란의원 (Seran Clinic)",
+            "url": "https://www.youtube.com/watch?v=jD5EwJncYLw&pp=ygUY7Luk67iM65287J247J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "1.3M views"
+          },
+          {
+            "title": "[자막뉴스] \"눈앞에서 아내를 잃었습니다..\" 온몸으로 막았지만 그대로 '쾅' (2023.03.23/MBC뉴스)",
+            "channel": "MBCNEWS",
+            "url": "https://www.youtube.com/watch?v=MKGVp-ckcXc&pp=ygUY7Luk67iM65287J247J2Y7JuQIEtvcmVh",
+            "view_text": "6.6M views"
+          },
+          {
+            "title": "낮은 미간과 매부리+처진 코끝과 휜코교정으로 완성한 한달 차 여성스러운 무보형물 코성형 케이스, [첫단추 260213]",
+            "channel": "첫단추 코성형클리닉",
+            "url": "https://www.youtube.com/watch?v=2eq53GnPnPA&pp=ygUY7Luk67iM65287J247J2Y7JuQIEtvcmVh",
+            "view_text": "650 views"
+          },
+          {
+            "title": "주차 칸 차지한 오토바이에 입주민 \"이해된다\"…무슨 사연? / SBS / 오클릭",
             "channel": "SBS 뉴스",
-            "url": "https://www.youtube.com/watch?v=-3uLsD3sWGU&pp=ygUh7Luk67iM65287J247J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "924K views"
+            "url": "https://www.youtube.com/watch?v=UyxDmhecy6s&pp=ygUY7Luk67iM65287J247J2Y7JuQIEtvcmVh",
+            "view_text": "5.2M views"
           },
           {
-            "title": "피부과에서 가성비로 받을 수 있는 시술은 바로 이거예요 #피부과시술추천 #피부과 #가성비시술",
-            "channel": "조곤닥터 김명석",
-            "url": "https://www.youtube.com/watch?v=cHzSplD1Gng&pp=ygUh7Luk67iM65287J247J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "373 views"
+            "title": "트럼프, 시진핑, 푸틴 수 싸움! (몰아보기)",
+            "channel": "대륙남TV [Clarktv]",
+            "url": "https://www.youtube.com/watch?v=cQ8R5JzFxXw&pp=ygUY7Luk67iM65287J247J2Y7JuQIEtvcmVh",
+            "view_text": "9.5K views"
           },
           {
-            "title": "만성 두드러기 쉽게 치료하자 / 서울성모병원 피부과 박영민",
-            "channel": "의학채널 비온뒤",
-            "url": "https://www.youtube.com/watch?v=KgL7Sd8thM8&pp=ygUh7Luk67iM65287J247J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "76K views"
+            "title": "심한 화살코, 비염 해결하기! | 코 수술 후 2주차, 3개월, 1년 경과 비교 화살코성형 케이스  (실리콘 + 비중격 연골), [첫단추 251212]",
+            "channel": "첫단추 코성형클리닉",
+            "url": "https://www.youtube.com/watch?v=yNw9Qz5Zx6Q&pp=ygUY7Luk67iM65287J247J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "621 views"
           },
           {
-            "title": "[ENG] 통증없이 날렵한 라인을 만들어주는 온다리프팅 (feat. 피부과 입문 리프팅)",
-            "channel": "더피크의원 (The Peak Clinic)",
-            "url": "https://www.youtube.com/watch?v=E3fgFgymHyU&pp=ygUh7Luk67iM65287J247J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "68K views"
+            "title": "\"뼈 모양이 바뀐다고요?\" 3개월 만에 일자목·거북목 탈출한 실제 X-ray 공개!",
+            "channel": "호랑이신경외과의원",
+            "url": "https://www.youtube.com/watch?v=HNKot_8hRV8&pp=ygUY7Luk67iM65287J247J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "23 views"
           },
           {
-            "title": "팔살빼기, 비만클리닉에서 팔뚝살 빼는 모든 방법",
-            "channel": "닥터소요",
-            "url": "https://www.youtube.com/watch?v=AI-W0_r7MYg&pp=ygUh7Luk67iM65287J247J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "534 views"
-          },
-          {
-            "title": "\"엉터리 정보에 속지마세요.\" 진료과목 피부과 의사가 뽑은 가성비 시술 딱 '3가지'",
-            "channel": "지식인사이드",
-            "url": "https://www.youtube.com/watch?v=a4S4JNnRIXQ&pp=ygUh7Luk67iM65287J247J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "1.7M views"
+            "title": "[통증 싹1분체조] 46. V라인 만드는 턱관절 운동 / 턱라인 / 흉쇄유돌근마사지 / 탄력업 /",
+            "channel": "Begin Again 강남세란의원 (Seran Clinic)",
+            "url": "https://www.youtube.com/watch?v=y1Hx675qPY0&pp=ygUY7Luk67iM65287J247J2Y7JuQIEtvcmVh",
+            "view_text": "4K views"
           }
         ]
       }
@@ -132,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 0,
-  "opportunity_cost_thb": 100000,
-  "opportunity_cost_krw": 4000000
+  "global_score": 2,
+  "opportunity_cost_thb": 99000,
+  "opportunity_cost_krw": 3960000
 }

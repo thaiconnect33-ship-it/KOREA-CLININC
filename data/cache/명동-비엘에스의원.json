@@ -1,17 +1,17 @@
 {
   "query": "명동 비엘에스의원",
-  "generated_at": "2026-05-28T23:07:27.313Z",
+  "generated_at": "2026-05-29T11:47:29.337Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 1327,
+      "metric_value": 1356,
       "extra": {
         "place_id": "2090172149",
         "name": "명동 비엘에스의원 : 네이버\u001c",
-        "visitor_review_count": 168,
-        "blog_review_count": 1159,
+        "visitor_review_count": 172,
+        "blog_review_count": 1184,
         "detail_url": "https://m.place.naver.com/place/2090172149/home"
       }
     },
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 19694,
+        "total_views": 27439,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -61,62 +61,62 @@
           {
             "title": "🚨반전 주의🚨외모는 미스코리아인데 어딘가 엉뚱한 명동 핫플 피부클리닉 원장님 등장~😁",
             "channel": "BLS클리닉",
-            "url": "https://www.youtube.com/watch?v=T6xXzYbEZWY&pp=ygUo66qF64-ZIOu5hOyXmOyXkOyKpOydmOybkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
-            "view_text": "324 views"
+            "url": "https://www.youtube.com/watch?v=T6xXzYbEZWY&pp=ygUf66qF64-ZIOu5hOyXmOyXkOyKpOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "327 views"
           },
           {
             "title": "을지로입구피부과 명동단아의원의 리쥬란힐러",
             "channel": "최민정",
-            "url": "https://www.youtube.com/watch?v=A8Cwl93J-OM&pp=ygUo66qF64-ZIOu5hOyXmOyXkOyKpOydmOybkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "url": "https://www.youtube.com/watch?v=A8Cwl93J-OM&pp=ygUf66qF64-ZIOu5hOyXmOyXkOyKpOydmOybkCBLb3JlYQ%3D%3D",
             "view_text": "999 views"
           },
           {
             "title": "턱보톡스가격 영상 톡스앤필 명동점 명동역 피부과, 보톡스",
             "channel": "정콘TV",
-            "url": "https://www.youtube.com/watch?v=EVLQx4cbSso&pp=ygUo66qF64-ZIOu5hOyXmOyXkOyKpOydmOybkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "url": "https://www.youtube.com/watch?v=EVLQx4cbSso&pp=ygUf66qF64-ZIOu5hOyXmOyXkOyKpOydmOybkCBLb3JlYQ%3D%3D",
             "view_text": "120 views"
           },
           {
-            "title": "예..? 여름에 피부과 시술을 받으시겠다고요? (반전주의)ㅣ타임리스피부과ㅣ5분피부",
-            "channel": "5분피부 - 딱! 5분만 보면 좋아지는 피부",
-            "url": "https://www.youtube.com/watch?v=d6yAqHDgbks&pp=ygUo66qF64-ZIOu5hOyXmOyXkOyKpOydmOybkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
-            "view_text": "1.2K views"
-          },
-          {
-            "title": "강남 피부과서 집단 패혈증세…주사 오염 가능성 / SBS",
-            "channel": "SBS 뉴스",
-            "url": "https://www.youtube.com/watch?v=hIXuJB2DRoQ&pp=ygUo66qF64-ZIOu5hOyXmOyXkOyKpOydmOybkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
-            "view_text": "504 views"
+            "title": "🧡💁‍♀️프리미엘의원 튠페이스 시술 영상보고 가세요👩‍⚕️",
+            "channel": "프리미엘 2TV",
+            "url": "https://www.youtube.com/watch?v=rtUdpRvW_Ro&pp=ygUf66qF64-ZIOu5hOyXmOyXkOyKpOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "971 views"
           },
           {
             "title": "편평사마귀치료, 펜토레이저 vs 기존레이저 다른점은?[명동고운세상]",
             "channel": "고운세상피부과",
-            "url": "https://www.youtube.com/watch?v=Db5uK5AEaTQ&pp=ygUo66qF64-ZIOu5hOyXmOyXkOyKpOydmOybkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "url": "https://www.youtube.com/watch?v=Db5uK5AEaTQ&pp=ygUf66qF64-ZIOu5hOyXmOyXkOyKpOydmOybkCBLb3JlYQ%3D%3D",
             "view_text": "648 views"
           },
           {
             "title": "상황별 스킨부스터💉 총정리😉| 리쥬란, 리제닌, 엑소좀, 물광주사, 연어주사, 아미스킨의원",
             "channel": "아미스킨클리닉",
-            "url": "https://www.youtube.com/watch?v=zYToqptW5BA&pp=ygUo66qF64-ZIOu5hOyXmOyXkOyKpOydmOybkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "url": "https://www.youtube.com/watch?v=zYToqptW5BA&pp=ygUf66qF64-ZIOu5hOyXmOyXkOyKpOydmOybkCBLb3JlYQ%3D%3D",
             "view_text": "320 views"
+          },
+          {
+            "title": "NO통증 NO회복기 #클라리티 #올킬 레이저 추천 | 아미스킨의원",
+            "channel": "아미스킨클리닉",
+            "url": "https://www.youtube.com/watch?v=ax_pT4p-lsY&pp=ygUf66qF64-ZIOu5hOyXmOyXkOyKpOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "647 views"
+          },
+          {
+            "title": "야노시호 Ulthera",
+            "channel": "BLS클리닉",
+            "url": "https://www.youtube.com/watch?v=o-HnY6h9vnQ&pp=ygUf66qF64-ZIOu5hOyXmOyXkOyKpOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "785 views"
           },
           {
             "title": "[라엘르] 전반적인 피부 개선, PDRN연어주사로 경험해보세요!",
             "channel": "라엘르클리닉",
-            "url": "https://www.youtube.com/watch?v=Idfg0sSGSDg&pp=ygUo66qF64-ZIOu5hOyXmOyXkOyKpOydmOybkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "url": "https://www.youtube.com/watch?v=Idfg0sSGSDg&pp=ygUf66qF64-ZIOu5hOyXmOyXkOyKpOydmOybkCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
             "view_text": "1.8K views"
           },
           {
-            "title": "어려운 모공, 눈가주름, 흉터치료가 한번에 가능하다고?#아이너스레이저",
-            "channel": "라엘르클리닉",
-            "url": "https://www.youtube.com/watch?v=NXq3FwdNPy0&pp=ygUo66qF64-ZIOu5hOyXmOyXkOyKpOydmOybkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
-            "view_text": "3.3K views"
-          },
-          {
-            "title": "BLS클리닉-저희 BLS 클리닉은요!",
-            "channel": "BLS클리닉",
-            "url": "https://www.youtube.com/watch?v=tntgTaCHRc8&pp=ygUo66qF64-ZIOu5hOyXmOyXkOyKpOydmOybkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
-            "view_text": "121 views"
+            "title": "강남 피부과서 집단 패혈증세…주사 오염 가능성 / SBS",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=hIXuJB2DRoQ&pp=ygUf66qF64-ZIOu5hOyXmOyXkOyKpOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "504 views"
           }
         ]
       }
@@ -132,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

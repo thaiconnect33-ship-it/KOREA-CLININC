@@ -1,16 +1,16 @@
 {
   "query": "엘레브의원",
-  "generated_at": "2026-05-28T22:37:02.836Z",
+  "generated_at": "2026-05-29T11:15:15.304Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 971,
+      "metric_value": 970,
       "extra": {
         "place_id": "1141647093",
         "name": "엘레브의원 : 네이버\u001c",
-        "visitor_review_count": 658,
+        "visitor_review_count": 657,
         "blog_review_count": 313,
         "detail_url": "https://m.place.naver.com/place/1141647093/home"
       }
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 83200,
+        "total_views": 36105,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -59,64 +59,64 @@
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "청담동 피부과 엘레브의원 X 닥터프렌즈 의사가 알려주는 건강한 다이어트를 위한 비만 치료제 위고비 사용방법! 👨🏻‍💼📺",
+            "title": "청담동 피부과 원장님이 파헤쳐 주는 티타늄리프팅에 대한 통증, 유지기간, 효과에 대한 오해와 궁금증!",
             "channel": "엘레브TV",
-            "url": "https://www.youtube.com/watch?v=fn4Qu6XLods&pp=ygUe7JeY66CI67iM7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=3GhaOo20CWs&pp=ygUV7JeY66CI67iM7J2Y7JuQIEtvcmVh",
             "view_text": "1.4K views"
           },
           {
-            "title": "[엘레브의원] 내 얼굴에 있는 게 기미? 검버섯?  색소 치료의 모든 것! 💡",
+            "title": "울쎄라피 프라임 언박싱 현장! 업그레이드된 울쎄라2 청담 피부과 엘레브의원 울쎄라피 프라임 리프팅의 차이점과 효과는?",
             "channel": "엘레브TV",
-            "url": "https://www.youtube.com/watch?v=CDTxKuoFKfo&pp=ygUe7JeY66CI67iM7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "1.3K views"
+            "url": "https://www.youtube.com/watch?v=PT32bQ5R86A&pp=ygUV7JeY66CI67iM7J2Y7JuQIEtvcmVh",
+            "view_text": "4.9K views"
           },
           {
-            "title": "청담동 피부과 원장님이 파헤쳐 주는 티타늄리프팅에 대한 통증, 유지기간, 효과에 대한 오해와 궁금증!",
+            "title": "안티에이징 중점, 청담 피부과 엘레브의원에서 얼굴살 빼는 3가지 시술! 🙋🏻‍♂️ㅣ#청담피부과 #청담동피부과 #압구정피부과 #인모드 #튠라이너 #지방분해주사 #다이어트 #지방소멸",
             "channel": "엘레브TV",
-            "url": "https://www.youtube.com/watch?v=3GhaOo20CWs&pp=ygUe7JeY66CI67iM7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=zOUm92VD_vE&pp=ygUV7JeY66CI67iM7J2Y7JuQIEtvcmVh",
+            "view_text": "2.5K views"
+          },
+          {
+            "title": "청담동 피부과 엘레브의원 X 닥터프렌즈 의사가 알려주는 건강한 다이어트를 위한 비만 치료제 위고비 사용방법! 👨🏻‍💼📺",
+            "channel": "엘레브TV",
+            "url": "https://www.youtube.com/watch?v=fn4Qu6XLods&pp=ygUV7JeY66CI67iM7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
             "view_text": "1.4K views"
           },
           {
             "title": "[엘레브의원] 효과를 위한 시술에 대표적인 실리프팅! 그 중 스위츠실이란?! 🧐ㅣ실리프팅ㅣ스위츠실ㅣ스위츠내츄럴ㅣ스위츠포커스",
             "channel": "엘레브TV",
-            "url": "https://www.youtube.com/watch?v=TOexijNYzH8&pp=ygUe7JeY66CI67iM7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=TOexijNYzH8&pp=ygUV7JeY66CI67iM7J2Y7JuQIEtvcmVh",
             "view_text": "1.1K views"
           },
           {
-            "title": "안티에이징 중점, 청담 피부과 엘레브의원에서 얼굴살 빼는 3가지 시술! 🙋🏻‍♂️ㅣ#청담피부과 #청담동피부과 #압구정피부과 #인모드 #튠라이너 #지방분해주사 #다이어트 #지방소멸",
+            "title": "[엘레브의원] 내가 과연 보톡스 정보를 정확하게 알고 맞았을까?!ㅣ보톡스 효과, 종류, 용량 총정리! ㅣ 제오민ㅣ코어톡스ㅣ앨러간",
             "channel": "엘레브TV",
-            "url": "https://www.youtube.com/watch?v=zOUm92VD_vE&pp=ygUe7JeY66CI67iM7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "2.5K views"
-          },
-          {
-            "title": "엘레브의원! 얼굴 리프팅에 대한 모든 것! 😎",
-            "channel": "엘레브TV",
-            "url": "https://www.youtube.com/watch?v=49EozjvxHdc&pp=ygUe7JeY66CI67iM7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=EPVuZrE3Fz8&pp=ygUV7JeY66CI67iM7J2Y7JuQIEtvcmVh",
             "view_text": "1.1K views"
-          },
-          {
-            "title": "[엘레브의원] 피부 고민! 나에게 딱 맞는 리프팅 시술은 무엇일까?! 🧐",
-            "channel": "엘레브TV",
-            "url": "https://www.youtube.com/watch?v=PI-IuQr-05c&pp=ygUe7JeY66CI67iM7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "1.2K views"
-          },
-          {
-            "title": "울쎄라피 프라임 언박싱 현장! 업그레이드된 울쎄라2 청담 피부과 엘레브의원 울쎄라피 프라임 리프팅의 차이점과 효과는?",
-            "channel": "엘레브TV",
-            "url": "https://www.youtube.com/watch?v=PT32bQ5R86A&pp=ygUe7JeY66CI67iM7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "4.9K views"
           },
           {
             "title": "청담동피부과 원장님의 얼굴 레이저 리프팅 시술 총정리! 울쎄라, 써마지, 덴서티, 리니어지 등 시술의 모든 것!",
             "channel": "엘레브TV",
-            "url": "https://www.youtube.com/watch?v=VVyL2M1DJP8&pp=ygUe7JeY66CI67iM7J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "url": "https://www.youtube.com/watch?v=VVyL2M1DJP8&pp=ygUV7JeY66CI67iM7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
             "view_text": "1.8K views"
           },
           {
-            "title": "엘레브의원에서 연휴 기간에 맞춰 받을 수 있는 시술이 궁금하신가요?! 😉",
+            "title": "ASLS학회 엘레브 의원 이정우 대표 원장님 인터뷰",
+            "channel": "MEDIFAB",
+            "url": "https://www.youtube.com/watch?v=iNQbbnBSfSU&pp=ygUV7JeY66CI67iM7J2Y7JuQIEtvcmVh",
+            "view_text": "5 views"
+          },
+          {
+            "title": "[엘레브의원] 내 얼굴에 있는 게 기미? 검버섯?  색소 치료의 모든 것! 💡",
             "channel": "엘레브TV",
-            "url": "https://www.youtube.com/watch?v=n9TUru7g40s&pp=ygUe7JeY66CI67iM7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "1.1K views"
+            "url": "https://www.youtube.com/watch?v=CDTxKuoFKfo&pp=ygUV7JeY66CI67iM7J2Y7JuQIEtvcmVh",
+            "view_text": "1.3K views"
+          },
+          {
+            "title": "[콜라겐시술 Tip] 똑같은 시술인데 효과가 2배? 내 고민에 딱 맞는 콜라겐부스터 활용 방법ㅣ#콜라겐부스터 #스컬트라 #쥬베룩 #에버클 #레디어스 #고우리 #리투오",
+            "channel": "엘레브TV",
+            "url": "https://www.youtube.com/watch?v=zOTre2eyRls&pp=ygUV7JeY66CI67iM7J2Y7JuQIEtvcmVh",
+            "view_text": "1.5K views"
           }
         ]
       }
@@ -132,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

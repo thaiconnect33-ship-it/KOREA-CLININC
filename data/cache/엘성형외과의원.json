@@ -1,18 +1,18 @@
 {
   "query": "엘성형외과의원",
-  "generated_at": "2026-05-28T23:44:44.232Z",
+  "generated_at": "2026-05-29T12:30:40.264Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 353,
+      "metric_value": 2143,
       "extra": {
-        "place_id": "2000919914",
-        "name": "뮤토엘성형외과의원 : 네이버\u001c",
-        "visitor_review_count": 241,
-        "blog_review_count": 112,
-        "detail_url": "https://m.place.naver.com/place/2000919914/home"
+        "place_id": "1533487214",
+        "name": "엘성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 276,
+        "blog_review_count": 1867,
+        "detail_url": "https://m.place.naver.com/place/1533487214/home"
       }
     },
     "google_maps": {
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 394495,
+        "total_views": 327498,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -61,62 +61,62 @@
           {
             "title": "안면거상의 부작용, 평생남습니다!",
             "channel": "에이징엘 성형외과 Aging L FACE LIFTING SURGERY",
-            "url": "https://www.youtube.com/watch?v=saBElBh_JMc&pp=ygUn7JeY7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=saBElBh_JMc&pp=ygUb7JeY7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "4.3K views"
           },
           {
             "title": "안면거상을 했는데도 팔자주름이 남았다고요?🫢 (원인에 따른 팔자주름)",
             "channel": "에이징엘 성형외과 Aging L FACE LIFTING SURGERY",
-            "url": "https://www.youtube.com/watch?v=o6X0UQYJxj4&pp=ygUn7JeY7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=o6X0UQYJxj4&pp=ygUb7JeY7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "911 views"
-          },
-          {
-            "title": "😉 5 Things to Prepare Before a Facelift! Watch in Advance, Essential 【Aging L】",
-            "channel": "에이징엘 성형외과 Aging L FACE LIFTING SURGERY",
-            "url": "https://www.youtube.com/watch?v=tj5iC_hh8Jc&pp=ygUn7JeY7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "2.8K views"
-          },
-          {
-            "title": "Are you planning to get a facelift too, Doctor? 🤔",
-            "channel": "에이징엘 성형외과 Aging L FACE LIFTING SURGERY",
-            "url": "https://www.youtube.com/watch?v=9WfHoRDuSMg&pp=ygUn7JeY7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "451 views"
-          },
-          {
-            "title": "진짜 '안면거상수술' 전후 케이스  【에이징엘】",
-            "channel": "에이징엘 성형외과 Aging L FACE LIFTING SURGERY",
-            "url": "https://www.youtube.com/watch?v=IdEOi_nnAdw&pp=ygUn7JeY7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "217K views"
-          },
-          {
-            "title": "실 리프팅 🪡 효과 못 보는 진짜 이유  【에이징엘】",
-            "channel": "에이징엘 성형외과 Aging L FACE LIFTING SURGERY",
-            "url": "https://www.youtube.com/watch?v=Sl52Rn1DPhU&pp=ygUn7JeY7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.2K views"
-          },
-          {
-            "title": "안면거상, 의사마다 결과가 다른 이유",
-            "channel": "에이징엘 성형외과 Aging L FACE LIFTING SURGERY",
-            "url": "https://www.youtube.com/watch?v=JlgpIu5UUM0&pp=ygUn7JeY7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "496 views"
           },
           {
             "title": "안면거상 전 피부 시술 Q&A모음🔎 시술받기 전, 이건 꼭 알고가세요!",
             "channel": "에이징엘 성형외과 Aging L FACE LIFTING SURGERY",
-            "url": "https://www.youtube.com/watch?v=kDag4ZVe14A&pp=ygUn7JeY7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=kDag4ZVe14A&pp=ygUb7JeY7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "1.9K views"
           },
           {
-            "title": "Stretch your sagging cheeks again! Facial lifting plastic surgery 【AGING L】",
+            "title": "안면거상 후 딱딱하고 울퉁불퉁한 피부가 되는 이유는? 【에이징엘】",
             "channel": "에이징엘 성형외과 Aging L FACE LIFTING SURGERY",
-            "url": "https://www.youtube.com/watch?v=HF20MYd9FtM&pp=ygUn7JeY7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "11K views"
+            "url": "https://www.youtube.com/watch?v=LDV9weKxv5k&pp=ygUb7JeY7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "10K views"
           },
           {
-            "title": "😉안면거상 수술 후, 절대 하지 말아야 할 것들 📌【에이징엘】",
+            "title": "진짜 '안면거상수술' 전후 케이스  【에이징엘】",
             "channel": "에이징엘 성형외과 Aging L FACE LIFTING SURGERY",
-            "url": "https://www.youtube.com/watch?v=i9oUJ-fvNXU&pp=ygUn7JeY7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "4.6K views"
+            "url": "https://www.youtube.com/watch?v=IdEOi_nnAdw&pp=ygUb7JeY7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "217K views"
+          },
+          {
+            "title": "안면거상 AS가 10년?? 😮 에이징엘만의 특별함을 모두 모았다!",
+            "channel": "에이징엘 성형외과 Aging L FACE LIFTING SURGERY",
+            "url": "https://www.youtube.com/watch?v=pb5obQK_WnQ&pp=ygUb7JeY7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "2.2K views"
+          },
+          {
+            "title": "😉 5 Things to Prepare Before a Facelift! Watch in Advance, Essential 【Aging L】",
+            "channel": "에이징엘 성형외과 Aging L FACE LIFTING SURGERY",
+            "url": "https://www.youtube.com/watch?v=tj5iC_hh8Jc&pp=ygUb7JeY7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "2.8K views"
+          },
+          {
+            "title": "안면거상 수술 후 주의사항, 자주묻는 질문 【에이징엘 안내영상】",
+            "channel": "에이징엘 성형외과 Aging L FACE LIFTING SURGERY",
+            "url": "https://www.youtube.com/watch?v=plD0ApKYxl4&t=260s&pp=ygUb7JeY7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "4K views"
+          },
+          {
+            "title": "'안면거상'과 '안면윤곽'의 차이는? 🤔 이름부터 헷갈리는 두 수술 그리고 양악수술까지 간단 정리 【에이징엘】",
+            "channel": "에이징엘 성형외과 Aging L FACE LIFTING SURGERY",
+            "url": "https://www.youtube.com/watch?v=WiTvPH3qfow&pp=ygUb7JeY7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.4K views"
+          },
+          {
+            "title": "안면거상 후 피주머니, 꼭 차야하나요? 😢",
+            "channel": "에이징엘 성형외과 Aging L FACE LIFTING SURGERY",
+            "url": "https://www.youtube.com/watch?v=EaeZrJh8j1I&pp=ygUb7JeY7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "887 views"
           }
         ]
       }
@@ -132,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

@@ -1,16 +1,18 @@
 {
   "query": "로렌의원",
-  "generated_at": "2026-05-28T22:28:52.859Z",
+  "generated_at": "2026-05-29T11:05:35.232Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 3181,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "31357687",
+        "name": "로렌의원 : 네이버\u001c",
+        "visitor_review_count": 2102,
+        "blog_review_count": 1079,
+        "detail_url": "https://m.place.naver.com/place/31357687/home"
       }
     },
     "google_maps": {
@@ -21,13 +23,13 @@
         "name": "로렌클리닉 LAUREN Clinic",
         "rating": 5,
         "total_reviews": 34,
-        "sample_size": 29,
-        "foreign_language_reviews": 29,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 29
+          "english_other": 0
         }
       }
     },
@@ -43,78 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 14,
+      "metric_value": 20,
       "extra": {
-        "total_views": 230472,
-        "foreign_video_count": 0,
+        "total_views": 14275558,
+        "foreign_video_count": 1,
         "lang_breakdown": {
-          "korean": 14,
+          "korean": 19,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
-          "english_other": 0
+          "english_other": 1
         },
-        "sample_size": 14,
+        "sample_size": 20,
         "top_videos": [
           {
-            "title": "[홍진주의 성형 Q&A] #5. 성형, 선택의 딜레마 '매몰 vs 절개' (제이제이성형외과 홍진주 원장)",
-            "channel": "의학채널 비온뒤",
-            "url": "https://www.youtube.com/watch?v=weJT94cyHbI&pp=ygUk66Gc66CM7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "5.8K views"
+            "title": "뮤지컬 보다 전자담배 피운 미 의원…\"내가 누군지 알아?\" 난동도 #쇼츠트랙 / JTBC 뉴스5후",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=eRJXe8OZyh0&pp=ygUS66Gc66CM7J2Y7JuQIEtvcmVh",
+            "view_text": "1.5K views"
           },
           {
-            "title": "안면거상수술하면 목주름도 없어진다? - 【feat. 성형외과전문의】",
-            "channel": "시너지성형외과",
-            "url": "https://www.youtube.com/watch?v=AcdmoYXAc4Q&pp=ygUk66Gc66CM7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "41K views"
+            "title": "재벌들의 '인싸력'은 몇 점?",
+            "channel": "엠빅뉴스",
+            "url": "https://www.youtube.com/watch?v=BZGgN1P74bo&pp=ygUS66Gc66CM7J2Y7JuQIEtvcmVh",
+            "view_text": "8.1M views"
           },
           {
-            "title": "눈성형,코성형 수술기구 전격 공개! (성형외과 수술실에서 무슨일이 일어날까 3편)",
-            "channel": "닥터혜자",
-            "url": "https://www.youtube.com/watch?v=FIIqCKR4nKk&pp=ygUk66Gc66CM7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "9.2K views"
+            "title": "공연장 진상·갑질 관객…알고보니 ‘미 의원’ [잇슈 SNS]  / KBS  2023.09.19.",
+            "channel": "KBS News",
+            "url": "https://www.youtube.com/watch?v=LUjrPiq1pdA&pp=ygUS66Gc66CM7J2Y7JuQIEtvcmVh",
+            "view_text": "777 views"
           },
           {
-            "title": "재수술이 많은 코 성형? 재수술 없이 한번에 만족하는 방법 - 진짜 성형 이야기#04 코성형",
-            "channel": "굿라이프",
-            "url": "https://www.youtube.com/watch?v=5rKC9Y9Slz0&pp=ygUk66Gc66CM7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "23K views"
+            "title": "[한국병원방송] 강남미시간치과 정국환 원장 - 부분교정 및 급속교정",
+            "channel": "한국병원방송KHBS",
+            "url": "https://www.youtube.com/watch?v=K_f8PiWaoiM&pp=ygUS66Gc66CM7J2Y7JuQIEtvcmVh",
+            "view_text": "200 views"
           },
           {
-            "title": "[복부거상] 수술 전후 궁금하죠?🤩[레아트성형외과]",
-            "channel": "레아트성형외과",
-            "url": "https://www.youtube.com/watch?v=ae0GIe0hWbY&pp=ygUk66Gc66CM7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "2.1K views"
+            "title": "\"당신 내가 누군지 알아?\"…뮤지컬 '최악' 민폐 관객 / SBS / 오클릭",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=O8hYGQuYmYw&pp=ygUS66Gc66CM7J2Y7JuQIEtvcmVh",
+            "view_text": "21K views"
           },
           {
-            "title": "[SODA] 소다성형외과 | 안면윤곽 수술시 예뻐지는/제한적인 유형",
-            "channel": "소다성형외과",
-            "url": "https://www.youtube.com/watch?v=TQ-dM_keBr0&pp=ygUk66Gc66CM7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "53K views"
+            "title": "‘졸업 여행’ 가는 지방의원…마지막 회기에 외유성 관광 / KBS  2022.06.22.",
+            "channel": "KBS뉴스 전북",
+            "url": "https://www.youtube.com/watch?v=g5SrhvPPsHs&pp=ygUS66Gc66CM7J2Y7JuQIEtvcmVh",
+            "view_text": "172 views"
           },
           {
-            "title": "ㅂㄹㅂㅌ인터뷰] 논현동 신의 손, 信손 노상훈 원장님",
-            "channel": "coding_stuff",
-            "url": "https://www.youtube.com/watch?v=DrajZjakTsc&pp=ygUk66Gc66CM7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "9.6K views"
+            "title": "6년 만의 '의원 집단 삭발'…여야 4당 \"가출 정치 그만!\" / SBS",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=XiN6xAU6Jtg&pp=ygUS66Gc66CM7J2Y7JuQIEtvcmVh",
+            "view_text": "525 views"
           },
           {
-            "title": "큰 이미지 변화 없이 답답하고 졸린 눈매 개선💛 | 자연유착&눈매교정",
-            "channel": "AMOND TV - 아몬드성형외과",
-            "url": "https://www.youtube.com/watch?v=Mh407T_Yijs&pp=ygUk66Gc66CM7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "13K views"
+            "title": "장윤정도 기절 하게 만든 3번의 정체는? 보컬 괴물 손승연이 부르는 〈초혼〉🔥 | 슈퍼히어러",
+            "channel": "tvN Joy",
+            "url": "https://www.youtube.com/watch?v=nYnpClWHtN0&pp=ygUS66Gc66CM7J2Y7JuQIEtvcmVh",
+            "view_text": "6.1M views"
           },
           {
-            "title": "쌍커풀 수술 '자연유착' 이 궁금하다 ! (feat.친절상담)",
-            "channel": "드레스성형외과의원",
-            "url": "https://www.youtube.com/watch?v=I1Hqwbo1N8o&pp=ygUk66Gc66CM7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "13K views"
+            "title": "[독립운동 해외유적지] 프랑스 알사스로렌 루이마랭 생가",
+            "channel": "독립운동 유적관",
+            "url": "https://www.youtube.com/watch?v=1Cpvaztakzc&pp=ygUS66Gc66CM7J2Y7JuQIEtvcmVh",
+            "view_text": "177 views"
           },
           {
-            "title": "성형외과 전문의가 직접 알려드립니다! 시너지성형외과 눈썹거상Q&A :: 수술전후CASE 【Feat. 정경인대표원장님】",
-            "channel": "시너지성형외과",
-            "url": "https://www.youtube.com/watch?v=RfgeZl88_GA&pp=ygUk66Gc66CM7J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "48K views"
+            "title": "티트리 오일, 타마누 오일, 라벤더 오일 이렇게 사용해요 / 피부 트러블에 좋은 천연 오일  /",
+            "channel": "미국맘 로렌 일상 with Lauren",
+            "url": "https://www.youtube.com/watch?v=bBNzVlVmddw&pp=ygUS66Gc66CM7J2Y7JuQIEtvcmVh",
+            "view_text": "6K views"
           }
         ]
       }
@@ -130,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 14,
-  "opportunity_cost_thb": 85500,
-  "opportunity_cost_krw": 3420000
+  "global_score": 1,
+  "opportunity_cost_thb": 99500,
+  "opportunity_cost_krw": 3980000
 }

@@ -1,17 +1,17 @@
 {
   "query": "엠디외과의원",
-  "generated_at": "2026-05-28T22:17:38.417Z",
+  "generated_at": "2026-05-29T10:54:21.940Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 322,
+      "metric_value": 321,
       "extra": {
         "place_id": "756381097",
         "name": "엠디외과의원 : 네이버\u001c",
         "visitor_review_count": 321,
-        "blog_review_count": 1,
+        "blog_review_count": 0,
         "detail_url": "https://m.place.naver.com/place/756381097/home"
       }
     },
@@ -45,78 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 20,
+      "metric_value": 19,
       "extra": {
-        "total_views": 315673,
+        "total_views": 230900,
         "foreign_video_count": 0,
         "lang_breakdown": {
-          "korean": 20,
+          "korean": 19,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
           "english_other": 0
         },
-        "sample_size": 20,
+        "sample_size": 19,
         "top_videos": [
           {
             "title": "가슴성형 후 관리, 엠디외과의원에서는 자연스러운 가슴을 만들기 위해 어떻게 진행하고 있을까?",
             "channel": "엠디TV [20년 Only 가슴성형]",
-            "url": "https://www.youtube.com/watch?v=D5CoS8rQom0&pp=ygUk7Jeg65SU7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "16K"
-          },
-          {
-            "title": "가슴성형 통증을 줄일 수 있는 방법이 있다? 엠디외과 국내 최초 늑간신경차단술, 가슴성형 고민은 이제 그만",
-            "channel": "엠디TV [20년 Only 가슴성형]",
-            "url": "https://www.youtube.com/watch?v=ZUB5ZGcabcA&pp=ygUk7Jeg65SU7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "14K"
-          },
-          {
-            "title": "[엠디TV] 엠디클리닉 이상달 원장의 20여년간의 가슴성형 히스토리",
-            "channel": "엠디TV [20년 Only 가슴성형]",
-            "url": "https://www.youtube.com/watch?v=C6x-ZHDtD6E&pp=ygUk7Jeg65SU7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "14K"
-          },
-          {
-            "title": "Does the bra you wear after breast surgery affect your results?! (feat. Dr. Bra)",
-            "channel": "엠디TV [20년 Only 가슴성형]",
-            "url": "https://www.youtube.com/watch?v=7LahzBA19qI&pp=ygUk7Jeg65SU7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "10K"
+            "url": "https://www.youtube.com/watch?v=D5CoS8rQom0&pp=ygUY7Jeg65SU7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "16K views"
           },
           {
             "title": "가슴 재수술 받으러 LA에서 한국에 갑니다! 가슴성형 회복기간을 위해 얼마나 체류해야하나요?",
             "channel": "엠디TV [20년 Only 가슴성형]",
-            "url": "https://www.youtube.com/watch?v=6MIgCNpyoJY&pp=ygUk7Jeg65SU7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "10K"
+            "url": "https://www.youtube.com/watch?v=6MIgCNpyoJY&pp=ygUY7Jeg65SU7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "10K views"
           },
           {
-            "title": "Bleeding-free breast surgery, the principles of bloodless breast augmentation revealed!",
+            "title": "유방외과 전문의가 알려주는 가슴성형 상담 시 필수 질문 리스트",
             "channel": "엠디TV [20년 Only 가슴성형]",
-            "url": "https://www.youtube.com/watch?v=6jDfa-YcPPk&pp=ygUk7Jeg65SU7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "10K"
+            "url": "https://www.youtube.com/watch?v=k9P9rRnDAGY&pp=ygUY7Jeg65SU7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "17K views"
           },
           {
-            "title": "[가슴성형] 가슴수술 시 가슴확대수술 최대가슴사이즈 추천이 병원마다 다른 이유 [엠디외과의원]",
+            "title": "Does the bra you wear after breast surgery affect your results?! (feat. Dr. Bra)",
             "channel": "엠디TV [20년 Only 가슴성형]",
-            "url": "https://www.youtube.com/watch?v=Y8XwElyAaTQ&pp=ygUk7Jeg65SU7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "11K"
-          },
-          {
-            "title": "가슴성형 때 정확한 크기 결정을 위해 하는 이것은?! 임시보형물(사이저Sizer)",
-            "channel": "엠디TV [20년 Only 가슴성형]",
-            "url": "https://www.youtube.com/watch?v=3BcvciYU9lA&pp=ygUk7Jeg65SU7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "13K"
-          },
-          {
-            "title": "[엠디TV] 가슴성형 재수술, 구형구축",
-            "channel": "엠디TV [20년 Only 가슴성형]",
-            "url": "https://www.youtube.com/watch?v=eEwPyPIpZ54&pp=ygUk7Jeg65SU7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "3.1K"
+            "url": "https://www.youtube.com/watch?v=7LahzBA19qI&pp=ygUY7Jeg65SU7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "10K views"
           },
           {
             "title": "50대 가슴수술, 20대와 '이것'이 다르다?",
             "channel": "엠디TV [20년 Only 가슴성형]",
-            "url": "https://www.youtube.com/watch?v=rrBD65tO6MA&pp=ygUk7Jeg65SU7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "12K"
+            "url": "https://www.youtube.com/watch?v=rrBD65tO6MA&pp=ygUY7Jeg65SU7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "12K views"
+          },
+          {
+            "title": "가슴성형 통증을 줄일 수 있는 방법이 있다? 엠디외과 국내 최초 늑간신경차단술, 가슴성형 고민은 이제 그만",
+            "channel": "엠디TV [20년 Only 가슴성형]",
+            "url": "https://www.youtube.com/watch?v=ZUB5ZGcabcA&pp=ygUY7Jeg65SU7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "14K views"
+          },
+          {
+            "title": "Will breast implants rise on their own after removal?",
+            "channel": "엠디TV [20년 Only 가슴성형]",
+            "url": "https://www.youtube.com/watch?v=LI8JIVudDsg&pp=ygUY7Jeg65SU7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "9.9K views"
+          },
+          {
+            "title": "Bleeding-free breast surgery, the principles of bloodless breast augmentation revealed!",
+            "channel": "엠디TV [20년 Only 가슴성형]",
+            "url": "https://www.youtube.com/watch?v=6jDfa-YcPPk&pp=ygUY7Jeg65SU7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "10K views"
+          },
+          {
+            "title": "[엠디TV] 엠디클리닉 이상달 원장의 20여년간의 가슴성형 히스토리",
+            "channel": "엠디TV [20년 Only 가슴성형]",
+            "url": "https://www.youtube.com/watch?v=C6x-ZHDtD6E&pp=ygUY7Jeg65SU7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "14K views"
+          },
+          {
+            "title": "Breast Augmentation in Your 50s: It's Not Too Late!",
+            "channel": "엠디TV [20년 Only 가슴성형]",
+            "url": "https://www.youtube.com/watch?v=_zjTVmRrWSU&pp=ygUY7Jeg65SU7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "10K views"
           }
         ]
       }
@@ -132,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

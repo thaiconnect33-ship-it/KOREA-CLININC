@@ -1,0 +1,112 @@
+{
+  "query": "유픽의원 명동",
+  "generated_at": "2026-05-29T11:45:30.294Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 368,
+      "extra": {
+        "place_id": "2000756860",
+        "name": "유픽의원 명동 : 네이버\u001c",
+        "visitor_review_count": 139,
+        "blog_review_count": 229,
+        "detail_url": "https://m.place.naver.com/place/2000756860/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "UPIC CLINIC MYEONGDONG",
+        "rating": 4.9,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 4,
+      "extra": {
+        "total_views": 126435,
+        "foreign_video_count": 3,
+        "lang_breakdown": {
+          "korean": 1,
+          "thai": 0,
+          "chinese": 2,
+          "japanese": 0,
+          "english_other": 1
+        },
+        "sample_size": 4,
+        "top_videos": [
+          {
+            "title": "[에이티움] 리엔장x유픽 미용의학 심포지엄 현장 스케치",
+            "channel": "에이티움",
+            "url": "https://www.youtube.com/watch?v=XePHpuneZdA&pp=ygUZ7Jyg7ZS97J2Y7JuQIOuqheuPmSBLb3JlYQ%3D%3D",
+            "view_text": "24 views"
+          },
+          {
+            "title": "韓國醫美初體驗｜望遠市場不可錯過的糖餅｜必訪醬蟹吃到飽｜如何用氣候同行卡回仁川機場｜2025 🇰🇷 首爾 Vlog #4",
+            "channel": "溫室日記 Wen's Diary",
+            "url": "https://www.youtube.com/watch?v=DaTSSOXLFl4&t=327s&pp=ygUZ7Jyg7ZS97J2Y7JuQIOuqheuPmSBLb3JlYQ%3D%3D",
+            "view_text": "5.4K views"
+          },
+          {
+            "title": "【2025 首爾自由行全記錄】三天兩夜交通、美食、醫美與行程踩點最強整理版！｜首爾🇰🇷Vlog",
+            "channel": "溫室日記 Wen's Diary",
+            "url": "https://www.youtube.com/watch?v=rQHEIZavgxk&pp=ygUZ7Jyg7ZS97J2Y7JuQIOuqheuPmSBLb3JlYQ%3D%3D",
+            "view_text": "121K views"
+          },
+          {
+            "title": "Dreaming of that coveted Korean glass skin glow?",
+            "channel": "Upic Clinic English",
+            "url": "https://www.youtube.com/watch?v=eo5B_lxKDEY&pp=ygUZ7Jyg7ZS97J2Y7JuQIOuqheuPmSBLb3JlYQ%3D%3D",
+            "view_text": "11 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 2,
+  "opportunity_cost_thb": 98500,
+  "opportunity_cost_krw": 3940000
+}

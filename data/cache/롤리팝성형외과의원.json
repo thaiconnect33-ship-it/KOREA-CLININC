@@ -1,26 +1,28 @@
 {
   "query": "롤리팝성형외과의원",
-  "generated_at": "2026-05-29T06:06:29.030Z",
+  "generated_at": "2026-05-29T10:33:36.785Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 374,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "1441578457",
+        "name": "롤리팝성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 267,
+        "blog_review_count": 107,
+        "detail_url": "https://m.place.naver.com/place/1441578457/home"
       }
     },
     "google_maps": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 234,
+      "metric_value": 237,
       "extra": {
         "name": "Lollipop Beauty Clinic",
         "rating": 4.9,
-        "total_reviews": 234,
+        "total_reviews": 237,
         "sample_size": 20,
         "foreign_language_reviews": 20,
         "lang_breakdown": {
@@ -45,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 90897,
+        "total_views": 77298,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -59,62 +61,62 @@
           {
             "title": "기껏 맞은 필러를 지금 당장 녹여야 한다고? l 필러 녹이는 주사 원큐 가이드💉",
             "channel": "롤리팝 Lollipop",
-            "url": "https://www.youtube.com/watch?v=fIG8KIUccFU&pp=ygUt66Gk66as7Yyd7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=fIG8KIUccFU&pp=ygUh66Gk66as7Yyd7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "1.3K views"
-          },
-          {
-            "title": "입술필러 진짜 대박 나는 입술은 따로 있어요💋 l 성형외과 전문의가 전부 알려드립니다!",
-            "channel": "롤리팝 Lollipop",
-            "url": "https://www.youtube.com/watch?v=f4iiDxwWXnQ&pp=ygUt66Gk66as7Yyd7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "4.6K views"
           },
           {
             "title": "눈밑꺼짐 '이 시술'로 해결할 수 있습니다! with.롤리팝성형외과 (Under-eye bags can be solved with this procedure!)",
             "channel": "Dr Kwon (Dermaster Official)",
-            "url": "https://www.youtube.com/watch?v=HQM-Jtn8Vlg&pp=ygUt66Gk66as7Yyd7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "862 views"
-          },
-          {
-            "title": "필러 시술 이후 부작용 발생? 😱 l 지금 당장 필러 녹이러 병원에 오셔야 합니다..",
-            "channel": "롤리팝 Lollipop",
-            "url": "https://www.youtube.com/watch?v=2PjJmrNwvgg&pp=ygUt66Gk66as7Yyd7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.5K views"
-          },
-          {
-            "title": "입술필러, 최고의 효과를 보기 위한 꿀팁? l 입술필러 상담 전 이건 꼭 알고 가세요! 🏥",
-            "channel": "롤리팝 Lollipop",
-            "url": "https://www.youtube.com/watch?v=8OocawgKrbA&pp=ygUt66Gk66as7Yyd7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.6K views"
+            "url": "https://www.youtube.com/watch?v=HQM-Jtn8Vlg&pp=ygUh66Gk66as7Yyd7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "863 views"
           },
           {
             "title": "대한민국이 필러 시술 강국인 이유? (국산필러 제조시설이 이렇게 많다고?)",
             "channel": "롤리팝 Lollipop",
-            "url": "https://www.youtube.com/watch?v=GsPGas7_wmA&pp=ygUt66Gk66as7Yyd7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=GsPGas7_wmA&pp=ygUh66Gk66as7Yyd7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "10K views"
+          },
+          {
+            "title": "입술필러 진짜 대박 나는 입술은 따로 있어요💋 l 성형외과 전문의가 전부 알려드립니다!",
+            "channel": "롤리팝 Lollipop",
+            "url": "https://www.youtube.com/watch?v=f4iiDxwWXnQ&pp=ygUh66Gk66as7Yyd7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "4.6K views"
+          },
+          {
+            "title": "필러 시술 이후 부작용 발생? 😱 l 지금 당장 필러 녹이러 병원에 오셔야 합니다..",
+            "channel": "롤리팝 Lollipop",
+            "url": "https://www.youtube.com/watch?v=2PjJmrNwvgg&pp=ygUh66Gk66as7Yyd7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.5K views"
           },
           {
             "title": "실리프팅 시술 효과 두 배로 보는 방법!",
             "channel": "롤리팝 Lollipop",
-            "url": "https://www.youtube.com/watch?v=pU7S7MA_T3E&pp=ygUt66Gk66as7Yyd7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=pU7S7MA_T3E&pp=ygUh66Gk66as7Yyd7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "569 views"
+          },
+          {
+            "title": "입술필러, 최고의 효과를 보기 위한 꿀팁? l 입술필러 상담 전 이건 꼭 알고 가세요! 🏥",
+            "channel": "롤리팝 Lollipop",
+            "url": "https://www.youtube.com/watch?v=8OocawgKrbA&pp=ygUh66Gk66as7Yyd7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.6K views"
           },
           {
             "title": "단 20분이면 10년은 어려지는 실리프팅 l 한 번에 알려드립니다👍🏻",
             "channel": "롤리팝 Lollipop",
-            "url": "https://www.youtube.com/watch?v=p1I9wGftVjM&pp=ygUt66Gk66as7Yyd7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=p1I9wGftVjM&pp=ygUh66Gk66as7Yyd7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "531 views"
-          },
-          {
-            "title": "리쥬란 힐러 시술 전, 이건 꼭 알고 맞으셔야 합니다! l 리쥬란 효과 최대로 보는 방법",
-            "channel": "롤리팝 Lollipop",
-            "url": "https://www.youtube.com/watch?v=jQWM-OcDxUg&pp=ygUt66Gk66as7Yyd7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "2.9K views"
           },
           {
             "title": "가슴축소를 망설이신다면 반드시 시청해 주세요 :) 유륜절개, 수직절개(롤리팝), 오자절개 등의 가슴축소 방법 및 가슴축소 상담전 고려사항에 대해 알려드려요.",
             "channel": "고주영의 아틀리에",
-            "url": "https://www.youtube.com/watch?v=qc3etvS2eWM&pp=ygUt66Gk66as7Yyd7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=qc3etvS2eWM&pp=ygUh66Gk66as7Yyd7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "743 views"
+          },
+          {
+            "title": "[쥬얼리성형외과] 성형외과전문의 윤용일원장 인터뷰",
+            "channel": "쥬얼리성형외과(Jewelry Plastic Surgery)",
+            "url": "https://www.youtube.com/watch?v=TU020_-hRgQ&pp=ygUh66Gk66as7Yyd7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "6.5K views"
           }
         ]
       }

@@ -1,6 +1,6 @@
 {
   "query": "유로성형외과의원",
-  "generated_at": "2026-05-28T22:16:30.638Z",
+  "generated_at": "2026-05-29T10:53:07.278Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 1670001,
+        "total_views": 5493626,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -61,62 +61,62 @@
           {
             "title": "유로성형외과 피부과_ 최준용원장_지니어스",
             "channel": "성형외과유로",
-            "url": "https://www.youtube.com/watch?v=0IDnd8xDnaU&pp=ygUq7Jyg66Gc7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=0IDnd8xDnaU&pp=ygUe7Jyg66Gc7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "2.1K views"
-          },
-          {
-            "title": "유로 성형외과 피부과 - 소개 동영상",
-            "channel": "고일권",
-            "url": "https://www.youtube.com/watch?v=efz-57D6qk0&pp=ygUq7Jyg66Gc7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "2.9K views"
           },
           {
             "title": "[CF] 유로 성형외과 피부과",
             "channel": "goodfilm_reference",
-            "url": "https://www.youtube.com/watch?v=lMIrplFCEUA&pp=ygUq7Jyg66Gc7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=lMIrplFCEUA&pp=ygUe7Jyg66Gc7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "92 views"
+          },
+          {
+            "title": "유로 성형외과 피부과 - 소개 동영상",
+            "channel": "고일권",
+            "url": "https://www.youtube.com/watch?v=efz-57D6qk0&pp=ygUe7Jyg66Gc7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "2.9K views"
           },
           {
             "title": "피부나이의 시간은 거꾸로 간다 - 지니어스",
             "channel": "성형외과유로",
-            "url": "https://www.youtube.com/watch?v=u199gy-Y0cw&pp=ygUq7Jyg66Gc7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=u199gy-Y0cw&pp=ygUe7Jyg66Gc7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "2.5K views"
-          },
-          {
-            "title": "리포소닉_유로성형외과 피부과",
-            "channel": "고일권",
-            "url": "https://www.youtube.com/watch?v=MVzOtnu6ex4&pp=ygUq7Jyg66Gc7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "529 views"
           },
           {
             "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
             "channel": "JTBC News",
-            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUq7Jyg66Gc7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUe7Jyg66Gc7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
             "view_text": "1M views"
           },
           {
-            "title": "\"강남 유명 성형외과서 수술 뒤 눈이 실명됐습니다\" [지금이뉴스] / YTN",
-            "channel": "YTN",
-            "url": "https://www.youtube.com/watch?v=UyMrX929Q4I&pp=ygUq7Jyg66Gc7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "576K views"
+            "title": "리포소닉_유로성형외과 피부과",
+            "channel": "고일권",
+            "url": "https://www.youtube.com/watch?v=MVzOtnu6ex4&pp=ygUe7Jyg66Gc7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "529 views"
           },
           {
-            "title": "비밀의 병 여유증_유로진 체형성형_쿠키TV전편",
-            "channel": "유로진M [Urogyn M]",
-            "url": "https://www.youtube.com/watch?v=jeji8HkMeGw&pp=ygUq7Jyg66Gc7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.5K views"
+            "title": "SM 천상계 연예인으로 만들어준다는 성형외과!!",
+            "channel": "핫이슈HOT ISSUE",
+            "url": "https://www.youtube.com/watch?v=WTeNWTENa54&pp=ygUe7Jyg66Gc7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.7M views"
           },
           {
             "title": "[강남유로진여성의원] 질성형을 하는 이론적 근거는 뭘까요?",
             "channel": "유로진W",
-            "url": "https://www.youtube.com/watch?v=V6wd1c1jbYs&pp=ygUq7Jyg66Gc7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "400 views"
+            "url": "https://www.youtube.com/watch?v=V6wd1c1jbYs&pp=ygUe7Jyg66Gc7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "402 views"
           },
           {
-            "title": "[가슴수술리뷰]  왜소한 체형이 가슴성형을 한다면? ㅣ유로 280cc",
-            "channel": "카이성형외과",
-            "url": "https://www.youtube.com/watch?v=sNbzm4iQvBA&pp=ygUq7Jyg66Gc7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "2.9K views"
+            "title": "유로진여성의원 다큐, 질이완 개선하는 루게 질성형",
+            "channel": "유로진W",
+            "url": "https://www.youtube.com/watch?v=az0usWuf91U&pp=ygUe7Jyg66Gc7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "198 views"
+          },
+          {
+            "title": "\"강남 유명 성형외과서 수술 뒤 눈이 실명됐습니다\" [지금이뉴스] / YTN",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=UyMrX929Q4I&pp=ygUe7Jyg66Gc7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "576K views"
           }
         ]
       }
@@ -132,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

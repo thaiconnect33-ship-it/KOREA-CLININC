@@ -1,33 +1,35 @@
 {
   "query": "리트머스성형외과의원",
-  "generated_at": "2026-05-28T23:16:19.444Z",
+  "generated_at": "2026-05-29T11:58:28.222Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 1228,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "1246531646",
+        "name": "리트머스성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 106,
+        "blog_review_count": 1122,
+        "detail_url": "https://m.place.naver.com/place/1246531646/home"
       }
     },
     "google_maps": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 126,
+      "metric_value": 0,
       "extra": {
-        "name": "Results",
-        "rating": 4.9,
-        "total_reviews": 126,
-        "sample_size": 9,
-        "foreign_language_reviews": 9,
+        "name": "Retmus Plastic Surgery",
+        "rating": 4.8,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 9
+          "english_other": 0
         }
       }
     },
@@ -43,24 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 1,
+      "metric_value": 20,
       "extra": {
-        "total_views": 57000,
+        "total_views": 373774,
         "foreign_video_count": 0,
         "lang_breakdown": {
-          "korean": 1,
+          "korean": 20,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
           "english_other": 0
         },
-        "sample_size": 1,
+        "sample_size": 20,
         "top_videos": [
           {
-            "title": "이런눈도 쌍꺼풀 예쁘게 가능한가요? [성형꿀팁] ㅣ가미성형외과 박건욱 원장",
-            "channel": "가미성형외과",
-            "url": "https://www.youtube.com/watch?v=VkN-FjDa7og&pp=ygU266as7Yq466i47Iqk7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "57K views"
+            "title": "(SUB)흉터 걱정❌인중축소술 인중코 수술법 공개🧐🎁ㅣHidden scarㅣUpper Lip Liftㅣlip lift scar❌ㅣ[RETMUS PLASTIC SURGERY]",
+            "channel": "리트머스성형외과",
+            "url": "https://www.youtube.com/watch?v=IkBVzkvEo20&pp=ygUk66as7Yq466i47Iqk7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.7K views"
+          },
+          {
+            "title": "(SUB)❌인중축소술 수술전후 Before&After 👨🏻‍⚕️ㅣLip Lift KoreaㅣUpper Lip Lift Scar❌ㅣ[RETMUS PLASTIC SURGERY]",
+            "channel": "리트머스성형외과",
+            "url": "https://www.youtube.com/watch?v=KoHaup-W6fE&pp=ygUk66as7Yq466i47Iqk7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "833 views"
+          },
+          {
+            "title": "인중코/안면윤곽 전문병원 리트머스성형외과 소개",
+            "channel": "리트머스성형외과",
+            "url": "https://www.youtube.com/watch?v=WKiXz_rZwJQ&pp=ygUk66as7Yq466i47Iqk7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.6K views"
+          },
+          {
+            "title": "(SUB)인중축소재수술❌인중축소술 흉터 Q&A PART2🧐🎁ㅣLip Lift RevisionㅣUpper Lip Lift Scar❌ㅣ[RETMUS PLASTIC SURGERY]",
+            "channel": "리트머스성형외과",
+            "url": "https://www.youtube.com/watch?v=C8MMXlXFUSE&pp=ygUk66as7Yq466i47Iqk7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.5K views"
+          },
+          {
+            "title": "[금빛상담소] 리트머스 성형외과 셜록준희 #2",
+            "channel": "금빛상담소",
+            "url": "https://www.youtube.com/watch?v=CQEsckP--hM&pp=ygUk66as7Yq466i47Iqk7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "29 views"
+          },
+          {
+            "title": "[금빛상담소] 리트머스 성형외과 셜록준희 #3",
+            "channel": "금빛상담소",
+            "url": "https://www.youtube.com/watch?v=7WJ3S3czfGI&pp=ygUk66as7Yq466i47Iqk7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "31 views"
+          },
+          {
+            "title": "[금빛상담소] 리트머스 성형외과 셜록준희 #1",
+            "channel": "금빛상담소",
+            "url": "https://www.youtube.com/watch?v=Laphtxc_cys&pp=ygUk66as7Yq466i47Iqk7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "62 views"
+          },
+          {
+            "title": "요즘 가장 핫한 중안부 시술? 절개 없이 가능한 비절개 인중축소술 총정리 🔍 | 라라성형외과",
+            "channel": "라라성형외과 LARA TV",
+            "url": "https://www.youtube.com/watch?v=mL0xqqutlz0&pp=ygUk66as7Yq466i47Iqk7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "2K views"
+          },
+          {
+            "title": "동안 얼굴의 비밀을 공개합니다 I 인중축소 I 아반트성형외과",
+            "channel": "아반트성형외과",
+            "url": "https://www.youtube.com/watch?v=TmRiPOmmKig&pp=ygUk66as7Yq466i47Iqk7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "18K views"
+          },
+          {
+            "title": "리스펙성형외과에서 코와 인중축소 같이 고민이신분들을 위해 준비했습니다! [코성형, 인중축소]",
+            "channel": "리스펙성형외과",
+            "url": "https://www.youtube.com/watch?v=jt-zVDYugYg&pp=ygUk66as7Yq466i47Iqk7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "3.2K views"
           }
         ]
       }
@@ -76,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 5,
-  "opportunity_cost_thb": 95500,
-  "opportunity_cost_krw": 3820000
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
 }

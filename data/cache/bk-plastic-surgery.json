@@ -1,18 +1,18 @@
 {
   "query": "BK Plastic Surgery",
-  "generated_at": "2026-05-29T05:45:40.602Z",
+  "generated_at": "2026-05-29T10:11:49.608Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 32,
+      "metric_value": 674,
       "extra": {
-        "place_id": "2140003359",
-        "name": "BK성형외과 : 네이버\u001c",
-        "visitor_review_count": 16,
-        "blog_review_count": 16,
-        "detail_url": "https://m.place.naver.com/place/2140003359/home"
+        "place_id": "36604650",
+        "name": "연세비케이의원 : 네이버\u001c",
+        "visitor_review_count": 326,
+        "blog_review_count": 348,
+        "detail_url": "https://m.place.naver.com/place/36604650/home"
       }
     },
     "google_maps": {
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 70370,
+        "total_views": 77455,
         "foreign_video_count": 20,
         "lang_breakdown": {
           "korean": 0,
@@ -59,64 +59,64 @@
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "BK Plastic Surgery Hospital",
-            "channel": "BK PLASTIC SURGERY",
-            "url": "https://www.youtube.com/watch?v=BelByhrVGXU&pp=ygUYQksgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
-            "view_text": "1.3K views"
-          },
-          {
             "title": "Cosmetic Surgery at BK Plastic Surgery Hospital",
             "channel": "Novasans",
-            "url": "https://www.youtube.com/watch?v=_nQwo7Vn--k&pp=ygUYQksgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
-            "view_text": "35K views"
+            "url": "https://www.youtube.com/watch?v=_nQwo7Vn--k&pp=ygUYQksgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "35K"
           },
           {
-            "title": "BK Plastic Surgery Hospital | Top Hospital in Seoul, South Korea",
-            "channel": "MediGence",
-            "url": "https://www.youtube.com/watch?v=ZF7b-2X31qA&pp=ygUYQksgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
-            "view_text": "2.2K views"
-          },
-          {
-            "title": "BK Plastic Surgery in Frontline 6/6",
+            "title": "BK Plastic Surgery Hospital",
             "channel": "BK PLASTIC SURGERY",
-            "url": "https://www.youtube.com/watch?v=qZqVKRu6n-U&pp=ygUYQksgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
-            "view_text": "235 views"
-          },
-          {
-            "title": "Globalizing beyond Korea , BK Plastic Surgery",
-            "channel": "BK PLASTIC SURGERY",
-            "url": "https://www.youtube.com/watch?v=0oVx8l3KTFU&pp=ygUYQksgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
-            "view_text": "135 views"
+            "url": "https://www.youtube.com/watch?v=BelByhrVGXU&pp=ygUYQksgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "1.3K"
           },
           {
             "title": "Rhinoplasty | CloudHospital TV",
             "channel": "CloudHospital TV",
             "url": "https://www.youtube.com/watch?v=O5kcNLKeb-4&pp=ygUYQksgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
-            "view_text": "2.2K views"
+            "view_text": "2.2K"
+          },
+          {
+            "title": "BK Plastic Surgery Hospital | Top Hospital in Seoul, South Korea",
+            "channel": "MediGence",
+            "url": "https://www.youtube.com/watch?v=ZF7b-2X31qA&pp=ygUYQksgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "2.2K"
+          },
+          {
+            "title": "BK Plastic Surgery in Frontline 6/6",
+            "channel": "BK PLASTIC SURGERY",
+            "url": "https://www.youtube.com/watch?v=qZqVKRu6n-U&pp=ygUYQksgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "235"
+          },
+          {
+            "title": "Globalizing beyond Korea , BK Plastic Surgery",
+            "channel": "BK PLASTIC SURGERY",
+            "url": "https://www.youtube.com/watch?v=0oVx8l3KTFU&pp=ygUYQksgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "135"
           },
           {
             "title": "Dr.Kim Byung Gun is answering the most frequently asked questions about double eyelid surgery.",
             "channel": "BK PLASTIC SURGERY",
             "url": "https://www.youtube.com/watch?v=Uxq0CzLt_V4&pp=ygUYQksgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
-            "view_text": "578 views"
+            "view_text": "Dr.Kim Byung Gun is giving interview to Icloud Hospital medical tourism platform regarding double eyelid surgery and eyelid ..."
           },
           {
-            "title": "[NBC News] Virtual Plastic Surgery in Korea",
-            "channel": "BK PLASTIC SURGERY",
-            "url": "https://www.youtube.com/watch?v=YkwPKFNR8-w&pp=ygUYQksgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
-            "view_text": "108 views"
-          },
-          {
-            "title": "Check this before having Face Lift.",
-            "channel": "BK PLASTIC SURGERY",
-            "url": "https://www.youtube.com/watch?v=5ECXmFrsmek&pp=ygUYQksgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
-            "view_text": "70 views"
+            "title": "*TOP 5* Cosmetic Procedures that K-POP STARS Does? | CloudHospital TV",
+            "channel": "CloudHospital TV",
+            "url": "https://www.youtube.com/watch?v=OG9J2ionBTY&pp=ygUYQksgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "3.1K"
           },
           {
             "title": "I HAD PLASTIC SURGERY IN S. KOREA:  American foreigner at BK Hospital in Seoul - part 1",
             "channel": "Life of Shay TV",
             "url": "https://www.youtube.com/watch?v=gje3tYa9SpQ&pp=ygUYQksgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
-            "view_text": "2.7K views"
+            "view_text": "2.7K"
+          },
+          {
+            "title": "What are the most common eyelid surgeries in Korea?",
+            "channel": "CloudHospital TV",
+            "url": "https://www.youtube.com/watch?v=0nM5IR08gvc&pp=ygUYQksgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "3.8K"
           }
         ]
       }

@@ -1,16 +1,16 @@
 {
   "query": "유스킨의원",
-  "generated_at": "2026-05-29T05:58:27.079Z",
+  "generated_at": "2026-05-29T10:24:38.621Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 7408,
+      "metric_value": 7410,
       "extra": {
         "place_id": "1528320866",
         "name": "유앤아이의원 명동점 : 네이버\u001c",
-        "visitor_review_count": 664,
+        "visitor_review_count": 666,
         "blog_review_count": 6744,
         "detail_url": "https://m.place.naver.com/place/1528320866/home"
       }
@@ -18,11 +18,11 @@
     "google_maps": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 58,
       "extra": {
         "name": "Results",
         "rating": 4.9,
-        "total_reviews": 0,
+        "total_reviews": 58,
         "sample_size": 6,
         "foreign_language_reviews": 6,
         "lang_breakdown": {
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 2068512,
+        "total_views": 567014,
         "foreign_video_count": 20,
         "lang_breakdown": {
           "korean": 0,
@@ -77,28 +77,10 @@
             "view_text": "48K views"
           },
           {
-            "title": "How I Got Rid of My Smile Lines Naturally (Non-Surgical) in Korea 💆‍♀️✨",
-            "channel": "Renovo Skin Clinic",
-            "url": "https://www.youtube.com/watch?v=LCnBdA5LJeY&pp=ygUTVSBTa2luIENsaW5pYyBLb3JlYQ%3D%3D",
-            "view_text": "811 views"
-          },
-          {
-            "title": "Korean skin clinic recommendation",
-            "channel": "Wellness Notes by Kay",
-            "url": "https://www.youtube.com/watch?v=lFylDwR7TpQ&pp=ygUTVSBTa2luIENsaW5pYyBLb3JlYQ%3D%3D",
-            "view_text": "8.8K views"
-          },
-          {
-            "title": "I Investigated Korea's Skin Care Obsession",
-            "channel": "Lexie Limitless",
-            "url": "https://www.youtube.com/watch?v=My8bg55_WbU&pp=ygUTVSBTa2luIENsaW5pYyBLb3JlYQ%3D%3D",
-            "view_text": "162K views"
-          },
-          {
-            "title": "Korean Skin Treatment on Black Skin | My Experience & Results!",
-            "channel": "Renovo Skin Clinic",
-            "url": "https://www.youtube.com/watch?v=Mca7BnzpznY&pp=ygUTVSBTa2luIENsaW5pYyBLb3JlYQ%3D%3D",
-            "view_text": "5.4K views"
+            "title": "I Got My Moles Removed in Korea 🇰🇷 Erbium Face & Body Spot Removal Laser",
+            "channel": "Amoa 640 Skin Clinic",
+            "url": "https://www.youtube.com/watch?v=_WSEfEiU-aM&pp=ygUTVSBTa2luIENsaW5pYyBLb3JlYQ%3D%3D",
+            "view_text": "No views"
           },
           {
             "title": "I Spent $1,000 at a Korean Skin Clinic in 2026 🇰🇷 Rejuran, Potenza, Fat Dissolving, ONDA, Laser",
@@ -107,16 +89,34 @@
             "view_text": "3.6K views"
           },
           {
+            "title": "Should You Travel to Korea for Beauty Treatments? K-Beauty Cosmetic Trends with Cindy Kim (NP)",
+            "channel": "Mixed Makeup",
+            "url": "https://www.youtube.com/watch?v=fwVzyqLoByc&pp=ygUTVSBTa2luIENsaW5pYyBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "57K views"
+          },
+          {
+            "title": "How I Got Rid of My Smile Lines Naturally (Non-Surgical) in Korea 💆‍♀️✨",
+            "channel": "Renovo Skin Clinic",
+            "url": "https://www.youtube.com/watch?v=LCnBdA5LJeY&pp=ygUTVSBTa2luIENsaW5pYyBLb3JlYQ%3D%3D",
+            "view_text": "812 views"
+          },
+          {
+            "title": "Korean skin clinic recommendation",
+            "channel": "Wellness Notes by Kay",
+            "url": "https://www.youtube.com/watch?v=lFylDwR7TpQ&pp=ygUTVSBTa2luIENsaW5pYyBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "8.8K views"
+          },
+          {
             "title": "Why should you choose the top rated dermatology clinic in South Korea?",
             "channel": "G clinic",
             "url": "https://www.youtube.com/watch?v=fLK8MEzBln8&pp=ygUTVSBTa2luIENsaW5pYyBLb3JlYQ%3D%3D",
             "view_text": "1.3K views"
           },
           {
-            "title": "Botox & Anti-Aging Treatments in Korea | Renovo Skin Clinic",
-            "channel": "Renovo Skin Clinic",
-            "url": "https://www.youtube.com/watch?v=qssm4jbrthA&pp=ygUTVSBTa2luIENsaW5pYyBLb3JlYQ%3D%3D",
-            "view_text": "1.2K views"
+            "title": "I Investigated Korea's Skin Care Obsession",
+            "channel": "Lexie Limitless",
+            "url": "https://www.youtube.com/watch?v=My8bg55_WbU&pp=ygUTVSBTa2luIENsaW5pYyBLb3JlYQ%3D%3D",
+            "view_text": "162K views"
           }
         ]
       }

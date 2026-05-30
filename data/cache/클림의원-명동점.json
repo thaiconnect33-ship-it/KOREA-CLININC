@@ -1,0 +1,94 @@
+{
+  "query": "클림의원 명동점",
+  "generated_at": "2026-05-29T11:48:13.724Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 4110,
+      "extra": {
+        "place_id": "1071440771",
+        "name": "클림의원 명동점 : 네이버\u001c",
+        "visitor_review_count": 617,
+        "blog_review_count": 3493,
+        "detail_url": "https://m.place.naver.com/place/1071440771/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Kleam clinic Myeongdong",
+        "rating": 4.8,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 1,
+      "extra": {
+        "total_views": 12000,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 1,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 1,
+        "top_videos": [
+          {
+            "title": "[VLOG]신혼부부 일상｜혼인신고 하는 날❤️｜저..딸만 둘이래요!🫢 운명전쟁49 출연자 만남 후기｜우리의 결혼 소감｜신혼집 이사 가구 보러 가기",
+            "channel": "한나네 hanna",
+            "url": "https://www.youtube.com/watch?v=x2D8Pbeu7eQ&pp=ygUc7YG066a87J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "12K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

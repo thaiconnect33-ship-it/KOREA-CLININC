@@ -1,6 +1,6 @@
 {
   "query": "프레쉬 홍닥터의원",
-  "generated_at": "2026-05-29T06:05:17.273Z",
+  "generated_at": "2026-05-29T10:32:12.515Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -45,78 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 20,
+      "metric_value": 19,
       "extra": {
-        "total_views": 767335,
-        "foreign_video_count": 1,
+        "total_views": 346435,
+        "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 19,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
-          "english_other": 1
+          "english_other": 0
         },
-        "sample_size": 20,
+        "sample_size": 19,
         "top_videos": [
           {
-            "title": "얼굴지방흡입&얼굴지방이식 수술 전 필수시청! 10년차 의사가 알려주는 얼굴지방성형 이야기(feat.프레쉬성형외과 홍닥터의 솔직 담백 인터뷰)",
+            "title": "남들 몰래 빠르게 동안 되는 중년성형 TOP3🕶️ #동안성형",
             "channel": "Fresh TV",
-            "url": "https://www.youtube.com/watch?v=HkiUs2qYg2A&pp=ygUr7ZSE66CI7ImsIO2ZjeuLpe2EsOydmOybkOyEse2YleyZuOqzvCBLb3JlYQ%3D%3D",
-            "view_text": "34K views"
-          },
-          {
-            "title": "얼굴지방흡입 (SUB) 홍닥터의 댓글 읽기!!다 답변해 드립니다~  Facial Liposuction",
-            "channel": "Fresh TV",
-            "url": "https://www.youtube.com/watch?v=5xZNfxV0zf4&pp=ygUr7ZSE66CI7ImsIO2ZjeuLpe2EsOydmOybkOyEse2YleyZuOqzvCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
-            "view_text": "4.5K views"
+            "url": "https://www.youtube.com/watch?v=SP4CN-vtDhs&pp=ygUf7ZSE66CI7ImsIO2ZjeuLpe2EsOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "35K views"
           },
           {
             "title": "이런 경우 눈밑지방제거수술 후 재발 가능성 큼😱 눈밑지방 수술 전/후 필수시청 프레쉬성형외과X홍닥터 홍종현 원장 (SUB)눈밑 지방 제대로 없애는 방법|Eye bag surgery",
             "channel": "Fresh TV",
-            "url": "https://www.youtube.com/watch?v=HrKJd-6Ex6g&pp=ygUr7ZSE66CI7ImsIO2ZjeuLpe2EsOydmOybkOyEse2YleyZuOqzvCBLb3JlYQ%3D%3D",
+            "url": "https://www.youtube.com/watch?v=HrKJd-6Ex6g&pp=ygUf7ZSE66CI7ImsIO2ZjeuLpe2EsOydmOybkCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
             "view_text": "17K views"
-          },
-          {
-            "title": "성형수술 전 이것만 알면 수술 성공한다?! 수술 꿀팁 홍닥터가 알려줄께~(SUB)  pre-op precaution / plasctic surgery",
-            "channel": "Fresh TV",
-            "url": "https://www.youtube.com/watch?v=fvbY2D8tZnE&pp=ygUr7ZSE66CI7ImsIO2ZjeuLpe2EsOydmOybkOyEse2YleyZuOqzvCBLb3JlYQ%3D%3D",
-            "view_text": "1.1K views"
-          },
-          {
-            "title": "남들 몰래 빠르게 동안 되는 중년성형 TOP3🕶️ #동안성형",
-            "channel": "Fresh TV",
-            "url": "https://www.youtube.com/watch?v=SP4CN-vtDhs&pp=ygUr7ZSE66CI7ImsIO2ZjeuLpe2EsOydmOybkOyEse2YleyZuOqzvCBLb3JlYQ%3D%3D",
-            "view_text": "35K views"
           },
           {
             "title": "흉터가 안 보이는 안면거상 수술이 있다고? 대체 그게 뭔데? (SUB) 티 안 나게 젋어지는법 동안성형 “프레쉬V리프팅”| 프레쉬성형외과X홍닥터 홍종현원장",
             "channel": "Fresh TV",
-            "url": "https://www.youtube.com/watch?v=6eLdGYJ2smc&pp=ygUr7ZSE66CI7ImsIO2ZjeuLpe2EsOydmOybkOyEse2YleyZuOqzvCBLb3JlYQ%3D%3D",
+            "url": "https://www.youtube.com/watch?v=6eLdGYJ2smc&pp=ygUf7ZSE66CI7ImsIO2ZjeuLpe2EsOydmOybkCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
             "view_text": "31K views"
           },
           {
-            "title": "눈밑지방재배치 부작용 왜 생길까? 부작용 없이 눈밑지 수술하는 방법! 효과 말해뭐해 | 프레쉬성형외과X홍닥터 홍종현 원장 (SUB)Under Eye Fat Repositioning",
+            "title": "얼굴지방흡입&얼굴지방이식 수술 전 필수시청! 10년차 의사가 알려주는 얼굴지방성형 이야기(feat.프레쉬성형외과 홍닥터의 솔직 담백 인터뷰)",
             "channel": "Fresh TV",
-            "url": "https://www.youtube.com/watch?v=X2rpaaZeTy0&pp=ygUr7ZSE66CI7ImsIO2ZjeuLpe2EsOydmOybkOyEse2YleyZuOqzvCBLb3JlYQ%3D%3D",
-            "view_text": "13K views"
+            "url": "https://www.youtube.com/watch?v=HkiUs2qYg2A&pp=ygUf7ZSE66CI7ImsIO2ZjeuLpe2EsOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "34K views"
           },
           {
-            "title": "😱나이 들면 지방이 흘러내린다고?! #지방이식 #성형외과",
+            "title": "🤔팔자주름 원인 3가지에 주목하세요! 필러만으로 팔자주름이 개선되지 않는 이유! 원인을 알고 팔자피자｜팔자주름 없애는법",
             "channel": "Fresh TV",
-            "url": "https://www.youtube.com/watch?v=jfC7N_kvGpY&pp=ygUr7ZSE66CI7ImsIO2ZjeuLpe2EsOydmOybkOyEse2YleyZuOqzvCBLb3JlYQ%3D%3D",
-            "view_text": "392K views"
+            "url": "https://www.youtube.com/watch?v=gY40aEtTg6U&pp=ygUf7ZSE66CI7ImsIO2ZjeuLpe2EsOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "19K views"
           },
           {
             "title": "외모를 치료해주는 프레쉬홍닥터의원 홍종현대표원장",
             "channel": "Fresh TV",
-            "url": "https://www.youtube.com/watch?v=bAYgJgZidNQ&pp=ygUr7ZSE66CI7ImsIO2ZjeuLpe2EsOydmOybkOyEse2YleyZuOqzvCBLb3JlYQ%3D%3D",
+            "url": "https://www.youtube.com/watch?v=bAYgJgZidNQ&pp=ygUf7ZSE66CI7ImsIO2ZjeuLpe2EsOydmOybkCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
             "view_text": "835 views"
           },
           {
-            "title": "나의 성형 시기! 성형 계절! 성형은 언제하면 좋을까? (SUB) plastic surgery korea",
+            "title": "성형수술 전 이것만 알면 수술 성공한다?! 수술 꿀팁 홍닥터가 알려줄께~(SUB)  pre-op precaution / plasctic surgery",
             "channel": "Fresh TV",
-            "url": "https://www.youtube.com/watch?v=ZAfFxJ5JyYM&pp=ygUr7ZSE66CI7ImsIO2ZjeuLpe2EsOydmOybkOyEse2YleyZuOqzvCBLb3JlYQ%3D%3D",
-            "view_text": "500 views"
+            "url": "https://www.youtube.com/watch?v=fvbY2D8tZnE&pp=ygUf7ZSE66CI7ImsIO2ZjeuLpe2EsOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "1.1K views"
+          },
+          {
+            "title": "눈밑지방재배치 부작용 왜 생길까? 부작용 없이 눈밑지 수술하는 방법! 효과 말해뭐해 | 프레쉬성형외과X홍닥터 홍종현 원장 (SUB)Under Eye Fat Repositioning",
+            "channel": "Fresh TV",
+            "url": "https://www.youtube.com/watch?v=X2rpaaZeTy0&pp=ygUf7ZSE66CI7ImsIO2ZjeuLpe2EsOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "13K views"
+          },
+          {
+            "title": "얼굴지방흡입 (SUB) 홍닥터의 댓글 읽기!!다 답변해 드립니다~  Facial Liposuction",
+            "channel": "Fresh TV",
+            "url": "https://www.youtube.com/watch?v=5xZNfxV0zf4&pp=ygUf7ZSE66CI7ImsIO2ZjeuLpe2EsOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "4.5K views"
+          },
+          {
+            "title": "모든 병원이 문 닫은 연휴에 부작용이 나타났다..😨",
+            "channel": "Fresh TV",
+            "url": "https://www.youtube.com/watch?v=GKke3emM_t8&pp=ygUf7ZSE66CI7ImsIO2ZjeuLpe2EsOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "4.9K views"
           }
         ]
       }
@@ -142,7 +142,7 @@
       }
     }
   },
-  "global_score": 15,
-  "opportunity_cost_thb": 85500,
-  "opportunity_cost_krw": 3420000
+  "global_score": 14,
+  "opportunity_cost_thb": 86000,
+  "opportunity_cost_krw": 3440000
 }

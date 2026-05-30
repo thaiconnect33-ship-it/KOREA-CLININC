@@ -1,16 +1,18 @@
 {
   "query": "나만의 즐거운 플랜 라라플랜의원",
-  "generated_at": "2026-05-28T23:26:18.061Z",
+  "generated_at": "2026-05-29T12:08:35.581Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 832,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "1222550365",
+        "name": "나만의 즐거운 플랜 라라플랜의원 : 네이버\u001c",
+        "visitor_review_count": 191,
+        "blog_review_count": 641,
+        "detail_url": "https://m.place.naver.com/place/1222550365/home"
       }
     },
     "google_maps": {
@@ -43,9 +45,38 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 0,
+      "metric_value": 3,
       "extra": {
-        "note": "결과 없음"
+        "total_views": 2902797,
+        "foreign_video_count": 1,
+        "lang_breakdown": {
+          "korean": 2,
+          "thai": 0,
+          "chinese": 1,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 3,
+        "top_videos": [
+          {
+            "title": "살 안 빠지는 이유는 ‘인슐린’ 때문입니다! | 살 빨리 빼고 싶다면 이렇게 해보세요",
+            "channel": "나만의 즐거운 플랜 라라플랜의원",
+            "url": "https://www.youtube.com/watch?v=gGD0Pkiotss&pp=ygUz64KY66eM7J2YIOymkOqxsOyatCDtlIzrnpwg652865287ZSM656c7J2Y7JuQIEtvcmVh",
+            "view_text": "2K views"
+          },
+          {
+            "title": "[자막뉴스] \"머리가 너무 아파요\"… 학교 간 내 딸의 비명 / KBS 2023.07.21.",
+            "channel": "KBS News",
+            "url": "https://www.youtube.com/watch?v=JbUoiwSlHGw&pp=ygUz64KY66eM7J2YIOymkOqxsOyatCDtlIzrnpwg652865287ZSM656c7J2Y7JuQIEtvcmVh",
+            "view_text": "2.9M views"
+          },
+          {
+            "title": "Dragon Commander returns to see his brother murdered! He orders 100K soldiers to seek revenge!",
+            "channel": "高能短剧社",
+            "url": "https://www.youtube.com/watch?v=BEzeu08LSVM&pp=ygUz64KY66eM7J2YIOymkOqxsOyatCDtlIzrnpwg652865287ZSM656c7J2Y7JuQIEtvcmVh",
+            "view_text": "797 views"
+          }
+        ]
       }
     },
     "xiaohongshu": {
@@ -59,16 +90,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 0,
-  "opportunity_cost_thb": 100000,
-  "opportunity_cost_krw": 4000000
+  "global_score": 1,
+  "opportunity_cost_thb": 99500,
+  "opportunity_cost_krw": 3980000
 }

@@ -1,0 +1,148 @@
+{
+  "query": "뷰티앤영의원 신사",
+  "generated_at": "2026-05-29T10:43:55.347Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 2388,
+      "extra": {
+        "place_id": "1999043266",
+        "name": "뷰티앤영의원 신사 : 네이버\u001c",
+        "visitor_review_count": 1419,
+        "blog_review_count": 969,
+        "detail_url": "https://m.place.naver.com/place/1999043266/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Beauty&young clinic",
+        "rating": 4.9,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 51666,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "[JP SUB]뷰티앤영 수술로도 해결 안됐던 눈밑, 필러로 해결 (feat. 이마필러)",
+            "channel": "뷰티앤영 BEAUTY&YOUNG",
+            "url": "https://www.youtube.com/watch?v=_FTqOmLu2oc&pp=ygUf67ew7Yuw7JWk7JiB7J2Y7JuQIOyLoOyCrCBLb3JlYQ%3D%3D",
+            "view_text": "964 views"
+          },
+          {
+            "title": "[JP SUB] 뷰티앤영 눈밑필러 근데 이제 앞광대를 곁들인..(feat. 휴먼강록체)",
+            "channel": "뷰티앤영 BEAUTY&YOUNG",
+            "url": "https://www.youtube.com/watch?v=69uWEO6fLUk&pp=ygUf67ew7Yuw7JWk7JiB7J2Y7JuQIOyLoOyCrCBLb3JlYQ%3D%3D",
+            "view_text": "5.1K views"
+          },
+          {
+            "title": "이마필러 전 필수시청!! 이마필러의 모든 것",
+            "channel": "뷰티앤영 BEAUTY&YOUNG",
+            "url": "https://www.youtube.com/watch?v=GzIHzB7dM9U&pp=ygUf67ew7Yuw7JWk7JiB7J2Y7JuQIOyLoOyCrCBLb3JlYQ%3D%3D",
+            "view_text": "1.7K views"
+          },
+          {
+            "title": "고민별 리프팅 총정리, 이 영상 안 보고 피부과 가면 후회합니다",
+            "channel": "뷰티앤영 BEAUTY&YOUNG",
+            "url": "https://www.youtube.com/watch?v=Ov7qB-Xm3ZM&pp=ygUf67ew7Yuw7JWk7JiB7J2Y7JuQIOyLoOyCrCBLb3JlYQ%3D%3D",
+            "view_text": "1.2K views"
+          },
+          {
+            "title": "[SUB] 짧은 시술 시간과 확실한 전후 차이🩵 눈밑지방재배치 필러는 뷰티앤영 :)",
+            "channel": "뷰티앤영 BEAUTY&YOUNG",
+            "url": "https://www.youtube.com/watch?v=C5Et3lUSDiM&pp=ygUf67ew7Yuw7JWk7JiB7J2Y7JuQIOyLoOyCrCBLb3JlYQ%3D%3D",
+            "view_text": "597 views"
+          },
+          {
+            "title": "피부과 원장이 꼭 하는 목주름 시술, 고통 & 유지 기간 & 시술 방법",
+            "channel": "뷰티앤영 BEAUTY&YOUNG",
+            "url": "https://www.youtube.com/watch?v=2FMEzYHE72M&pp=ygUf67ew7Yuw7JWk7JiB7J2Y7JuQIOyLoOyCrCBLb3JlYQ%3D%3D",
+            "view_text": "173 views"
+          },
+          {
+            "title": "[SUB] 원장님이 추천해 주는 피부 타입별 맞춤 시술❤️ 간단하게 내 피부 타입도 알려드릴게요!",
+            "channel": "뷰티앤영 BEAUTY&YOUNG",
+            "url": "https://www.youtube.com/watch?v=fCwB0X6mz60&pp=ygUf67ew7Yuw7JWk7JiB7J2Y7JuQIOyLoOyCrCBLb3JlYQ%3D%3D",
+            "view_text": "5.5K views"
+          },
+          {
+            "title": "[SUB] ✨새로워진 뷰티앤영✨ 더 나은 진료 서비스를 위해 확장 이전했습니다!",
+            "channel": "뷰티앤영 BEAUTY&YOUNG",
+            "url": "https://www.youtube.com/watch?v=Je2IOw3J9Cs&pp=ygUf67ew7Yuw7JWk7JiB7J2Y7JuQIOyLoOyCrCBLb3JlYQ%3D%3D",
+            "view_text": "837 views"
+          },
+          {
+            "title": "눈밑지방재배치, 팔자주름, 옆볼 필러, 20분 만에 콤플렉스 극복",
+            "channel": "뷰티앤영 BEAUTY&YOUNG",
+            "url": "https://www.youtube.com/watch?v=FuWmjVK8lvs&pp=ygUf67ew7Yuw7JWk7JiB7J2Y7JuQIOyLoOyCrCBLb3JlYQ%3D%3D",
+            "view_text": "170 views"
+          },
+          {
+            "title": "[SUB]김원장님 PICK!! 시술 등급 대공개✨",
+            "channel": "뷰티앤영 BEAUTY&YOUNG",
+            "url": "https://www.youtube.com/watch?v=hFmcm00b-EE&pp=ygUf67ew7Yuw7JWk7JiB7J2Y7JuQIOyLoOyCrCBLb3JlYQ%3D%3D",
+            "view_text": "7.9K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

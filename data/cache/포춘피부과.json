@@ -1,6 +1,6 @@
 {
   "query": "포춘피부과",
-  "generated_at": "2026-05-29T05:52:43.492Z",
+  "generated_at": "2026-05-29T10:19:02.701Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -45,14 +45,14 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 6696020,
-        "foreign_video_count": 16,
+        "total_views": 11806321,
+        "foreign_video_count": 18,
         "lang_breakdown": {
-          "korean": 4,
+          "korean": 2,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
-          "english_other": 16
+          "english_other": 18
         },
         "sample_size": 20,
         "top_videos": [
@@ -65,32 +65,20 @@
           {
             "title": "I Went to a Celebrity Dermatologist in Korea! Full Step by Step",
             "channel": "GRAZY GRACE",
-            "url": "https://www.youtube.com/watch?v=RqvEdWuzcwA&pp=ygUZRm9ydHVuZSBEZXJtYXRvbG9neSBLb3JlYQ%3D%3D",
+            "url": "https://www.youtube.com/watch?v=RqvEdWuzcwA&pp=ygUZRm9ydHVuZSBEZXJtYXRvbG9neSBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
             "view_text": "337K views"
+          },
+          {
+            "title": "Why You're Overpaying for Skincare—and What a Dermatologist Would Buy Instead | Networth & Chill",
+            "channel": "Your Rich BFF",
+            "url": "https://www.youtube.com/watch?v=_VtaSG_EqoM&pp=ygUZRm9ydHVuZSBEZXJtYXRvbG9neSBLb3JlYQ%3D%3D",
+            "view_text": "95K views"
           },
           {
             "title": "Sequence chinese",
             "channel": "HS Koo",
             "url": "https://www.youtube.com/watch?v=wzQ1hVdsWco&pp=ygUZRm9ydHVuZSBEZXJtYXRvbG9neSBLb3JlYQ%3D%3D",
             "view_text": "32 views"
-          },
-          {
-            "title": "Why You're Overpaying for Skincare—and What a Dermatologist Would Buy Instead | Networth & Chill",
-            "channel": "Your Rich BFF",
-            "url": "https://www.youtube.com/watch?v=_VtaSG_EqoM&pp=ygUZRm9ydHVuZSBEZXJtYXRvbG9neSBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
-            "view_text": "95K views"
-          },
-          {
-            "title": "How to Manage Wrinkles with Honey + This for 3 Minutes Before Washing Your Face | Skincare #Senio...",
-            "channel": "건강정보",
-            "url": "https://www.youtube.com/watch?v=9ftA2786luE&pp=ygUZRm9ydHVuZSBEZXJtYXRvbG9neSBLb3JlYQ%3D%3D",
-            "view_text": "74K views"
-          },
-          {
-            "title": "Meet Clinique Derm Pro | Dermatologist Dr. Kang Seunghoon",
-            "channel": "Clinique Singapore",
-            "url": "https://www.youtube.com/watch?v=h6XRYZ-tLE0&pp=ygUZRm9ydHVuZSBEZXJtYXRvbG9neSBLb3JlYQ%3D%3D",
-            "view_text": "150 views"
           },
           {
             "title": "Here’s What Your Moles Say About Your Dating Fortune, According To Koreans",
@@ -101,7 +89,7 @@
           {
             "title": "KOREAN DERMATOLOGIST VISIT + HUGE Korean Skincare Giveaway (10 winners)",
             "channel": "Beautifymeeh 뷰티파이미",
-            "url": "https://www.youtube.com/watch?v=gYB4D1CFvSo&pp=ygUZRm9ydHVuZSBEZXJtYXRvbG9neSBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "url": "https://www.youtube.com/watch?v=gYB4D1CFvSo&pp=ygUZRm9ydHVuZSBEZXJtYXRvbG9neSBLb3JlYQ%3D%3D",
             "view_text": "12K views"
           },
           {
@@ -111,10 +99,22 @@
             "view_text": "1.7K views"
           },
           {
+            "title": "Meet Clinique Derm Pro | Dermatologist Dr. Kang Seunghoon",
+            "channel": "Clinique Singapore",
+            "url": "https://www.youtube.com/watch?v=h6XRYZ-tLE0&pp=ygUZRm9ydHVuZSBEZXJtYXRvbG9neSBLb3JlYQ%3D%3D",
+            "view_text": "150 views"
+          },
+          {
             "title": "Dermatologist Reveals: This Korean Secret Erases Wrinkles and Brown Spots in Weeks!",
             "channel": "Le Docteur Révèle | Dr Enzo Durant",
-            "url": "https://www.youtube.com/watch?v=Wxz97rdX9pA&pp=ygUZRm9ydHVuZSBEZXJtYXRvbG9neSBLb3JlYQ%3D%3D",
+            "url": "https://www.youtube.com/watch?v=Wxz97rdX9pA&pp=ygUZRm9ydHVuZSBEZXJtYXRvbG9neSBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
             "view_text": "1K views"
+          },
+          {
+            "title": "Why Do Asians Age Slower?",
+            "channel": "Underneath It",
+            "url": "https://www.youtube.com/watch?v=KjRKPmIJsY8&pp=ygUZRm9ydHVuZSBEZXJtYXRvbG9neSBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "74 views"
           }
         ]
       }
@@ -140,7 +140,7 @@
       }
     }
   },
-  "global_score": 16,
-  "opportunity_cost_thb": 89000,
-  "opportunity_cost_krw": 3560000
+  "global_score": 17,
+  "opportunity_cost_thb": 88000,
+  "opportunity_cost_krw": 3520000
 }

@@ -1,6 +1,6 @@
 {
   "query": "나라온의원",
-  "generated_at": "2026-05-28T23:37:42.105Z",
+  "generated_at": "2026-05-29T12:21:51.621Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 1003344,
+        "total_views": 1089896,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -59,64 +59,64 @@
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "처음 복용하는 탈모약!! 선택의 중요성!!",
-            "channel": "당신의 탈모주치의 모나라",
-            "url": "https://www.youtube.com/watch?v=jwSBc--GRRo&pp=ygUe64KY65287Jio7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "218 views"
+            "title": "\"'나라 바로세우자' 의지 강했는데…\" 여야, 정두언 前의원 애도 / 연합뉴스TV (YonhapnewsTV)",
+            "channel": "연합뉴스TV",
+            "url": "https://www.youtube.com/watch?v=Phr7NB7HkZA&pp=ygUV64KY65287Jio7J2Y7JuQIEtvcmVh",
+            "view_text": "1.5K"
           },
           {
-            "title": "[아름다운나라피부과] 피지샘센터",
-            "channel": "아름다운나라피부과강남/분당",
-            "url": "https://www.youtube.com/watch?v=XaV37kIJemQ&pp=ygUe64KY65287Jio7J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCSMLAYcqIYzv",
-            "view_text": "877 views"
+            "title": "박근혜 \"박형준, 많은 일 할 것... 박민식, 나라 잘 지킬 것\"",
+            "channel": "오마이TV",
+            "url": "https://www.youtube.com/watch?v=qJfvDFU5TMI&pp=ygUV64KY65287Jio7J2Y7JuQIEtvcmVh",
+            "view_text": "15K"
           },
           {
-            "title": "의사들만 몰래받는 S급 가성비! 수백만원 아끼는 만족도 가장 높은 시술을 20년차 피부과 전문의가 알려드립니다.",
-            "channel": "피부는 성현철",
-            "url": "https://www.youtube.com/watch?v=SFlFQByIQ1g&pp=ygUe64KY65287Jio7J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCSMLAYcqIYzv",
-            "view_text": "913K views"
+            "title": "독립운동가들의 대륙 해양사관을 말살한 조선총독부의 반도사관",
+            "channel": "이덕일 역사 TV",
+            "url": "https://www.youtube.com/watch?v=dC9A5GcFETA&pp=ygUV64KY65287Jio7J2Y7JuQIEtvcmVh",
+            "view_text": "196"
           },
           {
-            "title": "정확한 탈모진단!!! #피부과전문의 #두피진단기 #탈모초기에 정확히 진단하고 치료하는 것이 무엇보다 중요합니다!!",
-            "channel": "당신의 탈모주치의 모나라",
-            "url": "https://www.youtube.com/watch?v=vGHUnny2sHQ&pp=ygUe64KY65287Jio7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "132 views"
+            "title": "다카이치 총리, 한국 의원들 만나 \"한일 협력 어느 때보다 중요\" / YTN",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=WVYta0zlwDA&pp=ygUV64KY65287Jio7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "4.2K"
           },
           {
-            "title": "모발이식 후 생착률 올리는 관리법!!! (모나라피부과 비밀 비법)",
-            "channel": "당신의 탈모주치의 모나라",
-            "url": "https://www.youtube.com/watch?v=uA4p5NOqwvE&pp=ygUe64KY65287Jio7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "744 views"
+            "title": "[사설] 우리 화물선 침몰했을 수도, 왜 이란과 이스라엘 대응이 다른가 | 안용현 논설위원",
+            "channel": "조선일보",
+            "url": "https://www.youtube.com/watch?v=cOcIiu06Fhk&pp=ygUV64KY65287Jio7J2Y7JuQIEtvcmVh",
+            "view_text": "4.6K"
           },
           {
-            "title": "[모나라피부과] 모발이식 상담 호구 탈출기!!!",
-            "channel": "당신의 탈모주치의 모나라",
-            "url": "https://www.youtube.com/watch?v=O1cwU5wkmqg&pp=ygUe64KY65287Jio7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "26K views"
+            "title": "아프간 전 의원 '여성을 위한 나라는 없다' [ON 세계]",
+            "channel": "TBS 시민의방송",
+            "url": "https://www.youtube.com/watch?v=JGibd8pLycw&pp=ygUV64KY65287Jio7J2Y7JuQIEtvcmVh",
+            "view_text": "4.1K"
           },
           {
-            "title": "탈모 치료와 예방에 도움이 되는 모발영양제!! 비싼게 좋은 거다?? 가성비 끝판왕 영양제 추천!!",
-            "channel": "당신의 탈모주치의 모나라",
-            "url": "https://www.youtube.com/watch?v=C-bW1aBZPZ4&pp=ygUe64KY65287Jio7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "247 views"
+            "title": "[자막] 한병도 의원의 일침 “나라 망칠 작정 아니면, 정부 부동산 정책에 협조하라”",
+            "channel": "춘천MBC뉴스",
+            "url": "https://www.youtube.com/watch?v=jGWYcBv7NAk&pp=ygUV64KY65287Jio7J2Y7JuQIEtvcmVh",
+            "view_text": "6.8K"
           },
           {
-            "title": "두피와 모발의 세포까지 들여다보는 병원, 모나라피부과입니다!!",
-            "channel": "당신의 탈모주치의 모나라",
-            "url": "https://www.youtube.com/watch?v=COhB1z5k9fU&pp=ygUe64KY65287Jio7J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCSMLAYcqIYzv",
-            "view_text": "263 views"
+            "title": "[정치 ON] '여론조사 공표금지' D-1...곳곳 접전 속 '예측불허' / YTN",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=cOPPcTvyGMk&pp=ygUV64KY65287Jio7J2Y7JuQIEtvcmVh",
+            "view_text": "2.6K"
           },
           {
-            "title": "비절개 모발이식 리얼 성공 사례 리뷰! 압구정 모나라피부과!",
-            "channel": "당신의 탈모주치의 모나라",
-            "url": "https://www.youtube.com/watch?v=fsyLOVameUY&pp=ygUe64KY65287Jio7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "355 views"
+            "title": "[예고] 김영주 의원의 \"아이도 부모도 행복한 나라\" | 우리들의 법 | 국회방송",
+            "channel": "NATV 국회방송",
+            "url": "https://www.youtube.com/watch?v=1GjkTJPsSlA&pp=ygUV64KY65287Jio7J2Y7JuQIEtvcmVh",
+            "view_text": "300"
           },
           {
-            "title": "리프팅 최고의 가성비 아름다운나라피부과",
-            "channel": "강남아름다운나라피부과",
-            "url": "https://www.youtube.com/watch?v=PrF5qhcSktU&pp=ygUe64KY65287Jio7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "378 views"
+            "title": "문희상 \"5선 이상 중진 의원, 나라 하나씩 맡아 의원 외교해야\" / YTN",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=AZs1cglP1Lc&pp=ygUV64KY65287Jio7J2Y7JuQIEtvcmVh",
+            "view_text": "1K"
           }
         ]
       }
@@ -132,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

@@ -1,16 +1,16 @@
 {
   "query": "더씨엘의원",
-  "generated_at": "2026-05-28T22:24:17.625Z",
+  "generated_at": "2026-05-29T11:00:51.948Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 3275,
+      "metric_value": 3276,
       "extra": {
         "place_id": "35572206",
         "name": "더씨엘의원 : 네이버\u001c",
-        "visitor_review_count": 239,
+        "visitor_review_count": 240,
         "blog_review_count": 3036,
         "detail_url": "https://m.place.naver.com/place/35572206/home"
       }
@@ -38,7 +38,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 444677,
+        "total_views": 374405,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -50,64 +50,64 @@
         "sample_size": 20,
         "top_videos": [
           {
+            "title": "얼굴지방흡입과 이마지방이식 동시 시술 후기 Ep.1",
+            "channel": "닥터씨엘 Dr. CL",
+            "url": "https://www.youtube.com/watch?v=qVEibFf9__Q&pp=ygUV642U7JSo7JeY7J2Y7JuQIEtvcmVh",
+            "view_text": "26K"
+          },
+          {
             "title": "지방이식, 넣는 것보다 빼는 게 10배 어렵습니다. 1,000건의 복구 시술로 경험한 노하우 대방출",
             "channel": "닥터씨엘 Dr. CL",
-            "url": "https://www.youtube.com/watch?v=JzkQRqlddE0&pp=ygUe642U7JSo7JeY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "1.5K views"
+            "url": "https://www.youtube.com/watch?v=JzkQRqlddE0&pp=ygUV642U7JSo7JeY7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "1.5K"
+          },
+          {
+            "title": "얼굴지방흡입에 대해 솔직하게 말씀드립니다. | 시술 부위, 효과, 붓기, 멍, 경과, 부작용",
+            "channel": "닥터씨엘 Dr. CL",
+            "url": "https://www.youtube.com/watch?v=KdM0u9V2BlI&pp=ygUV642U7JSo7JeY7J2Y7JuQIEtvcmVh",
+            "view_text": "132K"
           },
           {
             "title": "[ 옥시젠슈티컬스 ] OxygenCeuticals X 더씨엘클리닉",
             "channel": "OxygenCeuticals Korea",
-            "url": "https://www.youtube.com/watch?v=_PhBkClJe64&pp=ygUe642U7JSo7JeY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "953 views"
+            "url": "https://www.youtube.com/watch?v=_PhBkClJe64&pp=ygUV642U7JSo7JeY7J2Y7JuQIEtvcmVh",
+            "view_text": "953"
           },
           {
-            "title": "무조건 효과 본다고 생각하는 #지방흡입, 5천 건 이상 해보니 알게 된 진실을 알려드리겠습니다",
+            "title": "필러? 지방이식? 시술 전 반드시 알아야 할 필러와 지방이식의 진실",
             "channel": "닥터씨엘 Dr. CL",
-            "url": "https://www.youtube.com/watch?v=rqd77IVTKAY&pp=ygUe642U7JSo7JeY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "1.9K views"
+            "url": "https://www.youtube.com/watch?v=4KLpoywFj-M&pp=ygUV642U7JSo7JeY7J2Y7JuQIEtvcmVh",
+            "view_text": "44K"
           },
           {
-            "title": "청담동 동안 피부과 원장이 매년 받는 시술 공개합니다 (인모드, 울쎄라)",
-            "channel": "최크마이피부",
-            "url": "https://www.youtube.com/watch?v=tOz3RumcsrM&pp=ygUe642U7JSo7JeY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "670 views"
-          },
-          {
-            "title": "실리프팅 전 필독! 거울 보고 3초 만에 효과 자가진단 하는 법",
+            "title": "팔자 지방흡입 앞볼살 지방흡입으로 지방이식 과주입 제거 | 앞볼살 앞광대살 제거의 효과와 부작용",
             "channel": "닥터씨엘 Dr. CL",
-            "url": "https://www.youtube.com/watch?v=kvCkZdVDBqA&pp=ygUe642U7JSo7JeY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "1.5K views"
+            "url": "https://www.youtube.com/watch?v=P5XXvraBl1M&pp=ygUV642U7JSo7JeY7J2Y7JuQIEtvcmVh",
+            "view_text": "45K"
           },
           {
-            "title": "“무조건 10년 젊어져요” 필러보다 효과 좋은 얼굴 볼륨 시술 TOP1 | 엘란쎄",
+            "title": "얼굴지방흡입과 이마지방이식 동시시술 입니다.",
             "channel": "닥터씨엘 Dr. CL",
-            "url": "https://www.youtube.com/watch?v=wpRcWJETRhM&pp=ygUe642U7JSo7JeY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "4.6K views"
+            "url": "https://www.youtube.com/watch?v=AaCWwAjS7VY&pp=ygUV642U7JSo7JeY7J2Y7JuQIEtvcmVh",
+            "view_text": "5.1K"
           },
           {
-            "title": "From Thermage tips to information you'll regret missing out on, I'll share it all!",
+            "title": "집에서 모공 줄이는 법? 청담동 클리닉 원장이 A to Z 전부 공개합니다. [모공 원인, 홈케어, 치료법]",
             "channel": "닥터씨엘 Dr. CL",
-            "url": "https://www.youtube.com/watch?v=NUFG0crRsaA&pp=ygUe642U7JSo7JeY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "29K views"
+            "url": "https://www.youtube.com/watch?v=oQE4D9PQVAI&pp=ygUV642U7JSo7JeY7J2Y7JuQIEtvcmVh",
+            "view_text": "399"
           },
           {
-            "title": "엘란쎄 부작용, 정말 위험할까? 10년 넘게 시술해 본 의사의 솔직한 고백",
+            "title": "무릎 울쎄라 시술을 원장이 직접 받아보는 중",
             "channel": "닥터씨엘 Dr. CL",
-            "url": "https://www.youtube.com/watch?v=bWyIP47kQqo&pp=ygUe642U7JSo7JeY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "3.9K views"
+            "url": "https://www.youtube.com/watch?v=7TlQQ6T_BYs&pp=ygUV642U7JSo7JeY7J2Y7JuQIEtvcmVh",
+            "view_text": "1.4K"
           },
           {
-            "title": "턱보톡스를 더씨엘클리닉 최원장님께 놔드리는 장면",
+            "title": "관리 좀 한다는 연예인들의 비밀? '이 5가지'에 있습니다! | 청담 피부클리닉 대표 원장",
             "channel": "닥터씨엘 Dr. CL",
-            "url": "https://www.youtube.com/watch?v=Vm8VBkTmDgw&pp=ygUe642U7JSo7JeY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "654 views"
-          },
-          {
-            "title": "얼굴지방흡입과 이마지방이식 동시 시술 후기 Ep.1",
-            "channel": "닥터씨엘 Dr. CL",
-            "url": "https://www.youtube.com/watch?v=qVEibFf9__Q&pp=ygUe642U7JSo7JeY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "26K views"
+            "url": "https://www.youtube.com/watch?v=QBLZ72noo4Q&pp=ygUV642U7JSo7JeY7J2Y7JuQIEtvcmVh",
+            "view_text": "526"
           }
         ]
       }
@@ -123,12 +123,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

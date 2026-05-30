@@ -1,6 +1,6 @@
 {
   "query": "국원석성형외과의원",
-  "generated_at": "2026-05-28T22:42:09.035Z",
+  "generated_at": "2026-05-29T11:20:40.656Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -23,13 +23,13 @@
         "name": "국원석성형외과",
         "rating": 3.8,
         "total_reviews": 29,
-        "sample_size": 16,
-        "foreign_language_reviews": 16,
+        "sample_size": 20,
+        "foreign_language_reviews": 20,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 16
+          "english_other": 20
         }
       }
     },
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 70999,
+        "total_views": 66277,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -59,64 +59,64 @@
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "국원석성형외과 첫수술, 재수술 유명한 이유?",
+            "title": "[매부리코 #1] 매부리코 성형의 중요 포인트",
             "channel": "국원석성형외과",
-            "url": "https://www.youtube.com/watch?v=XWIqoWL59DA&pp=ygUt6rWt7JuQ7ISd7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "3.1K views"
+            "url": "https://www.youtube.com/watch?v=g9f1-4V-HVU&pp=ygUh6rWt7JuQ7ISd7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "2.3K views"
           },
           {
             "title": "코성형 부작용과 재수술",
             "channel": "국원석성형외과",
-            "url": "https://www.youtube.com/watch?v=gT44vo6Br2Y&pp=ygUt6rWt7JuQ7ISd7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=gT44vo6Br2Y&pp=ygUh6rWt7JuQ7ISd7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "3K views"
           },
           {
-            "title": "[매부리코 #1] 매부리코 성형의 중요 포인트",
+            "title": "국원석성형외과 첫수술, 재수술 유명한 이유?",
             "channel": "국원석성형외과",
-            "url": "https://www.youtube.com/watch?v=g9f1-4V-HVU&pp=ygUt6rWt7JuQ7ISd7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "2.3K views"
+            "url": "https://www.youtube.com/watch?v=XWIqoWL59DA&pp=ygUh6rWt7JuQ7ISd7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "3.1K views"
+          },
+          {
+            "title": "사례와 함께 보는 \"내가 코 실리콘 보형물을 싫어하는 이유\" #3 #구축코 #코보형물제거 #코재수술",
+            "channel": "국원석성형외과",
+            "url": "https://www.youtube.com/watch?v=XhoEXlEtpAM&pp=ygUh6rWt7JuQ7ISd7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "7.3K views"
+          },
+          {
+            "title": "#코보형물제거 하며 코끝 연골 남기면 구축&이물감 생길까요?",
+            "channel": "국원석성형외과",
+            "url": "https://www.youtube.com/watch?v=VOl2pGnOxzs&pp=ygUh6rWt7JuQ7ISd7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "3.2K views"
+          },
+          {
+            "title": "하이코 시술 하지마세요",
+            "channel": "국원석성형외과",
+            "url": "https://www.youtube.com/watch?v=fOsJ_cllk8Y&pp=ygUh6rWt7JuQ7ISd7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "3.8K views"
+          },
+          {
+            "title": "구축코현상 발생원인 및 구축코 변형의 종류와 코재수술결과를 사례로 알아보자!",
+            "channel": "국원석성형외과",
+            "url": "https://www.youtube.com/watch?v=Z1xkzhG8xEo&pp=ygUh6rWt7JuQ7ISd7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "3.2K views"
           },
           {
             "title": "국원석성형외과 눈성형의 특별함은 무엇인가요?",
             "channel": "국원석성형외과",
-            "url": "https://www.youtube.com/watch?v=z0bH1nfUoLM&pp=ygUt6rWt7JuQ7ISd7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=z0bH1nfUoLM&pp=ygUh6rWt7JuQ7ISd7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "2.1K views"
           },
           {
             "title": "안면윤곽수술 이후 무조건 턱과 볼살이 처진다는데 맞나요?",
             "channel": "국원석성형외과",
-            "url": "https://www.youtube.com/watch?v=ytWzVuyUI6M&pp=ygUt6rWt7JuQ7ISd7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=ytWzVuyUI6M&pp=ygUh6rWt7JuQ7ISd7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "1.4K views"
-          },
-          {
-            "title": "#코보형물제거 후 코 들림, 안장코, 비주함몰 생기지 않을까요?",
-            "channel": "국원석성형외과",
-            "url": "https://www.youtube.com/watch?v=PDPEfPEbrVw&pp=ygUt6rWt7JuQ7ISd7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "3.9K views"
-          },
-          {
-            "title": "코 성형 후 생긴 와핑 현상, 재수술 고민한다면 필수 시청!",
-            "channel": "국원석성형외과",
-            "url": "https://www.youtube.com/watch?v=JMDZuYYsXkA&pp=ygUt6rWt7JuQ7ISd7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "334 views"
-          },
-          {
-            "title": "쌍꺼풀, 눈매교정, 코성형을 통해 변화한 얼굴 궁금하다면? 실제환자 개선사례",
-            "channel": "국원석성형외과",
-            "url": "https://www.youtube.com/watch?v=7MOrNY1j5Qs&pp=ygUt6rWt7JuQ7ISd7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "860 views"
           },
           {
             "title": "코실리콘제거 후 코끝의 움직임 4",
             "channel": "국원석성형외과",
-            "url": "https://www.youtube.com/watch?v=KhPQOw02gjo&pp=ygUt6rWt7JuQ7ISd7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=KhPQOw02gjo&pp=ygUh6rWt7JuQ7ISd7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "8.1K views"
-          },
-          {
-            "title": "EP.1 언제부턴가 뒤틀려버린 내 코! \"구축코 교정의 시작\" (수술 전)",
-            "channel": "국원석성형외과",
-            "url": "https://www.youtube.com/watch?v=wA3Fs6APliU&pp=ygUt6rWt7JuQ7ISd7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.6K views"
           }
         ]
       }
@@ -132,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 8,
-  "opportunity_cost_thb": 92000,
-  "opportunity_cost_krw": 3680000
+  "global_score": 10,
+  "opportunity_cost_thb": 90000,
+  "opportunity_cost_krw": 3600000
 }

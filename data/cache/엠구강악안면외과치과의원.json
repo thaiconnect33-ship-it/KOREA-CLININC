@@ -1,16 +1,18 @@
 {
   "query": "엠구강악안면외과치과의원",
-  "generated_at": "2026-05-29T00:14:37.995Z",
+  "generated_at": "2026-05-29T13:01:51.158Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 64,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "11523898",
+        "name": "엠구강악안면외과치과의원 : 네이버\u001c",
+        "visitor_review_count": 58,
+        "blog_review_count": 6,
+        "detail_url": "https://m.place.naver.com/place/11523898/home"
       }
     },
     "google_maps": {
@@ -18,16 +20,16 @@
       "metric_label": "리뷰",
       "metric_value": 0,
       "extra": {
-        "name": "Results",
-        "rating": 4,
+        "name": "JUM Oral and Maxillofacial Surgery, Dental Clinic",
+        "rating": 4.4,
         "total_reviews": 0,
-        "sample_size": 6,
-        "foreign_language_reviews": 6,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 6
+          "english_other": 0
         }
       }
     },
@@ -45,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 46629,
+        "total_views": 51149,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -59,62 +61,62 @@
           {
             "title": "Wisdom teeth that you want to love, wisdom teeth that you cannot love - Dr. Kim Hyeon-seop, Direc...",
             "channel": "대한치과의사협회 치의신보TV",
-            "url": "https://www.youtube.com/watch?v=_Ov41dXuyNg&pp=ygUw7Jeg6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=_Ov41dXuyNg&pp=ygUq7Jeg6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQIEtvcmVh",
             "view_text": "2.9K views"
           },
           {
             "title": "[JP]원장님에게 물어봤습니다. 뭐가 더 좋습니까? ㅣ 와이구강악안면외과 치과의원",
             "channel": "이석재의 양악생활",
-            "url": "https://www.youtube.com/watch?v=1LxtjFRcpSc&pp=ygUw7Jeg6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=1LxtjFRcpSc&pp=ygUq7Jeg6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQIEtvcmVh",
             "view_text": "615 views"
           },
           {
             "title": "양악 수술 이런 분들은 하지 마세요. 후회합니다.ㅣ와이구강악안면외과 치과의원 이석재 원장",
             "channel": "이석재의 양악생활",
-            "url": "https://www.youtube.com/watch?v=TP4fxoWRAfE&pp=ygUw7Jeg6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=TP4fxoWRAfE&pp=ygUq7Jeg6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQIEtvcmVh",
             "view_text": "17K views"
           },
           {
             "title": "Is the Dentist Only for Pain? Revealing Ways to Protect Your Teeth for a Lifetime | Kim Hyun-seop...",
             "channel": "광주일보",
-            "url": "https://www.youtube.com/watch?v=Z85v1AUsDpE&pp=ygUw7Jeg6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=Z85v1AUsDpE&pp=ygUq7Jeg6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQIEtvcmVh",
             "view_text": "133 views"
-          },
-          {
-            "title": "[악안면성형재건외과학회] 치과에서 활용가능한 심미성형 보톡스",
-            "channel": "OSSTEM",
-            "url": "https://www.youtube.com/watch?v=uQiELgptcFk&pp=ygUw7Jeg6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
-            "view_text": "705 views"
-          },
-          {
-            "title": "Amazing story of the Face Dental Clinic",
-            "channel": "더페이스 치과 구강악안면외과 (THEFACE DENTAL)",
-            "url": "https://www.youtube.com/watch?v=hTLzKQXor9w&pp=ygUw7Jeg6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
-            "view_text": "2.2K views"
-          },
-          {
-            "title": "치과의사와 치과위생사가 직접 알려줍니다. 사랑니 발치 후 주의사항.",
-            "channel": "3i대장_더블엠",
-            "url": "https://www.youtube.com/watch?v=IEHSpba_G98&pp=ygUw7Jeg6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
-            "view_text": "2.1K views"
-          },
-          {
-            "title": "홍성옥교수_강동경희대치과병원 구강악안면외과",
-            "channel": "ITI Section Korea",
-            "url": "https://www.youtube.com/watch?v=kXe2y-27HAE&pp=ygUw7Jeg6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh0gcJCSMLAYcqIYzv",
-            "view_text": "847 views"
           },
           {
             "title": "[EN/JP] 양악수술 상담받으러 가기 전 봐야할 영상 ㅣ 와이구강악안면외과 치과의원",
             "channel": "이석재의 양악생활",
-            "url": "https://www.youtube.com/watch?v=jbtSzhBO56w&pp=ygUw7Jeg6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=jbtSzhBO56w&pp=ygUq7Jeg6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQIEtvcmVh",
             "view_text": "9K views"
           },
           {
-            "title": "그렇습니다! 저는 구강 악안면 외과 의사입니다.",
+            "title": "Amazing story of the Face Dental Clinic",
+            "channel": "더페이스 치과 구강악안면외과 (THEFACE DENTAL)",
+            "url": "https://www.youtube.com/watch?v=hTLzKQXor9w&pp=ygUq7Jeg6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "2.2K views"
+          },
+          {
+            "title": "[악안면성형재건외과학회] 치과에서 활용가능한 심미성형 보톡스",
+            "channel": "OSSTEM",
+            "url": "https://www.youtube.com/watch?v=uQiELgptcFk&pp=ygUq7Jeg6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "705 views"
+          },
+          {
+            "title": "양악수술과 돌출입수술을 같이하는 케이스? | 이유구강악안면외과",
+            "channel": "이유구강악안면외과",
+            "url": "https://www.youtube.com/watch?v=7Gi1e5GdrLI&pp=ygUq7Jeg6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "725 views"
+          },
+          {
+            "title": "[잠실숲사랑니 구강악안면외과 치과의원] 소개 영상",
+            "channel": "잠실숲사랑니 구강악안면외과 치과의원",
+            "url": "https://www.youtube.com/watch?v=odRTObRAySE&pp=ygUq7Jeg6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "792 views"
+          },
+          {
+            "title": "치과의사와 치과위생사가 직접 알려줍니다. 사랑니 발치 후 주의사항.",
             "channel": "3i대장_더블엠",
-            "url": "https://www.youtube.com/watch?v=sL4WXbkD7ts&pp=ygUw7Jeg6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
-            "view_text": "579 views"
+            "url": "https://www.youtube.com/watch?v=IEHSpba_G98&pp=ygUq7Jeg6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "2.1K views"
           }
         ]
       }
@@ -130,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 3,
-  "opportunity_cost_thb": 97000,
-  "opportunity_cost_krw": 3880000
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
 }

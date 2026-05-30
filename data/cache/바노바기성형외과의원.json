@@ -1,17 +1,17 @@
 {
   "query": "바노바기성형외과의원",
-  "generated_at": "2026-05-29T00:19:54.470Z",
+  "generated_at": "2026-05-29T13:07:12.605Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 8765,
+      "metric_value": 8767,
       "extra": {
         "place_id": "21033469",
         "name": "바노바기성형외과의원 : 네이버\u001c",
         "visitor_review_count": 777,
-        "blog_review_count": 7988,
+        "blog_review_count": 7990,
         "detail_url": "https://m.place.naver.com/place/21033469/home"
       }
     },
@@ -23,13 +23,13 @@
         "name": "Banobagi Plastic Surgery",
         "rating": 4.4,
         "total_reviews": 236,
-        "sample_size": 16,
-        "foreign_language_reviews": 16,
+        "sample_size": 20,
+        "foreign_language_reviews": 20,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 16
+          "english_other": 20
         }
       }
     },
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 2105027,
+        "total_views": 2152325,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -59,64 +59,64 @@
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "눈꺼풀 처짐, 진짜 원인은 눈이 아니라 이마다?!🔥 이마거상 or 눈썹하거상 구분 방법💛",
-            "channel": "바노바기성형외과",
-            "url": "https://www.youtube.com/watch?v=8_OIpuS8IpU&pp=ygUw67CU64W467CU6riw7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "244 views"
-          },
-          {
-            "title": "⭐새롭게 오픈한 바노바기성형외과 VIP 리프팅 라운지를 소개합니다⭐",
-            "channel": "바노바기성형외과",
-            "url": "https://www.youtube.com/watch?v=QzKuZ2e9t_4&pp=ygUw67CU64W467CU6riw7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.3K views"
-          },
-          {
             "title": "[리얼모델] 윤곽만으로 이렇게 바뀐다고?!😲",
             "channel": "바노바기성형외과",
-            "url": "https://www.youtube.com/watch?v=au8hQRqJVjA&pp=ygUw67CU64W467CU6riw7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "7.2K views"
+            "url": "https://www.youtube.com/watch?v=au8hQRqJVjA&pp=ygUk67CU64W467CU6riw7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "7.2K"
           },
           {
-            "title": "I am Detailist  '바노바기성형외과의원'",
+            "title": "눈꺼풀 처짐, 진짜 원인은 눈이 아니라 이마다?!🔥 이마거상 or 눈썹하거상 구분 방법💛",
             "channel": "바노바기성형외과",
-            "url": "https://www.youtube.com/watch?v=2s40NW8K1N0&pp=ygUw67CU64W467CU6riw7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1M views"
-          },
-          {
-            "title": "'바노바기성형외과의원' 아름다운 당신3 : 김민정 리얼스토리",
-            "channel": "바노바기성형외과",
-            "url": "https://www.youtube.com/watch?v=MxoZmCG0OpQ&pp=ygUw67CU64W467CU6riw7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1K views"
-          },
-          {
-            "title": "윤곽 성형, 고민이세요?",
-            "channel": "바노바기성형외과",
-            "url": "https://www.youtube.com/watch?v=QH3aXT94zVc&pp=ygUw67CU64W467CU6riw7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
-            "view_text": "56K views"
-          },
-          {
-            "title": "[윤곽수술]20년 경험의 눈을 통해 본 안면윤곽수술",
-            "channel": "바노바기성형외과",
-            "url": "https://www.youtube.com/watch?v=LtKAwxa2b3A&pp=ygUw67CU64W467CU6riw7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "50K views"
-          },
-          {
-            "title": "[동안성형] 실리프팅 종류와 방법 알아보기!",
-            "channel": "바노바기성형외과",
-            "url": "https://www.youtube.com/watch?v=oIsRWGNmUPo&pp=ygUw67CU64W467CU6riw7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
-            "view_text": "1.6K views"
-          },
-          {
-            "title": "[바노바기TV] SBS 생활과 건강_반재상 원장님의 \"동안성형\"",
-            "channel": "바노바기성형외과",
-            "url": "https://www.youtube.com/watch?v=XkioEvqT4ko&pp=ygUw67CU64W467CU6riw7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1K views"
+            "url": "https://www.youtube.com/watch?v=8_OIpuS8IpU&pp=ygUk67CU64W467CU6riw7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "244"
           },
           {
             "title": "✪양악수술✪ 하실거면 최소 이것만은 알고 하세요!!",
             "channel": "바노바기성형외과",
-            "url": "https://www.youtube.com/watch?v=eXNYHiH_AVM&pp=ygUw67CU64W467CU6riw7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.4K views"
+            "url": "https://www.youtube.com/watch?v=eXNYHiH_AVM&pp=ygUk67CU64W467CU6riw7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.4K"
+          },
+          {
+            "title": "전문의가 말하는 안면윤곽 효과 확실하게 보는 법!",
+            "channel": "바노바기성형외과",
+            "url": "https://www.youtube.com/watch?v=E-0_psuJqHA&pp=ygUk67CU64W467CU6riw7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "42K"
+          },
+          {
+            "title": "윤곽 성형, 고민이세요?",
+            "channel": "바노바기성형외과",
+            "url": "https://www.youtube.com/watch?v=QH3aXT94zVc&pp=ygUk67CU64W467CU6riw7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "56K"
+          },
+          {
+            "title": "[바노바기] 믿을 수 있습니다 \"바노바기\"",
+            "channel": "바노바기성형외과",
+            "url": "https://www.youtube.com/watch?v=kvaYza63Bdg&pp=ygUk67CU64W467CU6riw7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "285"
+          },
+          {
+            "title": "🙌 성형외과 전문의의 3분 자기소개 😉😉 한 번 들어볼래? ❤️",
+            "channel": "바노바기성형외과",
+            "url": "https://www.youtube.com/watch?v=KroISyIeoNs&pp=ygUk67CU64W467CU6riw7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.1K"
+          },
+          {
+            "title": "바노바기성형외과 - 살려줘요 얼굴형 ver.1",
+            "channel": "바노바기성형외과",
+            "url": "https://www.youtube.com/watch?v=VK-LDkE8hAE&pp=ygUk67CU64W467CU6riw7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "972"
+          },
+          {
+            "title": "[윤곽수술]20년 경험의 눈을 통해 본 안면윤곽수술",
+            "channel": "바노바기성형외과",
+            "url": "https://www.youtube.com/watch?v=LtKAwxa2b3A&pp=ygUk67CU64W467CU6riw7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "50K"
+          },
+          {
+            "title": "바노바기성형외과 - 살려줘요 얼굴형 ver.2",
+            "channel": "바노바기성형외과",
+            "url": "https://www.youtube.com/watch?v=fxP1Dec6Ddg&pp=ygUk67CU64W467CU6riw7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "884"
           }
         ]
       }
@@ -132,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 8,
-  "opportunity_cost_thb": 92000,
-  "opportunity_cost_krw": 3680000
+  "global_score": 10,
+  "opportunity_cost_thb": 90000,
+  "opportunity_cost_krw": 3600000
 }

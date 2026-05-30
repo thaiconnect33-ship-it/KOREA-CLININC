@@ -1,16 +1,18 @@
 {
   "query": "로젠성형외과의원",
-  "generated_at": "2026-05-28T23:47:13.613Z",
+  "generated_at": "2026-05-29T12:33:26.285Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 249,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "1637614070",
+        "name": "로젠성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 171,
+        "blog_review_count": 78,
+        "detail_url": "https://m.place.naver.com/place/1637614070/home"
       }
     },
     "google_maps": {
@@ -43,9 +45,80 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 0,
+      "metric_value": 20,
       "extra": {
-        "note": "결과 없음"
+        "total_views": 304359,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "비주가 예뻐야 진짜 예쁜 코! | 에이비성형외과",
+            "channel": "에이비성형외과 AB Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=fUaBuJwK5N0&pp=ygUe66Gc7KCg7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "63K views"
+          },
+          {
+            "title": "[홍진주의 성형 Q&A] #5. 성형, 선택의 딜레마 '매몰 vs 절개' (제이제이성형외과 홍진주 원장)",
+            "channel": "의학채널 비온뒤",
+            "url": "https://www.youtube.com/watch?v=weJT94cyHbI&pp=ygUe66Gc7KCg7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "5.8K views"
+          },
+          {
+            "title": "【성형 마취】 (ENG/日 SUB) 🔥성형외과 마취의 모든것🔥 안전한 마취는 따로 있다?!",
+            "channel": "신데렐라Tube | 신데렐라성형외과",
+            "url": "https://www.youtube.com/watch?v=E3CuKLQnPxc&pp=ygUe66Gc7KCg7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "2.8K views"
+          },
+          {
+            "title": "요즘 대세 '자려한 코성형' 실패 없이 성공하는 법! 코끝 처짐 막는 3종 고정법과 체형별 맞춤 재료 총정리 (디에이성형외과)",
+            "channel": "디에이성형외과 D.A Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=ugt5WmvQLzM&pp=ygUe66Gc7KCg7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "17K views"
+          },
+          {
+            "title": "의사브이로그, 디에이성형외과 원장의 하루는? | 가슴성형, 체형성형, 배재영 원장 | 디에이성형외과",
+            "channel": "디에이성형외과 D.A Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=v4QAtO7F2OU&pp=ygUe66Gc7KCg7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "27K views"
+          },
+          {
+            "title": "부산성형외과│꿀팁  ⭐대방출⭐ 성형외과 원장이 알려주는 병원 고르는 TIP❤",
+            "channel": "우정주노의 셀피TV",
+            "url": "https://www.youtube.com/watch?v=Kyi3cPe7usw&pp=ygUe66Gc7KCg7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "8.9K views"
+          },
+          {
+            "title": "[SUB] 20년 이상 경력의 성형외과 전문의가 말하는 코재수술 및 재건수술│구축현상, 염증, 모양불만족",
+            "channel": "메이드영성형외과",
+            "url": "https://www.youtube.com/watch?v=8qJh9xlSJ7U&pp=ygUe66Gc7KCg7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "6.7K views"
+          },
+          {
+            "title": "쌍커풀 수술 '자연유착' 이 궁금하다 ! (feat.친절상담)",
+            "channel": "드레스성형외과의원",
+            "url": "https://www.youtube.com/watch?v=I1Hqwbo1N8o&pp=ygUe66Gc7KCg7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "13K views"
+          },
+          {
+            "title": "성형외과 리얼 다큐 | 우리의 1일 [우리성형외과 브이로그]",
+            "channel": "우리성형외과 WOORI beauty TV",
+            "url": "https://www.youtube.com/watch?v=QLMtFsrczhk&pp=ygUe66Gc7KCg7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "7.9K views"
+          },
+          {
+            "title": "Skin care treatment with DUO HYDROGEN I 듀오하이드로젠으로 모공청소! 수분충전! 미세먼지 제거까지!",
+            "channel": "K-trend Aesthethic",
+            "url": "https://www.youtube.com/watch?v=OVDWYxUjMVA&pp=ygUe66Gc7KCg7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "358 views"
+          }
+        ]
       }
     },
     "xiaohongshu": {
@@ -59,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

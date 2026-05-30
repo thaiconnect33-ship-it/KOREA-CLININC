@@ -1,16 +1,16 @@
 {
   "query": "브라운성형외과의원",
-  "generated_at": "2026-05-29T00:19:38.108Z",
+  "generated_at": "2026-05-29T13:06:54.655Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 2609,
+      "metric_value": 2610,
       "extra": {
         "place_id": "13299185",
         "name": "브라운성형외과의원 : 네이버\u001c",
-        "visitor_review_count": 2548,
+        "visitor_review_count": 2549,
         "blog_review_count": 61,
         "detail_url": "https://m.place.naver.com/place/13299185/home"
       }
@@ -18,18 +18,18 @@
     "google_maps": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 1544,
+      "metric_value": 1546,
       "extra": {
         "name": "Braun Plastic Surgery",
         "rating": 4.9,
-        "total_reviews": 1544,
-        "sample_size": 16,
-        "foreign_language_reviews": 16,
+        "total_reviews": 1546,
+        "sample_size": 20,
+        "foreign_language_reviews": 20,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 16
+          "english_other": 20
         }
       }
     },
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 125741,
+        "total_views": 475793,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -61,62 +61,62 @@
           {
             "title": "갑자기 꽂혀서 찍어버린 혼돈의 브라운 새 건물 나들이 / 십밥뼈의 병원 탐방 브이로그 l 십밥뼈 김태규",
             "channel": "십밥뼈 김태규",
-            "url": "https://www.youtube.com/watch?v=EZ_DxOUrHfc&pp=ygUt67iM65287Jq07ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
-            "view_text": "104K views"
+            "url": "https://www.youtube.com/watch?v=EZ_DxOUrHfc&pp=ygUh67iM65287Jq07ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "105K views"
+          },
+          {
+            "title": "하안검과 눈밑지방재배치 어떤 수술이고 나에겐 어떤 수술이 적합한지 쉽게 알 수 있는 자가 진단법이 있다??ㅣ브라운성형외과 류동완 원장",
+            "channel": "브라운성형외과 BRAUN Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=RGTRv1whYfM&pp=ygUh67iM65287Jq07ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "237 views"
+          },
+          {
+            "title": "십밥뼈의 상담에 놀라지 마세요! / 상담 맛집 십밥뼈의 재미난 썰 l 십밥뼈 김태규",
+            "channel": "십밥뼈 김태규",
+            "url": "https://www.youtube.com/watch?v=rD_6t9mHdc4&pp=ygUh67iM65287Jq07ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "288K views"
+          },
+          {
+            "title": "[코 성형 성공하기 좋은 조건] 내 코는 성형하면 대박이 날 수 있을까?ㅣ브라운 성형외과 이우섭원장님",
+            "channel": "브라운성형외과 BRAUN Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=G5UUDyg5JA4&pp=ygUh67iM65287Jq07ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "245 views"
+          },
+          {
+            "title": "[코성형 재수술편] 유독 코성형 재수술이 많은 이유는?ㅣ브라운성형외과 류동완 원장님",
+            "channel": "브라운성형외과 BRAUN Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=4yqq8_NSDRI&pp=ygUh67iM65287Jq07ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "303 views"
+          },
+          {
+            "title": "[윗트임을 하는 이유] 윗트임을 하면 뭐가 좋을까요? ㅣ브라운성형외과 이우섭 원장님",
+            "channel": "브라운성형외과 BRAUN Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=kpEBGpmpGZ0&pp=ygUh67iM65287Jq07ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "142 views"
           },
           {
             "title": "코 상담가는 날 잠깐 들어보세요! l 브라운성형외과 이우섭 원장님",
             "channel": "브라운성형외과 BRAUN Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=fUwTTxelR8c&pp=ygUt67iM65287Jq07ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
+            "url": "https://www.youtube.com/watch?v=fUwTTxelR8c&pp=ygUh67iM65287Jq07ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "148 views"
           },
           {
             "title": "[자연스러운 코편] 류동완 원장님이 생각하는 자연스러운 코는?ㅣ브라운성형외과 류동완 원장님",
             "channel": "브라운성형외과 BRAUN Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=yYHYZqh4YiA&pp=ygUt67iM65287Jq07ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=yYHYZqh4YiA&pp=ygUh67iM65287Jq07ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "336 views"
           },
           {
-            "title": "[코성형 재수술편] 유독 코성형 재수술이 많은 이유는?ㅣ브라운성형외과 류동완 원장님",
+            "title": "코성형 재료들을 알아보자! l 브라운성형외과 김차수 원장님",
             "channel": "브라운성형외과 BRAUN Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=4yqq8_NSDRI&pp=ygUt67iM65287Jq07ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "303 views"
-          },
-          {
-            "title": "하안검과 눈밑지방재배치 어떤 수술이고 나에겐 어떤 수술이 적합한지 쉽게 알 수 있는 자가 진단법이 있다??ㅣ브라운성형외과 류동완 원장",
-            "channel": "브라운성형외과 BRAUN Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=RGTRv1whYfM&pp=ygUt67iM65287Jq07ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "237 views"
-          },
-          {
-            "title": "[코 성형 성공하기 좋은 조건] 내 코는 성형하면 대박이 날 수 있을까?ㅣ브라운 성형외과 이우섭원장님",
-            "channel": "브라운성형외과 BRAUN Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=G5UUDyg5JA4&pp=ygUt67iM65287Jq07ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "245 views"
-          },
-          {
-            "title": "[윗트임을 하는 이유] 윗트임을 하면 뭐가 좋을까요? ㅣ브라운성형외과 이우섭 원장님",
-            "channel": "브라운성형외과 BRAUN Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=kpEBGpmpGZ0&pp=ygUt67iM65287Jq07ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "142 views"
-          },
-          {
-            "title": "[코성형 재료] 이걸로 하면 큰일 납니다.. l 브라운성형외과 이우섭 원장님",
-            "channel": "브라운성형외과 BRAUN Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=8-ILoF_-GAk&pp=ygUt67iM65287Jq07ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "330 views"
+            "url": "https://www.youtube.com/watch?v=6tq4Cm92Ijs&pp=ygUh67iM65287Jq07ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "1.5K views"
           },
           {
             "title": "[눈, 코 성형상담] 눈.코 성형을 하고 싶다면? 이 영상 먼저 보세요! l 브라운성형외과 이지원 + 류동완 원장님",
             "channel": "브라운성형외과 BRAUN Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=f0bZFlCMQKE&pp=ygUt67iM65287Jq07ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=f0bZFlCMQKE&pp=ygUh67iM65287Jq07ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "262 views"
-          },
-          {
-            "title": "류쌤이 궁금한 댓글 다 알려드립니다~ l 브라운성형외과 류동완 원장님",
-            "channel": "브라운성형외과 BRAUN Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=WcS9o7kJChM&pp=ygUt67iM65287Jq07ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "125 views"
           }
         ]
       }
@@ -132,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 8,
-  "opportunity_cost_thb": 92000,
-  "opportunity_cost_krw": 3680000
+  "global_score": 10,
+  "opportunity_cost_thb": 90000,
+  "opportunity_cost_krw": 3600000
 }

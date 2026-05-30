@@ -1,6 +1,6 @@
 {
   "query": "Tox N Fill",
-  "generated_at": "2026-05-29T05:50:10.631Z",
+  "generated_at": "2026-05-29T10:16:32.662Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -47,46 +47,22 @@
       "metric_label": "비디오",
       "metric_value": 19,
       "extra": {
-        "total_views": 2208116,
-        "foreign_video_count": 12,
+        "total_views": 3912146,
+        "foreign_video_count": 11,
         "lang_breakdown": {
-          "korean": 7,
+          "korean": 8,
           "thai": 0,
-          "chinese": 8,
-          "japanese": 1,
-          "english_other": 3
+          "chinese": 6,
+          "japanese": 0,
+          "english_other": 5
         },
         "sample_size": 19,
         "top_videos": [
           {
             "title": "February Promotion - Myeongdong Toxnfill",
             "channel": "Toxnfill Myeongdong",
-            "url": "https://www.youtube.com/watch?v=HUN7ObwwlOg&pp=ygUQVG94IE4gRmlsbCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "url": "https://www.youtube.com/watch?v=HUN7ObwwlOg&pp=ygUQVG94IE4gRmlsbCBLb3JlYQ%3D%3D",
             "view_text": "10 views"
-          },
-          {
-            "title": "Spicy Comment Reactions 🔥 A Skin Clinic Director Reveals the Truth About Fillers!",
-            "channel": "톡스앤필 toxnfill",
-            "url": "https://www.youtube.com/watch?v=vge8liCs6c4&pp=ygUQVG94IE4gRmlsbCBLb3JlYQ%3D%3D",
-            "view_text": "2.3K views"
-          },
-          {
-            "title": "🎧 로제 Rosé - toxic till the end x Wonderwall Mashup (Live From Howard Stern) [가사해석]",
-            "channel": "Tehe티히🎧",
-            "url": "https://www.youtube.com/watch?v=h2TjzsvFX0s&list=RDh2TjzsvFX0s&start_radio=1&pp=ygUQVG94IE4gRmlsbCBLb3JlYaAHAQ%3D%3D",
-            "view_text": "2.2M views"
-          },
-          {
-            "title": "ウルセラ(ULTHERA) (toxnfill gangnam)",
-            "channel": "Toxnfill1 JP",
-            "url": "https://www.youtube.com/watch?v=fu6GnFvh9vs&pp=ygUQVG94IE4gRmlsbCBLb3JlYQ%3D%3D",
-            "view_text": "343 views"
-          },
-          {
-            "title": "韩国女孩子皮肤好的原因？今天给你们揭晓她们的秘密！@Toxnfill-myeongdong",
-            "channel": "明洞皮膚科 TOXNFILL 韓国美容チャンネル",
-            "url": "https://www.youtube.com/watch?v=y7yNReZKX4w&pp=ygUQVG94IE4gRmlsbCBLb3JlYQ%3D%3D",
-            "view_text": "1.9K views"
           },
           {
             "title": "모공부터 깨끗히 피부미인 시작은 아쿠아필시술 톡스앤필 평택점",
@@ -95,10 +71,28 @@
             "view_text": "76 views"
           },
           {
+            "title": "톡스앤필 브랜드 광고 화보 스케치 영상(with.조현) /  A sketch video of toxnfill's (with. Johyun)",
+            "channel": "톡스앤필 toxnfill",
+            "url": "https://www.youtube.com/watch?v=Tpg3EqrFhS0&pp=ygUQVG94IE4gRmlsbCBLb3JlYQ%3D%3D",
+            "view_text": "417 views"
+          },
+          {
+            "title": "Spicy Comment Reactions 🔥 A Skin Clinic Director Reveals the Truth About Fillers!",
+            "channel": "톡스앤필 toxnfill",
+            "url": "https://www.youtube.com/watch?v=vge8liCs6c4&pp=ygUQVG94IE4gRmlsbCBLb3JlYQ%3D%3D",
+            "view_text": "2.3K views"
+          },
+          {
             "title": "園長的演講現場✨ #toxnfill#韓國皮膚管理#韓國醫美#韓國整形#韓國皮膚科#韓國新論峴特秀恩碧#韓國toxnfill新論峴皮膚科#韓國do臉",
             "channel": "韓國TOXNFILL皮膚科醫院(新論峴店)",
             "url": "https://www.youtube.com/watch?v=DQq4U86ArYY&pp=ygUQVG94IE4gRmlsbCBLb3JlYQ%3D%3D",
             "view_text": "3 views"
+          },
+          {
+            "title": "Siêu Mẫu \"Chung Rae Hee\" | Bí ẩn vẻ đẹp Tox n Fill",
+            "channel": "Tox n Fill Việt Nam",
+            "url": "https://www.youtube.com/watch?v=Dw3WyW_eK34&pp=ygUQVG94IE4gRmlsbCBLb3JlYQ%3D%3D",
+            "view_text": "50 views"
           },
           {
             "title": "피부노화 걱정 No! 자극적이지 않은 피부관리! 톡스앤필 오투덤산소테라피",
@@ -107,16 +101,22 @@
             "view_text": "80 views"
           },
           {
-            "title": "톡스앤필 브랜드 광고 화보 스케치 영상(with.조현) /  A sketch video of toxnfill's (with. Johyun)",
-            "channel": "톡스앤필 toxnfill",
-            "url": "https://www.youtube.com/watch?v=Tpg3EqrFhS0&pp=ygUQVG94IE4gRmlsbCBLb3JlYQ%3D%3D",
-            "view_text": "417 views"
+            "title": "블랙프라이데이 이벤트로 윤곽주사, 바디보톡스, 필러를 한번에! 톡스앤필 윤곽주사",
+            "channel": "정콘TV",
+            "url": "https://www.youtube.com/watch?v=43E7jjfpbRw&pp=ygUQVG94IE4gRmlsbCBLb3JlYQ%3D%3D",
+            "view_text": "51 views"
           },
           {
-            "title": "顎フィラー（トックスエンフィル江南本店）(TOXNFILL GANGNAM)(JAW FILLER)",
-            "channel": "Toxnfill1 JP",
-            "url": "https://www.youtube.com/watch?v=tMgjh1tiHJc&pp=ygUQVG94IE4gRmlsbCBLb3JlYQ%3D%3D",
-            "view_text": "139 views"
+            "title": "[OxygenCeuticals] Tox N Fill Oxygen therapy & Interview",
+            "channel": "OxygenCeuticals",
+            "url": "https://www.youtube.com/watch?v=2cRG2gk1LEU&pp=ygUQVG94IE4gRmlsbCBLb3JlYQ%3D%3D",
+            "view_text": "911 views"
+          },
+          {
+            "title": "韩国女孩子皮肤好的原因？今天给你们揭晓她们的秘密！@Toxnfill-myeongdong",
+            "channel": "明洞皮膚科 TOXNFILL 韓国美容チャンネル",
+            "url": "https://www.youtube.com/watch?v=y7yNReZKX4w&pp=ygUQVG94IE4gRmlsbCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "1.9K views"
           }
         ]
       }
@@ -142,7 +142,7 @@
       }
     }
   },
-  "global_score": 14,
-  "opportunity_cost_thb": 89500,
-  "opportunity_cost_krw": 3580000
+  "global_score": 13,
+  "opportunity_cost_thb": 90000,
+  "opportunity_cost_krw": 3600000
 }

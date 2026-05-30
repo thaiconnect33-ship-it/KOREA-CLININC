@@ -1,16 +1,18 @@
 {
   "query": "청담 아르덴 의원",
-  "generated_at": "2026-05-28T22:21:51.252Z",
+  "generated_at": "2026-05-29T10:58:28.766Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 270,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "2004446317",
+        "name": "청담 아르덴 의원 : 네이버\u001c",
+        "visitor_review_count": 244,
+        "blog_review_count": 26,
+        "detail_url": "https://m.place.naver.com/place/2004446317/home"
       }
     },
     "google_maps": {
@@ -18,16 +20,16 @@
       "metric_label": "리뷰",
       "metric_value": 0,
       "extra": {
-        "name": "Results",
+        "name": "청담아르덴의원 (Arden Beauty Clinic)",
         "rating": 5,
         "total_reviews": 0,
-        "sample_size": 6,
-        "foreign_language_reviews": 6,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 6
+          "english_other": 0
         }
       }
     },
@@ -59,16 +61,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 3,
-  "opportunity_cost_thb": 137000,
-  "opportunity_cost_krw": 5480000
+  "global_score": 0,
+  "opportunity_cost_thb": 140000,
+  "opportunity_cost_krw": 5600000
 }

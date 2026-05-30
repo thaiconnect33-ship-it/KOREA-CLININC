@@ -1,33 +1,35 @@
 {
   "query": "뷰티바성형외과의원",
-  "generated_at": "2026-05-28T22:28:36.376Z",
+  "generated_at": "2026-05-29T11:05:15.067Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 696,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "1592658983",
+        "name": "뷰티바성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 397,
+        "blog_review_count": 299,
+        "detail_url": "https://m.place.naver.com/place/1592658983/home"
       }
     },
     "google_maps": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 33,
+      "metric_value": 0,
       "extra": {
-        "name": "Results",
-        "rating": 4.7,
-        "total_reviews": 33,
-        "sample_size": 9,
-        "foreign_language_reviews": 9,
+        "name": "Sponsored",
+        "rating": 4.9,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 9
+          "english_other": 0
         }
       }
     },
@@ -45,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 3016307,
+        "total_views": 134038,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -57,64 +59,64 @@
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
-            "channel": "JTBC News",
-            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUz67ew7Yuw67CU7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1M views"
-          },
-          {
-            "title": "성형외과 전문의가 말합니다. 😱인중수술 이런 사람 절대 하지 마세요!😱",
+            "title": "2025 뷰티바 연말결산!! HOT했던 피부 시술은?",
             "channel": "닥터뷰티바",
-            "url": "https://www.youtube.com/watch?v=m0ZxJuc7wws&pp=ygUz67ew7Yuw67CU7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "47K views"
+            "url": "https://www.youtube.com/watch?v=QHpMvDg0bg4&pp=ygUh67ew7Yuw67CU7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "10K views"
           },
           {
-            "title": "Why You Should Get Dimples, According to a Plastic Surgeon - Bymi Plastic Surgery [Director Choi ...",
-            "channel": "성형외과전문의 최한뫼 Dr. Hanmoi",
-            "url": "https://www.youtube.com/watch?v=URCfvbu9Tu8&pp=ygUz67ew7Yuw67CU7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "32K views"
+            "title": "성형외과 원장은 어떤 수술&시술을 받았을까? 리얼후기공유TIME!",
+            "channel": "닥터뷰티바",
+            "url": "https://www.youtube.com/watch?v=pnjYakNXm9Y&pp=ygUh67ew7Yuw67CU7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "841 views"
           },
           {
-            "title": "도망쳐..지금이야!! 성형외과 블랙리스트 이렇게 거르세요",
-            "channel": "지유미 JIYUMEE",
-            "url": "https://www.youtube.com/watch?v=VK1hIW0QP-g&pp=ygUz67ew7Yuw67CU7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "126K views"
+            "title": "'뷰티바성형외과의원' 여러분과 함께 아름다움을 찾아가겠습니다.",
+            "channel": "뷰티바성형외과",
+            "url": "https://www.youtube.com/watch?v=4nhR44Nax38&pp=ygUh67ew7Yuw67CU7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "67K views"
           },
           {
-            "title": "저... 앞트임복원 TOP3 아닌가요? 송승욱 원장도 어려웠던 앞트임복원 케이스 모음",
-            "channel": "고쳐주는 삼촌들",
-            "url": "https://www.youtube.com/watch?v=pZltd3F3vyI&pp=ygUz67ew7Yuw67CU7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "7.1K views"
+            "title": "「가슴보형물_더성형외과」모티바 보형물은 라운드or물방울 중 어느 쪽에 더 가까운 모양을 갖고 있나요?",
+            "channel": "Ock Jae Jin 옥재진 원장 THE Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=TGmCp8hr_Gk&pp=ygUh67ew7Yuw67CU7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "2.9K views"
           },
           {
-            "title": "두상이 큰 건 성형외과 의사들도 못 고친다?! 하지만 포기하긴 아직 이르다! #대두윤곽수술 #안면윤곽",
-            "channel": "바탕성형외과 Batang Plastic Surgery Korea",
-            "url": "https://www.youtube.com/watch?v=-elcZGNwiqY&pp=ygUz67ew7Yuw67CU7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "14K views"
+            "title": "입술필러 고민, 입술필러 장인이 전부 알려드립니다.🫦",
+            "channel": "닥터뷰티바",
+            "url": "https://www.youtube.com/watch?v=DVYR1JjIltI&pp=ygUh67ew7Yuw67CU7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "6.4K views"
           },
           {
-            "title": "얼굴지방흡입 부작용!? #홈케어",
-            "channel": "뷰티라인성형외과 Beautyline Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=pm6qlRs83nA&pp=ygUz67ew7Yuw67CU7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "13K views"
+            "title": "나이들어 보인다는 말을 많이 듣는다면..?! 이 수술을 고려해보세요!",
+            "channel": "닥터뷰티바",
+            "url": "https://www.youtube.com/watch?v=4jX7CFtFHQk&pp=ygUh67ew7Yuw67CU7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "221 views"
           },
           {
-            "title": "강유미님의 상담실장roleplay😮를 성형외과 의사와 상담실장이 본다면? 재미로 시작했다 반성회로 끝나버린..😂",
-            "channel": "다움성형외과 Dawoom Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=FU3X-FuwZUc&pp=ygUz67ew7Yuw67CU7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "15K views"
+            "title": "무엇이든 물어보쌤 ¿? by닥터뷰티바 : 성형외과의 코로나 대처방법? 의사 워라벨? 원장님이 받은 첫 시술 공개!",
+            "channel": "닥터뷰티바",
+            "url": "https://www.youtube.com/watch?v=Kjn8rocC7Fs&pp=ygUh67ew7Yuw67CU7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "430 views"
           },
           {
-            "title": "앞트임복원, 미세복원 부작용? 몽고주름이 생기거나 모양이 변했다?! | 실제후기까지 놓치지 말기! | 메이트성형외과",
-            "channel": "메이트성형외과",
-            "url": "https://www.youtube.com/watch?v=vx40JDVpiuc&pp=ygUz67ew7Yuw67CU7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "21K views"
+            "title": "나는 눈밑지방재배치? 하안검? 뭘 선택해야 할까?🤔",
+            "channel": "닥터뷰티바",
+            "url": "https://www.youtube.com/watch?v=XGeY6EZPymY&pp=ygUh67ew7Yuw67CU7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "195 views"
           },
           {
-            "title": "SM 천상계 연예인으로 만들어준다는 성형외과!!",
-            "channel": "핫이슈HOT ISSUE",
-            "url": "https://www.youtube.com/watch?v=WTeNWTENa54&pp=ygUz67ew7Yuw67CU7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.7M views"
+            "title": "현직의사 뷰티바 언니의 첫 영상을 공개합니드아!! (전공의시험 1등, 의사로써의 만족도, 의사가 된 이유)feat.성형외과에서 이렇게하면 서비스를..?!ㅋㅋㅋ",
+            "channel": "닥터뷰티바",
+            "url": "https://www.youtube.com/watch?v=fjNKk0Z8_ig&pp=ygUh67ew7Yuw67CU7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.5K views"
+          },
+          {
+            "title": "K-뷰티의 중심, 뷰티바 성형외과",
+            "channel": "닥터뷰티바",
+            "url": "https://www.youtube.com/watch?v=VbCQHtg1URw&pp=ygUh67ew7Yuw67CU7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "111 views"
           }
         ]
       }
@@ -130,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 5,
-  "opportunity_cost_thb": 95500,
-  "opportunity_cost_krw": 3820000
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
 }

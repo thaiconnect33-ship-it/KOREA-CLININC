@@ -1,6 +1,6 @@
 {
   "query": "서울연세병원병원,의원",
-  "generated_at": "2026-05-28T22:44:22.377Z",
+  "generated_at": "2026-05-29T11:23:00.814Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 3963916,
+        "total_views": 708776,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -71,16 +71,22 @@
             "view_text": "490"
           },
           {
+            "title": "우리 병원을 소개합니다 / 연세산돌병원 신경외과 김병우",
+            "channel": "의학채널 비온뒤",
+            "url": "https://www.youtube.com/watch?v=ejmmCeAn-00&t=47s&pp=ygUl7ISc7Jq47Jew7IS467OR7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "7.5K"
+          },
+          {
             "title": "인공관절 수술, 너무 이릅니다! 무릎을 살리는 최신 치료법 (ft. 줄기세포치료)",
             "channel": "척추관절 바른TV-연세바른병원",
             "url": "https://www.youtube.com/watch?v=XkGEO8z_7B4&pp=ygUl7ISc7Jq47Jew7IS467OR7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
             "view_text": "21K"
           },
           {
-            "title": "우리 병원을 소개합니다 / 연세산돌병원 신경외과 김병우",
-            "channel": "의학채널 비온뒤",
-            "url": "https://www.youtube.com/watch?v=ejmmCeAn-00&t=47s&pp=ygUl7ISc7Jq47Jew7IS467OR7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
-            "view_text": "7.4K"
+            "title": "자율신경실조증 입원 후 집중 치료하면 좋은 점 4가지",
+            "channel": "오상신경외과의원",
+            "url": "https://www.youtube.com/watch?v=Y-c9hKXDC1Y&pp=ygUl7ISc7Jq47Jew7IS467OR7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "5.9K"
           },
           {
             "title": "[홍보영상] 병원홍보영상 충주서울연세치과",
@@ -89,10 +95,10 @@
             "view_text": "647"
           },
           {
-            "title": "목디스크, 가장 위험한 증상은 '이 증상' 입니다!😲 l 목디스크의 대표적인 증상들과 치료 방법에 대해 알아보자! [강북연세 TV]",
-            "channel": "강북연세병원",
-            "url": "https://www.youtube.com/watch?v=NcXlvObuuwI&pp=ygUl7ISc7Jq47Jew7IS467OR7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
-            "view_text": "617K"
+            "title": "OO까지 서비스하는 병원이 있다고?",
+            "channel": "통증백과사전",
+            "url": "https://www.youtube.com/watch?v=5SyrPu-wzpk&pp=ygUl7ISc7Jq47Jew7IS467OR7JuQ67OR7JuQLOydmOybkCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "1.2K"
           },
           {
             "title": "서울역연세공감의원을 소개합니다.",
@@ -101,22 +107,16 @@
             "view_text": "965"
           },
           {
-            "title": "척추관절 ♥ 연세본병원 소개영상",
-            "channel": "연세본병원 (연세본병원)",
-            "url": "https://www.youtube.com/watch?v=EiJFcQ0gC08&pp=ygUl7ISc7Jq47Jew7IS467OR7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "title": "목디스크, 가장 위험한 증상은 '이 증상' 입니다!😲 l 목디스크의 대표적인 증상들과 치료 방법에 대해 알아보자! [강북연세 TV]",
+            "channel": "강북연세병원",
+            "url": "https://www.youtube.com/watch?v=NcXlvObuuwI&pp=ygUl7ISc7Jq47Jew7IS467OR7JuQ67OR7JuQLOydmOybkCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "617K"
+          },
+          {
+            "title": "서울고든병원 병원 소개 영상",
+            "channel": "아프고든 서울고든",
+            "url": "https://www.youtube.com/watch?v=WhR8Wv06mn4&pp=ygUl7ISc7Jq47Jew7IS467OR7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
             "view_text": "1.2K"
-          },
-          {
-            "title": "마취통증의학과는 무엇인가요? 통증의학과를 꼭 가야하는 질환 5가지!",
-            "channel": "연세신통TV",
-            "url": "https://www.youtube.com/watch?v=qZc1Kqw8BEA&pp=ygUl7ISc7Jq47Jew7IS467OR7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
-            "view_text": "15K"
-          },
-          {
-            "title": "(특별인터뷰) 연세사랑병원 고용곤 또 걸렸다! 줄기세포 치료광고 주의보! / 2025.03.17",
-            "channel": "신의한수",
-            "url": "https://www.youtube.com/watch?v=IpSKCqRB6qE&pp=ygUl7ISc7Jq47Jew7IS467OR7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
-            "view_text": "14K"
           }
         ]
       }
@@ -132,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

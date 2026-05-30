@@ -1,16 +1,18 @@
 {
   "query": "모제림성형외과의원",
-  "generated_at": "2026-05-28T22:27:52.054Z",
+  "generated_at": "2026-05-29T11:04:33.951Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 2592,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "12026586",
+        "name": "모제림성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 1609,
+        "blog_review_count": 983,
+        "detail_url": "https://m.place.naver.com/place/12026586/home"
       }
     },
     "google_maps": {
@@ -18,16 +20,16 @@
       "metric_label": "리뷰",
       "metric_value": 83,
       "extra": {
-        "name": "Results",
+        "name": "MOJELIM Hair Transplant & Hairline Correction | 모제림 성형외과 남성 모발이식 & 여성헤어라인교정 | 탈모 치료 |",
         "rating": 4.4,
         "total_reviews": 83,
-        "sample_size": 7,
-        "foreign_language_reviews": 7,
+        "sample_size": 23,
+        "foreign_language_reviews": 23,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 7
+          "english_other": 23
         }
       }
     },
@@ -43,78 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 18,
+      "metric_value": 20,
       "extra": {
-        "total_views": 1642003,
+        "total_views": 1411791,
         "foreign_video_count": 0,
         "lang_breakdown": {
-          "korean": 18,
+          "korean": 20,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
           "english_other": 0
         },
-        "sample_size": 18,
+        "sample_size": 20,
         "top_videos": [
           {
-            "title": "모발이식 했더니 다시 빠진다고?ㅣ암흑기에 대해 알아봐요ㅣ모모성형외과, 모모의원ㅣ강동우원장ㅣ모제림성형외과 출신ㅣ",
-            "channel": "모모성형외과",
-            "url": "https://www.youtube.com/watch?v=vxZv75IM0js&pp=ygUz66qo7KCc66a87ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "6.6K views"
+            "title": "[닥터뷰] 모제림성형외과 송준혁 원장님",
+            "channel": "coding_stuff",
+            "url": "https://www.youtube.com/watch?v=7pm4GZuGEis&pp=ygUh66qo7KCc66a87ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.3K views"
           },
           {
-            "title": "모발이식 생착률이 결정되는 시간ㅣ암흑기는 정상인가요!?!ㅣ과정을 알면 됩니다!ㅣ모모성형외과, 모모의원ㅣ강동우원장ㅣ모제림성형외과 출신",
-            "channel": "모모성형외과",
-            "url": "https://www.youtube.com/watch?v=iPHeRw4BX10&pp=ygUz66qo7KCc66a87ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "2.5K views"
+            "title": "\"이게 바로 K-의료?\" 한류, 이제는 의료까지｜메디컨페스티벌 현장｜모제림성형외과",
+            "channel": "모제림TV",
+            "url": "https://www.youtube.com/watch?v=qbwS9zoc5aU&pp=ygUh66qo7KCc66a87ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "120 views"
           },
           {
-            "title": "여성 모발이식 후 혼자서 샴푸 어떻게 할까? 👩🏻| 모모성형외과 | 모모의원",
-            "channel": "모모성형외과",
-            "url": "https://www.youtube.com/watch?v=kEKTeLN9WEc&pp=ygUz66qo7KCc66a87ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "20K views"
+            "title": "\"최악의 머리감는 방법\" 이 행동 절대 하지마세요, 머리카락 다 빠집니다 (김주용 원장 / 풀버전)",
+            "channel": "신사임당",
+            "url": "https://www.youtube.com/watch?v=F4GrwSKpPlg&pp=ygUh66qo7KCc66a87ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "4.2K views"
           },
           {
-            "title": "의느님답변📂헤어라인 황금비율✍1:1:1 or 0.9:1:1😱의미가 없습니다ㅣ다나성형외과(DANA)ㅣ모발이식ㅣ헤어라인교정ㅣ두피문신ㅣ탈모치료",
-            "channel": "다나성형외과 DANA Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=lmA7lahlXzM&pp=ygUz66qo7KCc66a87ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "3.7K views"
+            "title": "히포마켓 모제림성형외과의원 병원홍보기기 설치 영상",
+            "channel": "히포마켓",
+            "url": "https://www.youtube.com/watch?v=3Osor-CBhjE&pp=ygUh66qo7KCc66a87ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "12 views"
           },
           {
-            "title": "모발이식 후 혼자서 샴푸 어떻게 할까?! | 모발이식 셀프 샴푸 방법 | 모모성형외과",
-            "channel": "모모성형외과",
-            "url": "https://www.youtube.com/watch?v=qqzBV3BJDtk&pp=ygUz66qo7KCc66a87ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "50K views"
+            "title": "대한민국 대표 모발이식 모제림성형외과",
+            "channel": "hotaepooh",
+            "url": "https://www.youtube.com/watch?v=BDG4c-fBElk&pp=ygUh66qo7KCc66a87ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "263 views"
           },
           {
-            "title": "헤어라인 모발이식 가격(feat.병원마다 비용 차이나는 이유, 부위별 이식 비용 차이)",
-            "channel": "탈모의사 모리의원 이상욱",
-            "url": "https://www.youtube.com/watch?v=bZ-ycrMW5Ug&pp=ygUz66qo7KCc66a87ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "12K views"
-          },
-          {
-            "title": "📣알려드립니다! #모발이식수술 후 2~3주차에 주의해야할 체크리스트✍ㅣ다나성형외과ㅣDANA",
-            "channel": "다나성형외과 DANA Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=Gth1QDTvnVE&pp=ygUz66qo7KCc66a87ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "33K views"
+            "title": "대한민국 대표 모발이식 모제림 성형외과",
+            "channel": "hotaepooh",
+            "url": "https://www.youtube.com/watch?v=UzMD1PEPKYs&pp=ygUh66qo7KCc66a87ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "337 views"
           },
           {
             "title": "모발 이식 4년 후.. 후기, 부작용, 가격 싹 다 알려드립니다.",
             "channel": "비트 BTE",
-            "url": "https://www.youtube.com/watch?v=6ONxOVGuC3o&pp=ygUz66qo7KCc66a87ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=6ONxOVGuC3o&pp=ygUh66qo7KCc66a87ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
             "view_text": "231K views"
           },
           {
-            "title": "ㅂㄹㅂㅌ인터뷰] 논현동 신의 손, 信손 노상훈 원장님",
-            "channel": "coding_stuff",
-            "url": "https://www.youtube.com/watch?v=DrajZjakTsc&pp=ygUz66qo7KCc66a87ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "9.6K views"
+            "title": "M자이마 2300모 절개 헤어라인교정수술 전후비교!｜전지훈 원장｜모엠의원(MOEM)",
+            "channel": "모엠의원",
+            "url": "https://www.youtube.com/watch?v=ccuzJhN3RUQ&pp=ygUh66qo7KCc66a87ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.1K views"
           },
           {
-            "title": "모발이식 후 11개월... 이건 꼭 알아야 합니다 (100% 솔직 후기)",
-            "channel": "용닥터",
-            "url": "https://www.youtube.com/watch?v=meGxqXFvikw&pp=ygUz66qo7KCc66a87ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "860K views"
+            "title": "나에게 맞는 모발이식 방법을 찾아보자(faet.절개모발이식과 비절개모발이식의 차이점)",
+            "channel": "대구모제림",
+            "url": "https://www.youtube.com/watch?v=yqTn1WTqnDs&pp=ygUh66qo7KCc66a87ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "57 views"
+          },
+          {
+            "title": "모제림성형외과 헤어라인교정 광고영상",
+            "channel": "공감기획",
+            "url": "https://www.youtube.com/watch?v=PcW8wOqoTBo&pp=ygUh66qo7KCc66a87ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "1.2K views"
           }
         ]
       }
@@ -130,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 4,
-  "opportunity_cost_thb": 96500,
-  "opportunity_cost_krw": 3860000
+  "global_score": 12,
+  "opportunity_cost_thb": 88500,
+  "opportunity_cost_krw": 3540000
 }

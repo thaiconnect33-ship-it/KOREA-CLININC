@@ -1,0 +1,148 @@
+{
+  "query": "클럽미즈라미체의원 잠실",
+  "generated_at": "2026-05-29T12:11:07.179Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 2349,
+      "extra": {
+        "place_id": "11531146",
+        "name": "클럽미즈라미체의원 잠실 : 네이버\u001c",
+        "visitor_review_count": 1465,
+        "blog_review_count": 884,
+        "detail_url": "https://m.place.naver.com/place/11531146/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Lamiche Dermatology",
+        "rating": 4.8,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 19,
+      "extra": {
+        "total_views": 125761,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 19,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 19,
+        "top_videos": [
+          {
+            "title": "✨튼 살, 흉터 없애는✨ 레이저 싹~ 모아봤습니다!",
+            "channel": "클럽미즈라미체의원 [피부과]",
+            "url": "https://www.youtube.com/watch?v=VpjTinbw-5Y&pp=ygUo7YG065-966-47KaI652866-47LK07J2Y7JuQIOyeoOyLpCBLb3JlYQ%3D%3D",
+            "view_text": "477 views"
+          },
+          {
+            "title": "피부과 22년 경력 원장 추천 가성비 시술 모음.ZIP [클럽미즈라미체]",
+            "channel": "클럽미즈라미체의원 [피부과]",
+            "url": "https://www.youtube.com/watch?v=n7t9zkH7v4o&pp=ygUo7YG065-966-47KaI652866-47LK07J2Y7JuQIOyeoOyLpCBLb3JlYQ%3D%3D",
+            "view_text": "4.3K views"
+          },
+          {
+            "title": "22년 전 병원을 첫 개원하던 날로 돌아간다면 어떨까? (Feat. 레이저 5종 선택)",
+            "channel": "클럽미즈라미체의원 [피부과]",
+            "url": "https://www.youtube.com/watch?v=4ZDkh5mGBHE&pp=ygUo7YG065-966-47KaI652866-47LK07J2Y7JuQIOyeoOyLpCBLb3JlYQ%3D%3D",
+            "view_text": "17K views"
+          },
+          {
+            "title": "저희 병원에 오시는 연예인분들은 이렇게 관리해 드립니다! [클럽미즈라미체]",
+            "channel": "클럽미즈라미체의원 [피부과]",
+            "url": "https://www.youtube.com/watch?v=hbjtujN5Rd0&pp=ygUo7YG065-966-47KaI652866-47LK07J2Y7JuQIOyeoOyLpCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "9.4K views"
+          },
+          {
+            "title": "피부과 레이저 소리만 듣고 맞힐 수 있을까? [클럽미즈라미체]",
+            "channel": "클럽미즈라미체의원 [피부과]",
+            "url": "https://www.youtube.com/watch?v=PBeZ7SvU0r0&pp=ygUo7YG065-966-47KaI652866-47LK07J2Y7JuQIOyeoOyLpCBLb3JlYQ%3D%3D",
+            "view_text": "1.1K views"
+          },
+          {
+            "title": "라미체 어플 출시! 라미체 어플 사용 설명서  [클럽미즈라미체]",
+            "channel": "클럽미즈라미체의원 [피부과]",
+            "url": "https://www.youtube.com/watch?v=DeCW0k4NwPw&pp=ygUo7YG065-966-47KaI652866-47LK07J2Y7JuQIOyeoOyLpCBLb3JlYQ%3D%3D",
+            "view_text": "284 views"
+          },
+          {
+            "title": "점인 줄 알았는데...암일 수 있다고요? [클럽미즈라미체]",
+            "channel": "클럽미즈라미체의원 [피부과]",
+            "url": "https://www.youtube.com/watch?v=oIBd_N47uGg&pp=ygUo7YG065-966-47KaI652866-47LK07J2Y7JuQIOyeoOyLpCBLb3JlYQ%3D%3D",
+            "view_text": "305 views"
+          },
+          {
+            "title": "신경 쓰이는 모공 어떻게 관리할까? [클럽미즈라미체]",
+            "channel": "클럽미즈라미체의원 [피부과]",
+            "url": "https://www.youtube.com/watch?v=gZUiZKzKfiE&pp=ygUo7YG065-966-47KaI652866-47LK07J2Y7JuQIOyeoOyLpCBLb3JlYQ%3D%3D",
+            "view_text": "1.8K views"
+          },
+          {
+            "title": "쥐젖 없애는 방법, 확실하게 알려드릴게요! [클럽미즈라미체]",
+            "channel": "클럽미즈라미체의원 [피부과]",
+            "url": "https://www.youtube.com/watch?v=WFuxQ-2Rz5s&pp=ygUo7YG065-966-47KaI652866-47LK07J2Y7JuQIOyeoOyLpCBLb3JlYQ%3D%3D",
+            "view_text": "10K views"
+          },
+          {
+            "title": "라미체만의 독자적 시술법을 적용한 러블리프팅! 소개합니다 [클럽미즈라미체]",
+            "channel": "클럽미즈라미체의원 [피부과]",
+            "url": "https://www.youtube.com/watch?v=vGqERVS-wrk&pp=ygUo7YG065-966-47KaI652866-47LK07J2Y7JuQIOyeoOyLpCBLb3JlYQ%3D%3D",
+            "view_text": "379 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 90000,
+  "opportunity_cost_krw": 3600000
+}

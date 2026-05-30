@@ -1,18 +1,18 @@
 {
   "query": "이데아디자인인테리어디자인",
-  "generated_at": "2026-05-28T22:45:21.744Z",
+  "generated_at": "2026-05-29T11:23:59.908Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 3,
+      "metric_value": 68,
       "extra": {
-        "place_id": "36932951",
-        "name": "이데아디자인 : 네이버\u001c",
-        "visitor_review_count": 3,
-        "blog_review_count": 0,
-        "detail_url": "https://m.place.naver.com/place/36932951/home"
+        "place_id": "1687167578",
+        "name": "아이디어인테리어 : 네이버\u001c",
+        "visitor_review_count": 34,
+        "blog_review_count": 34,
+        "detail_url": "https://m.place.naver.com/place/1687167578/home"
       }
     },
     "google_maps": {
@@ -21,15 +21,15 @@
       "metric_value": 0,
       "extra": {
         "name": "Results",
-        "rating": 3.9,
+        "rating": 5,
         "total_reviews": 0,
-        "sample_size": 6,
-        "foreign_language_reviews": 6,
+        "sample_size": 5,
+        "foreign_language_reviews": 5,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 6
+          "english_other": 5
         }
       }
     },
@@ -47,22 +47,34 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 2045408,
-        "foreign_video_count": 0,
+        "total_views": 7799492,
+        "foreign_video_count": 1,
         "lang_breakdown": {
-          "korean": 20,
+          "korean": 19,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
-          "english_other": 0
+          "english_other": 1
         },
         "sample_size": 20,
         "top_videos": [
+          {
+            "title": "인테리어 전, 이 영상 보신다면 돈 버셨습니다👀 앞으로 10년 이상 유행타지 않는 세련된 무드🪄 │ 로그디자인 랜선집들이",
+            "channel": "로그디자인",
+            "url": "https://www.youtube.com/watch?v=O5t2xlQjpO8&pp=ygUt7J20642w7JWE65SU7J6Q7J247J247YWM66as7Ja065SU7J6Q7J24IEtvcmVh",
+            "view_text": "557K views"
+          },
           {
             "title": "주택 디자인 아이디어 [15mx17.12m]model0189",
             "channel": "kitiyaponn house",
             "url": "https://www.youtube.com/watch?v=y2RByFPHpVo&pp=ugMICgJrbxABGAHKBS3snbTrjbDslYTrlJTsnpDsnbjsnbjthYzrpqzslrTrlJTsnpDsnbggS29yZWE%3D",
             "view_text": "105K views"
+          },
+          {
+            "title": "주택 디자인 아이디어 [11.10mx15.35m]침실 3개/모델0188",
+            "channel": "kitiyaponn house",
+            "url": "https://www.youtube.com/watch?v=Wue3vfkqIPA&pp=ugMICgJrbxABGAHKBS3snbTrjbDslYTrlJTsnpDsnbjsnbjthYzrpqzslrTrlJTsnpDsnbggS29yZWE%3D",
+            "view_text": "11K views"
           },
           {
             "title": "IDEA CURATING",
@@ -71,34 +83,22 @@
             "view_text": "14 views"
           },
           {
+            "title": "ss idea lab 2f_인테리어",
+            "channel": "group ss",
+            "url": "https://www.youtube.com/watch?v=TXdGzGuA_Gk&pp=ygUt7J20642w7JWE65SU7J6Q7J247J247YWM66as7Ja065SU7J6Q7J24IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "13 views"
+          },
+          {
             "title": "LG Objet Collection - Idea 편",
             "channel": "LG전자",
             "url": "https://www.youtube.com/watch?v=R0WDYNqGYw8&pp=ygUt7J20642w7JWE65SU7J6Q7J247J247YWM66as7Ja065SU7J6Q7J24IEtvcmVh",
             "view_text": "414K views"
           },
           {
-            "title": "ss idea lab 3f_인테리어",
-            "channel": "group ss",
-            "url": "https://www.youtube.com/watch?v=t2vLeH8_QnI&pp=ygUt7J20642w7JWE65SU7J6Q7J247J247YWM66as7Ja065SU7J6Q7J24IEtvcmVh",
-            "view_text": "13 views"
-          },
-          {
-            "title": "인테리어 전, 이 영상 보신다면 돈 버셨습니다👀 앞으로 10년 이상 유행타지 않는 세련된 무드🪄 │ 로그디자인 랜선집들이",
-            "channel": "로그디자인",
-            "url": "https://www.youtube.com/watch?v=O5t2xlQjpO8&pp=ygUt7J20642w7JWE65SU7J6Q7J247J247YWM66as7Ja065SU7J6Q7J24IEtvcmVh",
-            "view_text": "557K views"
-          },
-          {
-            "title": "ss idea lab 2f_인테리어",
-            "channel": "group ss",
-            "url": "https://www.youtube.com/watch?v=TXdGzGuA_Gk&pp=ygUt7J20642w7JWE65SU7J6Q7J247J247YWM66as7Ja065SU7J6Q7J24IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "13 views"
-          },
-          {
-            "title": "H;idea - 김지민, 양태열, 최진한",
-            "channel": "광주대 인테리어디자인학과  [GJ IND Official]",
-            "url": "https://www.youtube.com/watch?v=_m7NhsKSdIY&pp=ygUt7J20642w7JWE65SU7J6Q7J247J247YWM66as7Ja065SU7J6Q7J24IEtvcmVh",
-            "view_text": "71 views"
+            "title": "주택 디자인 아이디어 | 모던 하우스 9m x 12m (108sqm) | 침실 3개",
+            "channel": "S.Design idea",
+            "url": "https://www.youtube.com/watch?v=91F29CtMs1s&pp=ugMICgJrbxABGAHKBS3snbTrjbDslYTrlJTsnpDsnbjsnbjthYzrpqzslrTrlJTsnpDsnbggS29yZWHSBwkJIwsBhyohjO8%3D",
+            "view_text": "711K views"
           },
           {
             "title": "이데아큐레이팅 White Cubism in Sinsa 에이커스",
@@ -107,16 +107,16 @@
             "view_text": "37 views"
           },
           {
-            "title": "[기업] 삼성전자·LG전자, 국제 디자인 공모전 IDEA 주요 상 석권 / YTN",
-            "channel": "YTN",
-            "url": "https://www.youtube.com/watch?v=RPCNqY8QktA&pp=ygUt7J20642w7JWE65SU7J6Q7J247J247YWM66as7Ja065SU7J6Q7J24IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "592 views"
+            "title": "ss idea lab 3f_인테리어",
+            "channel": "group ss",
+            "url": "https://www.youtube.com/watch?v=t2vLeH8_QnI&pp=ygUt7J20642w7JWE65SU7J6Q7J247J247YWM66as7Ja065SU7J6Q7J24IEtvcmVh",
+            "view_text": "13 views"
           },
           {
-            "title": "ss idea lab 1f_인테리어",
-            "channel": "group ss",
-            "url": "https://www.youtube.com/watch?v=9Wcdnz_j6kc&pp=ygUt7J20642w7JWE65SU7J6Q7J247J247YWM66as7Ja065SU7J6Q7J24IEtvcmVh",
-            "view_text": "5 views"
+            "title": "품격? 카페 매출의 90%는 인테리어입니다 [cafe interior design idea] #카페인테리어 #cafeinteriordesign",
+            "channel": "arche708 [space design team]",
+            "url": "https://www.youtube.com/watch?v=z6IBhe-IRmY&pp=ygUt7J20642w7JWE65SU7J6Q7J247J247YWM66as7Ja065SU7J6Q7J24IEtvcmVh",
+            "view_text": "152 views"
           }
         ]
       }
@@ -132,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

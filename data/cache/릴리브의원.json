@@ -1,26 +1,28 @@
 {
   "query": "릴리브의원",
-  "generated_at": "2026-05-28T22:39:12.315Z",
+  "generated_at": "2026-05-29T11:17:29.421Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 2126,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "1649894797",
+        "name": "릴리브의원 : 네이버\u001c",
+        "visitor_review_count": 292,
+        "blog_review_count": 1834,
+        "detail_url": "https://m.place.naver.com/place/1649894797/home"
       }
     },
     "google_maps": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 1124,
       "extra": {
         "name": "릴리브의원｜ Relieve Clinic",
         "rating": 4.9,
-        "total_reviews": 0,
+        "total_reviews": 1124,
         "sample_size": 0,
         "foreign_language_reviews": 0,
         "lang_breakdown": {
@@ -43,36 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 3,
+      "metric_value": 20,
       "extra": {
-        "total_views": 663000,
+        "total_views": 7118670,
         "foreign_video_count": 0,
         "lang_breakdown": {
-          "korean": 3,
+          "korean": 20,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
           "english_other": 0
         },
-        "sample_size": 3,
+        "sample_size": 20,
         "top_videos": [
           {
-            "title": "전직 피부과직원이 말하는 리쥬란힐러 효과 100% 보는 방법",
-            "channel": "소의튜브soytube",
-            "url": "https://www.youtube.com/watch?v=6y2qa9G0OFg&pp=ygUk66a066as67iM7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "198K views"
+            "title": "[원장극장 Ep.25] 릴리브의원, 환자의 무통을 위해 재료비를 10배 더 쓰는 원장님 이야기",
+            "channel": "병원마케팅 주치의 애드리절트TV",
+            "url": "https://www.youtube.com/watch?v=aNLXF7IW79M&pp=ygUV66a066as67iM7J2Y7JuQIEtvcmVh",
+            "view_text": "1.2K views"
+          },
+          {
+            "title": "Skin Booster = Painful? I Tried It Myself | My Review of Lituo",
+            "channel": "의학정보채널 채널의",
+            "url": "https://www.youtube.com/watch?v=la5fxyCHG0c&pp=ygUV66a066as67iM7J2Y7JuQIEtvcmVh",
+            "view_text": "12K views"
+          },
+          {
+            "title": "자기관리 천재✨ 압구정 피부과 대표원장 왓츠인마이백 2편👜 피부 고민별 피부과 시술 추천, 무통증 리쥬란, 인생 리프팅, 영양제, 헬창 꿀템 가방털기🔥",
+            "channel": "잇츠나라 itisnara",
+            "url": "https://www.youtube.com/watch?v=i_IlLt8tzXI&pp=ygUV66a066as67iM7J2Y7JuQIEtvcmVh",
+            "view_text": "3.1K views"
+          },
+          {
+            "title": "A comprehensive list of treatments recommended by dermatologists who are serious about skin care ...",
+            "channel": "잇츠나라 itisnara",
+            "url": "https://www.youtube.com/watch?v=EOA-UwmdAU4&pp=ygUV66a066as67iM7J2Y7JuQIEtvcmVh",
+            "view_text": "2.8K views"
+          },
+          {
+            "title": "아보카도·토마토…'과일생식' 30대 비건 인플루언서 사망  / 연합뉴스 (Yonhapnews)",
+            "channel": "연합뉴스 Yonhapnews",
+            "url": "https://www.youtube.com/watch?v=AEkchJgY5nk&pp=ygUV66a066as67iM7J2Y7JuQIEtvcmVh",
+            "view_text": "2M views"
+          },
+          {
+            "title": "함익병 원장이 말하는 기미·잡티 재발 막는 법",
+            "channel": "제철건강",
+            "url": "https://www.youtube.com/watch?v=4jZS5ruDlPg&pp=ygUV66a066as67iM7J2Y7JuQIEtvcmVh",
+            "view_text": "469K views"
+          },
+          {
+            "title": "🔥Spent over 50 million won at a dermatologist🔥 A comprehensive list of crazy effective dermatolog...",
+            "channel": "황라희 Hwang Lahee",
+            "url": "https://www.youtube.com/watch?v=vFRIGPlyEiE&pp=ygUV66a066as67iM7J2Y7JuQIEtvcmVh",
+            "view_text": "69K views"
+          },
+          {
+            "title": "의정부 릴리브산후조리원",
+            "channel": "나도얌",
+            "url": "https://www.youtube.com/watch?v=Fb_UOjhPu9I&pp=ygUV66a066as67iM7J2Y7JuQIEtvcmVh",
+            "view_text": "163 views"
           },
           {
             "title": "서울대 피부과의사가 찍어주는 스킨부스터 완벽 정리. \"이 영상보면 호구 안당합니다\" - 이도영 피부과전문의",
             "channel": "피부텐텐 · 피부가 예뻐지는 10분",
-            "url": "https://www.youtube.com/watch?v=rigKW7zrTeI&pp=ygUk66a066as67iM7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=rigKW7zrTeI&pp=ygUV66a066as67iM7J2Y7JuQIEtvcmVh",
             "view_text": "338K views"
           },
           {
-            "title": "가격이 싼 병원은 이것 때문에 싼 거예요 😨 스킨부스터 리쥬란힐러와 쥬베룩!",
-            "channel": "피부해결사 퓨린언니",
-            "url": "https://www.youtube.com/watch?v=LgnL3aqQxs8&pp=ygUk66a066as67iM7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "127K views"
+            "title": "유레아플라즈마 유레아리티쿰은 성병일까요? (원인과 증상 그리고 치료는?)",
+            "channel": "이음여성한의원 김우성 원장",
+            "url": "https://www.youtube.com/watch?v=d2Ly24dtE5c&pp=ygUV66a066as67iM7J2Y7JuQIEtvcmVh",
+            "view_text": "64K views"
           }
         ]
       }
@@ -88,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

@@ -1,16 +1,18 @@
 {
   "query": "모다올의원병원,의원",
-  "generated_at": "2026-05-28T23:58:42.551Z",
+  "generated_at": "2026-05-29T12:45:26.351Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 1411,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "1725698270",
+        "name": "모다올의원 : 네이버\u001c",
+        "visitor_review_count": 389,
+        "blog_review_count": 1022,
+        "detail_url": "https://m.place.naver.com/place/1725698270/home"
       }
     },
     "google_maps": {
@@ -43,30 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 2,
+      "metric_value": 20,
       "extra": {
-        "total_views": 9000,
-        "foreign_video_count": 2,
+        "total_views": 95080,
+        "foreign_video_count": 0,
         "lang_breakdown": {
-          "korean": 0,
+          "korean": 20,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
-          "english_other": 2
+          "english_other": 0
         },
-        "sample_size": 2,
+        "sample_size": 20,
         "top_videos": [
           {
-            "title": "The Unpleasantness at the Bellona Club by Dorothy L. Sayers 🕵️‍♂️🕰️ Mystery, Suspense & Intrigue!",
-            "channel": "Storytime Haven",
-            "url": "https://www.youtube.com/watch?v=wsQyBP1fQu8&pp=ygUo66qo64uk7Jis7J2Y7JuQ7Yah7Yah67OR7JuQLOydmOybkCBLb3JlYdIHCQkNCwGHKiGM7w%3D%3D",
-            "view_text": "6K views"
+            "title": "탈모 걱정 이제 하지 마세요 - 모다올 소개 1",
+            "channel": "디테일한 맞춤 모발이식 모다올의원",
+            "url": "https://www.youtube.com/watch?v=B4kUSyJ2cCM&pp=ygUi66qo64uk7Jis7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "726 views"
           },
           {
-            "title": "🔍 The Albert Gate Mystery: A Captivating Detective Tale 🕵️‍♂️ By  Louis Tracy",
-            "channel": "Storytime Haven",
-            "url": "https://www.youtube.com/watch?v=cYmbQVHkfQ0&pp=ygUo66qo64uk7Jis7J2Y7JuQ7Yah7Yah67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
-            "view_text": "3K views"
+            "title": "[모다올] 모발이식 부작용, 걱정하지 마세요! 모발대백과사전 부작용편 #1",
+            "channel": "디테일한 맞춤 모발이식 모다올의원",
+            "url": "https://www.youtube.com/watch?v=8tY9o_Ju_iA&pp=ygUi66qo64uk7Jis7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "637 views"
+          },
+          {
+            "title": "[모다올] 모발이식 수술에 대한 모든 것! 모발대백과사전 수술편 #1",
+            "channel": "디테일한 맞춤 모발이식 모다올의원",
+            "url": "https://www.youtube.com/watch?v=GEi9MDxgygc&pp=ygUi66qo64uk7Jis7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "1.2K views"
+          },
+          {
+            "title": "모발이식, 무조건 해도 된다? 절대하면 안 되는 사람들의 특징 대공개!",
+            "channel": "디테일한 맞춤 모발이식 모다올의원",
+            "url": "https://www.youtube.com/watch?v=x580tsbwxL0&pp=ygUi66qo64uk7Jis7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "68K views"
+          },
+          {
+            "title": "[모생모사] 등산하는 강남 모발이식 의사, 홍원장이 꿈꾸는 병원! #모발이식의사 #의사브이로그 #의사유튜버",
+            "channel": "닥터홍의 모생모사(毛生毛死)",
+            "url": "https://www.youtube.com/watch?v=7NHJcrwhhPs&pp=ygUi66qo64uk7Jis7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "56 views"
+          },
+          {
+            "title": "모발 병원 고르는 꿀팁! 이런 곳은 가면 안됩니다!",
+            "channel": "디테일한 맞춤 모발이식 모다올의원",
+            "url": "https://www.youtube.com/watch?v=R7c8KUnxo8Y&pp=ygUi66qo64uk7Jis7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "10K views"
+          },
+          {
+            "title": "[모다올] 모발이식을 받은 모발이식 의사, 환자의 마음을 더 헤아리게 되다!",
+            "channel": "디테일한 맞춤 모발이식 모다올의원",
+            "url": "https://www.youtube.com/watch?v=uYaBjjyHEtw&pp=ygUi66qo64uk7Jis7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "2.5K views"
+          },
+          {
+            "title": "[모다올] 검은콩, 맥주효모, 물구나무가 모발이 나게 한다고? 탈모 낭설에 대한 모든 것! 모발대백과사전 소문편 #2",
+            "channel": "디테일한 맞춤 모발이식 모다올의원",
+            "url": "https://www.youtube.com/watch?v=Udh0WI_XZ8w&pp=ygUi66qo64uk7Jis7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "590 views"
+          },
+          {
+            "title": "[모다올] 모발이식 수술 후 관리에 도움이 되는 샴푸 추천! 모발대백과사전 샴푸편 #1",
+            "channel": "디테일한 맞춤 모발이식 모다올의원",
+            "url": "https://www.youtube.com/watch?v=ytYWCO7BZtc&pp=ygUi66qo64uk7Jis7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "1.3K views"
+          },
+          {
+            "title": "[모생모사] 압구정에서 모발로 모내기하는 닥터홍이 잘되는 이유는? #의사유튜버 #모발이식의사 #의사브이로그",
+            "channel": "닥터홍의 모생모사(毛生毛死)",
+            "url": "https://www.youtube.com/watch?v=vereL3F-zio&pp=ygUi66qo64uk7Jis7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "78 views"
           }
         ]
       }
@@ -82,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 3,
-  "opportunity_cost_thb": 98000,
-  "opportunity_cost_krw": 3920000
+  "global_score": 1,
+  "opportunity_cost_thb": 99000,
+  "opportunity_cost_krw": 3960000
 }

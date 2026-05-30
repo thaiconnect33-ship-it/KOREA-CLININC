@@ -1,0 +1,130 @@
+{
+  "query": "리엘르의원 명동점",
+  "generated_at": "2026-05-29T11:52:26.088Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 1262,
+      "extra": {
+        "place_id": "2051368286",
+        "name": "리엘르의원 명동점 : 네이버\u001c",
+        "visitor_review_count": 110,
+        "blog_review_count": 1152,
+        "detail_url": "https://m.place.naver.com/place/2051368286/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "리엘르의원 명동ㅣ 명동피부과 RE-ELE诊所 明洞皮肤科 RE-ELE診所 明洞皮膚科 Re-ele Clinic Myeongdong Dermatology reele REELE",
+        "rating": 5,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 7,
+      "extra": {
+        "total_views": 72679,
+        "foreign_video_count": 1,
+        "lang_breakdown": {
+          "korean": 6,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 1
+        },
+        "sample_size": 7,
+        "top_videos": [
+          {
+            "title": "스컬트라 유튜브",
+            "channel": "리엘르의원",
+            "url": "https://www.youtube.com/watch?v=0Bj6aTHZqxQ&pp=ygUf66as7JeY66W07J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "36"
+          },
+          {
+            "title": "정말 좋다!! 아비쥬뷰티 채용공고!!",
+            "channel": "아비쥬뷰티",
+            "url": "https://www.youtube.com/watch?v=6VNk98Asik4&pp=ygUf66as7JeY66W07J2Y7JuQIOuqheuPmeygkCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "1.7K"
+          },
+          {
+            "title": "아름다운나라피부과 체험하기",
+            "channel": "박혜영",
+            "url": "https://www.youtube.com/watch?v=kBWj729okFc&pp=ygUf66as7JeY66W07J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "313"
+          },
+          {
+            "title": "(2026)Ultimate Myeongdong Guide: 13 Spots You Can't Miss (Street Food, Shopping, Olive Young, K-POP)",
+            "channel": "GAMJA IN SEOUL",
+            "url": "https://www.youtube.com/watch?v=H6m3fuS5Ctg&pp=ygUf66as7JeY66W07J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "67K"
+          },
+          {
+            "title": "볼륨감있고 매력적인 키스를 부르는 입술! 톡스앤필 입술필러!",
+            "channel": "정콘TV",
+            "url": "https://www.youtube.com/watch?v=FY_akSmbwWU&pp=ygUf66as7JeY66W07J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "69"
+          },
+          {
+            "title": "😜ㅣ동탄 잇츠미의원ㅣ💋오버립은 이제그만! #입술필러 시술로 매마른 입술에서 탱글탱글 예쁜 입술로 변신😘",
+            "channel": "잇츠미의원동탄",
+            "url": "https://www.youtube.com/watch?v=2W-Tk_1zAfA&pp=ygUf66as7JeY66W07J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "461"
+          },
+          {
+            "title": "SRT(에스알티) - 자가진피재생술",
+            "channel": "케토리",
+            "url": "https://www.youtube.com/watch?v=0YCSEZkzNkg&pp=ygUf66as7JeY66W07J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "3.1K"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 1,
+  "opportunity_cost_thb": 99500,
+  "opportunity_cost_krw": 3980000
+}

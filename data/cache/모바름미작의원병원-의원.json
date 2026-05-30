@@ -1,33 +1,35 @@
 {
   "query": "모바름미작의원병원,의원",
-  "generated_at": "2026-05-28T23:55:24.885Z",
+  "generated_at": "2026-05-29T12:42:19.026Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 979,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "1131788278",
+        "name": "모바름미작의원 : 네이버\u001c",
+        "visitor_review_count": 680,
+        "blog_review_count": 299,
+        "detail_url": "https://m.place.naver.com/place/1131788278/home"
       }
     },
     "google_maps": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 4,
       "extra": {
-        "name": "Results",
-        "rating": 5,
-        "total_reviews": 0,
-        "sample_size": 9,
-        "foreign_language_reviews": 9,
+        "name": "모바름미작(Mijak Hair)",
+        "rating": 4.8,
+        "total_reviews": 4,
+        "sample_size": 6,
+        "foreign_language_reviews": 6,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 9
+          "english_other": 6
         }
       }
     },
@@ -43,9 +45,80 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 0,
+      "metric_value": 20,
       "extra": {
-        "note": "결과 없음"
+        "total_views": 2260786,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "모발 이식 전·후 꼭 해야 하는 것 vs 절대 하면 안 되는 것!!_[모발이식은 모바름 미작]",
+            "channel": "모바름미작 MOBAREUM",
+            "url": "https://www.youtube.com/watch?v=l1BR3CbwhG0&pp=ygUo66qo67CU66aE66-47J6R7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "6.6K views"
+          },
+          {
+            "title": "모발 이식 후 가장 많이 생기는 부작용과 해결 방법을 모두 알려드립니다!_[모발이식은 모바름 미작]",
+            "channel": "모바름미작 MOBAREUM",
+            "url": "https://www.youtube.com/watch?v=UB0uSKL_OMg&pp=ygUo66qo67CU66aE66-47J6R7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "668 views"
+          },
+          {
+            "title": "'절개 vs 비절개' 나에게 알맞은 모발 이식 방법은?!_[모발이식은 모바름 미작]",
+            "channel": "모바름미작 MOBAREUM",
+            "url": "https://www.youtube.com/watch?v=7U55Kzwp5JQ&pp=ygUo66qo67CU66aE66-47J6R7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "4.8K views"
+          },
+          {
+            "title": "대표 탈모 약 프로페시아 vs 아보다트.. 나에게 맞는 약 고르는 방법!!_[모발이식은 모바름 미작]",
+            "channel": "모바름미작 MOBAREUM",
+            "url": "https://www.youtube.com/watch?v=RrHwGrgBheY&pp=ygUo66qo67CU66aE66-47J6R7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "10K views"
+          },
+          {
+            "title": "모발 이식 후 불만족.. 재수술을 해야하는 경우 vs 아닌 경우는?!_[모발이식은 모바름 미작]",
+            "channel": "모바름미작 MOBAREUM",
+            "url": "https://www.youtube.com/watch?v=r8FRhmBa8wE&pp=ygUo66qo67CU66aE66-47J6R7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "499 views"
+          },
+          {
+            "title": "3천모? 4천모? 병원마다 이식 모 수가 차이나는 이유!!_[모발이식은 모바름 미작]",
+            "channel": "모바름미작 MOBAREUM",
+            "url": "https://www.youtube.com/watch?v=FgyBrT8mT5A&pp=ygUo66qo67CU66aE66-47J6R7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "4.9K views"
+          },
+          {
+            "title": "탈모 약 먹으면 성 기능 장애 온다? 전문의의 의견은?!_[모발이식은 모바름 미작]",
+            "channel": "모바름미작 MOBAREUM",
+            "url": "https://www.youtube.com/watch?v=hiN5aCKWiOc&pp=ygUo66qo67CU66aE66-47J6R7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "27K views"
+          },
+          {
+            "title": "모발 이식 후 생착 과정과 이식한 모낭이 빠지지 않는 이유!!_[모발이식은 모바름 미작]",
+            "channel": "모바름미작 MOBAREUM",
+            "url": "https://www.youtube.com/watch?v=saXXn-ieUck&pp=ygUo66qo67CU66aE66-47J6R7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "11K views"
+          },
+          {
+            "title": "모발 이식을 할 수 있는 나이와 최대 횟수에 대한 궁금증을 풀어드립니다!_[모발이식은 모바름 미작]",
+            "channel": "모바름미작 MOBAREUM",
+            "url": "https://www.youtube.com/watch?v=t5SqqYthNH0&pp=ygUo66qo67CU66aE66-47J6R7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "621 views"
+          },
+          {
+            "title": "남자와 여자의 탈모 원인과 치료 방법은 어떻게 다를까?!_[모발이식은 모바름 미작]",
+            "channel": "모바름미작 MOBAREUM",
+            "url": "https://www.youtube.com/watch?v=-a86M1rmAds&pp=ygUo66qo67CU66aE66-47J6R7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "1.2K views"
+          }
+        ]
       }
     },
     "xiaohongshu": {
@@ -59,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 5,
-  "opportunity_cost_thb": 95500,
-  "opportunity_cost_krw": 3820000
+  "global_score": 3,
+  "opportunity_cost_thb": 97000,
+  "opportunity_cost_krw": 3880000
 }

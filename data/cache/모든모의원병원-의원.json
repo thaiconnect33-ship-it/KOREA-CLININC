@@ -1,17 +1,17 @@
 {
   "query": "모든모의원병원,의원",
-  "generated_at": "2026-05-28T23:53:52.640Z",
+  "generated_at": "2026-05-29T12:40:42.624Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 1433,
+      "metric_value": 1445,
       "extra": {
         "place_id": "1487732469",
         "name": "모든모의원 : 네이버\u001c",
-        "visitor_review_count": 308,
-        "blog_review_count": 1125,
+        "visitor_review_count": 310,
+        "blog_review_count": 1135,
         "detail_url": "https://m.place.naver.com/place/1487732469/home"
       }
     },
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 254849,
+        "total_views": 252629,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -61,7 +61,7 @@
           {
             "title": "[모든모의원] 병원 미리보기",
             "channel": "모든모의원 진료내용모발이식, 헤어라인교정",
-            "url": "https://www.youtube.com/watch?v=UjbnS1mq_Bc&pp=ygUi66qo65Og66qo7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "url": "https://www.youtube.com/watch?v=UjbnS1mq_Bc&pp=ygUi66qo65Og66qo7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
             "view_text": "816 views"
           },
           {
@@ -71,28 +71,16 @@
             "view_text": "64K views"
           },
           {
-            "title": "그래서 비절개모발이식 아픈가요?! 마취는?  [모든모의원]",
-            "channel": "머리심는 의사",
-            "url": "https://www.youtube.com/watch?v=1XzdpoAbQ2o&pp=ygUi66qo65Og66qo7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
-            "view_text": "6.1K views"
-          },
-          {
             "title": "병원 고르기 [큰 병원, 오래된 병원]",
             "channel": "머리심는 의사",
             "url": "https://www.youtube.com/watch?v=65LCccDBfKc&pp=ygUi66qo65Og66qo7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
             "view_text": "1.6K views"
           },
           {
-            "title": "모발이식 병원마다 견적이 다른 이유? (절개? 비절개?)",
+            "title": "그래서 비절개모발이식 아픈가요?! 마취는?  [모든모의원]",
             "channel": "머리심는 의사",
-            "url": "https://www.youtube.com/watch?v=DzrgJ4xu7Ow&pp=ygUi66qo65Og66qo7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
-            "view_text": "1.4K views"
-          },
-          {
-            "title": "카페 후기? 커뮤니티? 병원 고를때 꼭 알아야 할 것!",
-            "channel": "머리심는 의사",
-            "url": "https://www.youtube.com/watch?v=pQx_R6LO_7g&pp=ygUi66qo65Og66qo7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYdIHCQkNCwGHKiGM7w%3D%3D",
-            "view_text": "1.7K views"
+            "url": "https://www.youtube.com/watch?v=1XzdpoAbQ2o&pp=ygUi66qo65Og66qo7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "6.1K views"
           },
           {
             "title": "나이대별 탈모병원을 찾는 유형",
@@ -103,19 +91,31 @@
           {
             "title": "탈모 진단, 치료 무슨과? 어느병원? 가야할까",
             "channel": "머리심는 의사",
-            "url": "https://www.youtube.com/watch?v=MOUcc3lcq2w&pp=ygUi66qo65Og66qo7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "url": "https://www.youtube.com/watch?v=MOUcc3lcq2w&pp=ygUi66qo65Og66qo7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
             "view_text": "122K views"
+          },
+          {
+            "title": "카페 후기? 커뮤니티? 병원 고를때 꼭 알아야 할 것!",
+            "channel": "머리심는 의사",
+            "url": "https://www.youtube.com/watch?v=pQx_R6LO_7g&pp=ygUi66qo65Og66qo7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "1.7K views"
+          },
+          {
+            "title": "모발이식 병원마다 견적이 다른 이유? (절개? 비절개?)",
+            "channel": "머리심는 의사",
+            "url": "https://www.youtube.com/watch?v=DzrgJ4xu7Ow&pp=ygUi66qo65Og66qo7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "1.4K views"
           },
           {
             "title": "Hair transplant clinics with very cheap prices",
             "channel": "머리심는 의사",
             "url": "https://www.youtube.com/watch?v=ZqYlbHYds3A&pp=ygUi66qo65Og66qo7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
-            "view_text": "857 views"
+            "view_text": "859 views"
           },
           {
             "title": "탈모 성지 약국, 성지 병원의 실체",
             "channel": "머리심는 의사",
-            "url": "https://www.youtube.com/watch?v=MZ5dhRDspVg&pp=ygUi66qo65Og66qo7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYdIHCQkNCwGHKiGM7w%3D%3D",
+            "url": "https://www.youtube.com/watch?v=MZ5dhRDspVg&pp=ygUi66qo65Og66qo7J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
             "view_text": "17K views"
           }
         ]
@@ -132,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

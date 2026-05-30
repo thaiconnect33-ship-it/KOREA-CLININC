@@ -1,16 +1,18 @@
 {
   "query": "셀업성형외과의원",
-  "generated_at": "2026-05-28T22:17:06.344Z",
+  "generated_at": "2026-05-29T10:53:44.876Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 908,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "1084397745",
+        "name": "셀업성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 163,
+        "blog_review_count": 745,
+        "detail_url": "https://m.place.naver.com/place/1084397745/home"
       }
     },
     "google_maps": {
@@ -43,9 +45,80 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 0,
+      "metric_value": 11,
       "extra": {
-        "note": "결과 없음"
+        "total_views": 511020,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 11,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 11,
+        "top_videos": [
+          {
+            "title": "[단독] 강남 성형외과서 수술 뒤 '한쪽 눈 실명'…병원은 책임 회피 / JTBC 뉴스룸",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=DNlfZN4vPqU&pp=ygUe7IWA7JeF7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "58K views"
+          },
+          {
+            "title": "안면거상술 상담 받기 전 알아야 할 정보 2가지 꼭 확인하세요!  l 수술 종류 l 수술 비용",
+            "channel": "닥터세이렌TV",
+            "url": "https://www.youtube.com/watch?v=9mL5U7GdRFs&pp=ygUe7IWA7JeF7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "60K views"
+          },
+          {
+            "title": "안면거상 회복기간 줄이는 꿀팁 대방출🍯 수술만 했다고 끝이 아니에요!!",
+            "channel": "시너지성형외과",
+            "url": "https://www.youtube.com/watch?v=i7k1zkxvYQk&pp=ygUe7IWA7JeF7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "53K views"
+          },
+          {
+            "title": "눈밑지방제거는 안하는 것이 좋습니다. 특히나 레이저 눈밑지방제거 시술은 절대 하지 마세요",
+            "channel": "스타비성형외과",
+            "url": "https://www.youtube.com/watch?v=TYCC4uyDAlU&pp=ygUe7IWA7JeF7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "267K views"
+          },
+          {
+            "title": "큐피트라인 성형으로 입술의 곡선을 섹시하게! ｜키스를 부르는 입술이라구요? 💋😘",
+            "channel": "에이치비성형외과 HB Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=iqzjEf8OtiA&pp=ygUe7IWA7JeF7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "403 views"
+          },
+          {
+            "title": "지금은 괜찮아 보여도, 나중에 확 늙는 얼굴 공통점 5가지! 의사가 보면 바로 압니다!",
+            "channel": "의사남사친 오대명TV",
+            "url": "https://www.youtube.com/watch?v=l8XGgsGnwME&pp=ygUe7IWA7JeF7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "63K views"
+          },
+          {
+            "title": "슈링크 유니버스 TV CF_E (6')",
+            "channel": "클래시스",
+            "url": "https://www.youtube.com/watch?v=eJYdnVtpr-I&pp=ygUe7IWA7JeF7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "496 views"
+          },
+          {
+            "title": "DPL(디피엘) 하이푸 리프팅 남자 시술영상",
+            "channel": "디엠컴퍼니",
+            "url": "https://www.youtube.com/watch?v=q5AXL43svjo&pp=ygUe7IWA7JeF7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "782 views"
+          },
+          {
+            "title": "슈링크 유니버스 vs 기존 슈링크 차이?! 깔끔하게 정리해 봤어요~",
+            "channel": "DR.OHVELY",
+            "url": "https://www.youtube.com/watch?v=oxBPSrNiFdU&pp=ygUe7IWA7JeF7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "7.2K views"
+          },
+          {
+            "title": "동안열풍! 그방법은 바로! 뉴스킨 갈바닉 180도 에이지락 누스킨",
+            "channel": "Billy Joel",
+            "url": "https://www.youtube.com/watch?v=TslhqeDVdeU&pp=ygUe7IWA7JeF7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "313 views"
+          }
+        ]
       }
     },
     "xiaohongshu": {
@@ -59,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

@@ -1,6 +1,6 @@
 {
   "query": "위즈앤미의원",
-  "generated_at": "2026-05-28T22:56:38.427Z",
+  "generated_at": "2026-05-29T11:36:21.603Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -59,33 +59,33 @@
         "sample_size": 5,
         "top_videos": [
           {
-            "title": "[단독] 강남 성형외과에 '분통'…\"근육 썩고 사경 헤맸다\" / SBS 8뉴스",
-            "channel": "SBS 뉴스",
-            "url": "https://www.youtube.com/watch?v=svfX3-lNpIw&pp=ygUk7JyE7KaI7JWk66-47J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "2.4M views"
-          },
-          {
             "title": "\"너무 아프다\"…한마디 남기고 지방흡입 수술 후 사망 / KNN",
             "channel": "KNN NEWS",
-            "url": "https://www.youtube.com/watch?v=Q3Ii_0VymLc&pp=ygUk7JyE7KaI7JWk66-47J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=Q3Ii_0VymLc&pp=ygUY7JyE7KaI7JWk66-47J2Y7JuQIEtvcmVh",
             "view_text": "2.2M views"
           },
           {
             "title": "도망쳐..지금이야!! 성형외과 블랙리스트 이렇게 거르세요",
             "channel": "지유미 JIYUMEE",
-            "url": "https://www.youtube.com/watch?v=VK1hIW0QP-g&pp=ygUk7JyE7KaI7JWk66-47J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=VK1hIW0QP-g&pp=ygUY7JyE7KaI7JWk66-47J2Y7JuQIEtvcmVh",
             "view_text": "126K views"
+          },
+          {
+            "title": "[단독] 강남 성형외과에 '분통'…\"근육 썩고 사경 헤맸다\" / SBS 8뉴스",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=svfX3-lNpIw&pp=ygUY7JyE7KaI7JWk66-47J2Y7JuQIEtvcmVh",
+            "view_text": "2.4M views"
           },
           {
             "title": "How to find a good plastic surgeon🧡 How to find a good plastic surgeon and avoid plastic surgery ...",
             "channel": "베레나verena",
-            "url": "https://www.youtube.com/watch?v=SQzMbIJMBTQ&pp=ygUk7JyE7KaI7JWk66-47J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=SQzMbIJMBTQ&pp=ygUY7JyE7KaI7JWk66-47J2Y7JuQIEtvcmVh",
             "view_text": "277K views"
           },
           {
             "title": "피부과 10년차가 말하는 받으면 호구되는 시술 3가지",
             "channel": "소의튜브soytube",
-            "url": "https://www.youtube.com/watch?v=fiJ6_nrjt7A&pp=ygUk7JyE7KaI7JWk66-47J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=fiJ6_nrjt7A&pp=ygUY7JyE7KaI7JWk66-47J2Y7JuQIEtvcmVh",
             "view_text": "1.4M views"
           }
         ]
@@ -102,12 +102,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

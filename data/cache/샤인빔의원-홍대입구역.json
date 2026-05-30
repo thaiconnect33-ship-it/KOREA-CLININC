@@ -1,0 +1,118 @@
+{
+  "query": "샤인빔의원 홍대입구역",
+  "generated_at": "2026-05-29T11:31:29.399Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 965,
+      "extra": {
+        "place_id": "1663726098",
+        "name": "샤인빔의원 홍대입구역 : 네이버\u001c",
+        "visitor_review_count": 951,
+        "blog_review_count": 14,
+        "detail_url": "https://m.place.naver.com/place/1663726098/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Shinebeam Hong dae",
+        "rating": 4.9,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 5,
+      "extra": {
+        "total_views": 28088,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 5,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 5,
+        "top_videos": [
+          {
+            "title": "리엘르의원 인천점 10월, 𝑭𝒆𝒆𝒍 𝒕𝒉𝒆 𝑮𝒍𝒐𝒘",
+            "channel": "리엘르의원",
+            "url": "https://www.youtube.com/watch?v=zZMdZ3n0Q4c&pp=ygUl7IOk7J2467mU7J2Y7JuQIO2ZjeuMgOyeheq1rOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "52 views"
+          },
+          {
+            "title": "(ENG)어서와.. 바디인모드는 처음이지?😎  Welcom... It's your first time in body-in-mode, right?",
+            "channel": "땡기는 의사 이용석",
+            "url": "https://www.youtube.com/watch?v=yJAEw9qCiEM&pp=ygUl7IOk7J2467mU7J2Y7JuQIO2ZjeuMgOyeheq1rOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "11K views"
+          },
+          {
+            "title": "연예인이 받는 시술 BEST 5!!😎😆",
+            "channel": "땡기는 의사 이용석",
+            "url": "https://www.youtube.com/watch?v=1Flbj9C7-UM&pp=ygUl7IOk7J2467mU7J2Y7JuQIO2ZjeuMgOyeheq1rOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "871 views"
+          },
+          {
+            "title": "모공, 여드름 흉터 레이저 끝판왕｜포텐자VS피코프락셀 뭐가 더 좋냐면...",
+            "channel": "땡기는 의사 이용석",
+            "url": "https://www.youtube.com/watch?v=AetgZy-vBwY&pp=ygUl7IOk7J2467mU7J2Y7JuQIO2ZjeuMgOyeheq1rOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "16K views"
+          },
+          {
+            "title": "[LAW 투데이-1월 10일] 온라인 입법 청원, 법률방송 ‘1호’ 청원은... ‘울산시장 선거개입’ 검찰, 靑 압수수색... ‘홍대 일본여성 머리채 폭행’ 30대 징역 1년",
+            "channel": "법률방송",
+            "url": "https://www.youtube.com/watch?v=3jzzQKfK6k0&pp=ygUl7IOk7J2467mU7J2Y7JuQIO2ZjeuMgOyeheq1rOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "165 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 110000,
+  "opportunity_cost_krw": 4400000
+}

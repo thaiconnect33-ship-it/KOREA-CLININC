@@ -1,17 +1,17 @@
 {
   "query": "연세스타피부과의원",
-  "generated_at": "2026-05-28T23:34:46.456Z",
+  "generated_at": "2026-05-29T12:17:30.579Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 3110,
+      "metric_value": 3112,
       "extra": {
         "place_id": "11539014",
         "name": "연세스타피부과의원 : 네이버\u001c",
         "visitor_review_count": 1098,
-        "blog_review_count": 2012,
+        "blog_review_count": 2014,
         "detail_url": "https://m.place.naver.com/place/11539014/home"
       }
     },
@@ -45,78 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 20,
+      "metric_value": 19,
       "extra": {
-        "total_views": 487457,
+        "total_views": 1386517,
         "foreign_video_count": 0,
         "lang_breakdown": {
-          "korean": 20,
+          "korean": 19,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
           "english_other": 0
         },
-        "sample_size": 20,
+        "sample_size": 19,
         "top_videos": [
           {
-            "title": "좋은 피부과 찾는 법?? 이것만 기억하세요! (피부과 전문의)",
+            "title": "흉터 치료에 관한 궁금증 해소!! 연세스타피부과 강남점 김영구 원장과 함께 하는 \"곰기자의 흉터치료 바로 알기\"",
+            "channel": "연세스타피부과 강남점",
+            "url": "https://www.youtube.com/watch?v=3GpK2_X2mpU&pp=ygUh7Jew7IS47Iqk7YOA7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.1M views"
+          },
+          {
+            "title": "켈로이드 주사 왜 아프고 자꾸 재발할까? 23년 전문의 치료 솔루션 통합본",
             "channel": "피부고민상담소  신촌연세스타피부과",
-            "url": "https://www.youtube.com/watch?v=pxZPl_YACUA&pp=ygUq7Jew7IS47Iqk7YOA7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "49K views"
+            "url": "https://www.youtube.com/watch?v=Pr_xPGj9FwA&pp=ygUh7Jew7IS47Iqk7YOA7ZS867aA6rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "399 views"
           },
           {
-            "title": "쥬베룩! 진짜로 효과가 있는건가요?! (feat 여드름흉터, 패인흉터)",
+            "title": "레이저 흉터치료의 시기부터! 시술 후 증상까지 흉터치료에 대해서 모두 알려드립니다! (feat #흉터제거레이저)",
             "channel": "피부고민상담소  신촌연세스타피부과",
-            "url": "https://www.youtube.com/watch?v=nKqqs3SLfKQ&pp=ygUq7Jew7IS47Iqk7YOA7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "43K views"
+            "url": "https://www.youtube.com/watch?v=RzWX6ZLBiDk&pp=ygUh7Jew7IS47Iqk7YOA7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "91K views"
           },
           {
-            "title": "검버섯 레이저로 한 번에 제거 가능할까❓  검버섯 없애는 방법",
+            "title": "켈로이드 흉터, 주사만으론 부족합니다! 재발 막는 레이저 복합 치료의 핵심 원리 | 피부고민상담소 #켈로이드흉터 #켈로이드 레이저",
             "channel": "피부고민상담소  신촌연세스타피부과",
-            "url": "https://www.youtube.com/watch?v=-IEqcqs23s8&pp=ygUq7Jew7IS47Iqk7YOA7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "46K views"
+            "url": "https://www.youtube.com/watch?v=-efmsyvgwqY&pp=ygUh7Jew7IS47Iqk7YOA7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "676 views"
           },
           {
-            "title": "화상 흉터로 잠 못 이루는 분들을 위한 치료법 / 신촌연세스타피부과 이상주",
-            "channel": "의학채널 비온뒤",
-            "url": "https://www.youtube.com/watch?v=4fkf3K2jN5U&pp=ygUq7Jew7IS47Iqk7YOA7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "2.5K views"
-          },
-          {
-            "title": "코성형흉터 비주흉터 수술 없이 티 안나게 없애는 법",
+            "title": "피부 속 유착을 끊는다? 움푹패인 여드름흉터에 서브시전이란 바로 이런 치료입니다. #서브시전 #여드름흉터 #여드름흉터고민",
             "channel": "피부고민상담소  신촌연세스타피부과",
-            "url": "https://www.youtube.com/watch?v=5sE3jK8tR20&pp=ygUq7Jew7IS47Iqk7YOA7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCSMLAYcqIYzv",
-            "view_text": "33K views"
+            "url": "https://www.youtube.com/watch?v=3aoCQCkiwUU&pp=ygUh7Jew7IS47Iqk7YOA7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "10K views"
           },
           {
-            "title": "문신제거 횟수 자가진단법 알려드립니다! 타투지우기 횟수 단축시키는 꿀팁까지",
+            "title": "[피부고민상담소] 성형 흉터, 재수술 없이 치료하는 방법과 시기 #성형수술 #흉터치료",
             "channel": "피부고민상담소  신촌연세스타피부과",
-            "url": "https://www.youtube.com/watch?v=nFoT-R_4J94&pp=ygUq7Jew7IS47Iqk7YOA7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "34K views"
+            "url": "https://www.youtube.com/watch?v=jdwotGhNNFM&pp=ygUh7Jew7IS47Iqk7YOA7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "621 views"
           },
           {
-            "title": "[Dr.RECORD] 의사 강진문이 기록한 2026년의 진심 | 연세스타피부과",
+            "title": "빨리 낫게 해주세요!! 흉터 치료 서두르면 피부가 망가지는 이유 #흉터치료 #흉터제거 #흉터레이저",
             "channel": "피부고민상담소  신촌연세스타피부과",
-            "url": "https://www.youtube.com/watch?v=OQt6MT1Al5U&pp=ygUq7Jew7IS47Iqk7YOA7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "803 views"
+            "url": "https://www.youtube.com/watch?v=BuqreyBdDCc&pp=ygUh7Jew7IS47Iqk7YOA7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "224 views"
           },
           {
-            "title": "수술흉터 봉합흉터 없애고 싶다면 3가지만 기억하세요! | 봉합 수술 흉터 레이저 제거 치료",
+            "title": "나에게 맞는 흉터 치료방법은 뭘까!? #흉터치료 #흉터 #레이저 #수술",
             "channel": "피부고민상담소  신촌연세스타피부과",
-            "url": "https://www.youtube.com/watch?v=Knpi23-oL9c&pp=ygUq7Jew7IS47Iqk7YOA7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "85K views"
+            "url": "https://www.youtube.com/watch?v=qhv57EaSd34&pp=ygUh7Jew7IS47Iqk7YOA7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "98K views"
           },
           {
-            "title": "여드름흉터 치료, 흉터 종류별로 치료방법이 다릅니다!",
-            "channel": "목동고운세상피부과",
-            "url": "https://www.youtube.com/watch?v=SGmhw40uoZ8&pp=ygUq7Jew7IS47Iqk7YOA7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "71 views"
+            "title": "Why It Is Never Too Late to Treat Old Scars [Kim Young-gu, Chief Director of Yonsei Star Dermatol...",
+            "channel": "지금 명의",
+            "url": "https://www.youtube.com/watch?v=kq4lFnc8zHY&pp=ygUh7Jew7IS47Iqk7YOA7ZS867aA6rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "802 views"
           },
           {
-            "title": "흉터 제거 레이저 최강자! 울트라펄스앙코르 레이저",
+            "title": "[Dr.RECORD] 의사 이상주의 끊임없는 연구와 2026년의 진심 | 연세스타피부과",
             "channel": "피부고민상담소  신촌연세스타피부과",
-            "url": "https://www.youtube.com/watch?v=mExeMLRRKOk&pp=ygUq7Jew7IS47Iqk7YOA7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "18K views"
+            "url": "https://www.youtube.com/watch?v=bKLdUtQchXM&pp=ygUh7Jew7IS47Iqk7YOA7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "378 views"
           }
         ]
       }
@@ -132,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

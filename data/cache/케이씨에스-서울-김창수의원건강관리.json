@@ -1,6 +1,6 @@
 {
   "query": "케이씨에스 서울 김창수의원건강관리",
-  "generated_at": "2026-05-28T23:35:18.799Z",
+  "generated_at": "2026-05-29T12:18:09.066Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 15,
       "extra": {
-        "total_views": 44479,
+        "total_views": 44480,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 15,
@@ -59,40 +59,40 @@
         "sample_size": 15,
         "top_videos": [
           {
-            "title": "병원 선택 정말 힘들죠? 한방에 정리해드립니다. 종합병원이 좋다구요?  (KCS 서울 김창수 원장)",
-            "channel": "KCS 하지정맥류 네트워크",
-            "url": "https://www.youtube.com/watch?v=gwxzD6pxARs&pp=ygU47LyA7J207JSo7JeQ7IqkIOyEnOyauCDquYDssL3siJjsnZjsm5DqsbTqsJXqtIDrpqwgS29yZWE%3D",
-            "view_text": "1.4K views"
-          },
-          {
             "title": "정기검진, 안 하시면 재발할 수 있어요 (KCS 서울 김창수 원장)",
             "channel": "KCS 하지정맥류 네트워크",
             "url": "https://www.youtube.com/watch?v=rSF9k_WiK3M&pp=ygU47LyA7J207JSo7JeQ7IqkIOyEnOyauCDquYDssL3siJjsnZjsm5DqsbTqsJXqtIDrpqwgS29yZWE%3D",
             "view_text": "95 views"
           },
           {
-            "title": "하지정맥류 치료 후 관리는? 수술하고 끝이 아닙니다 (KCS 서울 김창수 원장)",
+            "title": "병원 선택 정말 힘들죠? 한방에 정리해드립니다. 종합병원이 좋다구요?  (KCS 서울 김창수 원장)",
             "channel": "KCS 하지정맥류 네트워크",
-            "url": "https://www.youtube.com/watch?v=Z6ZLiXucCiY&pp=ygU47LyA7J207JSo7JeQ7IqkIOyEnOyauCDquYDssL3siJjsnZjsm5DqsbTqsJXqtIDrpqwgS29yZWE%3D",
-            "view_text": "2.6K views"
-          },
-          {
-            "title": "코로나에서 해방, 여행 많이 다니시죠? 그런데 다리가 아프세요? (KCS 서울 김창수 원장)",
-            "channel": "KCS 하지정맥류 네트워크",
-            "url": "https://www.youtube.com/watch?v=-KsZPbOpSqE&pp=ygU47LyA7J207JSo7JeQ7IqkIOyEnOyauCDquYDssL3siJjsnZjsm5DqsbTqsJXqtIDrpqwgS29yZWHSBwkJDQsBhyohjO8%3D",
-            "view_text": "208 views"
-          },
-          {
-            "title": "하지정맥류 진료실 이야기 - 보람되지만 씁쓸한 현실 (KCS 서울 김창수 원장)",
-            "channel": "KCS 하지정맥류 네트워크",
-            "url": "https://www.youtube.com/watch?v=gMTTnOhTjn0&pp=ygU47LyA7J207JSo7JeQ7IqkIOyEnOyauCDquYDssL3siJjsnZjsm5DqsbTqsJXqtIDrpqwgS29yZWE%3D",
-            "view_text": "873 views"
+            "url": "https://www.youtube.com/watch?v=gwxzD6pxARs&pp=ygU47LyA7J207JSo7JeQ7IqkIOyEnOyauCDquYDssL3siJjsnZjsm5DqsbTqsJXqtIDrpqwgS29yZWE%3D",
+            "view_text": "1.4K views"
           },
           {
             "title": "[하지정맥류 알아보자] 하지정맥류 치료는 언제가 좋을까?",
             "channel": "KCS 하지정맥류 네트워크",
             "url": "https://www.youtube.com/watch?v=tLPZjxD2j0w&pp=ygU47LyA7J207JSo7JeQ7IqkIOyEnOyauCDquYDssL3siJjsnZjsm5DqsbTqsJXqtIDrpqwgS29yZWE%3D",
             "view_text": "3.7K views"
+          },
+          {
+            "title": "코로나에서 해방, 여행 많이 다니시죠? 그런데 다리가 아프세요? (KCS 서울 김창수 원장)",
+            "channel": "KCS 하지정맥류 네트워크",
+            "url": "https://www.youtube.com/watch?v=-KsZPbOpSqE&pp=ygU47LyA7J207JSo7JeQ7IqkIOyEnOyauCDquYDssL3siJjsnZjsm5DqsbTqsJXqtIDrpqwgS29yZWE%3D",
+            "view_text": "208 views"
+          },
+          {
+            "title": "하지정맥류 진료실 이야기 - 보람되지만 씁쓸한 현실 (KCS 서울 김창수 원장)",
+            "channel": "KCS 하지정맥류 네트워크",
+            "url": "https://www.youtube.com/watch?v=gMTTnOhTjn0&pp=ygU47LyA7J207JSo7JeQ7IqkIOyEnOyauCDquYDssL3siJjsnZjsm5DqsbTqsJXqtIDrpqwgS29yZWE%3D",
+            "view_text": "874 views"
+          },
+          {
+            "title": "하지정맥류 치료 후 관리는? 수술하고 끝이 아닙니다 (KCS 서울 김창수 원장)",
+            "channel": "KCS 하지정맥류 네트워크",
+            "url": "https://www.youtube.com/watch?v=Z6ZLiXucCiY&pp=ygU47LyA7J207JSo7JeQ7IqkIOyEnOyauCDquYDssL3siJjsnZjsm5DqsbTqsJXqtIDrpqwgS29yZWE%3D",
+            "view_text": "2.6K views"
           },
           {
             "title": "재발을 피하고 싶다면 이렇게 하세요. 생각보다 쉬운 수술 아니에요 (KCS 서울 김창수 원장)",
@@ -132,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

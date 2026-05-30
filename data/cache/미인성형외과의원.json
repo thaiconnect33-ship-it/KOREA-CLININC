@@ -1,18 +1,18 @@
 {
   "query": "미인성형외과의원",
-  "generated_at": "2026-05-28T23:48:54.038Z",
+  "generated_at": "2026-05-29T12:35:11.245Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 24,
+      "metric_value": 13,
       "extra": {
-        "place_id": "13224633",
-        "name": "코미인의원 : 네이버\u001c",
-        "visitor_review_count": 24,
-        "blog_review_count": 0,
-        "detail_url": "https://m.place.naver.com/place/13224633/home"
+        "place_id": "36972255",
+        "name": "미인성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 12,
+        "blog_review_count": 1,
+        "detail_url": "https://m.place.naver.com/place/36972255/home"
       }
     },
     "google_maps": {
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 1505718,
+        "total_views": 4011792,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -59,64 +59,64 @@
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "[조준현 원장]자연미인 성형외과를 소개합니다",
-            "channel": "자연미인 성형외과 Jmiin",
-            "url": "https://www.youtube.com/watch?v=r7qttPgtG_A&pp=ygUq66-47J247ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "266 views"
+            "title": "The Most Popular Celebrities at Plastic Surgery Clinics | Celebrity Characteristics That 20-Somet...",
+            "channel": "진우쌤의 미인학개론",
+            "url": "https://www.youtube.com/watch?v=bR97eBvNON4&pp=ygUe66-47J247ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "27K"
           },
           {
-            "title": "자연미인성형외과 - 주름살 수술 특집 방송",
-            "channel": "자연미인 성형외과 Jmiin",
-            "url": "https://www.youtube.com/watch?v=IfXIWWcXRkc&pp=ygUq66-47J247ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "44 views"
+            "title": "시대별 연예인 얼굴 분석! 피부과 의사들이 본 미인의 조건은?",
+            "channel": "심포니 피부연구소 Symphony Derma Lab",
+            "url": "https://www.youtube.com/watch?v=Z8WXR8279v8&pp=ygUe66-47J247ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "43K"
+          },
+          {
+            "title": "The forehead, the symbol of Gangnam beauty! 3 moments that make you stand out",
+            "channel": "한나이브성형외과",
+            "url": "https://www.youtube.com/watch?v=Ic7X6YJpTfU&pp=ygUe66-47J247ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "55K"
           },
           {
             "title": "성형외과 의사가 말하는 미인",
             "channel": "쥬얼리클라쓰",
-            "url": "https://www.youtube.com/watch?v=nlu_po14fTU&pp=ygUq66-47J247ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.8K views"
+            "url": "https://www.youtube.com/watch?v=nlu_po14fTU&pp=ygUe66-47J247ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.8K"
+          },
+          {
+            "title": "[조준현 원장]자연미인 성형외과를 소개합니다",
+            "channel": "자연미인 성형외과 Jmiin",
+            "url": "https://www.youtube.com/watch?v=r7qttPgtG_A&pp=ygUe66-47J247ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "266"
           },
           {
             "title": "[JP SUB]화제의 리젠성형외과 오명준원장님 2024 근황 (feat. 렛미인의사)",
             "channel": "닥터 스템 오승민 | 오앤의원 대표원장",
-            "url": "https://www.youtube.com/watch?v=9Ykudsu8fkA&pp=ygUq66-47J247ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "8.1K views"
+            "url": "https://www.youtube.com/watch?v=9Ykudsu8fkA&pp=ygUe66-47J247ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "8.1K"
           },
           {
-            "title": "성형 바로 알기 TV [ 눈 성형 수술편] - 자연미인성형외과 조준현 원장",
-            "channel": "자연미인 성형외과 Jmiin",
-            "url": "https://www.youtube.com/watch?v=07pZ1kqjvD0&pp=ygUq66-47J247ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "146 views"
+            "title": "[단독] 강남 성형외과에 '분통'…\"근육 썩고 사경 헤맸다\" / SBS 8뉴스",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=svfX3-lNpIw&pp=ygUe66-47J247ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "2.4M"
           },
           {
-            "title": "성형외과 영역의 보험 진료 [대한성형외과의사회] / 이장혁 부회장(예쁜미인 성형외과) & 정의철 보험이사(코코아이 성형외과) & 박건욱 보험이사(가미 성형외과)",
-            "channel": "의학채널 비온뒤",
-            "url": "https://www.youtube.com/watch?v=nCXjThJoxAg&pp=ygUq66-47J247ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "2.3K views"
-          },
-          {
-            "title": "자연미인 성형외과 소개 영상",
-            "channel": "자연미인 성형외과 Jmiin",
-            "url": "https://www.youtube.com/watch?v=HxK8HY47MdQ&pp=ygUq66-47J247ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "358 views"
-          },
-          {
-            "title": "성형 수술을 고민하는 분들에게 #성형수술 #주의사항",
-            "channel": "자연미인 성형외과 Jmiin",
-            "url": "https://www.youtube.com/watch?v=JTxYHW7rbHc&pp=ygUq66-47J247ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "87 views"
-          },
-          {
-            "title": "[가슴성형] 짝가슴이면 한쪽만 보형물 넣는다?🤔 짝가슴 교정 하는 방법✨",
-            "channel": "더성형외과",
-            "url": "https://www.youtube.com/watch?v=O60xvesQfM4&pp=ygUq66-47J247ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.2K views"
+            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUe66-47J247ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1M"
           },
           {
             "title": "- Top 10 plastic surgeons picked this year's outline beauty celebrity? - My doctor.",
             "channel": "나의닥터",
-            "url": "https://www.youtube.com/watch?v=YLtuE72W7aU&pp=ygUq66-47J247ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "49K views"
+            "url": "https://www.youtube.com/watch?v=YLtuE72W7aU&pp=ygUe66-47J247ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "49K"
+          },
+          {
+            "title": "[더라인성형외과 의료진 출연] 렛미인 9회 \"처진뱃살녀\"",
+            "channel": "ASIABEAUTY- CENTER",
+            "url": "https://www.youtube.com/watch?v=AOsh-VJeaB8&pp=ygUe66-47J247ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "539"
           }
         ]
       }
@@ -132,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

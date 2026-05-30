@@ -1,0 +1,148 @@
+{
+  "query": "리즈온의원 홍대점",
+  "generated_at": "2026-05-29T11:27:10.762Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 3047,
+      "extra": {
+        "place_id": "1057160795",
+        "name": "리즈온의원 홍대점 : 네이버\u001c",
+        "visitor_review_count": 1148,
+        "blog_review_count": 1899,
+        "detail_url": "https://m.place.naver.com/place/1057160795/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "리즈온의원 홍대점",
+        "rating": 4.6,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 19,
+      "extra": {
+        "total_views": 7935283,
+        "foreign_video_count": 2,
+        "lang_breakdown": {
+          "korean": 17,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 2
+        },
+        "sample_size": 19,
+        "top_videos": [
+          {
+            "title": "Lizon Clinic Beautiful moments",
+            "channel": "Lizon Clinic",
+            "url": "https://www.youtube.com/watch?v=YoRyTdgyyPg&pp=ygUf66as7KaI7Jio7J2Y7JuQIO2ZjeuMgOygkCBLb3JlYQ%3D%3D",
+            "view_text": "38 views"
+          },
+          {
+            "title": "Lizon Clinc  Beautiful Lifestyle",
+            "channel": "Lizon Clinic",
+            "url": "https://www.youtube.com/watch?v=69IMraLHS1E&pp=ygUf66as7KaI7Jio7J2Y7JuQIO2ZjeuMgOygkCBLb3JlYQ%3D%3D",
+            "view_text": "126 views"
+          },
+          {
+            "title": "천호피부과 리즈온에서 코로나 걱정없이 예뻐지세요~!",
+            "channel": "은주",
+            "url": "https://www.youtube.com/watch?v=vsnXfN1wdE4&pp=ygUf66as7KaI7Jio7J2Y7JuQIO2ZjeuMgOygkCBLb3JlYQ%3D%3D",
+            "view_text": "50 views"
+          },
+          {
+            "title": "[단독] 강남 성형외과에 '분통'…\"근육 썩고 사경 헤맸다\" / SBS 8뉴스",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=svfX3-lNpIw&pp=ygUf66as7KaI7Jio7J2Y7JuQIO2ZjeuMgOygkCBLb3JlYQ%3D%3D",
+            "view_text": "2.4M views"
+          },
+          {
+            "title": "내 이마도 '이마필러'로 이뻐질까? + 이마필러 시술전후",
+            "channel": "홍대유앤미 고성균tv",
+            "url": "https://www.youtube.com/watch?v=x0C4JG4Bd20&pp=ygUf66as7KaI7Jio7J2Y7JuQIO2ZjeuMgOygkCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "191 views"
+          },
+          {
+            "title": "올리지오, RETURN TO LEEDS DAYS",
+            "channel": "리엘르의원",
+            "url": "https://www.youtube.com/watch?v=bhkikuj7luU&pp=ygUf66as7KaI7Jio7J2Y7JuQIO2ZjeuMgOygkCBLb3JlYQ%3D%3D",
+            "view_text": "203 views"
+          },
+          {
+            "title": "❤️튠페이스 리프팅💙제대로 알자! 이중턱, 심부볼 처짐, 옆볼꺼짐 있으신 분들 꼭 보세요🙏🏻레드튠페이스와 블루튠페이스 차이부터 효과까지 알려드려요!",
+            "channel": "DR.OHVELY",
+            "url": "https://www.youtube.com/watch?v=jDvHAxxWgbQ&pp=ygUf66as7KaI7Jio7J2Y7JuQIO2ZjeuMgOygkCBLb3JlYQ%3D%3D",
+            "view_text": "11K views"
+          },
+          {
+            "title": "\"엉터리 정보에 속지마세요.\" 진료과목 피부과 의사가 뽑은 가성비 시술 딱 '3가지'",
+            "channel": "지식인사이드",
+            "url": "https://www.youtube.com/watch?v=a4S4JNnRIXQ&pp=ygUf66as7KaI7Jio7J2Y7JuQIO2ZjeuMgOygkCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "1.7M views"
+          },
+          {
+            "title": "금손 고성균 원장이 실루엣소프트 왜! 비싼지 모두 알려드립니다!",
+            "channel": "홍대유앤미 고성균tv",
+            "url": "https://www.youtube.com/watch?v=sSeZH48A9ls&pp=ygUf66as7KaI7Jio7J2Y7JuQIO2ZjeuMgOygkCBLb3JlYQ%3D%3D",
+            "view_text": "312 views"
+          },
+          {
+            "title": "피부까지 좋아진 이마필러👏 리얼 영상후기",
+            "channel": "강남리앤영TV",
+            "url": "https://www.youtube.com/watch?v=XhUdQ0TMZcM&pp=ygUf66as7KaI7Jio7J2Y7JuQIO2ZjeuMgOygkCBLb3JlYQ%3D%3D",
+            "view_text": "7.2K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 2,
+  "opportunity_cost_thb": 109000,
+  "opportunity_cost_krw": 4360000
+}

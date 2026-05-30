@@ -1,0 +1,148 @@
+{
+  "query": "오가나셀피부과의원 청담본점",
+  "generated_at": "2026-05-29T11:00:32.648Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 2077,
+      "extra": {
+        "place_id": "38589771",
+        "name": "오가나셀피부과의원 청담본점 : 네이버\u001c",
+        "visitor_review_count": 1202,
+        "blog_review_count": 875,
+        "detail_url": "https://m.place.naver.com/place/38589771/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Results",
+        "rating": 4.8,
+        "total_reviews": 0,
+        "sample_size": 6,
+        "foreign_language_reviews": 6,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 6
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 56754,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "오가나셀피부과 청담점 오가나 원장 G.O.U.R.I.-\"Biostimulator의 진화를 보여주는 액상형 PCL\"",
+            "channel": "D&PS[DNPS Dermatologist and Plastic Surgeon]",
+            "url": "https://www.youtube.com/watch?v=okByH4-qx1M&pp=ygUu7Jik6rCA64KY7IWA7ZS867aA6rO87J2Y7JuQIOyyreuLtOuzuOygkCBLb3JlYQ%3D%3D",
+            "view_text": "219"
+          },
+          {
+            "title": "흉터 치료를 해도 안 낫는 이유, 대부분 이걸 몰라요ㅣ흉터, 얼굴흉터, 여드름흉터, 피부과 여드름 흉터, 여드름 흉터 치료, 동대문 피부과, 청량리 피부과",
+            "channel": "피부구조대 오가나셀",
+            "url": "https://www.youtube.com/watch?v=ZjUa0c8VEvY&pp=ygUu7Jik6rCA64KY7IWA7ZS867aA6rO87J2Y7JuQIOyyreuLtOuzuOygkCBLb3JlYQ%3D%3D",
+            "view_text": "4.2K"
+          },
+          {
+            "title": "20대 30대 40대 주목❗지금 시작 안 하면 시간·돈 2배 써야 해요😭ㅣ피부 관리, 나이, 노화, 피부과 시술 추천, 치료",
+            "channel": "피부구조대 오가나셀",
+            "url": "https://www.youtube.com/watch?v=LvxU2Aud940&pp=ygUu7Jik6rCA64KY7IWA7ZS867aA6rO87J2Y7JuQIOyyreuLtOuzuOygkCBLb3JlYQ%3D%3D",
+            "view_text": "1.8K"
+          },
+          {
+            "title": "K뷰티 일본 도쿄에 상륙! 오가나셀 긴자점 오픈🥳ㅣ피부, 피부과, 일본 피부과, 도쿄 피부과, 긴자 피부과, 청담 피부과, 줄기세포 주사, 일본 줄기세포, 일본 성형,일본 성형외과",
+            "channel": "피부구조대 오가나셀",
+            "url": "https://www.youtube.com/watch?v=bIJnF0YszQg&pp=ygUu7Jik6rCA64KY7IWA7ZS867aA6rO87J2Y7JuQIOyyreuLtOuzuOygkCBLb3JlYQ%3D%3D",
+            "view_text": "393"
+          },
+          {
+            "title": "10년지나도 늙지 않는 주름살 제대로 관리하는 방법 / 16년차 청담동 피부과 전문의 오가나",
+            "channel": "피부구조대 오가나셀",
+            "url": "https://www.youtube.com/watch?v=T9X7PxU46YA&pp=ygUu7Jik6rCA64KY7IWA7ZS867aA6rO87J2Y7JuQIOyyreuLtOuzuOygkCBLb3JlYQ%3D%3D",
+            "view_text": "747"
+          },
+          {
+            "title": "마곡 피부과 개원 1년만에 예약이 힘들어진 이유ㅣ마곡 피부과, 마곡나루 피부과, 피부과 추천, 피부관리, 피부과 시술 추천, 써마지, 홍조, 색소, 제모, 피부교정",
+            "channel": "피부구조대 오가나셀",
+            "url": "https://www.youtube.com/watch?v=KifEQt2fAHM&pp=ygUu7Jik6rCA64KY7IWA7ZS867aA6rO87J2Y7JuQIOyyreuLtOuzuOygkCBLb3JlYQ%3D%3D",
+            "view_text": "693"
+          },
+          {
+            "title": "여드름 고민? 피부교정 하나로 해결 가능합니다ㅣ여드름없애는법, 여드름피부, 홍조, 모공, 안면홍조, 피지, 피지제거, 피부관리, 피부교정, 강남피부과, 청담피부과, 피코, 브이빔",
+            "channel": "피부구조대 오가나셀",
+            "url": "https://www.youtube.com/watch?v=EwkLxCwfBLc&pp=ygUu7Jik6rCA64KY7IWA7ZS867aA6rO87J2Y7JuQIOyyreuLtOuzuOygkCBLb3JlYQ%3D%3D",
+            "view_text": "1.5K"
+          },
+          {
+            "title": "통증 없는 흉터 치료? 이게 진짜라고?ㅣ울트라클리어, 울트라클리어 레이저, 여드름 흉터, 여드름 흉터 치료, 피부 탄력, 잔주름, 프락셀, 큐어트라, 울리고, 청담 피부과",
+            "channel": "피부구조대 오가나셀",
+            "url": "https://www.youtube.com/watch?v=6vQ_6B7akhM&pp=ygUu7Jik6rCA64KY7IWA7ZS867aA6rO87J2Y7JuQIOyyreuLtOuzuOygkCBLb3JlYQ%3D%3D",
+            "view_text": "2.1K"
+          },
+          {
+            "title": "여드름 때문에 '이것' 생기게 되면 평생 완치가 힘듭니다 / 여드름 관리, 여드름 교정",
+            "channel": "피부구조대 오가나셀",
+            "url": "https://www.youtube.com/watch?v=MI3QVDUJa2I&pp=ygUu7Jik6rCA64KY7IWA7ZS867aA6rO87J2Y7JuQIOyyreuLtOuzuOygkCBLb3JlYQ%3D%3D",
+            "view_text": "1.6K"
+          },
+          {
+            "title": "🙋‍♂️ 오가나셀 \"피부교정\"이 특별한 이유│피부교정",
+            "channel": "피부구조대 오가나셀",
+            "url": "https://www.youtube.com/watch?v=QAwCDYW8toA&pp=ygUu7Jik6rCA64KY7IWA7ZS867aA6rO87J2Y7JuQIOyyreuLtOuzuOygkCBLb3JlYQ%3D%3D",
+            "view_text": "750"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 3,
+  "opportunity_cost_thb": 137000,
+  "opportunity_cost_krw": 5480000
+}

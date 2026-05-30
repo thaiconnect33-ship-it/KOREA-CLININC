@@ -1,16 +1,18 @@
 {
   "query": "신사멜로우피부과의원",
-  "generated_at": "2026-05-29T05:32:19.973Z",
+  "generated_at": "2026-05-29T10:42:03.023Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 2453,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "1043639980",
+        "name": "신사멜로우피부과의원 : 네이버\u001c",
+        "visitor_review_count": 188,
+        "blog_review_count": 2265,
+        "detail_url": "https://m.place.naver.com/place/1043639980/home"
       }
     },
     "google_maps": {
@@ -43,30 +45,54 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 2,
+      "metric_value": 6,
       "extra": {
-        "total_views": 1245000,
+        "total_views": 2334279,
         "foreign_video_count": 0,
         "lang_breakdown": {
-          "korean": 2,
+          "korean": 6,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
           "english_other": 0
         },
-        "sample_size": 2,
+        "sample_size": 6,
         "top_videos": [
+          {
+            "title": "공감 100% 고민해결사 김태림 원장 | 피부과전문의 Q&A EP.3",
+            "channel": "깐달걀프로젝트 Team Mellow",
+            "url": "https://www.youtube.com/watch?v=PzDefkS1UpA&pp=ygUk7Iug7IKs66mc66Gc7Jqw7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "79 views"
+          },
+          {
+            "title": "다정한 원칙주의자 구태한 원장 | 피부과전문의 Q&A EP.4",
+            "channel": "깐달걀프로젝트 Team Mellow",
+            "url": "https://www.youtube.com/watch?v=P41HuvNJ59Y&pp=ygUk7Iug7IKs66mc66Gc7Jqw7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "200 views"
+          },
+          {
+            "title": "\"원장님께서 별세하셨기에\"…유명 피부과 '피해자 속출' / SBS 8뉴스",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=-3uLsD3sWGU&pp=ygUk7Iug7IKs66mc66Gc7Jqw7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "924K views"
+          },
           {
             "title": "의사들만 몰래받는 S급 가성비! 수백만원 아끼는 만족도 가장 높은 시술을 20년차 피부과 전문의가 알려드립니다.",
             "channel": "피부는 성현철",
-            "url": "https://www.youtube.com/watch?v=SFlFQByIQ1g&pp=ygUz7Iug7IKs66mc66Gc7Jqw7ZS867aA6rO87J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "913K"
+            "url": "https://www.youtube.com/watch?v=SFlFQByIQ1g&pp=ygUk7Iug7IKs66mc66Gc7Jqw7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "913K views"
           },
           {
             "title": "“20년동안 제 아내가 가장 만족했던 동안 주사 공개합니다” 강남 피부과 의사가 아내에게 해주는 또래보다 10년 젊어지는 동안주사 3가지",
             "channel": "피부는 성현철",
-            "url": "https://www.youtube.com/watch?v=z5f78sydJ8U&pp=ygUz7Iug7IKs66mc66Gc7Jqw7ZS867aA6rO87J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh0gcJCSMLAYcqIYzv",
-            "view_text": "332K"
+            "url": "https://www.youtube.com/watch?v=z5f78sydJ8U&pp=ygUk7Iug7IKs66mc66Gc7Jqw7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "333K views"
+          },
+          {
+            "title": "Sorry for being late. I'm here to sneak into the Dermatology Q&A!",
+            "channel": "일단이나연 NAYEON",
+            "url": "https://www.youtube.com/watch?v=GrlXHrysZXg&pp=ygUk7Iug7IKs66mc66Gc7Jqw7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "164K views"
           }
         ]
       }

@@ -1,0 +1,148 @@
+{
+  "query": "예쁨주의쁨의원 잠실",
+  "generated_at": "2026-05-29T12:08:16.806Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 3304,
+      "extra": {
+        "place_id": "1175740699",
+        "name": "예쁨주의쁨의원 잠실 : 네이버\u001c",
+        "visitor_review_count": 857,
+        "blog_review_count": 2447,
+        "detail_url": "https://m.place.naver.com/place/1175740699/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "예쁨주의쁨의원 잠실점",
+        "rating": 4.6,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 13,
+      "extra": {
+        "total_views": 6619884,
+        "foreign_video_count": 1,
+        "lang_breakdown": {
+          "korean": 12,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 1
+        },
+        "sample_size": 13,
+        "top_videos": [
+          {
+            "title": "\"너무 아프다\"…한마디 남기고 지방흡입 수술 후 사망 / KNN",
+            "channel": "KNN NEWS",
+            "url": "https://www.youtube.com/watch?v=Q3Ii_0VymLc&pp=ygUi7JiI7IGo7KO87J2Y7IGo7J2Y7JuQIOyeoOyLpCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "2.2M views"
+          },
+          {
+            "title": "대한민국 강남 피부과 원장들이 줄줄이 무너지는 진짜 이유",
+            "channel": "바른경제",
+            "url": "https://www.youtube.com/watch?v=YwtjZmKGy7M&pp=ygUi7JiI7IGo7KO87J2Y7IGo7J2Y7JuQIOyeoOyLpCBLb3JlYQ%3D%3D",
+            "view_text": "45K views"
+          },
+          {
+            "title": "\"Dermatologists don't tell you...\" We recommend popular youth-enhancing procedures these days. We...",
+            "channel": "박지윤의 피부 설명서",
+            "url": "https://www.youtube.com/watch?v=EFB-McCJG48&pp=ygUi7JiI7IGo7KO87J2Y7IGo7J2Y7JuQIOyeoOyLpCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "444K views"
+          },
+          {
+            "title": "\"엉터리 정보에 속지마세요.\" 진료과목 피부과 의사가 뽑은 가성비 시술 딱 '3가지'",
+            "channel": "지식인사이드",
+            "url": "https://www.youtube.com/watch?v=a4S4JNnRIXQ&pp=ygUi7JiI7IGo7KO87J2Y7IGo7J2Y7JuQIOyeoOyLpCBLb3JlYQ%3D%3D",
+            "view_text": "1.7M views"
+          },
+          {
+            "title": "seoul vlog 🇰🇷 olive young haul, tamburins, the hyundai seoul, getting a facial 🧖‍♀️",
+            "channel": "linyi",
+            "url": "https://www.youtube.com/watch?v=ysZOGNgpuEQ&pp=ygUi7JiI7IGo7KO87J2Y7IGo7J2Y7JuQIOyeoOyLpCBLb3JlYQ%3D%3D",
+            "view_text": "685 views"
+          },
+          {
+            "title": "피부과 시술 부작용 Vlog…ㅠ 내 피부 돌려줘.. 다신 안해…🫠ㅣMINCARONG",
+            "channel": "민카롱",
+            "url": "https://www.youtube.com/watch?v=wRJR2kY2x9w&pp=ygUi7JiI7IGo7KO87J2Y7IGo7J2Y7JuQIOyeoOyLpCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "1.7M views"
+          },
+          {
+            "title": "“20년동안 제 아내가 가장 만족했던 동안 주사 공개합니다” 강남 피부과 의사가 아내에게 해주는 또래보다 10년 젊어지는 동안주사 3가지",
+            "channel": "피부는 성현철",
+            "url": "https://www.youtube.com/watch?v=z5f78sydJ8U&pp=ygUi7JiI7IGo7KO87J2Y7IGo7J2Y7JuQIOyeoOyLpCBLb3JlYQ%3D%3D",
+            "view_text": "333K views"
+          },
+          {
+            "title": "의사들이 꽁꽁 숨기는 쥬베룩 부작용의 충격적 실체 | 안 보고 받으면 후회합니다!! | 쥬베룩볼륨 쥬베룩결절 쥬베룩부작용",
+            "channel": "피부왕정윤",
+            "url": "https://www.youtube.com/watch?v=6DdV81UxhFU&pp=ygUi7JiI7IGo7KO87J2Y7IGo7J2Y7JuQIOyeoOyLpCBLb3JlYQ%3D%3D",
+            "view_text": "186K views"
+          },
+          {
+            "title": "[뉴스투데이]자치구간 경계조정 '산 넘어 산'",
+            "channel": "광주MBC뉴스",
+            "url": "https://www.youtube.com/watch?v=d1wSyp_KlFE&pp=ygUi7JiI7IGo7KO87J2Y7IGo7J2Y7JuQIOyeoOyLpCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "89 views"
+          },
+          {
+            "title": "[시사 안드로메다]\"사람 중심의 서울, 끝까지 완성할 것\" (ft.박원순 서울시장)",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=XLdE0p3iqmk&pp=ygUi7JiI7IGo7KO87J2Y7IGo7J2Y7JuQIOyeoOyLpCBLb3JlYQ%3D%3D",
+            "view_text": "1K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 1,
+  "opportunity_cost_thb": 89500,
+  "opportunity_cost_krw": 3580000
+}

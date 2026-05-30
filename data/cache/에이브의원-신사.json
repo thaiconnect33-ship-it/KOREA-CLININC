@@ -1,0 +1,148 @@
+{
+  "query": "에이브의원 신사",
+  "generated_at": "2026-05-29T11:10:35.340Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 3099,
+      "extra": {
+        "place_id": "1655686385",
+        "name": "에이브의원 신사 : 네이버\u001c",
+        "visitor_review_count": 862,
+        "blog_review_count": 2237,
+        "detail_url": "https://m.place.naver.com/place/1655686385/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "에이브의원 Aive Clinic Sinsa Seoul Garosugil 皮膚科 韓國醫美",
+        "rating": 5,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 17,
+      "extra": {
+        "total_views": 1408679,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 17,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 17,
+        "top_videos": [
+          {
+            "title": "피부과 가기 전 필수시청📺 피부과 가성비 시술 Top3!",
+            "channel": "에이브의원",
+            "url": "https://www.youtube.com/watch?v=jtnUL0RAwoM&pp=ygUc7JeQ7J2067iM7J2Y7JuQIOyLoOyCrCBLb3JlYQ%3D%3D",
+            "view_text": "239 views"
+          },
+          {
+            "title": "[DR.TV Q&A] 시술 효과 없는 이유 99%가 '이걸' 간과합니다 / 에이브의원 박준형",
+            "channel": "알에프바이오 • 유스필 • 유스힐",
+            "url": "https://www.youtube.com/watch?v=j9wVYJptISo&pp=ygUc7JeQ7J2067iM7J2Y7JuQIOyLoOyCrCBLb3JlYQ%3D%3D",
+            "view_text": "90 views"
+          },
+          {
+            "title": "200만 원 시술권 쏜 친친 플리마켓 현장✨ 과연 행운의 주인공은?",
+            "channel": "에이브의원",
+            "url": "https://www.youtube.com/watch?v=_UTKfgpwH1k&pp=ygUc7JeQ7J2067iM7J2Y7JuQIOyLoOyCrCBLb3JlYQ%3D%3D",
+            "view_text": "191 views"
+          },
+          {
+            "title": "피부과 원장이 알려주는 S급~B급 스킨부스터 시술?💉 통증 효과 비용 유지기간까지 모두 알려드려요❤️(리쥬란, 쥬베룩, 셀르디엠, 레디어스, 엑소좀 등)",
+            "channel": "에이브의원",
+            "url": "https://www.youtube.com/watch?v=7BkAqSwII30&pp=ygUc7JeQ7J2067iM7J2Y7JuQIOyLoOyCrCBLb3JlYQ%3D%3D",
+            "view_text": "398 views"
+          },
+          {
+            "title": "홈디바이스의 모든 것 l 99%의 사람들이 잘못 알고 있는 홈케어 기기의 진실",
+            "channel": "에이브의원",
+            "url": "https://www.youtube.com/watch?v=8Z24LEe47a8&pp=ygUc7JeQ7J2067iM7J2Y7JuQIOyLoOyCrCBLb3JlYQ%3D%3D",
+            "view_text": "293 views"
+          },
+          {
+            "title": "울쎄라vs써마지 잘 모르고 하다가 망합니다...",
+            "channel": "에이브의원",
+            "url": "https://www.youtube.com/watch?v=CVE0Q1nx4N8&pp=ygUc7JeQ7J2067iM7J2Y7JuQIOyLoOyCrCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "112 views"
+          },
+          {
+            "title": "피부 하얘지는 법 | 홈케어·약국·피부과 미백 총정리💕",
+            "channel": "에이브의원",
+            "url": "https://www.youtube.com/watch?v=8DpZwVPIUcI&pp=ygUc7JeQ7J2067iM7J2Y7JuQIOyLoOyCrCBLb3JlYQ%3D%3D",
+            "view_text": "255 views"
+          },
+          {
+            "title": "볼패임·볼꺼짐 탈출법: 땅콩형 얼굴에서 매끈한 얼굴형 되는 법🥜",
+            "channel": "에이브의원",
+            "url": "https://www.youtube.com/watch?v=7hMz0rkporc&pp=ygUc7JeQ7J2067iM7J2Y7JuQIOyLoOyCrCBLb3JlYQ%3D%3D",
+            "view_text": "246 views"
+          },
+          {
+            "title": "리쥬베룩 제대로 알고 받자! 닥터박이 알려주는 리쥬베룩의 모든 것!",
+            "channel": "닥터박 솔루션",
+            "url": "https://www.youtube.com/watch?v=EZp6vWLSct0&pp=ygUc7JeQ7J2067iM7J2Y7JuQIOyLoOyCrCBLb3JlYQ%3D%3D",
+            "view_text": "119 views"
+          },
+          {
+            "title": "소프웨이브가 뜨는 이유｜써마지+울쎄라 사이층 커버! 신개념 리프팅 장비, 소프웨이브 완전정리!",
+            "channel": "심포니 피부연구소 Symphony Derma Lab",
+            "url": "https://www.youtube.com/watch?v=StMXgidxjLg&pp=ygUc7JeQ7J2067iM7J2Y7JuQIOyLoOyCrCBLb3JlYQ%3D%3D",
+            "view_text": "31K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

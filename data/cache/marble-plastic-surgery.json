@@ -1,6 +1,6 @@
 {
   "query": "Marble Plastic Surgery",
-  "generated_at": "2026-05-29T05:48:34.636Z",
+  "generated_at": "2026-05-29T10:14:55.054Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -47,14 +47,14 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 5121,
+        "total_views": 101405,
         "foreign_video_count": 20,
         "lang_breakdown": {
           "korean": 0,
-          "thai": 1,
+          "thai": 2,
           "chinese": 0,
           "japanese": 0,
-          "english_other": 19
+          "english_other": 18
         },
         "sample_size": 20,
         "top_videos": [
@@ -67,20 +67,20 @@
           {
             "title": "FROM CONSULTATION TO ACHIEVING AMAZING KOREAN PLASTIC SURGERY RESULT AT MARBLE PLASTIC SURGERY",
             "channel": "Marble Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=qJcKHTMhZZo&pp=ygUcTWFyYmxlIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "url": "https://www.youtube.com/watch?v=qJcKHTMhZZo&pp=ygUcTWFyYmxlIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
             "view_text": "139 views"
-          },
-          {
-            "title": "Amazing Korean rhinoplasty and acculift result at Marble Plastic Surgery!",
-            "channel": "Marble Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=LAgV8d_860g&pp=ygUcTWFyYmxlIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
-            "view_text": "238 views"
           },
           {
             "title": "COMPILATION OF MARBLE'S REAL MODEL BEFORE AND AFTER PLASTIC SURGERY!",
             "channel": "Marble Plastic Surgery",
             "url": "https://www.youtube.com/watch?v=jHQpUtm23B0&pp=ygUcTWFyYmxlIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
             "view_text": "120 views"
+          },
+          {
+            "title": "Amazing Korean rhinoplasty and acculift result at Marble Plastic Surgery!",
+            "channel": "Marble Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=LAgV8d_860g&pp=ygUcTWFyYmxlIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "238 views"
           },
           {
             "title": "REAL MODEL PHOTOSHOOT AT MARBLE PS KOREA THAT HAS MANY BELLAGEL BREAST AUGMENTATION REVIEW!",
@@ -95,22 +95,22 @@
             "view_text": "611 views"
           },
           {
-            "title": "RECOVERY JOURNEY OF REVISION RHINOPLASTY IN KOREA!",
-            "channel": "Marble Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=EZgMXt0n1yI&pp=ygUcTWFyYmxlIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
-            "view_text": "137 views"
-          },
-          {
             "title": "Welcome to Marble Plastic Surgery",
             "channel": "Marble Plastic Surgery",
             "url": "https://www.youtube.com/watch?v=SzmZl5zkmxw&pp=ygUcTWFyYmxlIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
             "view_text": "938 views"
           },
           {
-            "title": "[ Marble  Plastic Surgery Korea ] Real Model Photoshoot Set! Behind the Scenes Big Reveal!",
+            "title": "How to find your way to Marble Plastic Surgery from Gangnam Station!",
             "channel": "Marble Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=3o_1CFRAZjY&pp=ygUcTWFyYmxlIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
-            "view_text": "526 views"
+            "url": "https://www.youtube.com/watch?v=sDOyMa3mGFw&pp=ygUcTWFyYmxlIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "177 views"
+          },
+          {
+            "title": "RECOVERY JOURNEY OF REVISION RHINOPLASTY IN KOREA!",
+            "channel": "Marble Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=EZgMXt0n1yI&pp=ygUcTWFyYmxlIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "137 views"
           },
           {
             "title": "Burning Questions About Revision Rhinoplasty Answered by Dr. Seo Il Beom! (Ft. Jiyu) [Marble PS]",

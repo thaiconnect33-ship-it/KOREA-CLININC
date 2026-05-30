@@ -1,6 +1,6 @@
 {
   "query": "티안나의원",
-  "generated_at": "2026-05-28T22:58:44.695Z",
+  "generated_at": "2026-05-29T11:38:52.849Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -47,76 +47,76 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 4702809,
-        "foreign_video_count": 0,
+        "total_views": 38105259,
+        "foreign_video_count": 1,
         "lang_breakdown": {
-          "korean": 20,
+          "korean": 19,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
-          "english_other": 0
+          "english_other": 1
         },
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "- Top 10 plastic surgeons picked this year's outline beauty celebrity? - My doctor.",
-            "channel": "나의닥터",
-            "url": "https://www.youtube.com/watch?v=YLtuE72W7aU&pp=ygUh7Yuw7JWI64KY7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "49K views"
+            "title": "💩똥손 구원템✨으로 하는 왕초보 데일리 메이크업🩶 | 엄〰️청 쉬운 화잘먹 베이스💦, 메컵 필수템, 초보템 추천.ᐟ👍",
+            "channel": "안다 ANDA",
+            "url": "https://www.youtube.com/watch?v=2AklBNOJSjc&pp=ygUV7Yuw7JWI64KY7J2Y7JuQIEtvcmVh",
+            "view_text": "486K views"
           },
           {
-            "title": "[SUB] 20년 이상 경력의 성형외과 전문의가 말하는 코재수술 및 재건수술│구축현상, 염증, 모양불만족",
-            "channel": "메이드영성형외과",
-            "url": "https://www.youtube.com/watch?v=8qJh9xlSJ7U&pp=ygUh7Yuw7JWI64KY7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "6.7K views"
+            "title": "What's in my pouch?! 데일리 파우치 소개! + 수정화장 쿠션 추천&립추천&블러셔 추천까지! / 애림 AERIM",
+            "channel": "애림 AERIM",
+            "url": "https://www.youtube.com/watch?v=3uyOtnSUHxI&pp=ygUV7Yuw7JWI64KY7J2Y7JuQIEtvcmVh",
+            "view_text": "27K views"
           },
           {
-            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
-            "channel": "JTBC News",
-            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUh7Yuw7JWI64KY7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1M views"
+            "title": "[#현지에서먹힐까_중국편] 중국 배우였다는 화제의 훈남 청년. 서은수 보고 광대 승천!! │181110 EP10 #06",
+            "channel": "tvN Joy",
+            "url": "https://www.youtube.com/watch?v=II-SjVnI6lY&pp=ygUV7Yuw7JWI64KY7J2Y7JuQIEtvcmVh",
+            "view_text": "2.8M views"
           },
           {
-            "title": "성형외과 고를 때 이것만 알아두면 성형수술 대성공! - 진짜 성형 이야기#05",
-            "channel": "굿라이프",
-            "url": "https://www.youtube.com/watch?v=RK3jiqR0Mxg&pp=ygUh7Yuw7JWI64KY7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "title": "(Subs)9-10월 지겹게 잘쓴 추천템&지겹템‼️으로 하는 #가을음영GRWM (ft.진정스킨케어,음영추천템,누드립)ㅣ 인보라INBORA",
+            "channel": "INBORA인보라",
+            "url": "https://www.youtube.com/watch?v=hN7f3nShvIA&pp=ygUV7Yuw7JWI64KY7J2Y7JuQIEtvcmVh",
             "view_text": "35K views"
           },
           {
-            "title": "성형외과 상담갈때 알고가면 좋은것! 그리고 피해야 할 병원까지~",
-            "channel": "닥터혜자",
-            "url": "https://www.youtube.com/watch?v=sOtAVS95goQ&pp=ygUh7Yuw7JWI64KY7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "134K views"
+            "title": "지낼수록 가까운 사람과 멀어지는 세 가지 유형 (안젤라 센 원장)",
+            "channel": "놀면서 배우는 심리학",
+            "url": "https://www.youtube.com/watch?v=f10BlDNToeI&pp=ygUV7Yuw7JWI64KY7J2Y7JuQIEtvcmVh",
+            "view_text": "63K views"
           },
           {
-            "title": "[성형외과] 무엇이든 물어보세요 / 비아이오성형외과 박동만",
-            "channel": "의학채널 비온뒤",
-            "url": "https://www.youtube.com/watch?v=71oP25Q7ze0&pp=ygUh7Yuw7JWI64KY7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "13K views"
+            "title": "[혁민TV]자연스럽고 티안나는 SNS 남자(남학생) 메이크업!!",
+            "channel": "혁민몬",
+            "url": "https://www.youtube.com/watch?v=17eXrwY8zq0&pp=ygUV7Yuw7JWI64KY7J2Y7JuQIEtvcmVh",
+            "view_text": "373K views"
           },
           {
-            "title": "What is worst of the bone contouring surgery side effects?- My Doctor",
-            "channel": "나의닥터",
-            "url": "https://www.youtube.com/watch?v=yM2aAFo8cmk&pp=ygUh7Yuw7JWI64KY7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "70K views"
+            "title": "What do you want to eat?",
+            "channel": "Kim Play",
+            "url": "https://www.youtube.com/watch?v=7W6ScYibIVY&pp=ygUV7Yuw7JWI64KY7J2Y7JuQIEtvcmVh",
+            "view_text": "2.1M views"
           },
           {
-            "title": "코수술 잘하는 의사 찾기! 성형외과 실패 없이 고르는 8가지 방법 🚨제발 이런 병원은 피하세요!🚨",
-            "channel": "차민성형외과 CHAMIN Plastic Surgery Korea",
-            "url": "https://www.youtube.com/watch?v=ITOR9MQB1XU&pp=ygUh7Yuw7JWI64KY7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "19K views"
+            "title": "SUB) 35살 내가 남들보다 덜 늙는 비결✨동안을 위해 하는 먹고, 쓰고, 바르는 치트키템8💚 관리는 진짜 배신 안 함..! 목주름방지템ㅣ365일 쓰는템ㅣ노폐물 빠이템ㅣ최모나",
+            "channel": "최모나choimona",
+            "url": "https://www.youtube.com/watch?v=PXrFvsg5p8M&pp=ygUV7Yuw7JWI64KY7J2Y7JuQIEtvcmVh",
+            "view_text": "78K views"
           },
           {
-            "title": "티 나지 않는 자연스러운 가슴을 만드는 특별한 수술법 - 황동연의 예쁜 가슴 클리닉 #04 자연스러운 가슴성형",
-            "channel": "굿라이프",
-            "url": "https://www.youtube.com/watch?v=SbQ6_58JoHU&pp=ygUh7Yuw7JWI64KY7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "2.6K views"
+            "title": "역대급꿀템 왓츠인마이백👜 찐보부상의 올가을 무조건 필수템 (ft.올리브영향기템,롱컬링속눈썹,탱글립추천,존좋립밤,끼니대용템,개기름빠이템,부동산책추천등)ㅣ인보라INBORA",
+            "channel": "INBORA인보라",
+            "url": "https://www.youtube.com/watch?v=YOuogRi58CE&pp=ygUV7Yuw7JWI64KY7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "72K views"
           },
           {
-            "title": "How to find a good plastic surgeon🧡 How to find a good plastic surgeon and avoid plastic surgery ...",
-            "channel": "베레나verena",
-            "url": "https://www.youtube.com/watch?v=SQzMbIJMBTQ&pp=ygUh7Yuw7JWI64KY7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "277K views"
+            "title": "당신의 1시간을 삭제시켜 드립니다. 미친 반전으로 단 하루 만에 전세계 2위 달성했던 넷플릭스 띵작 드라마",
+            "channel": "어바웃타임 (About time)",
+            "url": "https://www.youtube.com/watch?v=QanNDp-7--w&pp=ygUV7Yuw7JWI64KY7J2Y7JuQIEtvcmVh",
+            "view_text": "1.3M views"
           }
         ]
       }
@@ -132,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 1,
-  "opportunity_cost_thb": 99000,
-  "opportunity_cost_krw": 3960000
+  "global_score": 2,
+  "opportunity_cost_thb": 98500,
+  "opportunity_cost_krw": 3940000
 }

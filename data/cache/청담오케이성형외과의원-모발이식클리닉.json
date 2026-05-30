@@ -1,16 +1,18 @@
 {
   "query": "청담오케이성형외과의원 모발이식클리닉",
-  "generated_at": "2026-05-29T05:38:22.959Z",
+  "generated_at": "2026-05-29T10:47:59.214Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 1394,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "1357579979",
+        "name": "청담오케이성형외과의원 모발이식클리닉 : 네이버\u001c",
+        "visitor_review_count": 92,
+        "blog_review_count": 1302,
+        "detail_url": "https://m.place.naver.com/place/1357579979/home"
       }
     },
     "google_maps": {
@@ -43,9 +45,80 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 0,
+      "metric_value": 12,
       "extra": {
-        "note": "결과 없음"
+        "total_views": 1616589,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 12,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 12,
+        "top_videos": [
+          {
+            "title": "[Hair Transplant] Will the 6,000 hairs transplanted survive? Two-Incision Hair Transplant: Result...",
+            "channel": "탈모 극복 No.1 - 털업",
+            "url": "https://www.youtube.com/watch?v=fwuOAStBEew&pp=ygU97LKt64u07Jik7LyA7J207ISx7ZiV7Jm46rO87J2Y7JuQIOuqqOuwnOydtOyLne2BtOumrOuLiSBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "1.6M"
+          },
+          {
+            "title": "[모발이식 Q&A] 모발이식의 효과와 흉터는? - 두드림 성형외과 모발이식클리닉 (with.최원장)",
+            "channel": "두드림성형외과 모발이식·헤어라인·탈모치료",
+            "url": "https://www.youtube.com/watch?v=5Ni5_c5dSYw&pp=ygU97LKt64u07Jik7LyA7J207ISx7ZiV7Jm46rO87J2Y7JuQIOuqqOuwnOydtOyLne2BtOumrOuLiSBLb3JlYQ%3D%3D",
+            "view_text": "749"
+          },
+          {
+            "title": "[두드림모발이식] M자라인 뿌시고 왔습니다!🔥 과거 풍성했던 그때로!❤️",
+            "channel": "두드림모발이식클리닉",
+            "url": "https://www.youtube.com/watch?v=pdlmcQF1GBc&pp=ygU97LKt64u07Jik7LyA7J207ISx7ZiV7Jm46rO87J2Y7JuQIOuqqOuwnOydtOyLne2BtOumrOuLiSBLb3JlYQ%3D%3D",
+            "view_text": "1.1K"
+          },
+          {
+            "title": "보기 흉한 여드름 흉터!! 완벽하게 치료하는 방법!!",
+            "channel": "젊은나ReturnToYoung",
+            "url": "https://www.youtube.com/watch?v=vZ5PDRhF9bc&pp=ygU97LKt64u07Jik7LyA7J207ISx7ZiV7Jm46rO87J2Y7JuQIOuqqOuwnOydtOyLne2BtOumrOuLiSBLb3JlYQ%3D%3D",
+            "view_text": "5.4K"
+          },
+          {
+            "title": "[별성형외과] 20~60대 나이대별로 알아보는 안면거상 효과👩👨  | 별성형외과 홍용택원장님이 알려드려요 📢",
+            "channel": "별성형외과",
+            "url": "https://www.youtube.com/watch?v=arAQPAyDccA&pp=ygU97LKt64u07Jik7LyA7J207ISx7ZiV7Jm46rO87J2Y7JuQIOuqqOuwnOydtOyLne2BtOumrOuLiSBLb3JlYQ%3D%3D",
+            "view_text": "300"
+          },
+          {
+            "title": "여성헤어라인이식으로 넓은이마가 이뻐졌어요~",
+            "channel": "더헤어라인TV",
+            "url": "https://www.youtube.com/watch?v=FpRrVIRprek&pp=ygU97LKt64u07Jik7LyA7J207ISx7ZiV7Jm46rO87J2Y7JuQIOuqqOuwnOydtOyLne2BtOumrOuLiSBLb3JlYQ%3D%3D",
+            "view_text": "341"
+          },
+          {
+            "title": "디자이너 성형외과 확장이전(랜선 병원들이)",
+            "channel": "디자이너성형외과 - DESIGNER Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=suknN-LTMG8&pp=ygU97LKt64u07Jik7LyA7J207ISx7ZiV7Jm46rO87J2Y7JuQIOuqqOuwnOydtOyLne2BtOumrOuLiSBLb3JlYQ%3D%3D",
+            "view_text": "852"
+          },
+          {
+            "title": "[리얼스토리] 모녀가 함께 받는 클린업리프팅",
+            "channel": "피부과전문의 오픈사전",
+            "url": "https://www.youtube.com/watch?v=DNBq7uVqw4g&pp=ygU97LKt64u07Jik7LyA7J207ISx7ZiV7Jm46rO87J2Y7JuQIOuqqOuwnOydtOyLne2BtOumrOuLiSBLb3JlYQ%3D%3D",
+            "view_text": "468"
+          },
+          {
+            "title": "피부미인들의 초이스 'BHA'",
+            "channel": "오라클피부과",
+            "url": "https://www.youtube.com/watch?v=HmpjJZHa1bg&pp=ygU97LKt64u07Jik7LyA7J207ISx7ZiV7Jm46rO87J2Y7JuQIOuqqOuwnOydtOyLne2BtOumrOuLiSBLb3JlYQ%3D%3D",
+            "view_text": "339"
+          },
+          {
+            "title": "[남성탈모] 4개월 관리 후 이런 분들도 있습니다. (토닉관리의 중요성)",
+            "channel": "JWSTORY 탈모이야기",
+            "url": "https://www.youtube.com/watch?v=LDEaTYr1_3I&pp=ygU97LKt64u07Jik7LyA7J207ISx7ZiV7Jm46rO87J2Y7JuQIOuqqOuwnOydtOyLne2BtOumrOuLiSBLb3JlYQ%3D%3D",
+            "view_text": "179"
+          }
+        ]
       }
     },
     "xiaohongshu": {

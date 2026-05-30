@@ -1,16 +1,18 @@
 {
   "query": "지인성형외과의원",
-  "generated_at": "2026-05-28T23:14:11.432Z",
+  "generated_at": "2026-05-29T11:55:28.030Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 78,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "19524025",
+        "name": "지인성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 71,
+        "blog_review_count": 7,
+        "detail_url": "https://m.place.naver.com/place/19524025/home"
       }
     },
     "google_maps": {
@@ -18,16 +20,16 @@
       "metric_label": "리뷰",
       "metric_value": 0,
       "extra": {
-        "name": "Results",
+        "name": "지인성형외새내역과",
         "rating": 5,
         "total_reviews": 0,
-        "sample_size": 6,
-        "foreign_language_reviews": 6,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 6
+          "english_other": 0
         }
       }
     },
@@ -45,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 410247,
+        "total_views": 408180,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -57,64 +59,64 @@
         "sample_size": 20,
         "top_videos": [
           {
+            "title": "지인성형외과 소개영상",
+            "channel": "뒹글뒹글",
+            "url": "https://www.youtube.com/watch?v=hyI_gSb4uSs&pp=ygUe7KeA7J247ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "5.2K views"
+          },
+          {
+            "title": "지인성형외과 소개영상의 사본",
+            "channel": "뒹글뒹글",
+            "url": "https://www.youtube.com/watch?v=r3SSU5SruJI&pp=ygUe7KeA7J247ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "218 views"
+          },
+          {
             "title": "성형외과 전문의가 지인 수술을 꺼리는 진짜 이유",
             "channel": "닥터로미의성형노트",
-            "url": "https://www.youtube.com/watch?v=OqcXFTlgZHo&pp=ygUq7KeA7J247ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
+            "url": "https://www.youtube.com/watch?v=OqcXFTlgZHo&pp=ygUe7KeA7J247ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "1.7K views"
           },
           {
-            "title": "지인 소개로 예롬성형외과에서 코성형한 후기",
-            "channel": "예롬TV 예롬성형외과",
-            "url": "https://www.youtube.com/watch?v=l9MgnT7A9rY&pp=ygUq7KeA7J247ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "68 views"
+            "title": "부산 서면 크리스마스성형외과",
+            "channel": "Merry Christmas!",
+            "url": "https://www.youtube.com/watch?v=_wUxh2EW5CM&pp=ygUe7KeA7J247ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "12 views"
           },
           {
             "title": "114화. 의사도 낄끼빠빠 가 필요하다! (나! ㅇㅇ교수 지인이야~) feat.슬의생",
             "channel": "성형학개론_미소유성형외과",
-            "url": "https://www.youtube.com/watch?v=oXeNQFuEk2s&pp=ygUq7KeA7J247ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=oXeNQFuEk2s&pp=ygUe7KeA7J247ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "520 views"
           },
           {
-            "title": "얼굴 지방흡입 6주후 인터뷰(박원장 지인 케이스)",
-            "channel": "지방흡입멘토",
-            "url": "https://www.youtube.com/watch?v=Y7AWYIRfUic&pp=ygUq7KeA7J247ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "379K views"
+            "title": "[쩡이롱의 Q&A]이제는 말할 수 있다!! 원장님 지인,친인척 성형추천 한다!? 안한다!?",
+            "channel": "쩡이롱의 금손티비",
+            "url": "https://www.youtube.com/watch?v=lW2Z-T2lTzM&pp=ygUe7KeA7J247ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "424 views"
           },
           {
-            "title": "성형외과 의사는 지인들에게 어떤 수술을 해줄까?🤔",
-            "channel": "저스트성형외과",
-            "url": "https://www.youtube.com/watch?v=YOOxjztfJCo&pp=ygUq7KeA7J247ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "2.9K views"
+            "title": "5양악수술후 입벌림정도와 붓기",
+            "channel": "Merry Christmas!",
+            "url": "https://www.youtube.com/watch?v=gOlQtkCzbsE&pp=ygUe7KeA7J247ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "4.5K views"
           },
           {
             "title": "눈 재수술 하시는 분들! 미안하지만 이런 의사들한테는 가지마세요",
             "channel": "아이호채널",
-            "url": "https://www.youtube.com/watch?v=nUNd3A_baDA&pp=ygUq7KeA7J247ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=nUNd3A_baDA&pp=ygUe7KeA7J247ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "805 views"
           },
           {
-            "title": "대한의료신문 Today 병의원 탐방 ep70 : 지인산부인과",
-            "channel": "대한의료신문",
-            "url": "https://www.youtube.com/watch?v=2gOwKxy6lXo&pp=ygUq7KeA7J247ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "374 views"
+            "title": "성형외과 의사는 지인들에게 어떤 수술을 해줄까?🤔",
+            "channel": "저스트성형외과",
+            "url": "https://www.youtube.com/watch?v=YOOxjztfJCo&pp=ygUe7KeA7J247ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "2.9K views"
           },
           {
             "title": "VIP 신드롬? 지인의 성형수술을 맡은 의사의 속마음... | 성형, 윤곽수술",
             "channel": "소다성형외과",
-            "url": "https://www.youtube.com/watch?v=iUIAHuAPbo8&pp=ygUq7KeA7J247ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=iUIAHuAPbo8&pp=ygUe7KeA7J247ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "1K views"
-          },
-          {
-            "title": "성형외과 김범진 원장 08 - 성형외과 전문의 TMI 2편 : 아는 사람 수술하는 게 쉽냐고?",
-            "channel": "그레이몰",
-            "url": "https://www.youtube.com/watch?v=CQwWWcchhvg&pp=ygUq7KeA7J247ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "122 views"
-          },
-          {
-            "title": "코성형 괴담, 진짜일까? 직접 알려드립니다",
-            "channel": "압구정서울성형외과",
-            "url": "https://www.youtube.com/watch?v=HRdBaP9eym8&pp=ygUq7KeA7J247ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "247 views"
           }
         ]
       }
@@ -130,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 3,
-  "opportunity_cost_thb": 97000,
-  "opportunity_cost_krw": 3880000
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
 }

@@ -1,6 +1,6 @@
 {
   "query": "삼대국민의원병원,의원",
-  "generated_at": "2026-05-28T23:18:57.512Z",
+  "generated_at": "2026-05-29T12:01:17.327Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 79874,
+        "total_views": 81074,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -67,32 +67,20 @@
           {
             "title": "한약_복용방법",
             "channel": "삼대국민한의원",
-            "url": "https://www.youtube.com/watch?v=F0mbwGS0JrU&pp=ygUl7IK864yA6rWt66-87J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYdIHCQkNCwGHKiGM7w%3D%3D",
+            "url": "https://www.youtube.com/watch?v=F0mbwGS0JrU&pp=ygUl7IK864yA6rWt66-87J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
             "view_text": "242"
           },
           {
             "title": "도수치료_안내사항",
             "channel": "삼대국민한의원",
-            "url": "https://www.youtube.com/watch?v=Uis7LtdmKAA&pp=ygUl7IK864yA6rWt66-87J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "url": "https://www.youtube.com/watch?v=Uis7LtdmKAA&pp=ygUl7IK864yA6rWt66-87J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
             "view_text": "56"
-          },
-          {
-            "title": "프롤로주사_안내사항",
-            "channel": "삼대국민한의원",
-            "url": "https://www.youtube.com/watch?v=wFz26_0Jjlo&pp=ygUl7IK864yA6rWt66-87J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
-            "view_text": "192"
           },
           {
             "title": "뽀얀거탑93회 - 허리디스크 증상 - 허리통증, 다리방사통, 발저림",
             "channel": "삼대TV",
-            "url": "https://www.youtube.com/watch?v=m4EpInpsLak&pp=ygUl7IK864yA6rWt66-87J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYdIHCQkNCwGHKiGM7w%3D%3D",
+            "url": "https://www.youtube.com/watch?v=m4EpInpsLak&pp=ygUl7IK864yA6rWt66-87J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
             "view_text": "2.2K"
-          },
-          {
-            "title": "오십견 스트레칭 운동법",
-            "channel": "삼대TV",
-            "url": "https://www.youtube.com/watch?v=BvcwuNcBthY&pp=ygUl7IK864yA6rWt66-87J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYdIHCQkNCwGHKiGM7w%3D%3D",
-            "view_text": "13K"
           },
           {
             "title": "뽀얀거탑80회 - 자궁근종수술과 부인과질환 예방방법",
@@ -101,21 +89,33 @@
             "view_text": "1.2K"
           },
           {
+            "title": "프롤로주사_안내사항",
+            "channel": "삼대국민한의원",
+            "url": "https://www.youtube.com/watch?v=wFz26_0Jjlo&pp=ygUl7IK864yA6rWt66-87J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "192"
+          },
+          {
+            "title": "복수면허자가 말하는 루게릭병과 실제 루게릭병환자와의 진료 영상",
+            "channel": "삼대TV",
+            "url": "https://www.youtube.com/watch?v=wzsf5wOfaS4&pp=ygUl7IK864yA6rWt66-87J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "18K"
+          },
+          {
             "title": "교모세포종 수술과 재발 : 신경계 질환에 대해",
             "channel": "삼대TV",
-            "url": "https://www.youtube.com/watch?v=GErw2Qul5xU&pp=ygUl7IK864yA6rWt66-87J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYdIHCQkNCwGHKiGM7w%3D%3D",
+            "url": "https://www.youtube.com/watch?v=GErw2Qul5xU&pp=ygUl7IK864yA6rWt66-87J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
             "view_text": "9.4K"
           },
           {
-            "title": "생로병사 - 암환자를 위한 식생활",
+            "title": "뽀얀거탑122회 - 프롤로, PRP, DNA주사 효과와 부작용",
             "channel": "삼대TV",
-            "url": "https://www.youtube.com/watch?v=U-9CrI9ymu8&pp=ygUl7IK864yA6rWt66-87J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
-            "view_text": "100"
+            "url": "https://www.youtube.com/watch?v=sfXU7VmaRbQ&pp=ygUl7IK864yA6rWt66-87J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "19K"
           },
           {
             "title": "루게릭병 치료 - 발침, 침, 한약, 온열, 도수, 주사치료",
             "channel": "삼대TV",
-            "url": "https://www.youtube.com/watch?v=95yJXii3ybU&pp=ygUl7IK864yA6rWt66-87J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYdIHCQkNCwGHKiGM7w%3D%3D",
+            "url": "https://www.youtube.com/watch?v=95yJXii3ybU&pp=ygUl7IK864yA6rWt66-87J2Y7JuQ67OR7JuQLOydmOybkCBLb3JlYQ%3D%3D",
             "view_text": "1K"
           }
         ]
@@ -132,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

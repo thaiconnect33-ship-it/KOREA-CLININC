@@ -1,16 +1,18 @@
 {
   "query": "리터닝성형외과의원",
-  "generated_at": "2026-05-29T00:07:01.568Z",
+  "generated_at": "2026-05-29T12:53:33.892Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 1119,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "1075294878",
+        "name": "리터닝성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 262,
+        "blog_review_count": 857,
+        "detail_url": "https://m.place.naver.com/place/1075294878/home"
       }
     },
     "google_maps": {
@@ -21,13 +23,13 @@
         "name": "리터닝성형외과 | returning plastic surgery | RETURNING整形外科",
         "rating": 5,
         "total_reviews": 70,
-        "sample_size": 24,
-        "foreign_language_reviews": 24,
+        "sample_size": 28,
+        "foreign_language_reviews": 28,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 24
+          "english_other": 28
         }
       }
     },
@@ -43,78 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 18,
+      "metric_value": 20,
       "extra": {
-        "total_views": 2403984,
+        "total_views": 1885874,
         "foreign_video_count": 0,
         "lang_breakdown": {
-          "korean": 18,
+          "korean": 20,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
           "english_other": 0
         },
-        "sample_size": 18,
+        "sample_size": 20,
         "top_videos": [
           {
             "title": "눈꼬리올리기 눈꼬리리프팅 Eyelid lift",
             "channel": "리터닝성형외과Returning Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=nuGzLNxhzZk&pp=ygUz66as7YSw64ud7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=nuGzLNxhzZk&pp=ygUh66as7YSw64ud7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "3.5K"
           },
           {
             "title": "Key points directly explained by a plastic surgeon specializing in closed rhinoplasty",
             "channel": "브이엔성형외과  VN Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=RGvhcUo3u7s&pp=ygUz66as7YSw64ud7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=RGvhcUo3u7s&pp=ygUh66as7YSw64ud7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "1.6K"
           },
           {
             "title": "\"강남 유명 성형외과서 수술 뒤 눈이 실명됐습니다\" [지금이뉴스] / YTN",
             "channel": "YTN",
-            "url": "https://www.youtube.com/watch?v=UyMrX929Q4I&pp=ygUz66as7YSw64ud7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=UyMrX929Q4I&pp=ygUh66as7YSw64ud7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "576K"
+          },
+          {
+            "title": "[🍜일(치)식당] 🕒 한 달 만에 병원 차리고, 마녀턱 수술까지?! | 일치의 Dinner Talk 🍷",
+            "channel": "지금이 리즈, ILCHI",
+            "url": "https://www.youtube.com/watch?v=iXlcdTnwi0E&pp=ygUh66as7YSw64ud7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "00:00 Preview 00:18 Start! 00:25 '일치'라는 병원 이름이 특이한데 어떻게 짓게 되셨나요? 02:11 원장님의 첫 인상은? 03:01 원장님 ..."
+          },
+          {
+            "title": "[JPN SUB] 얼굴 분위기의 터닝 포인트? 나와 어울리는 트임 수술은?! | 리스펙성형외과",
+            "channel": "리스펙성형외과",
+            "url": "https://www.youtube.com/watch?v=5mckcnieN8w&pp=ygUh66as7YSw64ud7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "4.5K"
           },
           {
             "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
             "channel": "JTBC News",
-            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUz66as7YSw64ud7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUh66as7YSw64ud7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
             "view_text": "1M"
           },
           {
-            "title": "안면거상수술하면 목주름도 없어진다? - 【feat. 성형외과전문의】",
-            "channel": "시너지성형외과",
-            "url": "https://www.youtube.com/watch?v=AcdmoYXAc4Q&pp=ygUz66as7YSw64ud7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "41K"
+            "title": "하안검성형 잘못하면 오히려 노안이 됩니다😲😲｜성형외과 전문의가 알려주는 '올바른 하안검 성형 방법'｜AND(앤드)성형외과｜눈서코TV",
+            "channel": "앤드성형외과의원 [ 눈서코TV ]",
+            "url": "https://www.youtube.com/watch?v=9n6w0x601Os&pp=ygUh66as7YSw64ud7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "435"
           },
           {
-            "title": "[홍진주의 성형 Q&A] #5. 성형, 선택의 딜레마 '매몰 vs 절개' (제이제이성형외과 홍진주 원장)",
-            "channel": "의학채널 비온뒤",
-            "url": "https://www.youtube.com/watch?v=weJT94cyHbI&pp=ygUz66as7YSw64ud7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "5.8K"
+            "title": "코성형 후에 생긴 비주함몰😥 해결할 수 있을까?😭ㅣ더하다성형외과 이정훈원장",
+            "channel": "더하다TV",
+            "url": "https://www.youtube.com/watch?v=bwr5paBNgV4&pp=ygUh66as7YSw64ud7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "900"
           },
           {
-            "title": "How to find a good plastic surgeon🧡 How to find a good plastic surgeon and avoid plastic surgery ...",
-            "channel": "베레나verena",
-            "url": "https://www.youtube.com/watch?v=SQzMbIJMBTQ&pp=ygUz66as7YSw64ud7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
-            "view_text": "277K"
-          },
-          {
-            "title": "눈성형,코성형 수술기구 전격 공개! (성형외과 수술실에서 무슨일이 일어날까 3편)",
-            "channel": "닥터혜자",
-            "url": "https://www.youtube.com/watch?v=FIIqCKR4nKk&pp=ygUz66as7YSw64ud7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
-            "view_text": "9.2K"
-          },
-          {
-            "title": "[윤곽수술] 안면윤곽수술 부작용? l 사각턱수술,턱끝수술,광대축소술 부위별 염증 가능성과 치료법 [디에이성형외과]",
+            "title": "너의 윤곽이 보여! 풀버전! [디에이성형외과의원]",
             "channel": "디에이성형외과 D.A Plastic Surgery Korea",
-            "url": "https://www.youtube.com/watch?v=OM-jJiEiLqs&pp=ygUz66as7YSw64ud7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "16K"
+            "url": "https://www.youtube.com/watch?v=QCY4w7r7MJo&pp=ygUh66as7YSw64ud7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "3.3K"
           },
           {
-            "title": "쌍커풀 수술 '자연유착' 이 궁금하다 ! (feat.친절상담)",
-            "channel": "드레스성형외과의원",
-            "url": "https://www.youtube.com/watch?v=I1Hqwbo1N8o&pp=ygUz66as7YSw64ud7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "13K"
+            "title": "바쁘신 분들을 위한 안면윤곽 하이라이트! [디에이성형외과의원]",
+            "channel": "디에이성형외과 D.A Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=x0d7u52q_zY&pp=ygUh66as7YSw64ud7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "3.1K"
           }
         ]
       }
@@ -130,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 12,
-  "opportunity_cost_thb": 88000,
-  "opportunity_cost_krw": 3520000
+  "global_score": 14,
+  "opportunity_cost_thb": 86000,
+  "opportunity_cost_krw": 3440000
 }

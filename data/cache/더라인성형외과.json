@@ -1,6 +1,6 @@
 {
   "query": "더라인성형외과",
-  "generated_at": "2026-05-29T05:42:56.849Z",
+  "generated_at": "2026-05-29T10:08:59.028Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -42,15 +42,15 @@
           {
             "title": "ศัลยกรรมเกาหลี ศัลยกรรมจมูก ฉีดไขมันน่าเด็ก",
             "url": "https://pantip.com/topic/37367206",
-            "views": 0
+            "views": 4316605
           },
           {
             "title": "ใครรู้จัก คลินิคศัลยกรรม The Line Thailand หรือ The LINE Plastic Surgery Clinic บ้างมั้ยคะ??",
             "url": "https://pantip.com/topic/34978462",
-            "views": 0
+            "views": 1899052
           }
         ],
-        "total_views": 0
+        "total_views": 6215657
       }
     },
     "youtube": {
@@ -58,64 +58,28 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 588394,
-        "foreign_video_count": 20,
+        "total_views": 11932164,
+        "foreign_video_count": 19,
         "lang_breakdown": {
-          "korean": 0,
+          "korean": 1,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
-          "english_other": 20
+          "english_other": 19
         },
         "sample_size": 20,
         "top_videos": [
+          {
+            "title": "A collection of celebrities with pretty eyes by double eyelid lineㅣFind a line that suits me well",
+            "channel": "WONJIN Plastic surgery KOREA",
+            "url": "https://www.youtube.com/watch?v=xr3oTonVeMs&pp=ygUeVGhlIExpbmUgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "5.2K views"
+          },
           {
             "title": "Everything You Need to Know: Tummy Tuck Surgery at The Line Plastic Surgery Korea",
             "channel": "TheLINE Plastic Surgery clinic - Global",
             "url": "https://www.youtube.com/watch?v=fZZLheWdAqc&pp=ygUeVGhlIExpbmUgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
             "view_text": "34 views"
-          },
-          {
-            "title": "MY PLASTIC SURGERY IN KOREA   V Line & Rhinoplasty Surgery & Recovery",
-            "channel": "English BANOBAGI",
-            "url": "https://www.youtube.com/watch?v=iNFq0AM2dUE&pp=ygUeVGhlIExpbmUgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
-            "view_text": "7.2K views"
-          },
-          {
-            "title": "Ultra Power V-Line Liposuction & Lift | The Line Plastic Surgery",
-            "channel": "TheLINE Plastic Surgery clinic - Global",
-            "url": "https://www.youtube.com/watch?v=ftH9InYf8MQ&pp=ygUeVGhlIExpbmUgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
-            "view_text": "27 views"
-          },
-          {
-            "title": "Is V-line surgery dangerous?| Facial Contouring Q&A | Dr. Lee Seung Ryong.",
-            "channel": "Docfinderkorea",
-            "url": "https://www.youtube.com/watch?v=q2Gfi8xWoRQ&t=16s&pp=ygUeVGhlIExpbmUgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
-            "view_text": "1.3K views"
-          },
-          {
-            "title": "I Got Body Botox in Korea... Worth the Hype? 😳 | The Line Plastic Surgery",
-            "channel": "TheLINE Plastic Surgery clinic - Global",
-            "url": "https://www.youtube.com/watch?v=LfwsKD7UWVc&pp=ygUeVGhlIExpbmUgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
-            "view_text": "3 views"
-          },
-          {
-            "title": "[Plastic Surgery Korea] Say goodbye to insecurities!  V-Line surgery",
-            "channel": "DA Plastic Surgery Korea",
-            "url": "https://www.youtube.com/watch?v=5v-4XfgHjU4&pp=ygUeVGhlIExpbmUgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
-            "view_text": "9.9K views"
-          },
-          {
-            "title": "MY PLASTIC SURGERY EXPERIENCE IN KOREA | Rhinoplasty & V Line Surgery Before and After Part 3",
-            "channel": "Docfinderkorea",
-            "url": "https://www.youtube.com/watch?v=1VnJTGF8xRM&pp=ygUeVGhlIExpbmUgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
-            "view_text": "24K views"
-          },
-          {
-            "title": "PLASTIC SURGERY IN KOREA Experience : Double Eyelid Surgery & V Line. Part 1",
-            "channel": "Docfinderkorea",
-            "url": "https://www.youtube.com/watch?v=TB4GeblPQt4&pp=ygUeVGhlIExpbmUgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
-            "view_text": "37K views"
           },
           {
             "title": "Pixee Fox's V-Line Surgery in Korea | Seoul Guide Medical",
@@ -124,10 +88,46 @@
             "view_text": "61K views"
           },
           {
-            "title": "Korean plastic surgeon answers PATIENT’S Questions! l Barbie-Line Upper Facial Surgery",
-            "channel": "ID Hospital Korea Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=eHFJ1OI53_4&pp=ygUeVGhlIExpbmUgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
-            "view_text": "4.4K views"
+            "title": "Ultra Power V-Line Liposuction & Lift | The Line Plastic Surgery",
+            "channel": "TheLINE Plastic Surgery clinic - Global",
+            "url": "https://www.youtube.com/watch?v=ftH9InYf8MQ&pp=ygUeVGhlIExpbmUgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "27 views"
+          },
+          {
+            "title": "[Plastic Surgery Korea] Say goodbye to insecurities!  V-Line surgery",
+            "channel": "DA Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=5v-4XfgHjU4&pp=ygUeVGhlIExpbmUgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "9.9K views"
+          },
+          {
+            "title": "Is V-line surgery dangerous?| Facial Contouring Q&A | Dr. Lee Seung Ryong.",
+            "channel": "Docfinderkorea",
+            "url": "https://www.youtube.com/watch?v=q2Gfi8xWoRQ&t=16s&pp=ygUeVGhlIExpbmUgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "1.3K views"
+          },
+          {
+            "title": "MY PLASTIC SURGERY IN KOREA   V Line & Rhinoplasty Surgery & Recovery",
+            "channel": "English BANOBAGI",
+            "url": "https://www.youtube.com/watch?v=iNFq0AM2dUE&pp=ygUeVGhlIExpbmUgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "7.2K views"
+          },
+          {
+            "title": "I got lots of plastic surgery in Korea! (part 1)",
+            "channel": "Cluam Sutherland",
+            "url": "https://www.youtube.com/watch?v=cyzHYmYXlkA&pp=ygUeVGhlIExpbmUgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "1.4M views"
+          },
+          {
+            "title": "PLASTIC SURGERY Q&A 🇰🇷 | Full Cost/Procedure Breakdown, Pain, Regrets, Healing",
+            "channel": "Sophie Lee 이소현",
+            "url": "https://www.youtube.com/watch?v=U0m4emB4qP4&pp=ygUeVGhlIExpbmUgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "126K views"
+          },
+          {
+            "title": "V-line Surgery",
+            "channel": "Dr. Regina Rodman: Face Forward Houston",
+            "url": "https://www.youtube.com/watch?v=ewJVB5eP5ko&pp=ygUeVGhlIExpbmUgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "89K views"
           }
         ]
       }
@@ -154,6 +154,6 @@
     }
   },
   "global_score": 32,
-  "opportunity_cost_thb": 74000,
-  "opportunity_cost_krw": 2960000
+  "opportunity_cost_thb": 74500,
+  "opportunity_cost_krw": 2980000
 }

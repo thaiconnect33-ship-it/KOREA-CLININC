@@ -1,6 +1,6 @@
 {
   "query": "보셀르의원",
-  "generated_at": "2026-05-28T22:27:06.434Z",
+  "generated_at": "2026-05-29T11:03:55.078Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -18,11 +18,11 @@
     "google_maps": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 81,
+      "metric_value": 82,
       "extra": {
         "name": "보셀르의원",
         "rating": 5,
-        "total_reviews": 81,
+        "total_reviews": 82,
         "sample_size": 20,
         "foreign_language_reviews": 20,
         "lang_breakdown": {
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 597441,
+        "total_views": 350913,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -59,64 +59,64 @@
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "보셀르만의 차별화 된 디자인 필러",
-            "channel": "보셀르의원",
-            "url": "https://www.youtube.com/watch?v=-uWHsSrcnGI&pp=ygUe67O07IWA66W07J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "125 views"
-          },
-          {
             "title": "보셀르의원 TV방송 출연 - SBS CNBC 생생경제 정보톡톡",
             "channel": "보셀르의원",
-            "url": "https://www.youtube.com/watch?v=oXBTitVZyjc&pp=ygUe67O07IWA66W07J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=oXBTitVZyjc&pp=ygUV67O07IWA66W07J2Y7JuQIEtvcmVh",
             "view_text": "362 views"
+          },
+          {
+            "title": "보셀르만의 차별화 된 디자인 필러",
+            "channel": "보셀르의원",
+            "url": "https://www.youtube.com/watch?v=-uWHsSrcnGI&pp=ygUV67O07IWA66W07J2Y7JuQIEtvcmVh",
+            "view_text": "125 views"
           },
           {
             "title": "보셀르의원 아쿠아필 시술과정 공개!",
             "channel": "보셀르의원",
-            "url": "https://www.youtube.com/watch?v=xJIM8UOgu2I&pp=ygUe67O07IWA66W07J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "573 views"
+            "url": "https://www.youtube.com/watch?v=xJIM8UOgu2I&pp=ygUV67O07IWA66W07J2Y7JuQIEtvcmVh",
+            "view_text": "574 views"
           },
           {
             "title": "보셀르의원 디자인 필러로 자연스러운 볼륨감을 만나보세요",
             "channel": "보셀르의원",
-            "url": "https://www.youtube.com/watch?v=OObLI16q0LY&pp=ygUe67O07IWA66W07J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "url": "https://www.youtube.com/watch?v=OObLI16q0LY&pp=ygUV67O07IWA66W07J2Y7JuQIEtvcmVh",
             "view_text": "158 views"
-          },
-          {
-            "title": "“비싼 울쎄라, 써마지 받아도 얼굴 다시 처집니다” 요즘 연예인들이 받는 가성비 시술을 20년차 피부과 전문의가 알려드립니다.",
-            "channel": "피부는 성현철",
-            "url": "https://www.youtube.com/watch?v=P-ooK3XIcKM&pp=ygUe67O07IWA66W07J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "344K views"
-          },
-          {
-            "title": "남자 여드름피부 고민 보셀르의원 옴므 이벤트와 함께!",
-            "channel": "보셀르의원",
-            "url": "https://www.youtube.com/watch?v=gvOx4opZ_3g&pp=ygUe67O07IWA66W07J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "107 views"
           },
           {
             "title": "보셀르의원 아쿠아필 시술 영상",
             "channel": "보셀르의원",
-            "url": "https://www.youtube.com/watch?v=cmga9gV3ftk&pp=ygUe67O07IWA66W07J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=cmga9gV3ftk&pp=ygUV67O07IWA66W07J2Y7JuQIEtvcmVh",
             "view_text": "440 views"
           },
           {
             "title": "윤곽주사 찾고 있니? 착한 지방분해주사 브이엘주사로 V라인이 되자!",
             "channel": "보셀르의원",
-            "url": "https://www.youtube.com/watch?v=ck8mfdejQDU&pp=ygUe67O07IWA66W07J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=ck8mfdejQDU&pp=ygUV67O07IWA66W07J2Y7JuQIEtvcmVh",
             "view_text": "163 views"
           },
           {
             "title": "보셀르의원 리포샷이란?",
             "channel": "보셀르의원",
-            "url": "https://www.youtube.com/watch?v=HWq237KlmX0&pp=ygUe67O07IWA66W07J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=HWq237KlmX0&pp=ygUV67O07IWA66W07J2Y7JuQIEtvcmVh",
             "view_text": "791 views"
           },
           {
-            "title": "\"You can look 10 years younger than your peers!\" 3 treatments even performed by a dermatologist.",
-            "channel": "박지윤의 피부 설명서",
-            "url": "https://www.youtube.com/watch?v=GN7n33Kw7BY&pp=ygUe67O07IWA66W07J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "237K views"
+            "title": "지방분해 NO! 지방추출의 시대!",
+            "channel": "보셀르의원",
+            "url": "https://www.youtube.com/watch?v=yFZQ6NkCPVA&pp=ygUV67O07IWA66W07J2Y7JuQIEtvcmVh",
+            "view_text": "91 views"
+          },
+          {
+            "title": "보셀르의원 고객만족브랜드대상 2년연속 수상",
+            "channel": "보셀르의원",
+            "url": "https://www.youtube.com/watch?v=Hk73ipZqeqQ&pp=ygUV67O07IWA66W07J2Y7JuQIEtvcmVh",
+            "view_text": "94 views"
+          },
+          {
+            "title": "미니지방흡입! 지방추출주사 리포샷으로 원하는 부위의 지방을 빼자!",
+            "channel": "보셀르의원",
+            "url": "https://www.youtube.com/watch?v=2ClH8FrM9og&pp=ygUV67O07IWA66W07J2Y7JuQIEtvcmVh",
+            "view_text": "358 views"
           }
         ]
       }
@@ -132,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

@@ -1,18 +1,18 @@
 {
   "query": "이미지성형외과의원",
-  "generated_at": "2026-05-28T23:18:41.354Z",
+  "generated_at": "2026-05-29T12:00:58.914Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 1821,
+      "metric_value": 221,
       "extra": {
-        "place_id": "36477205",
-        "name": "이미지업성형외과의원 : 네이버\u001c",
-        "visitor_review_count": 996,
-        "blog_review_count": 825,
-        "detail_url": "https://m.place.naver.com/place/36477205/home"
+        "place_id": "11528211",
+        "name": "이미지성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 28,
+        "blog_review_count": 193,
+        "detail_url": "https://m.place.naver.com/place/11528211/home"
       }
     },
     "google_maps": {
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 76701,
+        "total_views": 60827,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -59,64 +59,64 @@
         "sample_size": 20,
         "top_videos": [
           {
+            "title": "전문가가 알려주는 나이 측정법",
+            "channel": "이미지TV",
+            "url": "https://www.youtube.com/watch?v=R3pNT63hEOY&pp=ygUh7J2066-47KeA7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "110"
+          },
+          {
+            "title": "하이브리드 가슴성형 이렇게는 하지마세요!",
+            "channel": "이미지TV",
+            "url": "https://www.youtube.com/watch?v=u9qQDm-30TI&pp=ygUh7J2066-47KeA7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "612"
+          },
+          {
+            "title": "ISAPS 한국 회장 당선! 세계 의학 잡지의 편집위원",
+            "channel": "이미지TV",
+            "url": "https://www.youtube.com/watch?v=oySqr87SvyM&pp=ygUh7J2066-47KeA7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "130"
+          },
+          {
+            "title": "안면거상술 이런 수술은 받지마세요🚫",
+            "channel": "이미지TV",
+            "url": "https://www.youtube.com/watch?v=F89CNdwPi1k&pp=ygUh7J2066-47KeA7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "7K"
+          },
+          {
+            "title": "연령별 꼭 필요한 시술 MZ세대부터 60대까지 이걸 가장 많이 한다고?",
+            "channel": "이미지TV",
+            "url": "https://www.youtube.com/watch?v=l93WUxtjY0g&pp=ygUh7J2066-47KeA7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "121"
+          },
+          {
+            "title": "내시경 이마거상술 실제 환자가 걱정하는 5가지",
+            "channel": "이미지TV",
+            "url": "https://www.youtube.com/watch?v=1uhDUaOZmrY&pp=ygUh7J2066-47KeA7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "1.9K"
+          },
+          {
             "title": "Image Plastic Surgery Dr. Hongki Lee's story behind the scenes: the path of a doctor",
             "channel": "이미지TV",
-            "url": "https://www.youtube.com/watch?v=ctHnRcipofs&pp=ygUt7J2066-47KeA7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "739 views"
+            "url": "https://www.youtube.com/watch?v=ctHnRcipofs&pp=ygUh7J2066-47KeA7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "739"
           },
           {
-            "title": "측두부 필러 시술 시, 반드시 알아야 하는 것❗ 알려드립니다😎",
+            "title": "EndoscopicForehead lift, what is the current progress of patients who surgery 20 years ago?",
             "channel": "이미지TV",
-            "url": "https://www.youtube.com/watch?v=u05RYhV8fsw&pp=ygUt7J2066-47KeA7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "339 views"
+            "url": "https://www.youtube.com/watch?v=-E-MKAZhJVw&pp=ygUh7J2066-47KeA7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "34K"
           },
           {
-            "title": "눈밑주름 하안검 수술 20년간 유지되는 비결은 무엇일까?",
+            "title": "효과가 10년간 유지되는 리프팅이 있다고?!",
             "channel": "이미지TV",
-            "url": "https://www.youtube.com/watch?v=AsUeYNdINSc&pp=ygUt7J2066-47KeA7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "596 views"
+            "url": "https://www.youtube.com/watch?v=UxpoI0hx5o8&pp=ygUh7J2066-47KeA7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "417"
           },
           {
-            "title": "섬세한 가슴성형은 Full HD 고화질로 선명하게 보면서 해야지!! 👀",
+            "title": "All your questions about endoscopic forehead lift, all at once!",
             "channel": "이미지TV",
-            "url": "https://www.youtube.com/watch?v=KhMNy1jjb0k&pp=ygUt7J2066-47KeA7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "94 views"
-          },
-          {
-            "title": "Filler, a video I made because there were so many questions during the lecture",
-            "channel": "이미지TV",
-            "url": "https://www.youtube.com/watch?v=La-tipS6mmQ&pp=ygUt7J2066-47KeA7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.9K views"
-          },
-          {
-            "title": "디에이성형외과 이미지 눈성형",
-            "channel": "디에이성형외과 D.A Plastic Surgery Korea",
-            "url": "https://www.youtube.com/watch?v=uKgRdaTJDck&pp=ygUt7J2066-47KeA7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "1.5K views"
-          },
-          {
-            "title": "Endoscopic Forehead Lift Frequently Asked Questions TOP",
-            "channel": "이미지TV",
-            "url": "https://www.youtube.com/watch?v=UuDzjTu1COU&pp=ygUt7J2066-47KeA7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "4.6K views"
-          },
-          {
-            "title": "귀티나는 고급스러운 얼굴의 특징! 이런 분위기도 성형수술로 가능할까?",
-            "channel": "뷰성형외과 VIEW Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=Ur43hFE3HmI&pp=ygUt7J2066-47KeA7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.3K views"
-          },
-          {
-            "title": "Can a \"tough girl\" look innocent? Standards for facial image improvement | DA Plastic Surgery | M...",
-            "channel": "디에이성형외과 D.A Plastic Surgery Korea",
-            "url": "https://www.youtube.com/watch?v=i8bNpHF-9xk&pp=ygUt7J2066-47KeA7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "4.2K views"
-          },
-          {
-            "title": "디에이성형외과 이미지눈성형",
-            "channel": "디에이성형외과 D.A Plastic Surgery Korea",
-            "url": "https://www.youtube.com/watch?v=x8S7lNNd4XQ&pp=ygUt7J2066-47KeA7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.6K views"
+            "url": "https://www.youtube.com/watch?v=0TCDTkSa4CU&pp=ygUh7J2066-47KeA7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.1K"
           }
         ]
       }
@@ -132,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

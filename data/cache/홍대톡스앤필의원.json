@@ -1,17 +1,17 @@
 {
   "query": "홍대톡스앤필의원",
-  "generated_at": "2026-05-28T22:46:40.510Z",
+  "generated_at": "2026-05-29T11:25:18.266Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 1603,
+      "metric_value": 1627,
       "extra": {
         "place_id": "2013363169",
         "name": "홍대톡스앤필의원 : 네이버\u001c",
-        "visitor_review_count": 442,
-        "blog_review_count": 1161,
+        "visitor_review_count": 443,
+        "blog_review_count": 1184,
         "detail_url": "https://m.place.naver.com/place/2013363169/home"
       }
     },
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 2671403,
+        "total_views": 1739282,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -61,62 +61,62 @@
           {
             "title": "홍대유앤미 금손 고성균 원장의 풀페이스필러+실리프팅 시술",
             "channel": "홍대유앤미 고성균tv",
-            "url": "https://www.youtube.com/watch?v=sWMkMnMcLBY&pp=ygUn7ZmN64yA7Yah7Iqk7JWk7ZWE7J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "583"
+            "url": "https://www.youtube.com/watch?v=sWMkMnMcLBY&pp=ygUe7ZmN64yA7Yah7Iqk7JWk7ZWE7J2Y7JuQIEtvcmVh",
+            "view_text": "583 views"
           },
           {
-            "title": "유명 피부과 돌연 ‘폐업’…수백 명 ‘발 동동’ / KBS  2024.08.26.",
-            "channel": "KBS대전 뉴스",
-            "url": "https://www.youtube.com/watch?v=nbQRtogYrnQ&pp=ygUn7ZmN64yA7Yah7Iqk7JWk7ZWE7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "338K"
+            "title": "무너진 하관 밸런스, 턱끝필러로 또렷하게 💉 | 톡스앤필 강남본점",
+            "channel": "톡스앤필 시술전후",
+            "url": "https://www.youtube.com/watch?v=ALf2usValck&pp=ygUe7ZmN64yA7Yah7Iqk7JWk7ZWE7J2Y7JuQIEtvcmVh",
+            "view_text": "11 views"
+          },
+          {
+            "title": "웃는 인상을 만드는 작은 변화 💄 | 톡스앤필 강남본점",
+            "channel": "톡스앤필 시술전후",
+            "url": "https://www.youtube.com/watch?v=GUOVpqnJLBU&pp=ygUe7ZmN64yA7Yah7Iqk7JWk7ZWE7J2Y7JuQIEtvcmVh",
+            "view_text": "14 views"
+          },
+          {
+            "title": "습관처럼 찡그리는 미간, 보톡스로 깔끔하게 💉 | 톡스앤필 강남본점",
+            "channel": "톡스앤필 시술전후",
+            "url": "https://www.youtube.com/watch?v=OevME3Npe-Y&pp=ygUe7ZmN64yA7Yah7Iqk7JWk7ZWE7J2Y7JuQIEtvcmVh",
+            "view_text": "15 views"
+          },
+          {
+            "title": "반복되는 여드름 고민, 압출부터 아그네스까지! | 톡스앤필 강남본점",
+            "channel": "톡스앤필 시술전후",
+            "url": "https://www.youtube.com/watch?v=xr3tkHKIuIk&pp=ygUe7ZmN64yA7Yah7Iqk7JWk7ZWE7J2Y7JuQIEtvcmVh",
+            "view_text": "10 views"
           },
           {
             "title": "쿨~하게 이뻐지러 톡스앤필 가자! 보톡스, 필러, 윤곽주사, 리프팅은 톡스앤필!",
             "channel": "정콘TV",
-            "url": "https://www.youtube.com/watch?v=KX25BArypTQ&pp=ygUn7ZmN64yA7Yah7Iqk7JWk7ZWE7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "45"
+            "url": "https://www.youtube.com/watch?v=KX25BArypTQ&pp=ygUe7ZmN64yA7Yah7Iqk7JWk7ZWE7J2Y7JuQIEtvcmVh",
+            "view_text": "45 views"
+          },
+          {
+            "title": "납작한 이마에 볼륨감 채워드립니다✨ | 톡스앤필 강남본점",
+            "channel": "톡스앤필 시술전후",
+            "url": "https://www.youtube.com/watch?v=2FohQbnq8RY&pp=ygUe7ZmN64yA7Yah7Iqk7JWk7ZWE7J2Y7JuQIEtvcmVh",
+            "view_text": "14 views"
+          },
+          {
+            "title": "유명 피부과 돌연 ‘폐업’…수백 명 ‘발 동동’ / KBS  2024.08.26.",
+            "channel": "KBS대전 뉴스",
+            "url": "https://www.youtube.com/watch?v=nbQRtogYrnQ&pp=ygUe7ZmN64yA7Yah7Iqk7JWk7ZWE7J2Y7JuQIEtvcmVh",
+            "view_text": "338K views"
           },
           {
             "title": "얼굴에 보이는 흔적이 깊어졌다면! 톡스앤필에서~ 주름보톡스 받으세요~",
             "channel": "정콘TV",
-            "url": "https://www.youtube.com/watch?v=99xVjAkt1VA&pp=ygUn7ZmN64yA7Yah7Iqk7JWk7ZWE7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "45"
+            "url": "https://www.youtube.com/watch?v=99xVjAkt1VA&pp=ygUe7ZmN64yA7Yah7Iqk7JWk7ZWE7J2Y7JuQIEtvcmVh",
+            "view_text": "45 views"
           },
           {
-            "title": "예뻐지러 톡스앤필 가자! 보톡스, 필러, 윤곽주사, 리프팅은? 톡스앤필!",
-            "channel": "정콘TV",
-            "url": "https://www.youtube.com/watch?v=4U5x7U2_plw&pp=ygUn7ZmN64yA7Yah7Iqk7JWk7ZWE7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "47"
-          },
-          {
-            "title": "피부과 10년차가 말하는 받으면 호구되는 시술 3가지",
-            "channel": "소의튜브soytube",
-            "url": "https://www.youtube.com/watch?v=fiJ6_nrjt7A&pp=ygUn7ZmN64yA7Yah7Iqk7JWk7ZWE7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "1.4M"
-          },
-          {
-            "title": "마스크 속 피부관리 톡스앤필에서 트러블에서 벗어나세요~",
-            "channel": "정콘TV",
-            "url": "https://www.youtube.com/watch?v=sLQzLtjaHKI&pp=ygUn7ZmN64yA7Yah7Iqk7JWk7ZWE7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "44"
-          },
-          {
-            "title": "브이라인 얼굴 완성 파워거상 시술 영상 톡스앤필 천안불당점 불당동 피부과, 리프팅",
+            "title": "밋밋한 눈밑, 애교필러로 생기 있게 채워드립니다 😊 | 톡스앤필 강남본점",
             "channel": "톡스앤필 시술전후",
-            "url": "https://www.youtube.com/watch?v=FW2s-itKGzY&pp=ygUn7ZmN64yA7Yah7Iqk7JWk7ZWE7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "28"
-          },
-          {
-            "title": "비깡! 1일 1깡 미간주름! 팔자주름! 사각턱! 보톡스 필러는 톡스앤필",
-            "channel": "정콘TV",
-            "url": "https://www.youtube.com/watch?v=TpeYIhJK8u0&pp=ygUn7ZmN64yA7Yah7Iqk7JWk7ZWE7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "97"
-          },
-          {
-            "title": "종아리 알 안녕~ 종아리보톡스 톡스앤필 천안불당점 신불당 피부과, 보톡스",
-            "channel": "톡스앤필 시술전후",
-            "url": "https://www.youtube.com/watch?v=U0QfDtSghQM&pp=ygUn7ZmN64yA7Yah7Iqk7JWk7ZWE7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "49"
+            "url": "https://www.youtube.com/watch?v=x5zy7uQhwfk&pp=ygUe7ZmN64yA7Yah7Iqk7JWk7ZWE7J2Y7JuQIEtvcmVh",
+            "view_text": "12 views"
           }
         ]
       }
@@ -132,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

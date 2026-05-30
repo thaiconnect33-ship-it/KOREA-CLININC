@@ -1,130 +1,153 @@
 {
-  "generated_at": "2026-05-29T08:35:25.062Z",
-  "total_videos": 648,
-  "total_views": 55890,
+  "generated_at": "2026-05-30T04:16:09.984Z",
+  "total_videos": 855,
+  "total_views": 70193,
   "topics_searched": 25,
   "by_topic": {
     "Korean plastic surgery": {
-      "videos": 25,
-      "views": 2488
+      "videos": 40,
+      "views": 4724
     },
     "Korean double eyelid": {
       "videos": 23,
-      "views": 3696
+      "views": 2100
     },
     "Korean nose job": {
-      "videos": 25,
-      "views": 2466
+      "videos": 34,
+      "views": 2516
     },
     "Korean nose augmentation": {
-      "videos": 26,
-      "views": 1491
-    },
-    "Korean filler": {
-      "videos": 20,
-      "views": 1230
-    },
-    "Korean botox": {
-      "videos": 27,
-      "views": 2995
-    },
-    "Korean doctor": {
-      "videos": 25,
-      "views": 1032
-    },
-    "Korea trip face surgery": {
-      "videos": 20,
-      "views": 2277
-    },
-    "Korea beauty review": {
-      "videos": 20,
-      "views": 761
-    },
-    "Korean skin": {
-      "videos": 24,
-      "views": 2548
-    },
-    "Korean skincare": {
-      "videos": 20,
-      "views": 482
-    },
-    "K-beauty": {
-      "videos": 27,
-      "views": 1399
-    },
-    "Korean hair transplant": {
-      "videos": 31,
-      "views": 3573
-    },
-    "Korean liposuction": {
-      "videos": 27,
-      "views": 4145
-    },
-    "Korean weight loss": {
-      "videos": 20,
-      "views": 87
-    },
-    "Korean rejuran": {
-      "videos": 24,
-      "views": 1579
-    },
-    "Korean exosome": {
       "videos": 35,
-      "views": 7074
-    },
-    "Korean stem cell": {
-      "videos": 32,
-      "views": 5299
-    },
-    "Korean inmode": {
-      "videos": 26,
-      "views": 157
-    },
-    "Korean facelift": {
-      "videos": 32,
       "views": 1795
     },
-    "Gangnam plastic surgery": {
+    "Korean filler": {
+      "videos": 32,
+      "views": 1907
+    },
+    "Korean botox": {
+      "videos": 20,
+      "views": 1259
+    },
+    "Korean doctor": {
+      "videos": 36,
+      "views": 3126
+    },
+    "Korea trip face surgery": {
+      "videos": 40,
+      "views": 4290
+    },
+    "Korea beauty review": {
+      "videos": 35,
+      "views": 1322
+    },
+    "Korean skin": {
+      "videos": 38,
+      "views": 2722
+    },
+    "Korean skincare": {
+      "videos": 24,
+      "views": 499
+    },
+    "K-beauty": {
       "videos": 30,
-      "views": 6171
+      "views": 1671
+    },
+    "Korean hair transplant": {
+      "videos": 40,
+      "views": 4016
+    },
+    "Korean liposuction": {
+      "videos": 36,
+      "views": 4279
+    },
+    "Korean weight loss": {
+      "videos": 32,
+      "views": 144
+    },
+    "Korean rejuran": {
+      "videos": 32,
+      "views": 4504
+    },
+    "Korean exosome": {
+      "videos": 40,
+      "views": 7863
+    },
+    "Korean stem cell": {
+      "videos": 40,
+      "views": 6610
+    },
+    "Korean inmode": {
+      "videos": 29,
+      "views": 179
+    },
+    "Korean facelift": {
+      "videos": 37,
+      "views": 3789
+    },
+    "Gangnam plastic surgery": {
+      "videos": 40,
+      "views": 6336
     },
     "Apgujeong beauty": {
-      "videos": 20,
-      "views": 274
+      "videos": 29,
+      "views": 380
     },
     "Korea beauty trip": {
-      "videos": 29,
-      "views": 200
+      "videos": 39,
+      "views": 1208
     },
     "Korea selfie": {
-      "videos": 36,
-      "views": 2573
+      "videos": 40,
+      "views": 2797
     },
     "Korean makeup": {
-      "videos": 24,
-      "views": 98
+      "videos": 34,
+      "views": 157
     }
   },
   "top_channels": [
     {
       "channel": "gangnamclinic thailand",
       "videos": 12,
-      "total_views": 4717,
+      "total_views": 3914,
       "topics": [
         "Korean filler",
-        "Korean botox",
         "Korean rejuran",
         "Gangnam plastic surgery"
       ]
     },
     {
-      "channel": "Aey Surgery ศัลยกรรมเกาหลี",
-      "videos": 19,
-      "total_views": 2684,
+      "channel": "mayRai",
+      "videos": 3,
+      "total_views": 2424,
       "topics": [
         "Korean plastic surgery",
         "Korean nose job",
+        "Korea trip face surgery"
+      ]
+    },
+    {
+      "channel": "โรงพยาบาลศัลยกรรมวิว View plastic surgery",
+      "videos": 7,
+      "total_views": 2156,
+      "topics": [
+        "Korean plastic surgery",
+        "Korea beauty review",
+        "Korean liposuction",
+        "Korean stem cell"
+      ]
+    },
+    {
+      "channel": "Aey Surgery ศัลยกรรมเกาหลี",
+      "videos": 24,
+      "total_views": 2111,
+      "topics": [
+        "Korean plastic surgery",
+        "Korean nose job",
+        "Korean nose augmentation",
+        "Korean filler",
         "Korea trip face surgery",
+        "Korea beauty review",
         "Korean hair transplant",
         "Korean liposuction",
         "Korean stem cell"
@@ -140,6 +163,14 @@
       ]
     },
     {
+      "channel": "Bright TV",
+      "videos": 2,
+      "total_views": 1880,
+      "topics": [
+        "Korean doctor"
+      ]
+    },
+    {
       "channel": "น้องจิลลี่",
       "videos": 3,
       "total_views": 1765,
@@ -151,34 +182,17 @@
     },
     {
       "channel": "Exocell",
-      "videos": 4,
-      "total_views": 1748,
+      "videos": 5,
+      "total_views": 1580,
       "topics": [
         "Korean exosome",
         "Korean stem cell"
       ]
     },
     {
-      "channel": "Vdesign Hair by Dana",
-      "videos": 5,
-      "total_views": 1661,
-      "topics": [
-        "Korean hair transplant"
-      ]
-    },
-    {
-      "channel": "mayRai",
-      "videos": 2,
-      "total_views": 1614,
-      "topics": [
-        "Korean plastic surgery",
-        "Korea trip face surgery"
-      ]
-    },
-    {
       "channel": "Doctor DayDreamer",
-      "videos": 8,
-      "total_views": 1549,
+      "videos": 9,
+      "total_views": 1553,
       "topics": [
         "Korean rejuran",
         "Korean exosome",
@@ -186,20 +200,80 @@
       ]
     },
     {
+      "channel": "Lienjang ลีเอนจาง สาขาเกาหลี",
+      "videos": 7,
+      "total_views": 1548,
+      "topics": [
+        "Korean rejuran",
+        "Korean exosome",
+        "Korean facelift"
+      ]
+    },
+    {
+      "channel": "Queen Surgery",
+      "videos": 12,
+      "total_views": 1417,
+      "topics": [
+        "Korean plastic surgery",
+        "Korean nose job",
+        "Korea beauty review",
+        "Korean hair transplant",
+        "Korean liposuction",
+        "Korean stem cell",
+        "Korea beauty trip"
+      ]
+    },
+    {
+      "channel": "LINNA CLINIC",
+      "videos": 4,
+      "total_views": 1322,
+      "topics": [
+        "Korean rejuran",
+        "Korean exosome"
+      ]
+    },
+    {
       "channel": "รุจชวนคุย RujSuparuj หลุมสิวแผลเป็น Acne Scar",
-      "videos": 5,
-      "total_views": 1163,
+      "videos": 6,
+      "total_views": 1222,
       "topics": [
         "Korean exosome"
       ]
     },
     {
+      "channel": "Hora Clinic Saraburi",
+      "videos": 2,
+      "total_views": 1148,
+      "topics": [
+        "Korean hair transplant",
+        "Korean rejuran"
+      ]
+    },
+    {
+      "channel": "Vdesign Hair by Dana",
+      "videos": 4,
+      "total_views": 1085,
+      "topics": [
+        "Korean hair transplant"
+      ]
+    },
+    {
       "channel": "Han Clinic",
       "videos": 2,
-      "total_views": 1030,
+      "total_views": 1032,
       "topics": [
         "Korean nose job",
         "Korean nose augmentation"
+      ]
+    },
+    {
+      "channel": "KR Beauty",
+      "videos": 4,
+      "total_views": 983,
+      "topics": [
+        "Korea trip face surgery",
+        "K-beauty",
+        "Korean exosome"
       ]
     },
     {
@@ -219,20 +293,30 @@
       ]
     },
     {
-      "channel": "Bright TV",
-      "videos": 1,
-      "total_views": 939,
+      "channel": "โรงพยาบาลไอดี ID Hospital 🇰🇷",
+      "videos": 4,
+      "total_views": 947,
       "topics": [
-        "Korean doctor"
+        "Korean plastic surgery",
+        "Korea trip face surgery",
+        "Korean liposuction",
+        "Korean stem cell"
       ]
     },
     {
-      "channel": "Meko Hospital",
-      "videos": 4,
-      "total_views": 935,
+      "channel": "Minminjin_",
+      "videos": 1,
+      "total_views": 940,
       "topics": [
-        "Korean double eyelid",
-        "Korean rejuran"
+        "Korea trip face surgery"
+      ]
+    },
+    {
+      "channel": "KT. VISA Official",
+      "videos": 1,
+      "total_views": 934,
+      "topics": [
+        "Korea trip face surgery"
       ]
     },
     {
@@ -262,7 +346,7 @@
     {
       "channel": "Surgery Review เอเจนซี่ศัลยกรรมเกาหลี",
       "videos": 9,
-      "total_views": 880,
+      "total_views": 881,
       "topics": [
         "Korean plastic surgery",
         "Korean nose job",
@@ -273,25 +357,18 @@
       ]
     },
     {
-      "channel": "KR Beauty",
-      "videos": 2,
-      "total_views": 857,
-      "topics": [
-        "K-beauty"
-      ]
-    },
-    {
       "channel": "Pikaholic",
-      "videos": 1,
-      "total_views": 846,
+      "videos": 2,
+      "total_views": 848,
       "topics": [
+        "Korean plastic surgery",
         "Korean liposuction"
       ]
     },
     {
       "channel": "Jairuk Beauty Channel",
       "videos": 3,
-      "total_views": 841,
+      "total_views": 843,
       "topics": [
         "Korean skin",
         "Korean skincare",
@@ -299,21 +376,28 @@
       ]
     },
     {
-      "channel": "ศัลยกรรมเกาหลี KSST beauty in seoul",
-      "videos": 2,
-      "total_views": 825,
+      "channel": "GrandPlasticSurgery_Thailand",
+      "videos": 5,
+      "total_views": 836,
       "topics": [
-        "Korean nose augmentation",
-        "Korean skin"
+        "Gangnam plastic surgery"
       ]
     },
     {
-      "channel": "Soobin Onni 수빈언니",
+      "channel": "meenamalist",
       "videos": 2,
-      "total_views": 813,
+      "total_views": 832,
       "topics": [
-        "Korean double eyelid",
-        "Korea trip face surgery"
+        "Korean liposuction",
+        "Korean rejuran"
+      ]
+    },
+    {
+      "channel": "AM Clinic",
+      "videos": 6,
+      "total_views": 796,
+      "topics": [
+        "Korean liposuction"
       ]
     },
     {
@@ -325,6 +409,15 @@
       ]
     },
     {
+      "channel": "SLC Clinics & Hospital",
+      "videos": 2,
+      "total_views": 752,
+      "topics": [
+        "Korean nose job",
+        "Korean nose augmentation"
+      ]
+    },
+    {
       "channel": "Rattinan Clinic",
       "videos": 1,
       "total_views": 741,
@@ -333,12 +426,11 @@
       ]
     },
     {
-      "channel": "LINNA CLINIC",
-      "videos": 3,
-      "total_views": 733,
+      "channel": "Doctor Tony Clinic",
+      "videos": 2,
+      "total_views": 726,
       "topics": [
-        "Korean rejuran",
-        "Korean exosome"
+        "Korean rejuran"
       ]
     },
     {
@@ -350,21 +442,11 @@
       ]
     },
     {
-      "channel": "โรงพยาบาลศัลยกรรมวิว View plastic surgery",
-      "videos": 3,
-      "total_views": 708,
-      "topics": [
-        "Korean plastic surgery",
-        "Korean liposuction",
-        "Korean stem cell"
-      ]
-    },
-    {
-      "channel": "วินเซนต์ คลินิก (Vincent Clinic)",
+      "channel": "Dr. PAUL Hair Clinic",
       "videos": 1,
-      "total_views": 701,
+      "total_views": 710,
       "topics": [
-        "Korean double eyelid"
+        "Korean plastic surgery"
       ]
     },
     {
@@ -378,7 +460,7 @@
     {
       "channel": "Always AOM",
       "videos": 1,
-      "total_views": 693,
+      "total_views": 696,
       "topics": [
         "Korea beauty review"
       ]
@@ -392,39 +474,52 @@
       ]
     },
     {
-      "channel": "GrandPlasticSurgery_Thailand",
-      "videos": 5,
-      "total_views": 618,
-      "topics": [
-        "Gangnam plastic surgery"
-      ]
-    },
-    {
-      "channel": "Hairsmith Clinic",
+      "channel": "The Gate Clinic",
       "videos": 1,
-      "total_views": 615,
+      "total_views": 666,
       "topics": [
-        "Korean hair transplant"
+        "Korean facelift"
       ]
     },
     {
-      "channel": "Queen Surgery",
-      "videos": 8,
-      "total_views": 611,
+      "channel": "คนไกลบ้าน",
+      "videos": 1,
+      "total_views": 600,
       "topics": [
-        "Korean plastic surgery",
-        "Korean botox",
-        "Korea beauty review",
-        "Korean stem cell",
+        "Korean doctor"
+      ]
+    },
+    {
+      "channel": "My blog my life",
+      "videos": 1,
+      "total_views": 587,
+      "topics": [
         "Korea beauty trip"
       ]
     },
     {
       "channel": "โรงพยาบาลกรุงเทพสิริโรจน์ Bangkok Hospital Siriroj",
       "videos": 1,
-      "total_views": 550,
+      "total_views": 551,
       "topics": [
         "Korean double eyelid"
+      ]
+    },
+    {
+      "channel": "PPTV HD 36",
+      "videos": 1,
+      "total_views": 531,
+      "topics": [
+        "Korean doctor"
+      ]
+    },
+    {
+      "channel": "Talk with พี่หมอหนึ่ง",
+      "videos": 2,
+      "total_views": 523,
+      "topics": [
+        "Korean stem cell",
+        "Korean facelift"
       ]
     },
     {
@@ -444,109 +539,26 @@
       ]
     },
     {
-      "channel": "Thairath News - ข่าวไทยรัฐ",
+      "channel": "Soobin Onni 수빈언니",
       "videos": 1,
-      "total_views": 507,
+      "total_views": 492,
       "topics": [
-        "Korea selfie"
+        "Korean double eyelid"
       ]
     },
     {
-      "channel": "พี่กลาง หอสมุดแห่งชาติ",
+      "channel": "My Thai Websites",
       "videos": 1,
-      "total_views": 501,
+      "total_views": 486,
       "topics": [
-        "Korean botox"
-      ]
-    },
-    {
-      "channel": "The Face Aesthetic",
-      "videos": 1,
-      "total_views": 478,
-      "topics": [
-        "Korean exosome"
-      ]
-    },
-    {
-      "channel": "Sowon Clinic Channel",
-      "videos": 3,
-      "total_views": 467,
-      "topics": [
-        "Korean nose job",
-        "Korean nose augmentation"
-      ]
-    },
-    {
-      "channel": "Lienjang ลีเอนจาง สาขาเกาหลี",
-      "videos": 4,
-      "total_views": 467,
-      "topics": [
-        "Korean exosome",
-        "Korean facelift"
-      ]
-    },
-    {
-      "channel": "AnNaYong안나영",
-      "videos": 1,
-      "total_views": 432,
-      "topics": [
-        "Gangnam plastic surgery"
-      ]
-    },
-    {
-      "channel": "Victory M Clinic",
-      "videos": 3,
-      "total_views": 429,
-      "topics": [
-        "Korean rejuran",
-        "Korean exosome"
-      ]
-    },
-    {
-      "channel": "Talk with พี่หมอหนึ่ง",
-      "videos": 1,
-      "total_views": 421,
-      "topics": [
-        "Korean stem cell"
-      ]
-    },
-    {
-      "channel": "SKIN AGEM",
-      "videos": 3,
-      "total_views": 410,
-      "topics": [
-        "Korean stem cell"
-      ]
-    },
-    {
-      "channel": "Dreamclinicth",
-      "videos": 3,
-      "total_views": 389,
-      "topics": [
-        "Korean liposuction"
-      ]
-    },
-    {
-      "channel": "Dr. PLOY Roongnapa Clinic หมอพลอยไขข้อข้องใจ",
-      "videos": 1,
-      "total_views": 377,
-      "topics": [
-        "Korean rejuran"
-      ]
-    },
-    {
-      "channel": "Ve’anna Clinic",
-      "videos": 1,
-      "total_views": 344,
-      "topics": [
-        "Korean rejuran"
+        "K-beauty"
       ]
     }
   ],
   "clinic_mentions": [
     {
       "name": "Lienjang",
-      "mention_count": 5,
+      "mention_count": 9,
       "samples": [
         {
           "url": "https://www.youtube.com/watch?v=3rCDSFSeqtg&pp=ygUq4LmC4Lia4LiX4LmH4Lit4LiB4LiL4LmM4LmA4LiB4Liy4Lir4Lil4Li1",
@@ -555,39 +567,51 @@
           "channel": "เที่ยวกับมิน Travelwithmin"
         },
         {
+          "url": "https://www.youtube.com/watch?v=ypE3uCwnIDI&pp=ygUb4Lic4Li04Lin4LmA4LiB4Liy4Lir4Lil4Li1",
+          "snippet": "ทัวร์โรงพยาบาล Lienjang คลินิกทำผิวที่ใหญ่ที่สุดของเกาหลี | Beauty Surgery Beauty Surgery",
+          "views": 4,
+          "channel": "Beauty Surgery"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=fSChRAeW1IE&pp=ygUn4Lij4Li14LiI4Li54Lij4Lix4LiZ4LmA4LiB4Liy4Lir4Lil4Li1",
+          "snippet": "หนุ่มหน้ามนคนเกาหลี มาดูแลผิวที่ลีเอนจางเมียงดง กับเอ็กโซโซมตัวดัง Lienjang ลีเอนจาง สาขาเกาหลี",
+          "views": 129,
+          "channel": "Lienjang ลีเอนจาง สาขาเกาหลี"
+        },
+        {
           "url": "https://www.youtube.com/watch?v=fSChRAeW1IE&pp=ygUt4LmA4Lit4LmH4LiB4LmC4LiL4LmC4LiL4Lih4LmA4LiB4Liy4Lir4Lil4Li1",
           "snippet": "หนุ่มหน้ามนคนเกาหลี มาดูแลผิวที่ลีเอนจางเมียงดง กับเอ็กโซโซมตัวดัง Lienjang ลีเอนจาง สาขาเกาหลี",
           "views": 129,
           "channel": "Lienjang ลีเอนจาง สาขาเกาหลี"
         },
         {
-          "url": "https://www.youtube.com/watch?v=Gvznme4Edso&pp=ygUt4LmA4Lit4LmH4LiB4LmC4LiL4LmC4LiL4Lih4LmA4LiB4Liy4Lir4Lil4Li10gcJCSMLAYcqIYzv",
+          "url": "https://www.youtube.com/watch?v=Gvznme4Edso&pp=ygUt4LmA4Lit4LmH4LiB4LmC4LiL4LmC4LiL4Lih4LmA4LiB4Liy4Lir4Lil4Li1",
           "snippet": "วงการนี้เข้าแล้วออกจากจริงๆค่ะ!😂กู้ผิวเสีย ให้สวยใสต้อง #เอ็กโซโซม !! Lienjang ลีเอนจาง สาขาเกาหลี",
           "views": 75,
-          "channel": "Lienjang ลีเอนจาง สาขาเกาหลี"
-        },
-        {
-          "url": "https://www.youtube.com/watch?v=IgdQF-iZwj8&pp=ygUt4LmA4Lit4LmH4LiB4LmC4LiL4LmC4LiL4Lih4LmA4LiB4Liy4Lir4Lil4Li1",
-          "snippet": "โปรโมชั่น! เอ็กโซโซม ราคาพิเศษ 179,000 วอน จากปกติ 230,000 วอน ภายในวันที่ 1-31 สิงหาคม 2023เท่านั้น Lienjang ลีเอนจาง สาขาเกาหลี",
-          "views": 131,
-          "channel": "Lienjang ลีเอนจาง สาขาเกาหลี"
-        },
-        {
-          "url": "https://www.youtube.com/watch?v=RJwdz8tHHM0&pp=ygUt4Lil4Li04Lif4LiV4LmM4Lir4LiZ4LmJ4Liy4LmA4LiB4Liy4Lir4Lil4Li1",
-          "snippet": "มาถึงเกาหลีแล้ว ก็ต้องมาทำสวยป้ะแก!! Lienjang ลีเอนจาง สาขาเกาหลี",
-          "views": 132,
           "channel": "Lienjang ลีเอนจาง สาขาเกาหลี"
         }
       ]
     },
     {
       "name": "Banobagi",
-      "mention_count": 1,
+      "mention_count": 3,
       "samples": [
         {
-          "url": "https://www.youtube.com/watch?v=eA9QM2nRya8&pp=ygUk4Lib4Lil4Li54LiB4Lic4Lih4LmA4LiB4Liy4Lir4Lil4Li1",
+          "url": "https://www.youtube.com/watch?v=eA9QM2nRya8&pp=ygUk4Lib4Lil4Li54LiB4Lic4Lih4LmA4LiB4Liy4Lir4Lil4Li10gcJCSMLAYcqIYzv",
           "snippet": "ปลูกผมที่โรงพยาบาลเกาหลี บาโนบากิ กับ พี่ม้า อรนภา! BANOBAGI Hair Transplant Thai BANOBAGI",
           "views": 2,
+          "channel": "Thai BANOBAGI"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=0u48s3B_XOs&pp=ygUk4Lib4Lil4Li54LiB4Lic4Lih4LmA4LiB4Liy4Lir4Lil4Li1",
+          "snippet": "หัวล้าน ผมน้อย มาปลูกผมที่ โรงพยาบาลเกาหลี บาโนบากิกัน! Thai BANOBAGI",
+          "views": 283,
+          "channel": "Thai BANOBAGI"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=zgEikZQil0I&pp=ygUx4Liq4LmA4LiV4LmH4LihIOC5gOC4i-C4peC4peC5jOC5gOC4geC4suC4q-C4peC4tQ%3D%3D",
+          "snippet": "ฉีดไขมันหน้าเด็ก VS ฉีดไขมันพร้อมสเต็มเซลล์ แบบไหนดีกว่ากัน ?!?🤔 Thai BANOBAGI",
+          "views": 86,
           "channel": "Thai BANOBAGI"
         }
       ]
@@ -597,7 +621,7 @@
       "mention_count": 1,
       "samples": [
         {
-          "url": "https://www.youtube.com/watch?v=EqTPAWD24-o&pp=ygUt4Liq4LmB4LiV4Lih4LmA4LiL4Lil4Lil4LmM4LmA4LiB4Liy4Lir4Lil4Li1",
+          "url": "https://www.youtube.com/watch?v=EqTPAWD24-o&pp=ygUx4Liq4LmA4LiV4LmH4LihIOC5gOC4i-C4peC4peC5jOC5gOC4geC4suC4q-C4peC4tQ%3D%3D",
           "snippet": "Ruby Cell สเต็มเซลล์จากเกาหลี ยกกระชับ ผิวสวย หน้าใส อ่อนวัย ปลอดภัย Manoon Khongmuang",
           "views": 1,
           "channel": "Manoon Khongmuang"
@@ -656,9 +680,36 @@
       "topic_th": "หมอเกาหลี",
       "title": "สบส. รวบ หมอเกาหลีเถื่อน คาโรงแรม! จัดอีเวนต์รับปรึกษาศัลยกรรม ยันมีความผิด-จ่อผลักดันออกนอกประเทศ",
       "channel": "Bright TV",
-      "view_text": "การดู 939 ครั้ง",
-      "views": 939,
+      "view_text": "การดู 940 ครั้ง",
+      "views": 940,
       "url": "https://www.youtube.com/watch?v=oDQ42Ls6IYE&pp=ygUb4Lir4Lih4Lit4LmA4LiB4Liy4Lir4Lil4Li1"
+    },
+    {
+      "topic": "Korean doctor",
+      "topic_th": "หมอเกาหลี",
+      "title": "สบส. รวบ หมอเกาหลีเถื่อน คาโรงแรม! จัดอีเวนต์รับปรึกษาศัลยกรรม ยันมีความผิด-จ่อผลักดันออกนอกประเทศ",
+      "channel": "Bright TV",
+      "view_text": "การดู 940 ครั้ง",
+      "views": 940,
+      "url": "https://www.youtube.com/watch?v=oDQ42Ls6IYE&pp=ygUb4Lir4Lih4Lit4LmA4LiB4Liy4Lir4Lil4Li1"
+    },
+    {
+      "topic": "Korea trip face surgery",
+      "topic_th": "ไปเกาหลีทำหน้า",
+      "title": "ทำหน้าที่เกาหลี หน้าเรียว เหนียงหายจริงมั้ย? #PPEUMCLINIC",
+      "channel": "Minminjin_",
+      "view_text": "การดู 940 ครั้ง",
+      "views": 940,
+      "url": "https://www.youtube.com/watch?v=zLJ1vvjpXic&pp=ygUq4LmE4Lib4LmA4LiB4Liy4Lir4Lil4Li14LiX4Liz4Lir4LiZ4LmJ4Liy"
+    },
+    {
+      "topic": "Korea trip face surgery",
+      "topic_th": "ไปเกาหลีทำหน้า",
+      "title": "[สัมภาษณ์] ไปทำศัลยกรรมที่เกาหลีต้องยื่นวีซ่าอะไร !! [ KT.VISA ]",
+      "channel": "KT. VISA Official",
+      "view_text": "การดู 934 ครั้ง",
+      "views": 934,
+      "url": "https://www.youtube.com/watch?v=4nKscwbTddk&pp=ygUq4LmE4Lib4LmA4LiB4Liy4Lir4Lil4Li14LiX4Liz4Lir4LiZ4LmJ4Liy"
     },
     {
       "topic": "Gangnam plastic surgery",
@@ -670,13 +721,22 @@
       "url": "https://www.youtube.com/watch?v=vugBFzOrDE4&pp=ygUr4LiB4Lix4LiH4LiZ4Lix4LihIOC4qOC4seC4peC4ouC4geC4o-C4o-C4oQ%3D%3D"
     },
     {
-      "topic": "Korean double eyelid",
-      "topic_th": "ทำตาสองชั้นเกาหลี",
-      "title": "โต๊ะศัลย์ Someko | EP.7 | ทำตาสองชั้นควรทำอะไรบ้าง ? หมอเป็นหนึ่งมีคำตอบ !",
-      "channel": "Meko Hospital",
-      "view_text": "การดู 923 ครั้ง",
-      "views": 923,
-      "url": "https://www.youtube.com/watch?v=0XYiW9Xl0SM&pp=ygUz4LiX4Liz4LiV4Liy4Liq4Lit4LiH4LiK4Lix4LmJ4LiZ4LmA4LiB4Liy4Lir4Lil4Li1"
+      "topic": "Korean stem cell",
+      "topic_th": "สแตมเซลล์เกาหลี",
+      "title": "มาแรงไม่หยุดกับโปรแกรมฉีดสเต็มเซลล์ไขมัน at VIEW | Interview",
+      "channel": "โรงพยาบาลศัลยกรรมวิว View plastic surgery",
+      "view_text": "การดู 926 ครั้ง",
+      "views": 926,
+      "url": "https://www.youtube.com/watch?v=R7Mlf_VU4jM&pp=ygUx4Liq4LmA4LiV4LmH4LihIOC5gOC4i-C4peC4peC5jOC5gOC4geC4suC4q-C4peC4tQ%3D%3D"
+    },
+    {
+      "topic": "Korean plastic surgery",
+      "topic_th": "ศัลยกรรมเกาหลี",
+      "title": "รีวิวเสริมหน้าอก ศัลยกรรมเกาหลีที่โรงพยาบาลไอดี Breast Cosmetic Surgery Review",
+      "channel": "โรงพยาบาลไอดี ID Hospital 🇰🇷",
+      "view_text": "การดู 921 ครั้ง",
+      "views": 921,
+      "url": "https://www.youtube.com/watch?v=pFcjhVHsTJc&pp=ygUq4Lio4Lix4Lil4Lii4LiB4Lij4Lij4Lih4LmA4LiB4Liy4Lir4Lil4Li1"
     },
     {
       "topic": "Korea selfie",
@@ -706,6 +766,15 @@
       "url": "https://www.youtube.com/watch?v=33tZCAwtx3M&pp=ygUr4LiB4Lix4LiH4LiZ4Lix4LihIOC4qOC4seC4peC4ouC4geC4o-C4o-C4oQ%3D%3D"
     },
     {
+      "topic": "Korean facelift",
+      "topic_th": "ลิฟต์หน้าเกาหลี",
+      "title": "💞 ฉีดฟิลเลอร์เพิ่มวอลลุ่ม เปลี่ยนจนทุกคนงงทำไมอยู่ๆ 🍬สวยขึ้นขนาดนี้!!",
+      "channel": "Lienjang ลีเอนจาง สาขาเกาหลี",
+      "view_text": "การดู 860 ครั้ง",
+      "views": 860,
+      "url": "https://www.youtube.com/watch?v=_ymAGMmiIhc&pp=ygUt4Lil4Li04Lif4LiV4LmM4Lir4LiZ4LmJ4Liy4LmA4LiB4Liy4Lir4Lil4Li1"
+    },
+    {
       "topic": "Korean liposuction",
       "topic_th": "ดูดไขมันเกาหลี",
       "title": "รีวิวศัลยกรรมเกาหลี ดูดไขมันหน้า ที่โรงพยาบาล EPIC Plastic Surgery",
@@ -713,6 +782,15 @@
       "view_text": "การดู 846 ครั้ง",
       "views": 846,
       "url": "https://www.youtube.com/watch?v=tF60daIB2AI&pp=ygUq4LiU4Li54LiU4LmE4LiC4Lih4Lix4LiZ4LmA4LiB4Liy4Lir4Lil4Li1"
+    },
+    {
+      "topic": "Korean rejuran",
+      "topic_th": "รีจูรันเกาหลี",
+      "title": "รีวิวฉีด REJURAN ผิวGlass skin สายเกาหลี สวยฉ่ำจริง ไม่จกตา #rejuran",
+      "channel": "meenamalist",
+      "view_text": "การดู 830 ครั้ง",
+      "views": 830,
+      "url": "https://www.youtube.com/watch?v=UjEO1MnW_pI&pp=ygUn4Lij4Li14LiI4Li54Lij4Lix4LiZ4LmA4LiB4Liy4Lir4Lil4Li1"
     },
     {
       "topic": "Korean exosome",
@@ -724,6 +802,15 @@
       "url": "https://www.youtube.com/watch?v=l6fdW9wUEk4&pp=ygUt4LmA4Lit4LmH4LiB4LmC4LiL4LmC4LiL4Lih4LmA4LiB4Liy4Lir4Lil4Li1"
     },
     {
+      "topic": "K-beauty",
+      "topic_th": "เคบิวตี้",
+      "title": "KR Beauty (เคอาร์ บิวตี้) ศัลยกรรมในเกาหลีที่คนไทย \"ไว้ใจมากที่สุด\" [KR Beauty]",
+      "channel": "KR Beauty",
+      "view_text": "การดู 814 ครั้ง",
+      "views": 814,
+      "url": "https://www.youtube.com/watch?v=ETZpvhEpYCw&pp=ygUY4LmA4LiE4Lia4Li04Lin4LiV4Li14LmJ"
+    },
+    {
       "topic": "Korean filler",
       "topic_th": "ฟิลเลอร์เกาหลี",
       "title": "“Botox” vs “Filler” ต่างกันยังไง? ทดแทนกันได้ไหม? ปัญหาแบบไหนควรฉีด?",
@@ -731,15 +818,6 @@
       "view_text": "การดู 809 ครั้ง",
       "views": 809,
       "url": "https://www.youtube.com/watch?v=J1BVBSdY1SE&pp=ygUq4Lif4Li04Lil4LmA4Lil4Lit4Lij4LmM4LmA4LiB4Liy4Lir4Lil4Li1"
-    },
-    {
-      "topic": "Korean botox",
-      "topic_th": "โบท็อกซ์เกาหลี",
-      "title": "“Botox” vs “Filler” ต่างกันยังไง? ทดแทนกันได้ไหม? ปัญหาแบบไหนควรฉีด?",
-      "channel": "gangnamclinic thailand",
-      "view_text": "การดู 809 ครั้ง",
-      "views": 809,
-      "url": "https://www.youtube.com/watch?v=J1BVBSdY1SE&pp=ygUq4LmC4Lia4LiX4LmH4Lit4LiB4LiL4LmM4LmA4LiB4Liy4Lir4Lil4Li1"
     },
     {
       "topic": "Gangnam plastic surgery",
@@ -751,31 +829,40 @@
       "url": "https://www.youtube.com/watch?v=J1BVBSdY1SE&pp=ygUr4LiB4Lix4LiH4LiZ4Lix4LihIOC4qOC4seC4peC4ouC4geC4o-C4o-C4oQ%3D%3D"
     },
     {
-      "topic": "K-beauty",
-      "topic_th": "เคบิวตี้",
-      "title": "KR Beauty (เคอาร์ บิวตี้) ศัลยกรรมในเกาหลีที่คนไทย \"ไว้ใจมากที่สุด\" [KR Beauty]",
-      "channel": "KR Beauty",
-      "view_text": "การดู 808 ครั้ง",
-      "views": 808,
-      "url": "https://www.youtube.com/watch?v=ETZpvhEpYCw&pp=ygUY4LmA4LiE4Lia4Li04Lin4LiV4Li14LmJ0gcJCSMLAYcqIYzv"
-    },
-    {
       "topic": "Korean plastic surgery",
       "topic_th": "ศัลยกรรมเกาหลี",
       "title": "🇰🇷🩸💉🩺รีวิวศัลยกรรมเกาหลีครั้งแรก ทำอะไรมาบ้าง | Vlog plastic surgery in korea | mayRai",
       "channel": "mayRai",
-      "view_text": "การดู 807 ครั้ง",
-      "views": 807,
+      "view_text": "การดู 808 ครั้ง",
+      "views": 808,
       "url": "https://www.youtube.com/watch?v=S_xD6DUeFyc&pp=ygUq4Lio4Lix4Lil4Lii4LiB4Lij4Lij4Lih4LmA4LiB4Liy4Lir4Lil4Li1"
+    },
+    {
+      "topic": "Korean nose job",
+      "topic_th": "ทำจมูกเกาหลี",
+      "title": "🇰🇷🩸💉🩺รีวิวศัลยกรรมเกาหลีครั้งแรก ทำอะไรมาบ้าง | Vlog plastic surgery in korea | mayRai",
+      "channel": "mayRai",
+      "view_text": "การดู 808 ครั้ง",
+      "views": 808,
+      "url": "https://www.youtube.com/watch?v=S_xD6DUeFyc&pp=ygUk4LiX4Liz4LiI4Lih4Li54LiB4LmA4LiB4Liy4Lir4Lil4Li1"
     },
     {
       "topic": "Korea trip face surgery",
       "topic_th": "ไปเกาหลีทำหน้า",
       "title": "🇰🇷🩸💉🩺รีวิวศัลยกรรมเกาหลีครั้งแรก ทำอะไรมาบ้าง | Vlog plastic surgery in korea | mayRai",
       "channel": "mayRai",
-      "view_text": "การดู 807 ครั้ง",
-      "views": 807,
+      "view_text": "การดู 808 ครั้ง",
+      "views": 808,
       "url": "https://www.youtube.com/watch?v=S_xD6DUeFyc&pp=ygUq4LmE4Lib4LmA4LiB4Liy4Lir4Lil4Li14LiX4Liz4Lir4LiZ4LmJ4Liy"
+    },
+    {
+      "topic": "Korean rejuran",
+      "topic_th": "รีจูรันเกาหลี",
+      "title": "รีจูรัน (Rejuran) คืออะไร อยากหน้าใสผิวฉ่ำวาวแบบหนุ่มสาวเกาหลี ต้องดูคลิปนี้!",
+      "channel": "Hora Clinic Saraburi",
+      "view_text": "การดู 791 ครั้ง",
+      "views": 791,
+      "url": "https://www.youtube.com/watch?v=23T9Q6Rm9hY&pp=ygUn4Lij4Li14LiI4Li54Lij4Lix4LiZ4LmA4LiB4Liy4Lir4Lil4Li1"
     },
     {
       "topic": "Korean exosome",
@@ -787,21 +874,12 @@
       "url": "https://www.youtube.com/watch?v=dFGgIwm53m4&pp=ygUt4LmA4Lit4LmH4LiB4LmC4LiL4LmC4LiL4Lih4LmA4LiB4Liy4Lir4Lil4Li1"
     },
     {
-      "topic": "Korean nose job",
-      "topic_th": "ทำจมูกเกาหลี",
-      "title": "แนะนำคุณหมอ lee seung jah ✨ผู้เชี่ยวชาญศัลยกรรมจมูก พร้อมตอบ5 คำถามเกี่ยวกับการทำจมูก!!",
-      "channel": "Aey Surgery ศัลยกรรมเกาหลี",
-      "view_text": "การดู 784 ครั้ง",
-      "views": 784,
-      "url": "https://www.youtube.com/watch?v=tl8XADz7iMU&pp=ygUk4LiX4Liz4LiI4Lih4Li54LiB4LmA4LiB4Liy4Lir4Lil4Li1"
-    },
-    {
       "topic": "Korean exosome",
       "topic_th": "เอ็กโซโซมเกาหลี",
       "title": "รีวิว ฉีด EXOSOME ที่เกาหลี ไม่ต้องจิ้มเยอะ แต่ได้เซลล์เยอะ ของ EXOCELL ที่กังนัม ชินซา",
       "channel": "Exocell",
-      "view_text": "การดู 759 ครั้ง",
-      "views": 759,
+      "view_text": "การดู 760 ครั้ง",
+      "views": 760,
       "url": "https://www.youtube.com/watch?v=Thu4iRGIfcY&pp=ygUt4LmA4Lit4LmH4LiB4LmC4LiL4LmC4LiL4Lih4LmA4LiB4Liy4Lir4Lil4Li1"
     },
     {
@@ -809,8 +887,8 @@
       "topic_th": "สแตมเซลล์เกาหลี",
       "title": "รีวิว ฉีด EXOSOME ที่เกาหลี ไม่ต้องจิ้มเยอะ แต่ได้เซลล์เยอะ ของ EXOCELL ที่กังนัม ชินซา",
       "channel": "Exocell",
-      "view_text": "การดู 759 ครั้ง",
-      "views": 759,
+      "view_text": "การดู 760 ครั้ง",
+      "views": 760,
       "url": "https://www.youtube.com/watch?v=Thu4iRGIfcY&pp=ygUt4Liq4LmB4LiV4Lih4LmA4LiL4Lil4Lil4LmM4LmA4LiB4Liy4Lir4Lil4Li1"
     },
     {
@@ -821,60 +899,6 @@
       "view_text": "การดู 741 ครั้ง",
       "views": 741,
       "url": "https://www.youtube.com/watch?v=tA5QEykmyfs&pp=ygUt4LmA4Lit4LmH4LiB4LmC4LiL4LmC4LiL4Lih4LmA4LiB4Liy4Lir4Lil4Li1"
-    },
-    {
-      "topic": "Gangnam plastic surgery",
-      "topic_th": "กังนัม ศัลยกรรม",
-      "title": "หมดปัญหากรามใหญ่ หันมาให้โบท็อกซ์ช่วยสิคะ : สวยไม่ต้องศัลย์กับกังนัมคลินิก SS7",
-      "channel": "gangnamclinic thailand",
-      "view_text": "การดู 734 ครั้ง",
-      "views": 734,
-      "url": "https://www.youtube.com/watch?v=LPFriWmNVv8&pp=ygUr4LiB4Lix4LiH4LiZ4Lix4LihIOC4qOC4seC4peC4ouC4geC4o-C4o-C4oQ%3D%3D"
-    },
-    {
-      "topic": "Korean stem cell",
-      "topic_th": "สแตมเซลล์เกาหลี",
-      "title": "Review: เอสเซ้นส์บำรุงผิวจากสเต็มเซลล์โสมเกาหลี Bare That Face | Orangina Beauty",
-      "channel": "Beauty By Orangina",
-      "view_text": "การดู 712 ครั้ง",
-      "views": 712,
-      "url": "https://www.youtube.com/watch?v=HsjONOrBt6s&pp=ygUx4Liq4LmA4LiV4LmH4LihIOC5gOC4i-C4peC4peC5jOC5gOC4geC4suC4q-C4peC4tQ%3D%3D"
-    },
-    {
-      "topic": "Korean double eyelid",
-      "topic_th": "ทำตาสองชั้นเกาหลี",
-      "title": "ทำตาสองชั้น! แก้ปัญหากล้ามเนื้อตาอ่อนแรงด้วยเทคนิค  𝐘𝐨𝐮𝐭𝐡 𝐋𝐨𝐜𝐤",
-      "channel": "วินเซนต์ คลินิก (Vincent Clinic)",
-      "view_text": "การดู 701 ครั้ง",
-      "views": 701,
-      "url": "https://www.youtube.com/watch?v=XIle3Suptj4&pp=ygUz4LiX4Liz4LiV4Liy4Liq4Lit4LiH4LiK4Lix4LmJ4LiZ4LmA4LiB4Liy4Lir4Lil4Li1"
-    },
-    {
-      "topic": "Korean nose job",
-      "topic_th": "ทำจมูกเกาหลี",
-      "title": "ดูให้จบ!ก่อนไปทำจมูกที่เกาหลี รีวิวจริงแบบละเอียดยิบ  I The Ideal Surgery",
-      "channel": "The Pondest",
-      "view_text": "การดู 700 ครั้ง",
-      "views": 700,
-      "url": "https://www.youtube.com/watch?v=7WmGZv2VIzI&pp=ygUk4LiX4Liz4LiI4Lih4Li54LiB4LmA4LiB4Liy4Lir4Lil4Li10gcJCSMLAYcqIYzv"
-    },
-    {
-      "topic": "Korea beauty review",
-      "topic_th": "รีวิวเกาหลี ความงาม",
-      "title": "Korea Haul EP.1 🇰🇷🎀 What I got from Olive Young ไปเกาหลีซื้ออะไรกลับมาบ้าง (สกินแคร์ เมคอัพ)",
-      "channel": "Always AOM",
-      "view_text": "การดู 693 ครั้ง",
-      "views": 693,
-      "url": "https://www.youtube.com/watch?v=-gFrcmU1XZ4&pp=ygU34Lij4Li14Lin4Li04Lin4LmA4LiB4Liy4Lir4Lil4Li1IOC4hOC4p-C4suC4oeC4h-C4suC4odIHCQkjCwGHKiGM7w%3D%3D"
-    },
-    {
-      "topic": "Korean botox",
-      "topic_th": "โบท็อกซ์เกาหลี",
-      "title": "🎯𝐁𝐎𝐓𝐎𝐗 ของคนงบน้อย️‼️เลือกยี่ห้อไหนดีที่สุด💥",
-      "channel": "IDL Clinic",
-      "view_text": "การดู 677 ครั้ง",
-      "views": 677,
-      "url": "https://www.youtube.com/watch?v=ZHDXwXm2DEQ&pp=ygUq4LmC4Lia4LiX4LmH4Lit4LiB4LiL4LmM4LmA4LiB4Liy4Lir4Lil4Li1"
     }
   ]
 }

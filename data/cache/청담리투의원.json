@@ -1,16 +1,18 @@
 {
   "query": "청담리투의원",
-  "generated_at": "2026-05-28T22:26:15.103Z",
+  "generated_at": "2026-05-29T11:02:58.238Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 1375,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "1794122167",
+        "name": "청담리투의원 : 네이버\u001c",
+        "visitor_review_count": 216,
+        "blog_review_count": 1159,
+        "detail_url": "https://m.place.naver.com/place/1794122167/home"
       }
     },
     "google_maps": {
@@ -43,78 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 20,
+      "metric_value": 19,
       "extra": {
-        "total_views": 671427,
+        "total_views": 41204,
         "foreign_video_count": 0,
         "lang_breakdown": {
-          "korean": 20,
+          "korean": 19,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
           "english_other": 0
         },
-        "sample_size": 20,
+        "sample_size": 19,
         "top_videos": [
           {
-            "title": "🤦‍♀️피코토닝 효과 없었던 분들 보세요! #피코토닝 제대로 받는 방법을 알려드립니다.",
+            "title": "청담리투클리닉이 자체 개발 기술력을 인증받아 '특허' 받은 신개념 리프팅 솔루션 \"히트뷰(HeatView™)\"를 드디어 공개합니다. (feat. 튠페이스, 티타늄리프팅)",
             "channel": "닥터 김재림",
-            "url": "https://www.youtube.com/watch?v=Gpz-B8997To&pp=ygUn7LKt64u066as7Yis7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "5K views"
+            "url": "https://www.youtube.com/watch?v=mBWTPQOaSVk&pp=ygUY7LKt64u066as7Yis7J2Y7JuQIEtvcmVh",
+            "view_text": "5.9K views"
           },
           {
-            "title": "“비싼 울쎄라, 써마지 받아도 얼굴 다시 처집니다” 요즘 연예인들이 받는 가성비 시술을 20년차 피부과 전문의가 알려드립니다.",
-            "channel": "피부는 성현철",
-            "url": "https://www.youtube.com/watch?v=P-ooK3XIcKM&pp=ygUn7LKt64u066as7Yis7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "344K views"
-          },
-          {
-            "title": "5일 안에 예뻐지는 피부과 시술 TOP4",
-            "channel": "동안연구소by닥터장수지",
-            "url": "https://www.youtube.com/watch?v=DHgp1ER3eF4&pp=ygUn7LKt64u066as7Yis7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "855 views"
-          },
-          {
-            "title": "피코토닝 효과 없었던 분들, 받으실 분들 반드시 보시고 결정하세요. 돈만 날릴 수 있습니다. l 청담리투클리닉 김재림 대표원장",
+            "title": "티타늄리프팅 부작용이 걱정되신다면? 청담리투클리닉의 특허 받은 솔루션 히트뷰로 더 안전하고 더 효과적인 결과를 확인하세요. [시술 영상 포함]",
             "channel": "닥터 김재림",
-            "url": "https://www.youtube.com/watch?v=MyW9NkMtwT4&pp=ygUn7LKt64u066as7Yis7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "9.2K views"
+            "url": "https://www.youtube.com/watch?v=eGYszeyGAkk&pp=ygUY7LKt64u066as7Yis7J2Y7JuQIEtvcmVh",
+            "view_text": "3.1K views"
           },
           {
-            "title": "구독자님들만 아세요! | 남몰래 얘기하는 돈 버리는 시술 TOP 5🤯",
-            "channel": "현타의사 홍한빛",
-            "url": "https://www.youtube.com/watch?v=RxrCdYFPECI&pp=ygUn7LKt64u066as7Yis7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "4.8K views"
-          },
-          {
-            "title": "PDRN 화장품 효과 있을까? 피부과 원장이 밝히는 시술과의 결정적 차이",
+            "title": "벨라리프팅 시술 전, 후 & 설명 l 청담리투클리닉",
             "channel": "닥터 김재림",
-            "url": "https://www.youtube.com/watch?v=1L27BWY4KIE&pp=ygUn7LKt64u066as7Yis7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "2.6K views"
+            "url": "https://www.youtube.com/watch?v=AKnF7na57Nk&pp=ygUY7LKt64u066as7Yis7J2Y7JuQIEtvcmVh",
+            "view_text": "859 views"
           },
           {
-            "title": "코레지 2.0 에그리프팅 효과와 차이점 비교 분석 I 보고 듣는 의학정보 · 리더스 TV",
-            "channel": "리더스피부과 Leaders TV · 보고 듣는 의학정보",
-            "url": "https://www.youtube.com/watch?v=FLWfhjm0rlE&pp=ygUn7LKt64u066as7Yis7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "6.3K views"
+            "title": "청담리투의원 X 소프웨이브 EP.1 | 청담리투의원의 안티에이징 철학과 소프웨이브 시술 원리",
+            "channel": "청담리투TV",
+            "url": "https://www.youtube.com/watch?v=tSrk_1bc3ps&pp=ygUY7LKt64u066as7Yis7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "59 views"
           },
           {
-            "title": "결혼식 2주 남았는데, 아직도 고민중? 2026 웨딩 시술 트렌드",
+            "title": "'쥬베룩볼륨' 셀프시술! 시술 효과가 궁금하다면 이것만 보세요. l 청담리투클리닉 김재림 대표원장",
             "channel": "닥터 김재림",
-            "url": "https://www.youtube.com/watch?v=PXDEQpq3Zn4&t=310s&pp=ygUn7LKt64u066as7Yis7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "37K views"
+            "url": "https://www.youtube.com/watch?v=u8vo_fovsSM&pp=ygUY7LKt64u066as7Yis7J2Y7JuQIEtvcmVh",
+            "view_text": "8.9K views"
           },
           {
-            "title": "튠페이스 효과가 이 정도였다고?! 튠페이스 리얼 후기!",
-            "channel": "동안연구소by닥터장수지",
-            "url": "https://www.youtube.com/watch?v=AXu4B0cUdNc&pp=ygUn7LKt64u066as7Yis7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "1.7K views"
+            "title": "리프팅 시술이 처음인 분들께 추천 드립니다. (궁서체)🌊 #소프웨이브 #청담리투의원",
+            "channel": "소프웨이브™ 리프팅 (Sofwave™ Korea)",
+            "url": "https://www.youtube.com/watch?v=Kgu6ZYY_iik&pp=ygUY7LKt64u066as7Yis7J2Y7JuQIEtvcmVh",
+            "view_text": "1.1K views"
           },
           {
-            "title": "10년이상경력의 실리프팅 피부과 대표원장은 이런 분들에게 실루엣소프트를 추천드려요 🧡",
-            "channel": "정병훈TV",
-            "url": "https://www.youtube.com/watch?v=CBTlcDK8rVQ&pp=ygUn7LKt64u066as7Yis7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "57 views"
+            "title": "뭘해도 눈밑주름, 눈가주름 안없어지시는 분들에게 알려드림 ㅣ청담리투클리닉 김재림 원장 ㅣ",
+            "channel": "닥터 김재림",
+            "url": "https://www.youtube.com/watch?v=EHV35oC86mA&pp=ygUY7LKt64u066as7Yis7J2Y7JuQIEtvcmVh",
+            "view_text": "832 views"
+          },
+          {
+            "title": "청담동에서 최근 가장 인기있는 리프팅 시술 TOP3🌊 #소프웨이브 #청담리투의원",
+            "channel": "소프웨이브™ 리프팅 (Sofwave™ Korea)",
+            "url": "https://www.youtube.com/watch?v=BWRXhl5txVI&pp=ygUY7LKt64u066as7Yis7J2Y7JuQIEtvcmVh",
+            "view_text": "894 views"
+          },
+          {
+            "title": "피부 탄력이 필요해? 아이돌이 가장 사랑하는 리프팅 l 튠페이스_청담리투클리닉",
+            "channel": "닥터 김재림",
+            "url": "https://www.youtube.com/watch?v=csb_fNfH6uk&pp=ygUY7LKt64u066as7Yis7J2Y7JuQIEtvcmVh",
+            "view_text": "2.8K views"
+          },
+          {
+            "title": "이렇게 비싼 리프팅 장비를... 4대 도입 FLEX!!!!!!🌊 #소프웨이브 #청담리투의원",
+            "channel": "소프웨이브™ 리프팅 (Sofwave™ Korea)",
+            "url": "https://www.youtube.com/watch?v=UKgDjJ--iYo&pp=ygUY7LKt64u066as7Yis7J2Y7JuQIEtvcmVh",
+            "view_text": "1.3K views"
           }
         ]
       }
@@ -130,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

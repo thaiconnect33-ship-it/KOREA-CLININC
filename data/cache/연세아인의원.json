@@ -1,6 +1,6 @@
 {
   "query": "연세아인의원",
-  "generated_at": "2026-05-28T23:40:26.920Z",
+  "generated_at": "2026-05-29T12:25:30.308Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 10945214,
+        "total_views": 6539757,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -59,64 +59,64 @@
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "병원 간판으로 피부과 전문의인지 아닌지 구별하는 방법 (피부과전문의병원 구분법)",
-            "channel": "계피부과 since1961",
-            "url": "https://www.youtube.com/watch?v=ctJAMejU30s&pp=ygUh7Jew7IS47JWE7J247J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "11K views"
-          },
-          {
-            "title": "수술을 대체하는 XXX필러가 있다? [#연세메디노블 #반영구필러]",
-            "channel": "연세메디노블 Yonsei Medinoble",
-            "url": "https://www.youtube.com/watch?v=OKZAW_3JY1s&pp=ygUh7Jew7IS47JWE7J247J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "3.3K views"
-          },
-          {
-            "title": "엉덩이, 종아리, 발이 전체적으로 저리고 아파요 / 연세에스의원 심영기",
+            "title": "허리에 안 좋은 생활습관 / 가자연세병원 신경외과 박재현",
             "channel": "의학채널 비온뒤",
-            "url": "https://www.youtube.com/watch?v=UuJXdakolXE&pp=ygUh7Jew7IS47JWE7J247J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "14K views"
+            "url": "https://www.youtube.com/watch?v=mb_yIkVcTOs&pp=ygUY7Jew7IS47JWE7J247J2Y7JuQIEtvcmVh",
+            "view_text": "8.7K views"
           },
           {
-            "title": "대상포진 피부과 통증의학과 내과 ? 어디로? / 연세생명나무내과 성혜영, 구앤장 마취통증의학과피부과의원 장인영, 구자웅",
-            "channel": "의학채널 비온뒤",
-            "url": "https://www.youtube.com/watch?v=XAxbB37xvR0&pp=ygUh7Jew7IS47JWE7J247J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "5.8K views"
+            "title": "연세은혜내과ㅣ 병원intro 홈페이지 커버영상",
+            "channel": "Brown Focus",
+            "url": "https://www.youtube.com/watch?v=XNn4AR8Dtac&pp=ygUY7Jew7IS47JWE7J247J2Y7JuQIEtvcmVh",
+            "view_text": "181 views"
+          },
+          {
+            "title": "전기자극 치료의 효과",
+            "channel": "심영기Young ki, Shim",
+            "url": "https://www.youtube.com/watch?v=OfsbJm6vpOo&pp=ygUY7Jew7IS47JWE7J247J2Y7JuQIEtvcmVh",
+            "view_text": "73 views"
+          },
+          {
+            "title": "[엔치과의원] 의료진 소개 - 정주영 원장",
+            "channel": "엔치과의원",
+            "url": "https://www.youtube.com/watch?v=A6_Aud0kH4I&pp=ygUY7Jew7IS47JWE7J247J2Y7JuQIEtvcmVh",
+            "view_text": "1.7K views"
           },
           {
             "title": "[자막뉴스] \"수유할 때 너무 슬프게 울어서 배가 많이 고팠나 했는데..\" (MBC뉴스)",
             "channel": "MBCNEWS",
-            "url": "https://www.youtube.com/watch?v=CZFhFJvH77w&pp=ygUh7Jew7IS47JWE7J247J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=CZFhFJvH77w&pp=ygUY7Jew7IS47JWE7J247J2Y7JuQIEtvcmVh",
             "view_text": "6.5M views"
           },
           {
-            "title": "스컬트라, 엘란쎄 부작용부터 시술시기까지 모든걸 파헤쳐보자",
-            "channel": "연세메디노블 Yonsei Medinoble",
-            "url": "https://www.youtube.com/watch?v=SL94Sc711_U&pp=ygUh7Jew7IS47JWE7J247J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "46K views"
+            "title": "전기자극치료의 원리",
+            "channel": "심영기Young ki, Shim",
+            "url": "https://www.youtube.com/watch?v=trw_9nFM_J0&pp=ygUY7Jew7IS47JWE7J247J2Y7JuQIEtvcmVh",
+            "view_text": "244 views"
           },
           {
-            "title": "이비인후과 왕건이 피지 압출 영상",
-            "channel": "서울숨이비인후과",
-            "url": "https://www.youtube.com/watch?v=wQo4fh9u3Pc&pp=ygUh7Jew7IS47JWE7J247J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "3.8M views"
+            "title": "전기자극치료의 주의사항",
+            "channel": "심영기Young ki, Shim",
+            "url": "https://www.youtube.com/watch?v=jpZSW9HWNgk&pp=ygUY7Jew7IS47JWE7J247J2Y7JuQIEtvcmVh",
+            "view_text": "196 views"
           },
           {
-            "title": "킴 카다시안이 전용기 타고 와서 받은 '정맥 줄기세포'의 충격적 진실! 여러분께 알려드립니다!",
-            "channel": "연세BH의원",
-            "url": "https://www.youtube.com/watch?v=NRmZomSES-A&pp=ygUh7Jew7IS47JWE7J247J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "117 views"
+            "title": "전기자극 치료 몇번정도 받아야 효과가 있나요",
+            "channel": "심영기Young ki, Shim",
+            "url": "https://www.youtube.com/watch?v=S_Uw2wj9JUM&pp=ygUY7Jew7IS47JWE7J247J2Y7JuQIEtvcmVh",
+            "view_text": "295 views"
           },
           {
-            "title": "모공 고민 끝! 모공치료의 새로운 해법 쿼드세이 시술과정, 후기 공개! 은평쿼드세이, 연신내쿼드세이, 불광역쿼드세이",
-            "channel": "의사先生(선생) 윤정현_ 연세팜스TV(Dr.Yoon)",
-            "url": "https://www.youtube.com/watch?v=i32AHNyHfQM&pp=ygUh7Jew7IS47JWE7J247J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "2.2K views"
+            "title": "43년된 간판 회사가 만드는 병원 간판은 어떻게 다른가?",
+            "channel": "BNI서초",
+            "url": "https://www.youtube.com/watch?v=iA_AuPSu7k8&pp=ygUY7Jew7IS47JWE7J247J2Y7JuQIEtvcmVh",
+            "view_text": "135 views"
           },
           {
-            "title": "대구 다이어트 전문병원의 충격적인 '전국 1위' / KBS  2023.09.27.",
-            "channel": "KBS News",
-            "url": "https://www.youtube.com/watch?v=R8ax3xmcxrI&pp=ygUh7Jew7IS47JWE7J247J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "7.2K views"
+            "title": "전기자극치료의 효과적인 치료 사례",
+            "channel": "심영기Young ki, Shim",
+            "url": "https://www.youtube.com/watch?v=Ytkg8qi2744&pp=ygUY7Jew7IS47JWE7J247J2Y7JuQIEtvcmVh",
+            "view_text": "75 views"
           }
         ]
       }
@@ -132,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

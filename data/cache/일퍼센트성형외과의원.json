@@ -1,16 +1,18 @@
 {
   "query": "일퍼센트성형외과의원",
-  "generated_at": "2026-05-29T00:07:50.319Z",
+  "generated_at": "2026-05-29T12:54:29.634Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 613,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "1388230406",
+        "name": "일퍼센트성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 388,
+        "blog_review_count": 225,
+        "detail_url": "https://m.place.naver.com/place/1388230406/home"
       }
     },
     "google_maps": {
@@ -21,13 +23,13 @@
         "name": "One Percent Plastic Surgery",
         "rating": 3.8,
         "total_reviews": 14,
-        "sample_size": 16,
-        "foreign_language_reviews": 16,
+        "sample_size": 20,
+        "foreign_language_reviews": 20,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 16
+          "english_other": 20
         }
       }
     },
@@ -43,78 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 20,
+      "metric_value": 19,
       "extra": {
-        "total_views": 100166,
+        "total_views": 569600,
         "foreign_video_count": 0,
         "lang_breakdown": {
-          "korean": 20,
+          "korean": 19,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
           "english_other": 0
         },
-        "sample_size": 20,
+        "sample_size": 19,
         "top_videos": [
           {
-            "title": "눈매교정, 쌍꺼풀수술시 필수일까? _메인1부 [동안사랑 김원장]",
-            "channel": "동안사랑김원장 (MS Plastic Sugery Clinic)",
-            "url": "https://www.youtube.com/watch?v=arrjJUr5t5U&pp=ygU27J287Y287IS87Yq47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "13K views"
+            "title": "[1%나불👅] 연예인 성형 고백 시대, 의사의 생각은?｜임종우 원장｜일퍼센트성형외과",
+            "channel": "응TV",
+            "url": "https://www.youtube.com/watch?v=nVfsZaKr4AM&pp=ygUk7J287Y287IS87Yq47ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "8.8K views"
           },
           {
-            "title": "Top 1 plastic surgery you should never do!",
-            "channel": "통찰의학 돈건통",
-            "url": "https://www.youtube.com/watch?v=RBAoNf82tJw&pp=ygU27J287Y287IS87Yq47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "960 views"
+            "title": "It's 자려함🌷｜리얼 후기｜일퍼센트성형외과",
+            "channel": "응TV",
+            "url": "https://www.youtube.com/watch?v=GNBck84c9O0&pp=ygUk7J287Y287IS87Yq47ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "79K views"
           },
           {
-            "title": "[성형외과추천] 클로엔성형외과 1분소.개.",
-            "channel": "클로엔",
-            "url": "https://www.youtube.com/watch?v=36vHLbWKMbs&pp=ygU27J287Y287IS87Yq47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "282 views"
+            "title": "[닥터푸]서울대 두번 간 닥터푸가 알려주는 안면윤곽수술의 입문편! 윤곽이 뭔가요? 상담전필수 영상! + 1%의 특별함! #노드레인 안면윤곽수술 🐻🍯",
+            "channel": "응TV",
+            "url": "https://www.youtube.com/watch?v=e1QFtrcPn38&pp=ygUk7J287Y287IS87Yq47ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "5.1K views"
           },
           {
-            "title": "[동아TV 뷰티앤 부티 시즌4] 김석한 원장님 출연! 가슴성형에 대한 모든 것! 슬리피, 홍수현, 가슴보형물, 세빈마텍 [OPERA Plastic Surgery 오페라성형외과]",
-            "channel": "오페라성형외과",
-            "url": "https://www.youtube.com/watch?v=CoNqya7N8Ik&pp=ygU27J287Y287IS87Yq47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1K views"
+            "title": "다시 태어났어요🌷 (Part.2)｜새로운삶의시작｜임종우 원장｜일퍼센트성형외과",
+            "channel": "응TV",
+            "url": "https://www.youtube.com/watch?v=Rtrxu3pUyP0&pp=ygUk7J287Y287IS87Yq47ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "76K views"
           },
           {
-            "title": "눈성형 케이스별 전후 후기 리뷰! [제1탄] 자연유착 쌍꺼풀수술 (비절개쌍꺼풀,자연유착쌍수)",
-            "channel": "그리다성형외과GRIDA TV",
-            "url": "https://www.youtube.com/watch?v=cifvVqgyoys&pp=ygU27J287Y287IS87Yq47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "6.2K views"
+            "title": "열아홉 소녀의 '새로운 삶의 시작'을 응원해주세요👏｜일퍼센트성형외과",
+            "channel": "응TV",
+            "url": "https://www.youtube.com/watch?v=5P6_XEYqrw8&pp=ygUk7J287Y287IS87Yq47ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "14K views"
           },
           {
-            "title": "여자들이 쌍수를 하는 이유 I 쌍수당일~쌍수1개월 전 과정 공개! I 쌍수찐후기  비포애프터",
-            "channel": "Wonderful Plastic Surgery_원더풀성형외과",
-            "url": "https://www.youtube.com/watch?v=xsTSBInsUMo&pp=ygU27J287Y287IS87Yq47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "15K views"
+            "title": "양악 수술의 핵심은 상악이다⁉｜얼굴뼈그알｜임종우 원장",
+            "channel": "응TV",
+            "url": "https://www.youtube.com/watch?v=bqmQnJQezLU&pp=ygUk7J287Y287IS87Yq47ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "95K views"
           },
           {
-            "title": "Migraines: Can They Be Gone in 30 Minutes? | Headache Treatment at a Plastic Surgery Clinic | Mig...",
-            "channel": "통찰의학 돈건통",
-            "url": "https://www.youtube.com/watch?v=BT2mbHCc-eo&pp=ygU27J287Y287IS87Yq47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.6K views"
+            "title": "주걱턱 해결 방법🤔양악일까? 윤곽일까?｜얼굴뼈그알｜임종우 원장",
+            "channel": "응TV",
+            "url": "https://www.youtube.com/watch?v=Q2hyb3cfNgo&pp=ygUk7J287Y287IS87Yq47ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "5.1K views"
           },
           {
-            "title": "성형외과 전문의는 성형외과 관련 의학 용어를 다 알고 있을까?",
-            "channel": "다움성형외과 Dawoom Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=sY0TlF4XqZw&pp=ygU27J287Y287IS87Yq47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "491 views"
+            "title": "몽골 메이크오버 리얼리티 ≪새로운 삶의 시작≫ 예고｜일퍼센트성형외과",
+            "channel": "응TV",
+            "url": "https://www.youtube.com/watch?v=7HF9Cnd4OFU&pp=ygUk7J287Y287IS87Yq47ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "7.9K views"
           },
           {
-            "title": "[바비톡 1분닥터] 쌍꺼풀수술 없이 눈 지방을 제거하는 수술이 있나요",
-            "channel": "디데이성형외과 D day plastic surgery KOREA",
-            "url": "https://www.youtube.com/watch?v=3IlkSokym2E&pp=ygU27J287Y287IS87Yq47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "137 views"
+            "title": "안면윤곽의 효과는 신경선에 달려 있다?｜얼굴뼈그알｜임종우 원장",
+            "channel": "응TV",
+            "url": "https://www.youtube.com/watch?v=C9_3M2hLZP4&pp=ygUk7J287Y287IS87Yq47ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "42K views"
           },
           {
-            "title": "[부산눈성형] 성형에 대한 궁금증을 1분만에 풀어보자 ep1. 눈성형 매몰,절개,부분절개,순간유착을 90초 안에 설명하시오[노블레스성형외과]",
-            "channel": "노블레스성형외과-noblesse plastic surgery",
-            "url": "https://www.youtube.com/watch?v=cA3wsusRMG0&pp=ygU27J287Y287IS87Yq47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.6K views"
+            "title": "리즈인가 봄🌸｜리얼 후기｜일퍼센트성형외과",
+            "channel": "응TV",
+            "url": "https://www.youtube.com/watch?v=36mQrdI86Dg&pp=ygUk7J287Y287IS87Yq47ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "72K views"
           }
         ]
       }
@@ -130,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 8,
-  "opportunity_cost_thb": 92000,
-  "opportunity_cost_krw": 3680000
+  "global_score": 10,
+  "opportunity_cost_thb": 90000,
+  "opportunity_cost_krw": 3600000
 }

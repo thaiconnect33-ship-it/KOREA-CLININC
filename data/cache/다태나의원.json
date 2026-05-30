@@ -1,17 +1,17 @@
 {
   "query": "다태나의원",
-  "generated_at": "2026-05-28T23:26:49.919Z",
+  "generated_at": "2026-05-29T12:09:13.045Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 2442,
+      "metric_value": 2487,
       "extra": {
         "place_id": "1010574050",
         "name": "다태나의원 : 네이버\u001c",
         "visitor_review_count": 683,
-        "blog_review_count": 1759,
+        "blog_review_count": 1804,
         "detail_url": "https://m.place.naver.com/place/1010574050/home"
       }
     },
@@ -45,78 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 20,
+      "metric_value": 19,
       "extra": {
-        "total_views": 562851,
+        "total_views": 111373,
         "foreign_video_count": 0,
         "lang_breakdown": {
-          "korean": 20,
+          "korean": 19,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
           "english_other": 0
         },
-        "sample_size": 20,
+        "sample_size": 19,
         "top_videos": [
           {
-            "title": "잠실새내 다태나의원 | 색소치료 솔루션",
+            "title": "다태나의원 병원소개",
             "channel": "이준걸",
-            "url": "https://www.youtube.com/watch?v=TTsa3XI3xyY&pp=ygUe64uk7YOc64KY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "183 views"
-          },
-          {
-            "title": "잠실새내 다태나의원 | 쥬베룩 콜라겐 리프팅",
-            "channel": "이준걸",
-            "url": "https://www.youtube.com/watch?v=W0CG6ecCB6I&pp=ygUe64uk7YOc64KY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "263 views"
-          },
-          {
-            "title": "잠실새내 다태나의원 | 인모드 리프팅",
-            "channel": "이준걸",
-            "url": "https://www.youtube.com/watch?v=7witzEVTWNU&pp=ygUe64uk7YOc64KY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "221 views"
-          },
-          {
-            "title": "여드름 패인흉터 개선 시술 총공개!ㅣ 흉터 해결하는 법 정확히 알려드립니다.",
-            "channel": "하원장 강동현",
-            "url": "https://www.youtube.com/watch?v=NKS1PO0tSmU&pp=ygUe64uk7YOc64KY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "71K views"
-          },
-          {
-            "title": "잠실새내 다태나의원 살결테라피",
-            "channel": "이준걸",
-            "url": "https://www.youtube.com/watch?v=i65X0Rh04Us&pp=ygUe64uk7YOc64KY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "757 views"
-          },
-          {
-            "title": "줄기세포 주사 이거는 알고 맞자! l 의사가 직접 맞아본 줄기세포 피부주사 후기",
-            "channel": "하원장 강동현",
-            "url": "https://www.youtube.com/watch?v=cdS9Afl04ec&pp=ygUe64uk7YOc64KY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "19K views"
-          },
-          {
-            "title": "잠실새내 다태나의원 | 울쎄라 리프팅",
-            "channel": "이준걸",
-            "url": "https://www.youtube.com/watch?v=wZZnv_JM1cc&pp=ygUe64uk7YOc64KY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "227 views"
-          },
-          {
-            "title": "여드름 흉터 이제 고민하지마세요 l 흉터치료 다운타임 고민 끝!",
-            "channel": "하원장 강동현",
-            "url": "https://www.youtube.com/watch?v=EaqyhqJ6SQg&pp=ygUe64uk7YOc64KY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "8.6K views"
-          },
-          {
-            "title": "흉터 치료 전 꼭 봐야 하는 영상",
-            "channel": "하원장 강동현",
-            "url": "https://www.youtube.com/watch?v=PQxiCJv6C0E&pp=ygUe64uk7YOc64KY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCSMLAYcqIYzv",
-            "view_text": "1.4K views"
+            "url": "https://www.youtube.com/watch?v=PUirmjTvdtk&pp=ygUV64uk7YOc64KY7J2Y7JuQIEtvcmVh",
+            "view_text": "371"
           },
           {
             "title": "The reason why acne scar treatment is ineffective even after spending 10 million won",
             "channel": "하원장 강동현",
-            "url": "https://www.youtube.com/watch?v=2zUKnBrY8jc&pp=ygUe64uk7YOc64KY7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "1.2K views"
+            "url": "https://www.youtube.com/watch?v=2zUKnBrY8jc&pp=ygUV64uk7YOc64KY7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "1.2K"
+          },
+          {
+            "title": "흉터 치료 전 꼭 봐야 하는 영상",
+            "channel": "하원장 강동현",
+            "url": "https://www.youtube.com/watch?v=PQxiCJv6C0E&pp=ygUV64uk7YOc64KY7J2Y7JuQIEtvcmVh",
+            "view_text": "1.4K"
+          },
+          {
+            "title": "잠실새내 다태나의원 | 색소치료 솔루션",
+            "channel": "이준걸",
+            "url": "https://www.youtube.com/watch?v=TTsa3XI3xyY&pp=ygUV64uk7YOc64KY7J2Y7JuQIEtvcmVh",
+            "view_text": "183"
+          },
+          {
+            "title": "잠실새내 다태나의원 | 쥬베룩 콜라겐 리프팅",
+            "channel": "이준걸",
+            "url": "https://www.youtube.com/watch?v=W0CG6ecCB6I&pp=ygUV64uk7YOc64KY7J2Y7JuQIEtvcmVh",
+            "view_text": "263"
+          },
+          {
+            "title": "여드름 패인흉터 개선 시술 총공개!ㅣ 흉터 해결하는 법 정확히 알려드립니다.",
+            "channel": "하원장 강동현",
+            "url": "https://www.youtube.com/watch?v=NKS1PO0tSmU&pp=ygUV64uk7YOc64KY7J2Y7JuQIEtvcmVh",
+            "view_text": "71K"
+          },
+          {
+            "title": "여드름 흉터 이제 고민하지마세요 l 흉터치료 다운타임 고민 끝!",
+            "channel": "하원장 강동현",
+            "url": "https://www.youtube.com/watch?v=EaqyhqJ6SQg&pp=ygUV64uk7YOc64KY7J2Y7JuQIEtvcmVh",
+            "view_text": "8.6K"
+          },
+          {
+            "title": "잠실새내 다태나의원 | 인모드 리프팅",
+            "channel": "이준걸",
+            "url": "https://www.youtube.com/watch?v=7witzEVTWNU&pp=ygUV64uk7YOc64KY7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "221"
+          },
+          {
+            "title": "I am finally treating a scar from my 20s.",
+            "channel": "하원장 강동현",
+            "url": "https://www.youtube.com/watch?v=TDP-ke9x1NQ&pp=ygUV64uk7YOc64KY7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "1K"
+          },
+          {
+            "title": "I'm not sure if this will be of help to the hospital.",
+            "channel": "하원장 강동현",
+            "url": "https://www.youtube.com/watch?v=0FFlwnQOEFk&pp=ygUV64uk7YOc64KY7J2Y7JuQIEtvcmVh",
+            "view_text": "2.5K"
           }
         ]
       }
@@ -132,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

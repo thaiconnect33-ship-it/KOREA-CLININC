@@ -1,0 +1,148 @@
+{
+  "query": "제로의원 신사",
+  "generated_at": "2026-05-29T10:41:44.909Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 826,
+      "extra": {
+        "place_id": "2082233877",
+        "name": "제로의원 신사 : 네이버\u001c",
+        "visitor_review_count": 455,
+        "blog_review_count": 371,
+        "detail_url": "https://m.place.naver.com/place/2082233877/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 61,
+      "extra": {
+        "name": "제로클리닉 신사본점",
+        "rating": 5,
+        "total_reviews": 61,
+        "sample_size": 16,
+        "foreign_language_reviews": 16,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 16
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 12238790,
+        "foreign_video_count": 1,
+        "lang_breakdown": {
+          "korean": 19,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 1
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "\"I lost 15kg like this.\" How to lose visceral fat without starving and while eating delicious food!",
+            "channel": "김남백의 제로컷 다이어트",
+            "url": "https://www.youtube.com/watch?v=aIlYfjtWZb0&pp=ygUZ7KCc66Gc7J2Y7JuQIOyLoOyCrCBLb3JlYQ%3D%3D",
+            "view_text": "29K views"
+          },
+          {
+            "title": "지방분해 주사, 이런 분들 외엔 시간 낭비입니다",
+            "channel": "닥터햇살",
+            "url": "https://www.youtube.com/watch?v=Y1GkoqpX4go&pp=ygUZ7KCc66Gc7J2Y7JuQIOyLoOyCrCBLb3JlYQ%3D%3D",
+            "view_text": "142K views"
+          },
+          {
+            "title": "사람들이 그래요.. 수지가 되게 해주세요👏 지방분해주사 '제로팻주사' (feat.실제사례)",
+            "channel": "밴스의원 VandS Clinic",
+            "url": "https://www.youtube.com/watch?v=rEK3auEMRoM&pp=ygUZ7KCc66Gc7J2Y7JuQIOyLoOyCrCBLb3JlYQ%3D%3D",
+            "view_text": "7.4K views"
+          },
+          {
+            "title": "\"너무 아프다\"…한마디 남기고 지방흡입 수술 후 사망 / KNN",
+            "channel": "KNN NEWS",
+            "url": "https://www.youtube.com/watch?v=Q3Ii_0VymLc&pp=ygUZ7KCc66Gc7J2Y7JuQIOyLoOyCrCBLb3JlYQ%3D%3D",
+            "view_text": "2.2M views"
+          },
+          {
+            "title": "위고비 vs 마운자로 차이점은? 의사들이 알려주는 다이어트 주사 선택 기준｜제로클리닉",
+            "channel": "제로클리닉",
+            "url": "https://www.youtube.com/watch?v=Dzd4B-EKgAQ&pp=ygUZ7KCc66Gc7J2Y7JuQIOyLoOyCrCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "363 views"
+          },
+          {
+            "title": "지방분해주사 효과 없습니다.",
+            "channel": "땡기는 의사 이용석",
+            "url": "https://www.youtube.com/watch?v=fDhREmFqhtw&pp=ygUZ7KCc66Gc7J2Y7JuQIOyLoOyCrCBLb3JlYQ%3D%3D",
+            "view_text": "155K views"
+          },
+          {
+            "title": "[밴스의원 신사점] 지방흡입 효과 보는 사람 따로 있다?!?!😮과연 나는 지방흡입 효과를 잘 볼 수 있는 사람일까?!😥",
+            "channel": "밴스의원 VandS Clinic",
+            "url": "https://www.youtube.com/watch?v=l0LlTV5JN04&pp=ygUZ7KCc66Gc7J2Y7JuQIOyLoOyCrCBLb3JlYQ%3D%3D",
+            "view_text": "251 views"
+          },
+          {
+            "title": "00주만에 10키로 감량!?!?😮🔥🔥 운동보다 좋다....전,후차이 대박👍",
+            "channel": "밴스의원 VandS Clinic",
+            "url": "https://www.youtube.com/watch?v=LsDBWcDr-AU&pp=ygUZ7KCc66Gc7J2Y7JuQIOyLoOyCrCBLb3JlYQ%3D%3D",
+            "view_text": "399 views"
+          },
+          {
+            "title": "자꾸만 재발하는 통증! 뿌리 뽑고 싶다면 이렇게 하세요 - 김수연의 통증 제로 홈트 #03",
+            "channel": "굿라이프",
+            "url": "https://www.youtube.com/watch?v=hcTl0MmMFSI&pp=ygUZ7KCc66Gc7J2Y7JuQIOyLoOyCrCBLb3JlYQ%3D%3D",
+            "view_text": "6.6K views"
+          },
+          {
+            "title": "57kg - 51kg 🔥날씬에서 마름으로🔥 한달만에 -6kg 감량한 이야기 (ft. 지방분해주사 5회차)",
+            "channel": "MIYUT미윳",
+            "url": "https://www.youtube.com/watch?v=KM0z6cQJoJ0&pp=ygUZ7KCc66Gc7J2Y7JuQIOyLoOyCrCBLb3JlYQ%3D%3D",
+            "view_text": "180K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 9,
+  "opportunity_cost_thb": 91500,
+  "opportunity_cost_krw": 3660000
+}

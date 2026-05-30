@@ -1,18 +1,18 @@
 {
   "query": "리영의원",
-  "generated_at": "2026-05-28T23:31:32.265Z",
+  "generated_at": "2026-05-29T12:14:12.881Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 575,
+      "metric_value": 1335,
       "extra": {
-        "place_id": "37935303",
-        "name": "리영의원 건대입구역 : 네이버\u001c",
-        "visitor_review_count": 115,
-        "blog_review_count": 460,
-        "detail_url": "https://m.place.naver.com/place/37935303/home"
+        "place_id": "35379327",
+        "name": "리영의원 : 네이버\u001c",
+        "visitor_review_count": 608,
+        "blog_review_count": 727,
+        "detail_url": "https://m.place.naver.com/place/35379327/home"
       }
     },
     "google_maps": {
@@ -23,13 +23,13 @@
         "name": "리영의원 잠실ㅣReyoung Clinicㅣリヨンクリニックㅣ丽颖皮肤整形",
         "rating": 4.6,
         "total_reviews": 44,
-        "sample_size": 0,
-        "foreign_language_reviews": 0,
+        "sample_size": 28,
+        "foreign_language_reviews": 26,
         "lang_breakdown": {
-          "korean": 0,
+          "korean": 2,
           "thai": 0,
           "chinese": 0,
-          "english_other": 0
+          "english_other": 26
         }
       }
     },
@@ -47,76 +47,76 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 7746911,
-        "foreign_video_count": 1,
+        "total_views": 7113532,
+        "foreign_video_count": 0,
         "lang_breakdown": {
-          "korean": 19,
+          "korean": 20,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
-          "english_other": 1
+          "english_other": 0
         },
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "Safe collagen injected directly into the skin! The trend is \"Ultracol\" (with Lee Young Clinic)",
-            "channel": "Dr Kwon (Dermaster Official)",
-            "url": "https://www.youtube.com/watch?v=4RsYbctEM_w&pp=ygUb66as7JiB7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "662 views"
-          },
-          {
-            "title": "[리영의원 잠실점] 카메라 앞에서 너무나도 긴장했던 그녀의 반전매력(?) 촬영 에피소드!",
-            "channel": "리영닥터스_착한성형,뷰티트렌드",
-            "url": "https://www.youtube.com/watch?v=CDuV4wlTMko&pp=ygUb66as7JiB7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "201 views"
-          },
-          {
             "title": "입소문난 'VIP 벨벳 콜라겐 관리' 궁금하시죠? 잠실리영에서 보여드립니다!",
             "channel": "리영닥터스_착한성형,뷰티트렌드",
-            "url": "https://www.youtube.com/watch?v=nrY8UVMPQQY&pp=ygUb66as7JiB7J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "url": "https://www.youtube.com/watch?v=nrY8UVMPQQY&pp=ygUS66as7JiB7J2Y7JuQIEtvcmVh",
             "view_text": "213 views"
-          },
-          {
-            "title": "지방흡입 수술 후 관리 방법 궁금해요! 리프팅효과 높이는 꿀팁까지?!😲🙌",
-            "channel": "리영닥터스_착한성형,뷰티트렌드",
-            "url": "https://www.youtube.com/watch?v=mjjNxkWGQIY&pp=ygUb66as7JiB7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "408 views"
-          },
-          {
-            "title": "뷰티비#21-리영의원_잠실",
-            "channel": "뷰티비",
-            "url": "https://www.youtube.com/watch?v=SbhFK3EHPWU&pp=ygUb66as7JiB7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "118 views"
-          },
-          {
-            "title": "잠실피부과 리영클리닉 잠실점 복권이벤트 미모의 당첨자 풀영상♡",
-            "channel": "리영닥터스_착한성형,뷰티트렌드",
-            "url": "https://www.youtube.com/watch?v=x2u800NKzwY&pp=ygUb66as7JiB7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "226 views"
           },
           {
             "title": "건대리영클리닉",
             "channel": "에이알컴퍼니",
-            "url": "https://www.youtube.com/watch?v=uX19k6yVp1M&pp=ygUb66as7JiB7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=uX19k6yVp1M&pp=ygUS66as7JiB7J2Y7JuQIEtvcmVh",
             "view_text": "544 views"
           },
           {
-            "title": "[신뢰받는 의료기관] 강남 리영 클리닉 안상태 원장",
-            "channel": "콜라보뉴스·ESG콜라보클럽",
-            "url": "https://www.youtube.com/watch?v=u-CTL3NyQjs&pp=ygUb66as7JiB7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "259 views"
+            "title": "이중턱+볼살 타파👊 흉터없이 간편한 지방추출주사✨ [리영클리닉]",
+            "channel": "리영닥터스_착한성형,뷰티트렌드",
+            "url": "https://www.youtube.com/watch?v=GN-9jokGhPk&pp=ygUS66as7JiB7J2Y7JuQIEtvcmVh",
+            "view_text": "784 views"
           },
           {
-            "title": "[건대리영클리닉] 볼륨있는 얼굴라인 큐오필후기",
-            "channel": "건대리영클리닉",
-            "url": "https://www.youtube.com/watch?v=vv3Kp4hMT_k&pp=ygUb66as7JiB7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "442 views"
+            "title": "안전하고 생찰률이 높은 줄기세포지방이식🤟 장점과 적용부위는? 가슴성형? 얼굴지방이식?🤔",
+            "channel": "리영닥터스_착한성형,뷰티트렌드",
+            "url": "https://www.youtube.com/watch?v=mHAcpxr0dwY&pp=ygUS66as7JiB7J2Y7JuQIEtvcmVh",
+            "view_text": "251 views"
+          },
+          {
+            "title": "이중턱지방흡입 효과 시술전에 꼭 체크하세요!🔎 (시술 후 유지기간까지)",
+            "channel": "리영닥터스_착한성형,뷰티트렌드",
+            "url": "https://www.youtube.com/watch?v=IYQH-9XpklE&pp=ygUS66as7JiB7J2Y7JuQIEtvcmVh",
+            "view_text": "401 views"
           },
           {
             "title": "The Truth Behind CCTV Footage of Brain Death After Liposuction [Whistleblowers] 20200819",
             "channel": "KBS 다큐",
-            "url": "https://www.youtube.com/watch?v=Oa1cnInjgBE&pp=ygUb66as7JiB7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=Oa1cnInjgBE&pp=ygUS66as7JiB7J2Y7JuQIEtvcmVh",
             "view_text": "4.9M views"
+          },
+          {
+            "title": "[보나쥬르x리영 클리닉] '글루타치온'으로 미백관리 하자!",
+            "channel": "보나쥬르Bonajour",
+            "url": "https://www.youtube.com/watch?v=qV0GUWAEqUk&pp=ygUS66as7JiB7J2Y7JuQIEtvcmVh",
+            "view_text": "3.1K views"
+          },
+          {
+            "title": "[얼굴 지방흡입 후 붓는 증상!😲(붓기)]일상생활은 언제부터??흡입 효과 기간까지 알려드립니다🙌",
+            "channel": "리영닥터스_착한성형,뷰티트렌드",
+            "url": "https://www.youtube.com/watch?v=20r5Yk50X4o&pp=ygUS66as7JiB7J2Y7JuQIEtvcmVh",
+            "view_text": "2.3K views"
+          },
+          {
+            "title": "[강남:리영클리닉] 디테일하게 알아보는 다이어트주사 삭센다 후기 1차",
+            "channel": "Reyoung Clinic",
+            "url": "https://www.youtube.com/watch?v=AKwpbqiTE1Q&pp=ygUS66as7JiB7J2Y7JuQIEtvcmVh",
+            "view_text": "492 views"
+          },
+          {
+            "title": "강남더MC (구 강남미다스)지방흡입 병원, 얼굴지흡+리프팅 가능한 병원 클라스!",
+            "channel": "강남더MC",
+            "url": "https://www.youtube.com/watch?v=4oK8lN75i5g&pp=ygUS66as7JiB7J2Y7JuQIEtvcmVh",
+            "view_text": "1.8K views"
           }
         ]
       }
@@ -132,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 1,
-  "opportunity_cost_thb": 99500,
-  "opportunity_cost_krw": 3980000
+  "global_score": 13,
+  "opportunity_cost_thb": 87000,
+  "opportunity_cost_krw": 3480000
 }

@@ -1,0 +1,148 @@
+{
+  "query": "데이뷰의원 명동2호점",
+  "generated_at": "2026-05-29T11:47:53.989Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 1211,
+      "extra": {
+        "place_id": "2086136438",
+        "name": "데이뷰의원 명동2호점 : 네이버\u001c",
+        "visitor_review_count": 80,
+        "blog_review_count": 1131,
+        "detail_url": "https://m.place.naver.com/place/2086136438/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Results",
+        "rating": 5,
+        "total_reviews": 0,
+        "sample_size": 9,
+        "foreign_language_reviews": 9,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 9
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 20639436,
+        "foreign_video_count": 2,
+        "lang_breakdown": {
+          "korean": 18,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 2
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "마감 30분 전",
+            "channel": "숏박스",
+            "url": "https://www.youtube.com/watch?v=e_oXsQ4COiY&pp=ygUj642w7J2067ew7J2Y7JuQIOuqheuPmTLtmLjsoJAgS29yZWHSBwkJIwsBhyohjO8%3D",
+            "view_text": "6.7M views"
+          },
+          {
+            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUj642w7J2067ew7J2Y7JuQIOuqheuPmTLtmLjsoJAgS29yZWHSBwkJIwsBhyohjO8%3D",
+            "view_text": "1M views"
+          },
+          {
+            "title": "\"강남 유명 성형외과서 수술 뒤 눈이 실명됐습니다\" [지금이뉴스] / YTN",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=UyMrX929Q4I&pp=ygUj642w7J2067ew7J2Y7JuQIOuqheuPmTLtmLjsoJAgS29yZWE%3D",
+            "view_text": "576K views"
+          },
+          {
+            "title": "Welcome to Olive Young! ☺️ If you need anything, please don't ask- | Ji Ye-eun | Workman 2",
+            "channel": "워크맨-Workman",
+            "url": "https://www.youtube.com/watch?v=G_W9pXqnheY&pp=ygUj642w7J2067ew7J2Y7JuQIOuqheuPmTLtmLjsoJAgS29yZWHSBwkJIwsBhyohjO8%3D",
+            "view_text": "2.8M views"
+          },
+          {
+            "title": "My 10th review of my own money, my own Yaksonmyeongga Meridian treatment 😅 Price / Pain / Effects...",
+            "channel": "유리아YuRia",
+            "url": "https://www.youtube.com/watch?v=6Ql5aN0Nb7c&pp=ygUj642w7J2067ew7J2Y7JuQIOuqheuPmTLtmLjsoJAgS29yZWE%3D",
+            "view_text": "1M views"
+          },
+          {
+            "title": "피부과 시술 부작용 Vlog…ㅠ 내 피부 돌려줘.. 다신 안해…🫠ㅣMINCARONG",
+            "channel": "민카롱",
+            "url": "https://www.youtube.com/watch?v=wRJR2kY2x9w&pp=ygUj642w7J2067ew7J2Y7JuQIOuqheuPmTLtmLjsoJAgS29yZWE%3D",
+            "view_text": "1.7M views"
+          },
+          {
+            "title": "서울대 피부과의사가 찍어주는 스킨부스터 완벽 정리. \"이 영상보면 호구 안당합니다\" - 이도영 피부과전문의",
+            "channel": "피부텐텐 · 피부가 예뻐지는 10분",
+            "url": "https://www.youtube.com/watch?v=rigKW7zrTeI&pp=ygUj642w7J2067ew7J2Y7JuQIOuqheuPmTLtmLjsoJAgS29yZWE%3D",
+            "view_text": "338K views"
+          },
+          {
+            "title": "Myeongdong Shinsegae Duty free Pick up point ( English )",
+            "channel": "LECIRT Korea",
+            "url": "https://www.youtube.com/watch?v=-xGwykjPje0&pp=ygUj642w7J2067ew7J2Y7JuQIOuqheuPmTLtmLjsoJAgS29yZWE%3D",
+            "view_text": "30K views"
+          },
+          {
+            "title": "'월세 60' 1.5평 방 내부 공개…젊은이들이 버티는 이유 (자막뉴스) / SBS",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=MLh3HMs66Ko&pp=ygUj642w7J2067ew7J2Y7JuQIOuqheuPmTLtmLjsoJAgS29yZWE%3D",
+            "view_text": "6.1M views"
+          },
+          {
+            "title": "명동에서 이태원 까지 걸어가보기 걸어서 둘러보기 명동 이태원 해방촌 street view of Seoul city Walking through Seoul city",
+            "channel": "사이먼쿤SimonKun",
+            "url": "https://www.youtube.com/watch?v=SWnWAMwWb3c&pp=ygUj642w7J2067ew7J2Y7JuQIOuqheuPmTLtmLjsoJAgS29yZWE%3D",
+            "view_text": "97 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 6,
+  "opportunity_cost_thb": 94500,
+  "opportunity_cost_krw": 3780000
+}

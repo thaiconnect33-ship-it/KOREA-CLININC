@@ -1,0 +1,148 @@
+{
+  "query": "닥터포유의원 합정",
+  "generated_at": "2026-05-29T11:18:48.142Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 1765,
+      "extra": {
+        "place_id": "11687902",
+        "name": "닥터포유의원 합정 : 네이버\u001c",
+        "visitor_review_count": 369,
+        "blog_review_count": 1396,
+        "detail_url": "https://m.place.naver.com/place/11687902/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "닥터포유의원 홍대점",
+        "rating": 5,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 30021963,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "닥터포유 포스트바이오틱스 모델링",
+            "channel": "닥터포유에버헬스케어",
+            "url": "https://www.youtube.com/watch?v=-cbAOa9x4ug&pp=ygUf64ul7YSw7Y-s7Jyg7J2Y7JuQIO2VqeyglSBLb3JlYQ%3D%3D",
+            "view_text": "137 views"
+          },
+          {
+            "title": "[닥터포유] 포스트바이오틱스 인포",
+            "channel": "닥터포유에버헬스케어",
+            "url": "https://www.youtube.com/watch?v=FcN0DYX-Vc4&pp=ygUf64ul7YSw7Y-s7Jyg7J2Y7JuQIO2VqeyglSBLb3JlYQ%3D%3D",
+            "view_text": "103 views"
+          },
+          {
+            "title": "[닥터포유] 포스트바이오틱스 뷰티",
+            "channel": "닥터포유에버헬스케어",
+            "url": "https://www.youtube.com/watch?v=HLoPP1HohEo&pp=ygUf64ul7YSw7Y-s7Jyg7J2Y7JuQIO2VqeyglSBLb3JlYQ%3D%3D",
+            "view_text": "73 views"
+          },
+          {
+            "title": "카복시주사와 공기압마사지/닥터포유양재클리닉",
+            "channel": "dr4uasia",
+            "url": "https://www.youtube.com/watch?v=8t8A7pS2mgc&pp=ygUf64ul7YSw7Y-s7Jyg7J2Y7JuQIO2VqeyglSBLb3JlYQ%3D%3D",
+            "view_text": "2K views"
+          },
+          {
+            "title": "E3닥터포유",
+            "channel": "NORIAPP (SMTsolution)",
+            "url": "https://www.youtube.com/watch?v=TV_cXKxe3_s&pp=ygUf64ul7YSw7Y-s7Jyg7J2Y7JuQIO2VqeyglSBLb3JlYQ%3D%3D",
+            "view_text": "7 views"
+          },
+          {
+            "title": "[닥터포유]소프트필-기미잡티",
+            "channel": "닥터포유",
+            "url": "https://www.youtube.com/watch?v=R5Q6aP-TZls&pp=ygUf64ul7YSw7Y-s7Jyg7J2Y7JuQIO2VqeyglSBLb3JlYQ%3D%3D",
+            "view_text": "1.6K views"
+          },
+          {
+            "title": "[닥터포유]고주파엔더몰로지",
+            "channel": "Publick 0954",
+            "url": "https://www.youtube.com/watch?v=qdVOSjP64b0&pp=ygUf64ul7YSw7Y-s7Jyg7J2Y7JuQIO2VqeyglSBLb3JlYQ%3D%3D",
+            "view_text": "1K views"
+          },
+          {
+            "title": "[닥터포유] 포스트바이오틱스 건강정보",
+            "channel": "닥터포유에버헬스케어",
+            "url": "https://www.youtube.com/watch?v=S25hClg0a9w&pp=ygUf64ul7YSw7Y-s7Jyg7J2Y7JuQIO2VqeyglSBLb3JlYQ%3D%3D",
+            "view_text": "155 views"
+          },
+          {
+            "title": "[닥터포유] SOS 드레싱 마스크",
+            "channel": "이영두",
+            "url": "https://www.youtube.com/watch?v=AFOnddhrRwo&pp=ygUf64ul7YSw7Y-s7Jyg7J2Y7JuQIO2VqeyglSBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "146 views"
+          },
+          {
+            "title": "[닥터포유] 닥터브라이트 크림",
+            "channel": "이영두",
+            "url": "https://www.youtube.com/watch?v=3tXzwm_5rYk&pp=ygUf64ul7YSw7Y-s7Jyg7J2Y7JuQIO2VqeyglSBLb3JlYQ%3D%3D",
+            "view_text": "73 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

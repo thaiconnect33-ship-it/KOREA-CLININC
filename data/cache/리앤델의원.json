@@ -1,6 +1,6 @@
 {
   "query": "리앤델의원",
-  "generated_at": "2026-05-28T22:22:42.944Z",
+  "generated_at": "2026-05-29T10:59:31.359Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -20,16 +20,16 @@
       "metric_label": "리뷰",
       "metric_value": 0,
       "extra": {
-        "name": "리앤델의원 / Re&del Clinic / リアンデル医院",
+        "name": "Results",
         "rating": 4.1,
         "total_reviews": 0,
-        "sample_size": 0,
-        "foreign_language_reviews": 0,
+        "sample_size": 6,
+        "foreign_language_reviews": 4,
         "lang_breakdown": {
-          "korean": 0,
+          "korean": 2,
           "thai": 0,
           "chinese": 0,
-          "english_other": 0
+          "english_other": 4
         }
       }
     },
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 3,
       "extra": {
-        "total_views": 2328692,
+        "total_views": 2329693,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 3,
@@ -61,20 +61,20 @@
           {
             "title": "완전히 새롭게 태어난 리앤델의원을 소개합니다.",
             "channel": "청담동 주피터(주름 피는 닥터)",
-            "url": "https://www.youtube.com/watch?v=jV2p4Jtuju0&pp=ygUe66as7JWk64247J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "692 views"
+            "url": "https://www.youtube.com/watch?v=jV2p4Jtuju0&pp=ygUV66as7JWk64247J2Y7JuQIEtvcmVh",
+            "view_text": "693 views"
           },
           {
             "title": "피부과 시술 부작용 Vlog…ㅠ 내 피부 돌려줘.. 다신 안해…🫠ㅣMINCARONG",
             "channel": "민카롱",
-            "url": "https://www.youtube.com/watch?v=wRJR2kY2x9w&pp=ygUe66as7JWk64247J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=wRJR2kY2x9w&pp=ygUV66as7JWk64247J2Y7JuQIEtvcmVh",
             "view_text": "1.7M views"
           },
           {
             "title": "Now that I've left the dermatology clinic, I'm going to give you my honest recommendations and no...",
             "channel": "피부소식",
-            "url": "https://www.youtube.com/watch?v=LZnncatHKkg&pp=ygUe66as7JWk64247J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "628K views"
+            "url": "https://www.youtube.com/watch?v=LZnncatHKkg&pp=ygUV66as7JWk64247J2Y7JuQIEtvcmVh",
+            "view_text": "629K views"
           }
         ]
       }
@@ -90,16 +90,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 0,
-  "opportunity_cost_thb": 100000,
-  "opportunity_cost_krw": 4000000
+  "global_score": 2,
+  "opportunity_cost_thb": 98000,
+  "opportunity_cost_krw": 3920000
 }

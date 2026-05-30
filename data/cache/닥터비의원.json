@@ -1,6 +1,6 @@
 {
   "query": "닥터비의원",
-  "generated_at": "2026-05-28T23:18:16.792Z",
+  "generated_at": "2026-05-29T12:00:33.834Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -20,16 +20,16 @@
       "metric_label": "리뷰",
       "metric_value": 0,
       "extra": {
-        "name": "Results",
-        "rating": 4.9,
+        "name": "닥터에버스의원 잠실점 | Dr.Evers Jamsil | ドクターエバーズ 蚕室(チャムシル)店 (皮膚科クリニック) | 爱肤师皮肤科蚕室店",
+        "rating": 5,
         "total_reviews": 0,
-        "sample_size": 6,
-        "foreign_language_reviews": 6,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 6
+          "english_other": 0
         }
       }
     },
@@ -45,78 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 20,
+      "metric_value": 19,
       "extra": {
-        "total_views": 149393,
+        "total_views": 2100304,
         "foreign_video_count": 0,
         "lang_breakdown": {
-          "korean": 20,
+          "korean": 19,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
           "english_other": 0
         },
-        "sample_size": 20,
+        "sample_size": 19,
         "top_videos": [
           {
-            "title": "[DBtailTV] Introducing DB Plastic Surgery's Director Dongbi Guk💕",
-            "channel": "디비성형외과 DB Plastic Surgery DBtailTV",
-            "url": "https://www.youtube.com/watch?v=njENMHfxYg8&pp=ygUh64ul7YSw67mE7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "3.4K views"
+            "title": "홍대이색술집Vlog \"닥터비\" 컨셉완전 지렸다by.뷰티모델꿀냥이",
+            "channel": "뷰티모델 꿀냥TV",
+            "url": "https://www.youtube.com/watch?v=kIXRNuD35CE&pp=ygUV64ul7YSw67mE7J2Y7JuQIEtvcmVh",
+            "view_text": "595"
           },
           {
-            "title": "[1분 닥터] 어떤 병원에 갔더니 저는 뼈가 가까워서 뒤트임을 할 공간이 없다고 하는데 사실인가요",
-            "channel": "디비성형외과 DB Plastic Surgery DBtailTV",
-            "url": "https://www.youtube.com/watch?v=ttzg5nmkKuk&pp=ygUh64ul7YSw67mE7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.4K views"
+            "title": "The Reels Wind Blowing Through the Hospital [SNL Korea] Season 8 ‘Smile Clinic’ Highlights",
+            "channel": "쿠팡플레이 Coupang Play",
+            "url": "https://www.youtube.com/watch?v=BxP7WFwk1jw&pp=ygUV64ul7YSw67mE7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "2M"
           },
           {
-            "title": "중년눈성형 처진눈 자연유착법으로 해결하기",
-            "channel": "디비성형외과 DB Plastic Surgery DBtailTV",
-            "url": "https://www.youtube.com/watch?v=B2CzOi_akFc&pp=ygUh64ul7YSw67mE7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "69K views"
-          },
-          {
-            "title": "[1분 닥터] 비절개 방식으로 쌍꺼풀 높이를 낮춰주실 수 없나요?",
-            "channel": "디비성형외과 DB Plastic Surgery DBtailTV",
-            "url": "https://www.youtube.com/watch?v=bX4NBhgzwWM&pp=ygUh64ul7YSw67mE7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "764 views"
-          },
-          {
-            "title": "성형외과 전문의가 솔직하게 알려주는 성형 잘하는 병원 찾는 방법 - 황동연의 예쁜 가슴 클리닉 #05 병원 선택",
-            "channel": "굿라이프",
-            "url": "https://www.youtube.com/watch?v=Gwj5rlTvUzY&pp=ygUh64ul7YSw67mE7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "36K views"
-          },
-          {
-            "title": "[1분 닥터] 매몰법과 자연유착법은 뭐가 다른 건가요?",
-            "channel": "디비성형외과 DB Plastic Surgery DBtailTV",
-            "url": "https://www.youtube.com/watch?v=9wYYY2_T-FE&pp=ygUh64ul7YSw67mE7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.9K views"
-          },
-          {
-            "title": "[닥터플래너 tv] 성형외과 전문의가 뽑은 가성비 끝판왕 수술 BEST5!",
-            "channel": "닥터플래너 TV",
-            "url": "https://www.youtube.com/watch?v=L2uK2oqhkcM&pp=ygUh64ul7YSw67mE7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.1K views"
-          },
-          {
-            "title": "8.8 L'EAU 추천영상 - 닥터비성형외과 김인상원장님",
-            "channel": "8.8 L'EAU 8.8로",
-            "url": "https://www.youtube.com/watch?v=kbhsg1qgyBM&pp=ygUh64ul7YSw67mE7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "541 views"
-          },
-          {
-            "title": "유령의사? 대리수술? 성형외과 의사가 직접 말하다! 👨‍⚕ 팩트만 확인하세요!! [신뢰, 전문의, 의료철학]",
-            "channel": "탑페티비",
-            "url": "https://www.youtube.com/watch?v=10PO-leAYxM&pp=ygUh64ul7YSw67mE7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "2.8K views"
+            "title": "[루이앤레이/LUI&LEI] 다이아나젠 블랙로얄피쉬 크림 닥터비 성형외과 김인상 원장 인터뷰",
+            "channel": "루이앤레이LUI&LEI",
+            "url": "https://www.youtube.com/watch?v=MLTtZKBHqn0&pp=ygUV64ul7YSw67mE7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "158"
           },
           {
             "title": "닥터비 의원 알라딘필링",
             "channel": "닥터비성형외과",
-            "url": "https://www.youtube.com/watch?v=qN4rcpElbjI&pp=ygUh64ul7YSw67mE7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "361 views"
+            "url": "https://www.youtube.com/watch?v=qN4rcpElbjI&pp=ygUV64ul7YSw67mE7J2Y7JuQIEtvcmVh",
+            "view_text": "361"
+          },
+          {
+            "title": "8.8 L'EAU 추천영상 - 닥터비성형외과 김인상원장님",
+            "channel": "8.8 L'EAU 8.8로",
+            "url": "https://www.youtube.com/watch?v=kbhsg1qgyBM&pp=ygUV64ul7YSw67mE7J2Y7JuQIEtvcmVh",
+            "view_text": "541"
+          },
+          {
+            "title": "거울 볼 때마다 제일 신경 쓰였던 ‘이 두 가지’",
+            "channel": "닥터미성형외과",
+            "url": "https://www.youtube.com/watch?v=Oh4hLM8bLl0&pp=ygUV64ul7YSw67mE7J2Y7JuQIEtvcmVh",
+            "view_text": "3"
+          },
+          {
+            "title": "[루이앤레이] 다이아나젠 블랙로얄피쉬 크림 닥터비 성형외과 김인상 원장 인터뷰",
+            "channel": "LUI&LEI",
+            "url": "https://www.youtube.com/watch?v=BIdA_KK-iuo&pp=ygUV64ul7YSw67mE7J2Y7JuQIEtvcmVh",
+            "view_text": "127"
+          },
+          {
+            "title": "닥터비펙트 (Dr.Biffect Moisturizer)",
+            "channel": "Dr.Biffect",
+            "url": "https://www.youtube.com/watch?v=dgt1Jorvg98&pp=ygUV64ul7YSw67mE7J2Y7JuQIEtvcmVh",
+            "view_text": "226"
+          },
+          {
+            "title": "닥터비펙트",
+            "channel": "Dr.Biffect",
+            "url": "https://www.youtube.com/watch?v=IdUCwt5433c&pp=ygUV64ul7YSw67mE7J2Y7JuQIEtvcmVh",
+            "view_text": "20"
+          },
+          {
+            "title": "S급 가성비 시술 BEST 5 | 피부과에서 절대 안 알려주는 수백 만원 아끼는 방법",
+            "channel": "닥터블랑_예뻐지는비결",
+            "url": "https://www.youtube.com/watch?v=_9UTYN26aqE&pp=ygUV64ul7YSw67mE7J2Y7JuQIEtvcmVh",
+            "view_text": "72K"
           }
         ]
       }
@@ -132,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 3,
-  "opportunity_cost_thb": 97000,
-  "opportunity_cost_krw": 3880000
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
 }

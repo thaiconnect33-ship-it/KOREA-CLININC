@@ -1,6 +1,6 @@
 {
   "query": "오늘성형외과의원",
-  "generated_at": "2026-05-29T00:20:46.600Z",
+  "generated_at": "2026-05-29T13:08:08.357Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -45,78 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 20,
+      "metric_value": 19,
       "extra": {
-        "total_views": 1077099,
+        "total_views": 49348,
         "foreign_video_count": 0,
         "lang_breakdown": {
-          "korean": 20,
+          "korean": 19,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
           "english_other": 0
         },
-        "sample_size": 20,
+        "sample_size": 19,
         "top_videos": [
-          {
-            "title": "[오늘성형외과] 👨‍⚕️성형외과 의사가 알려주는 윤곽수술 전 주의사항",
-            "channel": "오늘성형외과 ONUL Plastic Surgery KOREA",
-            "url": "https://www.youtube.com/watch?v=8LtaFmG0R1k&pp=ygUq7Jik64qY7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "522 views"
-          },
           {
             "title": "[오늘성형외과] 👨‍⚕️성형외과에서 절대 말해주지 않는 윤곽수술의 진실?",
             "channel": "오늘성형외과 ONUL Plastic Surgery KOREA",
-            "url": "https://www.youtube.com/watch?v=pyStOmMG-k0&pp=ygUq7Jik64qY7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=pyStOmMG-k0&pp=ygUe7Jik64qY7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "758 views"
+          },
+          {
+            "title": "[오늘성형외과] 👨‍⚕️성형외과 의사가 알려주는 윤곽수술 전 주의사항",
+            "channel": "오늘성형외과 ONUL Plastic Surgery KOREA",
+            "url": "https://www.youtube.com/watch?v=8LtaFmG0R1k&pp=ygUe7Jik64qY7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "522 views"
+          },
+          {
+            "title": "[오늘성형외과] 윤곽수술 후 안면거상은 필수일까?👀",
+            "channel": "오늘성형외과 ONUL Plastic Surgery KOREA",
+            "url": "https://www.youtube.com/watch?v=onpIH9eAw44&pp=ygUe7Jik64qY7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "389 views"
           },
           {
             "title": "[오늘성형외과] 중년 눈 성형에서 중요한 점 (상안검, 눈썹하거상술)",
             "channel": "오늘성형외과 ONUL Plastic Surgery KOREA",
-            "url": "https://www.youtube.com/watch?v=XWMtYCAz0DU&pp=ygUq7Jik64qY7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=XWMtYCAz0DU&pp=ygUe7Jik64qY7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "3.2K views"
+          },
+          {
+            "title": "[오늘성형외과] 이런 분들은 윤곽 하지 마세요 윤곽해도 효과 없을 얼굴",
+            "channel": "오늘성형외과 ONUL Plastic Surgery KOREA",
+            "url": "https://www.youtube.com/watch?v=z9hPe407Cuw&pp=ygUe7Jik64qY7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "915 views"
+          },
+          {
+            "title": "얼굴에 신경쓰이던 점들! 이젠 안녕~✨점제거시술✨(나는 솔로 6기 출연자)",
+            "channel": "오늘성형외과 ONUL Plastic Surgery KOREA",
+            "url": "https://www.youtube.com/watch?v=uQ2QZdR1SJE&pp=ygUe7Jik64qY7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "271 views"
+          },
+          {
+            "title": "[오늘성형외과] 윤곽수술 후 반드시 지켜야할 것들?😲",
+            "channel": "오늘성형외과 ONUL Plastic Surgery KOREA",
+            "url": "https://www.youtube.com/watch?v=5Mqse4aewKc&pp=ygUe7Jik64qY7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "395 views"
+          },
+          {
+            "title": "[오늘성형외과] 이런 분들은 리프팅 하지 마세요💥 (리프팅 해도 효과 없는 얼굴)",
+            "channel": "오늘성형외과 ONUL Plastic Surgery KOREA",
+            "url": "https://www.youtube.com/watch?v=-JlT92WS5DM&pp=ygUe7Jik64qY7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "447 views"
+          },
+          {
+            "title": "[오늘성형외과] 안면거상으로 20살 젊어지기?",
+            "channel": "오늘성형외과 ONUL Plastic Surgery KOREA",
+            "url": "https://www.youtube.com/watch?v=4yCi99HNDEE&pp=ygUe7Jik64qY7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "30K views"
           },
           {
             "title": "[오늘성형외과] 안면거상도 재수술이 가능할까?",
             "channel": "오늘성형외과 ONUL Plastic Surgery KOREA",
-            "url": "https://www.youtube.com/watch?v=M7udw-VxZRE&pp=ygUq7Jik64qY7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=M7udw-VxZRE&pp=ygUe7Jik64qY7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "312 views"
-          },
-          {
-            "title": "내게 맞는 안면거상은? 절개선에 따른 안면거상 수술 종류와 효과(내시경, 미니거상, 안면거상)",
-            "channel": "10년전당신의오늘",
-            "url": "https://www.youtube.com/watch?v=Z4U5tKf7oYs&pp=ygUq7Jik64qY7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "6.8K views"
-          },
-          {
-            "title": "I came for double eyelid surgery, but you're telling me to get eye shape correction too? | Dr. Se...",
-            "channel": "올리팅성형외과의원 Allliting Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=n6FrdGHAivE&pp=ygUq7Jik64qY7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "214 views"
-          },
-          {
-            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
-            "channel": "JTBC News",
-            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUq7Jik64qY7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1M views"
-          },
-          {
-            "title": "스누성형외과 소개 영상 SNU Plastic Surgery",
-            "channel": "스누성형외과 SNU Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=4s2wwCEoKNI&pp=ygUq7Jik64qY7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "6.4K views"
-          },
-          {
-            "title": "성형수술 전,  \"이 것\"만 확인하면 된다고?!",
-            "channel": "오늘의병원",
-            "url": "https://www.youtube.com/watch?v=jWZHyewXgZ4&t=19s&pp=ygUq7Jik64qY7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.2K views"
-          },
-          {
-            "title": "[오늘성형외과] 피부 재생 레이저, 재생주사로 다시 태어난 피부 🔥🔥🔥 (나는 솔로 6기 출연자)",
-            "channel": "오늘성형외과 ONUL Plastic Surgery KOREA",
-            "url": "https://www.youtube.com/watch?v=QChobs14tfo&pp=ygUq7Jik64qY7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.4K views"
           }
         ]
       }
@@ -132,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

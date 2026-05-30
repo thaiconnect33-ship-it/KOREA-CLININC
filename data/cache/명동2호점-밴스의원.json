@@ -1,26 +1,28 @@
 {
   "query": "명동2호점 밴스의원",
-  "generated_at": "2026-05-28T23:04:18.122Z",
+  "generated_at": "2026-05-29T11:44:21.848Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 5357,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "1402753960",
+        "name": "명동2호점 밴스의원 : 네이버\u001c",
+        "visitor_review_count": 362,
+        "blog_review_count": 4995,
+        "detail_url": "https://m.place.naver.com/place/1402753960/home"
       }
     },
     "google_maps": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 153,
+      "metric_value": 154,
       "extra": {
         "name": "Results",
         "rating": 4.9,
-        "total_reviews": 153,
+        "total_reviews": 154,
         "sample_size": 6,
         "foreign_language_reviews": 6,
         "lang_breakdown": {
@@ -43,9 +45,80 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 0,
+      "metric_value": 18,
       "extra": {
-        "note": "결과 없음"
+        "total_views": 5820830,
+        "foreign_video_count": 2,
+        "lang_breakdown": {
+          "korean": 16,
+          "thai": 0,
+          "chinese": 1,
+          "japanese": 0,
+          "english_other": 1
+        },
+        "sample_size": 18,
+        "top_videos": [
+          {
+            "title": "✨리니어지 리프팅 효과✨밴스의원 신사점 원장님이 직접 보여준다! PD가 놀란 이유는?!😮(반반시술 비교, 시술후기, 통증)",
+            "channel": "밴스의원 VandS Clinic",
+            "url": "https://www.youtube.com/watch?v=QybAyMWD1eI&pp=ygUg66qF64-ZMu2YuOygkCDrsLTsiqTsnZjsm5AgS29yZWE%3D",
+            "view_text": "10K views"
+          },
+          {
+            "title": "\"원장님께서 별세하셨기에\"…유명 피부과 '피해자 속출' / SBS 8뉴스",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=-3uLsD3sWGU&pp=ygUg66qF64-ZMu2YuOygkCDrsLTsiqTsnZjsm5AgS29yZWE%3D",
+            "view_text": "924K views"
+          },
+          {
+            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUg66qF64-ZMu2YuOygkCDrsLTsiqTsnZjsm5AgS29yZWE%3D",
+            "view_text": "1M views"
+          },
+          {
+            "title": "[Head Doctor Treatment] ONDA Lifting Review – Does It Really Work?",
+            "channel": "VandS Clinic Global",
+            "url": "https://www.youtube.com/watch?v=0N87-hdRI_w&pp=ygUg66qF64-ZMu2YuOygkCDrsLTsiqTsnZjsm5AgS29yZWE%3D",
+            "view_text": "1.2K views"
+          },
+          {
+            "title": "밴스 영등포 오시는 길",
+            "channel": "밴스의원 VandS Clinic",
+            "url": "https://www.youtube.com/watch?v=aVu7U0-aTPw&pp=ygUg66qF64-ZMu2YuOygkCDrsLTsiqTsnZjsm5AgS29yZWE%3D",
+            "view_text": "562 views"
+          },
+          {
+            "title": "자연스럽게 헤어라인 교정 하는 법!!👧🏻 별명 황비홍인 사람들은 들어와라🔥|SMP시술|",
+            "channel": "밴스의원 VandS Clinic",
+            "url": "https://www.youtube.com/watch?v=bruS4g-A-XQ&pp=ygUg66qF64-ZMu2YuOygkCDrsLTsiqTsnZjsm5AgS29yZWHSBwkJIwsBhyohjO8%3D",
+            "view_text": "402 views"
+          },
+          {
+            "title": "\"시술 그만하겠다\"에 \"환불 불가\"…피부과 최다 / SBS",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=dYbmlkVo8AE&pp=ygUg66qF64-ZMu2YuOygkCDrsLTsiqTsnZjsm5AgS29yZWE%3D",
+            "view_text": "4.8K views"
+          },
+          {
+            "title": "전직 10년차 직원이 말하는 피부과에서 일하면 안 되는 이유 4가지",
+            "channel": "소의튜브soytube",
+            "url": "https://www.youtube.com/watch?v=9TedcQ1CKwM&pp=ygUg66qF64-ZMu2YuOygkCDrsLTsiqTsnZjsm5AgS29yZWE%3D",
+            "view_text": "147K views"
+          },
+          {
+            "title": "📢모발이식?ㄴㄴ 요즘은 SMP🔥 SMP시술로 헤어라인 교정받으세요!!✨ 시술 2회차만에..???",
+            "channel": "밴스의원 VandS Clinic",
+            "url": "https://www.youtube.com/watch?v=jfqzfHQK8zM&pp=ygUg66qF64-ZMu2YuOygkCDrsLTsiqTsnZjsm5AgS29yZWE%3D",
+            "view_text": "6K views"
+          },
+          {
+            "title": "피부과 시술 부작용 Vlog…ㅠ 내 피부 돌려줘.. 다신 안해…🫠ㅣMINCARONG",
+            "channel": "민카롱",
+            "url": "https://www.youtube.com/watch?v=wRJR2kY2x9w&pp=ygUg66qF64-ZMu2YuOygkCDrsLTsiqTsnZjsm5AgS29yZWE%3D",
+            "view_text": "1.7M views"
+          }
+        ]
       }
     },
     "xiaohongshu": {
@@ -59,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 3,
-  "opportunity_cost_thb": 97000,
-  "opportunity_cost_krw": 3880000
+  "global_score": 5,
+  "opportunity_cost_thb": 96000,
+  "opportunity_cost_krw": 3840000
 }

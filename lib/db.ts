@@ -352,6 +352,111 @@ export async function loadClinicReviews(c: Clinic): Promise<ReviewQuote[]> {
   return out.slice(0, 30);
 }
 
+// ── Lang-filtered content (영어 모드 carousel 용) ───
+// 데이터 source 가 99% Thai 라 영어 페이지는 clinic cache 의 영어 YouTube + Reddit 만 노출.
+
+const THAI_RE = /[฀-๿]/;
+const HANGUL_RE = /[가-힣]/;
+
+export type EnglishVideoCard = {
+  title: string;
+  channel: string;
+  url: string;
+  view_text: string;
+  views: number;
+};
+
+let _enVideos: EnglishVideoCard[] | null = null;
+export async function loadEnglishVideos(limit = 12): Promise<EnglishVideoCard[]> {
+  if (_enVideos) return _enVideos.slice(0, limit);
+  const clinics = await loadAllClinics();
+  const all: EnglishVideoCard[] = [];
+  const seenUrl = new Set<string>();
+  for (const c of clinics) {
+    const yt = c.scout?.platforms.youtube;
+    const top = (yt?.extra as { top_videos?: Array<{ title?: string; channel?: string; url?: string; view_text?: string }> })?.top_videos;
+    if (!Array.isArray(top)) continue;
+    for (const v of top) {
+      if (!v.url || !v.title || seenUrl.has(v.url)) continue;
+      // Thai/한글 자막 비디오 제외 (영어 채널 + 영어 타이틀만).
+      if (THAI_RE.test(v.title) || HANGUL_RE.test(v.title)) continue;
+      if (v.channel && (THAI_RE.test(v.channel) || HANGUL_RE.test(v.channel))) continue;
+      seenUrl.add(v.url);
+      // "1.2K views" → 1200
+      const vt = v.view_text || "";
+      const m = vt.match(/([\d.]+)\s*([KMB]?)/i);
+      let views = 0;
+      if (m) {
+        const n = parseFloat(m[1]);
+        const u = m[2].toUpperCase();
+        views = u === "K" ? n * 1e3 : u === "M" ? n * 1e6 : u === "B" ? n * 1e9 : n;
+      }
+      all.push({ title: v.title, channel: v.channel || "", url: v.url, view_text: vt, views: Math.round(views) });
+    }
+  }
+  all.sort((a, b) => b.views - a.views);
+  _enVideos = all;
+  return all.slice(0, limit);
+}
+
+export type EnglishReviewCard = {
+  source: "Reddit" | "YouTube" | "Realself" | "Xiaohongshu";
+  flag: string;
+  bg: string;
+  title: string;
+  url: string;
+  author: string;
+  metric: number;
+};
+
+let _enReviews: EnglishReviewCard[] | null = null;
+export async function loadEnglishReviews(limit = 20): Promise<EnglishReviewCard[]> {
+  if (_enReviews) return _enReviews.slice(0, limit);
+  const out: EnglishReviewCard[] = [];
+  const seenUrl = new Set<string>();
+  // 1) Reddit market data (40 영어 + 10 mixed).
+  const reddit = await readJSON<{ sample_posts?: SamplePost[] }>("reddit_market.json", {});
+  for (const p of reddit.sample_posts ?? []) {
+    if (!p.title || !p.url || seenUrl.has(p.url)) continue;
+    if (THAI_RE.test(p.title) || HANGUL_RE.test(p.title)) continue;
+    seenUrl.add(p.url);
+    out.push({
+      source: "Reddit", flag: "🌐", bg: "bg-orange-50",
+      title: p.title.slice(0, 120),
+      url: p.url,
+      author: p.author || "",
+      metric: p.likes ?? p.views ?? 0,
+    });
+  }
+  // 2) Realself (보통 0 이지만 있으면).
+  const realself = await readJSON<{ sample_posts?: SamplePost[] }>("realself_market.json", {});
+  for (const p of realself.sample_posts ?? []) {
+    if (!p.title || !p.url || seenUrl.has(p.url)) continue;
+    seenUrl.add(p.url);
+    out.push({
+      source: "Realself", flag: "🇺🇸", bg: "bg-emerald-50",
+      title: p.title.slice(0, 120), url: p.url,
+      author: p.author || "",
+      metric: p.likes ?? p.views ?? 0,
+    });
+  }
+  // 3) Clinic cache 의 영어 YouTube 비디오 (high views).
+  const enVids = await loadEnglishVideos(50);
+  for (const v of enVids.slice(0, 12)) {
+    if (seenUrl.has(v.url)) continue;
+    seenUrl.add(v.url);
+    out.push({
+      source: "YouTube", flag: "▶️", bg: "bg-red-50",
+      title: v.title.slice(0, 120), url: v.url,
+      author: v.channel,
+      metric: v.views,
+    });
+  }
+  out.sort((a, b) => b.metric - a.metric);
+  _enReviews = out;
+  return out.slice(0, limit);
+}
+
 // ── Aggregate stats (홈 hero stats 용) ────────────
 export async function loadHomeStats() {
   const [clinics, influencers, topics] = await Promise.all([

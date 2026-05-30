@@ -1,0 +1,148 @@
+{
+  "query": "제이와이성형외과의원 청담",
+  "generated_at": "2026-05-29T10:51:00.281Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 1869,
+      "extra": {
+        "place_id": "1583875872",
+        "name": "제이와이성형외과의원 청담 : 네이버\u001c",
+        "visitor_review_count": 138,
+        "blog_review_count": 1731,
+        "detail_url": "https://m.place.naver.com/place/1583875872/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "제이와이성형외과의원",
+        "rating": 4.4,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 38145,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "청담 제이와이 성형외과 Cheongdam  JY Plastic Surgery in korea",
+            "channel": "K-이슈와이어",
+            "url": "https://www.youtube.com/watch?v=qr_DMa1BMUc&pp=ygUr7KCc7J207JmA7J207ISx7ZiV7Jm46rO87J2Y7JuQIOyyreuLtCBLb3JlYQ%3D%3D",
+            "view_text": "582 views"
+          },
+          {
+            "title": "청담실리프팅 중년 리프팅 - 청담 JY 성형외과 최준영 대표 원장",
+            "channel": "K-이슈와이어",
+            "url": "https://www.youtube.com/watch?v=CzRfRkt4eNQ&pp=ygUr7KCc7J207JmA7J207ISx7ZiV7Jm46rO87J2Y7JuQIOyyreuLtCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "1.1K views"
+          },
+          {
+            "title": "청담피부과 이와이클리닉을 소개합니다.",
+            "channel": "이와이의원 EY_Clinic",
+            "url": "https://www.youtube.com/watch?v=KNF58TJgF6Q&pp=ygUr7KCc7J207JmA7J207ISx7ZiV7Jm46rO87J2Y7JuQIOyyreuLtCBLb3JlYQ%3D%3D",
+            "view_text": "1.2K views"
+          },
+          {
+            "title": "[제이와이] 모티바 할로윈 영상",
+            "channel": "성형외과JY",
+            "url": "https://www.youtube.com/watch?v=eXlCcut22DE&pp=ygUr7KCc7J207JmA7J207ISx7ZiV7Jm46rO87J2Y7JuQIOyyreuLtCBLb3JlYQ%3D%3D",
+            "view_text": "561 views"
+          },
+          {
+            "title": "나만 몰랐던 동안의 비결!!",
+            "channel": "청담동칼잡이",
+            "url": "https://www.youtube.com/watch?v=9H6m7o3cSlo&pp=ygUr7KCc7J207JmA7J207ISx7ZiV7Jm46rO87J2Y7JuQIOyyreuLtCBLb3JlYQ%3D%3D",
+            "view_text": "634 views"
+          },
+          {
+            "title": "[제이와이]JY체형관리센터 강종범 원장님 인터뷰 영상",
+            "channel": "체형관리센터JY",
+            "url": "https://www.youtube.com/watch?v=D6H80ymF3h8&pp=ygUr7KCc7J207JmA7J207ISx7ZiV7Jm46rO87J2Y7JuQIOyyreuLtCBLb3JlYQ%3D%3D",
+            "view_text": "162 views"
+          },
+          {
+            "title": "JY성형외과피부과의원X엘란쎄 필러, 뷰티클래스 성황리 개최",
+            "channel": "주식회사아시아뉴스통신",
+            "url": "https://www.youtube.com/watch?v=4hyPxY9q69M&pp=ygUr7KCc7J207JmA7J207ISx7ZiV7Jm46rO87J2Y7JuQIOyyreuLtCBLb3JlYQ%3D%3D",
+            "view_text": "205 views"
+          },
+          {
+            "title": "JY성형외과·다나에, SPRING 뷰티클래스 성공리에 개최",
+            "channel": "주식회사아시아뉴스통신",
+            "url": "https://www.youtube.com/watch?v=Mj5DIOtITCg&pp=ygUr7KCc7J207JmA7J207ISx7ZiV7Jm46rO87J2Y7JuQIOyyreuLtCBLb3JlYQ%3D%3D",
+            "view_text": "203 views"
+          },
+          {
+            "title": "출산이후 기미가 증가하는 이유!!",
+            "channel": "청담동칼잡이",
+            "url": "https://www.youtube.com/watch?v=LqABMC5EIDI&pp=ygUr7KCc7J207JmA7J207ISx7ZiV7Jm46rO87J2Y7JuQIOyyreuLtCBLb3JlYQ%3D%3D",
+            "view_text": "101 views"
+          },
+          {
+            "title": "Hand wrinkles, Hands Aging, Fix Them with HAND FILLERS | Hand filler review, get rid of granny hands",
+            "channel": "손승용원장의 안티에이징 탐구생활",
+            "url": "https://www.youtube.com/watch?v=I965BXuizcI&pp=ygUr7KCc7J207JmA7J207ISx7ZiV7Jm46rO87J2Y7JuQIOyyreuLtCBLb3JlYQ%3D%3D",
+            "view_text": "13K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 140000,
+  "opportunity_cost_krw": 5600000
+}

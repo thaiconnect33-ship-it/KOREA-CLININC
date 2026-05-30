@@ -1,6 +1,6 @@
 {
   "query": "라미약국약국",
-  "generated_at": "2026-05-28T23:21:55.168Z",
+  "generated_at": "2026-05-29T12:04:27.794Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -38,7 +38,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 12304667,
+        "total_views": 11211007,
         "foreign_video_count": 2,
         "lang_breakdown": {
           "korean": 18,
@@ -52,7 +52,7 @@
           {
             "title": "Living in France / Everything You Need to Know About Working at a French Pharmacy, Minimum Wage i...",
             "channel": "JURANG",
-            "url": "https://www.youtube.com/watch?v=i7m27Puwx8A&pp=ygUY652866-47JW96rWt7JW96rWtIEtvcmVh0gcJCQ0LAYcqIYzv",
+            "url": "https://www.youtube.com/watch?v=i7m27Puwx8A&pp=ygUY652866-47JW96rWt7JW96rWtIEtvcmVh",
             "view_text": "2.1K views"
           },
           {
@@ -68,10 +68,22 @@
             "view_text": "4.9K views"
           },
           {
+            "title": "라디오 광고음악/ 평안섬유/ 독립문 p.a.t /1976",
+            "channel": "행복발전소",
+            "url": "https://www.youtube.com/watch?v=Rj0NZ0rpWbk&pp=ygUY652866-47JW96rWt7JW96rWtIEtvcmVh",
+            "view_text": "1.1K views"
+          },
+          {
             "title": "실제 에이즈 사망자를 부검하면 보게 되는 충격적인 시신 상태..",
             "channel": "유성호의 데맨톡(Deadmantalk)",
             "url": "https://www.youtube.com/watch?v=m24Dz-dX888&pp=ygUY652866-47JW96rWt7JW96rWtIEtvcmVh",
             "view_text": "6M views"
+          },
+          {
+            "title": "입시가 힘들었던 순간이 언제야?  | 스튜디오 샤",
+            "channel": "스튜디오 샤",
+            "url": "https://www.youtube.com/watch?v=mj5oQ8N4Pok&pp=ygUY652866-47JW96rWt7JW96rWtIEtvcmVh",
+            "view_text": "37K views"
           },
           {
             "title": "🔥N잡 시대에 맞게 부업도 잘하는 라미크🔥 (본업: 주방 인테리어)",
@@ -80,34 +92,22 @@
             "view_text": "1.1K views"
           },
           {
-            "title": "글루콤 사용법",
-            "channel": "글루콤",
-            "url": "https://www.youtube.com/watch?v=CXtRnQFStb4&pp=ygUY652866-47JW96rWt7JW96rWtIEtvcmVh",
-            "view_text": "38K views"
-          },
-          {
-            "title": "약대생, 약국가다 (1화)",
-            "channel": "쓰리투원영 약사로운 원영생활",
-            "url": "https://www.youtube.com/watch?v=oEIKAGYLfjg&pp=ygUY652866-47JW96rWt7JW96rWtIEtvcmVh",
-            "view_text": "2.2K views"
-          },
-          {
-            "title": "약사VLOG I 지속 가능한 루틴, 완벽 보단 꾸준함, 매달 하는 피부관리, 약사로서 뿌듯한 순간들..",
-            "channel": "토샤 Tosha",
-            "url": "https://www.youtube.com/watch?v=ox9qbHvO8SQ&t=24s&pp=ygUY652866-47JW96rWt7JW96rWtIEtvcmVh",
-            "view_text": "112 views"
-          },
-          {
-            "title": "라디오 광고음악/ 평안섬유/ 독립문 p.a.t /1976",
-            "channel": "행복발전소",
-            "url": "https://www.youtube.com/watch?v=Rj0NZ0rpWbk&pp=ygUY652866-47JW96rWt7JW96rWtIEtvcmVh",
-            "view_text": "1.1K views"
+            "title": "월계수 양복점 신사들 - 라미란 분노, ˝씨없는 수박 된거야?˝.201601105",
+            "channel": "KBS Drama",
+            "url": "https://www.youtube.com/watch?v=gduRgsegQPM&pp=ygUY652866-47JW96rWt7JW96rWtIEtvcmVh",
+            "view_text": "6.6K views"
           },
           {
             "title": "이시각 퇴근길‥\"약국·병원은 계속 써야 (2023.03.20/뉴스데스크/MBC)",
             "channel": "MBCNEWS",
             "url": "https://www.youtube.com/watch?v=hCrlO9jpVKs&pp=ygUY652866-47JW96rWt7JW96rWtIEtvcmVh",
             "view_text": "3.4K views"
+          },
+          {
+            "title": "Park Bom sues Yang Hyun-suk again on social media? \"He made me look like a retard.\" / KNN",
+            "channel": "KNN NEWS",
+            "url": "https://www.youtube.com/watch?v=z6yI57fYVzk&pp=ygUY652866-47JW96rWt7JW96rWtIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "1.7M views"
           }
         ]
       }
@@ -123,12 +123,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

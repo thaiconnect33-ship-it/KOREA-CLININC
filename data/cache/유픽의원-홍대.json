@@ -1,0 +1,142 @@
+{
+  "query": "유픽의원 홍대",
+  "generated_at": "2026-05-29T11:28:19.908Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 2426,
+      "extra": {
+        "place_id": "1209682419",
+        "name": "유픽의원 홍대 : 네이버\u001c",
+        "visitor_review_count": 590,
+        "blog_review_count": 1836,
+        "detail_url": "https://m.place.naver.com/place/1209682419/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 398,
+      "extra": {
+        "name": "UPIC Clinic Hongdae",
+        "rating": 4.9,
+        "total_reviews": 398,
+        "sample_size": 30,
+        "foreign_language_reviews": 30,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 30
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 9,
+      "extra": {
+        "total_views": 2904041,
+        "foreign_video_count": 2,
+        "lang_breakdown": {
+          "korean": 7,
+          "thai": 0,
+          "chinese": 2,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 9,
+        "top_videos": [
+          {
+            "title": "유픽이 선택한 색소치료! 피코하이!",
+            "channel": "친절한 닥터우굥씨",
+            "url": "https://www.youtube.com/watch?v=wnyGoqdJEN8&pp=ygUZ7Jyg7ZS97J2Y7JuQIO2ZjeuMgCBLb3JlYQ%3D%3D",
+            "view_text": "141 views"
+          },
+          {
+            "title": "[단독] 강남 성형외과에 '분통'…\"근육 썩고 사경 헤맸다\" / SBS 8뉴스",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=svfX3-lNpIw&pp=ygUZ7Jyg7ZS97J2Y7JuQIO2ZjeuMgCBLb3JlYQ%3D%3D",
+            "view_text": "2.4M views"
+          },
+          {
+            "title": "[ENG SUB]How can I do what even a university hospital couldn't do? ㅣ Director of Gangnam Dermatology",
+            "channel": "하와이 대저택",
+            "url": "https://www.youtube.com/watch?v=C1sFrxRZ7Fk&pp=ygUZ7Jyg7ZS97J2Y7JuQIO2ZjeuMgCBLb3JlYQ%3D%3D",
+            "view_text": "289K views"
+          },
+          {
+            "title": "What's different about a private VIP hospital renovated from a single-family home in Gangnam?!",
+            "channel": "의사 이유주",
+            "url": "https://www.youtube.com/watch?v=AYxgt_Fo5yc&pp=ygUZ7Jyg7ZS97J2Y7JuQIO2ZjeuMgCBLb3JlYQ%3D%3D",
+            "view_text": "22K views"
+          },
+          {
+            "title": "The 3 hottest lifting techniques of 2026!",
+            "channel": "우선이선우",
+            "url": "https://www.youtube.com/watch?v=WURy85QhcqU&pp=ygUZ7Jyg7ZS97J2Y7JuQIO2ZjeuMgCBLb3JlYQ%3D%3D",
+            "view_text": "13K views"
+          },
+          {
+            "title": "🔥동종진피 스킨부스터 리투오 셀르디엠 쥬브아셀 | 통증, 효과는 어떻게 다를까? 반반 시술하고 비교해봤어요 #피부재생 #피부시술",
+            "channel": "홍대 뷰티스닥터 (Beautysdoctors)",
+            "url": "https://www.youtube.com/watch?v=2A1t3R5sE_Y&pp=ygUZ7Jyg7ZS97J2Y7JuQIO2ZjeuMgCBLb3JlYQ%3D%3D",
+            "view_text": "2.5K views"
+          },
+          {
+            "title": "Peanut-shaped face? Don't get fillers! We'll show you how to get a prettier face shape without fi...",
+            "channel": "우선이선우",
+            "url": "https://www.youtube.com/watch?v=f3dElHX8n68&pp=ygUZ7Jyg7ZS97J2Y7JuQIO2ZjeuMgCBLb3JlYQ%3D%3D",
+            "view_text": "51K views"
+          },
+          {
+            "title": "韓國醫美初體驗｜望遠市場不可錯過的糖餅｜必訪醬蟹吃到飽｜如何用氣候同行卡回仁川機場｜2025 🇰🇷 首爾 Vlog #4",
+            "channel": "溫室日記 Wen's Diary",
+            "url": "https://www.youtube.com/watch?v=DaTSSOXLFl4&t=327s&pp=ygUZ7Jyg7ZS97J2Y7JuQIO2ZjeuMgCBLb3JlYQ%3D%3D",
+            "view_text": "5.4K views"
+          },
+          {
+            "title": "【2025 首爾自由行全記錄】三天兩夜交通、美食、醫美與行程踩點最強整理版！｜首爾🇰🇷Vlog",
+            "channel": "溫室日記 Wen's Diary",
+            "url": "https://www.youtube.com/watch?v=rQHEIZavgxk&pp=ygUZ7Jyg7ZS97J2Y7JuQIO2ZjeuMgCBLb3JlYQ%3D%3D",
+            "view_text": "121K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 17,
+  "opportunity_cost_thb": 94000,
+  "opportunity_cost_krw": 3760000
+}

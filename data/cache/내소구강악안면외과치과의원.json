@@ -1,6 +1,6 @@
 {
   "query": "내소구강악안면외과치과의원",
-  "generated_at": "2026-05-29T00:15:21.630Z",
+  "generated_at": "2026-05-29T13:02:34.425Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -21,15 +21,15 @@
       "metric_value": 0,
       "extra": {
         "name": "Results",
-        "rating": 2.8,
+        "rating": 3.5,
         "total_reviews": 0,
-        "sample_size": 6,
-        "foreign_language_reviews": 6,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 6
+          "english_other": 0
         }
       }
     },
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 18,
       "extra": {
-        "total_views": 40015,
+        "total_views": 40018,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 18,
@@ -59,64 +59,64 @@
         "sample_size": 18,
         "top_videos": [
           {
-            "title": "양악수술 해? 말아? 이 영상으로 종결합니다. [서울대 구강악안면외과 전문의]",
-            "channel": "박재봉의 얼굴뼈 연구소 FACE LAB",
-            "url": "https://www.youtube.com/watch?v=td365t-R4i4&pp=ygUz64K07IaM6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "3.8K views"
-          },
-          {
             "title": "[3D 가상수술_윤곽수술]",
             "channel": "박재봉의 얼굴뼈 연구소 FACE LAB",
-            "url": "https://www.youtube.com/watch?v=ggeLGj9n7Lg&pp=ygUz64K07IaM6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=ggeLGj9n7Lg&pp=ygUt64K07IaM6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQIEtvcmVh",
             "view_text": "5.3K views"
+          },
+          {
+            "title": "양악수술 해? 말아? 이 영상으로 종결합니다. [서울대 구강악안면외과 전문의]",
+            "channel": "박재봉의 얼굴뼈 연구소 FACE LAB",
+            "url": "https://www.youtube.com/watch?v=td365t-R4i4&pp=ygUt64K07IaM6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "3.8K views"
           },
           {
             "title": "[상악수술_충돌부위 확인}",
             "channel": "박재봉의 얼굴뼈 연구소 FACE LAB",
-            "url": "https://www.youtube.com/watch?v=Eq97nJcdknQ&pp=ygUz64K07IaM6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=Eq97nJcdknQ&pp=ygUt64K07IaM6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQIEtvcmVh",
             "view_text": "1.5K views"
+          },
+          {
+            "title": "[가상수술과 실제수술 중첩]",
+            "channel": "박재봉의 얼굴뼈 연구소 FACE LAB",
+            "url": "https://www.youtube.com/watch?v=mQnK48F6hec&pp=ygUt64K07IaM6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "2.7K views"
+          },
+          {
+            "title": "[양악수술과 윤곽수술]",
+            "channel": "박재봉의 얼굴뼈 연구소 FACE LAB",
+            "url": "https://www.youtube.com/watch?v=OZeQKcXBzPw&pp=ygUt64K07IaM6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "3.3K views"
           },
           {
             "title": "[3D 가상수술_양악수술]",
             "channel": "박재봉의 얼굴뼈 연구소 FACE LAB",
-            "url": "https://www.youtube.com/watch?v=qbk704eTxhs&pp=ygUz64K07IaM6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=qbk704eTxhs&pp=ygUt64K07IaM6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQIEtvcmVh",
             "view_text": "2.1K views"
-          },
-          {
-            "title": "Template-based maxillary repositioning",
-            "channel": "박재봉의 얼굴뼈 연구소 FACE LAB",
-            "url": "https://www.youtube.com/watch?v=fwTrIuW76vs&pp=ygUz64K07IaM6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
-            "view_text": "1K views"
-          },
-          {
-            "title": "[3D-Orthognathic surgery] Facial asymmetry, Mandibular prognathism",
-            "channel": "박재봉의 얼굴뼈 연구소 FACE LAB",
-            "url": "https://www.youtube.com/watch?v=24e1SdPXLRI&pp=ygUz64K07IaM6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
-            "view_text": "670 views"
-          },
-          {
-            "title": "[서울권치과]구강내소수술 세미나 현장스케치",
-            "channel": "권의시선 : 치과의사 권낙현",
-            "url": "https://www.youtube.com/watch?v=iTMWEXd89zI&pp=ygUz64K07IaM6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
-            "view_text": "826 views"
           },
           {
             "title": "[Factors affecting the accuracy] (1) Errors in CR bite registration; CO-CR discrepancy",
             "channel": "박재봉의 얼굴뼈 연구소 FACE LAB",
-            "url": "https://www.youtube.com/watch?v=jeFalV9A8oM&pp=ygUz64K07IaM6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "url": "https://www.youtube.com/watch?v=jeFalV9A8oM&pp=ygUt64K07IaM6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQIEtvcmVh",
             "view_text": "2.4K views"
           },
           {
             "title": "[양악수술용 스플린트 제작(2)]_3D 분석_3D모델링_3D프린팅",
             "channel": "박재봉의 얼굴뼈 연구소 FACE LAB",
-            "url": "https://www.youtube.com/watch?v=eXEAKBTcS3k&pp=ygUz64K07IaM6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=eXEAKBTcS3k&pp=ygUt64K07IaM6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQIEtvcmVh",
             "view_text": "2.4K views"
           },
           {
-            "title": "[양악수술과 윤곽수술]",
+            "title": "Template-based maxillary repositioning",
             "channel": "박재봉의 얼굴뼈 연구소 FACE LAB",
-            "url": "https://www.youtube.com/watch?v=OZeQKcXBzPw&pp=ygUz64K07IaM6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
-            "view_text": "3.3K views"
+            "url": "https://www.youtube.com/watch?v=fwTrIuW76vs&pp=ygUt64K07IaM6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1K views"
+          },
+          {
+            "title": "[3D-Orthognathic surgery] Facial asymmetry, Mandibular prognathism",
+            "channel": "박재봉의 얼굴뼈 연구소 FACE LAB",
+            "url": "https://www.youtube.com/watch?v=24e1SdPXLRI&pp=ygUt64K07IaM6rWs6rCV7JWF7JWI66m07Jm46rO87LmY6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "670 views"
           }
         ]
       }
@@ -132,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 3,
-  "opportunity_cost_thb": 97000,
-  "opportunity_cost_krw": 3880000
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
 }

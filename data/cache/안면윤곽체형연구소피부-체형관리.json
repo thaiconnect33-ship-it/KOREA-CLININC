@@ -1,17 +1,17 @@
 {
   "query": "안면윤곽체형연구소피부,체형관리",
-  "generated_at": "2026-05-29T00:17:30.839Z",
+  "generated_at": "2026-05-29T13:04:40.888Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 357,
+      "metric_value": 639,
       "extra": {
         "place_id": "1385610276",
         "name": "바른얼굴윤곽연구소 강남논현본점 : 네이버\u001c",
         "visitor_review_count": 357,
-        "blog_review_count": 0,
+        "blog_review_count": 282,
         "detail_url": "https://m.place.naver.com/place/1385610276/home"
       }
     },
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 1237735,
+        "total_views": 1626690,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -59,64 +59,64 @@
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "'최고 1천만 원' 피부·체형 관리, 피해에는 '나몰라라' / YTN",
-            "channel": "YTN",
-            "url": "https://www.youtube.com/watch?v=5Aqwixp_PF0&pp=ygU07JWI66m07Jyk6rO97LK07ZiV7Jew6rWs7IaM7ZS867aALOyytO2Yleq0gOumrCBLb3JlYQ%3D%3D",
-            "view_text": "324"
-          },
-          {
             "title": "짱박사 뷰티스튜디오 소개영상/ Introduction 명지 피부미용/명지 마사지/명지 체형관리",
             "channel": "짱박사 TV - 미용과 건강 by NRS",
             "url": "https://www.youtube.com/watch?v=H9oca2sZGXk&pp=ygU07JWI66m07Jyk6rO97LK07ZiV7Jew6rWs7IaM7ZS867aALOyytO2Yleq0gOumrCBLb3JlYQ%3D%3D",
-            "view_text": "647"
+            "view_text": "648 views"
+          },
+          {
+            "title": "'최고 1천만 원' 피부·체형 관리, 피해에는 '나몰라라' / YTN",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=5Aqwixp_PF0&pp=ygU07JWI66m07Jyk6rO97LK07ZiV7Jew6rWs7IaM7ZS867aALOyytO2Yleq0gOumrCBLb3JlYQ%3D%3D",
+            "view_text": "324 views"
           },
           {
             "title": "피부관리실 하체수기관리 테크닉 교육 (하체후면마사지)",
             "channel": "도테라 융원장TV",
             "url": "https://www.youtube.com/watch?v=3DXv39D_R8U&pp=ygU07JWI66m07Jyk6rO97LK07ZiV7Jew6rWs7IaM7ZS867aALOyytO2Yleq0gOumrCBLb3JlYQ%3D%3D",
-            "view_text": "98K"
+            "view_text": "98K views"
           },
           {
             "title": "20년 미용 전문가에게 얼굴구조설계케어 셀프관리방법 배우고왔습니다",
             "channel": "KBEAUTYRELAX 케이뷰티릴렉스",
-            "url": "https://www.youtube.com/watch?v=lUWDR6dtwrg&pp=ygU07JWI66m07Jyk6rO97LK07ZiV7Jew6rWs7IaM7ZS867aALOyytO2Yleq0gOumrCBLb3JlYdIHCQkNCwGHKiGM7w%3D%3D",
-            "view_text": "1.8K"
-          },
-          {
-            "title": "필러 장인이 알려주는 뼈 안 깎고 얼굴 작아지는 확실한 방법✨",
-            "channel": "닥터케빈 and 텐바디업 10 Body Up",
-            "url": "https://www.youtube.com/watch?v=yw26pwxYsS4&pp=ygU07JWI66m07Jyk6rO97LK07ZiV7Jew6rWs7IaM7ZS867aALOyytO2Yleq0gOumrCBLb3JlYQ%3D%3D",
-            "view_text": "20K"
+            "url": "https://www.youtube.com/watch?v=lUWDR6dtwrg&pp=ygU07JWI66m07Jyk6rO97LK07ZiV7Jew6rWs7IaM7ZS867aALOyytO2Yleq0gOumrCBLb3JlYQ%3D%3D",
+            "view_text": "1.8K views"
           },
           {
             "title": "[셀링라이프] 동안 얼굴을 만드는 얼굴 홈트가 있다????????",
             "channel": "셀링라이프",
             "url": "https://www.youtube.com/watch?v=4_petsaXI70&pp=ygU07JWI66m07Jyk6rO97LK07ZiV7Jew6rWs7IaM7ZS867aALOyytO2Yleq0gOumrCBLb3JlYQ%3D%3D",
-            "view_text": "804"
+            "view_text": "804 views"
           },
           {
             "title": "굶어도 안 빠지는 살 빼는 방법!",
             "channel": "라마르프리미어의원_범계역",
             "url": "https://www.youtube.com/watch?v=UiOICD1mJvI&pp=ygU07JWI66m07Jyk6rO97LK07ZiV7Jew6rWs7IaM7ZS867aALOyytO2Yleq0gOumrCBLb3JlYQ%3D%3D",
-            "view_text": "396"
+            "view_text": "396 views"
+          },
+          {
+            "title": "필러 장인이 알려주는 뼈 안 깎고 얼굴 작아지는 확실한 방법✨",
+            "channel": "닥터케빈 and 텐바디업 10 Body Up",
+            "url": "https://www.youtube.com/watch?v=yw26pwxYsS4&pp=ygU07JWI66m07Jyk6rO97LK07ZiV7Jew6rWs7IaM7ZS867aALOyytO2Yleq0gOumrCBLb3JlYQ%3D%3D",
+            "view_text": "20K views"
           },
           {
             "title": "OO베개의 비밀...공구각 선 쥴리쿠 관리비법! / #쥴리쿠수기성형마사지",
             "channel": "뷰티디렉터 쥴리쿠",
-            "url": "https://www.youtube.com/watch?v=v6vpesEec7I&pp=ygU07JWI66m07Jyk6rO97LK07ZiV7Jew6rWs7IaM7ZS867aALOyytO2Yleq0gOumrCBLb3JlYdIHCQkNCwGHKiGM7w%3D%3D",
-            "view_text": "1.4K"
+            "url": "https://www.youtube.com/watch?v=v6vpesEec7I&pp=ygU07JWI66m07Jyk6rO97LK07ZiV7Jew6rWs7IaM7ZS867aALOyytO2Yleq0gOumrCBLb3JlYQ%3D%3D",
+            "view_text": "1.4K views"
           },
           {
             "title": "Why do you get a massage? Why is it good for you? I'll tell you!!",
             "channel": "날담",
             "url": "https://www.youtube.com/watch?v=WRdIllqotvU&pp=ygU07JWI66m07Jyk6rO97LK07ZiV7Jew6rWs7IaM7ZS867aALOyytO2Yleq0gOumrCBLb3JlYQ%3D%3D",
-            "view_text": "1.6K"
+            "view_text": "1.6K views"
           },
           {
-            "title": "What kind of treatments do I get? I’m telling you everything💆🏻‍♀️",
-            "channel": "최종시안",
-            "url": "https://www.youtube.com/watch?v=8W31tqhdvLA&pp=ygU07JWI66m07Jyk6rO97LK07ZiV7Jew6rWs7IaM7ZS867aALOyytO2Yleq0gOumrCBLb3JlYQ%3D%3D",
-            "view_text": "1M"
+            "title": "나상문의 근막테크닉(얼굴 1편) - 문체형관리",
+            "channel": "나상문 (문체형교정관리)",
+            "url": "https://www.youtube.com/watch?v=jtpmNeoujYM&pp=ygU07JWI66m07Jyk6rO97LK07ZiV7Jew6rWs7IaM7ZS867aALOyytO2Yleq0gOumrCBLb3JlYQ%3D%3D",
+            "view_text": "221 views"
           }
         ]
       }
@@ -132,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

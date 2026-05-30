@@ -1,6 +1,6 @@
 {
   "query": "청담클린의원",
-  "generated_at": "2026-05-29T05:55:15.916Z",
+  "generated_at": "2026-05-29T10:21:32.156Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -47,14 +47,14 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 3625141,
-        "foreign_video_count": 19,
+        "total_views": 3626694,
+        "foreign_video_count": 20,
         "lang_breakdown": {
-          "korean": 1,
+          "korean": 0,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
-          "english_other": 19
+          "english_other": 20
         },
         "sample_size": 20,
         "top_videos": [
@@ -71,6 +71,18 @@
             "view_text": "1K views"
           },
           {
+            "title": "I tried the New Korean \"Goddess\" Skin Treatment",
+            "channel": "Tina Yong",
+            "url": "https://www.youtube.com/watch?v=kyU5-ghlVdQ&pp=ygUcQ2hlb25nZGFtIENsZWFuIENsaW5pYyBLb3JlYQ%3D%3D",
+            "view_text": "1.5M views"
+          },
+          {
+            "title": "Removing pore waste by Scalp scaling in Korea with Cheongdam Oracle Clinic",
+            "channel": "Oracle Clinic Cheongdam",
+            "url": "https://www.youtube.com/watch?v=zzIL5iY1f_0&pp=ygUcQ2hlb25nZGFtIENsZWFuIENsaW5pYyBLb3JlYQ%3D%3D",
+            "view_text": "69 views"
+          },
+          {
             "title": "Deep Cleaning On A Dental Clinic: Clean and Healthy Gums with Top Dentist in Seoul, South Korea",
             "channel": "KOREA MEDICAL TOUR",
             "url": "https://www.youtube.com/watch?v=DonmL7o3h_I&pp=ygUcQ2hlb25nZGFtIENsZWFuIENsaW5pYyBLb3JlYQ%3D%3D",
@@ -81,18 +93,6 @@
             "channel": "Beauty Within",
             "url": "https://www.youtube.com/watch?v=qC1TyRJTsHg&pp=ygUcQ2hlb25nZGFtIENsZWFuIENsaW5pYyBLb3JlYQ%3D%3D",
             "view_text": "125K views"
-          },
-          {
-            "title": "I tried the New Korean \"Goddess\" Skin Treatment",
-            "channel": "Tina Yong",
-            "url": "https://www.youtube.com/watch?v=kyU5-ghlVdQ&pp=ygUcQ2hlb25nZGFtIENsZWFuIENsaW5pYyBLb3JlYQ%3D%3D",
-            "view_text": "1.5M views"
-          },
-          {
-            "title": "Removing pore waste by Scalp scaling in Korea with Cheongdam Oracle Clinic",
-            "channel": "Oracle Clinic Cheongdam",
-            "url": "https://www.youtube.com/watch?v=zzIL5iY1f_0&pp=ygUcQ2hlb25nZGFtIENsZWFuIENsaW5pYyBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
-            "view_text": "69 views"
           },
           {
             "title": "How to Get Rid of Acne in Seoul, South Korea | Amoa 640 Skin Clinic #acne #korea #skincare",
@@ -142,7 +142,7 @@
       }
     }
   },
-  "global_score": 20,
-  "opportunity_cost_thb": 86000,
-  "opportunity_cost_krw": 3440000
+  "global_score": 21,
+  "opportunity_cost_thb": 85500,
+  "opportunity_cost_krw": 3420000
 }

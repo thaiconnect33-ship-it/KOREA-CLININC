@@ -1,16 +1,18 @@
 {
   "query": "리앤업성형외과의원",
-  "generated_at": "2026-05-28T23:43:55.986Z",
+  "generated_at": "2026-05-29T12:29:44.422Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 1407,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "822303214",
+        "name": "리앤업성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 362,
+        "blog_review_count": 1045,
+        "detail_url": "https://m.place.naver.com/place/822303214/home"
       }
     },
     "google_maps": {
@@ -43,24 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 1,
+      "metric_value": 14,
       "extra": {
-        "total_views": 105,
+        "total_views": 913974,
         "foreign_video_count": 0,
         "lang_breakdown": {
-          "korean": 1,
+          "korean": 14,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
           "english_other": 0
         },
-        "sample_size": 1,
+        "sample_size": 14,
         "top_videos": [
           {
-            "title": "20131119 목동샤인 아이스크림테라피",
-            "channel": "클리닉샤인",
-            "url": "https://www.youtube.com/watch?v=YS5qBrV_V6k&pp=ygUz66as7JWk7JeF7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "105 views"
+            "title": "\"강남 유명 성형외과서 수술 뒤 눈이 실명됐습니다\" [지금이뉴스] / YTN",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=UyMrX929Q4I&pp=ygUh66as7JWk7JeF7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "576K views"
+          },
+          {
+            "title": "눈밑지방제거는 안하는 것이 좋습니다. 특히나 레이저 눈밑지방제거 시술은 절대 하지 마세요",
+            "channel": "스타비성형외과",
+            "url": "https://www.youtube.com/watch?v=TYCC4uyDAlU&pp=ygUh66as7JWk7JeF7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "267K views"
+          },
+          {
+            "title": "[쥬얼리성형외과] 쥬얼리성형외과를 소개합니다!",
+            "channel": "쥬얼리성형외과(Jewelry Plastic Surgery)",
+            "url": "https://www.youtube.com/watch?v=ATcr20apAUA&pp=ygUh66as7JWk7JeF7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "672 views"
+          },
+          {
+            "title": "[체형성형 비에스티성형외과] 힙업성형의 새로운 페러다임 세븐탑 거상술(힙업거상술)을 소개합니다.",
+            "channel": "체형거상의 기준, BST성형외과",
+            "url": "https://www.youtube.com/watch?v=suQS4rfvxWc&pp=ygUh66as7JWk7JeF7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.1K views"
+          },
+          {
+            "title": "5초_페이스플러스성형외과",
+            "channel": "Enjoy KTB",
+            "url": "https://www.youtube.com/watch?v=hOoWYSLCQpk&pp=ygUh66as7JWk7JeF7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "240 views"
+          },
+          {
+            "title": "(구독자 요청) 분말 vs 젤리 vs 액상 뭘 먹어야 하는 거야? 에버콜라겐 라인업 6종 비교 | 암거나과외 11-2화",
+            "channel": "GS SHOP",
+            "url": "https://www.youtube.com/watch?v=TfgDEgLRdYg&pp=ygUh66as7JWk7JeF7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "62K views"
+          },
+          {
+            "title": "매선침으로 한방성형 브이라인리프팅 웨딩촬영전 퀵시술!",
+            "channel": "아미율한의원",
+            "url": "https://www.youtube.com/watch?v=i9s6M0_P1Jc&pp=ygUh66as7JWk7JeF7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "164 views"
+          },
+          {
+            "title": "번영로160 에피소드 고객편",
+            "channel": "바오밥크리에이티브",
+            "url": "https://www.youtube.com/watch?v=aHqtzCZPsWI&pp=ygUh66as7JWk7JeF7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "135 views"
+          },
+          {
+            "title": "고3 학생이 직접 물어봤습니다. 여드름 어서오고!",
+            "channel": "피부혁명",
+            "url": "https://www.youtube.com/watch?v=f1-5leuaSeE&pp=ygUh66as7JWk7JeF7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.9K views"
+          },
+          {
+            "title": "제천 모 병원에서 수술 후 사망한 장 모씨 유가족, 사망원인 요구하며 난투극 번져",
+            "channel": "YBC뉴스",
+            "url": "https://www.youtube.com/watch?v=aY5Rtx8C_Mc&pp=ygUh66as7JWk7JeF7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "2.5K views"
           }
         ]
       }
@@ -76,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

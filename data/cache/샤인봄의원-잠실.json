@@ -1,0 +1,148 @@
+{
+  "query": "샤인봄의원 잠실",
+  "generated_at": "2026-05-29T12:13:54.688Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 4374,
+      "extra": {
+        "place_id": "1053007902",
+        "name": "샤인봄의원 잠실 : 네이버\u001c",
+        "visitor_review_count": 586,
+        "blog_review_count": 3788,
+        "detail_url": "https://m.place.naver.com/place/1053007902/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Shine Bom Clinic",
+        "rating": 4.9,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 1936985,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "여름맞이 추천시술 딱 3가지 알려드립니다 ｜샤인봄뉴스 🎙️",
+            "channel": "닥터 김의샤",
+            "url": "https://www.youtube.com/watch?v=mzEFBC0PYiA&pp=ygUc7IOk7J2467SE7J2Y7JuQIOyeoOyLpCBLb3JlYQ%3D%3D",
+            "view_text": "62 views"
+          },
+          {
+            "title": "Why Does Aging Accelerate From Your 30s? You Must Quit 'This Habit'",
+            "channel": "닥터 김의샤",
+            "url": "https://www.youtube.com/watch?v=V-7vs-x9ndI&pp=ygUc7IOk7J2467SE7J2Y7JuQIOyeoOyLpCBLb3JlYQ%3D%3D",
+            "view_text": "160 views"
+          },
+          {
+            "title": "Nose filler? Forehead filler? A must-watch if you're considering fillers👀 - 📌Everything from fill...",
+            "channel": "닥터 김의샤",
+            "url": "https://www.youtube.com/watch?v=mbOIa4unKuw&pp=ygUc7IOk7J2467SE7J2Y7JuQIOyeoOyLpCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "212 views"
+          },
+          {
+            "title": "Already have deep wrinkles? We can fix that!!",
+            "channel": "닥터 김의샤",
+            "url": "https://www.youtube.com/watch?v=D8OIO4XJqf8&pp=ygUc7IOk7J2467SE7J2Y7JuQIOyeoOyLpCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "63 views"
+          },
+          {
+            "title": "스킨 부스터 \"손주사 vs 인젝터\" 💉 (Q. 더마샤인이 덜 아픈가요?)",
+            "channel": "닥터효철",
+            "url": "https://www.youtube.com/watch?v=JM2KVHGupAg&pp=ygUc7IOk7J2467SE7J2Y7JuQIOyeoOyLpCBLb3JlYQ%3D%3D",
+            "view_text": "35K views"
+          },
+          {
+            "title": "Looking 10 Years Younger in Your 50s: Procedure Review",
+            "channel": "닥터 김의샤",
+            "url": "https://www.youtube.com/watch?v=wkJA8uZL07Q&pp=ygUc7IOk7J2467SE7J2Y7JuQIOyeoOyLpCBLb3JlYQ%3D%3D",
+            "view_text": "266 views"
+          },
+          {
+            "title": "Collagen Booster or Filler?!🤔 Watch this if you're undecided!",
+            "channel": "닥터 김의샤",
+            "url": "https://www.youtube.com/watch?v=Jq8WwrKjn6c&pp=ygUc7IOk7J2467SE7J2Y7JuQIOyeoOyLpCBLb3JlYQ%3D%3D",
+            "view_text": "366 views"
+          },
+          {
+            "title": "의사가 말하는 \"셀르디엠\"의 진짜 정체, 콜라겐 이제 직접 보충하세요❗",
+            "channel": "피어봄의원 서초이수점",
+            "url": "https://www.youtube.com/watch?v=hsWsjIXqd0I&pp=ygUc7IOk7J2467SE7J2Y7JuQIOyeoOyLpCBLb3JlYQ%3D%3D",
+            "view_text": "1K views"
+          },
+          {
+            "title": "[울산피부과] 엘리스의원 시크릿 레이저 시술 영상!",
+            "channel": "엘리스의원",
+            "url": "https://www.youtube.com/watch?v=apSnwrnbfsc&pp=ygUc7IOk7J2467SE7J2Y7JuQIOyeoOyLpCBLb3JlYQ%3D%3D",
+            "view_text": "2K views"
+          },
+          {
+            "title": "이걸 맞고도 피부에 광 안 돌면 이상한 거죠✨ 닥터 부부의 리쥬란HB 리얼 시술 리뷰!",
+            "channel": "닥터커플 뷰티트래블러",
+            "url": "https://www.youtube.com/watch?v=EqG9VaqAtuo&pp=ygUc7IOk7J2467SE7J2Y7JuQIOyeoOyLpCBLb3JlYQ%3D%3D",
+            "view_text": "91 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 90000,
+  "opportunity_cost_krw": 3600000
+}

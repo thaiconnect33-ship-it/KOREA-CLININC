@@ -1,17 +1,17 @@
 {
   "query": "에이비성형외과의원",
-  "generated_at": "2026-05-29T00:05:42.315Z",
+  "generated_at": "2026-05-29T12:52:18.795Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 1365,
+      "metric_value": 1368,
       "extra": {
         "place_id": "1304260302",
         "name": "에이비성형외과의원 : 네이버\u001c",
         "visitor_review_count": 590,
-        "blog_review_count": 775,
+        "blog_review_count": 778,
         "detail_url": "https://m.place.naver.com/place/1304260302/home"
       }
     },
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 229410,
+        "total_views": 236310,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -61,62 +61,62 @@
           {
             "title": "비주가 예뻐야 진짜 예쁜 코! | 에이비성형외과",
             "channel": "에이비성형외과 AB Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=fUaBuJwK5N0&pp=ygUt7JeQ7J2067mE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=fUaBuJwK5N0&pp=ygUh7JeQ7J2067mE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "63K views"
           },
           {
             "title": "사각턱 없애버리고 싶은 사람들 주목! 많이 깎으면 오히려 개턱된다 | 에이비성형외과",
             "channel": "에이비성형외과 AB Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=LMEIX9ZNFxc&pp=ygUt7JeQ7J2067mE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=LMEIX9ZNFxc&pp=ygUh7JeQ7J2067mE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "687 views"
+          },
+          {
+            "title": "대표원장님의 최애 원장님을 소개합니다 | 에이비성형외과",
+            "channel": "에이비성형외과 AB Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=e8PP4OcjBWE&pp=ygUh7JeQ7J2067mE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "4.8K views"
           },
           {
             "title": "울퉁불퉁하다 울퉁불퉁한. 에서 카리나 된 비결 | 후기있음 | 에이비성형외과",
             "channel": "에이비성형외과 AB Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=flE5PKzWOMQ&pp=ygUt7JeQ7J2067mE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=flE5PKzWOMQ&pp=ygUh7JeQ7J2067mE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "3.6K views"
           },
           {
             "title": "윤곽수술 5년차가 말해주는 윤곽수술의 장단점 | 에이비성형외과",
             "channel": "에이비성형외과 AB Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=I9XSqyiVZNE&pp=ygUt7JeQ7J2067mE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=I9XSqyiVZNE&pp=ygUh7JeQ7J2067mE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "1.9K views"
-          },
-          {
-            "title": "대표원장님의 최애 원장님을 소개합니다 | 에이비성형외과",
-            "channel": "에이비성형외과 AB Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=e8PP4OcjBWE&pp=ygUt7JeQ7J2067mE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "4.8K views"
-          },
-          {
-            "title": "안면거상술 실제 상담 | 후기있음 | 에이비성형외과",
-            "channel": "에이비성형외과 AB Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=UufC-cVpdE4&pp=ygUt7JeQ7J2067mE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "10K views"
-          },
-          {
-            "title": "눈 성형 어디서 해야할까?",
-            "channel": "비에이TV",
-            "url": "https://www.youtube.com/watch?v=otBLIy24iG8&pp=ygUt7JeQ7J2067mE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.3K views"
-          },
-          {
-            "title": "결막 지방재배치 VS 하안검 성형 뭐가 다를까?",
-            "channel": "비에이TV",
-            "url": "https://www.youtube.com/watch?v=P4qnprTvhnc&pp=ygUt7JeQ7J2067mE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.1K views"
-          },
-          {
-            "title": "[코성형] 코성형 후 웃음 😆 웃지 말아야 하는 이유 성형외과 전문의가 답하다!",
-            "channel": "에이비성형외과 AB Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=N8J4Ur53rw0&pp=ygUt7JeQ7J2067mE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "111K views"
           },
           {
             "title": "진짜 사각턱 이렇게 자릅니다 | 에이비성형외과",
             "channel": "에이비성형외과 AB Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=AXEhi1x5x1I&pp=ygUt7JeQ7J2067mE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=AXEhi1x5x1I&pp=ygUh7JeQ7J2067mE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "12K views"
+          },
+          {
+            "title": "안면거상술 실제 상담 | 후기있음 | 에이비성형외과",
+            "channel": "에이비성형외과 AB Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=UufC-cVpdE4&pp=ygUh7JeQ7J2067mE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "10K views"
+          },
+          {
+            "title": "강남 성형외과 대표의 인생썰, 이건 못 참지 | 에이비성형외과",
+            "channel": "에이비성형외과 AB Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=F-m3pENPnTI&pp=ygUh7JeQ7J2067mE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.9K views"
+          },
+          {
+            "title": "눈 성형 어디서 해야할까?",
+            "channel": "비에이TV",
+            "url": "https://www.youtube.com/watch?v=otBLIy24iG8&pp=ygUh7JeQ7J2067mE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.3K views"
+          },
+          {
+            "title": "[코성형] 코성형 후 웃음 😆 웃지 말아야 하는 이유 성형외과 전문의가 답하다!",
+            "channel": "에이비성형외과 AB Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=N8J4Ur53rw0&pp=ygUh7JeQ7J2067mE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "111K views"
           }
         ]
       }
@@ -132,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

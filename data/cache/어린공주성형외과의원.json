@@ -1,26 +1,28 @@
 {
   "query": "어린공주성형외과의원",
-  "generated_at": "2026-05-29T06:03:39.320Z",
+  "generated_at": "2026-05-29T10:30:23.360Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 11887,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "1328185381",
+        "name": "어린공주성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 11811,
+        "blog_review_count": 76,
+        "detail_url": "https://m.place.naver.com/place/1328185381/home"
       }
     },
     "google_maps": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 3086,
+      "metric_value": 3087,
       "extra": {
         "name": "Littleprincess",
         "rating": 4.9,
-        "total_reviews": 3086,
+        "total_reviews": 3087,
         "sample_size": 23,
         "foreign_language_reviews": 23,
         "lang_breakdown": {
@@ -43,9 +45,80 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 0,
+      "metric_value": 20,
       "extra": {
-        "note": "결과 없음"
+        "total_views": 1582253,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "I'm so excited to upload this video because my lip filler turned out so well✨ Cost, pain, side ef...",
+            "channel": "에이로그 뷰티&라이프💕",
+            "url": "https://www.youtube.com/watch?v=Vb-osI8TwCI&pp=ygUk7Ja066aw6rO17KO87ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "198K views"
+          },
+          {
+            "title": "The story of someone who got lip fillers after hearing compliments on their lips 10,000 times 👄",
+            "channel": "우정",
+            "url": "https://www.youtube.com/watch?v=b6RCd-To6RI&pp=ygUk7Ja066aw6rO17KO87ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "305K views"
+          },
+          {
+            "title": "accident or surgery that looks like a hole in the leg?",
+            "channel": "보니따TV_정광섭 원장",
+            "url": "https://www.youtube.com/watch?v=1PcC3PnXmAE&pp=ygUk7Ja066aw6rO17KO87ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.9K views"
+          },
+          {
+            "title": "Overcoming the Million Won Burning Face Week🧚🏻‍♀️feat. Tips for Successful Lip Filler⭐️(Botox, Sh...",
+            "channel": "윰 YUM",
+            "url": "https://www.youtube.com/watch?v=QZxZmYOUVT0&pp=ygUk7Ja066aw6rO17KO87ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "219K views"
+          },
+          {
+            "title": "\"Does Korean filler only last 6 months???\" Filler common sense that 99% of dermatologists get wrong",
+            "channel": "친절한 송이씨",
+            "url": "https://www.youtube.com/watch?v=radM6wTArpU&pp=ygUk7Ja066aw6rO17KO87ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "74K views"
+          },
+          {
+            "title": "Philtrum getting longer? Unexpected side effects of fillers.",
+            "channel": "코비르 Kouvir",
+            "url": "https://www.youtube.com/watch?v=IKQ1WrpGfDQ&pp=ygUk7Ja066aw6rO17KO87ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "204K views"
+          },
+          {
+            "title": "의사가 알려주는 입술필러 진실❗망한 입술필러 vs 성공한 입술필러 (입술필러 부작용, 디자인, 효과,붓기)",
+            "channel": "글로우업 효정 Dr.Hyojung",
+            "url": "https://www.youtube.com/watch?v=2NQo1Xfc97Q&pp=ygUk7Ja066aw6rO17KO87ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "33K views"
+          },
+          {
+            "title": "99%of people don't know this when getting lip fillers|Facts you must know before getting lip fillers",
+            "channel": "친절한 송이씨",
+            "url": "https://www.youtube.com/watch?v=STmZUHuo_Hs&pp=ygUk7Ja066aw6rO17KO87ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "283K views"
+          },
+          {
+            "title": "[국민건강보험 일산병원] 흉터 걱정은 이제 그만! 흉터성형레이저클리닉",
+            "channel": "국민건강보험일산병원",
+            "url": "https://www.youtube.com/watch?v=ugtVxgc4CCk&pp=ygUk7Ja066aw6rO17KO87ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "947 views"
+          },
+          {
+            "title": "[쥬얼리성형외과] 인형인가..? 사람인가..?",
+            "channel": "쥬얼리성형외과(Jewelry Plastic Surgery)",
+            "url": "https://www.youtube.com/watch?v=a3DkSyhm2wo&pp=ygUk7Ja066aw6rO17KO87ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "310 views"
+          }
+        ]
       }
     },
     "xiaohongshu": {

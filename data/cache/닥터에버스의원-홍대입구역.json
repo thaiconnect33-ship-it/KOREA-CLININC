@@ -1,0 +1,148 @@
+{
+  "query": "닥터에버스의원 홍대입구역",
+  "generated_at": "2026-05-29T11:32:26.726Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 2037,
+      "extra": {
+        "place_id": "1289969704",
+        "name": "닥터에버스의원 홍대입구역 : 네이버\u001c",
+        "visitor_review_count": 848,
+        "blog_review_count": 1189,
+        "detail_url": "https://m.place.naver.com/place/1289969704/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Dr. Evers Clinic Hongdae",
+        "rating": 4.9,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 16,
+      "extra": {
+        "total_views": 19375316,
+        "foreign_video_count": 3,
+        "lang_breakdown": {
+          "korean": 13,
+          "thai": 0,
+          "chinese": 1,
+          "japanese": 0,
+          "english_other": 2
+        },
+        "sample_size": 16,
+        "top_videos": [
+          {
+            "title": "확진자 방문 병원들 환자 '뚝'…해외여행 갔다 와도 \"다른곳 가세요\"",
+            "channel": "뉴스TVCHOSUN",
+            "url": "https://www.youtube.com/watch?v=w1drcSJraGY&pp=ygUr64ul7YSw7JeQ67KE7Iqk7J2Y7JuQIO2ZjeuMgOyeheq1rOyXrSBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "4.9K views"
+          },
+          {
+            "title": "[다시보기] 이준석 홍대서 기자회견...조기 대선 행보 본격화-2월 2일 (일) 풀영상  [이슈현장] / JTBC News",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=IoJ9KJbUXpg&pp=ygUr64ul7YSw7JeQ67KE7Iqk7J2Y7JuQIO2ZjeuMgOyeheq1rOyXrSBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "80K views"
+          },
+          {
+            "title": "'이태원 닥터카' 신현영 의원 탑승 논란…국힘 \"의원직 사퇴하라\" [굿모닝 MBN]",
+            "channel": "MBN News",
+            "url": "https://www.youtube.com/watch?v=oKmYjDZrYaU&pp=ygUr64ul7YSw7JeQ67KE7Iqk7J2Y7JuQIO2ZjeuMgOyeheq1rOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "2.3K views"
+          },
+          {
+            "title": "'월세 60' 1.5평 방 내부 공개…젊은이들이 버티는 이유 (자막뉴스) / SBS",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=MLh3HMs66Ko&pp=ygUr64ul7YSw7JeQ67KE7Iqk7J2Y7JuQIO2ZjeuMgOyeheq1rOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "6.1M views"
+          },
+          {
+            "title": "[자막뉴스] \"헉! 이 언니 경찰이었어요?\" 커피 한 잔 시키더니 '돌변' (MBC뉴스)",
+            "channel": "MBCNEWS",
+            "url": "https://www.youtube.com/watch?v=nDV9ffUJljY&pp=ygUr64ul7YSw7JeQ67KE7Iqk7J2Y7JuQIO2ZjeuMgOyeheq1rOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "5.3M views"
+          },
+          {
+            "title": "\"When I went in, there was a strong smell\"... 'Shocking reality' of gym shower rooms / KNN",
+            "channel": "KNN NEWS",
+            "url": "https://www.youtube.com/watch?v=mnuOwMXrhTE&pp=ygUr64ul7YSw7JeQ67KE7Iqk7J2Y7JuQIO2ZjeuMgOyeheq1rOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "5.6M views"
+          },
+          {
+            "title": "If you watched this video before your interview, congratulations! It's an essential video for int...",
+            "channel": "앤드 스튜디오 - AND STUDIO",
+            "url": "https://www.youtube.com/watch?v=QVI3kIS_Tek&pp=ygUr64ul7YSw7JeQ67KE7Iqk7J2Y7JuQIO2ZjeuMgOyeheq1rOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "779K views"
+          },
+          {
+            "title": "열차에 치여 40대 사망…국회 교통사고로 의원 2명 부상 [굿모닝MBN]",
+            "channel": "MBN News",
+            "url": "https://www.youtube.com/watch?v=E0kEeyxv3bc&pp=ygUr64ul7YSw7JeQ67KE7Iqk7J2Y7JuQIO2ZjeuMgOyeheq1rOyXrSBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "1.9K views"
+          },
+          {
+            "title": "뱃살 빼는법! 효과적인 다이어트 시술 3가지｜3분 안에 보는 알뜰지식 🧪",
+            "channel": "땡기는 의사 이용석",
+            "url": "https://www.youtube.com/watch?v=Y2iedIR3CTA&pp=ygUr64ul7YSw7JeQ67KE7Iqk7J2Y7JuQIO2ZjeuMgOyeheq1rOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "2.2K views"
+          },
+          {
+            "title": "교대하이맵의원 오는 방법 : 교대역1번출구에서는 빨리, 교대역5번출구에서는 편안하게 오실수 있습니다.",
+            "channel": "이웃집닥터",
+            "url": "https://www.youtube.com/watch?v=KKUzTnN9GSw&pp=ygUr64ul7YSw7JeQ67KE7Iqk7J2Y7JuQIO2ZjeuMgOyeheq1rOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "728 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 2,
+  "opportunity_cost_thb": 108500,
+  "opportunity_cost_krw": 4340000
+}

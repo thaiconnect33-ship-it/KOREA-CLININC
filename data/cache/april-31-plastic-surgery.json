@@ -1,6 +1,6 @@
 {
   "query": "April 31 Plastic Surgery",
-  "generated_at": "2026-05-29T05:44:03.259Z",
+  "generated_at": "2026-05-29T10:10:06.768Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -21,13 +21,13 @@
         "name": "April 31 Plastic Surgery",
         "rating": 4.5,
         "total_reviews": 44,
-        "sample_size": 20,
-        "foreign_language_reviews": 20,
+        "sample_size": 16,
+        "foreign_language_reviews": 16,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 20
+          "english_other": 16
         }
       }
     },
@@ -45,7 +45,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 97546,
+        "total_views": 110375,
         "foreign_video_count": 5,
         "lang_breakdown": {
           "korean": 15,
@@ -59,7 +59,7 @@
           {
             "title": "April31 PS Clinic - American Model Trailer / 4월31일성형외과 미국모델 예고편",
             "channel": "4월31일성형외과 - April31 PS Clinic",
-            "url": "https://www.youtube.com/watch?v=n0shPeoVopY&pp=ygUeQXByaWwgMzEgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh0gcJCSMLAYcqIYzv",
+            "url": "https://www.youtube.com/watch?v=n0shPeoVopY&pp=ygUeQXByaWwgMzEgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
             "view_text": "384 views"
           },
           {
@@ -77,7 +77,7 @@
           {
             "title": "Plastic Surgery preview / April31 Plastic Surgery Clinic / 4월31일성형외과 구축코영문티져영상",
             "channel": "4월31일성형외과 - April31 PS Clinic",
-            "url": "https://www.youtube.com/watch?v=ysZDuAg_pEg&pp=ygUeQXByaWwgMzEgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh0gcJCSMLAYcqIYzv",
+            "url": "https://www.youtube.com/watch?v=ysZDuAg_pEg&pp=ygUeQXByaWwgMzEgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
             "view_text": "805 views"
           },
           {
@@ -93,28 +93,28 @@
             "view_text": "2.2K views"
           },
           {
-            "title": "Korean Plastic Surgery - April31 Caucasian Model 3 years After !",
-            "channel": "4월31일성형외과 - April31 PS Clinic",
-            "url": "https://www.youtube.com/watch?v=DzubZxk2POs&pp=ygUeQXByaWwgMzEgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh0gcJCSMLAYcqIYzv",
-            "view_text": "6.8K views"
-          },
-          {
-            "title": "Pre-op interview with a staff/real model of April 31 Plastic Surgery Clinic",
-            "channel": "4월31일성형외과 - April31 PS Clinic",
-            "url": "https://www.youtube.com/watch?v=iF2NXTeiB3M&pp=ygUeQXByaWwgMzEgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
-            "view_text": "418 views"
-          },
-          {
             "title": "April31 PS - Thank you Prof. Rohrich and Prof. Stuzin! Best Plastic Surgeons in the World!",
             "channel": "4월31일성형외과 - April31 PS Clinic",
-            "url": "https://www.youtube.com/watch?v=f4GH_wjaYRc&pp=ygUeQXByaWwgMzEgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=f4GH_wjaYRc&pp=ygUeQXByaWwgMzEgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh0gcJCSMLAYcqIYzv",
             "view_text": "2K views"
+          },
+          {
+            "title": "Korean Plastic Surgery - April31 Caucasian Model 3 years After !",
+            "channel": "4월31일성형외과 - April31 PS Clinic",
+            "url": "https://www.youtube.com/watch?v=DzubZxk2POs&pp=ygUeQXByaWwgMzEgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "6.8K views"
           },
           {
             "title": "Dr. James M. Stuzin's message to April31 Plastic Surgery Clinic!_KOR",
             "channel": "4월31일성형외과 - April31 PS Clinic",
             "url": "https://www.youtube.com/watch?v=YKLkf5lG6y8&pp=ygUeQXByaWwgMzEgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
             "view_text": "587 views"
+          },
+          {
+            "title": "Pre-op interview with a staff/real model of April 31 Plastic Surgery Clinic",
+            "channel": "4월31일성형외과 - April31 PS Clinic",
+            "url": "https://www.youtube.com/watch?v=iF2NXTeiB3M&pp=ygUeQXByaWwgMzEgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "418 views"
           }
         ]
       }
@@ -140,7 +140,7 @@
       }
     }
   },
-  "global_score": 14,
-  "opportunity_cost_thb": 87500,
-  "opportunity_cost_krw": 3500000
+  "global_score": 12,
+  "opportunity_cost_thb": 89500,
+  "opportunity_cost_krw": 3580000
 }

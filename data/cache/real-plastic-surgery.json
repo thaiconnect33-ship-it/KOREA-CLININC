@@ -1,6 +1,6 @@
 {
   "query": "REAL Plastic Surgery",
-  "generated_at": "2026-05-29T05:45:08.664Z",
+  "generated_at": "2026-05-29T10:11:14.361Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -47,40 +47,22 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 18477918,
-        "foreign_video_count": 20,
+        "total_views": 33174300,
+        "foreign_video_count": 19,
         "lang_breakdown": {
-          "korean": 0,
+          "korean": 1,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
-          "english_other": 20
+          "english_other": 19
         },
         "sample_size": 20,
         "top_videos": [
           {
             "title": "Behind the plastic surgery boom in South Korea",
             "channel": "CBS Mornings",
-            "url": "https://www.youtube.com/watch?v=ZSAoETxubSI&pp=ygUaUkVBTCBQbGFzdGljIFN1cmdlcnkgS29yZWHSBwkJIwsBhyohjO8%3D",
+            "url": "https://www.youtube.com/watch?v=ZSAoETxubSI&pp=ygUaUkVBTCBQbGFzdGljIFN1cmdlcnkgS29yZWE%3D",
             "view_text": "6.5M views"
-          },
-          {
-            "title": "EXTREME Asian Plastic Surgery TikToks! WHY???",
-            "channel": "Doctor Youn",
-            "url": "https://www.youtube.com/watch?v=wUXnC-CuMP0&pp=ygUaUkVBTCBQbGFzdGljIFN1cmdlcnkgS29yZWE%3D",
-            "view_text": "1.9M views"
-          },
-          {
-            "title": "APS Korea 2025 Highlights: What Korea Does Better in Plastic Surgery?! | Dr. Roy Kim",
-            "channel": "Dr Roy Kim",
-            "url": "https://www.youtube.com/watch?v=GyVkgtj5pYI&pp=ygUaUkVBTCBQbGFzdGljIFN1cmdlcnkgS29yZWHSBwkJIwsBhyohjO8%3D",
-            "view_text": "12K views"
-          },
-          {
-            "title": "BTS's Jungkook, Suga, Jimin Cosmetic Surgery Transformation!",
-            "channel": "Doctor Youn",
-            "url": "https://www.youtube.com/watch?v=QqE2qM_WhlU&pp=ygUaUkVBTCBQbGFzdGljIFN1cmdlcnkgS29yZWE%3D",
-            "view_text": "625K views"
           },
           {
             "title": "BTS's Jin, RM, V Cosmetic Surgery Transformation!",
@@ -95,16 +77,34 @@
             "view_text": "431K views"
           },
           {
-            "title": "Ghost doctors haunt South Korea’s thriving plastic surgery industry",
-            "channel": "South China Morning Post",
-            "url": "https://www.youtube.com/watch?v=tCe0sbq4r7M&pp=ygUaUkVBTCBQbGFzdGljIFN1cmdlcnkgS29yZWE%3D",
+            "title": "EXTREME Asian Plastic Surgery TikToks! WHY???",
+            "channel": "Doctor Youn",
+            "url": "https://www.youtube.com/watch?v=wUXnC-CuMP0&pp=ygUaUkVBTCBQbGFzdGljIFN1cmdlcnkgS29yZWE%3D",
             "view_text": "1.9M views"
           },
           {
-            "title": "USA Today Feature With Seoul Cosmetic Surgery & Banobagi Plastic Surgery | Plastic Surgery in Korea",
-            "channel": "Seoul Cosmetic Surgery",
-            "url": "https://www.youtube.com/watch?v=2ZLeRt35D8c&pp=ygUaUkVBTCBQbGFzdGljIFN1cmdlcnkgS29yZWE%3D",
-            "view_text": "867 views"
+            "title": "A Day in Life of Top Korean Plastic Surgeon In Gangnam",
+            "channel": "Asian Boss",
+            "url": "https://www.youtube.com/watch?v=jRfw0kMlsKI&pp=ygUaUkVBTCBQbGFzdGljIFN1cmdlcnkgS29yZWE%3D",
+            "view_text": "4.3M views"
+          },
+          {
+            "title": "Why Plastic Surgery Is Destroying Korea",
+            "channel": "2 and 20",
+            "url": "https://www.youtube.com/watch?v=JiEFDJxGx2s&pp=ygUaUkVBTCBQbGFzdGljIFN1cmdlcnkgS29yZWHSBwkJIwsBhyohjO8%3D",
+            "view_text": "1.9M views"
+          },
+          {
+            "title": "I'm a plastic surgeon... This is why I stopped doing facelift surgery",
+            "channel": "Doctor Gary Linkov",
+            "url": "https://www.youtube.com/watch?v=5O2QUI2SsHQ&pp=ygUaUkVBTCBQbGFzdGljIFN1cmdlcnkgS29yZWE%3D",
+            "view_text": "674K views"
+          },
+          {
+            "title": "APS Korea 2025 Highlights: What Korea Does Better in Plastic Surgery?! | Dr. Roy Kim",
+            "channel": "Dr Roy Kim",
+            "url": "https://www.youtube.com/watch?v=GyVkgtj5pYI&pp=ygUaUkVBTCBQbGFzdGljIFN1cmdlcnkgS29yZWE%3D",
+            "view_text": "12K views"
           },
           {
             "title": "Plastic Surgeon Reacts To Korea's CRAZY Plastic Surgery Industry",
@@ -113,10 +113,10 @@
             "view_text": "241K views"
           },
           {
-            "title": "[Plastic Surgery in Korea] Things You Should Avoid Before surgery base on My experience!!",
-            "channel": "DA Plastic Surgery Korea",
-            "url": "https://www.youtube.com/watch?v=TjM3jtpOzrs&pp=ygUaUkVBTCBQbGFzdGljIFN1cmdlcnkgS29yZWE%3D",
-            "view_text": "5.3K views"
+            "title": "Plastic Surgery in Korea Vlog | Day 2",
+            "channel": "ElaineMokk",
+            "url": "https://www.youtube.com/watch?v=feB5P4d-ImY&pp=ygUaUkVBTCBQbGFzdGljIFN1cmdlcnkgS29yZWHSBwkJIwsBhyohjO8%3D",
+            "view_text": "37K views"
           }
         ]
       }
@@ -142,7 +142,7 @@
       }
     }
   },
-  "global_score": 16,
-  "opportunity_cost_thb": 90000,
-  "opportunity_cost_krw": 3600000
+  "global_score": 15,
+  "opportunity_cost_thb": 90500,
+  "opportunity_cost_krw": 3620000
 }

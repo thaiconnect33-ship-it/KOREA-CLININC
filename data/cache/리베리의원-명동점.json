@@ -1,0 +1,100 @@
+{
+  "query": "리베리의원 명동점",
+  "generated_at": "2026-05-29T11:42:41.509Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 1730,
+      "extra": {
+        "place_id": "1637186355",
+        "name": "리베리의원 명동점 : 네이버\u001c",
+        "visitor_review_count": 429,
+        "blog_review_count": 1301,
+        "detail_url": "https://m.place.naver.com/place/1637186355/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Reberry Clinic Myeongdong Branch",
+        "rating": 4.8,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 2,
+      "extra": {
+        "total_views": 103000,
+        "foreign_video_count": 1,
+        "lang_breakdown": {
+          "korean": 1,
+          "thai": 0,
+          "chinese": 1,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 2,
+        "top_videos": [
+          {
+            "title": "My mainland friend tried Taiwanese beer for the first time, and he even paired it with sausage an...",
+            "channel": "我是黨黨",
+            "url": "https://www.youtube.com/watch?v=5AicWqv-tto&pp=ygUf66as67Kg66as7J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "90K views"
+          },
+          {
+            "title": "[K-LIFE ON] YINGYING’s K Beauty Experience. EP03",
+            "channel": "STUDIO JJ [스튜디오 제이제이]",
+            "url": "https://www.youtube.com/watch?v=kVyZM6D6naA&pp=ygUf66as67Kg66as7J2Y7JuQIOuqheuPmeygkCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "13K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 1,
+  "opportunity_cost_thb": 99500,
+  "opportunity_cost_krw": 3980000
+}

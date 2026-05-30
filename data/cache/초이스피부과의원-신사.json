@@ -1,0 +1,148 @@
+{
+  "query": "초이스피부과의원 신사",
+  "generated_at": "2026-05-29T12:42:37.855Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 10561,
+      "extra": {
+        "place_id": "11527880",
+        "name": "초이스피부과의원 신사 : 네이버\u001c",
+        "visitor_review_count": 550,
+        "blog_review_count": 10011,
+        "detail_url": "https://m.place.naver.com/place/11527880/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "초이스피부과의원 신사점",
+        "rating": 3.1,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 19,
+      "extra": {
+        "total_views": 35070,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 19,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 19,
+        "top_videos": [
+          {
+            "title": "[초이스모발이식센터] 비절개 로봇 모발이식 아타스",
+            "channel": "초이스피부과",
+            "url": "https://www.youtube.com/watch?v=DGU54VujMDI&pp=ygUl7LSI7J207Iqk7ZS867aA6rO87J2Y7JuQIOyLoOyCrCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "508 views"
+          },
+          {
+            "title": "[에그클리닉] 피부과 원장은 얼마나 벌어요?",
+            "channel": "깐달걀TV",
+            "url": "https://www.youtube.com/watch?v=ZDiD9RkdcxU&pp=ygUl7LSI7J207Iqk7ZS867aA6rO87J2Y7JuQIOyLoOyCrCBLb3JlYQ%3D%3D",
+            "view_text": "957 views"
+          },
+          {
+            "title": "리포소닉 비수술 지방흡입 초이스피부과",
+            "channel": "초이스",
+            "url": "https://www.youtube.com/watch?v=F7uxhMWZVkQ&pp=ygUl7LSI7J207Iqk7ZS867aA6rO87J2Y7JuQIOyLoOyCrCBLb3JlYQ%3D%3D",
+            "view_text": "487 views"
+          },
+          {
+            "title": "다한증 액취증 고민 해결! 다가오는 여름철... 겨땀주사로 눈물흘리는 겨드랑이 사수!",
+            "channel": "봉원장TV",
+            "url": "https://www.youtube.com/watch?v=1anoA_DG0l4&pp=ygUl7LSI7J207Iqk7ZS867aA6rO87J2Y7JuQIOyLoOyCrCBLb3JlYQ%3D%3D",
+            "view_text": "725 views"
+          },
+          {
+            "title": "살찌면 지방종, 피지 낭종이 더 잘생기나요?👩‍🔬",
+            "channel": "하이닥터장 Hi Dr. CHANG",
+            "url": "https://www.youtube.com/watch?v=a-0zXiQ7uEA&pp=ygUl7LSI7J207Iqk7ZS867aA6rO87J2Y7JuQIOyLoOyCrCBLb3JlYQ%3D%3D",
+            "view_text": "561 views"
+          },
+          {
+            "title": "모발이식 잘하는 병원 초이스모발이식클리닉",
+            "channel": "김냐냔",
+            "url": "https://www.youtube.com/watch?v=ljXKnZmDVVE&pp=ygUl7LSI7J207Iqk7ZS867aA6rO87J2Y7JuQIOyLoOyCrCBLb3JlYQ%3D%3D",
+            "view_text": "47 views"
+          },
+          {
+            "title": "기미치료 짙어진 기미 다양한 제거 방법을 강남테마피부과에서 소개합니다.",
+            "channel": "루트테마피부과(강남테마피부과)",
+            "url": "https://www.youtube.com/watch?v=Ocp_sXEWAGA&pp=ygUl7LSI7J207Iqk7ZS867aA6rO87J2Y7JuQIOyLoOyCrCBLb3JlYQ%3D%3D",
+            "view_text": "196 views"
+          },
+          {
+            "title": "아타스 로봇모발이식의 장점- 탈모인뉴스 인터뷰(초이스모발이식센터 최광호 원장)",
+            "channel": "탈모인TV",
+            "url": "https://www.youtube.com/watch?v=BqKL8nwYbZU&pp=ygUl7LSI7J207Iqk7ZS867aA6rO87J2Y7JuQIOyLoOyCrCBLb3JlYQ%3D%3D",
+            "view_text": "286 views"
+          },
+          {
+            "title": "겨드랑이 땀 제거 시술 미라드라이 시술 과정 함께보기! 어떤 원리로 땀이 안날까?",
+            "channel": "청담고운세상닥터지피부과",
+            "url": "https://www.youtube.com/watch?v=tnTGEh1iQ4A&pp=ygUl7LSI7J207Iqk7ZS867aA6rO87J2Y7JuQIOyLoOyCrCBLb3JlYQ%3D%3D",
+            "view_text": "859 views"
+          },
+          {
+            "title": "미라드라이 10년차, 피부과 전문의가 말해주는 효과 없는 케이스는?",
+            "channel": "청담고운세상닥터지피부과",
+            "url": "https://www.youtube.com/watch?v=W2hcRK6CxtU&pp=ygUl7LSI7J207Iqk7ZS867aA6rO87J2Y7JuQIOyLoOyCrCBLb3JlYQ%3D%3D",
+            "view_text": "12K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

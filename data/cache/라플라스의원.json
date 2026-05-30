@@ -1,17 +1,17 @@
 {
   "query": "라플라스의원",
-  "generated_at": "2026-05-28T22:44:56.531Z",
+  "generated_at": "2026-05-29T11:23:35.171Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 592,
+      "metric_value": 593,
       "extra": {
         "place_id": "21111870",
         "name": "라플라스의원 : 네이버\u001c",
         "visitor_review_count": 357,
-        "blog_review_count": 235,
+        "blog_review_count": 236,
         "detail_url": "https://m.place.naver.com/place/21111870/home"
       }
     },
@@ -36,9 +36,80 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 0,
+      "metric_value": 20,
       "extra": {
-        "note": "결과 없음"
+        "total_views": 820500,
+        "foreign_video_count": 1,
+        "lang_breakdown": {
+          "korean": 19,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 1
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "190606 Laplace M staff 1280x720 15s",
+            "channel": "Zlongame",
+            "url": "https://www.youtube.com/watch?v=fmr22ChOUvA&pp=ygUY65287ZSM65287Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "774K views"
+          },
+          {
+            "title": "문해력이란?  (키즈문해력교육 - 나는 한글박사)",
+            "channel": "소리귀닥터TV",
+            "url": "https://www.youtube.com/watch?v=eH0oRjqEyKY&pp=ygUY65287ZSM65287Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "484 views"
+          },
+          {
+            "title": "하태경 \"日 핵 개발 물자, 국제 암시장 거쳐 北으로\" / YTN",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=ZrIizmn9rQQ&pp=ygUY65287ZSM65287Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "1.4K views"
+          },
+          {
+            "title": "하태경 \"日 핵 개발 물자, 국제 암시장 거쳐 北으로\" / YTN",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=M6jqq8_zRIg&pp=ygUY65287ZSM65287Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "1.5K views"
+          },
+          {
+            "title": "전기회로 실험, 이론 동영상강의 안내(Electrical Circuit Experiment, Guide to Theoretical Video Lecture)",
+            "channel": "이재원TV",
+            "url": "https://www.youtube.com/watch?v=pxb2U_YBLwM&pp=ygUY65287ZSM65287Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "1.4K views"
+          },
+          {
+            "title": "하태경 \"日 핵 물자, 암시장 거쳐 北 갔을 가능성\" / YTN",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=PVaKwnrI3h4&pp=ygUY65287ZSM65287Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "1K views"
+          },
+          {
+            "title": "[자단기] 노란돼지 종칠쌤의 추석 명절 인사♥",
+            "channel": "자단기",
+            "url": "https://www.youtube.com/watch?v=fBHH-zmtR6g&pp=ygUY65287ZSM65287Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "628 views"
+          },
+          {
+            "title": "[낭만서점] 166. 조너선 에임즈 『너는 여기에 없었다』 '타임스' 선정 올해의 범죄소설",
+            "channel": "교보문고",
+            "url": "https://www.youtube.com/watch?v=lykW3-6fiZo&pp=ygUY65287ZSM65287Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "654 views"
+          },
+          {
+            "title": "[김경래의 최강시사] 노조위원장 출신이 서울시장 되면 뭐가 달라집니까? \"서울특별시 해체하는 시장 되겠다.\" -권수정 서울시의원(정의당) ｜KBS 210119 방송",
+            "channel": "KBS 1라디오",
+            "url": "https://www.youtube.com/watch?v=4XDppQtU_e8&pp=ygUY65287ZSM65287Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "501 views"
+          },
+          {
+            "title": "[인터뷰4.0] 30년 후 한국의 미래 예측하다 / 김현곤 국회미래연구원장",
+            "channel": "NBS 인터뷰4.0",
+            "url": "https://www.youtube.com/watch?v=y8cOs6-OftM&pp=ygUY65287ZSM65287Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "146 views"
+          }
+        ]
       }
     },
     "xiaohongshu": {
@@ -52,16 +123,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 0,
-  "opportunity_cost_thb": 100000,
-  "opportunity_cost_krw": 4000000
+  "global_score": 1,
+  "opportunity_cost_thb": 99500,
+  "opportunity_cost_krw": 3980000
 }

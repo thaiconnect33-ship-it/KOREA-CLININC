@@ -1,0 +1,148 @@
+{
+  "query": "아미스킨의원 명동",
+  "generated_at": "2026-05-29T11:48:35.077Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 1651,
+      "extra": {
+        "place_id": "20149846",
+        "name": "아미스킨의원 명동 : 네이버\u001c",
+        "visitor_review_count": 771,
+        "blog_review_count": 880,
+        "detail_url": "https://m.place.naver.com/place/20149846/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "아미스킨의원 명동 amiskin(Myeongdong)",
+        "rating": 4.5,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 3841,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "편평사마귀 예방은 딱 두 가지만 지키세요 #피부관리 #사마귀 #아미스킨다빼자",
+            "channel": "아미스킨클리닉",
+            "url": "https://www.youtube.com/watch?v=WHMDgbniLuU&pp=ygUf7JWE66-47Iqk7YKo7J2Y7JuQIOuqheuPmSBLb3JlYQ%3D%3D",
+            "view_text": "570 views"
+          },
+          {
+            "title": "사마귀? 비립종? 한관종? 구분 안 해도 됩니다! 원장이 실제 쓰는 최단 제거 공식은? #비립종 #사마귀 #피부관리 #환절기피부관리",
+            "channel": "아미스킨클리닉",
+            "url": "https://www.youtube.com/watch?v=agrAsWQ3UpE&pp=ygUf7JWE66-47Iqk7YKo7J2Y7JuQIOuqheuPmSBLb3JlYQ%3D%3D",
+            "view_text": "253 views"
+          },
+          {
+            "title": "아미스킨, 속부터 당겨주는 동안얼굴 메이킹 프로젝트!",
+            "channel": "아미스킨클리닉",
+            "url": "https://www.youtube.com/watch?v=qL6M4SM5Seo&pp=ygUf7JWE66-47Iqk7YKo7J2Y7JuQIOuqheuPmSBLb3JlYQ%3D%3D",
+            "view_text": "192 views"
+          },
+          {
+            "title": "NO통증 NO회복기 #클라리티 #올킬 레이저 추천 | 아미스킨의원",
+            "channel": "아미스킨클리닉",
+            "url": "https://www.youtube.com/watch?v=ax_pT4p-lsY&pp=ygUf7JWE66-47Iqk7YKo7J2Y7JuQIOuqheuPmSBLb3JlYQ%3D%3D",
+            "view_text": "647 views"
+          },
+          {
+            "title": "스킨부스터 고민된다면 이 영상 하나로 종결! #스킨부스터 #리쥬란 #피부관리 #아미스킨의원",
+            "channel": "아미스킨클리닉",
+            "url": "https://www.youtube.com/watch?v=tB8FqpJey1I&pp=ygUf7JWE66-47Iqk7YKo7J2Y7JuQIOuqheuPmSBLb3JlYQ%3D%3D",
+            "view_text": "168 views"
+          },
+          {
+            "title": "상황별 스킨부스터💉 총정리😉| 리쥬란, 리제닌, 엑소좀, 물광주사, 연어주사, 아미스킨의원",
+            "channel": "아미스킨클리닉",
+            "url": "https://www.youtube.com/watch?v=zYToqptW5BA&pp=ygUf7JWE66-47Iqk7YKo7J2Y7JuQIOuqheuPmSBLb3JlYQ%3D%3D",
+            "view_text": "320 views"
+          },
+          {
+            "title": "울쎄라 해도 효과없는 사람 특징 | 이것만 해도 가성비 무조건 챙깁니다 #울쎄라 #리프팅 #아미스킨",
+            "channel": "아미스킨클리닉",
+            "url": "https://www.youtube.com/watch?v=PUGRyTLHX2o&pp=ygUf7JWE66-47Iqk7YKo7J2Y7JuQIOuqheuPmSBLb3JlYQ%3D%3D",
+            "view_text": "69 views"
+          },
+          {
+            "title": "피부관리 필요할 때, 명동역 2분 피부클리닉 #명동 #명동역 #아미스킨의원",
+            "channel": "아미스킨클리닉",
+            "url": "https://www.youtube.com/watch?v=kV7k2PtZ5PU&pp=ygUf7JWE66-47Iqk7YKo7J2Y7JuQIOuqheuPmSBLb3JlYQ%3D%3D",
+            "view_text": "292 views"
+          },
+          {
+            "title": "피로회복 원한다면 이 수액 추천 #칵테일마이어스 #수액추천 #아미스킨의원 #명동피부과 #강남피부과",
+            "channel": "아미스킨클리닉",
+            "url": "https://www.youtube.com/watch?v=6ZNOREA8WiQ&pp=ygUf7JWE66-47Iqk7YKo7J2Y7JuQIOuqheuPmSBLb3JlYQ%3D%3D",
+            "view_text": "87 views"
+          },
+          {
+            "title": "결혼식까지 3달! #미백관리 #실펌엑스 #스킨부스터 #아미스킨의원",
+            "channel": "아미스킨클리닉",
+            "url": "https://www.youtube.com/watch?v=3Yj4eNjOVG4&pp=ygUf7JWE66-47Iqk7YKo7J2Y7JuQIOuqheuPmSBLb3JlYQ%3D%3D",
+            "view_text": "60 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

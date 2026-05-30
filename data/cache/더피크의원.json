@@ -1,16 +1,18 @@
 {
   "query": "더피크의원",
-  "generated_at": "2026-05-28T22:25:17.600Z",
+  "generated_at": "2026-05-29T11:02:03.321Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 3137,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "1408752765",
+        "name": "더피크의원 : 네이버\u001c",
+        "visitor_review_count": 234,
+        "blog_review_count": 2903,
+        "detail_url": "https://m.place.naver.com/place/1408752765/home"
       }
     },
     "google_maps": {
@@ -43,54 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 6,
+      "metric_value": 20,
       "extra": {
-        "total_views": 97300,
-        "foreign_video_count": 0,
+        "total_views": 16827513,
+        "foreign_video_count": 1,
         "lang_breakdown": {
-          "korean": 6,
+          "korean": 19,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
-          "english_other": 0
+          "english_other": 1
         },
-        "sample_size": 6,
+        "sample_size": 20,
         "top_videos": [
+          {
+            "title": "[ENG] 일자 골반에서 전종서 골반으로 변하는 과정 찐으로 보여드립니다 ✨ #리얼후기 #시술후기",
+            "channel": "더피크의원 (The Peak Clinic)",
+            "url": "https://www.youtube.com/watch?v=V-3yVjURVQ4&pp=ygUV642U7ZS87YGs7J2Y7JuQIEtvcmVh",
+            "view_text": "20K views"
+          },
+          {
+            "title": "[ENG] 울쎄라로 연예인 얼굴형이 될 수 있을까? #울쎄라 #온다리프팅 #윤곽주사",
+            "channel": "더피크의원 (The Peak Clinic)",
+            "url": "https://www.youtube.com/watch?v=ymmYY91JTfA&pp=ygUV642U7ZS87YGs7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "4.3K views"
+          },
+          {
+            "title": "[ENG] 힙필러 부작용? 더피크 애플힙 주사는 다릅니다",
+            "channel": "더피크의원 (The Peak Clinic)",
+            "url": "https://www.youtube.com/watch?v=A3Erev_ZEvE&pp=ygUV642U7ZS87YGs7J2Y7JuQIEtvcmVh",
+            "view_text": "1.9K views"
+          },
           {
             "title": "[ENG] 소문만큼 진짜 좋을까? 줄기세포 피부주사, 직접 받아봤습니다 #줄기세포",
             "channel": "더피크의원 (The Peak Clinic)",
-            "url": "https://www.youtube.com/watch?v=l2Jc_pQDbds&pp=ygUk642U7ZS87YGs7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=l2Jc_pQDbds&pp=ygUV642U7ZS87YGs7J2Y7JuQIEtvcmVh",
             "view_text": "2.7K views"
+          },
+          {
+            "title": "[ENG] 가을에 받으면 좋은 시술❓ 이 영상으로 끝내세요❕ #시술추천",
+            "channel": "더피크의원 (The Peak Clinic)",
+            "url": "https://www.youtube.com/watch?v=gUlNpLqtUUc&pp=ygUV642U7ZS87YGs7J2Y7JuQIEtvcmVh",
+            "view_text": "3.2K views"
+          },
+          {
+            "title": "엉덩이 필러로 짧은 다리가 길어질 수 있을까요? 없을까요? #엉덩이필러 #힙필러 #더피크의원",
+            "channel": "더피크의원 (The Peak Clinic)",
+            "url": "https://www.youtube.com/watch?v=XzA-hcKozbk&pp=ygUV642U7ZS87YGs7J2Y7JuQIEtvcmVh",
+            "view_text": "1.7K views"
+          },
+          {
+            "title": "여름 몸매 준비는 이거로 끝내세요! 골반필러+엉덩이필러 했더니 이렇게 변한다고? #엉덩이필러 #골반필러",
+            "channel": "더피크의원 (The Peak Clinic)",
+            "url": "https://www.youtube.com/watch?v=Zsr17l4HWBM&pp=ygUV642U7ZS87YGs7J2Y7JuQIEtvcmVh",
+            "view_text": "813 views"
+          },
+          {
+            "title": "예식 한 달 남은 신부님 팔뚝살 긴급으로 부쉈습니다 #온다리프팅 #바디온다",
+            "channel": "더피크의원 (The Peak Clinic)",
+            "url": "https://www.youtube.com/watch?v=Lwwjt5uUSyU&pp=ygUV642U7ZS87YGs7J2Y7JuQIEtvcmVh",
+            "view_text": "1.8K views"
           },
           {
             "title": "[ENG] 통증없이 날렵한 라인을 만들어주는 온다리프팅 (feat. 피부과 입문 리프팅)",
             "channel": "더피크의원 (The Peak Clinic)",
-            "url": "https://www.youtube.com/watch?v=E3fgFgymHyU&pp=ygUk642U7ZS87YGs7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=E3fgFgymHyU&pp=ygUV642U7ZS87YGs7J2Y7JuQIEtvcmVh",
             "view_text": "68K views"
           },
           {
-            "title": "스테로이드 연고? 이렇게 쓰면 안전합니다. (아토피 연고 1편)",
-            "channel": "계피부과 since1961",
-            "url": "https://www.youtube.com/watch?v=CC5JIyJTnFg&pp=ygUk642U7ZS87YGs7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "14K views"
-          },
-          {
-            "title": "유포톤 사용 가이드(Guide video) #유포톤 #EUPHOTON EUPHOTON USER GUIDE",
-            "channel": "빛네트워크",
-            "url": "https://www.youtube.com/watch?v=1li5h0u1WrU&pp=ygUk642U7ZS87YGs7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "8.2K views"
-          },
-          {
-            "title": "이낙연 아들 이동한 정신과 전문의 코로나 발언 / 코로나는 코로나온다",
-            "channel": "kim jeff",
-            "url": "https://www.youtube.com/watch?v=09WywF0feCE&pp=ygUk642U7ZS87YGs7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "2.4K views"
-          },
-          {
-            "title": "숨기고 싶은 '항문 질환', 의학 기술의 발달로 당일 치료가 가능합니다 [ 부산MBC 메디컬다큐365 ] 230220",
-            "channel": "굿닥터인부산",
-            "url": "https://www.youtube.com/watch?v=NI5P0-iz3tU&pp=ygUk642U7ZS87YGs7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "2K views"
+            "title": "장윤주 전종서 골반 전격 비교 해봤습니다 #장윤주 #전종서골반 #더피크의원 #골반필러 #힙필러",
+            "channel": "더피크의원 (The Peak Clinic)",
+            "url": "https://www.youtube.com/watch?v=8FsBpQgM9hI&pp=ygUV642U7ZS87YGs7J2Y7JuQIEtvcmVh",
+            "view_text": "1.1K views"
           }
         ]
       }
@@ -106,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 0,
-  "opportunity_cost_thb": 100000,
-  "opportunity_cost_krw": 4000000
+  "global_score": 1,
+  "opportunity_cost_thb": 99500,
+  "opportunity_cost_krw": 3980000
 }

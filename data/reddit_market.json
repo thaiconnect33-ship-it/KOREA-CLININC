@@ -1,117 +1,117 @@
 {
-  "generated_at": "2026-05-29T07:51:12.179Z",
-  "total_posts": 507,
-  "total_likes": 824374,
+  "generated_at": "2026-05-30T00:28:52.899Z",
+  "total_posts": 508,
+  "total_likes": 824629,
   "topics_searched": 22,
   "by_topic": {
     "Korean plastic surgery": {
       "posts": 25,
-      "likes": 11942,
-      "comments": 2227
+      "likes": 11871,
+      "comments": 2161
     },
     "Korean rhinoplasty": {
       "posts": 18,
-      "likes": 678,
-      "comments": 324
+      "likes": 687,
+      "comments": 334
     },
     "Korean double eyelid": {
       "posts": 22,
-      "likes": 445,
+      "likes": 576,
       "comments": 304
     },
     "Korean skincare": {
       "posts": 25,
-      "likes": 60233,
-      "comments": 5291
+      "likes": 60267,
+      "comments": 5290
     },
     "Seoul plastic surgery": {
-      "posts": 16,
-      "likes": 6216,
-      "comments": 818
+      "posts": 17,
+      "likes": 6293,
+      "comments": 926
     },
     "Gangnam clinic": {
       "posts": 24,
-      "likes": 11727,
-      "comments": 564
+      "likes": 11519,
+      "comments": 536
     },
     "Korea filler": {
       "posts": 23,
-      "likes": 2525,
+      "likes": 2522,
       "comments": 517
     },
     "Korea botox": {
       "posts": 22,
-      "likes": 2804,
-      "comments": 800
+      "likes": 2806,
+      "comments": 801
     },
     "Korean V-line": {
       "posts": 23,
-      "likes": 16680,
-      "comments": 7714
+      "likes": 16684,
+      "comments": 7718
     },
     "Korea hair transplant": {
       "posts": 25,
-      "likes": 2103,
-      "comments": 528
+      "likes": 2102,
+      "comments": 529
     },
     "r/PlasticSurgery Korea": {
       "posts": 19,
-      "likes": 1281,
+      "likes": 1279,
       "comments": 698
     },
     "r/AsianBeauty Korea": {
       "posts": 24,
-      "likes": 13101,
-      "comments": 2950
+      "likes": 13192,
+      "comments": 2959
     },
     "r/30PlusSkincare Korea": {
       "posts": 24,
-      "likes": 10611,
+      "likes": 10619,
       "comments": 1297
     },
     "r/SkincareAddiction Korea": {
       "posts": 24,
-      "likes": 2545,
+      "likes": 2546,
       "comments": 790
     },
     "r/korea Korea": {
       "posts": 25,
-      "likes": 44981,
+      "likes": 44953,
       "comments": 4640
     },
     "r/koreatravel Korea": {
       "posts": 25,
-      "likes": 6557,
+      "likes": 6571,
       "comments": 2415
     },
     "Banobagi": {
       "posts": 23,
-      "likes": 1932,
-      "comments": 625
+      "likes": 1943,
+      "comments": 623
     },
     "ID Hospital": {
       "posts": 25,
-      "likes": 455952,
+      "likes": 456086,
       "comments": 44295
     },
     "JK Plastic Surgery": {
       "posts": 23,
-      "likes": 166055,
-      "comments": 15992
+      "likes": 166066,
+      "comments": 15995
     },
     "Lienjang": {
       "posts": 22,
-      "likes": 663,
-      "comments": 280
+      "likes": 668,
+      "comments": 281
     },
     "Wonjin": {
       "posts": 25,
-      "likes": 1332,
+      "likes": 1337,
       "comments": 132
     },
     "BK Plastic": {
       "posts": 25,
-      "likes": 4011,
+      "likes": 4042,
       "comments": 2090
     }
   },
@@ -119,7 +119,7 @@
     {
       "author": "Wanderingreader123",
       "posts": 1,
-      "total_likes": 227310,
+      "total_likes": 227312,
       "topics": [
         "ID Hospital"
       ]
@@ -127,7 +127,7 @@
     {
       "author": "Only-Researcher-5242",
       "posts": 1,
-      "total_likes": 62345,
+      "total_likes": 62350,
       "topics": [
         "ID Hospital"
       ]
@@ -135,7 +135,7 @@
     {
       "author": "zadraaa",
       "posts": 1,
-      "total_likes": 50385,
+      "total_likes": 50391,
       "topics": [
         "JK Plastic Surgery"
       ]
@@ -143,7 +143,7 @@
     {
       "author": "JazzlikeWishbone4579",
       "posts": 1,
-      "total_likes": 39318,
+      "total_likes": 39313,
       "topics": [
         "JK Plastic Surgery"
       ]
@@ -151,7 +151,7 @@
     {
       "author": "Direct-Caterpillar77",
       "posts": 4,
-      "total_likes": 35643,
+      "total_likes": 35670,
       "topics": [
         "ID Hospital"
       ]
@@ -159,7 +159,7 @@
     {
       "author": "_BreadDenier",
       "posts": 1,
-      "total_likes": 34285,
+      "total_likes": 34282,
       "topics": [
         "JK Plastic Surgery"
       ]
@@ -167,7 +167,7 @@
     {
       "author": "cmaia1503",
       "posts": 2,
-      "total_likes": 31935,
+      "total_likes": 31950,
       "topics": [
         "ID Hospital",
         "JK Plastic Surgery"
@@ -176,7 +176,7 @@
     {
       "author": "Neaterntal",
       "posts": 1,
-      "total_likes": 30302,
+      "total_likes": 30308,
       "topics": [
         "Korean skincare"
       ]
@@ -184,7 +184,7 @@
     {
       "author": "brycejm1991",
       "posts": 1,
-      "total_likes": 25784,
+      "total_likes": 25785,
       "topics": [
         "ID Hospital"
       ]
@@ -192,7 +192,7 @@
     {
       "author": "mlg1981",
       "posts": 1,
-      "total_likes": 22369,
+      "total_likes": 22373,
       "topics": [
         "JK Plastic Surgery"
       ]
@@ -200,7 +200,7 @@
     {
       "author": "Grouchy-Object-6423",
       "posts": 1,
-      "total_likes": 19108,
+      "total_likes": 19109,
       "topics": [
         "Korean skincare"
       ]
@@ -208,7 +208,7 @@
     {
       "author": "Riobox",
       "posts": 1,
-      "total_likes": 16057,
+      "total_likes": 16066,
       "topics": [
         "ID Hospital"
       ]
@@ -216,7 +216,7 @@
     {
       "author": "TonyBird126",
       "posts": 1,
-      "total_likes": 14271,
+      "total_likes": 14275,
       "topics": [
         "ID Hospital"
       ]
@@ -232,7 +232,7 @@
     {
       "author": "Rich-Butterfly-718",
       "posts": 11,
-      "total_likes": 10464,
+      "total_likes": 10463,
       "topics": [
         "Korean plastic surgery",
         "Gangnam clinic"
@@ -241,7 +241,7 @@
     {
       "author": "WinterMouse5318008",
       "posts": 1,
-      "total_likes": 10331,
+      "total_likes": 10343,
       "topics": [
         "ID Hospital"
       ]
@@ -249,7 +249,7 @@
     {
       "author": "Choice_Evidence1983",
       "posts": 1,
-      "total_likes": 9030,
+      "total_likes": 9088,
       "topics": [
         "ID Hospital"
       ]
@@ -257,7 +257,7 @@
     {
       "author": "No_Ebb_4594",
       "posts": 1,
-      "total_likes": 6688,
+      "total_likes": 6693,
       "topics": [
         "r/30PlusSkincare Korea"
       ]
@@ -265,7 +265,7 @@
     {
       "author": "PlayaSlayaX",
       "posts": 1,
-      "total_likes": 5994,
+      "total_likes": 5998,
       "topics": [
         "ID Hospital"
       ]
@@ -273,7 +273,7 @@
     {
       "author": "xToasted1",
       "posts": 1,
-      "total_likes": 5738,
+      "total_likes": 5728,
       "topics": [
         "ID Hospital"
       ]
@@ -281,7 +281,7 @@
     {
       "author": "DisappointedSurprise",
       "posts": 1,
-      "total_likes": 5527,
+      "total_likes": 5532,
       "topics": [
         "ID Hospital"
       ]
@@ -289,7 +289,7 @@
     {
       "author": "collateralopinion",
       "posts": 1,
-      "total_likes": 5298,
+      "total_likes": 5302,
       "topics": [
         "Seoul plastic surgery"
       ]
@@ -297,7 +297,7 @@
     {
       "author": "littlemoongirly",
       "posts": 1,
-      "total_likes": 5004,
+      "total_likes": 5010,
       "topics": [
         "ID Hospital"
       ]
@@ -313,7 +313,7 @@
     {
       "author": "MishanaSlupko",
       "posts": 1,
-      "total_likes": 4454,
+      "total_likes": 4455,
       "topics": [
         "r/korea Korea"
       ]
@@ -321,7 +321,7 @@
     {
       "author": "Sebastianlim",
       "posts": 1,
-      "total_likes": 4402,
+      "total_likes": 4394,
       "topics": [
         "ID Hospital"
       ]
@@ -329,7 +329,7 @@
     {
       "author": "DrNitr0s",
       "posts": 1,
-      "total_likes": 3867,
+      "total_likes": 3869,
       "topics": [
         "Korean V-line"
       ]
@@ -337,7 +337,7 @@
     {
       "author": "-_Franz_-",
       "posts": 1,
-      "total_likes": 3619,
+      "total_likes": 3613,
       "topics": [
         "Korean plastic surgery"
       ]
@@ -345,7 +345,7 @@
     {
       "author": "hillary_____k",
       "posts": 1,
-      "total_likes": 3219,
+      "total_likes": 3222,
       "topics": [
         "r/AsianBeauty Korea"
       ]
@@ -353,7 +353,7 @@
     {
       "author": "korea_lifeshare",
       "posts": 1,
-      "total_likes": 2997,
+      "total_likes": 2998,
       "topics": [
         "r/korea Korea"
       ]
@@ -361,7 +361,7 @@
     {
       "author": "SuccessfulAd4451",
       "posts": 1,
-      "total_likes": 2935,
+      "total_likes": 2940,
       "topics": [
         "r/korea Korea"
       ]
@@ -369,7 +369,7 @@
     {
       "author": "Gordoman_",
       "posts": 1,
-      "total_likes": 2741,
+      "total_likes": 2739,
       "topics": [
         "r/korea Korea"
       ]
@@ -377,7 +377,7 @@
     {
       "author": "SwimmingTop9016",
       "posts": 1,
-      "total_likes": 2718,
+      "total_likes": 2721,
       "topics": [
         "Korean skincare"
       ]
@@ -385,7 +385,7 @@
     {
       "author": "JoseLunaArts",
       "posts": 1,
-      "total_likes": 2597,
+      "total_likes": 2596,
       "topics": [
         "r/korea Korea"
       ]
@@ -401,7 +401,7 @@
     {
       "author": "MelsMakeupLounge",
       "posts": 2,
-      "total_likes": 2303,
+      "total_likes": 2297,
       "topics": [
         "Korean skincare"
       ]
@@ -409,7 +409,7 @@
     {
       "author": "ConcertExciting952",
       "posts": 1,
-      "total_likes": 2279,
+      "total_likes": 2277,
       "topics": [
         "r/korea Korea"
       ]
@@ -417,7 +417,7 @@
     {
       "author": "Asperburg",
       "posts": 1,
-      "total_likes": 2261,
+      "total_likes": 2258,
       "topics": [
         "Korea filler"
       ]
@@ -441,7 +441,7 @@
     {
       "author": "Odd-Cover6626",
       "posts": 1,
-      "total_likes": 2176,
+      "total_likes": 2179,
       "topics": [
         "r/koreatravel Korea"
       ]
@@ -449,7 +449,7 @@
     {
       "author": "coinfwip4",
       "posts": 2,
-      "total_likes": 2164,
+      "total_likes": 2158,
       "topics": [
         "r/korea Korea"
       ]
@@ -457,7 +457,7 @@
     {
       "author": "yvie_of_lesbos",
       "posts": 1,
-      "total_likes": 2118,
+      "total_likes": 2117,
       "topics": [
         "Korean plastic surgery"
       ]
@@ -465,7 +465,7 @@
     {
       "author": "The_Data_Doc",
       "posts": 1,
-      "total_likes": 2077,
+      "total_likes": 2068,
       "topics": [
         "r/korea Korea"
       ]
@@ -473,7 +473,7 @@
     {
       "author": "Single_Education_777",
       "posts": 1,
-      "total_likes": 2009,
+      "total_likes": 2005,
       "topics": [
         "r/30PlusSkincare Korea"
       ]
@@ -481,7 +481,7 @@
     {
       "author": "plaesma",
       "posts": 1,
-      "total_likes": 1978,
+      "total_likes": 1975,
       "topics": [
         "r/SkincareAddiction Korea"
       ]
@@ -497,7 +497,7 @@
     {
       "author": "deepsigh-9986",
       "posts": 1,
-      "total_likes": 1779,
+      "total_likes": 1777,
       "topics": [
         "r/korea Korea"
       ]
@@ -505,17 +505,17 @@
     {
       "author": "Lunkerintraining",
       "posts": 1,
-      "total_likes": 1750,
+      "total_likes": 1744,
       "topics": [
         "r/korea Korea"
       ]
     },
     {
-      "author": "Holiday-Baseball9564",
+      "author": "Beginning-Passion676",
       "posts": 1,
-      "total_likes": 1732,
+      "total_likes": 1735,
       "topics": [
-        "r/30PlusSkincare Korea"
+        "r/korea Korea"
       ]
     }
   ],
@@ -527,11 +527,11 @@
       "title": "My days are nearing and my local hospital allowed me any request. This is how I will go out. Rip & Tear, brothers and sisters.",
       "author": "Wanderingreader123",
       "subreddit": "Doom",
-      "score": 227310,
-      "comments": 4425,
+      "score": 227312,
+      "comments": 4424,
       "url": "https://old.reddit.com/r/Doom/comments/1qsei9w/my_days_are_nearing_and_my_local_hospital_allowed/",
       "views": 0,
-      "likes": 227310
+      "likes": 227312
     },
     {
       "topic": "ID Hospital",
@@ -539,11 +539,11 @@
       "title": "The last reply is all of us",
       "author": "Only-Researcher-5242",
       "subreddit": "ComedyHell",
-      "score": 62345,
+      "score": 62350,
       "comments": 826,
       "url": "https://old.reddit.com/r/ComedyHell/comments/1thm6nn/the_last_reply_is_all_of_us/",
       "views": 0,
-      "likes": 62345
+      "likes": 62350
     },
     {
       "topic": "JK Plastic Surgery",
@@ -551,11 +551,11 @@
       "title": "Michael Jackson in 1978, before the plastic surgery, Pepsi incident and vitiligo.",
       "author": "zadraaa",
       "subreddit": "HistoricalCapsule",
-      "score": 50385,
+      "score": 50391,
       "comments": 2261,
       "url": "https://old.reddit.com/r/HistoricalCapsule/comments/1rtiv3h/michael_jackson_in_1978_before_the_plastic/",
       "views": 0,
-      "likes": 50385
+      "likes": 50391
     },
     {
       "topic": "JK Plastic Surgery",
@@ -563,11 +563,11 @@
       "title": "“Mar-a-Lago face” is a beauty trend among conservative American women marked by visible plastic surgery, heavy makeup, fake tans, and full lips. Surgeons describe it as featuring overfilled cheeks, taut skin, and an exaggerated, highly poli",
       "author": "JazzlikeWishbone4579",
       "subreddit": "wikipedia",
-      "score": 39318,
+      "score": 39313,
       "comments": 2387,
       "url": "https://old.reddit.com/r/wikipedia/comments/1omj7ry/maralago_face_is_a_beauty_trend_among/",
       "views": 0,
-      "likes": 39318
+      "likes": 39313
     },
     {
       "topic": "JK Plastic Surgery",
@@ -575,11 +575,11 @@
       "title": "Favorite actor to deny extremely obvious plastic surgery and steroid use?",
       "author": "_BreadDenier",
       "subreddit": "okbuddycinephile",
-      "score": 34285,
+      "score": 34282,
       "comments": 6604,
       "url": "https://old.reddit.com/r/okbuddycinephile/comments/1q8hdpw/favorite_actor_to_deny_extremely_obvious_plastic/",
       "views": 0,
-      "likes": 34285
+      "likes": 34282
     },
     {
       "topic": "Korean skincare",
@@ -587,11 +587,11 @@
       "title": "The Sun is officially spotless today! The sunspot number today, February 22nd, 2026 is 0. This is the first spotless day on the Sun since 2022",
       "author": "Neaterntal",
       "subreddit": "spaceporn",
-      "score": 30302,
+      "score": 30308,
       "comments": 388,
       "url": "https://old.reddit.com/r/spaceporn/comments/1rbxy47/the_sun_is_officially_spotless_today_the_sunspot/",
       "views": 0,
-      "likes": 30302
+      "likes": 30308
     },
     {
       "topic": "ID Hospital",
@@ -599,11 +599,11 @@
       "title": "I made my wife cry yesterday...",
       "author": "brycejm1991",
       "subreddit": "CasualConversation",
-      "score": 25784,
+      "score": 25785,
       "comments": 490,
       "url": "https://old.reddit.com/r/CasualConversation/comments/1qv47ay/i_made_my_wife_cry_yesterday/",
       "views": 0,
-      "likes": 25784
+      "likes": 25785
     },
     {
       "topic": "JK Plastic Surgery",
@@ -611,11 +611,11 @@
       "title": "Denise Richards plastic surgeon Dr. Ben Talei posts before and after pictures of her facial surgeries",
       "author": "mlg1981",
       "subreddit": "popculturechat",
-      "score": 22369,
+      "score": 22373,
       "comments": 3389,
       "url": "https://old.reddit.com/r/popculturechat/comments/1s0at9g/denise_richards_plastic_surgeon_dr_ben_talei/",
       "views": 0,
-      "likes": 22369
+      "likes": 22373
     },
     {
       "topic": "Korean skincare",
@@ -623,11 +623,11 @@
       "title": "This cube is made up of my dead skin",
       "author": "Grouchy-Object-6423",
       "subreddit": "WTF",
-      "score": 19108,
+      "score": 19109,
       "comments": 2475,
       "url": "https://old.reddit.com/r/WTF/comments/1t228nt/this_cube_is_made_up_of_my_dead_skin/",
       "views": 0,
-      "likes": 19108
+      "likes": 19109
     },
     {
       "topic": "JK Plastic Surgery",
@@ -635,11 +635,11 @@
       "title": "James McAvoy’s thoughts on plastic surgery: “I don’t know, there’s a lot of people just starting to look a bit weird. That is the thing, it’s like, you aren’t looking younger, you’re just looking weirder…. Absolutely do what you want to do,",
       "author": "cmaia1503",
       "subreddit": "Fauxmoi",
-      "score": 18700,
+      "score": 18707,
       "comments": 764,
       "url": "https://old.reddit.com/r/Fauxmoi/comments/1sjhawm/james_mcavoys_thoughts_on_plastic_surgery_i_dont/",
       "views": 0,
-      "likes": 18700
+      "likes": 18707
     },
     {
       "topic": "ID Hospital",
@@ -647,11 +647,11 @@
       "title": "Full Course Story, Apology & Mod Election",
       "author": "Riobox",
       "subreddit": "antimeme",
-      "score": 16057,
+      "score": 16066,
       "comments": 3443,
       "url": "https://old.reddit.com/r/antimeme/comments/1r4q7od/full_course_story_apology_mod_election/",
       "views": 0,
-      "likes": 16057
+      "likes": 16066
     },
     {
       "topic": "ID Hospital",
@@ -659,11 +659,11 @@
       "title": "Not sure where the mechanic part comes from",
       "author": "TonyBird126",
       "subreddit": "PeterExplainsTheJoke",
-      "score": 14271,
+      "score": 14275,
       "comments": 1703,
       "url": "https://old.reddit.com/r/PeterExplainsTheJoke/comments/1ok8kyy/not_sure_where_the_mechanic_part_comes_from/",
       "views": 0,
-      "likes": 14271
+      "likes": 14275
     },
     {
       "topic": "ID Hospital",
@@ -671,11 +671,11 @@
       "title": "Former NYC Mayor Rudy Giuliani hospitalized in critical condition",
       "author": "cmaia1503",
       "subreddit": "Fauxmoi",
-      "score": 13235,
+      "score": 13243,
       "comments": 2769,
       "url": "https://old.reddit.com/r/Fauxmoi/comments/1t30otj/former_nyc_mayor_rudy_giuliani_hospitalized_in/",
       "views": 0,
-      "likes": 13235
+      "likes": 13243
     },
     {
       "topic": "ID Hospital",
@@ -683,11 +683,11 @@
       "title": "My circumcision went horribly wrong many years ago. Parents received settlement. Now I'm 18 and they're refusing to give me the money",
       "author": "Direct-Caterpillar77",
       "subreddit": "BestofRedditorUpdates",
-      "score": 12308,
+      "score": 12311,
       "comments": 1068,
       "url": "https://old.reddit.com/r/BestofRedditorUpdates/comments/1s3x6xr/my_circumcision_went_horribly_wrong_many_years/",
       "views": 0,
-      "likes": 12308
+      "likes": 12311
     },
     {
       "topic": "ID Hospital",
@@ -707,11 +707,11 @@
       "title": "My Husband Broke My Heart Last Night",
       "author": "WinterMouse5318008",
       "subreddit": "TwoXChromosomes",
-      "score": 10331,
+      "score": 10343,
       "comments": 1988,
       "url": "https://old.reddit.com/r/TwoXChromosomes/comments/1ow5cvy/my_husband_broke_my_heart_last_night/",
       "views": 0,
-      "likes": 10331
+      "likes": 10343
     },
     {
       "topic": "ID Hospital",
@@ -719,11 +719,11 @@
       "title": "Wife started to hate me and our kids out of a sudden and now she left us",
       "author": "Choice_Evidence1983",
       "subreddit": "BestofRedditorUpdates",
-      "score": 9030,
-      "comments": 523,
+      "score": 9088,
+      "comments": 524,
       "url": "https://old.reddit.com/r/BestofRedditorUpdates/comments/1tl5mwr/wife_started_to_hate_me_and_our_kids_out_of_a/",
       "views": 0,
-      "likes": 9030
+      "likes": 9088
     },
     {
       "topic": "ID Hospital",
@@ -731,11 +731,11 @@
       "title": "My (43m) friend’s (45m) daughter (18/19f) keeps trying it on with me and I don’t know whether to tell him or keep ignoring it",
       "author": "Direct-Caterpillar77",
       "subreddit": "BestofRedditorUpdates",
-      "score": 8797,
+      "score": 8805,
       "comments": 938,
       "url": "https://old.reddit.com/r/BestofRedditorUpdates/comments/1re4102/my_43m_friends_45m_daughter_1819f_keeps_trying_it/",
       "views": 0,
-      "likes": 8797
+      "likes": 8805
     },
     {
       "topic": "ID Hospital",
@@ -743,11 +743,11 @@
       "title": "Me [31M] with my wife [29F] of 3 years. Our first baby's due date conflicts with a major presentation I have to give out-of-state. Tried to ask off, but boss really needs me there",
       "author": "Direct-Caterpillar77",
       "subreddit": "BestofRedditorUpdates",
-      "score": 7987,
+      "score": 7995,
       "comments": 1682,
       "url": "https://old.reddit.com/r/BestofRedditorUpdates/comments/1pxitbc/me_31m_with_my_wife_29f_of_3_years_our_first/",
       "views": 0,
-      "likes": 7987
+      "likes": 7995
     },
     {
       "topic": "r/30PlusSkincare Korea",
@@ -755,11 +755,11 @@
       "title": "Swapping out Epstein products",
       "author": "No_Ebb_4594",
       "subreddit": "30PlusSkinCare",
-      "score": 6688,
+      "score": 6693,
       "comments": 589,
       "url": "https://old.reddit.com/r/30PlusSkinCare/comments/1r09037/swapping_out_epstein_products/",
       "views": 0,
-      "likes": 6688
+      "likes": 6693
     },
     {
       "topic": "ID Hospital",
@@ -767,11 +767,11 @@
       "title": "My (23F) boyfriend (25M) and his family are angry because I wouldn't shave my head for his sister who has cancer (Final Update/Completed)",
       "author": "Direct-Caterpillar77",
       "subreddit": "BestofRedditorUpdates",
-      "score": 6551,
+      "score": 6559,
       "comments": 1018,
       "url": "https://old.reddit.com/r/BestofRedditorUpdates/comments/1t1086r/my_23f_boyfriend_25m_and_his_family_are_angry/",
       "views": 0,
-      "likes": 6551
+      "likes": 6559
     },
     {
       "topic": "ID Hospital",
@@ -779,11 +779,11 @@
       "title": "Lakers' Luka Doncic says he's in custody battle for daughters",
       "author": "PlayaSlayaX",
       "subreddit": "nba",
-      "score": 5994,
+      "score": 5998,
       "comments": 1332,
       "url": "https://old.reddit.com/r/nba/comments/1rqc8do/lakers_luka_doncic_says_hes_in_custody_battle_for/",
       "views": 0,
-      "likes": 5994
+      "likes": 5998
     },
     {
       "topic": "ID Hospital",
@@ -791,11 +791,11 @@
       "title": "I just found out my girlfriend is cheating on me with my brother.",
       "author": "xToasted1",
       "subreddit": "BestofRedditorUpdates",
-      "score": 5738,
+      "score": 5728,
       "comments": 740,
       "url": "https://old.reddit.com/r/BestofRedditorUpdates/comments/1s21tqu/i_just_found_out_my_girlfriend_is_cheating_on_me/",
       "views": 0,
-      "likes": 5738
+      "likes": 5728
     },
     {
       "topic": "ID Hospital",
@@ -803,11 +803,11 @@
       "title": "Job called my bluff. Got fired. Should I feel stupid or proud for standing up for my principles?",
       "author": "DisappointedSurprise",
       "subreddit": "careeradvice",
-      "score": 5527,
+      "score": 5532,
       "comments": 954,
       "url": "https://old.reddit.com/r/careeradvice/comments/1tcqdtr/job_called_my_bluff_got_fired_should_i_feel/",
       "views": 0,
-      "likes": 5527
+      "likes": 5532
     },
     {
       "topic": "Seoul plastic surgery",
@@ -815,11 +815,11 @@
       "title": "A plastic surgery clinic in Gangnam district ( South Korea ) displayed 2 glass towers filled with jawbone fragments removed from patients",
       "author": "collateralopinion",
       "subreddit": "interestingasfuck",
-      "score": 5298,
+      "score": 5302,
       "comments": 323,
       "url": "https://old.reddit.com/r/interestingasfuck/comments/1t2kz5f/a_plastic_surgery_clinic_in_gangnam_district/",
       "views": 0,
-      "likes": 5298
+      "likes": 5302
     },
     {
       "topic": "ID Hospital",
@@ -827,11 +827,11 @@
       "title": "Am I overreacting for not wanting anyone around my newborn yet?",
       "author": "littlemoongirly",
       "subreddit": "AmIOverreacting",
-      "score": 5004,
+      "score": 5010,
       "comments": 18061,
       "url": "https://old.reddit.com/r/AmIOverreacting/comments/1ptam3k/am_i_overreacting_for_not_wanting_anyone_around/",
       "views": 0,
-      "likes": 5004
+      "likes": 5010
     },
     {
       "topic": "r/korea Korea",
@@ -851,11 +851,11 @@
       "title": "Today at the Oscars, singer EJAE came in a suit with a hibiscus flower ornament that was worn on the uniform of officials of the Korean Empire.",
       "author": "MishanaSlupko",
       "subreddit": "korea",
-      "score": 4454,
+      "score": 4455,
       "comments": 90,
       "url": "https://old.reddit.com/r/korea/comments/1rv1zfn/today_at_the_oscars_singer_ejae_came_in_a_suit/",
       "views": 0,
-      "likes": 4454
+      "likes": 4455
     },
     {
       "topic": "ID Hospital",
@@ -863,11 +863,11 @@
       "title": "My (42M) daughter (18F) hit my 9 year old son. Kicked her out and my wife thinks I’m overreacting.",
       "author": "Sebastianlim",
       "subreddit": "BestofRedditorUpdates",
-      "score": 4402,
+      "score": 4394,
       "comments": 764,
       "url": "https://old.reddit.com/r/BestofRedditorUpdates/comments/1sy2jlv/my_42m_daughter_18f_hit_my_9_year_old_son_kicked/",
       "views": 0,
-      "likes": 4402
+      "likes": 4394
     },
     {
       "topic": "Korean V-line",
@@ -875,11 +875,11 @@
       "title": "Korean tank players creating a literal “tank union” in Overwatch is the most understood I’ve ever felt",
       "author": "DrNitr0s",
       "subreddit": "Overwatch",
-      "score": 3867,
-      "comments": 622,
+      "score": 3869,
+      "comments": 626,
       "url": "https://old.reddit.com/r/Overwatch/comments/1tlye1m/korean_tank_players_creating_a_literal_tank_union/",
       "views": 0,
-      "likes": 3867
+      "likes": 3869
     },
     {
       "topic": "Korean plastic surgery",
@@ -887,11 +887,11 @@
       "title": "Decorative tower in South Korean plastic surgery clinic made from the jawbones of patients who received plastic surgery for jawline reduction",
       "author": "-_Franz_-",
       "subreddit": "oddlyterrifying",
-      "score": 3619,
+      "score": 3613,
       "comments": 104,
       "url": "https://old.reddit.com/r/oddlyterrifying/comments/1qapz7o/decorative_tower_in_south_korean_plastic_surgery/",
       "views": 0,
-      "likes": 3619
+      "likes": 3613
     },
     {
       "topic": "r/AsianBeauty Korea",
@@ -899,11 +899,11 @@
       "title": "I’m extremely confused… can someone please explain lol",
       "author": "hillary_____k",
       "subreddit": "AsianBeauty",
-      "score": 3219,
+      "score": 3222,
       "comments": 348,
       "url": "https://old.reddit.com/r/AsianBeauty/comments/1pg5zcw/im_extremely_confused_can_someone_please_explain/",
       "views": 0,
-      "likes": 3219
+      "likes": 3222
     },
     {
       "topic": "r/korea Korea",
@@ -911,11 +911,11 @@
       "title": "Korean metro survival rule no one tells you",
       "author": "korea_lifeshare",
       "subreddit": "korea",
-      "score": 2997,
+      "score": 2998,
       "comments": 161,
       "url": "https://old.reddit.com/r/korea/comments/1qx3xh2/korean_metro_survival_rule_no_one_tells_you/",
       "views": 0,
-      "likes": 2997
+      "likes": 2998
     },
     {
       "topic": "r/korea Korea",
@@ -923,11 +923,11 @@
       "title": "The state of comments left by Korean men on a YouTuber who was raped",
       "author": "SuccessfulAd4451",
       "subreddit": "korea",
-      "score": 2935,
+      "score": 2940,
       "comments": 697,
       "url": "https://old.reddit.com/r/korea/comments/1onww4d/the_state_of_comments_left_by_korean_men_on_a/",
       "views": 0,
-      "likes": 2935
+      "likes": 2940
     },
     {
       "topic": "r/korea Korea",
@@ -935,11 +935,11 @@
       "title": "South Korean ambassador to Brazil singing Pagode in perfect portuguese",
       "author": "Gordoman_",
       "subreddit": "korea",
-      "score": 2741,
+      "score": 2739,
       "comments": 65,
       "url": "https://old.reddit.com/r/korea/comments/1mc12gn/south_korean_ambassador_to_brazil_singing_pagode/",
       "views": 0,
-      "likes": 2741
+      "likes": 2739
     },
     {
       "topic": "Korean skincare",
@@ -947,11 +947,11 @@
       "title": "use that korean skincare guys",
       "author": "SwimmingTop9016",
       "subreddit": "Blackskincare",
-      "score": 2718,
+      "score": 2721,
       "comments": 137,
       "url": "https://old.reddit.com/r/Blackskincare/comments/1pt5rku/use_that_korean_skincare_guys/",
       "views": 0,
-      "likes": 2718
+      "likes": 2721
     },
     {
       "topic": "r/korea Korea",
@@ -959,11 +959,11 @@
       "title": "First Trump kicks Korean engineers training US workers for having the wrong visa, now he raises prices of the right visa. And this is how nobody will go to USA to train US workers",
       "author": "JoseLunaArts",
       "subreddit": "korea",
-      "score": 2597,
+      "score": 2596,
       "comments": 201,
       "url": "https://old.reddit.com/r/korea/comments/1nlpp5n/first_trump_kicks_korean_engineers_training_us/",
       "views": 0,
-      "likes": 2597
+      "likes": 2596
     },
     {
       "topic": "ID Hospital",
@@ -983,11 +983,11 @@
       "title": "42 Korean Honor Students Denied Entry to U.S., Educational Trip Canceled",
       "author": "ConcertExciting952",
       "subreddit": "korea",
-      "score": 2279,
+      "score": 2277,
       "comments": 188,
       "url": "https://old.reddit.com/r/korea/comments/1mhaopj/42_korean_honor_students_denied_entry_to_us/",
       "views": 0,
-      "likes": 2279
+      "likes": 2277
     },
     {
       "topic": "Korea filler",
@@ -995,11 +995,11 @@
       "title": "[Jujutsu Kaisen] Japanese Fans React: \"Apparently Naoya Zenin is seriously hated overseas, but why?\"",
       "author": "Asperburg",
       "subreddit": "Jujutsufolk",
-      "score": 2261,
+      "score": 2258,
       "comments": 289,
       "url": "https://old.reddit.com/r/Jujutsufolk/comments/1rs3461/jujutsu_kaisen_japanese_fans_react_apparently/",
       "views": 0,
-      "likes": 2261
+      "likes": 2258
     },
     {
       "topic": "Korean V-line",
@@ -1031,11 +1031,11 @@
       "title": "From a Korean: One Honest Tip for Anyone Visiting Korea",
       "author": "Odd-Cover6626",
       "subreddit": "koreatravel",
-      "score": 2176,
+      "score": 2179,
       "comments": 293,
       "url": "https://old.reddit.com/r/koreatravel/comments/1lbsabv/from_a_korean_one_honest_tip_for_anyone_visiting/",
       "views": 0,
-      "likes": 2176
+      "likes": 2179
     },
     {
       "topic": "Korean plastic surgery",
@@ -1043,11 +1043,11 @@
       "title": "plastic surgery in 5th gen is starting to make female idols become indistinguishable from each other as well as erase any ethnic features that they had.",
       "author": "yvie_of_lesbos",
       "subreddit": "kpopnoir",
-      "score": 2118,
+      "score": 2117,
       "comments": 77,
       "url": "https://old.reddit.com/r/kpopnoir/comments/1p7iq2n/plastic_surgery_in_5th_gen_is_starting_to_make/",
       "views": 0,
-      "likes": 2118
+      "likes": 2117
     },
     {
       "topic": "r/korea Korea",
@@ -1055,11 +1055,11 @@
       "title": "I got some korean food \"Soon Tofu\", can someone help me understand",
       "author": "The_Data_Doc",
       "subreddit": "korea",
-      "score": 2077,
+      "score": 2068,
       "comments": 266,
       "url": "https://old.reddit.com/r/korea/comments/1pgxcre/i_got_some_korean_food_soon_tofu_can_someone_help/",
       "views": 0,
-      "likes": 2077
+      "likes": 2068
     },
     {
       "topic": "r/30PlusSkincare Korea",
@@ -1067,11 +1067,11 @@
       "title": "An update and a thank you!",
       "author": "Single_Education_777",
       "subreddit": "30PlusSkinCare",
-      "score": 2009,
+      "score": 2005,
       "comments": 207,
       "url": "https://old.reddit.com/r/30PlusSkinCare/comments/1rqx4e5/an_update_and_a_thank_you/",
       "views": 0,
-      "likes": 2009
+      "likes": 2005
     },
     {
       "topic": "r/SkincareAddiction Korea",
@@ -1079,11 +1079,11 @@
       "title": "[Acne] Struggled with a decade of acne and been clear for 5 years. Here is everything I’ve tried vs everything that’s worked + my current routine.",
       "author": "plaesma",
       "subreddit": "SkincareAddiction",
-      "score": 1978,
+      "score": 1975,
       "comments": 174,
       "url": "https://old.reddit.com/r/SkincareAddiction/comments/1nry4yb/acne_struggled_with_a_decade_of_acne_and_been/",
       "views": 0,
-      "likes": 1978
+      "likes": 1975
     },
     {
       "topic": "Korea botox",
@@ -1103,11 +1103,11 @@
       "title": "Over 400 Koreans have gone Missing in Cambodia since 2019",
       "author": "deepsigh-9986",
       "subreddit": "korea",
-      "score": 1779,
+      "score": 1777,
       "comments": 186,
       "url": "https://old.reddit.com/r/korea/comments/1o9d6jw/over_400_koreans_have_gone_missing_in_cambodia/",
       "views": 0,
-      "likes": 1779
+      "likes": 1777
     },
     {
       "topic": "r/korea Korea",
@@ -1115,11 +1115,11 @@
       "title": "It's been 7 years , 14 Korean court orders since the kidnapping of my child. I want this injustice to be remembered.",
       "author": "Lunkerintraining",
       "subreddit": "korea",
-      "score": 1750,
+      "score": 1744,
       "comments": 32,
       "url": "https://old.reddit.com/r/korea/comments/1sr31kh/its_been_7_years_14_korean_court_orders_since_the/",
       "views": 0,
-      "likes": 1750
+      "likes": 1744
     }
   ]
 }

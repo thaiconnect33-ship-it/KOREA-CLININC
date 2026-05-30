@@ -1,16 +1,16 @@
 {
   "query": "스페이드의원",
-  "generated_at": "2026-05-29T05:31:18.335Z",
+  "generated_at": "2026-05-29T10:40:59.543Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 5017,
+      "metric_value": 5030,
       "extra": {
         "place_id": "1514020467",
         "name": "스페이드의원 : 네이버\u001c",
-        "visitor_review_count": 5001,
+        "visitor_review_count": 5014,
         "blog_review_count": 16,
         "detail_url": "https://m.place.naver.com/place/1514020467/home"
       }
@@ -45,36 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 3,
+      "metric_value": 20,
       "extra": {
-        "total_views": 518000,
+        "total_views": 280658041,
         "foreign_video_count": 0,
         "lang_breakdown": {
-          "korean": 3,
+          "korean": 20,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
           "english_other": 0
         },
-        "sample_size": 3,
+        "sample_size": 20,
         "top_videos": [
           {
-            "title": "Why Your Beard Doesn't Get Rid of Hair Even After 10 Removals | A Doctor Shares Tips to Increase ...",
-            "channel": "동네 의사 이상욱",
-            "url": "https://www.youtube.com/watch?v=-YB0PZxV2us&pp=ygUh7Iqk7Y6Y7J2065Oc7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "159K views"
+            "title": "미 하원의원 \"동맹국인 한국 얼굴 정면으로 한 방 먹인 것\" / JTBC 뉴스룸",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=ewGE8wsyFDE&pp=ygUY7Iqk7Y6Y7J2065Oc7J2Y7JuQIEtvcmVh",
+            "view_text": "949K"
           },
           {
-            "title": "아포지vs젠틀맥스 내돈내산 찐 후기! (수염자국 없애는 레이저제모 후기)",
-            "channel": "NEW 임파",
-            "url": "https://www.youtube.com/watch?v=E9iv4c3ezNc&pp=ygUh7Iqk7Y6Y7J2065Oc7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "259K views"
+            "title": "스페이드플러스 경마 분석   2015년 6월 7일 일요일",
+            "channel": "spadeplusmontana",
+            "url": "https://www.youtube.com/watch?v=Xu8rYpc4WzE&pp=ygUY7Iqk7Y6Y7J2065Oc7J2Y7JuQIEtvcmVh",
+            "view_text": "50"
           },
           {
-            "title": "수염 레이저제모 얼마나 유지될까? (기계 추천,  가격, 후기)",
-            "channel": "NEW 임파",
-            "url": "https://www.youtube.com/watch?v=KZ1vY0hUS-g&pp=ygUh7Iqk7Y6Y7J2065Oc7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "100K views"
+            "title": "이철호 후보 출마의 변",
+            "channel": "spade son",
+            "url": "https://www.youtube.com/watch?v=qXAf4xjGwkA&pp=ygUY7Iqk7Y6Y7J2065Oc7J2Y7JuQIEtvcmVh",
+            "view_text": "403"
+          },
+          {
+            "title": "왜 언론은 세계의 칭찬에 주목하지 않을까? / YTN",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=CZ9qWeIfYfY&pp=ygUY7Iqk7Y6Y7J2065Oc7J2Y7JuQIEtvcmVh",
+            "view_text": "293K"
+          },
+          {
+            "title": "KBS대전",
+            "channel": "spade son",
+            "url": "https://www.youtube.com/watch?v=gtM72p6s7CA&pp=ygUY7Iqk7Y6Y7J2065Oc7J2Y7JuQIEtvcmVh",
+            "view_text": "354"
+          },
+          {
+            "title": "유명 음식평론가 '보데인' 스스로 목숨 끊어…애도 물결",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=betIW0re6Os&pp=ygUY7Iqk7Y6Y7J2065Oc7J2Y7JuQIEtvcmVh",
+            "view_text": "17K"
+          },
+          {
+            "title": "\"코로나19 한국 대응 배워야\"... ‘성숙한 시민의식' 외신 극찬 / KBS뉴스(News)",
+            "channel": "KBS News",
+            "url": "https://www.youtube.com/watch?v=fq3bvbhvpBU&pp=ygUY7Iqk7Y6Y7J2065Oc7J2Y7JuQIEtvcmVh",
+            "view_text": "624K"
+          },
+          {
+            "title": "[LIVE] 미 국채 발행 '사흘째 흥행'은 실패...시장금리 '들썩' (ft. 박상준 CMS증권 이사)/SBS/권애리의 모닝라이브/경제자유살롱",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=WbODAvBRnz8&pp=ygUY7Iqk7Y6Y7J2065Oc7J2Y7JuQIEtvcmVh",
+            "view_text": "5.9K"
+          },
+          {
+            "title": "스페이드플러스 경마 분석 (2014년6월1일서울경마)",
+            "channel": "spadeplusmontana",
+            "url": "https://www.youtube.com/watch?v=ZElH1gIWq3A&pp=ygUY7Iqk7Y6Y7J2065Oc7J2Y7JuQIEtvcmVh",
+            "view_text": "97"
+          },
+          {
+            "title": "아이들을위한 재미있는 이야기를 - 블라드와 니키는 엄마와 함께 재미를",
+            "channel": "블라드와 니키타",
+            "url": "https://www.youtube.com/watch?v=EfGoLRN079s&pp=ygUY7Iqk7Y6Y7J2065Oc7J2Y7JuQIEtvcmVh",
+            "view_text": "278M"
           }
         ]
       }

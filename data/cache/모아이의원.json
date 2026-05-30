@@ -1,16 +1,18 @@
 {
   "query": "모아이의원",
-  "generated_at": "2026-05-28T23:56:28.385Z",
+  "generated_at": "2026-05-29T12:43:16.344Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 977,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "1341223956",
+        "name": "모아이의원 : 네이버\u001c",
+        "visitor_review_count": 633,
+        "blog_review_count": 344,
+        "detail_url": "https://m.place.naver.com/place/1341223956/home"
       }
     },
     "google_maps": {
@@ -34,9 +36,80 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 0,
+      "metric_value": 20,
       "extra": {
-        "note": "결과 없음"
+        "total_views": 189877,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "바로 이해 되는 대한민국 성장기 43화  ( 장면 부통령 저격 사건 )",
+            "channel": "모아이",
+            "url": "https://www.youtube.com/watch?v=UC1C9vFDw6w&pp=ygUV66qo7JWE7J207J2Y7JuQIEtvcmVh",
+            "view_text": "306 views"
+          },
+          {
+            "title": "뉴스파이터 [다시보기] 전 연인 찾아와 불 지른 스토킹 남성 - 2022.12.09 방송",
+            "channel": "MBN News",
+            "url": "https://www.youtube.com/watch?v=pLnXYKK0VyI&pp=ygUV66qo7JWE7J207J2Y7JuQIEtvcmVh",
+            "view_text": "34K views"
+          },
+          {
+            "title": "바로 이해 되는 대한민국 성장기 8화 ( 단독정부와 제헌국회 )",
+            "channel": "모아이",
+            "url": "https://www.youtube.com/watch?v=MO4XtAgRetg&pp=ygUV66qo7JWE7J207J2Y7JuQIEtvcmVh",
+            "view_text": "2.1K views"
+          },
+          {
+            "title": "[더라이브] 471회 풀영상 2022. 3. 28. (김수민/임경빈/김예지) [KBS 220328 방송]",
+            "channel": "KBS 그날 그곳에 있었습니다",
+            "url": "https://www.youtube.com/watch?v=SzKdnJeD_YI&pp=ygUV66qo7JWE7J207J2Y7JuQIEtvcmVh",
+            "view_text": "23K views"
+          },
+          {
+            "title": "'https 차단' 오해와 진실 & 한국당 전대 막판 판세는?",
+            "channel": "TBS 시민의방송",
+            "url": "https://www.youtube.com/watch?v=VtX_HgJFOFA&pp=ygUV66qo7JWE7J207J2Y7JuQIEtvcmVh",
+            "view_text": "8.1K views"
+          },
+          {
+            "title": "[주진우라이브] 대한민국이 월드컵에서 1등인 게 있다? 카타르 월드컵의 과학 -과학 커뮤니케이터 엑소 이선호ㅣKBS 221207 방송",
+            "channel": "KBS 1라디오",
+            "url": "https://www.youtube.com/watch?v=hsyi-GgOc7c&pp=ygUV66qo7JWE7J207J2Y7JuQIEtvcmVh",
+            "view_text": "835 views"
+          },
+          {
+            "title": "[글로벌K] 연말연시, 외로운 유기동물들도 행복하고 따듯하게 / KBS  2022.12.30.",
+            "channel": "KBS News",
+            "url": "https://www.youtube.com/watch?v=fV9unooY6UA&pp=ygUV66qo7JWE7J207J2Y7JuQIEtvcmVh",
+            "view_text": "340 views"
+          },
+          {
+            "title": "(상상만 해도 행복) 김종민이 사 오고 싶은 랜드마크는 '세렁게티(?)' 비정상회담 133회",
+            "channel": "JTBC Entertainment",
+            "url": "https://www.youtube.com/watch?v=TC_A4MN1qn8&pp=ygUV66qo7JWE7J207J2Y7JuQIEtvcmVh",
+            "view_text": "11K views"
+          },
+          {
+            "title": "김대중 대통령과 최고의 스타들! '서태지'는 물론 '마이클 잭슨'까지?! l 풍문으로 들었쇼 183회",
+            "channel": "채널에이드: 채널A Drama & Enjoy",
+            "url": "https://www.youtube.com/watch?v=3WcDuxJCgqk&pp=ygUV66qo7JWE7J207J2Y7JuQIEtvcmVh",
+            "view_text": "1K views"
+          },
+          {
+            "title": "MBN 뉴스파이터-하늘에 나타난 인간 날다람쥐의 정체는?",
+            "channel": "MBN News",
+            "url": "https://www.youtube.com/watch?v=pM2ySE_2mi4&pp=ygUV66qo7JWE7J207J2Y7JuQIEtvcmVh",
+            "view_text": "3.4K views"
+          }
+        ]
       }
     },
     "xiaohongshu": {
@@ -50,12 +123,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

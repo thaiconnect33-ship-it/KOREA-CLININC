@@ -1,0 +1,148 @@
+{
+  "query": "나인의원 홍대입구역",
+  "generated_at": "2026-05-29T11:28:38.846Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 6612,
+      "extra": {
+        "place_id": "1032117656",
+        "name": "나인의원 홍대입구역 : 네이버\u001c",
+        "visitor_review_count": 609,
+        "blog_review_count": 6003,
+        "detail_url": "https://m.place.naver.com/place/1032117656/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "나인의원 홍대입구역 / NAIN CLINIC / ナインクリニック / 娜人皮肤科",
+        "rating": 4.8,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 18,
+      "extra": {
+        "total_views": 184558,
+        "foreign_video_count": 1,
+        "lang_breakdown": {
+          "korean": 17,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 1
+        },
+        "sample_size": 18,
+        "top_videos": [
+          {
+            "title": "홍대입구역 부근 공사장서 불...36명 대피 / YTN",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=rdxx5Rhy0Vk&pp=ygUi64KY7J247J2Y7JuQIO2ZjeuMgOyeheq1rOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "535 views"
+          },
+          {
+            "title": "'이준석 다큐' 3월 개봉…오늘 현안 관련 기자회견 / 연합뉴스TV (YonhapnewsTV)",
+            "channel": "연합뉴스TV",
+            "url": "https://www.youtube.com/watch?v=Sa5VVAfYWok&pp=ygUi64KY7J247J2Y7JuQIO2ZjeuMgOyeheq1rOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "1K views"
+          },
+          {
+            "title": "'토요일 밤 12시 홍대입구역' 택시잡기 가장 어려워",
+            "channel": "연합뉴스TV",
+            "url": "https://www.youtube.com/watch?v=JhBD7IcnT-4&pp=ygUi64KY7J247J2Y7JuQIO2ZjeuMgOyeheq1rOyXrSBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "317 views"
+          },
+          {
+            "title": "'이준석 다큐' 3월 개봉…내일 현안 관련 기자회견 / 연합뉴스TV (YonhapnewsTV)",
+            "channel": "연합뉴스TV",
+            "url": "https://www.youtube.com/watch?v=YQn4MgLvgQA&pp=ygUi64KY7J247J2Y7JuQIO2ZjeuMgOyeheq1rOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "6.3K views"
+          },
+          {
+            "title": "서울 지하철역 '몰카' 적발 1위는 홍대입구역 / 연합뉴스TV (YonhapnewsTV)",
+            "channel": "연합뉴스TV",
+            "url": "https://www.youtube.com/watch?v=7MD_9AXTsSM&pp=ygUi64KY7J247J2Y7JuQIO2ZjeuMgOyeheq1rOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "508 views"
+          },
+          {
+            "title": "[현장영상] \"케네디·오바마도 40대\" 사실상 대선출마…\"이준석! 이준석!\" 연호 / JTBC News",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=mkJcIMCXE8s&pp=ygUi64KY7J247J2Y7JuQIO2ZjeuMgOyeheq1rOyXrSBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "36K views"
+          },
+          {
+            "title": "환승하기 힘든 역은 '홍대역'...걷는데만 5분! / YTN",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=DMYgUiFyvAU&pp=ygUi64KY7J247J2Y7JuQIO2ZjeuMgOyeheq1rOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "2.2K views"
+          },
+          {
+            "title": "[Subtitle News] New Jeans, Will Itzy Ease Its Regrets? Jamboree K-Pop Concert / OBS News",
+            "channel": "OBS뉴스",
+            "url": "https://www.youtube.com/watch?v=scS10xqGZ2k&pp=ygUi64KY7J247J2Y7JuQIO2ZjeuMgOyeheq1rOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "1.8K views"
+          },
+          {
+            "title": "[다시보기] 이준석 홍대서 기자회견...조기 대선 행보 본격화-2월 2일 (일) 풀영상  [이슈현장] / JTBC News",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=IoJ9KJbUXpg&pp=ygUi64KY7J247J2Y7JuQIO2ZjeuMgOyeheq1rOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "80K views"
+          },
+          {
+            "title": "[다시보기] 둘로 쪼개진 개혁신당...허은아 주재 최고위-2월 3일 (월) 풀영상 [이슈현장] / JTBC News",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=_G3sOIxBEg0&pp=ygUi64KY7J247J2Y7JuQIO2ZjeuMgOyeheq1rOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "24K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 1,
+  "opportunity_cost_thb": 109500,
+  "opportunity_cost_krw": 4380000
+}

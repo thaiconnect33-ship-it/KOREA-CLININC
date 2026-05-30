@@ -1,16 +1,18 @@
 {
   "query": "SC301의원",
-  "generated_at": "2026-05-28T23:16:55.010Z",
+  "generated_at": "2026-05-29T11:59:07.063Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 1541,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "36782214",
+        "name": "SC301의원 : 네이버\u001c",
+        "visitor_review_count": 570,
+        "blog_review_count": 971,
+        "detail_url": "https://m.place.naver.com/place/36782214/home"
       }
     },
     "google_maps": {
@@ -21,13 +23,13 @@
         "name": "SC301의원 Stem Cell Clinic Seoul",
         "rating": 4.7,
         "total_reviews": 81,
-        "sample_size": 16,
-        "foreign_language_reviews": 12,
+        "sample_size": 20,
+        "foreign_language_reviews": 16,
         "lang_breakdown": {
           "korean": 4,
           "thai": 0,
           "chinese": 0,
-          "english_other": 12
+          "english_other": 16
         }
       }
     },
@@ -43,78 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 18,
+      "metric_value": 20,
       "extra": {
-        "total_views": 574566,
+        "total_views": 42164,
         "foreign_video_count": 0,
         "lang_breakdown": {
-          "korean": 18,
+          "korean": 20,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
           "english_other": 0
         },
-        "sample_size": 18,
+        "sample_size": 20,
         "top_videos": [
+          {
+            "title": "[줄기신닥터신] [SC301] SVF 성형수술의 일인자, 그는 누구인가?🤔 l 신동진 원장이 이야기하는 '라떼는 말이야~' l SVF 가슴성형(구 줄기세포 가슴성형) l",
+            "channel": "신동진의 줄기신닥터신",
+            "url": "https://www.youtube.com/watch?v=b8SHncKvaSc&pp=ygURU0MzMDHsnZjsm5AgS29yZWE%3D",
+            "view_text": "3.6K views"
+          },
+          {
+            "title": "[줄기신닥터신] 거슬리는 지방 흡입 수술 흉터, 흉터 없는 수술 방법은 SC301에 있습니다  ISVF 지방흡입I | 신동진 원장",
+            "channel": "신동진의 줄기신닥터신",
+            "url": "https://www.youtube.com/watch?v=zNMqateVMNA&pp=ygURU0MzMDHsnZjsm5AgS29yZWE%3D",
+            "view_text": "624 views"
+          },
+          {
+            "title": "[줄기신닥터신] SVF와 일반지방이식과 차이점 [SC301 신동진 원장님, SVF의 모든 것]",
+            "channel": "신동진의 줄기신닥터신",
+            "url": "https://www.youtube.com/watch?v=J6fHZyyEUys&pp=ygURU0MzMDHsnZjsm5AgS29yZWE%3D",
+            "view_text": "2.2K views"
+          },
           {
             "title": "[SC301] 생착률이 낮은 자가지방 이식수술에 대한 모든 것! 단순 자가지방이식술의 부작용😡 (feat. 석회화, 오일낭종) l 줄기세포 가슴성형",
             "channel": "신동진의 줄기신닥터신",
-            "url": "https://www.youtube.com/watch?v=Bw-t9icEV6I&pp=ygUjU0MzMDHsnZjsm5DthqHthqHshLHtmJXsmbjqs7wgS29yZWE%3D",
+            "url": "https://www.youtube.com/watch?v=Bw-t9icEV6I&pp=ygURU0MzMDHsnZjsm5AgS29yZWE%3D",
             "view_text": "1.6K views"
           },
           {
-            "title": "[줄기신닥터신] 너무 절벽이면 가슴수술 힘들다? / 그 외에 보형물과 SVF 수술 후 흉터 자국 차이, 식단 등 궁금하셨던 부분들 다 해소해 드리겠습니다 😄 | 신동진 원장",
+            "title": "[줄기신닥터신] SC301 SVF가슴성형, FACT CHECK , 가슴지방이식의 명가 | 신동진 원장",
             "channel": "신동진의 줄기신닥터신",
-            "url": "https://www.youtube.com/watch?v=zKn2ZsJjgQI&pp=ygUjU0MzMDHsnZjsm5DthqHthqHshLHtmJXsmbjqs7wgS29yZWE%3D",
-            "view_text": "1.2K views"
+            "url": "https://www.youtube.com/watch?v=_4WK8ztVgVE&pp=ygURU0MzMDHsnZjsm5AgS29yZWE%3D",
+            "view_text": "2K views"
           },
           {
-            "title": "[줄기신닥터신] 가슴수술과 유방암의 관계성, 보형물 과연 안전할까? 모든 의혹에 대한 총정리! l SVF 가슴성형(구 줄기세포 가슴성형) | 신동진 원장",
+            "title": "[줄기신닥터신] [SC301] 'SVF에 대한 모든 것' SVF 성형의 일인자, 신동진 원장이 알려Dream l SVF 가슴 성형 l",
             "channel": "신동진의 줄기신닥터신",
-            "url": "https://www.youtube.com/watch?v=keMA2DjHXrI&pp=ygUjU0MzMDHsnZjsm5DthqHthqHshLHtmJXsmbjqs7wgS29yZWE%3D",
-            "view_text": "518 views"
+            "url": "https://www.youtube.com/watch?v=VYG2rC2kHrI&pp=ygURU0MzMDHsnZjsm5AgS29yZWE%3D",
+            "view_text": "2.4K views"
           },
           {
-            "title": "지방이식을 통한 줄기세포 가슴수술 알아보기 / YTN",
-            "channel": "YTN",
-            "url": "https://www.youtube.com/watch?v=zOxTp2D6DF8&pp=ygUjU0MzMDHsnZjsm5DthqHthqHshLHtmJXsmbjqs7wgS29yZWHSBwkJDQsBhyohjO8%3D",
-            "view_text": "2.8K views"
-          },
-          {
-            "title": "[줄기신닥터신] SC301, SVF가슴성형, 내돈내산 리얼 찐 후기!! | 신동진 원장",
+            "title": "[줄기신닥터신] [TV주치의무병장수] TV주치의가 인정한 진짜 SVF 시술, 첨단시스템 완비 SC301성형외과 | 신동진 원장",
             "channel": "신동진의 줄기신닥터신",
-            "url": "https://www.youtube.com/watch?v=HHJI68LVy-Y&pp=ygUjU0MzMDHsnZjsm5DthqHthqHshLHtmJXsmbjqs7wgS29yZWE%3D",
-            "view_text": "6.7K views"
+            "url": "https://www.youtube.com/watch?v=aVR1MgQ8cQE&pp=ygURU0MzMDHsnZjsm5AgS29yZWE%3D",
+            "view_text": "2.1K views"
           },
           {
-            "title": "저렴하다? 시간이 오래 걸리지 않는다? 정통 줄기세포 수술이 아닌 유사 줄기세포로 수술을 하게 된다면 나타나는 부작용들! 더 이상 속지 마세요! l줄기세포가슴성형l가슴지방이식l",
+            "title": "[줄기신닥터신] SVF가슴성형이란?? [SC301 신동진 원장님, SVF의 모든 것]",
             "channel": "신동진의 줄기신닥터신",
-            "url": "https://www.youtube.com/watch?v=XhL2I2_po80&pp=ygUjU0MzMDHsnZjsm5DthqHthqHshLHtmJXsmbjqs7wgS29yZWE%3D",
-            "view_text": "851 views"
+            "url": "https://www.youtube.com/watch?v=NnFTeMtEwFo&pp=ygURU0MzMDHsnZjsm5AgS29yZWE%3D",
+            "view_text": "2.3K views"
           },
           {
-            "title": "[줄기신닥터신] 병원 내에 연구소가 있는 이유, 연구소의 중요성 ISVF 가슴 성형I | 신동진 원장",
+            "title": "[줄기신닥터신] sc301SVF가슴성형,SVF는 어떻게 추출하나요?? | 신동진 원장",
             "channel": "신동진의 줄기신닥터신",
-            "url": "https://www.youtube.com/watch?v=spDbkFF5cw4&pp=ygUjU0MzMDHsnZjsm5DthqHthqHshLHtmJXsmbjqs7wgS29yZWE%3D",
-            "view_text": "169 views"
-          },
-          {
-            "title": "❌권하지 않는 가슴 시술🙅‍♂️ ep.3 가슴 지방이식 | feat. 줄기세포 가슴성형",
-            "channel": "나나TV - 나나성형외과",
-            "url": "https://www.youtube.com/watch?v=txQ8oEBFXxw&pp=ygUjU0MzMDHsnZjsm5DthqHthqHshLHtmJXsmbjqs7wgS29yZWE%3D",
-            "view_text": "58K views"
-          },
-          {
-            "title": "[쿡TV] 레이싱걸 김시향도 알아본 진짜 마이더스의 손-신동진 원장의 줄기세포 가슴성형/동안성형",
-            "channel": "신동진의 줄기신닥터신",
-            "url": "https://www.youtube.com/watch?v=ye4iAGuIh-4&pp=ygUjU0MzMDHsnZjsm5DthqHthqHshLHtmJXsmbjqs7wgS29yZWE%3D",
-            "view_text": "3.7K views"
-          },
-          {
-            "title": "무엇보다 안전이 중요, 줄기세포 가슴성형 알아보기 / YTN",
-            "channel": "YTN",
-            "url": "https://www.youtube.com/watch?v=47IDuF2OesI&pp=ygUjU0MzMDHsnZjsm5DthqHthqHshLHtmJXsmbjqs7wgS29yZWE%3D",
+            "url": "https://www.youtube.com/watch?v=qpdPTQXiTCU&pp=ygURU0MzMDHsnZjsm5AgS29yZWE%3D",
             "view_text": "3K views"
+          },
+          {
+            "title": "[닥터큐] 뭐! 모유에 실리콘 성분이? 안전한 유방 성형은 줄기세포가 답이다 / SC301의원 신동진 원장",
+            "channel": "신동진의 줄기신닥터신",
+            "url": "https://www.youtube.com/watch?v=CQhtkGt0Izg&pp=ygURU0MzMDHsnZjsm5AgS29yZWE%3D",
+            "view_text": "3.1K views"
           }
         ]
       }
@@ -130,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 6,
-  "opportunity_cost_thb": 94000,
-  "opportunity_cost_krw": 3760000
+  "global_score": 8,
+  "opportunity_cost_thb": 92000,
+  "opportunity_cost_krw": 3680000
 }

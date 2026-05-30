@@ -1,18 +1,18 @@
 {
   "query": "맥스약국약국",
-  "generated_at": "2026-05-28T23:22:10.923Z",
+  "generated_at": "2026-05-29T12:04:46.045Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 264,
+      "metric_value": 20,
       "extra": {
-        "place_id": "2019681104",
-        "name": "맥스메트로약국 : 네이버\u001c",
-        "visitor_review_count": 236,
-        "blog_review_count": 28,
-        "detail_url": "https://m.place.naver.com/place/2019681104/home"
+        "place_id": "1192488704",
+        "name": "맥스약국 : 네이버\u001c",
+        "visitor_review_count": 20,
+        "blog_review_count": 0,
+        "detail_url": "https://m.place.naver.com/place/1192488704/home"
       }
     },
     "google_maps": {
@@ -20,8 +20,8 @@
       "metric_label": "리뷰",
       "metric_value": 0,
       "extra": {
-        "name": "환승센터약국",
-        "rating": 3,
+        "name": "World Tower Pharmacy",
+        "rating": 5,
         "total_reviews": 0,
         "sample_size": 0,
         "foreign_language_reviews": 0,
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 44412583,
+        "total_views": 78891941,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -62,61 +62,61 @@
             "title": "창고형 약국보다 도매약국이 더 쌀까? 마데카솔, 비맥스, 애크논, 비판텐, 로게인폼 등 내돈내산 방문기",
             "channel": "영양과학자 양과자",
             "url": "https://www.youtube.com/watch?v=shJ5KjOsyMc&pp=ygUY66el7Iqk7JW96rWt7JW96rWtIEtvcmVh",
-            "view_text": "30K views"
+            "view_text": "30K"
           },
           {
             "title": "일반약국 vs 창고형 약국 vs 도매 약국 가격만 비교! 확인해보고 가세요!",
             "channel": "영양과학자 양과자",
             "url": "https://www.youtube.com/watch?v=GPensi98yfw&pp=ygUY66el7Iqk7JW96rWt7JW96rWtIEtvcmVh",
-            "view_text": "20K views"
+            "view_text": "20K"
           },
           {
-            "title": "약국용 활성형 비타민B군 끝판왕은? (가성비 제품까지 골라봤습니다)",
-            "channel": "약사가 들려주는 약 이야기",
-            "url": "https://www.youtube.com/watch?v=va3vOyczAd4&t=17s&pp=ygUY66el7Iqk7JW96rWt7JW96rWtIEtvcmVh",
-            "view_text": "177K views"
-          },
-          {
-            "title": "이 영양제는 무조건 약국 가서 사는 게 이득입니다 (돈값하는 약국 영양제)",
-            "channel": "약사가 들려주는 약 이야기",
-            "url": "https://www.youtube.com/watch?v=jmjEvfzaZo0&pp=ygUY66el7Iqk7JW96rWt7JW96rWtIEtvcmVh",
-            "view_text": "94K views"
-          },
-          {
-            "title": "약국 일반약 과외 PART3 | 키미테 패취, 리도멕스 0.15%, 0.3%",
-            "channel": "코리아약국",
-            "url": "https://www.youtube.com/watch?v=GFWg3xXbmv0&pp=ygUY66el7Iqk7JW96rWt7JW96rWtIEtvcmVh",
-            "view_text": "3.8K views"
+            "title": "창원 메가맥스약국 내부소개",
+            "channel": "아이디자인닷컴",
+            "url": "https://www.youtube.com/watch?v=YXKwvm7dqyg&pp=ygUY66el7Iqk7JW96rWt7JW96rWtIEtvcmVh",
+            "view_text": "21"
           },
           {
             "title": "[비맥스] 약국 편(15\")",
             "channel": "GC녹십자",
             "url": "https://www.youtube.com/watch?v=5JibQQNSfCo&pp=ygUY66el7Iqk7JW96rWt7JW96rWtIEtvcmVh",
-            "view_text": "7.1K views"
+            "view_text": "7.1K"
+          },
+          {
+            "title": "약국용 활성형 비타민B군 끝판왕은? (가성비 제품까지 골라봤습니다)",
+            "channel": "약사가 들려주는 약 이야기",
+            "url": "https://www.youtube.com/watch?v=va3vOyczAd4&t=17s&pp=ygUY66el7Iqk7JW96rWt7JW96rWtIEtvcmVh",
+            "view_text": "178K"
+          },
+          {
+            "title": "이 영양제는 무조건 약국 가서 사는 게 이득입니다 (돈값하는 약국 영양제)",
+            "channel": "약사가 들려주는 약 이야기",
+            "url": "https://www.youtube.com/watch?v=jmjEvfzaZo0&pp=ygUY66el7Iqk7JW96rWt7JW96rWtIEtvcmVh",
+            "view_text": "95K"
+          },
+          {
+            "title": "[맥스콘드로이틴 1200] 관절엔, 지금 바로 약으로!",
+            "channel": "동아제약 OFFICIAL",
+            "url": "https://www.youtube.com/watch?v=LHcDTubcmQU&pp=ygUY66el7Iqk7JW96rWt7JW96rWtIEtvcmVh",
+            "view_text": "43M"
           },
           {
             "title": "창고형 약국 가격보고 가세요! 성남 메가팩토리 약국 영양제, 약 가격 알려드림",
             "channel": "영양과학자 양과자",
-            "url": "https://www.youtube.com/watch?v=RSwYoQUjvv0&pp=ygUY66el7Iqk7JW96rWt7JW96rWtIEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "50K views"
+            "url": "https://www.youtube.com/watch?v=RSwYoQUjvv0&pp=ygUY66el7Iqk7JW96rWt7JW96rWtIEtvcmVh",
+            "view_text": "50K"
           },
           {
             "title": "Why Japanese Pharmacists Fell (Korean Warehouse Pharmacies)",
             "channel": "안협소",
             "url": "https://www.youtube.com/watch?v=o57uyocQ9Y4&pp=ygUY66el7Iqk7JW96rWt7JW96rWtIEtvcmVh",
-            "view_text": "369K views"
+            "view_text": "370K"
           },
           {
             "title": "현직 약사가 폭로하는 메가팩토리약국의 실태? 변호사가 직접 찾아가 봤습니다 | 조민경 변호사 | 창고형 약국",
             "channel": "변호샤들",
             "url": "https://www.youtube.com/watch?v=nMLeoA7eWEs&pp=ygUY66el7Iqk7JW96rWt7JW96rWtIEtvcmVh",
-            "view_text": "4.5K views"
-          },
-          {
-            "title": "약국용 종합비타민 비교!  벤포벨 vs 임팩타민 vs 비맥스 vs 메가트루  피로,당뇨, 손발저림, 근육통, 신경통 있는 분들 주목하세요.",
-            "channel": "리틀약사",
-            "url": "https://www.youtube.com/watch?v=C9Eg1OsjfUU&pp=ygUY66el7Iqk7JW96rWt7JW96rWtIEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "304K views"
+            "view_text": "4.5K"
           }
         ]
       }
@@ -132,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

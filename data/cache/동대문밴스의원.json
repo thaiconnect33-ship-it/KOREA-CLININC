@@ -1,35 +1,35 @@
 {
   "query": "동대문밴스의원",
-  "generated_at": "2026-05-28T23:37:58.013Z",
+  "generated_at": "2026-05-29T12:22:10.602Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 1505,
+      "metric_value": 1524,
       "extra": {
         "place_id": "1556560647",
         "name": "동대문밴스의원 : 네이버\u001c",
         "visitor_review_count": 504,
-        "blog_review_count": 1001,
+        "blog_review_count": 1020,
         "detail_url": "https://m.place.naver.com/place/1556560647/home"
       }
     },
     "google_maps": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 90,
+      "metric_value": 91,
       "extra": {
         "name": "Dongdaemun VandS Clinic",
         "rating": 4.5,
-        "total_reviews": 90,
-        "sample_size": 24,
-        "foreign_language_reviews": 24,
+        "total_reviews": 91,
+        "sample_size": 30,
+        "foreign_language_reviews": 30,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 24
+          "english_other": 30
         }
       }
     },
@@ -45,54 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 6,
+      "metric_value": 10,
       "extra": {
-        "total_views": 383514,
+        "total_views": 415881,
         "foreign_video_count": 0,
         "lang_breakdown": {
-          "korean": 6,
+          "korean": 10,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
           "english_other": 0
         },
-        "sample_size": 6,
+        "sample_size": 10,
         "top_videos": [
           {
             "title": "의사가 알려주는 제모 10번 해도 안 없어지는 이유 | 이거 모르면 돈만 날립니다",
             "channel": "닥터블랑_예뻐지는비결",
-            "url": "https://www.youtube.com/watch?v=_-0TviDikkA&pp=ygUk64-Z64yA66y467C07Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "251K views"
+            "url": "https://www.youtube.com/watch?v=_-0TviDikkA&pp=ygUb64-Z64yA66y467C07Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "251K"
           },
           {
             "title": "대한민국 강남 피부과 원장들이 줄줄이 무너지는 진짜 이유",
             "channel": "바른경제",
-            "url": "https://www.youtube.com/watch?v=YwtjZmKGy7M&pp=ygUk64-Z64yA66y467C07Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "45K views"
+            "url": "https://www.youtube.com/watch?v=YwtjZmKGy7M&pp=ygUb64-Z64yA66y467C07Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "45K"
           },
           {
-            "title": "리니어지 시술 어떤 분들에게 권장하나요? │리니어지",
-            "channel": "피부구조대 오가나셀",
-            "url": "https://www.youtube.com/watch?v=3B3UUHhEZCg&pp=ygUk64-Z64yA66y467C07Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "5.6K views"
-          },
-          {
-            "title": "Radius Before and After Results Revealed! What Are the Real Benefits of Collagen Injections?",
-            "channel": "피부과전문의 피부담당 고원장",
-            "url": "https://www.youtube.com/watch?v=AFC76b05-I4&pp=ygUk64-Z64yA66y467C07Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "81K views"
+            "title": "[세종미디어그룹_지하철매체] 5호선 공덕역 / 밴스의원",
+            "channel": "광고알려주는여자 유과장",
+            "url": "https://www.youtube.com/watch?v=7CervMBPHag&pp=ygUb64-Z64yA66y467C07Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "37"
           },
           {
             "title": "이중턱이 심해서 고민이에요..😥│리니어지효과",
             "channel": "피부구조대 오가나셀",
-            "url": "https://www.youtube.com/watch?v=VrAlAzCvgSw&pp=ygUk64-Z64yA66y467C07Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "434 views"
+            "url": "https://www.youtube.com/watch?v=VrAlAzCvgSw&pp=ygUb64-Z64yA66y467C07Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "434"
+          },
+          {
+            "title": "리니어지 시술 어떤 분들에게 권장하나요? │리니어지",
+            "channel": "피부구조대 오가나셀",
+            "url": "https://www.youtube.com/watch?v=3B3UUHhEZCg&pp=ygUb64-Z64yA66y467C07Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "5.6K"
+          },
+          {
+            "title": "Radius Before and After Results Revealed! What Are the Real Benefits of Collagen Injections?",
+            "channel": "피부과전문의 피부담당 고원장",
+            "url": "https://www.youtube.com/watch?v=AFC76b05-I4&pp=ygUb64-Z64yA66y467C07Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "81K"
+          },
+          {
+            "title": "VLOG, 턱필러 근황, 샤넬25백 다시 삼. 요즘 핫한거 다 먹음(버터떡, 피그먼츠, 봄동비빔밥, 황치즈) 나의 생일 주간.",
+            "channel": "소소soso",
+            "url": "https://www.youtube.com/watch?v=W226H91ZKu4&pp=ygUb64-Z64yA66y467C07Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "30K"
           },
           {
             "title": "[동래준 피부과] 예민한 피부?! 홍조는 콜드 플라즈마 트랜스킨 관리! 2편",
             "channel": "피글피글 플라플라",
-            "url": "https://www.youtube.com/watch?v=zR59C9xCJmM&pp=ygUk64-Z64yA66y467C07Iqk7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "480 views"
+            "url": "https://www.youtube.com/watch?v=zR59C9xCJmM&pp=ygUb64-Z64yA66y467C07Iqk7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "480"
+          },
+          {
+            "title": "고속터미널역 / 개화행 9호선 출발",
+            "channel": "교통트립_Trip",
+            "url": "https://www.youtube.com/watch?v=zRYN2VSsjyk&pp=ygUb64-Z64yA66y467C07Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "130"
+          },
+          {
+            "title": "유신쇼 전화개그 유신의 구원자?,김건희 이준수 판도라 폰,내란특검 추경호 구속영장청구,장동혁 광주행,한동훈 출국금지,서해공무원피살사건 구형,오세훈 한강버스사고 [20251106]",
+            "channel": "NEWKER",
+            "url": "https://www.youtube.com/watch?v=zUWxCfJRW_I&pp=ygUb64-Z64yA66y467C07Iqk7J2Y7JuQIEtvcmVh",
+            "view_text": "2.2K"
           }
         ]
       }
@@ -108,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 12,
-  "opportunity_cost_thb": 88000,
-  "opportunity_cost_krw": 3520000
+  "global_score": 15,
+  "opportunity_cost_thb": 85000,
+  "opportunity_cost_krw": 3400000
 }

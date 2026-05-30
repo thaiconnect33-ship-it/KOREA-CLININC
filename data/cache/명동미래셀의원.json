@@ -1,6 +1,6 @@
 {
   "query": "명동미래셀의원",
-  "generated_at": "2026-05-28T22:57:53.580Z",
+  "generated_at": "2026-05-29T11:37:54.771Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -20,17 +20,8 @@
       "metric_label": "리뷰",
       "metric_value": 0,
       "extra": {
-        "name": "Sponsored",
-        "rating": 4.9,
-        "total_reviews": 0,
-        "sample_size": 0,
-        "foreign_language_reviews": 0,
-        "lang_breakdown": {
-          "korean": 0,
-          "thai": 0,
-          "chinese": 0,
-          "english_other": 0
-        }
+        "note": "Google Maps 결과 없음",
+        "foreign_language_reviews": 0
       }
     },
     "pantip": {
@@ -45,9 +36,80 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 0,
+      "metric_value": 13,
       "extra": {
-        "note": "결과 없음"
+        "total_views": 5180802,
+        "foreign_video_count": 1,
+        "lang_breakdown": {
+          "korean": 12,
+          "thai": 0,
+          "chinese": 1,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 13,
+        "top_videos": [
+          {
+            "title": "가디언오투 산소수 덕분에 혈압, 당뇨, 두통 다 좋아졌어요(명동 미래셀의원 산소캠프)",
+            "channel": "가디언오투",
+            "url": "https://www.youtube.com/watch?v=sXZFUPRbwuA&pp=ygUb66qF64-Z66-4656Y7IWA7J2Y7JuQIEtvcmVh",
+            "view_text": "21"
+          },
+          {
+            "title": "3달 만에 50kg 쫙 뺐지만…기적 뒤에 가려진 고통 / SBS / 모아보는 뉴스",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=XXYcqWwdixc&pp=ygUb66qF64-Z66-4656Y7IWA7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "2.4M"
+          },
+          {
+            "title": "김건희 여사 20년 전 동영상에 나타난 과거 모습",
+            "channel": "행군의아침TV",
+            "url": "https://www.youtube.com/watch?v=vMOaOTOLKTE&pp=ygUb66qF64-Z66-4656Y7IWA7J2Y7JuQIEtvcmVh",
+            "view_text": "2.1M"
+          },
+          {
+            "title": "서울대 피부과의사가 찍어주는 스킨부스터 완벽 정리. \"이 영상보면 호구 안당합니다\" - 이도영 피부과전문의",
+            "channel": "피부텐텐 · 피부가 예뻐지는 10분",
+            "url": "https://www.youtube.com/watch?v=rigKW7zrTeI&pp=ygUb66qF64-Z66-4656Y7IWA7J2Y7JuQIEtvcmVh",
+            "view_text": "338K"
+          },
+          {
+            "title": "야노시호 Ulthera",
+            "channel": "BLS클리닉",
+            "url": "https://www.youtube.com/watch?v=o-HnY6h9vnQ&pp=ygUb66qF64-Z66-4656Y7IWA7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "785"
+          },
+          {
+            "title": "The actual side effects revealed by a hospital employee who prescribed diet pills!!! I really wan...",
+            "channel": "소의튜브soytube",
+            "url": "https://www.youtube.com/watch?v=Q8F4Vpz49O4&pp=ygUb66qF64-Z66-4656Y7IWA7J2Y7JuQIEtvcmVh",
+            "view_text": "320K"
+          },
+          {
+            "title": "vlog) 이젠 익숙해 고프로가",
+            "channel": "10시10분",
+            "url": "https://www.youtube.com/watch?v=ElMDlJs1uUw&pp=ygUb66qF64-Z66-4656Y7IWA7J2Y7JuQIEtvcmVh",
+            "view_text": "2.6K"
+          },
+          {
+            "title": "소리를 전기신호로 바꾸지 못하면 돌발성 난청 생긴다 - (20150204_534회 방송)_당신의 귀는 건강하십니까 돌발성난청",
+            "channel": "KBS 생로병사의 비밀",
+            "url": "https://www.youtube.com/watch?v=6wZF-9DrP8c&pp=ygUb66qF64-Z66-4656Y7IWA7J2Y7JuQIEtvcmVh",
+            "view_text": "2.6K"
+          },
+          {
+            "title": "[스페셜인터뷰] 정장선 평택시장",
+            "channel": "YBC뉴스",
+            "url": "https://www.youtube.com/watch?v=rL2ED9AgQWY&pp=ygUb66qF64-Z66-4656Y7IWA7J2Y7JuQIEtvcmVh",
+            "view_text": "249"
+          },
+          {
+            "title": "넥스트아이 - 준비된 차트가 재료를 만난격? 바보스탁의 차트분석",
+            "channel": "바보스탁",
+            "url": "https://www.youtube.com/watch?v=1QesqVRlrp0&pp=ygUb66qF64-Z66-4656Y7IWA7J2Y7JuQIEtvcmVh",
+            "view_text": "677"
+          }
+        ]
       }
     },
     "xiaohongshu": {
@@ -61,16 +123,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 0,
-  "opportunity_cost_thb": 100000,
-  "opportunity_cost_krw": 4000000
+  "global_score": 1,
+  "opportunity_cost_thb": 99500,
+  "opportunity_cost_krw": 3980000
 }

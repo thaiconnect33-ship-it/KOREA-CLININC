@@ -1,17 +1,17 @@
 {
   "query": "청담차오름의원",
-  "generated_at": "2026-05-28T22:23:23.563Z",
+  "generated_at": "2026-05-29T11:00:07.694Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 1384,
+      "metric_value": 1386,
       "extra": {
         "place_id": "1344851288",
         "name": "청담차오름의원 : 네이버\u001c",
-        "visitor_review_count": 912,
-        "blog_review_count": 472,
+        "visitor_review_count": 913,
+        "blog_review_count": 473,
         "detail_url": "https://m.place.naver.com/place/1344851288/home"
       }
     },
@@ -45,78 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 20,
+      "metric_value": 19,
       "extra": {
-        "total_views": 283780,
+        "total_views": 830909,
         "foreign_video_count": 0,
         "lang_breakdown": {
-          "korean": 20,
+          "korean": 19,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
           "english_other": 0
         },
-        "sample_size": 20,
+        "sample_size": 19,
         "top_videos": [
           {
             "title": "“의사인 저도 셀프로 해요” │ 병원 직원들도 해달라고 하는 10년 젊어지는 동안시술",
             "channel": "닥터차오름",
-            "url": "https://www.youtube.com/watch?v=G4rwWKnwGvE&pp=ygUk7LKt64u07LCo7Jik66aE7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=G4rwWKnwGvE&pp=ygUb7LKt64u07LCo7Jik66aE7J2Y7JuQIEtvcmVh",
             "view_text": "1.1K views"
           },
           {
             "title": "목주름 없애는 방법! 목주름 원인, 예방, 목주름 시술의 모든 것",
             "channel": "닥터차오름",
-            "url": "https://www.youtube.com/watch?v=uTkjxrQ29CU&pp=ygUk7LKt64u07LCo7Jik66aE7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=uTkjxrQ29CU&pp=ygUb7LKt64u07LCo7Jik66aE7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
             "view_text": "571 views"
           },
           {
-            "title": "요즘 핫한 시술, 쥬베룩의 모든것 (모공, 피부탄력, 피부결, 흉터 개선👑)",
+            "title": "남들보다 빨리 늙는 사람들의 소름돋는 특징",
             "channel": "닥터차오름",
-            "url": "https://www.youtube.com/watch?v=-pc9KUHvSss&pp=ygUk7LKt64u07LCo7Jik66aE7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "715 views"
-          },
-          {
-            "title": "Top 3 Must-Have Procedures for People in Their 40s and 50s, Recommended by a Cheongdam-dong Director",
-            "channel": "닥터차오름",
-            "url": "https://www.youtube.com/watch?v=eAL3_0mTGZU&pp=ygUk7LKt64u07LCo7Jik66aE7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "21K views"
+            "url": "https://www.youtube.com/watch?v=K6X4ytRZHlQ&pp=ygUb7LKt64u07LCo7Jik66aE7J2Y7JuQIEtvcmVh",
+            "view_text": "2.7K views"
           },
           {
             "title": "스킨부스터 시술 끝판왕 \"쥬베룩\"의 모든것 - 피부탄력, 콜라겐, 모공, 흉터 올인원 한번에!",
             "channel": "닥터차오름",
-            "url": "https://www.youtube.com/watch?v=ZU6fJIXyK4E&pp=ygUk7LKt64u07LCo7Jik66aE7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=ZU6fJIXyK4E&pp=ygUb7LKt64u07LCo7Jik66aE7J2Y7JuQIEtvcmVh",
             "view_text": "1.5K views"
           },
           {
-            "title": "병원에 중국인 고객이 왔다.",
+            "title": "요즘 핫한 시술, 쥬베룩의 모든것 (모공, 피부탄력, 피부결, 흉터 개선👑)",
             "channel": "닥터차오름",
-            "url": "https://www.youtube.com/watch?v=5XrWZ5q6-CQ&pp=ygUk7LKt64u07LCo7Jik66aE7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "315 views"
+            "url": "https://www.youtube.com/watch?v=-pc9KUHvSss&pp=ygUb7LKt64u07LCo7Jik66aE7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "715 views"
           },
           {
-            "title": "청담 '상위1% 상류층'들이 성형을 안 하는 진짜 이유",
+            "title": "\"30대가 되면 딱 이 세 부위만 관리하세요\"│또래보다 10년 어려보이는 비밀",
             "channel": "닥터차오름",
-            "url": "https://www.youtube.com/watch?v=CnYsai-K_7Y&pp=ygUk7LKt64u07LCo7Jik66aE7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "149K views"
+            "url": "https://www.youtube.com/watch?v=_nNEAP6duk0&pp=ygUb7LKt64u07LCo7Jik66aE7J2Y7JuQIEtvcmVh",
+            "view_text": "1K views"
           },
           {
-            "title": "청담동 원장이 알려주는 튠페이스 총정리. 이거 하나만 보시면 됩니다",
+            "title": "울쎄라 리프팅, 돈 날리지 않고 받는 법, 재생팁 사용 부작용 병원 거르는 법",
             "channel": "닥터차오름",
-            "url": "https://www.youtube.com/watch?v=nVaUE9v3AZQ&pp=ygUk7LKt64u07LCo7Jik66aE7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=MbZbwJT3jBo&pp=ygUb7LKt64u07LCo7Jik66aE7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "819 views"
+          },
+          {
+            "title": "\"목주름 치료만 1000회 이상\"│딱 이렇게만 하면 목주름 싹 - 사라집니다.",
+            "channel": "닥터차오름",
+            "url": "https://www.youtube.com/watch?v=YZRXq6uo6WM&pp=ygUb7LKt64u07LCo7Jik66aE7J2Y7JuQIEtvcmVh",
+            "view_text": "3.8K views"
+          },
+          {
+            "title": "목주름 시술 3가지 방법, 박준금 배우님도 받는 시술은? ㅣ청담동 의사가 알려드립니다.",
+            "channel": "닥터차오름",
+            "url": "https://www.youtube.com/watch?v=mmV3B8Ewa_Y&pp=ygUb7LKt64u07LCo7Jik66aE7J2Y7JuQIEtvcmVh",
+            "view_text": "5.3K views"
+          },
+          {
+            "title": "옆볼 패임, 볼 꺼짐, 땅콩형얼굴 없애는 법?  | 땅콩형얼굴 해결법, 관리 비결 등",
+            "channel": "닥터차오름",
+            "url": "https://www.youtube.com/watch?v=v-bGsMDSSeA&pp=ygUb7LKt64u07LCo7Jik66aE7J2Y7JuQIEtvcmVh",
             "view_text": "1.1K views"
-          },
-          {
-            "title": "통증없이 편안하게 받을 수 있는 시술 대공개!  | 통증 없는 시술 베스트3",
-            "channel": "닥터차오름",
-            "url": "https://www.youtube.com/watch?v=Ux7GMIc5FPw&pp=ygUk7LKt64u07LCo7Jik66aE7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "2K views"
-          },
-          {
-            "title": "'5000원'으로 해결하는 목주름 관리법 (+ 청담동 원장이 알려주는 루틴)",
-            "channel": "닥터차오름",
-            "url": "https://www.youtube.com/watch?v=jy7a26CdNwA&pp=ygUk7LKt64u07LCo7Jik66aE7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "500 views"
           }
         ]
       }
@@ -132,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

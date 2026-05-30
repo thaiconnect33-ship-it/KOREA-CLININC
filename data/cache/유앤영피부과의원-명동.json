@@ -1,0 +1,148 @@
+{
+  "query": "유앤영피부과의원 명동",
+  "generated_at": "2026-05-29T11:50:13.597Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 967,
+      "extra": {
+        "place_id": "13326363",
+        "name": "유앤영피부과의원 명동 : 네이버\u001c",
+        "visitor_review_count": 631,
+        "blog_review_count": 336,
+        "detail_url": "https://m.place.naver.com/place/13326363/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "유앤영피부과 명동점",
+        "rating": 4,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 15,
+      "extra": {
+        "total_views": 2437862,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 15,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 15,
+        "top_videos": [
+          {
+            "title": "[홍혜걸GO] 유앤영피부과 명동점에 가다! (김지영 원장 & 홍혜걸 기자)",
+            "channel": "의학채널 비온뒤",
+            "url": "https://www.youtube.com/watch?v=51a2Q0wbvhk&pp=ygUl7Jyg7JWk7JiB7ZS867aA6rO87J2Y7JuQIOuqheuPmSBLb3JlYQ%3D%3D",
+            "view_text": "3.3K views"
+          },
+          {
+            "title": "[닥튜버 ]음식과 피부-유앤영피부과 명동점 김지영 원장",
+            "channel": "의학채널 비온뒤",
+            "url": "https://www.youtube.com/watch?v=Vf5h8KlNpok&pp=ygUl7Jyg7JWk7JiB7ZS867aA6rO87J2Y7JuQIOuqheuPmSBLb3JlYQ%3D%3D",
+            "view_text": "4.9K views"
+          },
+          {
+            "title": "빨간얼굴 주사피부염😳완벽하게 완치하는 방법❗❗",
+            "channel": "피부영 유앤영",
+            "url": "https://www.youtube.com/watch?v=EmrTNDYYobA&pp=ygUl7Jyg7JWk7JiB7ZS867aA6rO87J2Y7JuQIOuqheuPmSBLb3JlYQ%3D%3D",
+            "view_text": "61K views"
+          },
+          {
+            "title": "[메디텔] 성인여드름과 식습관의 관계 - 유앤영피부과 명동점 김지영 원장",
+            "channel": "의학채널 비온뒤",
+            "url": "https://www.youtube.com/watch?v=P-QhZceD9EE&pp=ygUl7Jyg7JWk7JiB7ZS867aA6rO87J2Y7JuQIOuqheuPmSBLb3JlYQ%3D%3D",
+            "view_text": "28K views"
+          },
+          {
+            "title": "코로나 후유증: 탈모, 피부발진(유앤영피부과 명동점 김지영&정진희PD)",
+            "channel": "의학채널 비온뒤",
+            "url": "https://www.youtube.com/watch?v=sVZOyWWmOh4&pp=ygUl7Jyg7JWk7JiB7ZS867aA6rO87J2Y7JuQIOuqheuPmSBLb3JlYQ%3D%3D",
+            "view_text": "9.3K views"
+          },
+          {
+            "title": "안면 홍조 같은 빨간 얼굴도 이제는 안심할 수 있어요!",
+            "channel": "광화문피부과셀라피클리닉",
+            "url": "https://www.youtube.com/watch?v=6tj9L-NJTog&pp=ygUl7Jyg7JWk7JiB7ZS867aA6rO87J2Y7JuQIOuqheuPmSBLb3JlYQ%3D%3D",
+            "view_text": "108 views"
+          },
+          {
+            "title": "도망쳐..지금이야!! 성형외과 블랙리스트 이렇게 거르세요",
+            "channel": "지유미 JIYUMEE",
+            "url": "https://www.youtube.com/watch?v=VK1hIW0QP-g&pp=ygUl7Jyg7JWk7JiB7ZS867aA6rO87J2Y7JuQIOuqheuPmSBLb3JlYQ%3D%3D",
+            "view_text": "126K views"
+          },
+          {
+            "title": "🔸 리프팅 레이저의 효과 유지 기간은? How long will the effect of lifting lasers last?",
+            "channel": "유앤정피부과 YOU&CHUNG SKIN CLINIC",
+            "url": "https://www.youtube.com/watch?v=ripPYMj7-3k&pp=ygUl7Jyg7JWk7JiB7ZS867aA6rO87J2Y7JuQIOuqheuPmSBLb3JlYQ%3D%3D",
+            "view_text": "288 views"
+          },
+          {
+            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUl7Jyg7JWk7JiB7ZS867aA6rO87J2Y7JuQIOuqheuPmSBLb3JlYQ%3D%3D",
+            "view_text": "1M views"
+          },
+          {
+            "title": "명동역피부과 단아클리닉 큐오필시술!",
+            "channel": "jisun lee",
+            "url": "https://www.youtube.com/watch?v=qFXQZyjOg-E&pp=ygUl7Jyg7JWk7JiB7ZS867aA6rO87J2Y7JuQIOuqheuPmSBLb3JlYQ%3D%3D",
+            "view_text": "474 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

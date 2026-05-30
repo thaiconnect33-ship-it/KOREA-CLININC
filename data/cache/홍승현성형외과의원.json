@@ -1,6 +1,6 @@
 {
   "query": "홍승현성형외과의원",
-  "generated_at": "2026-05-28T23:32:28.550Z",
+  "generated_at": "2026-05-29T12:15:11.567Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -61,7 +61,7 @@
           {
             "title": "이제는 더 이상 지방추출주사를 보틀로 하지 않는 이유",
             "channel": "지힐링TV",
-            "url": "https://www.youtube.com/watch?v=9YMYJOAZ03k&pp=ygUt7ZmN7Iq57ZiE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=9YMYJOAZ03k&pp=ygUh7ZmN7Iq57ZiE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
             "view_text": "42K views"
           }
         ]
@@ -78,12 +78,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

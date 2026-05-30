@@ -1,0 +1,148 @@
+{
+  "query": "엠레드의원 청담",
+  "generated_at": "2026-05-29T10:56:13.662Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 3477,
+      "extra": {
+        "place_id": "1396190211",
+        "name": "엠레드의원 청담 : 네이버\u001c",
+        "visitor_review_count": 2827,
+        "blog_review_count": 650,
+        "detail_url": "https://m.place.naver.com/place/1396190211/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "AMRED Clinic",
+        "rating": 4.9,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 19,
+      "extra": {
+        "total_views": 299045,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 19,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 19,
+        "top_videos": [
+          {
+            "title": "낮에는 피부보고 밤에는 근육보는 청담동 매버릭 의사",
+            "channel": "엠레드 클리닉 AMRED CLINIC",
+            "url": "https://www.youtube.com/watch?v=jPPQsRzcZG4&pp=ygUc7Jeg66CI65Oc7J2Y7JuQIOyyreuLtCBLb3JlYQ%3D%3D",
+            "view_text": "20K views"
+          },
+          {
+            "title": "사람들은 왜 요즘 '필러' 말고 '이걸' 맞을까?",
+            "channel": "엠레드 클리닉 AMRED CLINIC",
+            "url": "https://www.youtube.com/watch?v=FvrHDab8v6o&pp=ygUc7Jeg66CI65Oc7J2Y7JuQIOyyreuLtCBLb3JlYQ%3D%3D",
+            "view_text": "2.8K views"
+          },
+          {
+            "title": "스컬트라, 영상 하나로 졸업하기!📚 | 가격 효과 부작용 시술원리 시술주기 I Sculptra, Skincare",
+            "channel": "엠레드 클리닉 AMRED CLINIC",
+            "url": "https://www.youtube.com/watch?v=uRilYY1o1fQ&pp=ygUc7Jeg66CI65Oc7J2Y7JuQIOyyreuLtCBLb3JlYQ%3D%3D",
+            "view_text": "14K views"
+          },
+          {
+            "title": "청담 피부 클리닉 의사가 추천하는 인생 리프팅 딱 하나",
+            "channel": "엠레드 클리닉 AMRED CLINIC",
+            "url": "https://www.youtube.com/watch?v=po3MAd6bOUg&pp=ygUc7Jeg66CI65Oc7J2Y7JuQIOyyreuLtCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "3.7K views"
+          },
+          {
+            "title": "Is this really a skin clinic? 🤔 Interior of a Cheongdam-dong skin clinic that restores beauty I A...",
+            "channel": "엠레드 클리닉 AMRED CLINIC",
+            "url": "https://www.youtube.com/watch?v=7kibZ-vlCuA&pp=ygUc7Jeg66CI65Oc7J2Y7JuQIOyyreuLtCBLb3JlYQ%3D%3D",
+            "view_text": "2.9K views"
+          },
+          {
+            "title": "청담 피부 클리닉 의사가 솔~직하게 말해주는 울쎄라",
+            "channel": "엠레드 클리닉 AMRED CLINIC",
+            "url": "https://www.youtube.com/watch?v=9ceTja_VtWE&pp=ygUc7Jeg66CI65Oc7J2Y7JuQIOyyreuLtCBLb3JlYQ%3D%3D",
+            "view_text": "1.9K views"
+          },
+          {
+            "title": "요즘 누가 울쎄라 받나요? 울쎄라는 이제 끝났습니다.🔥 9년 만에 출시되는 울쎄라 프라임 리프팅을 청담동에서 첫 번째로 받는 방법 | Ulthera Prime",
+            "channel": "엠레드 클리닉 AMRED CLINIC",
+            "url": "https://www.youtube.com/watch?v=h6sylBbSPGI&pp=ygUc7Jeg66CI65Oc7J2Y7JuQIOyyreuLtCBLb3JlYQ%3D%3D",
+            "view_text": "3.1K views"
+          },
+          {
+            "title": "엠레드클리닉 - AMRED CLINIC",
+            "channel": "엠레드 클리닉 AMRED CLINIC",
+            "url": "https://www.youtube.com/watch?v=d07HMTTgfXE&pp=ygUc7Jeg66CI65Oc7J2Y7JuQIOyyreuLtCBLb3JlYQ%3D%3D",
+            "view_text": "1.9K views"
+          },
+          {
+            "title": "[ 옥시젠슈티컬스 ] OxygenCeuticals X 엠레드 클리닉",
+            "channel": "OxygenCeuticals Korea",
+            "url": "https://www.youtube.com/watch?v=kD03Li6tBJE&pp=ygUc7Jeg66CI65Oc7J2Y7JuQIOyyreuLtCBLb3JlYQ%3D%3D",
+            "view_text": "576 views"
+          },
+          {
+            "title": "튠페이스, 더 이상 경쟁자가 없는 이유",
+            "channel": "엠레드 클리닉 AMRED CLINIC",
+            "url": "https://www.youtube.com/watch?v=lMD8FsRDDt4&pp=ygUc7Jeg66CI65Oc7J2Y7JuQIOyyreuLtCBLb3JlYQ%3D%3D",
+            "view_text": "1.7K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 140000,
+  "opportunity_cost_krw": 5600000
+}

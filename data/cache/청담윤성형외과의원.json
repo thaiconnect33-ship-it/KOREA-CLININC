@@ -1,16 +1,18 @@
 {
   "query": "청담윤성형외과의원",
-  "generated_at": "2026-05-28T23:45:57.845Z",
+  "generated_at": "2026-05-29T12:32:01.033Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 136,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "1062908809",
+        "name": "청담윤성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 122,
+        "blog_review_count": 14,
+        "detail_url": "https://m.place.naver.com/place/1062908809/home"
       }
     },
     "google_maps": {
@@ -43,9 +45,44 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 0,
+      "metric_value": 4,
       "extra": {
-        "note": "결과 없음"
+        "total_views": 1328168,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 4,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 4,
+        "top_videos": [
+          {
+            "title": "Anyone curious about #sillifting? Raise your hand! #SonEunTaek @CheongdamYuseongPlasticSkinCenter",
+            "channel": "양동준원장 원셀의원(구 청담유성형외과)",
+            "url": "https://www.youtube.com/watch?v=6hJbKfPFVMY&pp=ygUh7LKt64u07Jyk7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "168 views"
+          },
+          {
+            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUh7LKt64u07Jyk7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1M views"
+          },
+          {
+            "title": "How to find a good plastic surgeon🧡 How to find a good plastic surgeon and avoid plastic surgery ...",
+            "channel": "베레나verena",
+            "url": "https://www.youtube.com/watch?v=SQzMbIJMBTQ&pp=ygUh7LKt64u07Jyk7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "277K views"
+          },
+          {
+            "title": "성형했는데 마음에 안든다면 바로 재수술할수있을까요? [조기교정 VS 6개월후 재수술]나의 재수술시기가 궁금하다면 이영상 끝까지 시청하세요.",
+            "channel": "닥터혜자",
+            "url": "https://www.youtube.com/watch?v=0mQ9CM0JLvw&pp=ygUh7LKt64u07Jyk7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "51K views"
+          }
+        ]
       }
     },
     "xiaohongshu": {
@@ -59,12 +96,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

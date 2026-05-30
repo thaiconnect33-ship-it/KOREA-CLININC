@@ -1,35 +1,35 @@
 {
   "query": "압구정미라클의원",
-  "generated_at": "2026-05-28T22:34:37.002Z",
+  "generated_at": "2026-05-29T11:11:48.847Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 3995,
+      "metric_value": 4004,
       "extra": {
         "place_id": "12084915",
         "name": "압구정미라클의원 : 네이버\u001c",
-        "visitor_review_count": 3174,
-        "blog_review_count": 821,
+        "visitor_review_count": 3181,
+        "blog_review_count": 823,
         "detail_url": "https://m.place.naver.com/place/12084915/home"
       }
     },
     "google_maps": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 107,
+      "metric_value": 113,
       "extra": {
         "name": "압구정미라클의원",
         "rating": 5,
-        "total_reviews": 107,
-        "sample_size": 16,
-        "foreign_language_reviews": 16,
+        "total_reviews": 113,
+        "sample_size": 20,
+        "foreign_language_reviews": 18,
         "lang_breakdown": {
-          "korean": 0,
+          "korean": 2,
           "thai": 0,
           "chinese": 0,
-          "english_other": 16
+          "english_other": 18
         }
       }
     },
@@ -47,76 +47,76 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 124497,
-        "foreign_video_count": 1,
+        "total_views": 397311,
+        "foreign_video_count": 0,
         "lang_breakdown": {
-          "korean": 19,
+          "korean": 20,
           "thai": 0,
           "chinese": 0,
-          "japanese": 1,
+          "japanese": 0,
           "english_other": 0
         },
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "레알 실리프팅이 왔다! 압구정미라클 실리프팅!",
-            "channel": "압구정미라클 TV",
-            "url": "https://www.youtube.com/watch?v=vxfGb5KC1x4&pp=ygUn7JWV6rWs7KCV66-465287YG07J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "53K views"
-          },
-          {
             "title": "압구정미라클 미친V리프팅 리얼후기",
             "channel": "압구정미라클 TV",
-            "url": "https://www.youtube.com/watch?v=tOQ1TKE0c0s&pp=ygUn7JWV6rWs7KCV66-465287YG07J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=tOQ1TKE0c0s&pp=ygUe7JWV6rWs7KCV66-465287YG07J2Y7JuQIEtvcmVh",
             "view_text": "5.7K views"
-          },
-          {
-            "title": "압구정미라클의원 실리프팅",
-            "channel": "압구정미라클 TV",
-            "url": "https://www.youtube.com/watch?v=3Xkg-wSHcKQ&pp=ygUn7JWV6rWs7KCV66-465287YG07J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "2.5K views"
-          },
-          {
-            "title": "시술 직후 바로 효과확인! 실리프팅하면 압구정미라클!",
-            "channel": "압구정미라클 TV",
-            "url": "https://www.youtube.com/watch?v=Pa7k5xen2Rk&pp=ygUn7JWV6rWs7KCV66-465287YG07J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "1.7K views"
-          },
-          {
-            "title": "압구정미라클 우정호 원장 오키나와Okinawa에서 개최된 JJ리프팅 강좌",
-            "channel": "압구정미라클 TV",
-            "url": "https://www.youtube.com/watch?v=V03mTM08Ifw&pp=ygUn7JWV6rWs7KCV66-465287YG07J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "123 views"
           },
           {
             "title": "압구정미라클 우정호 원장 JJ리프팅 Miracle JJ Lift in singapore",
             "channel": "압구정미라클 TV",
-            "url": "https://www.youtube.com/watch?v=hvvl1J4rdUw&pp=ygUn7JWV6rWs7KCV66-465287YG07J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=hvvl1J4rdUw&pp=ygUe7JWV6rWs7KCV66-465287YG07J2Y7JuQIEtvcmVh",
             "view_text": "1K views"
+          },
+          {
+            "title": "레알 실리프팅이 왔다! 압구정미라클 실리프팅!",
+            "channel": "압구정미라클 TV",
+            "url": "https://www.youtube.com/watch?v=vxfGb5KC1x4&pp=ygUe7JWV6rWs7KCV66-465287YG07J2Y7JuQIEtvcmVh",
+            "view_text": "53K views"
+          },
+          {
+            "title": "압구정미라클의원 실리프팅",
+            "channel": "압구정미라클 TV",
+            "url": "https://www.youtube.com/watch?v=3Xkg-wSHcKQ&pp=ygUe7JWV6rWs7KCV66-465287YG07J2Y7JuQIEtvcmVh",
+            "view_text": "2.5K views"
+          },
+          {
+            "title": "[리프팅] 실리프팅 효과가 이정도라고?! 😍 압구정미라클 실력 보여드림ㅎㅎ😎ㅣ실리프팅 SEASON ON!ㅣBefore&After",
+            "channel": "압구정미라클 MIRACLE BEAUTY CLINIC",
+            "url": "https://www.youtube.com/watch?v=Fsq8yc02nBw&pp=ygUe7JWV6rWs7KCV66-465287YG07J2Y7JuQIEtvcmVh",
+            "view_text": "289K views"
+          },
+          {
+            "title": "[실리프팅] 팔자주름 지금 멈춰야",
+            "channel": "압구정미라클_채널NO.1",
+            "url": "https://www.youtube.com/watch?v=BC-qLuLmhdc&pp=ygUe7JWV6rWs7KCV66-465287YG07J2Y7JuQIEtvcmVh",
+            "view_text": "11K views"
+          },
+          {
+            "title": "[실리프팅] [비포애프터 모음zip.] 압구정미라클 실리프팅 비포애프터 4탄!",
+            "channel": "압구정미라클 MIRACLE BEAUTY CLINIC",
+            "url": "https://www.youtube.com/watch?v=LR4G3UTcL4Q&pp=ygUe7JWV6rWs7KCV66-465287YG07J2Y7JuQIEtvcmVh",
+            "view_text": "15K views"
           },
           {
             "title": "실리프팅 실제 시술 환자의 후 영상",
             "channel": "압구정미라클 TV",
-            "url": "https://www.youtube.com/watch?v=ntcoij3rRcw&pp=ygUn7JWV6rWs7KCV66-465287YG07J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=ntcoij3rRcw&pp=ygUe7JWV6rWs7KCV66-465287YG07J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
             "view_text": "3.9K views"
           },
           {
-            "title": "압구정미라클 우정호원장 해외 의사들을 위한 JJ 리프트 소개 영어",
-            "channel": "압구정미라클 TV",
-            "url": "https://www.youtube.com/watch?v=v8zES3az7qk&pp=ygUn7JWV6rWs7KCV66-465287YG07J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "829 views"
+            "title": "[실리프팅] 비절개 리프팅으로",
+            "channel": "압구정미라클_채널NO.1",
+            "url": "https://www.youtube.com/watch?v=0UwIMk7Fxp0&pp=ygUe7JWV6rWs7KCV66-465287YG07J2Y7JuQIEtvcmVh",
+            "view_text": "47 views"
           },
           {
-            "title": "미국 FOX TV에 소개 된 압구정미라클 JJ리프팅 (JPN SUB) 狎鷗亭ミラクルのJJリフト",
+            "title": "얼굴 커 보이게 만드는 옆광대, 리프팅으로 해결",
             "channel": "압구정미라클 TV",
-            "url": "https://www.youtube.com/watch?v=XvOZHQby1YY&pp=ygUn7JWV6rWs7KCV66-465287YG07J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "188 views"
-          },
-          {
-            "title": "팔자 주름 완전 정복?",
-            "channel": "서울리거피부과",
-            "url": "https://www.youtube.com/watch?v=vNuiOBPAn3M&pp=ygUn7JWV6rWs7KCV66-465287YG07J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "2.2K views"
+            "url": "https://www.youtube.com/watch?v=ZVykcT_O7_8&pp=ygUe7JWV6rWs7KCV66-465287YG07J2Y7JuQIEtvcmVh",
+            "view_text": "1.2K views"
           }
         ]
       }
@@ -132,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
   "global_score": 9,
-  "opportunity_cost_thb": 136500,
-  "opportunity_cost_krw": 5460000
+  "opportunity_cost_thb": 136000,
+  "opportunity_cost_krw": 5440000
 }

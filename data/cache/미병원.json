@@ -1,35 +1,35 @@
 {
   "query": "미병원",
-  "generated_at": "2026-05-29T00:16:46.004Z",
+  "generated_at": "2026-05-29T13:03:56.509Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 1340,
+      "metric_value": 69,
       "extra": {
-        "place_id": "36336228",
-        "name": "위즈앤미의원 : 네이버\u001c",
-        "visitor_review_count": 598,
-        "blog_review_count": 742,
-        "detail_url": "https://m.place.naver.com/place/36336228/home"
+        "place_id": "12756041",
+        "name": "미병원 : 네이버\u001c",
+        "visitor_review_count": 34,
+        "blog_review_count": 35,
+        "detail_url": "https://m.place.naver.com/place/12756041/home"
       }
     },
     "google_maps": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 1,
       "extra": {
-        "name": "Results",
-        "rating": 4.9,
-        "total_reviews": 0,
-        "sample_size": 6,
-        "foreign_language_reviews": 6,
+        "name": "Mee Hospital",
+        "rating": 1,
+        "total_reviews": 1,
+        "sample_size": 2,
+        "foreign_language_reviews": 2,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 6
+          "english_other": 2
         }
       }
     },
@@ -45,78 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 20,
+      "metric_value": 19,
       "extra": {
-        "total_views": 5383341,
+        "total_views": 17519630,
         "foreign_video_count": 0,
         "lang_breakdown": {
-          "korean": 20,
+          "korean": 19,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
           "english_other": 0
         },
-        "sample_size": 20,
+        "sample_size": 19,
         "top_videos": [
           {
-            "title": "안녕하세요! 미드림성형외과입니다!",
-            "channel": "섬세한 백박사",
-            "url": "https://www.youtube.com/watch?v=zLhkWBjQBYU&pp=ygUb66-467OR7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.8K views"
+            "title": "미 병원 진료실서 환자가 의사 총격 살해 / SBS / #D리포트",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=_usA0sZYlTw&pp=ygUP66-467OR7JuQIEtvcmVh",
+            "view_text": "4.6K views"
           },
           {
-            "title": "땡김이(?) 압박드레싱은 언제까지 해야하나요?",
-            "channel": "Dr. Baek _H성형외과 (성형외과 전문의)",
-            "url": "https://www.youtube.com/watch?v=edDt477rm9I&pp=ygUb66-467OR7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "59K views"
+            "title": "미 전국 한인 밀집 지역 뉴스 5월 28일",
+            "channel": "USKN",
+            "url": "https://www.youtube.com/watch?v=2guwd0vV83s&pp=ygUP66-467OR7JuQIEtvcmVh",
+            "view_text": "84 views"
           },
           {
-            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
-            "channel": "JTBC News",
-            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUb66-467OR7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1M views"
+            "title": "한국 공휴일? 미국 공휴일? 둘 다 | 미군부대에서 근무할 때의 장단점과 복지",
+            "channel": "임마누엘",
+            "url": "https://www.youtube.com/watch?v=iere7lSyEaA&pp=ygUP66-467OR7JuQIEtvcmVh",
+            "view_text": "349K views"
           },
           {
-            "title": "투시적 안면윤곽수술 사각턱축소 과정 및 전후 비교",
-            "channel": "미병원",
-            "url": "https://www.youtube.com/watch?v=_b1_9zn5EXM&pp=ygUb66-467OR7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "2.7K views"
+            "title": "5/28(목 LA) ➡ 미·이란 평화? 전쟁?트럼프 얼굴, $250 지폐에...",
+            "channel": "강혜신의 오늘의 미국",
+            "url": "https://www.youtube.com/watch?v=fgMrCTiFNUs&pp=ygUP66-467OR7JuQIEtvcmVh",
+            "view_text": "19K views"
           },
           {
-            "title": "\"강남 유명 성형외과서 수술 뒤 눈이 실명됐습니다\" [지금이뉴스] / YTN",
-            "channel": "YTN",
-            "url": "https://www.youtube.com/watch?v=UyMrX929Q4I&pp=ygUb66-467OR7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "576K views"
+            "title": "The \"Mercy-class Hospital Ship,\" a Mobile Military Hospital / The World's Largest Mobile Marine H...",
+            "channel": "지식스토리 Knowledge Story",
+            "url": "https://www.youtube.com/watch?v=Y4KniNkzD6M&pp=ygUP66-467OR7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "458K views"
           },
           {
-            "title": "강남성형외과 베스트리뷰 TOP5병원",
-            "channel": "봄의환희",
-            "url": "https://www.youtube.com/watch?v=J1Nug-Oqxxs&pp=ygUb66-467OR7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "4.4K views"
+            "title": "🔥神급 스킬🔥을 가진 성형외과 의사가 범죄자들을 💥참교육💥 시켜버리는 개꿀잼 웰메이드 메디컬 드라마 [결말까지 몰아보기]",
+            "channel": "아가씨네 : AGACINE",
+            "url": "https://www.youtube.com/watch?v=CI4-obpS2fs&pp=ygUP66-467OR7JuQIEtvcmVh",
+            "view_text": "633K views"
           },
           {
-            "title": "How to find a good plastic surgeon🧡 How to find a good plastic surgeon and avoid plastic surgery ...",
-            "channel": "베레나verena",
-            "url": "https://www.youtube.com/watch?v=SQzMbIJMBTQ&pp=ygUb66-467OR7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "277K views"
+            "title": "미 전국 한인 밀집 지역 뉴스 5월 27일",
+            "channel": "USKN",
+            "url": "https://www.youtube.com/watch?v=br-BXFekeZw&pp=ygUP66-467OR7JuQIEtvcmVh",
+            "view_text": "370 views"
           },
           {
-            "title": "내가 상안검 수술을 하지 않는 이유(feat.성형외과 전문의,부작용,전후)",
-            "channel": "미오름 서원장_책임성형, 바른성형",
-            "url": "https://www.youtube.com/watch?v=_DKpQoszoI0&pp=ygUb66-467OR7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "186K views"
+            "title": "이렇게 적나라해도 될까..❓ 동물병원 진료실 뒷편에서 벌어지는 전과정 최초 공개합니다",
+            "channel": "미야옹철의 냥냥펀치",
+            "url": "https://www.youtube.com/watch?v=NCkpqPSRzfQ&pp=ygUP66-467OR7JuQIEtvcmVh",
+            "view_text": "163K views"
           },
           {
-            "title": "눈매교정, 그것이 궁금해!",
-            "channel": "SM미성형외과",
-            "url": "https://www.youtube.com/watch?v=g4BOlGW1DdU&pp=ygUb66-467OR7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "258 views"
+            "title": "[HOT] 진짜 사나이 - 허리부상 미르, 주사공포증 20130428",
+            "channel": "MBCentertainment",
+            "url": "https://www.youtube.com/watch?v=-5XhGCq3LxI&pp=ygUP66-467OR7JuQIEtvcmVh",
+            "view_text": "615K views"
           },
           {
-            "title": "진주 미피부과성형외과의원 둘러보기",
-            "channel": "진주미피부과성형외과",
-            "url": "https://www.youtube.com/watch?v=UW5rrGaM3vs&pp=ygUb66-467OR7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.1K views"
+            "title": "쪼꼬미 동물병원 시즌2 6화 (내원환자: 푸딩 햄스터 밍키님)",
+            "channel": "SBS TV동물농장x애니멀봐",
+            "url": "https://www.youtube.com/watch?v=JiDghYNKYL8&pp=ygUP66-467OR7JuQIEtvcmVh",
+            "view_text": "729K views"
           }
         ]
       }
@@ -132,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 3,
-  "opportunity_cost_thb": 97000,
-  "opportunity_cost_krw": 3880000
+  "global_score": 1,
+  "opportunity_cost_thb": 99000,
+  "opportunity_cost_krw": 3960000
 }

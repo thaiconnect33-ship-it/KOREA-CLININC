@@ -1,16 +1,18 @@
 {
   "query": "헵시바치과의원",
-  "generated_at": "2026-05-29T00:14:57.160Z",
+  "generated_at": "2026-05-29T13:02:10.285Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 67,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "13562634",
+        "name": "헵시바치과의원 : 네이버\u001c",
+        "visitor_review_count": 43,
+        "blog_review_count": 24,
+        "detail_url": "https://m.place.naver.com/place/13562634/home"
       }
     },
     "google_maps": {
@@ -50,62 +52,62 @@
           {
             "title": "뷰티앤부티 4회 헵시바",
             "channel": "민필름",
-            "url": "https://www.youtube.com/watch?v=9kn3bB5ilUM&pp=ygUh7Ze17Iuc67CU7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
-            "view_text": "354"
+            "url": "https://www.youtube.com/watch?v=9kn3bB5ilUM&pp=ygUb7Ze17Iuc67CU7LmY6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "354 views"
           },
           {
             "title": "양악수술",
             "channel": "90omfs",
-            "url": "https://www.youtube.com/watch?v=VXsrNJGQwWE&pp=ygUh7Ze17Iuc67CU7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
-            "view_text": "2.7K"
+            "url": "https://www.youtube.com/watch?v=VXsrNJGQwWE&pp=ygUb7Ze17Iuc67CU7LmY6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "2.7K views"
           },
           {
             "title": "구강악안면외과의사회 10월16일",
             "channel": "덴탈프레스dentalpress",
-            "url": "https://www.youtube.com/watch?v=gE1dwhlzM7U&pp=ygUh7Ze17Iuc67CU7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
-            "view_text": "578"
+            "url": "https://www.youtube.com/watch?v=gE1dwhlzM7U&pp=ygUb7Ze17Iuc67CU7LmY6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "578 views"
           },
           {
             "title": "65. 5년동안 교정을??? [수술이 꼭 필요한 경우]",
             "channel": "턱수술의 모든 것, 양달TV",
-            "url": "https://www.youtube.com/watch?v=KGduHbu7wxM&pp=ygUh7Ze17Iuc67CU7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
-            "view_text": "690"
+            "url": "https://www.youtube.com/watch?v=KGduHbu7wxM&pp=ygUb7Ze17Iuc67CU7LmY6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "690 views"
           },
           {
             "title": "Company Close Up Ep13 Saeromvision - Oscillating Toothbrush, Hephzibah F and B - Dried Fruit Chips",
             "channel": "Arirang TV",
-            "url": "https://www.youtube.com/watch?v=3lZJ-LU7wbg&pp=ygUh7Ze17Iuc67CU7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
-            "view_text": "161"
-          },
-          {
-            "title": "칭찬합시다 시즌1 마무리",
-            "channel": "RED. Apple",
-            "url": "https://www.youtube.com/watch?v=7NpgzwMCCAc&pp=ygUh7Ze17Iuc67CU7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
-            "view_text": "123"
-          },
-          {
-            "title": "뷰티앤부티 6회_비브라스",
-            "channel": "민필름",
-            "url": "https://www.youtube.com/watch?v=PM0uL5EdFzE&pp=ygUh7Ze17Iuc67CU7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
-            "view_text": "252"
+            "url": "https://www.youtube.com/watch?v=3lZJ-LU7wbg&pp=ygUb7Ze17Iuc67CU7LmY6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "161 views"
           },
           {
             "title": "뷰티앤부티 12회 리제론",
             "channel": "민필름",
-            "url": "https://www.youtube.com/watch?v=lvvJv_GZXD8&pp=ygUh7Ze17Iuc67CU7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
-            "view_text": "426"
+            "url": "https://www.youtube.com/watch?v=lvvJv_GZXD8&pp=ygUb7Ze17Iuc67CU7LmY6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "426 views"
           },
           {
-            "title": "20170816 뷰티앤부티2회  원더페이스",
+            "title": "칭찬합시다 시즌1 마무리",
+            "channel": "RED. Apple",
+            "url": "https://www.youtube.com/watch?v=7NpgzwMCCAc&pp=ygUb7Ze17Iuc67CU7LmY6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "123 views"
+          },
+          {
+            "title": "뷰티앤부티 6회_비브라스",
             "channel": "민필름",
-            "url": "https://www.youtube.com/watch?v=bBWrbdHkEmE&pp=ygUh7Ze17Iuc67CU7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
-            "view_text": "168"
+            "url": "https://www.youtube.com/watch?v=PM0uL5EdFzE&pp=ygUb7Ze17Iuc67CU7LmY6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "252 views"
           },
           {
             "title": "뷰티앤부티 3회 플랜미의원",
             "channel": "민필름",
-            "url": "https://www.youtube.com/watch?v=DUfp-zjXK3M&pp=ygUh7Ze17Iuc67CU7LmY6rO87J2Y7JuQ7LmY6rO8IEtvcmVh",
-            "view_text": "196"
+            "url": "https://www.youtube.com/watch?v=DUfp-zjXK3M&pp=ygUb7Ze17Iuc67CU7LmY6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "196 views"
+          },
+          {
+            "title": "20170816 뷰티앤부티2회  원더페이스",
+            "channel": "민필름",
+            "url": "https://www.youtube.com/watch?v=bBWrbdHkEmE&pp=ygUb7Ze17Iuc67CU7LmY6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "168 views"
           }
         ]
       }
@@ -121,12 +123,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

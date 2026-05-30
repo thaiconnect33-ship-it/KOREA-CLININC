@@ -1,6 +1,6 @@
 {
   "query": "Shimmian Rhinoplasty",
-  "generated_at": "2026-05-29T05:46:04.738Z",
+  "generated_at": "2026-05-29T10:12:14.262Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -19,15 +19,15 @@
       "metric_value": 0,
       "extra": {
         "name": "Results",
-        "rating": 5,
+        "rating": 4.9,
         "total_reviews": 0,
-        "sample_size": 6,
-        "foreign_language_reviews": 6,
+        "sample_size": 9,
+        "foreign_language_reviews": 9,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 6
+          "english_other": 9
         }
       }
     },
@@ -45,14 +45,14 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 281223,
-        "foreign_video_count": 18,
+        "total_views": 707887,
+        "foreign_video_count": 19,
         "lang_breakdown": {
-          "korean": 2,
-          "thai": 2,
+          "korean": 1,
+          "thai": 1,
           "chinese": 0,
           "japanese": 0,
-          "english_other": 16
+          "english_other": 18
         },
         "sample_size": 20,
         "top_videos": [
@@ -63,10 +63,10 @@
             "view_text": "52K views"
           },
           {
-            "title": "Dr. Shimmian Aesthetic Center JUNE BRIDE PROMO",
-            "channel": "Dr. Shimmian Aesthetic Center",
-            "url": "https://www.youtube.com/watch?v=eoFxQpbtaZA&pp=ygUaU2hpbW1pYW4gUmhpbm9wbGFzdHkgS29yZWE%3D",
-            "view_text": "49 views"
+            "title": "Bites and Beyond-Shimmian RF Body Contouring",
+            "channel": "ShimmianDermatology",
+            "url": "https://www.youtube.com/watch?v=53lHLctu3VI&pp=ygUaU2hpbW1pYW4gUmhpbm9wbGFzdHkgS29yZWE%3D",
+            "view_text": "2.6K views"
           },
           {
             "title": "Asian Rhinoplasty - The Icon Clinic",
@@ -75,46 +75,46 @@
             "view_text": "59K views"
           },
           {
-            "title": "Bites and Beyond-Shimmian RF Body Contouring",
-            "channel": "ShimmianDermatology",
-            "url": "https://www.youtube.com/watch?v=53lHLctu3VI&pp=ygUaU2hpbW1pYW4gUmhpbm9wbGFzdHkgS29yZWE%3D",
-            "view_text": "2.6K views"
-          },
-          {
-            "title": "[#필러부작용] 코의 변형과 종양 | SHIMMIAN RHINOPLASTY CLINIC",
-            "channel": "지브이의원_(구)심미안 코성형클리닉",
-            "url": "https://www.youtube.com/watch?v=E3Ib5ud7ejI&pp=ygUaU2hpbW1pYW4gUmhpbm9wbGFzdHkgS29yZWE%3D",
-            "view_text": "810 views"
-          },
-          {
-            "title": "Correction of Silicone Nasal Augmentation Asian Rhinoplasty Testimonial",
-            "channel": "Sam Lam | Facial Plastic & Hair Surgeon",
-            "url": "https://www.youtube.com/watch?v=HeTtj85n9K0&pp=ygUaU2hpbW1pYW4gUmhpbm9wbGFzdHkgS29yZWE%3D",
-            "view_text": "9.5K views"
-          },
-          {
             "title": "Organic Asian Rhinoplasty by Dr Charles S Lee",
             "channel": "DrCharlesLee",
-            "url": "https://www.youtube.com/watch?v=K3Pi7bgFe2k&pp=ygUaU2hpbW1pYW4gUmhpbm9wbGFzdHkgS29yZWHSBwkJIwsBhyohjO8%3D",
+            "url": "https://www.youtube.com/watch?v=K3Pi7bgFe2k&pp=ygUaU2hpbW1pYW4gUmhpbm9wbGFzdHkgS29yZWE%3D",
             "view_text": "24K views"
           },
           {
-            "title": "Rhinoplasty Surgery to Change Your Life – Easta Medical",
-            "channel": "Easta Medical Group",
-            "url": "https://www.youtube.com/watch?v=nXhbZ0hlndc&pp=ygUaU2hpbW1pYW4gUmhpbm9wbGFzdHkgS29yZWE%3D",
-            "view_text": "151 views"
+            "title": "Cartilage vs. Implants for Rhinoplasty Surgery | Dr. Daniel Shapiro",
+            "channel": "Daniel I. Shapiro (MD)",
+            "url": "https://www.youtube.com/watch?v=nUciJrHURC8&pp=ygUaU2hpbW1pYW4gUmhpbm9wbGFzdHkgS29yZWE%3D",
+            "view_text": "2.6K views"
           },
           {
-            "title": "shimmian manila",
-            "channel": "Classic Winter Harmonies",
-            "url": "https://www.youtube.com/watch?v=MS1JqGHXWZM&pp=ygUaU2hpbW1pYW4gUmhpbm9wbGFzdHkgS29yZWE%3D",
-            "view_text": "275 views"
+            "title": "Before & After Rhinoplasty in Thailand - Asia Cosmetic Hospital",
+            "channel": "Dr.Tanongsak Panyawirunroj",
+            "url": "https://www.youtube.com/watch?v=-VetXdd5UY4&pp=ygUaU2hpbW1pYW4gUmhpbm9wbGFzdHkgS29yZWE%3D",
+            "view_text": "5.6K views"
+          },
+          {
+            "title": "Rhinoplasty",
+            "channel": "Dr. Kristina Tansavatdi",
+            "url": "https://www.youtube.com/watch?v=4GPJ-JPEOI0&pp=ygUaU2hpbW1pYW4gUmhpbm9wbGFzdHkgS29yZWHSBwkJIwsBhyohjO8%3D",
+            "view_text": "100 views"
           },
           {
             "title": "Rhinoplasty Japan",
             "channel": "Manager facialdoc",
             "url": "https://www.youtube.com/watch?v=XpZ5_9dWDrc&pp=ygUaU2hpbW1pYW4gUmhpbm9wbGFzdHkgS29yZWE%3D",
             "view_text": "295 views"
+          },
+          {
+            "title": "[QnA] 코필러 맞기전에 꼭 확인해주세요! 코필러QnA | SHIMMIAN RHINOPLASTY CLINIC [#구축코#구순열#코재수술#코재건수술]",
+            "channel": "지브이의원_(구)심미안 코성형클리닉",
+            "url": "https://www.youtube.com/watch?v=0fYEtn1UElA&pp=ygUaU2hpbW1pYW4gUmhpbm9wbGFzdHkgS29yZWE%3D",
+            "view_text": "1.1K views"
+          },
+          {
+            "title": "Correction of Silicone Nasal Augmentation Asian Rhinoplasty Testimonial",
+            "channel": "Sam Lam | Facial Plastic & Hair Surgeon",
+            "url": "https://www.youtube.com/watch?v=HeTtj85n9K0&pp=ygUaU2hpbW1pYW4gUmhpbm9wbGFzdHkgS29yZWE%3D",
+            "view_text": "9.5K views"
           }
         ]
       }
@@ -140,7 +140,7 @@
       }
     }
   },
-  "global_score": 17,
-  "opportunity_cost_thb": 88000,
-  "opportunity_cost_krw": 3520000
+  "global_score": 20,
+  "opportunity_cost_thb": 86000,
+  "opportunity_cost_krw": 3440000
 }

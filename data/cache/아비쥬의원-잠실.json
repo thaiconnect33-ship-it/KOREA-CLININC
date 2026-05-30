@@ -1,0 +1,148 @@
+{
+  "query": "아비쥬의원 잠실",
+  "generated_at": "2026-05-29T12:07:40.376Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 4394,
+      "extra": {
+        "place_id": "36643497",
+        "name": "아비쥬의원 잠실 : 네이버\u001c",
+        "visitor_review_count": 2088,
+        "blog_review_count": 2306,
+        "detail_url": "https://m.place.naver.com/place/36643497/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Abijou Jamsil",
+        "rating": 4.5,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 12,
+      "extra": {
+        "total_views": 509396,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 12,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 12,
+        "top_videos": [
+          {
+            "title": "[ABIJOU] 아비쥬 강남 본관의 품격, 리뉴얼ㅣ강남점 본관 인테리어",
+            "channel": "아비쥬의원",
+            "url": "https://www.youtube.com/watch?v=EHWhuFRPMo8&pp=ygUc7JWE67mE7KWs7J2Y7JuQIOyeoOyLpCBLb3JlYQ%3D%3D",
+            "view_text": "13K views"
+          },
+          {
+            "title": "[ABIJOU] 아비쥬 여의도 확장 이전 인테리어 대공개! 방문 전 클릭 👌",
+            "channel": "아비쥬의원",
+            "url": "https://www.youtube.com/watch?v=63eSi0nkgvg&pp=ygUc7JWE67mE7KWs7J2Y7JuQIOyeoOyLpCBLb3JlYQ%3D%3D",
+            "view_text": "420 views"
+          },
+          {
+            "title": "좋다고 해서 하면 후회합니다. 수염 레이저 제모 5년차가 알려주는 레이저 제모 후기 [가격 / 부작용 / 관리법]",
+            "channel": "비트 BTE",
+            "url": "https://www.youtube.com/watch?v=dtSUGVOu2n4&pp=ygUc7JWE67mE7KWs7J2Y7JuQIOyeoOyLpCBLb3JlYQ%3D%3D",
+            "view_text": "366K views"
+          },
+          {
+            "title": "Oganacell Jamsil Branch Opened on the 11th Floor of Lotte World Tower",
+            "channel": "피부구조대 오가나셀",
+            "url": "https://www.youtube.com/watch?v=ETcn6P8Mfk0&pp=ygUc7JWE67mE7KWs7J2Y7JuQIOyeoOyLpCBLb3JlYQ%3D%3D",
+            "view_text": "3.8K views"
+          },
+          {
+            "title": "LASIK 30-Day Review Vlog 👀✨ Everything I Wish I Knew Before Surgery | What's My Vision? Side Effe...",
+            "channel": "바네림 Banerim",
+            "url": "https://www.youtube.com/watch?v=z32Cf44HR6c&pp=ygUc7JWE67mE7KWs7J2Y7JuQIOyeoOyLpCBLb3JlYQ%3D%3D",
+            "view_text": "111K views"
+          },
+          {
+            "title": "TFC SMILE (티어 필름 컨트롤 스마일)",
+            "channel": "수연세안과",
+            "url": "https://www.youtube.com/watch?v=z8xqIZYWu0k&pp=ygUc7JWE67mE7KWs7J2Y7JuQIOyeoOyLpCBLb3JlYQ%3D%3D",
+            "view_text": "317 views"
+          },
+          {
+            "title": "테일러성형외과 오시는길 #도보편",
+            "channel": "테일러성형외과Tailor Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=_VaGW0ZT7ac&pp=ygUc7JWE67mE7KWs7J2Y7JuQIOyeoOyLpCBLb3JlYQ%3D%3D",
+            "view_text": "1.3K views"
+          },
+          {
+            "title": "디에스의원 피부과 인테리어가 궁금하셨죠?! 고객의 프라이버시를 중시하는 복층구조를 공개합니다.^^",
+            "channel": "DS클리닉",
+            "url": "https://www.youtube.com/watch?v=eORi7S615Fk&pp=ygUc7JWE67mE7KWs7J2Y7JuQIOyeoOyLpCBLb3JlYQ%3D%3D",
+            "view_text": "158 views"
+          },
+          {
+            "title": "자임당 한의원 '명동점' 찾아오시는 길",
+            "channel": "자임당한의원",
+            "url": "https://www.youtube.com/watch?v=UPQcqVnnUsU&pp=ygUc7JWE67mE7KWs7J2Y7JuQIOyeoOyLpCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "201 views"
+          },
+          {
+            "title": "집중! 40대도 시력교정수술 할 수 있는 방법은? #노안스마일 #모노교정 #노안",
+            "channel": "안과의상TV",
+            "url": "https://www.youtube.com/watch?v=UIgXPkkYjOw&pp=ygUc7JWE67mE7KWs7J2Y7JuQIOyeoOyLpCBLb3JlYQ%3D%3D",
+            "view_text": "8.5K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 90000,
+  "opportunity_cost_krw": 3600000
+}

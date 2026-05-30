@@ -1,26 +1,28 @@
 {
   "query": "블리비의원 리저브 청담점피부과",
-  "generated_at": "2026-05-29T05:35:33.981Z",
+  "generated_at": "2026-05-29T10:45:09.716Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 229,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "2048508722",
+        "name": "블리비의원 리저브 청담점 : 네이버\u001c",
+        "visitor_review_count": 29,
+        "blog_review_count": 200,
+        "detail_url": "https://m.place.naver.com/place/2048508722/home"
       }
     },
     "google_maps": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 76,
+      "metric_value": 0,
       "extra": {
         "name": "Results",
-        "rating": 3.5,
-        "total_reviews": 76,
+        "rating": 4.2,
+        "total_reviews": 0,
         "sample_size": 6,
         "foreign_language_reviews": 6,
         "lang_breakdown": {

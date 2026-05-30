@@ -1,0 +1,94 @@
+{
+  "query": "밴스피부과의원 홍대입구역",
+  "generated_at": "2026-05-29T11:33:31.741Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 7307,
+      "extra": {
+        "place_id": "1612729816",
+        "name": "밴스피부과의원 홍대입구역 : 네이버\u001c",
+        "visitor_review_count": 2169,
+        "blog_review_count": 5138,
+        "detail_url": "https://m.place.naver.com/place/1612729816/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Results",
+        "rating": 4.8,
+        "total_reviews": 0,
+        "sample_size": 8,
+        "foreign_language_reviews": 8,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 8
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 1,
+      "extra": {
+        "total_views": 155000,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 1,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 1,
+        "top_videos": [
+          {
+            "title": "지방분해주사 효과 없습니다.",
+            "channel": "땡기는 의사 이용석",
+            "url": "https://www.youtube.com/watch?v=fDhREmFqhtw&pp=ygUr67C07Iqk7ZS867aA6rO87J2Y7JuQIO2ZjeuMgOyeheq1rOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "155K"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 4,
+  "opportunity_cost_thb": 106000,
+  "opportunity_cost_krw": 4240000
+}

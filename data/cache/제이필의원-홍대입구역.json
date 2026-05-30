@@ -1,0 +1,148 @@
+{
+  "query": "제이필의원 홍대입구역",
+  "generated_at": "2026-05-29T11:34:46.468Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 872,
+      "extra": {
+        "place_id": "2030922217",
+        "name": "제이필의원 홍대입구역 : 네이버\u001c",
+        "visitor_review_count": 831,
+        "blog_review_count": 41,
+        "detail_url": "https://m.place.naver.com/place/2030922217/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "제이필의원 홍대점",
+        "rating": 4.9,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 38514,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "인생 최대 플렉스! 인테리어에 N억 썼습니다...｜드디어 강남점 오픈🎉",
+            "channel": "땡기는 의사 이용석",
+            "url": "https://www.youtube.com/watch?v=As_rYv26rbY&pp=ygUl7KCc7J207ZWE7J2Y7JuQIO2ZjeuMgOyeheq1rOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "596 views"
+          },
+          {
+            "title": "[제이필TV]필러의 모든것! 필러시술 전에 꼭 보고 가세요.",
+            "channel": "땡기는 의사 이용석",
+            "url": "https://www.youtube.com/watch?v=z8AYEm9gppo&pp=ygUl7KCc7J207ZWE7J2Y7JuQIO2ZjeuMgOyeheq1rOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "1.8K views"
+          },
+          {
+            "title": "실리프팅 돈값 제대로 받는 방법 💸｜실리프팅 하면 안되는 사람 3가지｜제이필TV",
+            "channel": "땡기는 의사 이용석",
+            "url": "https://www.youtube.com/watch?v=fQgYAx9_QCA&pp=ygUl7KCc7J207ZWE7J2Y7JuQIO2ZjeuMgOyeheq1rOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "2.6K views"
+          },
+          {
+            "title": "Jfeel 데모 현장 공개!｜벨로테로 필러 데모 현장 스케치",
+            "channel": "땡기는 의사 이용석",
+            "url": "https://www.youtube.com/watch?v=LcK-kSZBKHI&pp=ygUl7KCc7J207ZWE7J2Y7JuQIO2ZjeuMgOyeheq1rOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "392 views"
+          },
+          {
+            "title": "이중턱 삭제되는 실리프팅 과정｜10년 젊어지는 동안 시술💛",
+            "channel": "땡기는 의사 이용석",
+            "url": "https://www.youtube.com/watch?v=bFGklUu43k8&pp=ygUl7KCc7J207ZWE7J2Y7JuQIO2ZjeuMgOyeheq1rOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "1.1K views"
+          },
+          {
+            "title": "[현장스케치] Jfeel 원장님들의 교육 현장 같이 보기 💛",
+            "channel": "땡기는 의사 이용석",
+            "url": "https://www.youtube.com/watch?v=n3c0Xo3D8Bc&pp=ygUl7KCc7J207ZWE7J2Y7JuQIO2ZjeuMgOyeheq1rOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "296 views"
+          },
+          {
+            "title": "눈밑지방 없애고 동안 얼굴 얻자!!😆😆",
+            "channel": "땡기는 의사 이용석",
+            "url": "https://www.youtube.com/watch?v=-tuqOP84rwY&pp=ygUl7KCc7J207ZWE7J2Y7JuQIO2ZjeuMgOyeheq1rOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "242 views"
+          },
+          {
+            "title": "[제이필랩 코스메틱] 복잡하고 다양한 피부고민을 한번에!",
+            "channel": "땡기는 의사 이용석",
+            "url": "https://www.youtube.com/watch?v=hpDpMyKryW8&pp=ygUl7KCc7J207ZWE7J2Y7JuQIO2ZjeuMgOyeheq1rOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "148 views"
+          },
+          {
+            "title": "제이필의원 '2023 아시아 모델 페스티벌' 공식 협력사 선정!｜현장스케치",
+            "channel": "땡기는 의사 이용석",
+            "url": "https://www.youtube.com/watch?v=9ohKLhWgkWg&pp=ygUl7KCc7J207ZWE7J2Y7JuQIO2ZjeuMgOyeheq1rOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "318 views"
+          },
+          {
+            "title": "수능 후 필러 맞을 사람? 이거 보고 가세요!｜고3, 사회초년생 필수 시청!｜3개월 안에 도장깨기",
+            "channel": "땡기는 의사 이용석",
+            "url": "https://www.youtube.com/watch?v=fNAf5by4sYg&pp=ygUl7KCc7J207ZWE7J2Y7JuQIO2ZjeuMgOyeheq1rOyXrSBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "2.2K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 110000,
+  "opportunity_cost_krw": 4400000
+}

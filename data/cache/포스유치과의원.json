@@ -1,16 +1,18 @@
 {
   "query": "포스유치과의원",
-  "generated_at": "2026-05-29T00:12:45.533Z",
+  "generated_at": "2026-05-29T12:59:59.156Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 252,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "1391129845",
+        "name": "포스유치과의원 : 네이버\u001c",
+        "visitor_review_count": 106,
+        "blog_review_count": 146,
+        "detail_url": "https://m.place.naver.com/place/1391129845/home"
       }
     },
     "google_maps": {
@@ -43,9 +45,80 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 0,
+      "metric_value": 20,
       "extra": {
-        "note": "결과 없음"
+        "total_views": 29865,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "[포스치과] Full 3D Process 과정 - 양악수술계획",
+            "channel": "포스치과의원",
+            "url": "https://www.youtube.com/watch?v=ZYpHCjPCcJo&pp=ygUb7Y-s7Iqk7Jyg7LmY6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "3.6K"
+          },
+          {
+            "title": "[포스치과]  예측가능한 수술결과, Opecura 시스템 소개",
+            "channel": "포스치과의원",
+            "url": "https://www.youtube.com/watch?v=F9Ea2rYJedc&pp=ygUb7Y-s7Iqk7Jyg7LmY6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "2.4K"
+          },
+          {
+            "title": "[포스치과]  Opecura 오각기둥 3D 분석",
+            "channel": "포스치과의원",
+            "url": "https://www.youtube.com/watch?v=j1y9LGEbYDo&pp=ygUb7Y-s7Iqk7Jyg7LmY6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "195"
+          },
+          {
+            "title": "[포스치과] 정확한수술결과를 만드는 Full 3D Process",
+            "channel": "포스치과의원",
+            "url": "https://www.youtube.com/watch?v=8RU_u45Fkh0&pp=ygUb7Y-s7Iqk7Jyg7LmY6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "495"
+          },
+          {
+            "title": "주걱턱 긴얼굴양악수술",
+            "channel": "포스유치과",
+            "url": "https://www.youtube.com/watch?v=tiXye-HdyyQ&pp=ygUb7Y-s7Iqk7Jyg7LmY6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "915"
+          },
+          {
+            "title": "무턱양악수술",
+            "channel": "포스유치과",
+            "url": "https://www.youtube.com/watch?v=YSzOIkckFXo&pp=ygUb7Y-s7Iqk7Jyg7LmY6rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "1.2K"
+          },
+          {
+            "title": "하악돌출 남자양악수술",
+            "channel": "포스유치과",
+            "url": "https://www.youtube.com/watch?v=PRvWVjVythA&pp=ygUb7Y-s7Iqk7Jyg7LmY6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "239"
+          },
+          {
+            "title": "[양악수술후기] 영아의 심부대칭양악수술 스토리 - 2편",
+            "channel": "포스치과의원",
+            "url": "https://www.youtube.com/watch?v=PHnC0XeDnVk&pp=ygUb7Y-s7Iqk7Jyg7LmY6rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "6K"
+          },
+          {
+            "title": "[양악수술후기] 영아의 심부대칭양악수술 스토리 - 1편",
+            "channel": "포스치과의원",
+            "url": "https://www.youtube.com/watch?v=n_OFa8fATrY&pp=ygUb7Y-s7Iqk7Jyg7LmY6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.4K"
+          },
+          {
+            "title": "[포스치과] 심부대칭양악수술 소개",
+            "channel": "포스치과의원",
+            "url": "https://www.youtube.com/watch?v=cNF36jJbwcc&pp=ygUb7Y-s7Iqk7Jyg7LmY6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "470"
+          }
+        ]
       }
     },
     "xiaohongshu": {
@@ -59,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

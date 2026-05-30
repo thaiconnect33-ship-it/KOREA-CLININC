@@ -1,6 +1,6 @@
 {
   "query": "노정식성형외과의원",
-  "generated_at": "2026-05-28T22:57:33.645Z",
+  "generated_at": "2026-05-29T11:37:19.685Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -61,12 +61,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

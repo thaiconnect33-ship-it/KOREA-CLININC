@@ -1,0 +1,148 @@
+{
+  "query": "블리비의원 명동점",
+  "generated_at": "2026-05-29T11:47:03.566Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 5087,
+      "extra": {
+        "place_id": "1053642172",
+        "name": "블리비의원 명동점 : 네이버\u001c",
+        "visitor_review_count": 1054,
+        "blog_review_count": 4033,
+        "detail_url": "https://m.place.naver.com/place/1053642172/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "블리비의원 명동점",
+        "rating": 4.2,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 14,
+      "extra": {
+        "total_views": 2863895,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 14,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 14,
+        "top_videos": [
+          {
+            "title": "What kind of treatments do I get? I’m telling you everything💆🏻‍♀️",
+            "channel": "최종시안",
+            "url": "https://www.youtube.com/watch?v=8W31tqhdvLA&pp=ygUf67iU66as67mE7J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "1M"
+          },
+          {
+            "title": "대부분 모르는 스킨보톡스의 치명적인 단점! | '이것'만 알면 스킨보톡스 효과 2배로 볼 수 있습니다",
+            "channel": "닥터블랑_예뻐지는비결",
+            "url": "https://www.youtube.com/watch?v=JYAx3cfaz2Y&pp=ygUf67iU66as67mE7J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "31K"
+          },
+          {
+            "title": "[PLAYLIST] 블리비니 플레이리스트 01 🎧🎶",
+            "channel": "블리비니 velyBINI",
+            "url": "https://www.youtube.com/watch?v=XHQFhdpRk_k&list=RDXHQFhdpRk_k&start_radio=1&pp=ygUf67iU66as67mE7J2Y7JuQIOuqheuPmeygkCBLb3JlYaAHAQ%3D%3D",
+            "view_text": "1.5K"
+          },
+          {
+            "title": "S급 가성비 시술 BEST 5 | 피부과에서 절대 안 알려주는 수백 만원 아끼는 방법",
+            "channel": "닥터블랑_예뻐지는비결",
+            "url": "https://www.youtube.com/watch?v=_9UTYN26aqE&pp=ygUf67iU66as67mE7J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "72K"
+          },
+          {
+            "title": "레이저 딱 한번이면 돼요 | 피부과 가성비 시술 TOP 3",
+            "channel": "닥터블랑_예뻐지는비결",
+            "url": "https://www.youtube.com/watch?v=N9N0SrNK5-c&pp=ygUf67iU66as67mE7J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "377K"
+          },
+          {
+            "title": "\"Dermatologists don't tell you...\" We recommend popular youth-enhancing procedures these days. We...",
+            "channel": "박지윤의 피부 설명서",
+            "url": "https://www.youtube.com/watch?v=EFB-McCJG48&pp=ygUf67iU66as67mE7J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "444K"
+          },
+          {
+            "title": "🔥A collection of the hottest skin treatments these days🔥Recommended❓Not recommended❓",
+            "channel": "희재 HEEJAE",
+            "url": "https://www.youtube.com/watch?v=uS1FV0UEP2E&pp=ygUf67iU66as67mE7J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "533K"
+          },
+          {
+            "title": "서울대 피부과의사가 찍어주는 스킨부스터 완벽 정리. \"이 영상보면 호구 안당합니다\" - 이도영 피부과전문의",
+            "channel": "피부텐텐 · 피부가 예뻐지는 10분",
+            "url": "https://www.youtube.com/watch?v=rigKW7zrTeI&pp=ygUf67iU66as67mE7J2Y7JuQIOuqheuPmeygkCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "338K"
+          },
+          {
+            "title": "아시아 모델 페스티벌 미앤미 명동점 방문",
+            "channel": "미앤미TV",
+            "url": "https://www.youtube.com/watch?v=Dsj3I7VwdJQ&pp=ygUf67iU66as67mE7J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "117"
+          },
+          {
+            "title": "피부과 가성비 시술 끝판왕 TOP5 \"솔직히 이 시술만 받아도 충분해요. 수백만원 아낄 수 있어요\"",
+            "channel": "동안 큐레이터 Dr.쏘블리",
+            "url": "https://www.youtube.com/watch?v=jv93F4SaWzI&pp=ygUf67iU66as67mE7J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "1.8K"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

@@ -1,33 +1,35 @@
 {
   "query": "피아프의원",
-  "generated_at": "2026-05-28T23:12:40.340Z",
+  "generated_at": "2026-05-29T11:52:51.966Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 517,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "1271601851",
+        "name": "피아프의원 : 네이버\u001c",
+        "visitor_review_count": 345,
+        "blog_review_count": 172,
+        "detail_url": "https://m.place.naver.com/place/1271601851/home"
       }
     },
     "google_maps": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 79,
+      "metric_value": 81,
       "extra": {
         "name": "PIAF Plastic Surgery & Dermatology Clinic",
-        "rating": 4.9,
-        "total_reviews": 79,
-        "sample_size": 23,
-        "foreign_language_reviews": 23,
+        "rating": 5,
+        "total_reviews": 81,
+        "sample_size": 29,
+        "foreign_language_reviews": 29,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 23
+          "english_other": 29
         }
       }
     },
@@ -43,9 +45,80 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 0,
+      "metric_value": 19,
       "extra": {
-        "note": "결과 없음"
+        "total_views": 2308156,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 19,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 19,
+        "top_videos": [
+          {
+            "title": "슬기로운 퇴사생활 (feat.초밥,연어)",
+            "channel": "노미의식탁",
+            "url": "https://www.youtube.com/watch?v=gESTfnsDERs&pp=ygUV7ZS87JWE7ZSE7J2Y7JuQIEtvcmVh",
+            "view_text": "249"
+          },
+          {
+            "title": "\"너무 아프다\"…한마디 남기고 지방흡입 수술 후 사망 / KNN",
+            "channel": "KNN NEWS",
+            "url": "https://www.youtube.com/watch?v=Q3Ii_0VymLc&pp=ygUV7ZS87JWE7ZSE7J2Y7JuQIEtvcmVh",
+            "view_text": "2.2M"
+          },
+          {
+            "title": "백지연의 피플 INSIDE - \"People Inside\" Ep.283: 할리우드 초호화 캐스팅, 레미제라블 비하인드 스토리!",
+            "channel": "CJ ENM",
+            "url": "https://www.youtube.com/watch?v=w6HgUqKVYQ4&pp=ygUV7ZS87JWE7ZSE7J2Y7JuQIEtvcmVh",
+            "view_text": "11K"
+          },
+          {
+            "title": "백지연의 끝장토론 Ultimate Debate Battle ep.106 - 누가 내 삶을 바꿀 대통령인가 2",
+            "channel": "CJ ENM",
+            "url": "https://www.youtube.com/watch?v=dJM0KivICiA&pp=ygUV7ZS87JWE7ZSE7J2Y7JuQIEtvcmVh",
+            "view_text": "251"
+          },
+          {
+            "title": "강용석의 고소한 19, Issue Ranking Show Ep.2 : 국회의원 운영비용!",
+            "channel": "tvN Joy",
+            "url": "https://www.youtube.com/watch?v=yZzJ8DIjkAo&pp=ygUV7ZS87JWE7ZSE7J2Y7JuQIEtvcmVh",
+            "view_text": "8.1K"
+          },
+          {
+            "title": "천재연구가 조성관 - \"천재를 만들어 내는 도시는 뭔가 특별한 게 있다\"",
+            "channel": "조갑제TV",
+            "url": "https://www.youtube.com/watch?v=nMASQs148NE&pp=ygUV7ZS87JWE7ZSE7J2Y7JuQIEtvcmVh",
+            "view_text": "2.1K"
+          },
+          {
+            "title": "백지연의 피플 INSIDE - \"People Inside\" Ep.282: 세계 1위 패션블로그 '사토리얼리스트'. 그 시작은?",
+            "channel": "CJ ENM",
+            "url": "https://www.youtube.com/watch?v=A3LxazuV7pg&pp=ygUV7ZS87JWE7ZSE7J2Y7JuQIEtvcmVh",
+            "view_text": "2.7K"
+          },
+          {
+            "title": "사실 무근이라더니 두 번째 고소...사면초가 박유천 / YTN (Yes! Top News)",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=dbdE4vCpvTU&pp=ygUV7ZS87JWE7ZSE7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "1.8K"
+          },
+          {
+            "title": "강용석의고소한19 - Ep.50 : 보험사에 기대말고 직접 나서자!",
+            "channel": "CJ ENM",
+            "url": "https://www.youtube.com/watch?v=j_CKgL9D6FA&pp=ygUV7ZS87JWE7ZSE7J2Y7JuQIEtvcmVh",
+            "view_text": "15K"
+          },
+          {
+            "title": "시베리아의 선물 이반 차이/페트로 달러 흔드는 신의 한수!",
+            "channel": "박상후의 문명개화",
+            "url": "https://www.youtube.com/watch?v=Nak28gdcKMU&pp=ygUV7ZS87JWE7ZSE7J2Y7JuQIEtvcmVh",
+            "view_text": "33K"
+          }
+        ]
       }
     },
     "xiaohongshu": {
@@ -59,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 12,
-  "opportunity_cost_thb": 88500,
-  "opportunity_cost_krw": 3540000
+  "global_score": 14,
+  "opportunity_cost_thb": 85500,
+  "opportunity_cost_krw": 3420000
 }

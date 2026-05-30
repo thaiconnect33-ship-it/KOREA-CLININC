@@ -1,16 +1,18 @@
 {
   "query": "비원클리닉의원",
-  "generated_at": "2026-05-28T22:41:33.572Z",
+  "generated_at": "2026-05-29T11:20:01.590Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 466,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "1559483165",
+        "name": "비원클리닉의원 : 네이버\u001c",
+        "visitor_review_count": 434,
+        "blog_review_count": 32,
+        "detail_url": "https://m.place.naver.com/place/1559483165/home"
       }
     },
     "google_maps": {
@@ -43,9 +45,80 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 0,
+      "metric_value": 20,
       "extra": {
-        "note": "결과 없음"
+        "total_views": 10114338,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "비원클리닉의원 시작합니다.",
+            "channel": "비원클리닉 BeONE CLINIC",
+            "url": "https://www.youtube.com/watch?v=quh2djdBbrw&pp=ygUb67mE7JuQ7YG066as64uJ7J2Y7JuQIEtvcmVh",
+            "view_text": "70 views"
+          },
+          {
+            "title": "홍대비원클리닉 2차 홍보영상 인트로",
+            "channel": "비원클리닉 BeONE CLINIC",
+            "url": "https://www.youtube.com/watch?v=dRjE6b0KCVI&pp=ygUb67mE7JuQ7YG066as64uJ7J2Y7JuQIEtvcmVh",
+            "view_text": "54 views"
+          },
+          {
+            "title": "비원클리닉 (구)홍대비앤미 VR인테리어",
+            "channel": "비원클리닉 BeONE CLINIC",
+            "url": "https://www.youtube.com/watch?v=yyHZ9JgdquM&pp=ygUb67mE7JuQ7YG066as64uJ7J2Y7JuQIEtvcmVh",
+            "view_text": "303 views"
+          },
+          {
+            "title": "불면증이 무서워요!/ 피곤한데잠이안와요ㅜ.ㅜ/ 병원에가야할까요?/ 공부가안되요/불면증치료/불면증대처법/생활패턴바꾸기",
+            "channel": "모두라면tv",
+            "url": "https://www.youtube.com/watch?v=dGlRTQd62U0&pp=ygUb67mE7JuQ7YG066as64uJ7J2Y7JuQIEtvcmVh",
+            "view_text": "191 views"
+          },
+          {
+            "title": "The interior of the Infertility Clinic at Yonsei I-Bom Women's Clinic is finally complete!",
+            "channel": "연세아이봄여성의원 난임클리닉",
+            "url": "https://www.youtube.com/watch?v=QxyHfECkZJ8&pp=ygUb67mE7JuQ7YG066as64uJ7J2Y7JuQIEtvcmVh",
+            "view_text": "731 views"
+          },
+          {
+            "title": "Dasipium Clinic | 다시피움 성형외과",
+            "channel": "THE CONA [더 코나]",
+            "url": "https://www.youtube.com/watch?v=-jl-Q_g1iX8&pp=ygUb67mE7JuQ7YG066as64uJ7J2Y7JuQIEtvcmVh",
+            "view_text": "3.3K views"
+          },
+          {
+            "title": "이 검진은 웬만하면 받지 마세요 l  비추천검진항목",
+            "channel": "닥터이걸의학TV",
+            "url": "https://www.youtube.com/watch?v=rYenELPiB_U&pp=ygUb67mE7JuQ7YG066as64uJ7J2Y7JuQIEtvcmVh",
+            "view_text": "10M views"
+          },
+          {
+            "title": "모나리자에서 사람되는 과정/눈썹문신의 모든것/일주일,한달 뒤의 모습공개/눈썹반영구/비앤미성형외과",
+            "channel": "뀨히",
+            "url": "https://www.youtube.com/watch?v=aJUGUeZ0nUY&pp=ygUb67mE7JuQ7YG066as64uJ7J2Y7JuQIEtvcmVh",
+            "view_text": "2.3K views"
+          },
+          {
+            "title": "하이맵 의원 - 병원인테리어 / 디자인인퍼  . design INFUR",
+            "channel": "디자인 인퍼 - 병원인테리어",
+            "url": "https://www.youtube.com/watch?v=EKhxMPSVvtQ&pp=ygUb67mE7JuQ7YG066as64uJ7J2Y7JuQIEtvcmVh",
+            "view_text": "111 views"
+          },
+          {
+            "title": "그레이밸런스  |  브이엔 성형외과",
+            "channel": "그레이밸런스",
+            "url": "https://www.youtube.com/watch?v=bsvPSHdflmA&pp=ygUb67mE7JuQ7YG066as64uJ7J2Y7JuQIEtvcmVh",
+            "view_text": "418 views"
+          }
+        ]
       }
     },
     "xiaohongshu": {
@@ -59,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

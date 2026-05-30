@@ -1,0 +1,148 @@
+{
+  "query": "리뉴미피부과의원 잠실",
+  "generated_at": "2026-05-29T12:10:30.517Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 1344,
+      "extra": {
+        "place_id": "34542205",
+        "name": "리뉴미피부과의원 잠실 : 네이버\u001c",
+        "visitor_review_count": 621,
+        "blog_review_count": 723,
+        "detail_url": "https://m.place.naver.com/place/34542205/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Renewme Skin Clinic Jamsil",
+        "rating": 4.5,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 3982802,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "리뉴미피부과 잠실점 찾아오시는 길 (한국어ver)",
+            "channel": "리뉴미피부과 (피부과전문의)",
+            "url": "https://www.youtube.com/watch?v=EQirprnPixE&pp=ygUl66as64m066-47ZS867aA6rO87J2Y7JuQIOyeoOyLpCBLb3JlYQ%3D%3D",
+            "view_text": "1.1K views"
+          },
+          {
+            "title": "리뉴미피부과 쥬베룩과 리쥬란 간단히 알아보자",
+            "channel": "피부과 전문의 송병한",
+            "url": "https://www.youtube.com/watch?v=qYpCU6jxrA4&pp=ygUl66as64m066-47ZS867aA6rO87J2Y7JuQIOyeoOyLpCBLb3JlYQ%3D%3D",
+            "view_text": "245 views"
+          },
+          {
+            "title": "SBS Biz  참좋은하루 115회 리뉴미잠실 황원장님 출연",
+            "channel": "피부원정대",
+            "url": "https://www.youtube.com/watch?v=f4K_1kLC_MM&pp=ygUl66as64m066-47ZS867aA6rO87J2Y7JuQIOyeoOyLpCBLb3JlYQ%3D%3D",
+            "view_text": "315 views"
+          },
+          {
+            "title": "리뉴미피부과 엑셀V편",
+            "channel": "리뉴미TV",
+            "url": "https://www.youtube.com/watch?v=F4cXESMyHb0&pp=ygUl66as64m066-47ZS867aA6rO87J2Y7JuQIOyeoOyLpCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "165 views"
+          },
+          {
+            "title": "젊어지는 방법❔👀 고압산소치료 총정리❕✨| 안티에이징, 희귀질환, 초기치매",
+            "channel": "피부원정대",
+            "url": "https://www.youtube.com/watch?v=3i2bpwCcDVE&pp=ygUl66as64m066-47ZS867aA6rO87J2Y7JuQIOyeoOyLpCBLb3JlYQ%3D%3D",
+            "view_text": "3.4K views"
+          },
+          {
+            "title": "피부과 시술 부작용 Vlog…ㅠ 내 피부 돌려줘.. 다신 안해…🫠ㅣMINCARONG",
+            "channel": "민카롱",
+            "url": "https://www.youtube.com/watch?v=wRJR2kY2x9w&pp=ygUl66as64m066-47ZS867aA6rO87J2Y7JuQIOyeoOyLpCBLb3JlYQ%3D%3D",
+            "view_text": "1.7M views"
+          },
+          {
+            "title": "\"너무 아프다\"…한마디 남기고 지방흡입 수술 후 사망 / KNN",
+            "channel": "KNN NEWS",
+            "url": "https://www.youtube.com/watch?v=Q3Ii_0VymLc&pp=ygUl66as64m066-47ZS867aA6rO87J2Y7JuQIOyeoOyLpCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "2.2M views"
+          },
+          {
+            "title": "\"남들이 좋다면 의심부터 하세요\" 의사들이 꽁꽁 숨기는 리투오 문제점 솔직하게 공개합니다! | 리투오효과 리투오부작용 콜라겐주사",
+            "channel": "피부왕정윤",
+            "url": "https://www.youtube.com/watch?v=KyZipxpn8_U&pp=ygUl66as64m066-47ZS867aA6rO87J2Y7JuQIOyeoOyLpCBLb3JlYQ%3D%3D",
+            "view_text": "40K views"
+          },
+          {
+            "title": "문신제거 완전정복? Q&A - 타투지움 스마트 TV",
+            "channel": "스마트 문신제거",
+            "url": "https://www.youtube.com/watch?v=bjNO6IbpqFM&pp=ygUl66as64m066-47ZS867aA6rO87J2Y7JuQIOyeoOyLpCBLb3JlYQ%3D%3D",
+            "view_text": "5.3K views"
+          },
+          {
+            "title": "이마필러로 평평한 이마 고민해결📍",
+            "channel": "청담진의원",
+            "url": "https://www.youtube.com/watch?v=XPhP2cLVEIo&pp=ygUl66as64m066-47ZS867aA6rO87J2Y7JuQIOyeoOyLpCBLb3JlYQ%3D%3D",
+            "view_text": "970 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 90000,
+  "opportunity_cost_krw": 3600000
+}

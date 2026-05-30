@@ -1,18 +1,18 @@
 {
   "query": "강남언니",
-  "generated_at": "2026-05-29T05:50:35.687Z",
+  "generated_at": "2026-05-29T10:16:58.932Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 66,
+      "metric_value": 351,
       "extra": {
-        "place_id": "18163430",
-        "name": "강남언니 : 네이버\u001c",
-        "visitor_review_count": 64,
-        "blog_review_count": 2,
-        "detail_url": "https://m.place.naver.com/place/18163430/home"
+        "place_id": "1899072617",
+        "name": "강남언니샵 : 네이버\u001c",
+        "visitor_review_count": 262,
+        "blog_review_count": 89,
+        "detail_url": "https://m.place.naver.com/place/1899072617/home"
       }
     },
     "google_maps": {
@@ -42,10 +42,10 @@
           {
             "title": "[K-POP] แปลคอมเม้นต์ชาวเน็ทเกาหลี 06/08/15",
             "url": "https://pantip.com/topic/34020831",
-            "views": 0
+            "views": 15
           }
         ],
-        "total_views": 0
+        "total_views": 15
       }
     },
     "youtube": {
@@ -53,14 +53,14 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 337644,
-        "foreign_video_count": 17,
+        "total_views": 281802,
+        "foreign_video_count": 16,
         "lang_breakdown": {
-          "korean": 3,
+          "korean": 4,
           "thai": 1,
           "chinese": 0,
           "japanese": 0,
-          "english_other": 16
+          "english_other": 15
         },
         "sample_size": 20,
         "top_videos": [
@@ -83,16 +83,22 @@
             "view_text": "65K views"
           },
           {
-            "title": "[รีวิวศัลยกรรมเกาหลี] Vlog เปลี่ยนรูปหน้าครั้งแรกที่เกาหลี!! ผ่าตัดโครงหน้า V-line | BEAMSAREEDA",
-            "channel": "โรงพยาบาลศัลยกรรมวิว View plastic surgery",
-            "url": "https://www.youtube.com/watch?v=Bfmab6iOWow&pp=ygUSR2FuZ25hbSBVbm5pIEtvcmVh",
-            "view_text": "3.2K views"
+            "title": "I Got Laser for Freckles & Dark Spots! 😱 Real Progress + My Intense Anti-Relapse Routine",
+            "channel": "오유하 Oyuha",
+            "url": "https://www.youtube.com/watch?v=9MNiUnPTIvo&pp=ygUSR2FuZ25hbSBVbm5pIEtvcmVh",
+            "view_text": "158 views"
           },
           {
             "title": "Facelift FAQ) Is it possible for an eye lift like cat-eyes during a forehead lift?",
             "channel": "VLIF Plastic Surgery Korea",
-            "url": "https://www.youtube.com/watch?v=yPK6EmAPTc8&pp=ygUSR2FuZ25hbSBVbm5pIEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=yPK6EmAPTc8&pp=ygUSR2FuZ25hbSBVbm5pIEtvcmVh0gcJCSMLAYcqIYzv",
             "view_text": "1K views"
+          },
+          {
+            "title": "[รีวิวศัลยกรรมเกาหลี] Vlog เปลี่ยนรูปหน้าครั้งแรกที่เกาหลี!! ผ่าตัดโครงหน้า V-line | BEAMSAREEDA",
+            "channel": "โรงพยาบาลศัลยกรรมวิว View plastic surgery",
+            "url": "https://www.youtube.com/watch?v=Bfmab6iOWow&pp=ygUSR2FuZ25hbSBVbm5pIEtvcmVh",
+            "view_text": "3.2K views"
           },
           {
             "title": "DRAMA LOCATION TOUR! Walking Tour of SEOUL CITY WALL!  [Hanyang Doseong]",
@@ -117,12 +123,6 @@
             "channel": "abihijith br",
             "url": "https://www.youtube.com/watch?v=dcXQu_6wbxw&pp=ygUSR2FuZ25hbSBVbm5pIEtvcmVh",
             "view_text": "278 views"
-          },
-          {
-            "title": "SEONGSU SHOPPING, OLIVE YOUNG, HAUS NOWHERE, HOUSE OF SHINSEGAE, happy holidays from Seoul🎄🎁",
-            "channel": "EuniUnni",
-            "url": "https://www.youtube.com/watch?v=Edh7OO_bHXI&pp=ygUSR2FuZ25hbSBVbm5pIEtvcmVh",
-            "view_text": "6.9K views"
           }
         ]
       }
@@ -148,7 +148,7 @@
       }
     }
   },
-  "global_score": 17,
-  "opportunity_cost_thb": 88000,
-  "opportunity_cost_krw": 3520000
+  "global_score": 16,
+  "opportunity_cost_thb": 88500,
+  "opportunity_cost_krw": 3540000
 }

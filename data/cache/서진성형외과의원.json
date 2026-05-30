@@ -1,16 +1,18 @@
 {
   "query": "서진성형외과의원",
-  "generated_at": "2026-05-29T06:05:01.202Z",
+  "generated_at": "2026-05-29T10:31:54.356Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 811,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "1036415992",
+        "name": "서진성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 444,
+        "blog_review_count": 367,
+        "detail_url": "https://m.place.naver.com/place/1036415992/home"
       }
     },
     "google_maps": {
@@ -45,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 19,
       "extra": {
-        "total_views": 3448160,
+        "total_views": 88730,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 19,
@@ -57,64 +59,64 @@
         "sample_size": 19,
         "top_videos": [
           {
-            "title": "안면거상수술하면 목주름도 없어진다? - 【feat. 성형외과전문의】",
-            "channel": "시너지성형외과",
-            "url": "https://www.youtube.com/watch?v=AcdmoYXAc4Q&pp=ygUw7ISc7KeE7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "41K"
+            "title": "해외 여러나라에서도 유명한 모발이식 비밀 성지 솔직후기💕",
+            "channel": "라인을 심는 남자 DR.이형민",
+            "url": "https://www.youtube.com/watch?v=l6DcMBDCt-I&pp=ygUe7ISc7KeE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "210 views"
           },
           {
-            "title": "도망쳐..지금이야!! 성형외과 블랙리스트 이렇게 거르세요",
-            "channel": "지유미 JIYUMEE",
-            "url": "https://www.youtube.com/watch?v=VK1hIW0QP-g&pp=ygUw7ISc7KeE7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "126K"
+            "title": "한국살이 10년차 영국인이 한국에서 모발이식을 받으면 벌어지는 일",
+            "channel": "라인을 심는 남자 DR.이형민",
+            "url": "https://www.youtube.com/watch?v=BuukbVWWEI4&pp=ygUe7ISc7KeE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "102 views"
           },
           {
-            "title": "여성 모발이식 후 혼자서 샴푸 어떻게 할까? 👩🏻| 모모성형외과 | 모모의원",
-            "channel": "모모성형외과",
-            "url": "https://www.youtube.com/watch?v=kEKTeLN9WEc&pp=ygUw7ISc7KeE7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "20K"
+            "title": "Ep1 모발이식의 개요 및 궁금증! 서진 성형외과 대표원장님은 왜 모발이식을 선택하셨을까!?",
+            "channel": "서진성형외과",
+            "url": "https://www.youtube.com/watch?v=E33b6MoqcVc&pp=ygUe7ISc7KeE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.3K views"
           },
           {
-            "title": "진짜 '안면거상수술' 전후 케이스  【에이징엘】",
-            "channel": "에이징엘 성형외과 Aging L FACE LIFTING SURGERY",
-            "url": "https://www.youtube.com/watch?v=IdEOi_nnAdw&pp=ygUw7ISc7KeE7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "217K"
+            "title": "Ep5 가슴 성형 전 이 영상을 꼭 먼저 보세요!",
+            "channel": "서진성형외과",
+            "url": "https://www.youtube.com/watch?v=jgsWnlY_5yI&pp=ygUe7ISc7KeE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.2K views"
           },
           {
-            "title": "모발 이식 4년 후.. 후기, 부작용, 가격 싹 다 알려드립니다.",
-            "channel": "비트 BTE",
-            "url": "https://www.youtube.com/watch?v=6ONxOVGuC3o&pp=ygUw7ISc7KeE7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "231K"
+            "title": "Ep6 가슴성형과 보형물에 대해서!",
+            "channel": "서진성형외과",
+            "url": "https://www.youtube.com/watch?v=lIyJJpx09bU&pp=ygUe7ISc7KeE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1K views"
           },
           {
-            "title": "[홍진주의 성형 Q&A] #5. 성형, 선택의 딜레마 '매몰 vs 절개' (제이제이성형외과 홍진주 원장)",
-            "channel": "의학채널 비온뒤",
-            "url": "https://www.youtube.com/watch?v=weJT94cyHbI&pp=ygUw7ISc7KeE7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "5.8K"
+            "title": "모발이식, 절개와 비절개 중 고민이신가요? 그냥 ‘이거’하시면 됩니다.",
+            "channel": "라인을 심는 남자 DR.이형민",
+            "url": "https://www.youtube.com/watch?v=Vx-_2NW6U3U&pp=ygUe7ISc7KeE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "220 views"
           },
           {
-            "title": "SM 천상계 연예인으로 만들어준다는 성형외과!!",
-            "channel": "핫이슈HOT ISSUE",
-            "url": "https://www.youtube.com/watch?v=WTeNWTENa54&pp=ygUw7ISc7KeE7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.7M"
+            "title": "예뻐지는 그 이상, 서진성형외과 모발이식 4주 애프터케어",
+            "channel": "서진성형외과",
+            "url": "https://www.youtube.com/watch?v=1YwLWevsRM8&pp=ygUe7ISc7KeE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "994 views"
           },
           {
-            "title": "성형외과 전문의가 직접 알려드립니다! 시너지성형외과 눈썹거상Q&A :: 수술전후CASE 【Feat. 정경인대표원장님】",
-            "channel": "시너지성형외과",
-            "url": "https://www.youtube.com/watch?v=RfgeZl88_GA&pp=ygUw7ISc7KeE7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "48K"
+            "title": "Ep3 모발이식하셨다고 끝이 아닙니다! 사후관리와 생착률에 대해서!",
+            "channel": "서진성형외과",
+            "url": "https://www.youtube.com/watch?v=7KgDip1Qh84&pp=ygUe7ISc7KeE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1K views"
           },
           {
-            "title": "모발이식 후 11개월... 이건 꼭 알아야 합니다 (100% 솔직 후기)",
-            "channel": "용닥터",
-            "url": "https://www.youtube.com/watch?v=meGxqXFvikw&pp=ygUw7ISc7KeE7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "860K"
+            "title": "예뻐지는 그 이상, 서진성형외과",
+            "channel": "서진성형외과",
+            "url": "https://www.youtube.com/watch?v=REPimxir5RI&pp=ygUe7ISc7KeE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "74K views"
           },
           {
-            "title": "올리지오리프팅, 궁금했던 점들만 딱! 딱! 짚어서!",
-            "channel": "압구정 김형진베이직성형외과",
-            "url": "https://www.youtube.com/watch?v=C5aec4F_XAs&pp=ygUw7ISc7KeE7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "477"
+            "title": "티안나는 모발이식이 필요했던 배우 서재경 [비절개 노컷 모발이식]ep.1",
+            "channel": "서진성형외과",
+            "url": "https://www.youtube.com/watch?v=EV30sY5-a7U&pp=ygUe7ISc7KeE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.8K views"
           }
         ]
       }

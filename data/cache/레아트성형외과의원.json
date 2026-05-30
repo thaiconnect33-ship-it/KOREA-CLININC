@@ -1,33 +1,35 @@
 {
   "query": "레아트성형외과의원",
-  "generated_at": "2026-05-29T06:07:14.186Z",
+  "generated_at": "2026-05-29T10:34:12.738Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 2945,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "670104146",
+        "name": "레아트성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 160,
+        "blog_review_count": 2785,
+        "detail_url": "https://m.place.naver.com/place/670104146/home"
       }
     },
     "google_maps": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 763,
+      "metric_value": 80,
       "extra": {
-        "name": "Results",
-        "rating": 4.9,
-        "total_reviews": 763,
-        "sample_size": 6,
-        "foreign_language_reviews": 6,
+        "name": "레아트성형외과",
+        "rating": 5,
+        "total_reviews": 80,
+        "sample_size": 28,
+        "foreign_language_reviews": 28,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 6
+          "english_other": 28
         }
       }
     },
@@ -45,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 101098,
+        "total_views": 180062,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -57,64 +59,64 @@
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "[복부거상술] 궁금증과 주의사항! 100번 확인해도 모자라🤓감각둔화, 배뭉침, 흉터 [레아트성형외과]",
+            "title": "우리 원장님들은 왜 이러실까.. 복부거상이 뭐라고.. ㅣ수술천재ㅣ육아천재ㅣ그냥천재ㅣ지식배틀ㅣ열정닥터ㅣ",
             "channel": "레아트성형외과",
-            "url": "https://www.youtube.com/watch?v=EEWfvQCoFvg&pp=ygUz66CI7JWE7Yq47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "12K views"
+            "url": "https://www.youtube.com/watch?v=xSjlmaZdxcA&pp=ygUh66CI7JWE7Yq47ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.5K views"
+          },
+          {
+            "title": "복부거상수술 후 꼭 해야하는거?🤔 이 영상 보기🤙",
+            "channel": "레아트성형외과",
+            "url": "https://www.youtube.com/watch?v=CL3tnSNkv5c&pp=ygUh66CI7JWE7Yq47ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.3K views"
+          },
+          {
+            "title": "[팔뚝살빼기] 지금 지방흡입 어때요?😉[레아트성형외과]",
+            "channel": "레아트성형외과",
+            "url": "https://www.youtube.com/watch?v=d6xCvkVEDy4&pp=ygUh66CI7JWE7Yq47ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "1.3K views"
+          },
+          {
+            "title": "[여유증수술] 통증? 혈종? 수술 후 궁금증 QnA [레아트성형외과]",
+            "channel": "레아트성형외과",
+            "url": "https://www.youtube.com/watch?v=NFn1klt9X14&pp=ygUh66CI7JWE7Yq47ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "6.4K views"
+          },
+          {
+            "title": "복부거상수술 하고 나서 젤루 궁금한 그거",
+            "channel": "레아트성형외과",
+            "url": "https://www.youtube.com/watch?v=WAhgv5jlvIg&pp=ygUh66CI7JWE7Yq47ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "435 views"
+          },
+          {
+            "title": "지방흡입의 근본 레아트성형외과 수술방법  \"최초공개💙\"[JPN]",
+            "channel": "레아트성형외과",
+            "url": "https://www.youtube.com/watch?v=zD8zP3sGCG0&pp=ygUh66CI7JWE7Yq47ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "40K views"
+          },
+          {
+            "title": "여유증 수술, 어디로 가는게 맞나요? 🚇🧭",
+            "channel": "레아트성형외과",
+            "url": "https://www.youtube.com/watch?v=eQy9GztAXSE&pp=ygUh66CI7JWE7Yq47ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "364 views"
           },
           {
             "title": "[Arm Elevation Surgery] Care, exercise, bathing... Your Q&A expert Lee.Guk.Han❤ [Leart Plastic Su...",
             "channel": "레아트성형외과",
-            "url": "https://www.youtube.com/watch?v=rJ4zzUXpzuQ&pp=ygUz66CI7JWE7Yq47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=rJ4zzUXpzuQ&pp=ygUh66CI7JWE7Yq47ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "4.3K views"
           },
           {
-            "title": "[제왕절개흉터] 재건 수술 방법은? 흉터의 적절한 치료시기까지 알려드려요 [레아트성형외과]",
+            "title": "일하면서 기싸움💥마취방법 총정리⭕수준낮은 질문과 수준높은 대답[JPN]",
             "channel": "레아트성형외과",
-            "url": "https://www.youtube.com/watch?v=01UvZI-RlwA&pp=ygUz66CI7JWE7Yq47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "10K views"
+            "url": "https://www.youtube.com/watch?v=izws0TNEK7Y&pp=ygUh66CI7JWE7Yq47ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "47K views"
           },
           {
-            "title": "[복부거상] 수술 전후 궁금하죠?🤩[레아트성형외과]",
+            "title": "뱃살이 처졌는데 복부거상 해야하냐고? \"네\"[JPN]",
             "channel": "레아트성형외과",
-            "url": "https://www.youtube.com/watch?v=ae0GIe0hWbY&pp=ygUz66CI7JWE7Yq47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "2.1K views"
-          },
-          {
-            "title": "[복부거상전후사진] 처진뱃살, 배꼽주름 이렇게 해결된다고?🤗[레아트성형외과]",
-            "channel": "레아트성형외과",
-            "url": "https://www.youtube.com/watch?v=87NRrGHjbek&pp=ygUz66CI7JWE7Yq47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "2.8K views"
-          },
-          {
-            "title": "[복부거상] 수술 1년 동안의 변화💕사진으로 빠르게 확인할게요🤩[레아트성형외과]",
-            "channel": "레아트성형외과",
-            "url": "https://www.youtube.com/watch?v=RVM6ZTehkB4&pp=ygUz66CI7JWE7Yq47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "2.9K views"
-          },
-          {
-            "title": "[Gynecomastia Treatment] Can gynecomastia with uneven chest be surgically treated naturally? [Lea...",
-            "channel": "레아트성형외과",
-            "url": "https://www.youtube.com/watch?v=PrPPouxFgIM&pp=ygUz66CI7JWE7Yq47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "2.7K views"
-          },
-          {
-            "title": "[복부거상술] 몸도 마음도 180도 달라지는 수술💕[레아트성형외과]",
-            "channel": "레아트성형외과",
-            "url": "https://www.youtube.com/watch?v=DdNc3Z-c7PI&pp=ygUz66CI7JWE7Yq47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
-            "view_text": "1.6K views"
-          },
-          {
-            "title": "[복부거상수술] 운동하고 살도 뺐는데 아무 소용이 없었다😭#처진뱃살 #복직근이개 [레아트성형외과]",
-            "channel": "레아트성형외과",
-            "url": "https://www.youtube.com/watch?v=NUlvBaOQgKg&pp=ygUz66CI7JWE7Yq47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "3.1K views"
-          },
-          {
-            "title": "[제왕절개흉터] 수술이 필요한 흉터는 따로있다? [레아트성형외과]",
-            "channel": "레아트성형외과",
-            "url": "https://www.youtube.com/watch?v=OiieGBBRIHU&pp=ygUz66CI7JWE7Yq47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "2.7K views"
+            "url": "https://www.youtube.com/watch?v=jQLjupd1wuQ&pp=ygUh66CI7JWE7Yq47ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.4K views"
           }
         ]
       }
@@ -140,7 +142,7 @@
       }
     }
   },
-  "global_score": 3,
-  "opportunity_cost_thb": 97000,
-  "opportunity_cost_krw": 3880000
+  "global_score": 14,
+  "opportunity_cost_thb": 86000,
+  "opportunity_cost_krw": 3440000
 }

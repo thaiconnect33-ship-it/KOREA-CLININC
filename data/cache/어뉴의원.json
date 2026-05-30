@@ -1,6 +1,6 @@
 {
   "query": "어뉴의원",
-  "generated_at": "2026-05-28T23:43:23.711Z",
+  "generated_at": "2026-05-29T12:29:07.568Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 9,
       "extra": {
-        "total_views": 93550,
+        "total_views": 22514,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 9,
@@ -59,58 +59,58 @@
         "sample_size": 9,
         "top_videos": [
           {
-            "title": "'나만을 위한 피부과', 어뉴의원!",
-            "channel": "어뉴의원 시보경💉",
-            "url": "https://www.youtube.com/watch?v=B8EeHOzsOFk&pp=ygUb7Ja064m07J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "81K views"
-          },
-          {
-            "title": "[어뉴의원] 시그니처 올인원 시술 후 관리",
-            "channel": "IST CREATIVE",
-            "url": "https://www.youtube.com/watch?v=Da3jOkjjeoE&pp=ygUb7Ja064m07J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "12 views"
-          },
-          {
-            "title": "[어뉴의원] 고민중인 분들에게",
-            "channel": "IST CREATIVE",
-            "url": "https://www.youtube.com/watch?v=bmJikK6VRbI&pp=ygUb7Ja064m07J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "42 views"
-          },
-          {
-            "title": "[어뉴의원] 여드름 치료 후 주의사항",
-            "channel": "IST CREATIVE",
-            "url": "https://www.youtube.com/watch?v=s0qJVnT7LfE&pp=ygUb7Ja064m07J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "39 views"
-          },
-          {
-            "title": "[어뉴의원] CO2 레이저 후 관리",
-            "channel": "IST CREATIVE",
-            "url": "https://www.youtube.com/watch?v=TGNj9zDDysA&pp=ygUb7Ja064m07J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "52 views"
-          },
-          {
             "title": "베트남 한인병원 보험없이 가면 큰일나요! l 직접진료경험ㅣ외국에선 아프지도마라ㅠㅠ",
             "channel": "벨라의 해외생존기 Bella in the World",
-            "url": "https://www.youtube.com/watch?v=WwE8nqPzF8w&pp=ygUb7Ja064m07J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=WwE8nqPzF8w&pp=ygUS7Ja064m07J2Y7JuQIEtvcmVh",
             "view_text": "6.8K views"
           },
           {
-            "title": "[REST의원] REST LIFTING",
-            "channel": "IST CREATIVE",
-            "url": "https://www.youtube.com/watch?v=wJVuZMDvZaw&pp=ygUb7Ja064m07J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "141 views"
+            "title": "[2021 KLPGA] 벌? 쉽지 않아요... 오랜만의 국내 무대, 고전하는 안신애_대보 하우스디 2R",
+            "channel": "SBS Golf",
+            "url": "https://www.youtube.com/watch?v=8o-GcMsdtds&pp=ygUS7Ja064m07J2Y7JuQIEtvcmVh",
+            "view_text": "9.8K views"
           },
           {
-            "title": "유명 연예인들이 하얀 피부 만드는 법｜비싼 시술보다 중요한 건 ‘이것’ ｜하얗고 맑은 피부 만드는 사소한 습관들",
-            "channel": "레이저 쏘는 의사언니",
-            "url": "https://www.youtube.com/watch?v=qlPJ-2i1ku8&pp=ygUb7Ja064m07J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "64 views"
+            "title": "[브라이언 리의 미국은퇴시리즈] Ep4 직장인 은퇴연금 의무화 칼세이버의 모든것!! 자세히 알려드립니다",
+            "channel": "Allmerits(아메리츠)",
+            "url": "https://www.youtube.com/watch?v=tIXJDJJtg7k&pp=ygUS7Ja064m07J2Y7JuQIEtvcmVh",
+            "view_text": "2.2K views"
           },
           {
-            "title": "수술없이 눈물고랑&인디언주름 없애는 법",
-            "channel": "의사先生(선생) 윤정현_ 연세팜스TV(Dr.Yoon)",
-            "url": "https://www.youtube.com/watch?v=o3TiWxVIFzo&pp=ygUb7Ja064m07J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "5.4K views"
+            "title": "앤디 김의 미국 재정플랜 TV를 시작합니다.",
+            "channel": "앤디 김의 미국 재정플랜TV",
+            "url": "https://www.youtube.com/watch?v=-JbpHWgGHf8&pp=ygUS7Ja064m07J2Y7JuQIEtvcmVh",
+            "view_text": "433 views"
+          },
+          {
+            "title": "[한국일보 웨비나] 장수시대 ‘웰빙과 은퇴준비’",
+            "channel": "한국TV HankookTV",
+            "url": "https://www.youtube.com/watch?v=VaBE0oxkuk4&pp=ygUS7Ja064m07J2Y7JuQIEtvcmVh",
+            "view_text": "1K views"
+          },
+          {
+            "title": "미국 46대 대통령 취임!! 새로운 정부가 증시에 끼치는 영향! 과연 증시를 좌지우지할까? 자산운용전문가 켄초이의 이심쩐심",
+            "channel": "Allmerits(아메리츠)",
+            "url": "https://www.youtube.com/watch?v=NvgFcoxM-ws&pp=ygUS7Ja064m07J2Y7JuQIEtvcmVh",
+            "view_text": "99 views"
+          },
+          {
+            "title": "키르기스스탄 미용실",
+            "channel": "애터미스터손",
+            "url": "https://www.youtube.com/watch?v=b9DJpJYo2C0&pp=ygUS7Ja064m07J2Y7JuQIEtvcmVh",
+            "view_text": "220 views"
+          },
+          {
+            "title": "제7회 국방/항공 SW 기술 세미나 현장스케치 영상 (2019.03.13) - 한컴MDS",
+            "channel": "MDS테크",
+            "url": "https://www.youtube.com/watch?v=wCCg8IZXZQ0&pp=ygUS7Ja064m07J2Y7JuQIEtvcmVh",
+            "view_text": "262 views"
+          },
+          {
+            "title": "일본에서 더 인기 많은 KLPGA 1부투어 3승 안신애 프로 한국 최고의 섹시 미모 안신애 프로 드라이버 스윙 골프야사TV",
+            "channel": "KLEPORTSTV.한국레포츠TV",
+            "url": "https://www.youtube.com/watch?v=77CU0TucBnw&pp=ygUS7Ja064m07J2Y7JuQIEtvcmVh",
+            "view_text": "1.7K views"
           }
         ]
       }
@@ -126,12 +126,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

@@ -1,0 +1,139 @@
+{
+  "query": "셀린의원 잠실점",
+  "generated_at": "2026-05-29T12:09:52.512Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 2361,
+      "extra": {
+        "place_id": "2000259691",
+        "name": "셀린의원 잠실점 : 네이버\u001c",
+        "visitor_review_count": 240,
+        "blog_review_count": 2121,
+        "detail_url": "https://m.place.naver.com/place/2000259691/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "Google Maps 결과 없음",
+        "foreign_language_reviews": 0
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 5751455,
+        "foreign_video_count": 1,
+        "lang_breakdown": {
+          "korean": 19,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 1
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "[닥터스킨쉽] 외국인 줄세운 강남 부부 피부과의 정체 | 셀린의원 강남 김유송 대표원장 인터뷰 | 의사부부의 솔직한 피부이야기 #셀린의원#강남피부과#K뷰티#GangnamClinic",
+            "channel": "Dr.스킨쉽",
+            "url": "https://www.youtube.com/watch?v=UVBv8eqYsuY&pp=ygUc7IWA66aw7J2Y7JuQIOyeoOyLpOygkCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "321 views"
+          },
+          {
+            "title": "Birthday glow-up at Forena Clinic in Hongdae | ASMR",
+            "channel": "Tony Giny's Korean Adventures",
+            "url": "https://www.youtube.com/watch?v=x9pVD2cKX6k&pp=ygUc7IWA66aw7J2Y7JuQIOyeoOyLpOygkCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "424 views"
+          },
+          {
+            "title": "What kind of treatments do I get? I’m telling you everything💆🏻‍♀️",
+            "channel": "최종시안",
+            "url": "https://www.youtube.com/watch?v=8W31tqhdvLA&pp=ygUc7IWA66aw7J2Y7JuQIOyeoOyLpOygkCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "1M views"
+          },
+          {
+            "title": "피부과 시술 부작용 Vlog…ㅠ 내 피부 돌려줘.. 다신 안해…🫠ㅣMINCARONG",
+            "channel": "민카롱",
+            "url": "https://www.youtube.com/watch?v=wRJR2kY2x9w&pp=ygUc7IWA66aw7J2Y7JuQIOyeoOyLpOygkCBLb3JlYQ%3D%3D",
+            "view_text": "1.7M views"
+          },
+          {
+            "title": "[토르 리프팅] 의료진 리뷰_이젠의원 이란 원장님편",
+            "channel": "토르리프팅",
+            "url": "https://www.youtube.com/watch?v=ESblCOzbS04&pp=ygUc7IWA66aw7J2Y7JuQIOyeoOyLpOygkCBLb3JlYQ%3D%3D",
+            "view_text": "3.3K views"
+          },
+          {
+            "title": "Should I try Ultherapy Prime or not? The pros and cons are clearly divided 🔥 (ft. A story from a ...",
+            "channel": "Dr.스킨쉽",
+            "url": "https://www.youtube.com/watch?v=xEknpflV2z4&pp=ygUc7IWA66aw7J2Y7JuQIOyeoOyLpOygkCBLb3JlYQ%3D%3D",
+            "view_text": "79 views"
+          },
+          {
+            "title": "셀린 디옹 키운 남편 앙젤릴 별세 / YTN",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=a3Pl-W_ztmc&pp=ygUc7IWA66aw7J2Y7JuQIOyeoOyLpOygkCBLb3JlYQ%3D%3D",
+            "view_text": "3.8K views"
+          },
+          {
+            "title": "[닥터스킨쉽] 콜라겐 재생의 끝판왕, 포텐자 게임이 시작됩니다 | 포텐자 시술의 모든 것 Q&A | 의사부부의 포텐자 오징어게임#셀린의원#강남피부과#K뷰티#gangnamclinic",
+            "channel": "Dr.스킨쉽",
+            "url": "https://www.youtube.com/watch?v=zrRryTg_AHQ&pp=ygUc7IWA66aw7J2Y7JuQIOyeoOyLpOygkCBLb3JlYQ%3D%3D",
+            "view_text": "143 views"
+          },
+          {
+            "title": "[닥터스킨쉽] 내 몸으로 만드는 가장 안전한 안티에이징, 줄기세포 시술의 모든 것 | 의사부부의 솔직한 피부이야기 #줄기세포 #안티에이징 #스템셀",
+            "channel": "Dr.스킨쉽",
+            "url": "https://www.youtube.com/watch?v=G9rosZkq8UA&pp=ygUc7IWA66aw7J2Y7JuQIOyeoOyLpOygkCBLb3JlYQ%3D%3D",
+            "view_text": "149 views"
+          },
+          {
+            "title": "대부분 모르는 세럼 바를 때 실수 5가지 | 세럼 효과 제대로 보는 방법",
+            "channel": "닥터블랑_예뻐지는비결",
+            "url": "https://www.youtube.com/watch?v=56-s3SCtoQc&pp=ygUc7IWA66aw7J2Y7JuQIOyeoOyLpOygkCBLb3JlYQ%3D%3D",
+            "view_text": "971K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 1,
+  "opportunity_cost_thb": 89500,
+  "opportunity_cost_krw": 3580000
+}

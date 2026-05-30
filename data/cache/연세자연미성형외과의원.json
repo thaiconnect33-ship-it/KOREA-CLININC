@@ -1,16 +1,18 @@
 {
   "query": "연세자연미성형외과의원",
-  "generated_at": "2026-05-28T22:42:28.719Z",
+  "generated_at": "2026-05-29T11:21:01.059Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 584,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "11526468",
+        "name": "연세자연미성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 49,
+        "blog_review_count": 535,
+        "detail_url": "https://m.place.naver.com/place/11526468/home"
       }
     },
     "google_maps": {
@@ -43,78 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 13,
+      "metric_value": 20,
       "extra": {
-        "total_views": 118600,
+        "total_views": 27800,
         "foreign_video_count": 0,
         "lang_breakdown": {
-          "korean": 13,
+          "korean": 20,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
           "english_other": 0
         },
-        "sample_size": 13,
+        "sample_size": 20,
         "top_videos": [
           {
-            "title": "수술을 대체하는 XXX필러가 있다? [#연세메디노블 #반영구필러]",
-            "channel": "연세메디노블 Yonsei Medinoble",
-            "url": "https://www.youtube.com/watch?v=OKZAW_3JY1s&pp=ygU57Jew7IS47J6Q7Jew66-47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "3.3K views"
-          },
-          {
-            "title": "코 수술 후 숨 쉬기가 불편해졌어요!",
-            "channel": "연세코앤이비인후과",
-            "url": "https://www.youtube.com/watch?v=WIZNOHJnGYU&pp=ygU57Jew7IS47J6Q7Jew66-47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "2.2K views"
-          },
-          {
-            "title": "스컬트라,엘란쎄,아테콜 등의 구독자 QNA 1편 [#연세메디노블 #스컬트라 #엘란쎄 #아테콜 #아테센스]",
-            "channel": "연세메디노블 Yonsei Medinoble",
-            "url": "https://www.youtube.com/watch?v=UwGNui3_euc&pp=ygU57Jew7IS47J6Q7Jew66-47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "2.6K views"
-          },
-          {
-            "title": "爱贝芙: 현직 의사가 이야기하는 아테콜의 장점 5가지👍",
-            "channel": "연세메디노블 Yonsei Medinoble",
-            "url": "https://www.youtube.com/watch?v=USS3rqWM5Zs&pp=ygU57Jew7IS47J6Q7Jew66-47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "17K views"
-          },
-          {
-            "title": "스컬트라,엘란쎄,아테콜 등의 구독자 QNA 2편 [#연세메디노블 #스컬트라 #엘란쎄 #아테콜 #아테센스]",
-            "channel": "연세메디노블 Yonsei Medinoble",
-            "url": "https://www.youtube.com/watch?v=xLpJP1uod_o&pp=ygU57Jew7IS47J6Q7Jew66-47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.8K views"
-          },
-          {
-            "title": "반영구 필러 아테콜의 진실과 오해 전부 팩트 체크 해드립니다 👍 [#아테콜 #아테센스 #반영구필러 #필러]",
-            "channel": "연세메디노블 Yonsei Medinoble",
-            "url": "https://www.youtube.com/watch?v=gT18r-S3Bwo&pp=ygU57Jew7IS47J6Q7Jew66-47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "5.7K views"
-          },
-          {
-            "title": "과생착된 지방은 무조건 수술이 답일까?!(feat.지방이식제거주사)",
-            "channel": "Dr.김윤희의 톡톡한 습관",
-            "url": "https://www.youtube.com/watch?v=YTKkW4JlKKc&pp=ygU57Jew7IS47J6Q7Jew66-47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "2.7K views"
-          },
-          {
-            "title": "중안면거상술의 핵심 | 하안검하러 갔더니 중안면거상술 하라고?! #중안면거상술",
-            "channel": "우리성형외과 WOORI beauty TV",
-            "url": "https://www.youtube.com/watch?v=xIeA5-BDfNg&pp=ygU57Jew7IS47J6Q7Jew66-47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "13K views"
-          },
-          {
-            "title": "아테콜필러 사용부위와 부작용,장단점",
+            "title": "눈썹위거상술과 이마축소술 #미간주름교정 #눈썹거상 #신촌성형외과 #눈섭위거상잘하는곳 #연세자연미성형외과 #홍대성형외과 #눈썹위거상잘하는곳",
             "channel": "자연미TV",
-            "url": "https://www.youtube.com/watch?v=hVeIp6US9H4&pp=ygU57Jew7IS47J6Q7Jew66-47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "8.4K views"
+            "url": "https://www.youtube.com/watch?v=QMosKUp8eRs&pp=ygUn7Jew7IS47J6Q7Jew66-47ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "307 views"
           },
           {
-            "title": "함몰유두의교정",
+            "title": "[성형외과의사회] 미간 주름의 효과적인 교정방법 / 연세자연미성형외과 이은정",
+            "channel": "의학채널 비온뒤",
+            "url": "https://www.youtube.com/watch?v=AKxqRALD7uc&pp=ygUn7Jew7IS47J6Q7Jew66-47ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "16K views"
+          },
+          {
+            "title": "눈썹위거상술은 언제하나? #눈썹거상 #눈썹하거상 #미간주름잘하는곳 #신촌성형외과 #홍대성형외과 #은평성형외과 #마포성형외과 #연세자연미성형외과",
+            "channel": "연세자연미",
+            "url": "https://www.youtube.com/watch?v=9j8mqWJH5BM&pp=ygUn7Jew7IS47J6Q7Jew66-47ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "39 views"
+          },
+          {
+            "title": "미간주름 영구제거술 다시보기 #미간주름 #미간주름 영구제거 #눈썹아래거상술 #눈썹위거상술",
+            "channel": "연세자연미",
+            "url": "https://www.youtube.com/watch?v=diKa3rHA0IM&pp=ygUn7Jew7IS47J6Q7Jew66-47ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "174 views"
+          },
+          {
+            "title": "안검황색종  재발을 줄이려면?#연세자연미성형외과 #안검황색종재발 #황색종수술 #황색종콜레스테롤 #신촌성형외과 #홍대성형외과 #안검황색종수술잘하는병원 #안검황색종치료",
             "channel": "자연미TV",
-            "url": "https://www.youtube.com/watch?v=9bJsTI6HuiM&pp=ygU57Jew7IS47J6Q7Jew66-47ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "20K views"
+            "url": "https://www.youtube.com/watch?v=rH8pQlrAgiM&pp=ygUn7Jew7IS47J6Q7Jew66-47ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "208 views"
+          },
+          {
+            "title": "아테콜 부작용은?반영구필러 #자가조직형성 #4세대필러 #연세자연미성형외과 #신촌성형외과 #은평성형외과",
+            "channel": "자연미TV",
+            "url": "https://www.youtube.com/watch?v=x2EFJBHXnc8&pp=ygUn7Jew7IS47J6Q7Jew66-47ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "395 views"
+          },
+          {
+            "title": "상.하안검처짐 동시교정 #연세자연미성형외과 #상안검수술 #눈밑지방재배치 #눈매교정 #상안검성형잘하는곳 #하안검성형잘하는곳 #신촌성형외과 #홍대성형외과 #마포성형외과 #은평성형외과",
+            "channel": "자연미TV",
+            "url": "https://www.youtube.com/watch?v=2KOcY2tX4-I&pp=ygUn7Jew7IS47J6Q7Jew66-47ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "255 views"
+          },
+          {
+            "title": "눈썹아래거상술 측두부리프팅후 3년! #신촌성형외과 #홍대성형외과 #눈썹위치거상",
+            "channel": "연세자연미",
+            "url": "https://www.youtube.com/watch?v=M7zIQC_bQa0&pp=ygUn7Jew7IS47J6Q7Jew66-47ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "31 views"
+          },
+          {
+            "title": "아테콜필러를 이용한 메부리코 교정 #아테콜 #연세자연미성형외과 #자가조직형성 #신촌성형외과 #홍대성형외과 #은평성형외과 #마포성형외과",
+            "channel": "연세자연미",
+            "url": "https://www.youtube.com/watch?v=C8csyUjUkDc&pp=ygUn7Jew7IS47J6Q7Jew66-47ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "21 views"
+          },
+          {
+            "title": "미간주름영구교정  사례분석 #연세자연미성형외과 #미간보톡스 #미간필러 #미간필러부작용 #홍대성형외과 #미간주름잘하는곳#신촌성형외과 #은평성형외과 #마포성형외과 #미간주름재발",
+            "channel": "자연미TV",
+            "url": "https://www.youtube.com/watch?v=SF0Y-Dq2p5w&pp=ygUn7Jew7IS47J6Q7Jew66-47ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "459 views"
           }
         ]
       }
@@ -130,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

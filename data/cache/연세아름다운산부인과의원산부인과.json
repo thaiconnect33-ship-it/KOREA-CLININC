@@ -1,16 +1,18 @@
 {
   "query": "연세아름다운산부인과의원산부인과",
-  "generated_at": "2026-05-28T23:37:26.257Z",
+  "generated_at": "2026-05-29T12:21:33.144Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 748,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "1694125582",
+        "name": "연세아름다운산부인과의원 : 네이버\u001c",
+        "visitor_review_count": 407,
+        "blog_review_count": 341,
+        "detail_url": "https://m.place.naver.com/place/1694125582/home"
       }
     },
     "google_maps": {
@@ -43,78 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 19,
+      "metric_value": 20,
       "extra": {
-        "total_views": 2732896,
+        "total_views": 40400,
         "foreign_video_count": 0,
         "lang_breakdown": {
-          "korean": 19,
+          "korean": 20,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
           "english_other": 0
         },
-        "sample_size": 19,
+        "sample_size": 20,
         "top_videos": [
           {
-            "title": "If you leave a lump on your vulva untreated, it will grow to the size of a fist.",
+            "title": "급찐살,불규칙한 생리주기,심한 생리통,여드름,다모증이 있다면 다낭성 난소증후군을 의심해보세요!!!",
             "channel": "연세아름다운산부인과",
-            "url": "https://www.youtube.com/watch?v=jTABrbv_vYA&pp=ygU87Jew7IS47JWE66aE64uk7Jq07IKw67aA7J246rO87J2Y7JuQ7Yah7Yah7IKw67aA7J246rO8IEtvcmVh",
-            "view_text": "767 views"
+            "url": "https://www.youtube.com/watch?v=PExJ3IyBVE0&pp=ygU27Jew7IS47JWE66aE64uk7Jq07IKw67aA7J246rO87J2Y7JuQ7IKw67aA7J246rO8IEtvcmVh",
+            "view_text": "3.7K"
+          },
+          {
+            "title": "[산부인과 검진] 1년에 한 번씩 이 검사는 필수!!",
+            "channel": "연세아름다운산부인과",
+            "url": "https://www.youtube.com/watch?v=gzj-FvFQ1jY&pp=ygU27Jew7IS47JWE66aE64uk7Jq07IKw67aA7J246rO87J2Y7JuQ7IKw67aA7J246rO8IEtvcmVh",
+            "view_text": "132"
+          },
+          {
+            "title": "사후피임약(응급피임약) 언제 먹어야 효과 있나요?",
+            "channel": "연세아름다운산부인과",
+            "url": "https://www.youtube.com/watch?v=ZAjcMrJMBnk&pp=ygU27Jew7IS47JWE66aE64uk7Jq07IKw67aA7J246rO87J2Y7JuQ7IKw67aA7J246rO8IEtvcmVh",
+            "view_text": "239"
+          },
+          {
+            "title": "질이완증 최신트렌드 완벽분석!",
+            "channel": "연세아름다운산부인과",
+            "url": "https://www.youtube.com/watch?v=tU1wDW7CzRM&pp=ygU27Jew7IS47JWE66aE64uk7Jq07IKw67aA7J246rO87J2Y7JuQ7IKw67aA7J246rO8IEtvcmVh",
+            "view_text": "85"
           },
           {
             "title": "Wasteful OB/GYN Checkups, Must-Check Free Checkups",
             "channel": "연세아름다운산부인과",
-            "url": "https://www.youtube.com/watch?v=3bWBy9JOwzM&pp=ygU87Jew7IS47JWE66aE64uk7Jq07IKw67aA7J246rO87J2Y7JuQ7Yah7Yah7IKw67aA7J246rO8IEtvcmVh",
-            "view_text": "416 views"
+            "url": "https://www.youtube.com/watch?v=3bWBy9JOwzM&pp=ygU27Jew7IS47JWE66aE64uk7Jq07IKw67aA7J246rO87J2Y7JuQ7IKw67aA7J246rO8IEtvcmVh",
+            "view_text": "416"
           },
           {
-            "title": "오르가즘 못 느끼는 70% 여성들 해법이 따로 있다?!",
+            "title": "If you leave a lump on your vulva untreated, it will grow to the size of a fist.",
             "channel": "연세아름다운산부인과",
-            "url": "https://www.youtube.com/watch?v=BzOX-VsRJj4&pp=ygU87Jew7IS47JWE66aE64uk7Jq07IKw67aA7J246rO87J2Y7JuQ7Yah7Yah7IKw67aA7J246rO8IEtvcmVh",
-            "view_text": "1.7K views"
+            "url": "https://www.youtube.com/watch?v=jTABrbv_vYA&pp=ygU27Jew7IS47JWE66aE64uk7Jq07IKw67aA7J246rO87J2Y7JuQ7IKw67aA7J246rO8IEtvcmVh",
+            "view_text": "768"
           },
           {
-            "title": "소음순 성형 할 때 음핵수술 같이 해야 하나요?",
+            "title": "자궁경부암 백신 30대 이후에도 맞아야 할까?",
             "channel": "연세아름다운산부인과",
-            "url": "https://www.youtube.com/watch?v=b8QHce6-BHY&pp=ygU87Jew7IS47JWE66aE64uk7Jq07IKw67aA7J246rO87J2Y7JuQ7Yah7Yah7IKw67aA7J246rO8IEtvcmVh",
-            "view_text": "321 views"
+            "url": "https://www.youtube.com/watch?v=InEdZR1BSI0&pp=ygU27Jew7IS47JWE66aE64uk7Jq07IKw67aA7J246rO87J2Y7JuQ7IKw67aA7J246rO8IEtvcmVh",
+            "view_text": "74"
           },
           {
-            "title": "Guide to a new world, come on, filler",
-            "channel": "병원하는언니오빠",
-            "url": "https://www.youtube.com/watch?v=eiprBUMtpVs&pp=ygU87Jew7IS47JWE66aE64uk7Jq07IKw67aA7J246rO87J2Y7JuQ7Yah7Yah7IKw67aA7J246rO8IEtvcmVh",
-            "view_text": "1K views"
+            "title": "다낭성 난소증후군의 합병증!",
+            "channel": "연세아름다운산부인과",
+            "url": "https://www.youtube.com/watch?v=cFarKGlr8Cw&pp=ygU27Jew7IS47JWE66aE64uk7Jq07IKw67aA7J246rO87J2Y7JuQ7IKw67aA7J246rO8IEtvcmVh",
+            "view_text": "49"
           },
           {
-            "title": "Rejuvenation or Uterine Cancer? - Professor Lee Dae-hyung, Department of Obstetrics and Gynecolog...",
-            "channel": "대구MBC Program",
-            "url": "https://www.youtube.com/watch?v=DkZ7FIwy-JU&pp=ygU87Jew7IS47JWE66aE64uk7Jq07IKw67aA7J246rO87J2Y7JuQ7Yah7Yah7IKw67aA7J246rO8IEtvcmVh",
-            "view_text": "7.6K views"
+            "title": "[대세중 대세 질리프팅]얼굴만 처지는게 아니고 질도 같이 처지는거 알고 계시나요?",
+            "channel": "연세아름다운산부인과",
+            "url": "https://www.youtube.com/watch?v=0kulsC15PEE&pp=ygU27Jew7IS47JWE66aE64uk7Jq07IKw67aA7J246rO87J2Y7JuQ7IKw67aA7J246rO8IEtvcmVh",
+            "view_text": "2.4K"
           },
           {
-            "title": "An obstetrician and gynecologist personally received vaginal tightening laser treatment.",
-            "channel": "숏부인과",
-            "url": "https://www.youtube.com/watch?v=QMIRS_fmaMI&pp=ygU87Jew7IS47JWE66aE64uk7Jq07IKw67aA7J246rO87J2Y7JuQ7Yah7Yah7IKw67aA7J246rO8IEtvcmVh",
-            "view_text": "2.6M views"
-          },
-          {
-            "title": "유방암, 내 가슴은 내가 지킨다 / YTN",
-            "channel": "YTN",
-            "url": "https://www.youtube.com/watch?v=JOJWuH-EH8w&pp=ygU87Jew7IS47JWE66aE64uk7Jq07IKw67aA7J246rO87J2Y7JuQ7Yah7Yah7IKw67aA7J246rO8IEtvcmVh",
-            "view_text": "1.9K views"
-          },
-          {
-            "title": "[기분 좋은 날] 감기로 병원 갈 때 동네 의원과 대학병원 진찰료 차이는? 20200422",
-            "channel": "MBClife",
-            "url": "https://www.youtube.com/watch?v=WNEu0JgUj94&pp=ygU87Jew7IS47JWE66aE64uk7Jq07IKw67aA7J246rO87J2Y7JuQ7Yah7Yah7IKw67aA7J246rO8IEtvcmVh",
-            "view_text": "118 views"
-          },
-          {
-            "title": "여성 생식기계 구조 #해부학입문",
-            "channel": "의대교수의 명쾌한 해부학",
-            "url": "https://www.youtube.com/watch?v=EaIWWhhwV88&pp=ygU87Jew7IS47JWE66aE64uk7Jq07IKw67aA7J246rO87J2Y7JuQ7Yah7Yah7IKw67aA7J246rO8IEtvcmVh",
-            "view_text": "68K views"
+            "title": "[반응성세포변화와 비정형세포] 자궁경부암 검사를 꼭 받아야 하는 이유!",
+            "channel": "연세아름다운산부인과",
+            "url": "https://www.youtube.com/watch?v=eHH8VNBmJ0E&pp=ygU27Jew7IS47JWE66aE64uk7Jq07IKw67aA7J246rO87J2Y7JuQ7IKw67aA7J246rO8IEtvcmVh",
+            "view_text": "151"
           }
         ]
       }
@@ -130,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

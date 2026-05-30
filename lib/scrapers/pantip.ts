@@ -49,30 +49,58 @@ export async function scrapePantip(query: string): Promise<PlatformResult> {
     }
 
     // DOM 에서 토픽 링크들 모으기. nav 메뉴 (/topic/내용...) 와 검색결과 구분 필요.
-    // 검색결과는 보통 /topic/<숫자> 형식.
+    // 검색결과는 보통 /topic/<숫자> 형식. 같은 thread 가 title anchor + info anchor 로 두 번 노출되므로
+    // thread ID 로 dedup, info 컨테이너에서 view 카운트 (마지막 라인) 추출.
     const data = await page.evaluate(() => {
       const anchors = Array.from(
         document.querySelectorAll("a[href*='/topic/']"),
       ) as HTMLAnchorElement[];
-      const seen = new Set<string>();
-      const threads: { title: string; url: string; views: number }[] = [];
+      type T = { title: string; url: string; views: number };
+      const byId = new Map<string, T>();
       for (const a of anchors) {
-        const m = a.href.match(/\/topic\/(\d{5,})/);   // 5자리 이상 숫자만 (실 thread ID)
+        const m = a.href.match(/\/topic\/(\d{5,})(?:\/|$|\?|#)/);
         if (!m) continue;
-        const url = `https://pantip.com/topic/${m[1]}`;
-        if (seen.has(url)) continue;
-        seen.add(url);
-        const title = (a.textContent || a.getAttribute("title") || "").trim().slice(0, 200);
-        // 조회수: 부모 element 의 텍스트 노드에서 추출 시도.
-        let views = 0;
-        const parent = a.closest("li, .pt-lists-item, article, [class*='item']") as HTMLElement | null;
-        if (parent) {
-          const m2 = parent.innerText.match(/([\d,]+)\s*(view|view\s*ครั้ง|ครั้ง)/i);
-          if (m2) views = parseInt(m2[1].replace(/,/g, ""), 10) || 0;
+        const id = m[1];
+        const url = `https://pantip.com/topic/${id}`;
+        const existing = byId.get(id);
+        // title: 가장 긴 textContent 가 진짜 title.
+        const text = (a.textContent || "").trim();
+        if (!existing) byId.set(id, { title: text.slice(0, 200), url, views: 0 });
+        else if (text.length > existing.title.length && !text.startsWith("คห.")) {
+          existing.title = text.slice(0, 200);
         }
-        threads.push({ title, url, views });
+        // view 카운트: pt-list-item__sr__info container 의 마지막 숫자 라인.
+        const info = a.closest("[class*='pt-list-item__sr__info']") as HTMLElement | null;
+        if (info) {
+          const t = info.innerText;
+          // 마지막 줄이 숫자만 (조회수 또는 view 수). 댓글수 패턴 "คห.NN" 은 제외.
+          const lines = t.split("\n").map((l) => l.trim()).filter(Boolean);
+          for (let i = lines.length - 1; i >= 0; i--) {
+            const ln = lines[i];
+            if (/^[\d,]+$/.test(ln)) {
+              const n = parseInt(ln.replace(/,/g, ""), 10);
+              if (!isNaN(n) && n > 0) {
+                const cur = byId.get(id)!;
+                if (n > cur.views) cur.views = n;
+              }
+              break;
+            }
+          }
+        }
+        // fallback: parent item text 의 마지막 숫자.
+        if ((byId.get(id)?.views ?? 0) === 0) {
+          const parent = a.closest("li, .pt-lists-item, article, [class*='item']") as HTMLElement | null;
+          if (parent) {
+            const matches = parent.innerText.match(/(\d{1,3}(?:,\d{3})+|\d+)(?=\s*$)/m);
+            if (matches) {
+              const n = parseInt(matches[1].replace(/,/g, ""), 10);
+              const cur = byId.get(id)!;
+              if (!isNaN(n) && n > cur.views) cur.views = n;
+            }
+          }
+        }
       }
-      return threads;
+      return Array.from(byId.values());
     });
 
     return {

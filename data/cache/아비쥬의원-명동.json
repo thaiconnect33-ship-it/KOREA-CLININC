@@ -1,0 +1,148 @@
+{
+  "query": "아비쥬의원 명동",
+  "generated_at": "2026-05-29T11:43:39.100Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 6611,
+      "extra": {
+        "place_id": "13486335",
+        "name": "아비쥬의원 명동 : 네이버\u001c",
+        "visitor_review_count": 2596,
+        "blog_review_count": 4015,
+        "detail_url": "https://m.place.naver.com/place/13486335/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Abijou Clinic Myeongdong",
+        "rating": 4.9,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 6250,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "[아비쥬의원 명동점] 오시는 길",
+            "channel": "아비쥬의원",
+            "url": "https://www.youtube.com/watch?v=sx3ZWSzreOY&pp=ygUc7JWE67mE7KWs7J2Y7JuQIOuqheuPmSBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "205 views"
+          },
+          {
+            "title": "[ABIJOU] 아비쥬의원 명동점 인테리어ㅣAbijou Clinic MYEONGDONG Interior",
+            "channel": "아비쥬의원",
+            "url": "https://www.youtube.com/watch?v=uf8jxO_NkjQ&pp=ygUc7JWE67mE7KWs7J2Y7JuQIOuqheuPmSBLb3JlYQ%3D%3D",
+            "view_text": "1.8K views"
+          },
+          {
+            "title": "Abijou l Face of Asia, Beauty's Opening",
+            "channel": "아비쥬의원",
+            "url": "https://www.youtube.com/watch?v=ELTYPnev2vo&pp=ygUc7JWE67mE7KWs7J2Y7JuQIOuqheuPmSBLb3JlYQ%3D%3D",
+            "view_text": "423 views"
+          },
+          {
+            "title": "Abijou l Face of Asia, 모델 내원편",
+            "channel": "아비쥬의원",
+            "url": "https://www.youtube.com/watch?v=nm-i-zvdrco&pp=ygUc7JWE67mE7KWs7J2Y7JuQIOuqheuPmSBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "102 views"
+          },
+          {
+            "title": "[JOB DREAM 인터뷰 시리즈] 피부과의 피부관리사 취업 노하우",
+            "channel": "정화예술대학교 취창업지원 CMC",
+            "url": "https://www.youtube.com/watch?v=_UpkjTahIws&pp=ygUc7JWE67mE7KWs7J2Y7JuQIOuqheuPmSBLb3JlYQ%3D%3D",
+            "view_text": "423 views"
+          },
+          {
+            "title": "Abijou Symposium 현장 스케치",
+            "channel": "아비쥬의원",
+            "url": "https://www.youtube.com/watch?v=D365MyKbPaY&pp=ygUc7JWE67mE7KWs7J2Y7JuQIOuqheuPmSBLb3JlYQ%3D%3D",
+            "view_text": "92 views"
+          },
+          {
+            "title": "Abijou l 2026 Symposium",
+            "channel": "아비쥬의원",
+            "url": "https://www.youtube.com/watch?v=L_UWnJE5mUk&pp=ygUc7JWE67mE7KWs7J2Y7JuQIOuqheuPmSBLb3JlYQ%3D%3D",
+            "view_text": "103 views"
+          },
+          {
+            "title": "Abijou l 상담자 세미나",
+            "channel": "아비쥬의원",
+            "url": "https://www.youtube.com/watch?v=OHLQJ5BjRXg&pp=ygUc7JWE67mE7KWs7J2Y7JuQIOuqheuPmSBLb3JlYQ%3D%3D",
+            "view_text": "221 views"
+          },
+          {
+            "title": "Abijou Brand Promotional Film l 브랜딩 필름",
+            "channel": "아비쥬의원",
+            "url": "https://www.youtube.com/watch?v=JtHPypYCr1o&pp=ygUc7JWE67mE7KWs7J2Y7JuQIOuqheuPmSBLb3JlYQ%3D%3D",
+            "view_text": "199 views"
+          },
+          {
+            "title": "내게 딱 맞는 피부 1:1 맞춤 설계의 시작, 상담사 세미나 현장 공개✅",
+            "channel": "아비쥬의원",
+            "url": "https://www.youtube.com/watch?v=kBeru9-w-HI&pp=ygUc7JWE67mE7KWs7J2Y7JuQIOuqheuPmSBLb3JlYQ%3D%3D",
+            "view_text": "172 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

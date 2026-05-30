@@ -1,17 +1,17 @@
 {
   "query": "엔디어트의원",
-  "generated_at": "2026-05-29T05:30:37.045Z",
+  "generated_at": "2026-05-29T10:40:20.618Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 13548,
+      "metric_value": 13562,
       "extra": {
         "place_id": "1082512541",
         "name": "엔디어트의원 : 네이버\u001c",
-        "visitor_review_count": 2019,
-        "blog_review_count": 11529,
+        "visitor_review_count": 2024,
+        "blog_review_count": 11538,
         "detail_url": "https://m.place.naver.com/place/1082512541/home"
       }
     },
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 2405152,
+        "total_views": 3057100,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -61,62 +61,62 @@
           {
             "title": "엔디어트 홍보영상",
             "channel": "BW컨설팅",
-            "url": "https://www.youtube.com/watch?v=IY9AitxW_l8&pp=ygUh7JeU65SU7Ja07Yq47J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCSMLAYcqIYzv",
+            "url": "https://www.youtube.com/watch?v=IY9AitxW_l8&pp=ygUY7JeU65SU7Ja07Yq47J2Y7JuQIEtvcmVh",
             "view_text": "7 views"
           },
           {
-            "title": "5 Dermatological Treatments That Will Make You Satisfied, According to a Gangnam Doctor",
-            "channel": "동네 의사 이상욱",
-            "url": "https://www.youtube.com/watch?v=C2RiYo2QlQs&pp=ygUh7JeU65SU7Ja07Yq47J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "1.3M views"
+            "title": "주사와 약 만으로도 다이어트가 가능할까?! / 다이어트 전문 원장이 말하는 다이어트 관련 궁금증 모두 답변해드립니다.",
+            "channel": "엔디어트의원",
+            "url": "https://www.youtube.com/watch?v=ihdAjXY8NI8&pp=ygUY7JeU65SU7Ja07Yq47J2Y7JuQIEtvcmVh",
+            "view_text": "334 views"
           },
           {
-            "title": "피부과 15년차 상담실장님이 말하는 '피부과 호구' 안되는 법 (추천시술 VS 비추천시술.zip📂)",
-            "channel": "황라희 Hwang Lahee",
-            "url": "https://www.youtube.com/watch?v=tD4qcIvpwyM&pp=ygUh7JeU65SU7Ja07Yq47J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "442K views"
-          },
-          {
-            "title": "문신을 지우고 싶다면, 인라이튼레이저와 엑셀V레이저",
-            "channel": "건강의학전문채널 하이닥",
-            "url": "https://www.youtube.com/watch?v=jvcVrTFLUmc&pp=ygUh7JeU65SU7Ja07Yq47J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "1.2K views"
-          },
-          {
-            "title": "What did you do to your face? 6 treatments that really worked, costing you $500 at the dermatolog...",
-            "channel": "잇츠나라 itisnara",
-            "url": "https://www.youtube.com/watch?v=bGG-Leq2Gvo&pp=ygUh7JeU65SU7Ja07Yq47J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "251K views"
-          },
-          {
-            "title": "효과는 높아지고 통증, 피부손상이 적은 액션",
-            "channel": "연세참고운의원",
-            "url": "https://www.youtube.com/watch?v=s5AgnkmKcN4&pp=ygUh7JeU65SU7Ja07Yq47J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "242 views"
+            "title": "[자막뉴스] 20대 간호사 지옥으로 이끈 국립대병원 40대 의사 / KBS 2023.10.27.",
+            "channel": "KBS News",
+            "url": "https://www.youtube.com/watch?v=CB9OrUqXWeU&pp=ygUY7JeU65SU7Ja07Yq47J2Y7JuQIEtvcmVh",
+            "view_text": "670K views"
           },
           {
             "title": "인모드 시술 효과가 금방 사라진다? 그 이유 설명해드립니다",
             "channel": "Dr.Lima닥터리마",
-            "url": "https://www.youtube.com/watch?v=hi-nkS2RZV4&pp=ygUh7JeU65SU7Ja07Yq47J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=hi-nkS2RZV4&pp=ygUY7JeU65SU7Ja07Yq47J2Y7JuQIEtvcmVh",
             "view_text": "103K views"
+          },
+          {
+            "title": "5 Dermatological Treatments That Will Make You Satisfied, According to a Gangnam Doctor",
+            "channel": "동네 의사 이상욱",
+            "url": "https://www.youtube.com/watch?v=C2RiYo2QlQs&pp=ygUY7JeU65SU7Ja07Yq47J2Y7JuQIEtvcmVh",
+            "view_text": "1.3M views"
+          },
+          {
+            "title": "[미국 대학을 만나다] 리버럴아츠 대학 부동의 1위, 윌리엄스 칼리지",
+            "channel": "코리아 뷰파인더",
+            "url": "https://www.youtube.com/watch?v=WmFuFvd7rz0&pp=ygUY7JeU65SU7Ja07Yq47J2Y7JuQIEtvcmVh",
+            "view_text": "341 views"
+          },
+          {
+            "title": "[vlog] 인간 인모드 재희의 관리의 날 브이로그 l 인모드 QnA + Before & After l 필라테스 '등록'만 하기",
+            "channel": "심재희",
+            "url": "https://www.youtube.com/watch?v=2jC0kjjrMsg&pp=ygUY7JeU65SU7Ja07Yq47J2Y7JuQIEtvcmVh",
+            "view_text": "116K views"
           },
           {
             "title": "[김민서 X 에스투엔디] 건조한 각질 피부엔 고민없이 생크림필 추천",
             "channel": "에스투엔디 S2ND",
-            "url": "https://www.youtube.com/watch?v=5ELXms9yeJE&pp=ygUh7JeU65SU7Ja07Yq47J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=5ELXms9yeJE&pp=ygUY7JeU65SU7Ja07Yq47J2Y7JuQIEtvcmVh",
             "view_text": "105 views"
           },
           {
-            "title": "[ 외질혜 X 에스투엔디 ] 수분 가득 생크림필링 추천!",
-            "channel": "에스투엔디 S2ND",
-            "url": "https://www.youtube.com/watch?v=Ldo495T9liE&pp=ygUh7JeU65SU7Ja07Yq47J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "290 views"
+            "title": "피부과 15년차 상담실장님이 말하는 '피부과 호구' 안되는 법 (추천시술 VS 비추천시술.zip📂)",
+            "channel": "황라희 Hwang Lahee",
+            "url": "https://www.youtube.com/watch?v=tD4qcIvpwyM&pp=ygUY7JeU65SU7Ja07Yq47J2Y7JuQIEtvcmVh",
+            "view_text": "442K views"
           },
           {
-            "title": "리뉴미피부과 브이빔레이저 renewme skin clinic V-beam laser",
-            "channel": "리뉴미피부과 (피부과전문의)",
-            "url": "https://www.youtube.com/watch?v=H5PNccJ6-f4&pp=ygUh7JeU65SU7Ja07Yq47J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "4.4K views"
+            "title": "관리Vlog❤️ 코코스킨앤바디에서 생크림필로 밝고 환한 피부로 관리하기!",
+            "channel": "반진tv",
+            "url": "https://www.youtube.com/watch?v=wUknO7sGwyw&pp=ygUY7JeU65SU7Ja07Yq47J2Y7JuQIEtvcmVh",
+            "view_text": "622 views"
           }
         ]
       }

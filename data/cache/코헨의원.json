@@ -1,6 +1,6 @@
 {
   "query": "코헨의원",
-  "generated_at": "2026-05-28T23:17:51.558Z",
+  "generated_at": "2026-05-29T12:00:15.687Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -18,11 +18,11 @@
     "google_maps": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 5,
+      "metric_value": 0,
       "extra": {
-        "name": "코헨성형외과",
-        "rating": 3.2,
-        "total_reviews": 5,
+        "name": "Results",
+        "rating": 4.9,
+        "total_reviews": 0,
         "sample_size": 6,
         "foreign_language_reviews": 6,
         "lang_breakdown": {
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 1130495,
+        "total_views": 1129296,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -59,64 +59,64 @@
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "[코헨성형외과]  박귀호원장님과 상담하기 #코성형",
-            "channel": "코헨성형외과",
-            "url": "https://www.youtube.com/watch?v=Zx7_ZQU_-0k&pp=ygUe7L2U7Zeo7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "557 views"
-          },
-          {
-            "title": "[삼성동코헨 ]코성형수술잘하는병원 코헨성형외과",
-            "channel": "khpark2580",
-            "url": "https://www.youtube.com/watch?v=bTc68-Urz1E&pp=ygUe7L2U7Zeo7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "460 views"
-          },
-          {
             "title": "코성형수술잘하는곳, 코헨성형외과 도전신데렐라",
             "channel": "khpark2580",
-            "url": "https://www.youtube.com/watch?v=dhxk92iHYfM&pp=ygUe7L2U7Zeo7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=dhxk92iHYfM&pp=ygUS7L2U7Zeo7J2Y7JuQIEtvcmVh",
             "view_text": "16K views"
           },
           {
-            "title": "코성형전문병원*코헨성형외과",
-            "channel": "khpark2580",
-            "url": "https://www.youtube.com/watch?v=rwGW2kZIVgE&pp=ygUe7L2U7Zeo7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "430 views"
+            "title": "[코수술 Q&A] 역대급 예쁜 코..❤️ 정말 전~~~부 알려드릴게요‼️",
+            "channel": "희재 HEEJAE",
+            "url": "https://www.youtube.com/watch?v=Bx3Z7oxm0JQ&pp=ygUS7L2U7Zeo7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "827K views"
           },
           {
-            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
-            "channel": "JTBC News",
-            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUe7L2U7Zeo7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1M views"
+            "title": "[별성형외과] 코재수술유명한곳 백형익원장님이 말하는 코재수술의 모든 것! 코재수술잘하는병원 인터뷰",
+            "channel": "별성형외과",
+            "url": "https://www.youtube.com/watch?v=7M_oFKdTInI&pp=ygUS7L2U7Zeo7J2Y7JuQIEtvcmVh",
+            "view_text": "862 views"
           },
           {
             "title": "압구정역성형외과 압구정라인컬처",
             "channel": "james KIN",
-            "url": "https://www.youtube.com/watch?v=w6PHDFj6akI&pp=ygUe7L2U7Zeo7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=w6PHDFj6akI&pp=ygUS7L2U7Zeo7J2Y7JuQIEtvcmVh",
             "view_text": "32 views"
           },
           {
-            "title": "코코아성형외과 코성형 매부리코성형",
-            "channel": "코코아성형외과의원",
-            "url": "https://www.youtube.com/watch?v=OHLDfC8G0aM&pp=ygUe7L2U7Zeo7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1K views"
+            "title": "sinclair RISE selfintroduce 소개영상 공개",
+            "channel": "강남뷰티성형외과Gnbeauty Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=6tjw1Fw9OTc&pp=ygUS7L2U7Zeo7J2Y7JuQIEtvcmVh",
+            "view_text": "1.4K views"
           },
           {
-            "title": "충전! 행복+ 코성형VS코필러",
-            "channel": "메디컬TV MedicalTV",
-            "url": "https://www.youtube.com/watch?v=GVzBL2f1A-U&pp=ygUe7L2U7Zeo7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "3.5K views"
-          },
-          {
-            "title": "코재수술, 자가진피 코성형",
-            "channel": "Sooeyon Han",
-            "url": "https://www.youtube.com/watch?v=hzNcxDwsa98&pp=ygUe7L2U7Zeo7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.6K views"
+            "title": "코재수술잘하는곳 유명한병원 코재수술성형외과 후기 강남코재수술",
+            "channel": "렉스 스토리",
+            "url": "https://www.youtube.com/watch?v=7SwXcjKhThI&pp=ygUS7L2U7Zeo7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "236 views"
           },
           {
             "title": "압구정-[모티브성형외과]-코성형잘하기로 유명한 추천병원",
             "channel": "paradox734",
-            "url": "https://www.youtube.com/watch?v=AX6UjonDpvw&pp=ygUe7L2U7Zeo7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=AX6UjonDpvw&pp=ygUS7L2U7Zeo7J2Y7JuQIEtvcmVh",
             "view_text": "791 views"
+          },
+          {
+            "title": "코끝성형비용 가격 코끝수술전후 유명한병원 코성형잘하는곳 자연스러운코",
+            "channel": "렉스 스토리",
+            "url": "https://www.youtube.com/watch?v=mq6XxB8QciE&pp=ygUS7L2U7Zeo7J2Y7JuQIEtvcmVh",
+            "view_text": "2.5K views"
+          },
+          {
+            "title": "\"트럼프, 인종차별주의자·사기꾼\"…미국 의회 폭로 파문 / SBS",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=_zmIZuID2Kc&pp=ygUS7L2U7Zeo7J2Y7JuQIEtvcmVh",
+            "view_text": "1.2K views"
+          },
+          {
+            "title": "코재수술성형외과 코재수술병원 유명한곳 코재수술잘하는병원",
+            "channel": "렉스 스토리",
+            "url": "https://www.youtube.com/watch?v=0PxPC5pkQnM&pp=ygUS7L2U7Zeo7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "41 views"
           }
         ]
       }
@@ -132,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

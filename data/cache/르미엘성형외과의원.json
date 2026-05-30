@@ -1,16 +1,18 @@
 {
   "query": "르미엘성형외과의원",
-  "generated_at": "2026-05-28T22:59:41.331Z",
+  "generated_at": "2026-05-29T11:39:49.994Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 1409,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "1760780877",
+        "name": "르미엘성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 287,
+        "blog_review_count": 1122,
+        "detail_url": "https://m.place.naver.com/place/1760780877/home"
       }
     },
     "google_maps": {
@@ -18,16 +20,16 @@
       "metric_label": "리뷰",
       "metric_value": 9,
       "extra": {
-        "name": "Results",
+        "name": "Le Miel Plastic Surgry Clinic Main Branch",
         "rating": 4.6,
         "total_reviews": 9,
-        "sample_size": 8,
-        "foreign_language_reviews": 8,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 8
+          "english_other": 0
         }
       }
     },
@@ -43,9 +45,80 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 0,
+      "metric_value": 20,
       "extra": {
-        "note": "결과 없음"
+        "total_views": 36844,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "[병원 현장 LIVE] 르미엘 성형외과에 가다! (우은경 원장&차종은PD)",
+            "channel": "의학채널 비온뒤",
+            "url": "https://www.youtube.com/watch?v=EjdL62ARrCU&pp=ygUh66W066-47JeY7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "2.5K views"
+          },
+          {
+            "title": "르미엘성형외과 오시는 길",
+            "channel": "르미엘TV",
+            "url": "https://www.youtube.com/watch?v=NF00yh4m5AQ&pp=ygUh66W066-47JeY7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "136 views"
+          },
+          {
+            "title": "마법같은 동안의 비결, 지방이식-르미엘 성형외과 우은경 원장&차종은pd",
+            "channel": "의학채널 비온뒤",
+            "url": "https://www.youtube.com/watch?v=iyW9YGv6D3U&pp=ygUh66W066-47JeY7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "8K views"
+          },
+          {
+            "title": "내 흉터, 없앨 수 있을까?  여러분이 가진 흉터는 켈로이드가 아닐 가능성이 높습니다! 흉터 완전 정복",
+            "channel": "르미엘TV",
+            "url": "https://www.youtube.com/watch?v=f6cUDnRQeX4&pp=ygUh66W066-47JeY7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.3K views"
+          },
+          {
+            "title": "안면비대칭, 수술없이 치료하는 법",
+            "channel": "르미엘TV",
+            "url": "https://www.youtube.com/watch?v=gqYdhNXcPxA&pp=ygUh66W066-47JeY7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "256 views"
+          },
+          {
+            "title": "[성형외과 LIVE] ‘무너진 턱 라인 살리기’ feat. 인모드 (르미엘성형외과 우은경 & 차종은PD)",
+            "channel": "의학채널 비온뒤",
+            "url": "https://www.youtube.com/watch?v=2G3W1IlmxgI&pp=ygUh66W066-47JeY7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "2.8K views"
+          },
+          {
+            "title": "나 혹시...내성일까? 보톡스, 맞아도 효과 없을땐? l 사각턱보톡스 주름보톡스 내성 안생기는 예방법",
+            "channel": "르미엘TV",
+            "url": "https://www.youtube.com/watch?v=1iudlaLgMuU&pp=ygUh66W066-47JeY7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "238 views"
+          },
+          {
+            "title": "올 여름엔 꼭! 민소매를 입고싶다면 받아야할 필수시술 TOP3",
+            "channel": "르미엘TV",
+            "url": "https://www.youtube.com/watch?v=VTgE13jB8EM&pp=ygUh66W066-47JeY7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "212 views"
+          },
+          {
+            "title": "[인모드리프팅] 투턱왕탈출기2 l 인모드 포르마, 제네시스 l 이중턱리프팅 l 인모드3단계",
+            "channel": "르미엘TV",
+            "url": "https://www.youtube.com/watch?v=26CY4lMdwgM&pp=ygUh66W066-47JeY7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "401 views"
+          },
+          {
+            "title": "위아래로 통통한 마카롱 같은 눈!  눈두덩이 지방 제거&앙코르눈밑지 같이 할 수 있을까?",
+            "channel": "르미엘TV",
+            "url": "https://www.youtube.com/watch?v=wbMtuT35Vjs&pp=ygUh66W066-47JeY7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "317 views"
+          }
+        ]
       }
     },
     "xiaohongshu": {
@@ -59,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 4,
-  "opportunity_cost_thb": 96000,
-  "opportunity_cost_krw": 3840000
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
 }

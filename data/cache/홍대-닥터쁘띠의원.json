@@ -1,16 +1,16 @@
 {
   "query": "홍대 닥터쁘띠의원",
-  "generated_at": "2026-05-28T22:54:30.613Z",
+  "generated_at": "2026-05-29T11:34:09.995Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 4435,
+      "metric_value": 4436,
       "extra": {
         "place_id": "1451443807",
         "name": "홍대 닥터쁘띠의원 : 네이버\u001c",
-        "visitor_review_count": 619,
+        "visitor_review_count": 620,
         "blog_review_count": 3816,
         "detail_url": "https://m.place.naver.com/place/1451443807/home"
       }
@@ -20,16 +20,16 @@
       "metric_label": "리뷰",
       "metric_value": 0,
       "extra": {
-        "name": "Results",
+        "name": "닥터쁘띠의원 홍대점 | Dr. Petit Clinic Hongdae | ドクタープチ医院 弘大店 | 弘大朵戈芙蒂 | Dermatology near me | 皮膚科近く | 附近皮膚科 | 朵戈芙蒂弘大",
         "rating": 4.9,
         "total_reviews": 0,
-        "sample_size": 8,
-        "foreign_language_reviews": 8,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 8
+          "english_other": 0
         }
       }
     },
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 5433084,
+        "total_views": 5482966,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -61,62 +61,62 @@
           {
             "title": "피부미용클리닉 대표원장이 알려주는 '얼굴 전체 미백'의 비밀, BBL 레이저 (잡티, 홍조, 칙칙한 피부톤 동시 개선)",
             "channel": "아름다운 나를 위해, 닥터오",
-            "url": "https://www.youtube.com/watch?v=_-7zmoZalmM&pp=ygUo7ZmN64yAIOuLpe2EsOyBmOudoOydmOybkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "url": "https://www.youtube.com/watch?v=_-7zmoZalmM&pp=ygUf7ZmN64yAIOuLpe2EsOyBmOudoOydmOybkCBLb3JlYQ%3D%3D",
             "view_text": "432 views"
+          },
+          {
+            "title": "솔직히 말씀드리면, 병입니다. 미스코리아 심사위원이 사람을 볼 때 하는 생각?",
+            "channel": "뷰닥터의 페이스아이디",
+            "url": "https://www.youtube.com/watch?v=2gHaCg_3AbI&pp=ygUf7ZmN64yAIOuLpe2EsOyBmOudoOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "366 views"
           },
           {
             "title": "[단독] 강남 성형외과에 '분통'…\"근육 썩고 사경 헤맸다\" / SBS 8뉴스",
             "channel": "SBS 뉴스",
-            "url": "https://www.youtube.com/watch?v=svfX3-lNpIw&pp=ygUo7ZmN64yAIOuLpe2EsOyBmOudoOydmOybkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "url": "https://www.youtube.com/watch?v=svfX3-lNpIw&pp=ygUf7ZmN64yAIOuLpe2EsOyBmOudoOydmOybkCBLb3JlYQ%3D%3D",
             "view_text": "2.4M views"
-          },
-          {
-            "title": "홍부부의 '그것이 알고 싶다'/홍대닥터와 홍대마녀를 소개합니다./Hong Boo Boo TV",
-            "channel": "피부는 홍부부",
-            "url": "https://www.youtube.com/watch?v=NuAXl9Fs9hM&pp=ygUo7ZmN64yAIOuLpe2EsOyBmOudoOydmOybkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
-            "view_text": "468 views"
-          },
-          {
-            "title": "속부터 빛이 나는 얼굴 형광등, 스피드한 색소 치료!!",
-            "channel": "쁘띠팩토리 PETIT  factory",
-            "url": "https://www.youtube.com/watch?v=NTzkgo5NUhw&pp=ygUo7ZmN64yAIOuLpe2EsOyBmOudoOydmOybkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
-            "view_text": "26K views"
-          },
-          {
-            "title": "#닥터포유홍대 #합정역클라리티 #피부색소질환 치료",
-            "channel": "닥터포유의원_네트워크",
-            "url": "https://www.youtube.com/watch?v=LuLNm3jWM50&pp=ygUo7ZmN64yAIOuLpe2EsOyBmOudoOydmOybkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
-            "view_text": "129 views"
-          },
-          {
-            "title": "납작이마가 고민이라면 이마필러로 얼굴라인 완성! 톡스앤필 이마필러",
-            "channel": "정콘TV",
-            "url": "https://www.youtube.com/watch?v=549zpHfsk70&pp=ygUo7ZmN64yAIOuLpe2EsOyBmOudoOydmOybkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
-            "view_text": "81 views"
-          },
-          {
-            "title": "내 이마도 '이마필러'로 이뻐질까? + 이마필러 시술전후",
-            "channel": "홍대유앤미 고성균tv",
-            "url": "https://www.youtube.com/watch?v=x0C4JG4Bd20&pp=ygUo7ZmN64yAIOuLpe2EsOyBmOudoOydmOybkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
-            "view_text": "191 views"
           },
           {
             "title": "[영한닥터] 2018 실리프팅의 모든것",
             "channel": "소셜닥터스",
-            "url": "https://www.youtube.com/watch?v=DgstOn84LO0&pp=ygUo7ZmN64yAIOuLpe2EsOyBmOudoOydmOybkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
+            "url": "https://www.youtube.com/watch?v=DgstOn84LO0&pp=ygUf7ZmN64yAIOuLpe2EsOyBmOudoOydmOybkCBLb3JlYQ%3D%3D",
             "view_text": "148 views"
+          },
+          {
+            "title": "홍부부의 '그것이 알고 싶다'/홍대닥터와 홍대마녀를 소개합니다./Hong Boo Boo TV",
+            "channel": "피부는 홍부부",
+            "url": "https://www.youtube.com/watch?v=NuAXl9Fs9hM&pp=ygUf7ZmN64yAIOuLpe2EsOyBmOudoOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "468 views"
+          },
+          {
+            "title": "금손 고성균원장이 아내에게 자주 해주는 실리프팅과 민트실리프팅의 모든것!! (실리프팅의 효과/부작용/주의사항)",
+            "channel": "홍대유앤미 고성균tv",
+            "url": "https://www.youtube.com/watch?v=FxHwRcRDp8k&pp=ygUf7ZmN64yAIOuLpe2EsOyBmOudoOydmOybkCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "358 views"
           },
           {
             "title": "채널 오픈🥳금손 고성균 원장은 누구인가?! ( feat. 레이저리프팅? vs 실리프팅?? )",
             "channel": "홍대유앤미 고성균tv",
-            "url": "https://www.youtube.com/watch?v=3adZ2s-2AIM&pp=ygUo7ZmN64yAIOuLpe2EsOyBmOudoOydmOybkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
-            "view_text": "910 views"
+            "url": "https://www.youtube.com/watch?v=3adZ2s-2AIM&pp=ygUf7ZmN64yAIOuLpe2EsOyBmOudoOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "911 views"
           },
           {
-            "title": "어려지는 필러 앞광대 필러, 시술전 고려할 사항은?",
-            "channel": "홍대유앤미 고성균tv",
-            "url": "https://www.youtube.com/watch?v=p2jVcMcN4do&pp=ygUo7ZmN64yAIOuLpe2EsOyBmOudoOydmOybkO2UvOu2gOqzvCBLb3JlYQ%3D%3D",
-            "view_text": "1.3K views"
+            "title": "[주름개선]안면거상과 미니거상의 차이, 팔자주름 없애는 수술 등 주름개선 관련사항을 O,X문제로 같이 풀어봐요! [JW정원성형외과]",
+            "channel": "JW정원성형외과",
+            "url": "https://www.youtube.com/watch?v=KuGtcyglsOY&pp=ygUf7ZmN64yAIOuLpe2EsOyBmOudoOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "22K views"
+          },
+          {
+            "title": "#닥터포유홍대 #합정역클라리티 #피부색소질환 치료",
+            "channel": "닥터포유의원_네트워크",
+            "url": "https://www.youtube.com/watch?v=LuLNm3jWM50&pp=ygUf7ZmN64yAIOuLpe2EsOyBmOudoOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "129 views"
+          },
+          {
+            "title": "뷰티 닥터의 홈케어 루틴 총정리! 이 '루틴'이면 진짜 피부 좋아집니다!",
+            "channel": "lovely오블리주",
+            "url": "https://www.youtube.com/watch?v=5cF95d46N6U&pp=ygUf7ZmN64yAIOuLpe2EsOyBmOudoOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "20K views"
           }
         ]
       }
@@ -132,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 4,
-  "opportunity_cost_thb": 106000,
-  "opportunity_cost_krw": 4240000
+  "global_score": 0,
+  "opportunity_cost_thb": 110000,
+  "opportunity_cost_krw": 4400000
 }

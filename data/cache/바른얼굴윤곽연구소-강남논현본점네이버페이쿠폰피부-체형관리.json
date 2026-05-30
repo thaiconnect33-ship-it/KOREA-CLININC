@@ -1,6 +1,6 @@
 {
   "query": "바른얼굴윤곽연구소 강남논현본점네이버페이쿠폰피부,체형관리",
-  "generated_at": "2026-05-29T00:18:55.567Z",
+  "generated_at": "2026-05-29T13:06:06.309Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -59,12 +59,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

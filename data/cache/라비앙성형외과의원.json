@@ -1,6 +1,6 @@
 {
   "query": "라비앙성형외과의원",
-  "generated_at": "2026-05-29T00:22:10.547Z",
+  "generated_at": "2026-05-29T13:09:41.832Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -23,13 +23,13 @@
         "name": "Lavian Plastic Surgery Clinic",
         "rating": 4.8,
         "total_reviews": 129,
-        "sample_size": 0,
-        "foreign_language_reviews": 0,
+        "sample_size": 21,
+        "foreign_language_reviews": 21,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 0
+          "english_other": 21
         }
       }
     },
@@ -45,77 +45,77 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 20,
+      "metric_value": 19,
       "extra": {
-        "total_views": 296365,
+        "total_views": 582971,
         "foreign_video_count": 0,
         "lang_breakdown": {
-          "korean": 20,
+          "korean": 19,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
           "english_other": 0
         },
-        "sample_size": 20,
+        "sample_size": 19,
         "top_videos": [
           {
             "title": "20년 동안 수천 명을 집도한 성형외과 의사의 만족도 높이는 노하우",
             "channel": "라비앙 성형외과",
-            "url": "https://www.youtube.com/watch?v=4GOzqsKx1X0&pp=ygUt652867mE7JWZ7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=4GOzqsKx1X0&pp=ygUh652867mE7JWZ7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "23K views"
-          },
-          {
-            "title": "[안면거상수술 전 필수체크] 흉터, 지그재그 절개, 동안페이스의 비밀! 핵심만 담았다!",
-            "channel": "라비앙 성형외과",
-            "url": "https://www.youtube.com/watch?v=kIcEZJp_O-I&pp=ygUt652867mE7JWZ7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "6K views"
           },
           {
             "title": "[안면윤곽끝장내기] 제 1강. 안면윤곽 수술의 종류와 개념 정리와 성공 노하우까지~ ( 광대축소, 사각턱, 턱끝)",
             "channel": "라비앙 성형외과",
-            "url": "https://www.youtube.com/watch?v=fcZrIVyGZuk&pp=ygUt652867mE7JWZ7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=fcZrIVyGZuk&pp=ygUh652867mE7JWZ7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
             "view_text": "4.5K views"
+          },
+          {
+            "title": "광대뼈 축소 수술 후 얼굴이 달라진 이유!?😂🙅‍♂️",
+            "channel": "라비앙 성형외과",
+            "url": "https://www.youtube.com/watch?v=-c8qg9IwolE&pp=ygUh652867mE7JWZ7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "2.2K views"
+          },
+          {
+            "title": "안면윤곽 나는 미인일까?? 이쁜 얼굴 알아보자!~ 💖💖💖",
+            "channel": "라비앙 성형외과",
+            "url": "https://www.youtube.com/watch?v=fWSNJPJqk4Q&pp=ygUh652867mE7JWZ7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "413K views"
           },
           {
             "title": "[안면윤곽끝장내기] 제 9강. 광대, 사각턱, 턱끝, 안면윤곽 수술에 효과가 있을 얼굴인지 알아보는 자가 진단법",
             "channel": "라비앙 성형외과",
-            "url": "https://www.youtube.com/watch?v=Sh7mU7xOv0o&pp=ygUt652867mE7JWZ7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=Sh7mU7xOv0o&pp=ygUh652867mE7JWZ7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "1.9K views"
+          },
+          {
+            "title": "[안면거상수술 전 필수체크] 흉터, 지그재그 절개, 동안페이스의 비밀! 핵심만 담았다!",
+            "channel": "라비앙 성형외과",
+            "url": "https://www.youtube.com/watch?v=kIcEZJp_O-I&pp=ygUh652867mE7JWZ7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "6K views"
           },
           {
             "title": "[안면윤곽끝장내기] 제 7강. 실제 CT를 통해 살펴보는 광대뼈 축소술의 부작용 (feat. 볼처짐, 불유합)",
             "channel": "라비앙 성형외과",
-            "url": "https://www.youtube.com/watch?v=iuaLJpHB-14&pp=ygUt652867mE7JWZ7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "url": "https://www.youtube.com/watch?v=iuaLJpHB-14&pp=ygUh652867mE7JWZ7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "11K views"
           },
           {
-            "title": "[안면윤곽수술 Q&A 2편] 비대칭 교정부터 관자놀이 축소, 고정나사 문제까지! 자주 묻는 질문 2탄 🙋 안면윤곽, 뭐든지 물어보세요!",
+            "title": "윤곽수술 전 꼭 확인하세요: 나도 윤곽수술 효과가 있을까? 🔍 ｜효과 없는 케이스, 3D CT 분석, 붓기, 골든타임 관리법",
             "channel": "라비앙 성형외과",
-            "url": "https://www.youtube.com/watch?v=wxD9h-URoEc&pp=ygUt652867mE7JWZ7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.5K views"
+            "url": "https://www.youtube.com/watch?v=0O4oxCQU9NU&pp=ygUh652867mE7JWZ7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.7K views"
           },
           {
-            "title": "이중고정? 상방고정? NO!!! 빈틈없는 후방광대",
+            "title": "안면윤곽에 있어 턱끝이 중요한 이유!?🌟😊",
             "channel": "라비앙 성형외과",
-            "url": "https://www.youtube.com/watch?v=t6zi3hW2RP0&pp=ygUt652867mE7JWZ7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "3.9K views"
-          },
-          {
-            "title": "[거상수술끝장내기] 제 2강. 이마거상술 종류와 특징, 이마축소술 과의 비교",
-            "channel": "라비앙 성형외과",
-            "url": "https://www.youtube.com/watch?v=oJQw1lQxQDE&pp=ygUt652867mE7JWZ7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.2K views"
-          },
-          {
-            "title": "성형외과 마취_ 안전한 선택을 위한 필수 영상!!💖💖",
-            "channel": "라비앙 성형외과",
-            "url": "https://www.youtube.com/watch?v=zIESEkQpvxw&pp=ygUt652867mE7JWZ7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "60K views"
+            "url": "https://www.youtube.com/watch?v=Hn5m1lW8qAI&pp=ygUh652867mE7JWZ7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "83K views"
           },
           {
             "title": "[라이트 안면윤곽]깎아도 깎아도 작아지지 않는 얼굴, 뼈는 문제가 아니었다?!",
             "channel": "라비앙 성형외과",
-            "url": "https://www.youtube.com/watch?v=uO8dY1l-nPI&pp=ygUt652867mE7JWZ7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=uO8dY1l-nPI&pp=ygUh652867mE7JWZ7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "965 views"
           }
         ]
@@ -132,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 0,
-  "opportunity_cost_thb": 100000,
-  "opportunity_cost_krw": 4000000
+  "global_score": 11,
+  "opportunity_cost_thb": 89500,
+  "opportunity_cost_krw": 3580000
 }

@@ -1,16 +1,18 @@
 {
   "query": "베리굿성형외과의원",
-  "generated_at": "2026-05-29T00:21:02.431Z",
+  "generated_at": "2026-05-29T13:08:28.339Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 1571,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "1941703399",
+        "name": "베리굿성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 658,
+        "blog_review_count": 913,
+        "detail_url": "https://m.place.naver.com/place/1941703399/home"
       }
     },
     "google_maps": {
@@ -45,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 38793,
+        "total_views": 4409919,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -57,64 +59,64 @@
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "[태성형외과] 공개클리닉 프로필성형 부산 태성형외과 김기태원장 20081208",
-            "channel": "kitae kim",
-            "url": "https://www.youtube.com/watch?v=0pPRnS3LvLA&pp=ygUz67Kg66as6rW_7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "139 views"
+            "title": "#임영민원장 안면거상술) 베리굿성형외과 항노화수술풀스토리-김순희님 1편 / Facelift , Full video of anti-aging surgery review,",
+            "channel": "베리굿성형외과 VG Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=zfjSlNn6chc&pp=ygUh67Kg66as6rW_7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "25K"
           },
           {
-            "title": "예뻐진 사람들이 추천하는 디에이 성형외과",
-            "channel": "디에이성형외과 D.A Plastic Surgery Korea",
-            "url": "https://www.youtube.com/watch?v=UvwqdfVCXKo&pp=ygUz67Kg66as6rW_7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "310 views"
+            "title": "#임영민원장 성형vlog/성형외과 대표원장 눈밑지/지방흡입 수술 직접 한번 받아보다😎😎💖-1편",
+            "channel": "베리굿성형외과 VG Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=JjIR33r5PvI&pp=ygUh67Kg66as6rW_7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "7.7K"
           },
           {
-            "title": "[성형외과추천] 클로엔성형외과 1분소.개.",
-            "channel": "클로엔",
-            "url": "https://www.youtube.com/watch?v=36vHLbWKMbs&pp=ygUz67Kg66as6rW_7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "282 views"
+            "title": "(ENG CHN SUB)안면윤곽 광대축소술 사각턱축소술 수술 후 주의사항 베리굿성형외과 임영민 박사님",
+            "channel": "베리굿성형외과 VG Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=mWnMGrM3r_0&pp=ygUh67Kg66as6rW_7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "890"
           },
           {
-            "title": "트임의 종류와 효과 총정리!  ㅣ가미성형외과 박건욱 원장",
-            "channel": "가미성형외과",
-            "url": "https://www.youtube.com/watch?v=jNd5hUrPGrU&pp=ygUz67Kg66as6rW_7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "3.6K views"
+            "title": "#베리굿성형외과  💥충격💥이게 어딜봐서 50대야? 20대 인줄🤷‍♀️🤷‍♀️ 엄마의청춘은 지금부터✨",
+            "channel": "베리굿성형외과 VG Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=ermstnmTV-o&pp=ygUh67Kg66as6rW_7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.1K"
           },
           {
-            "title": "안면거상수술 절개범위와 흉터유무, 통증 정도는? [안면거상술잘하는곳 - 시너지성형외과]",
-            "channel": "시너지성형외과",
-            "url": "https://www.youtube.com/watch?v=g-r7zVmYkjM&pp=ygUz67Kg66as6rW_7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.4K views"
+            "title": "#임영민원장 가슴재수술 대세 보형물,사람들이 가슴재수술을 하는 이유!?🤔요새 선호하는 대세가슴보형물은 어떤것이있을까?🧐",
+            "channel": "베리굿성형외과 VG Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=smX2w2jGWR4&pp=ygUh67Kg66as6rW_7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "343"
           },
           {
-            "title": "안면거상술하면 안 되는 사람도 있나요? 정경인 원장님의 답변은👀??",
-            "channel": "시너지성형외과",
-            "url": "https://www.youtube.com/watch?v=tIlxTrMrCXA&pp=ygUz67Kg66as6rW_7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "621 views"
+            "title": "#베리굿성형외과 공식미남 박상욱원장님 소개영상",
+            "channel": "베리굿성형외과 VG Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=rp6d49ZHZKY&pp=ygUh67Kg66as6rW_7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "958"
           },
           {
-            "title": "K성형외과병원,닥터케이티비,닥터KTV - 첫 병원급 성형외과, K성형외과병원 소개",
-            "channel": "닥 터 K - T V D r . K",
-            "url": "https://www.youtube.com/watch?v=N9f3ajovb30&pp=ygUz67Kg66as6rW_7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "432 views"
+            "title": "#임영민원장 베리굿성형외과 임영민 대표원장님의 이중턱 Q&A! 이중턱 생기는 이유부터 이중턱 제거 방법, 이중턱 전후 케이스까지! 얼굴지방흡입, 이중턱지방흡입, 턱선지방흡입",
+            "channel": "베리굿성형외과 VG Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=aFpUZBS7k9o&pp=ygUh67Kg66as6rW_7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "810"
           },
           {
-            "title": "시너지성형외과에서 안면거상수술을 받은 62세 女,  7개월 후 어떤 모습일지? 영상을 통해 확인해 보세요👀",
-            "channel": "시너지성형외과",
-            "url": "https://www.youtube.com/watch?v=AZ4BrBzlSWQ&pp=ygUz67Kg66as6rW_7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
-            "view_text": "6.1K views"
+            "title": "#임영민원장 [안면거상,안면윤곽,상안검,하안검] 고민이었던 처진피부, 자글자글한 주름살, 어떻게 해야할지 모르겠다면? 베리굿 중년리프팅 회복과정 알아보기! 베리굿성형외과",
+            "channel": "베리굿성형외과 VG Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=xEc9Mp3jpCI&pp=ygUh67Kg66as6rW_7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.4K"
           },
           {
-            "title": "[시연용] d0071aako_눈 성형수술 후 주의사항 안내",
-            "channel": "temp 003",
-            "url": "https://www.youtube.com/watch?v=Ga6Ami_wgp8&pp=ygUz67Kg66as6rW_7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "12 views"
+            "title": "#베리굿성형외과 베리굿성형외과에서 성형모델 모집합니다❤️당신이 바로 주인공✨",
+            "channel": "베리굿성형외과 VG Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=uwwjYdaJuGs&pp=ygUh67Kg66as6rW_7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "89K"
           },
           {
-            "title": "가슴수술 고민이라면? / 수술 전, 후 꼭 필요한 부분!",
-            "channel": "부산 서면 리노보의원",
-            "url": "https://www.youtube.com/watch?v=PwUXhKAfOcQ&pp=ygUz67Kg66as6rW_7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "3.5K views"
+            "title": "#임영민원장 마르니까 더 튀어나와보이는 광대, 사각턱! 안면윤곽으로 매끄러운 얼굴형 가능할까!?",
+            "channel": "베리굿성형외과 VG Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=uiQIoG-7z6o&pp=ygUh67Kg66as6rW_7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.6K"
           }
         ]
       }
@@ -130,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

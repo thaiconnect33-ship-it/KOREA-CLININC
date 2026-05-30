@@ -1,93 +1,44 @@
 {
   "query": "아이디병원",
-  "generated_at": "2026-05-29T05:41:28.407Z",
+  "generated_at": "2026-05-29T10:29:35.082Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 6864,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "11548359",
+        "name": "아이디병원 : 네이버\u001c",
+        "visitor_review_count": 3981,
+        "blog_review_count": 2883,
+        "detail_url": "https://m.place.naver.com/place/11548359/home"
       }
     },
     "google_maps": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 1815,
+      "metric_value": 0,
       "extra": {
-        "name": "ID Hospital Korea",
-        "rating": 4.8,
-        "total_reviews": 1815,
-        "sample_size": 30,
-        "foreign_language_reviews": 30,
+        "name": "Results",
+        "rating": 4.9,
+        "total_reviews": 0,
+        "sample_size": 6,
+        "foreign_language_reviews": 6,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 30
+          "english_other": 6
         }
       }
     },
     "pantip": {
       "ok": true,
       "metric_label": "스레드",
-      "metric_value": 10,
+      "metric_value": 0,
       "extra": {
-        "threads": [
-          {
-            "title": "$$ คุยโขมงห้องค้าหุ้นไทย@สินธร ประจำวันพุธ ที่ 6 ธันวาคม 2566 $$",
-            "url": "https://pantip.com/topic/42385230",
-            "views": 0
-          },
-          {
-            "title": "📛🌀🤡〰🎢⏳ บ้าบอคอหุ้น® 🚁🎹🍝 Tue 5 Dec 2023 ⌛️〽️〰🤡 🌀📛",
-            "url": "https://pantip.com/topic/42382543",
-            "views": 0
-          },
-          {
-            "title": "📛🌀🤡〰🎢⏳ บ้าบอคอหุ้น® 🚁🎹🍝 Wed 6 Dec 2023 ⌛️〽️〰🤡 🌀📛",
-            "url": "https://pantip.com/topic/42384508",
-            "views": 0
-          },
-          {
-            "title": "หาศูนย์ดูแลผู้สูงอายุ ศูนย์ฟื้นฟูผู้ป่วย ระแวก เมืองทอง, แจ้งวัฒนะ, ปากเกร็ด",
-            "url": "https://pantip.com/topic/41746001",
-            "views": 0
-          },
-          {
-            "title": "ป้องกันไม่ให้แมวฉี่ไม่เป็นที่อย่างไรบ้างครับ",
-            "url": "https://pantip.com/topic/41341544",
-            "views": 0
-          },
-          {
-            "title": "ศัลยกรรมโครงหน้า V-line โหนก กราม คาง ID hospital",
-            "url": "https://pantip.com/topic/40329166",
-            "views": 0
-          },
-          {
-            "title": "รีวิวศัลยกรรมเกาหลี เปลี่ยนอายุจากเลข 4 ให้เป็นเลข 2 ง่ายๆด้วยมีดหมอออออ",
-            "url": "https://pantip.com/topic/40346690",
-            "views": 0
-          },
-          {
-            "title": "คุณหมอสายฉีดฝีมือเทพ! เทคนิคการฉีดฟิลเลอร์ผลลัพธ์เทียบเท่าศัลยกรรม (SR)",
-            "url": "https://pantip.com/topic/40218640",
-            "views": 0
-          },
-          {
-            "title": "แนะนำซีรีย์เกาหลีNetflix",
-            "url": "https://pantip.com/topic/39819256",
-            "views": 0
-          },
-          {
-            "title": "ใครเคยเข้าครอส Trans lady ของ ID hospital บ้าง?",
-            "url": "https://pantip.com/topic/38991629",
-            "views": 0
-          }
-        ],
+        "threads": [],
         "total_views": 0
       }
     },
@@ -96,76 +47,76 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 1908769,
-        "foreign_video_count": 20,
+        "total_views": 614351,
+        "foreign_video_count": 3,
         "lang_breakdown": {
-          "korean": 0,
+          "korean": 17,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
-          "english_other": 20
+          "english_other": 3
         },
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "CLUAM SUTHERLAND my plastic surgery in korea experience part 2",
+            "title": "모델 FIFI의 윤곽수술 여정, ID병원에서 시작 | 상담일 에피소드 1",
             "channel": "ID Hospital Korea Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=nQf1U9qIIlA&pp=ygURSUQgSG9zcGl0YWwgS29yZWE%3D",
-            "view_text": "134K views"
+            "url": "https://www.youtube.com/watch?v=Zx07q_l5QNQ&pp=ygUV7JWE7J2065SU67OR7JuQIEtvcmVh",
+            "view_text": "1.2K"
           },
           {
-            "title": "Model FIFI's Contour Surgery Journey Begins at ID Hospital | Consultation Day Ep.1",
-            "channel": "ID Hospital Korea Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=Zx07q_l5QNQ&pp=ygURSUQgSG9zcGl0YWwgS29yZWHSBwkJIwsBhyohjO8%3D",
-            "view_text": "1.2K views"
+            "title": "방탄소년단 지민 닮고싶어 성형 18번한 사람?! 의사들이 말하는 \"성형수술 몇 번까지 해봤니?\" [꼬꼬성]",
+            "channel": "아이디병원 - Beauty Wonderland",
+            "url": "https://www.youtube.com/watch?v=GVM8PK1oGos&pp=ygUV7JWE7J2065SU67OR7JuQIEtvcmVh",
+            "view_text": "348K"
           },
           {
-            "title": "Korean Plastic Surgeon answers PATIETN's Questions!",
-            "channel": "ID Hospital Korea Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=uktiMn_BRf4&pp=ygURSUQgSG9zcGl0YWwgS29yZWE%3D",
-            "view_text": "5.6K views"
+            "title": "보건복지부 국가인증_아이디병원",
+            "channel": "아이디병원 - Beauty Wonderland",
+            "url": "https://www.youtube.com/watch?v=6tih6nOEUXY&pp=ygUV7JWE7J2065SU67OR7JuQIEtvcmVh",
+            "view_text": "6.5K"
           },
           {
-            "title": "I got Plastic Surgery in Korea! ID Hospital | PART 1",
-            "channel": "Kerina Wang",
-            "url": "https://www.youtube.com/watch?v=TSsGhQpHrsU&pp=ygURSUQgSG9zcGl0YWwgS29yZWE%3D",
-            "view_text": "245K views"
+            "title": "[id 성형백과] 기능코 성형 = 코수술 + 비염수술 이걸 한번에?! 실비보험 적용까지 쌉가능😉",
+            "channel": "아이디병원 - Beauty Wonderland",
+            "url": "https://www.youtube.com/watch?v=965noOZbrsE&pp=ygUV7JWE7J2065SU67OR7JuQIEtvcmVh",
+            "view_text": "9.6K"
           },
           {
-            "title": "Top 10 Amazing Changes l ID Hospital Before and After",
-            "channel": "ID Hospital Korea Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=wQAS9IxTH3A&pp=ygURSUQgSG9zcGl0YWwgS29yZWE%3D",
-            "view_text": "992K views"
+            "title": "아이디병원 '4년 누적 최다 성형수술' 한국기록원 공식 인증🥇",
+            "channel": "아이디병원 - Beauty Wonderland",
+            "url": "https://www.youtube.com/watch?v=uEyC1L3SY2E&pp=ygUV7JWE7J2065SU67OR7JuQIEtvcmVh",
+            "view_text": "66K"
           },
           {
-            "title": "My Plastic Surgery Experience in Korea ㅣ BEFORE & AFTER",
-            "channel": "ID Hospital Korea Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=r6ewrzdQboE&pp=ygURSUQgSG9zcGl0YWwgS29yZWE%3D",
-            "view_text": "205K views"
+            "title": "[Daily Topic] ID Hospital Presents Concrete Action Plan for 'Balanced Reverse Aging'",
+            "channel": "현대eTV",
+            "url": "https://www.youtube.com/watch?v=AOAB6P1kQXo&pp=ygUV7JWE7J2065SU67OR7JuQIEtvcmVh",
+            "view_text": "33"
           },
           {
-            "title": "Complete Facial Rejuvenation at 60 | Facelift, Eye Surgery & Liposuction Korea",
+            "title": "Introduction of Dr. Sang Hoon Park, ID Plastic Surgery Hospital Korea",
             "channel": "ID Hospital Korea Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=cscS0rAnpuw&pp=ygURSUQgSG9zcGl0YWwgS29yZWE%3D",
-            "view_text": "769 views"
+            "url": "https://www.youtube.com/watch?v=10TIXjC1vrY&pp=ygUV7JWE7J2065SU67OR7JuQIEtvcmVh",
+            "view_text": "10K"
           },
           {
-            "title": "MY LIFE CHANGED AFTER I WENT TO ID HOSPITAL KOREA",
+            "title": "배우 클라라, ID 병원 복귀 | 그녀가 줄기세포 IV를 다시 받는 이유",
             "channel": "ID Hospital Korea Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=zPHB_u4mhvU&pp=ygURSUQgSG9zcGl0YWwgS29yZWE%3D",
-            "view_text": "235K views"
+            "url": "https://www.youtube.com/watch?v=KD8eTvqaWdU&pp=ygUV7JWE7J2065SU67OR7JuQIEtvcmVh",
+            "view_text": "499"
           },
           {
-            "title": "Where Precision Meets Facial Bone Contouring",
+            "title": "마법이 일어나는 곳: id 병원 비공개 투어",
             "channel": "ID Hospital Korea Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=ZOsT9en7QL0&pp=ygURSUQgSG9zcGl0YWwgS29yZWE%3D",
-            "view_text": "542 views"
+            "url": "https://www.youtube.com/watch?v=6cb5EwGe_KQ&pp=ygUV7JWE7J2065SU67OR7JuQIEtvcmVh",
+            "view_text": "1K"
           },
           {
-            "title": "Actress Clara Returns to ID Hospital | Why She's Getting Stem Cell IV Again",
-            "channel": "ID Hospital Korea Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=KD8eTvqaWdU&pp=ygURSUQgSG9zcGl0YWwgS29yZWE%3D",
-            "view_text": "498 views"
+            "title": "연예인 성형수술, 유행 따라하기?",
+            "channel": "아이디병원 - Beauty Wonderland",
+            "url": "https://www.youtube.com/watch?v=g0iJHem83Ws&pp=ygUV7JWE7J2065SU67OR7JuQIEtvcmVh",
+            "view_text": "959"
           }
         ]
       }
@@ -191,7 +142,7 @@
       }
     }
   },
-  "global_score": 38,
-  "opportunity_cost_thb": 70000,
-  "opportunity_cost_krw": 2800000
+  "global_score": 5,
+  "opportunity_cost_thb": 95500,
+  "opportunity_cost_krw": 3820000
 }

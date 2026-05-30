@@ -1,0 +1,148 @@
+{
+  "query": "닥터쁘띠의원 명동점",
+  "generated_at": "2026-05-29T11:51:10.880Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 1056,
+      "extra": {
+        "place_id": "1523065743",
+        "name": "닥터쁘띠의원 명동점 : 네이버\u001c",
+        "visitor_review_count": 125,
+        "blog_review_count": 931,
+        "detail_url": "https://m.place.naver.com/place/1523065743/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "닥터쁘띠의원(명동점) Doctor Petit 明洞店",
+        "rating": 4.8,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 41775,
+        "foreign_video_count": 2,
+        "lang_breakdown": {
+          "korean": 18,
+          "thai": 0,
+          "chinese": 1,
+          "japanese": 0,
+          "english_other": 1
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "闪变冷白皮的周末（明洞皮肤科推荐/명동/피부과）",
+            "channel": "vitamin_sea_xi",
+            "url": "https://www.youtube.com/watch?v=LVCMyCobPWg&pp=ygUi64ul7YSw7IGY652g7J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "19 views"
+          },
+          {
+            "title": "Seoul - Doctor Petit Myeongdong",
+            "channel": "Linderella",
+            "url": "https://www.youtube.com/watch?v=TMHqn_FUqXc&pp=ygUi64ul7YSw7IGY652g7J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "69 views"
+          },
+          {
+            "title": "【이마필러,하이코】 직원이 직접 받아봤다! 자연스럽지만 예뻐지는거 SSAP가능! / 톡스앤필 명동점 – 이현정 원장님",
+            "channel": "쁘띠팩토리 PETIT  factory",
+            "url": "https://www.youtube.com/watch?v=u_Steh9wj6Y&pp=ygUi64ul7YSw7IGY652g7J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "2.2K views"
+          },
+          {
+            "title": "【이마필러】 이마필러, 어떻게 하는거라고? 자.연.스.럽.게 (feat.짜장면)  / 톡스앤필 명동점 – 이현정 원장님",
+            "channel": "쁘띠팩토리 PETIT  factory",
+            "url": "https://www.youtube.com/watch?v=i2STtCIaajI&pp=ygUi64ul7YSw7IGY652g7J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "7.7K views"
+          },
+          {
+            "title": "턱보톡스가격 영상 톡스앤필 명동점 명동역 피부과, 보톡스",
+            "channel": "정콘TV",
+            "url": "https://www.youtube.com/watch?v=EVLQx4cbSso&pp=ygUi64ul7YSw7IGY652g7J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "120 views"
+          },
+          {
+            "title": "[닥튜버] 쁘띠시술 전 이거 먼저 해볼까? MFT - 유앤영피부과 명동점 김지영 원장",
+            "channel": "의학채널 비온뒤",
+            "url": "https://www.youtube.com/watch?v=rXf3BA7FeCQ&pp=ygUi64ul7YSw7IGY652g7J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "4.2K views"
+          },
+          {
+            "title": "이중턱, 볼살에 인모드+에어젯을 같이 하는 이유와 효과에 대해서 말씀드리겠습니다.",
+            "channel": "닥터스위스",
+            "url": "https://www.youtube.com/watch?v=XUrUiZ3uvgI&pp=ygUi64ul7YSw7IGY652g7J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "7.5K views"
+          },
+          {
+            "title": "コラーゲンブースターとフィラーの違いって何？？",
+            "channel": "ドクタープチ医院 明洞店",
+            "url": "https://www.youtube.com/watch?v=IIsnHaVRO_s&pp=ygUi64ul7YSw7IGY652g7J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "64 views"
+          },
+          {
+            "title": "보셀르만의 차별화 된 디자인 필러",
+            "channel": "보셀르의원",
+            "url": "https://www.youtube.com/watch?v=-uWHsSrcnGI&pp=ygUi64ul7YSw7IGY652g7J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "125 views"
+          },
+          {
+            "title": "[#이마필러 #소녀미_get #톡스앤필]은 아프지 않게 시술 할 수 있는 노하우까지 방출!/ 강남톡스앤필_박대정원장님",
+            "channel": "쁘띠팩토리 PETIT  factory",
+            "url": "https://www.youtube.com/watch?v=1jignyHtsvc&pp=ygUi64ul7YSw7IGY652g7J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "1.5K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 2,
+  "opportunity_cost_thb": 99000,
+  "opportunity_cost_krw": 3960000
+}

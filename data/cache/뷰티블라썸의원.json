@@ -1,33 +1,35 @@
 {
   "query": "뷰티블라썸의원",
-  "generated_at": "2026-05-28T22:50:54.591Z",
+  "generated_at": "2026-05-29T11:30:30.272Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 1621,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "1518107439",
+        "name": "뷰티블라썸의원 : 네이버\u001c",
+        "visitor_review_count": 1487,
+        "blog_review_count": 134,
+        "detail_url": "https://m.place.naver.com/place/1518107439/home"
       }
     },
     "google_maps": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 127,
       "extra": {
-        "name": "Results",
-        "rating": 5,
-        "total_reviews": 0,
-        "sample_size": 9,
-        "foreign_language_reviews": 8,
+        "name": "Sponsored",
+        "rating": 4.9,
+        "total_reviews": 127,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
         "lang_breakdown": {
-          "korean": 1,
+          "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 8
+          "english_other": 0
         }
       }
     },
@@ -43,78 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 12,
+      "metric_value": 20,
       "extra": {
-        "total_views": 6457180,
+        "total_views": 2361,
         "foreign_video_count": 0,
         "lang_breakdown": {
-          "korean": 12,
+          "korean": 20,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
           "english_other": 0
         },
-        "sample_size": 12,
+        "sample_size": 20,
         "top_videos": [
           {
             "title": "당신만의 아름다움을 설계합니다 | 뷰티블라썸의원",
             "channel": "블라썸1호 | K-Beauty No.1, Beauty Blossom",
-            "url": "https://www.youtube.com/watch?v=nyGxPL2LOhU&pp=ygUq67ew7Yuw67iU65287I247J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "63"
+            "url": "https://www.youtube.com/watch?v=nyGxPL2LOhU&pp=ygUb67ew7Yuw67iU65287I247J2Y7JuQIEtvcmVh",
+            "view_text": "64 views"
           },
           {
-            "title": "\"Dermatologists don't tell you...\" We recommend popular youth-enhancing procedures these days. We...",
-            "channel": "박지윤의 피부 설명서",
-            "url": "https://www.youtube.com/watch?v=EFB-McCJG48&pp=ygUq67ew7Yuw67iU65287I247J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "444K"
+            "title": "포텐자, 제대로 알면 더 예뻐진다! #뷰티블라썸의원 #포텐자  #피부과시술추천  #모공 #모공축소 #여드름관리  #potenza #seoulclinic #beautyblossom",
+            "channel": "블라썸1호 | K-Beauty No.1, Beauty Blossom",
+            "url": "https://www.youtube.com/watch?v=R4-V8kXZk6w&pp=ygUb67ew7Yuw67iU65287I247J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "56 views"
           },
           {
-            "title": "피부과 시술 부작용 Vlog…ㅠ 내 피부 돌려줘.. 다신 안해…🫠ㅣMINCARONG",
-            "channel": "민카롱",
-            "url": "https://www.youtube.com/watch?v=wRJR2kY2x9w&pp=ygUq67ew7Yuw67iU65287I247J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "1.7M"
+            "title": "합정 피부과 VIP ROOM OPEN | 프라이빗 1:1 시술 공간 공개 🌸 뷰티블라썸의원",
+            "channel": "블라썸1호 | K-Beauty No.1, Beauty Blossom",
+            "url": "https://www.youtube.com/watch?v=xaohom7-hOw&pp=ygUb67ew7Yuw67iU65287I247J2Y7JuQIEtvcmVh",
+            "view_text": "134 views"
           },
           {
-            "title": "“비싼 울쎄라, 써마지 받아도 얼굴 다시 처집니다” 요즘 연예인들이 받는 가성비 시술을 20년차 피부과 전문의가 알려드립니다.",
-            "channel": "피부는 성현철",
-            "url": "https://www.youtube.com/watch?v=P-ooK3XIcKM&pp=ygUq67ew7Yuw67iU65287I247J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "344K"
+            "title": "소프웨이브 리프팅 효과, 진짜일까? #소프웨이브#리프팅시술 #뷰티블라썸의원 #합정피부과 #동안시술  #주름개선 #sofwave  #skinlifting #beautyblossom",
+            "channel": "블라썸1호 | K-Beauty No.1, Beauty Blossom",
+            "url": "https://www.youtube.com/watch?v=ZByQvdy7ggg&pp=ygUb67ew7Yuw67iU65287I247J2Y7JuQIEtvcmVh",
+            "view_text": "108 views"
           },
           {
-            "title": "빠른 효과 보장! 피부과 안가고 색소침착 없애는 마법의 루틴",
-            "channel": "닥터블랑_예뻐지는비결",
-            "url": "https://www.youtube.com/watch?v=ucS4dUzwY6w&pp=ygUq67ew7Yuw67iU65287I247J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "693K"
+            "title": "전 세계 고객이 찾는 뷰티 클리닉✨ 뷰티블라썸의원",
+            "channel": "블라썸1호 | K-Beauty No.1, Beauty Blossom",
+            "url": "https://www.youtube.com/watch?v=P8SlJnp6FZk&pp=ygUb67ew7Yuw67iU65287I247J2Y7JuQIEtvcmVh",
+            "view_text": "161 views"
           },
           {
-            "title": "\"엉터리 정보에 속지마세요.\" 진료과목 피부과 의사가 뽑은 가성비 시술 딱 '3가지'",
-            "channel": "지식인사이드",
-            "url": "https://www.youtube.com/watch?v=a4S4JNnRIXQ&pp=ygUq67ew7Yuw67iU65287I247J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "1.7M"
+            "title": "뷰티블라썸이 소프웨이브를 선택한 이유? #sofwave #소프웨이브 #beautyblossom  #antiaging  #seoulclinic  #kbeauty #뷰티블라썸의원",
+            "channel": "블라썸1호 | K-Beauty No.1, Beauty Blossom",
+            "url": "https://www.youtube.com/watch?v=kG3WKgmtW1g&pp=ygUb67ew7Yuw67iU65287I247J2Y7JuQIEtvcmVh",
+            "view_text": "50 views"
           },
           {
-            "title": "정말 그렇게 하고 계신다고요..? 기미전문가가 강조하는 기미 치료의 가장 중요한 습관 한 가지! feat. 기미, 선크림, 자외선, 프리즘의원. 기미상궁 ep.03",
-            "channel": "한성민의 피부인사이드",
-            "url": "https://www.youtube.com/watch?v=MazYW78BBSY&pp=ygUq67ew7Yuw67iU65287I247J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "9K"
+            "title": "피부과에서는 왜 여러 조합으로 시술을 추천할까? #beautyblossom #뷰티블라썸의원 #뷰티블라썸 #seoulclinic #합정피부과 #홍대피부과 #kbeauty",
+            "channel": "블라썸1호 | K-Beauty No.1, Beauty Blossom",
+            "url": "https://www.youtube.com/watch?v=VVJRLxtoI8g&pp=ygUb67ew7Yuw67iU65287I247J2Y7JuQIEtvcmVh",
+            "view_text": "74 views"
           },
           {
-            "title": "의사들만 몰래받는 S급 가성비! 수백만원 아끼는 만족도 가장 높은 시술을 20년차 피부과 전문의가 알려드립니다.",
-            "channel": "피부는 성현철",
-            "url": "https://www.youtube.com/watch?v=SFlFQByIQ1g&pp=ygUq67ew7Yuw67iU65287I247J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "913K"
+            "title": "뷰티블라썸X스컬트라 #뷰티블라썸의원 #스컬트라 #sculptra #glowup #filler #리프팅효과 #동안시술 #동안되는법 #lifting #beautyblossom",
+            "channel": "블라썸1호 | K-Beauty No.1, Beauty Blossom",
+            "url": "https://www.youtube.com/watch?v=UStBy93TCSI&pp=ygUb67ew7Yuw67iU65287I247J2Y7JuQIEtvcmVh",
+            "view_text": "113 views"
           },
           {
-            "title": "🔥A collection of the hottest skin treatments these days🔥Recommended❓Not recommended❓",
-            "channel": "희재 HEEJAE",
-            "url": "https://www.youtube.com/watch?v=uS1FV0UEP2E&pp=ygUq67ew7Yuw67iU65287I247J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "533K"
+            "title": "여기가 병원이야 카페야? | 비주얼에 반하고 실력에 감탄하는 피부과 | 이용 꿀팁 TOP7 l 원장님이 잘생기고 피부과가 예뻐요 l 합정역 3번 출구 피부과 l 뷰티블라썸피부과❤",
+            "channel": "귀여울,맘 | Winter Mommy♥",
+            "url": "https://www.youtube.com/watch?v=34yAnUkYKg4&pp=ygUb67ew7Yuw67iU65287I247J2Y7JuQIEtvcmVh",
+            "view_text": "323 views"
           },
           {
-            "title": "[라이브강의][비온뒤 X 정진호 교수] 피부 노화에 대한 모든 것",
-            "channel": "서울대학교병원 피부과 명예교수 정진호",
-            "url": "https://www.youtube.com/watch?v=2zd5qR-cp5U&pp=ygUq67ew7Yuw67iU65287I247J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "717"
+            "title": "피부과 원장이 말하는 2025 트렌드｜2026 인앤아웃, 뜨는 시술 vs 지는 시술 #beautyblossom #뷰티블라썸 #뷰티블라썸의원 #합정피부과 #홍대피부과 #kbeauty",
+            "channel": "블라썸1호 | K-Beauty No.1, Beauty Blossom",
+            "url": "https://www.youtube.com/watch?v=QXPV7tuP-aQ&pp=ygUb67ew7Yuw67iU65287I247J2Y7JuQIEtvcmVh",
+            "view_text": "74 views"
           }
         ]
       }
@@ -130,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 4,
-  "opportunity_cost_thb": 96000,
-  "opportunity_cost_krw": 3840000
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
 }

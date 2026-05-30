@@ -1,16 +1,18 @@
 {
   "query": "모엠의원",
-  "generated_at": "2026-05-28T23:56:08.791Z",
+  "generated_at": "2026-05-29T12:42:56.468Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 970,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "1551868527",
+        "name": "모엠의원 : 네이버\u001c",
+        "visitor_review_count": 74,
+        "blog_review_count": 896,
+        "detail_url": "https://m.place.naver.com/place/1551868527/home"
       }
     },
     "google_maps": {
@@ -18,16 +20,16 @@
       "metric_label": "리뷰",
       "metric_value": 12,
       "extra": {
-        "name": "Results",
+        "name": "Moem Clinic",
         "rating": 5,
         "total_reviews": 12,
-        "sample_size": 9,
-        "foreign_language_reviews": 9,
+        "sample_size": 29,
+        "foreign_language_reviews": 29,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 9
+          "english_other": 29
         }
       }
     },
@@ -43,78 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 20,
+      "metric_value": 19,
       "extra": {
-        "total_views": 23505,
+        "total_views": 40495,
         "foreign_video_count": 0,
         "lang_breakdown": {
-          "korean": 20,
+          "korean": 19,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
           "english_other": 0
         },
-        "sample_size": 20,
+        "sample_size": 19,
         "top_videos": [
-          {
-            "title": "넓은 이마 여성 모발이식으로 내리는 법!(이마축소 효과) | 모엠의원(MOEM) | 전지훈 원장",
-            "channel": "모엠의원",
-            "url": "https://www.youtube.com/watch?v=zY0k-d-Ipac&pp=ygUe66qo7Jeg7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "208 views"
-          },
-          {
-            "title": "여성 헤어라인모발이식 무삭발 비절개 히든컷 2800모 1년 후기 | 모엠의원(MOEM) | 히든컷",
-            "channel": "모엠의원",
-            "url": "https://www.youtube.com/watch?v=fFqRmfjJgc0&pp=ygUe66qo7Jeg7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "85 views"
-          },
           {
             "title": "모발이식 후 샴푸 어떻게 해야 할까?! ✔ㅣ전지훈 원장ㅣ모엠의원(MOEM)ㅣ히든컷",
             "channel": "모엠의원",
-            "url": "https://www.youtube.com/watch?v=OqeKNccMF6M&pp=ygUe66qo7Jeg7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=OqeKNccMF6M&pp=ygUS66qo7Jeg7J2Y7JuQIEtvcmVh",
             "view_text": "5K views"
           },
           {
-            "title": "모발이식 수술 시간 얼마나 걸리나요?ㅣ전지훈 원장ㅣ모엠의원(MOEM)ㅣ히든컷",
+            "title": "20대 여성 1700모 #헤어라인모발이식 12개월 전후 | 전지훈 원장 | 모엠의원(MOEM)",
             "channel": "모엠의원",
-            "url": "https://www.youtube.com/watch?v=VVgwLMP6pMk&pp=ygUe66qo7Jeg7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.4K views"
+            "url": "https://www.youtube.com/watch?v=iUUSI4QxgQU&pp=ygUS66qo7Jeg7J2Y7JuQIEtvcmVh",
+            "view_text": "403 views"
           },
           {
-            "title": "여성 헤어라인 모발이식 2500모, 수술 과정부터 1년 후기까지  | 모엠의원(MOEM) | 히든컷",
+            "title": "[모엠의원 전지훈 원장 X 정다윤] 무삭발 히든컷 총정리! 모발이식 후 곱슬머리!? 헤어라인 교정 후 가장 많이 받은 질문 Q&A 2탄!",
             "channel": "모엠의원",
-            "url": "https://www.youtube.com/watch?v=O1WbZ62aM7s&pp=ygUe66qo7Jeg7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "157 views"
+            "url": "https://www.youtube.com/watch?v=CZqe-nDuHaY&pp=ygUS66qo7Jeg7J2Y7JuQIEtvcmVh",
+            "view_text": "2.8K views"
           },
           {
-            "title": "비절개 히든컷 1600모 여성 헤어라인교정수술 13개월 변화과정✨ ｜전지훈 원장｜모엠의원(MOEM)",
+            "title": "모엠의원 비절개 히든컷 #모발이식3200모 변화과정ㅣM자탈모ㅣ전지훈 원장ㅣ모엠의원(MOEM)",
             "channel": "모엠의원",
-            "url": "https://www.youtube.com/watch?v=kYa0ordiaNs&pp=ygUe66qo7Jeg7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "293 views"
+            "url": "https://www.youtube.com/watch?v=XsyGaRuxoyA&pp=ygUS66qo7Jeg7J2Y7JuQIEtvcmVh",
+            "view_text": "476 views"
           },
           {
-            "title": "[모델모집]  모엠의원과 함께 할 #모발이식 모델을 모집합니다! ㅣM자탈모ㅣ헤어라인ㅣ전지훈 원장",
+            "title": "여성 #헤어라인교정 2200모 비절개 히든컷 모발이식 후기ㅣ전지훈 원장ㅣ모엠의원(MOEM)",
             "channel": "모엠의원",
-            "url": "https://www.youtube.com/watch?v=_z-tatV9rWg&pp=ygUe66qo7Jeg7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "927 views"
+            "url": "https://www.youtube.com/watch?v=WmQRTd29k6M&pp=ygUS66qo7Jeg7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "1K views"
           },
           {
-            "title": "여성 헤어라인 모발이식 리얼후기! 헤어라인 교정 후 갸름해진 얼굴 ✨ | 모엠의원(MOEM) | 히든컷",
+            "title": "남성 3300모 비절개 히든컷 모발이식 변화과정 (수술 전, 디자인, 3개월, 1년) | 전지훈 원장 | 모엠의원(MOEM)",
             "channel": "모엠의원",
-            "url": "https://www.youtube.com/watch?v=c0qVz2_ysY4&pp=ygUe66qo7Jeg7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "745 views"
+            "url": "https://www.youtube.com/watch?v=SKk3kAt7Kpk&pp=ygUS66qo7Jeg7J2Y7JuQIEtvcmVh",
+            "view_text": "412 views"
           },
           {
-            "title": "탈모, 모발이식 QnA 1부! - 모발이식 적정 시기? 유전? 쌍둥이? 탈모약 복용은 언제?｜모엠의원 전지훈 대표원장 with MC 오한교",
+            "title": "남성 2500모 비절개 히든컷 #무삭발모발이식 1년 후기! | 전지훈 원장 | 모엠의원(MOEM)",
             "channel": "모엠의원",
-            "url": "https://www.youtube.com/watch?v=J1iO5enROcg&pp=ygUe66qo7Jeg7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "862 views"
+            "url": "https://www.youtube.com/watch?v=BdcsifyAtio&pp=ygUS66qo7Jeg7J2Y7JuQIEtvcmVh",
+            "view_text": "409 views"
           },
           {
-            "title": "비절개 히든컷 모발이식재수술 전후 영상ㅣ전지훈 원장ㅣ모엠의원(MOEM)",
+            "title": "모발이식전후 주의사항? 전지훈 원장ㅣ모엠의원(MOEM)ㅣ히든컷",
             "channel": "모엠의원",
-            "url": "https://www.youtube.com/watch?v=wd_yQYayucc&pp=ygUe66qo7Jeg7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "2.9K views"
+            "url": "https://www.youtube.com/watch?v=xmVGKpesqf0&pp=ygUS66qo7Jeg7J2Y7JuQIEtvcmVh",
+            "view_text": "793 views"
+          },
+          {
+            "title": "대량모발이식 절개, 비절개 히든컷을 동시에? 혼용으로 진행하는 이유!｜전지훈 원장｜모엠의원(MOEM)",
+            "channel": "모엠의원",
+            "url": "https://www.youtube.com/watch?v=XCCliIdlY6w&pp=ygUS66qo7Jeg7J2Y7JuQIEtvcmVh",
+            "view_text": "541 views"
+          },
+          {
+            "title": "20대 여자 헤어라인교정 비절개히든컷 1년 변화 과정｜전지훈 원장｜모엠의원(MOEM)",
+            "channel": "모엠의원",
+            "url": "https://www.youtube.com/watch?v=12i1_udfK8E&pp=ygUS66qo7Jeg7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "503 views"
           }
         ]
       }
@@ -130,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 5,
-  "opportunity_cost_thb": 95500,
-  "opportunity_cost_krw": 3820000
+  "global_score": 14,
+  "opportunity_cost_thb": 85500,
+  "opportunity_cost_krw": 3420000
 }

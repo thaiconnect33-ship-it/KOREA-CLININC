@@ -1,6 +1,6 @@
 {
   "query": "헤세드의원",
-  "generated_at": "2026-05-28T23:00:46.374Z",
+  "generated_at": "2026-05-29T11:40:53.097Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -23,13 +23,13 @@
         "name": "Results",
         "rating": 4.9,
         "total_reviews": 0,
-        "sample_size": 6,
-        "foreign_language_reviews": 6,
+        "sample_size": 9,
+        "foreign_language_reviews": 9,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 6
+          "english_other": 9
         }
       }
     },
@@ -45,78 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 12,
+      "metric_value": 20,
       "extra": {
-        "total_views": 3782,
+        "total_views": 1661698,
         "foreign_video_count": 0,
         "lang_breakdown": {
-          "korean": 12,
+          "korean": 20,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
           "english_other": 0
         },
-        "sample_size": 12,
+        "sample_size": 20,
         "top_videos": [
           {
-            "title": "부산서면강남비율성형외과 병원 소개 영상",
-            "channel": "강남비율성형외과",
-            "url": "https://www.youtube.com/watch?v=i3CzWtzh1k4&pp=ygUh7Zek7IS465Oc7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.5K"
+            "title": "U.S. House Representative: South Korea is currently \"rapidly progressing toward the People's Demo...",
+            "channel": "헤세드 선교사3",
+            "url": "https://www.youtube.com/watch?v=tlSVuXl6M18&pp=ygUV7Zek7IS465Oc7J2Y7JuQIEtvcmVh",
+            "view_text": "226 views"
           },
           {
-            "title": "[헤세드미디어][포트폴리오][병원소개영상] 코아 이비인후과 소개 영상",
-            "channel": "chesed media",
-            "url": "https://www.youtube.com/watch?v=K1lR-rHE8Zw&pp=ygUh7Zek7IS465Oc7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "163"
+            "title": "전광훈과 천명의 부흥사들. 심판받는 한국의 직업 부흥사들/ 헤세드선교사",
+            "channel": "안희환TV",
+            "url": "https://www.youtube.com/watch?v=PStF4aCWoyY&pp=ygUV7Zek7IS465Oc7J2Y7JuQIEtvcmVh",
+            "view_text": "1.9K views"
           },
           {
-            "title": "[헤세드 미디어][포트폴리오][병원소개영상] 올바른 치과 소개 인터뷰 영상",
-            "channel": "chesed media",
-            "url": "https://www.youtube.com/watch?v=h_4A786tFV0&pp=ygUh7Zek7IS465Oc7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "176"
+            "title": "정인이 와인파티에 끼어든 헤세드선교사 이영근. 전광훈 광야교회 부목사(자칭태국선교사)",
+            "channel": "플레비언나비공동체 official",
+            "url": "https://www.youtube.com/watch?v=mB9aIDsgOCU&pp=ygUV7Zek7IS465Oc7J2Y7JuQIEtvcmVh",
+            "view_text": "6.2K views"
           },
           {
-            "title": "[헤세드미디어][포트폴리오][병원소개영상] 공룡 한의원 소개 영상",
-            "channel": "chesed media",
-            "url": "https://www.youtube.com/watch?v=aU34mgmtBFI&pp=ygUh7Zek7IS465Oc7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "126"
+            "title": "심하보목사 사모가 언급하는 안희환,이.., 헤세드(이성희변호사 증언)",
+            "channel": "성서나라tv",
+            "url": "https://www.youtube.com/watch?v=RfHQUVghTI0&pp=ygUV7Zek7IS465Oc7J2Y7JuQIEtvcmVh",
+            "view_text": "12K views"
           },
           {
-            "title": "[헤세드미디어][포트폴리오][병원소개영상] 올바른 치과 소개 영상",
-            "channel": "chesed media",
-            "url": "https://www.youtube.com/watch?v=5MujK6zbqTE&pp=ygUh7Zek7IS465Oc7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "116"
+            "title": "[헤세드한국온다? LIVE] 이영근의 분노! 한국제발 오세요~ 특급대우해드림 ^^ 2022.04.28",
+            "channel": "고난극복TV",
+            "url": "https://www.youtube.com/watch?v=6aC85Rr0mFo&pp=ygUV7Zek7IS465Oc7J2Y7JuQIEtvcmVh",
+            "view_text": "2.8K views"
           },
           {
-            "title": "툴스엠 영상제작 포트폴리오 -6편-",
-            "channel": "툴스엠TV",
-            "url": "https://www.youtube.com/watch?v=lSqZdDTXH9w&pp=ygUh7Zek7IS465Oc7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "44"
+            "title": "대한예수교장로회 서북지역노회협의회 부부수양회 헤세드찬양단 특송, 구독하기, 좋아요, 공유하기 눌러주시면 대단히 감사하겠습니다. / C헤럴드TV",
+            "channel": "C헤럴드TV",
+            "url": "https://www.youtube.com/watch?v=RyUWXGqSWbU&pp=ygUV7Zek7IS465Oc7J2Y7JuQIEtvcmVh",
+            "view_text": "55 views"
+          },
+          {
+            "title": "2026 03 19 '손솔·정춘생 의원 발의 차별금지법 위험성' 이용희 교수 대구서부교회 차별금지법제정반대 및 종교단체해산법 등 악법저지 위한 대구지역목회자성도시민단체 초청 세미나",
+            "channel": "세계인권수호TV",
+            "url": "https://www.youtube.com/watch?v=8keHxf_Ydw4&pp=ygUV7Zek7IS465Oc7J2Y7JuQIEtvcmVh",
+            "view_text": "17 views"
           },
           {
             "title": "[병원DID/사이니지] 피부과 소개 영상",
             "channel": "메디비젼",
-            "url": "https://www.youtube.com/watch?v=yIsB-4ZqbHI&pp=ygUh7Zek7IS465Oc7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "185"
+            "url": "https://www.youtube.com/watch?v=yIsB-4ZqbHI&pp=ygUV7Zek7IS465Oc7J2Y7JuQIEtvcmVh",
+            "view_text": "185 views"
           },
           {
-            "title": "#병원영상제작 툴스엠 영상제작 포트폴리오 -5편-",
-            "channel": "툴스엠TV",
-            "url": "https://www.youtube.com/watch?v=-_DYIjXx-_k&pp=ygUh7Zek7IS465Oc7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "42"
+            "title": "Mr. Jeon Gwang-hoon sues Missionary Hesed. Family Honor / Pastor Ahn Hee-hwan / Jesus Vision Holi...",
+            "channel": "안희환TV",
+            "url": "https://www.youtube.com/watch?v=VcMd6Aa20Hs&pp=ygUV7Zek7IS465Oc7J2Y7JuQIEtvcmVh",
+            "view_text": "2.8K views"
           },
           {
-            "title": "[최작TV] 장산닥터남비뇨의학과의원 소개 영상 (Full 버전)",
-            "channel": "최작TV",
-            "url": "https://www.youtube.com/watch?v=qcwAYnwhcS8&pp=ygUh7Zek7IS465Oc7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.2K"
-          },
-          {
-            "title": "비뇨의학과 병원 홈페이지 제안 영상",
-            "channel": "minhwan kim",
-            "url": "https://www.youtube.com/watch?v=Q9Kiu3X3oGE&pp=ygUh7Zek7IS465Oc7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "43"
+            "title": "[공작관TV 그레이트게임] 북한 한국산 중고 전차엔진, 고강력 방탄 철판 구매 추진 \"한국 방산물자 설계도 북에 넘어갔나?\" 문재인 USB 국정원은 왜 공개 안하나(?)#최수용,",
+            "channel": "공작관TV 그레이트게임",
+            "url": "https://www.youtube.com/watch?v=baS1Zeb04e4&pp=ygUV7Zek7IS465Oc7J2Y7JuQIEtvcmVh",
+            "view_text": "4.6K views"
           }
         ]
       }
@@ -132,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 3,
-  "opportunity_cost_thb": 97000,
-  "opportunity_cost_krw": 3880000
+  "global_score": 5,
+  "opportunity_cost_thb": 95500,
+  "opportunity_cost_krw": 3820000
 }

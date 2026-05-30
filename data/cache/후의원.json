@@ -1,19 +1,13 @@
 {
   "query": "후의원",
-  "generated_at": "2026-05-28T23:47:49.384Z",
+  "generated_at": "2026-05-29T12:34:03.312Z",
   "cached": false,
   "platforms": {
     "naver": {
-      "ok": true,
+      "ok": false,
+      "error": "page.evaluate: Target crashed ",
       "metric_label": "리뷰",
-      "metric_value": 14,
-      "extra": {
-        "place_id": "13083408",
-        "name": "후의원 : 네이버\u001c",
-        "visitor_review_count": 13,
-        "blog_review_count": 1,
-        "detail_url": "https://m.place.naver.com/place/13083408/home"
-      }
+      "metric_value": 0
     },
     "google_maps": {
       "ok": true,
@@ -25,89 +19,86 @@
       }
     },
     "pantip": {
-      "ok": true,
+      "ok": false,
+      "error": "page.evaluate: Target page, context or browser has been closed",
       "metric_label": "스레드",
-      "metric_value": 0,
-      "extra": {
-        "threads": [],
-        "total_views": 0
-      }
+      "metric_value": 0
     },
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 5483554,
-        "foreign_video_count": 0,
+        "total_views": 1815870,
+        "foreign_video_count": 2,
         "lang_breakdown": {
-          "korean": 20,
+          "korean": 18,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
-          "english_other": 0
+          "english_other": 2
         },
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "이것만 조심하면 안면거상 수술 효과가 2배?",
-            "channel": "아이팅성형외과",
-            "url": "https://www.youtube.com/watch?v=1RU0nJizJFs&pp=ygUb7ZuE7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "26K views"
+            "title": "3월 국회 소집 후…의원 20여 명은 베트남 워크숍? | 뉴스A 라이브",
+            "channel": "채널A News",
+            "url": "https://www.youtube.com/watch?v=kqjZZpCsmKw&pp=ygUP7ZuE7J2Y7JuQIEtvcmVh",
+            "view_text": "16K views"
           },
           {
-            "title": "안면거상 후 딱딱하고 울퉁불퉁한 피부가 되는 이유는? 【에이징엘】",
-            "channel": "에이징엘 성형외과 Aging L FACE LIFTING SURGERY",
-            "url": "https://www.youtube.com/watch?v=LDV9weKxv5k&pp=ygUb7ZuE7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "10K views"
+            "title": "The chairman called the candidates after the resumption and said, \"Please listen to all the membe...",
+            "channel": "KNN NEWS",
+            "url": "https://www.youtube.com/watch?v=a4t94a0l4XA&pp=ygUP7ZuE7J2Y7JuQIEtvcmVh",
+            "view_text": "99 views"
           },
           {
-            "title": "\"강남 유명 성형외과서 수술 뒤 눈이 실명됐습니다\" [지금이뉴스] / YTN",
-            "channel": "YTN",
-            "url": "https://www.youtube.com/watch?v=UyMrX929Q4I&pp=ygUb7ZuE7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "576K views"
-          },
-          {
-            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
-            "channel": "JTBC News",
-            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUb7ZuE7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1M views"
-          },
-          {
-            "title": "[글램성형외과] 양악·윤곽 수술 후 이것만은 꼭 지키세요!",
-            "channel": "글램성형외과 | Glam Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=KZ2z_bUHYbM&pp=ygUb7ZuE7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "2.6K views"
-          },
-          {
-            "title": "[단독] 강남 성형외과에 '분통'…\"근육 썩고 사경 헤맸다\" / SBS 8뉴스",
+            "title": "경호권 발동 후 몸싸움까지…일부 의원 다쳐 병원행 / SBS",
             "channel": "SBS 뉴스",
-            "url": "https://www.youtube.com/watch?v=svfX3-lNpIw&pp=ygUb7ZuE7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "2.4M views"
+            "url": "https://www.youtube.com/watch?v=2MWEpqe43q4&pp=ygUP7ZuE7J2Y7JuQIEtvcmVh",
+            "view_text": "1K views"
           },
           {
-            "title": "더성형외과「가슴성형」 가슴성형 후 며칠이 지나야 일상생활이 가능할까요?",
-            "channel": "더성형외과",
-            "url": "https://www.youtube.com/watch?v=0pitECSa2lo&pp=ygUb7ZuE7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "2.9K views"
+            "title": "다카이치 총리, 한국 의원들 만나 \"한일 협력 어느 때보다 중요\" / YTN",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=WVYta0zlwDA&pp=ygUP7ZuE7J2Y7JuQIEtvcmVh",
+            "view_text": "4.2K views"
           },
           {
-            "title": "하안검 수술 얼마나 오래갈까? 수술 후 유지기간 (고유성형외과 조건 원장)",
-            "channel": "성형의조건",
-            "url": "https://www.youtube.com/watch?v=N2ybr-KVajo&pp=ygUb7ZuE7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "454 views"
+            "title": "대규모 이탈표 사태 후 첫 모임…비명계 의원 \"기분 좋지 않다\" (자막뉴스) / SBS",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=yZcsaiRhV3M&pp=ygUP7ZuE7J2Y7JuQIEtvcmVh",
+            "view_text": "5K views"
           },
           {
-            "title": "[가슴성형] 성형 후 불만족스러운 가슴 모양! 재수술해야 할까?",
-            "channel": "뷰성형외과 VIEW Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=r28EHUHPJg4&pp=ygUb7ZuE7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.4K views"
+            "title": "김남국 의원 관련 민주당 쇄신의총 \"엄정조사 후 징계 원칙 확립할 것\".. 김 의원에 대한 추가조사도 예고 [모닝플러스] / SBS",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=_DRkMury01s&pp=ygUP7ZuE7J2Y7JuQIEtvcmVh",
+            "view_text": "50K views"
           },
           {
-            "title": "이중턱, 안면거상수술 후🤗올바른 림프마사지 + 땡김이 사용법🤗",
-            "channel": "신상성형외과",
-            "url": "https://www.youtube.com/watch?v=3oSifO4L068&pp=ygUb7ZuE7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "5.6K views"
+            "title": "[긴급 기자회견] 임이자 의원 \"저급한 정치공작···가짜뉴스 세력 뿌리 뽑겟다\" 전원 고발 조치",
+            "channel": "채널영남",
+            "url": "https://www.youtube.com/watch?v=yxTihIfKNDE&pp=ygUP7ZuE7J2Y7JuQIEtvcmVh",
+            "view_text": "379 views"
+          },
+          {
+            "title": "During the National Assembly audit, a People Power Party lawmaker searched for \"gorilla\" and then...",
+            "channel": "KNN NEWS",
+            "url": "https://www.youtube.com/watch?v=WvO5ucAfQTI&pp=ygUP7ZuE7J2Y7JuQIEtvcmVh",
+            "view_text": "3.1K views"
+          },
+          {
+            "title": "[LIVE] 더불어민주당 의원총회 백브리핑 생중계/2026년 2월 25일(수)/KBS",
+            "channel": "KBS News",
+            "url": "https://www.youtube.com/watch?v=uIKcesslbbM&pp=ygUP7ZuE7J2Y7JuQIEtvcmVh",
+            "view_text": "1.1K views"
+          },
+          {
+            "title": "[후스토리] \"1년에 1억 드는데...\" 갑자기 보험 중단? / SBS",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=D0G5eqqfLA4&pp=ygUP7ZuE7J2Y7JuQIEtvcmVh",
+            "view_text": "312K views"
           }
         ]
       }
@@ -124,15 +115,12 @@
     },
     "lemon8": {
       "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "error": "page.waitForTimeout: Target page, context or browser has been closed",
       "metric_label": "포스트",
-      "metric_value": 0,
-      "extra": {
-        "manual": true
-      }
+      "metric_value": 0
     }
   },
-  "global_score": 0,
-  "opportunity_cost_thb": 100000,
-  "opportunity_cost_krw": 4000000
+  "global_score": 2,
+  "opportunity_cost_thb": 99000,
+  "opportunity_cost_krw": 3960000
 }

@@ -1,6 +1,6 @@
 {
   "query": "더플라스틱성형외과",
-  "generated_at": "2026-05-29T05:54:51.065Z",
+  "generated_at": "2026-05-29T10:21:07.189Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -16,18 +16,18 @@
     "google_maps": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 50,
+      "metric_value": 0,
       "extra": {
         "name": "Results",
-        "rating": 4.6,
-        "total_reviews": 50,
-        "sample_size": 6,
-        "foreign_language_reviews": 6,
+        "rating": 4.9,
+        "total_reviews": 0,
+        "sample_size": 9,
+        "foreign_language_reviews": 9,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 6
+          "english_other": 9
         }
       }
     },
@@ -40,55 +40,55 @@
           {
             "title": "รีวิวดึงหน้า Full FaceLift + Endotine เติมไขมันหน้า ที่ The Sib Plastic Surgery กับคุณหมอดารินทร์",
             "url": "https://pantip.com/topic/43500441",
-            "views": 0
+            "views": 5982577
           },
           {
             "title": "จิ๊จ๋ารีวิวตรง!แก้หน้าอก+ยกกระชับรอบปานนมMENTOR 350ccเทคนิคBarbie Breastกับคุณหมอดารินทร์ ม่วงไทยThe SIB Plastic Surgery",
             "url": "https://pantip.com/topic/43588854",
-            "views": 0
+            "views": 5868774
           },
           {
             "title": "ใครเคยดึงหน้าแล้วผลอยู่ได้นาน หน้าไม่ตึงเกินไปบ้างคะ?",
             "url": "https://pantip.com/topic/43739315",
-            "views": 0
+            "views": 5635481
           },
           {
             "title": "เลือกคลินิกเสริมหน้าอก ที่ไหนดี 2025",
             "url": "https://pantip.com/topic/43363637",
-            "views": 0
+            "views": 2025
           },
           {
             "title": "ใบหน้าปัจจุบันของ แอน สิเรียม คุณมองว่าสวยงามไหม",
             "url": "https://pantip.com/topic/43312042",
-            "views": 0
+            "views": 7477321
           },
           {
             "title": "ด่วน หุ้น MGI มิสแกรนด์ โดนเครื่องหมาย P",
             "url": "https://pantip.com/topic/42529773",
-            "views": 0
+            "views": 7469613
           },
           {
             "title": "แฟนไม่ชอบให้ศัลยกรรม จะทำยังไงคะ",
             "url": "https://pantip.com/topic/40649644",
-            "views": 0
+            "views": 5692534
           },
           {
             "title": ".❤`✿.¸¸.ღ บ้านนักลงทุนสายฮา ♫♪ วันศุกร์ที่ 7 กันยายน 2561",
             "url": "https://pantip.com/topic/38032197",
-            "views": 0
+            "views": 2561
           },
           {
             "title": "ถ้ามีชาวต่างชาติ chat มาคุยกับเรา.ผ่าน instagram เราจะรู้และดูยังไงได้ว่า เค้ามาหลอกเราหรือป่าว",
             "url": "https://pantip.com/topic/37769624",
-            "views": 0
+            "views": 2
           },
           {
             "title": "คลินิกศัลยกรรมเกาหลีที่ดีที่สุด2017(ข้อมูลจากชาวเกาหลี)",
             "url": "https://pantip.com/topic/37485951",
-            "views": 0
+            "views": 4169948
           }
         ],
-        "total_views": 0
+        "total_views": 42300836
       }
     },
     "youtube": {
@@ -96,7 +96,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 16816800,
+        "total_views": 20446935,
         "foreign_video_count": 19,
         "lang_breakdown": {
           "korean": 1,
@@ -111,61 +111,61 @@
             "title": "Behind the plastic surgery boom in South Korea",
             "channel": "CBS Mornings",
             "url": "https://www.youtube.com/watch?v=ZSAoETxubSI&pp=ygUZVGhlIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
-            "view_text": "6.5M"
-          },
-          {
-            "title": "Plastic surgery in South Korea",
-            "channel": "Insider Tech",
-            "url": "https://www.youtube.com/watch?v=06-kj0kvvck&pp=ygUZVGhlIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
-            "view_text": "431K"
-          },
-          {
-            "title": "Why South Korea Is the Plastic Surgery Capital of the World | The Plastics | Harper's BAZAAR",
-            "channel": "Harper's BAZAAR",
-            "url": "https://www.youtube.com/watch?v=omOGKuDtbdI&pp=ygUZVGhlIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
-            "view_text": "694K"
-          },
-          {
-            "title": "Seoul, a Plastic Surgery Tourism Hot Spot",
-            "channel": "ABC News",
-            "url": "https://www.youtube.com/watch?v=7ovyzkRmdVU&pp=ygUZVGhlIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
-            "view_text": "379K"
-          },
-          {
-            "title": "The Reality of Korean Plastic Surgery Explained By Expert",
-            "channel": "Asian Boss",
-            "url": "https://www.youtube.com/watch?v=WXG9BtEB3K8&pp=ygUZVGhlIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
-            "view_text": "77K"
-          },
-          {
-            "title": "Plastic Surgery in Korea Vlog | Day 2",
-            "channel": "ElaineMokk",
-            "url": "https://www.youtube.com/watch?v=feB5P4d-ImY&pp=ygUZVGhlIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
-            "view_text": "37K"
+            "view_text": "6.5M views"
           },
           {
             "title": "Why Plastic Surgery Is Destroying Korea",
             "channel": "2 and 20",
             "url": "https://www.youtube.com/watch?v=JiEFDJxGx2s&pp=ygUZVGhlIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
-            "view_text": "1.9M"
+            "view_text": "1.9M views"
           },
           {
-            "title": "PLASTIC SURGERY Q&A 🇰🇷 | Full Cost/Procedure Breakdown, Pain, Regrets, Healing",
-            "channel": "Sophie Lee 이소현",
-            "url": "https://www.youtube.com/watch?v=U0m4emB4qP4&pp=ygUZVGhlIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
-            "view_text": "126K"
+            "title": "Plastic surgery in South Korea",
+            "channel": "Insider Tech",
+            "url": "https://www.youtube.com/watch?v=06-kj0kvvck&pp=ygUZVGhlIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "431K views"
+          },
+          {
+            "title": "Why South Korea Is the Plastic Surgery Capital of the World | The Plastics | Harper's BAZAAR",
+            "channel": "Harper's BAZAAR",
+            "url": "https://www.youtube.com/watch?v=omOGKuDtbdI&pp=ygUZVGhlIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "694K views"
+          },
+          {
+            "title": "The Reality of Korean Plastic Surgery Explained By Expert",
+            "channel": "Asian Boss",
+            "url": "https://www.youtube.com/watch?v=WXG9BtEB3K8&pp=ygUZVGhlIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "77K views"
+          },
+          {
+            "title": "Seoul, a Plastic Surgery Tourism Hot Spot",
+            "channel": "ABC News",
+            "url": "https://www.youtube.com/watch?v=7ovyzkRmdVU&pp=ygUZVGhlIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "379K views"
           },
           {
             "title": "What Makes Dr. Im The Top Plastic Surgeon in South Korea?",
             "channel": "MTC (Medical Tourism Corporation)",
             "url": "https://www.youtube.com/watch?v=cklPu89JGe4&pp=ygUZVGhlIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
-            "view_text": "8.2K"
+            "view_text": "8.2K views"
+          },
+          {
+            "title": "PLASTIC SURGERY Q&A 🇰🇷 | Full Cost/Procedure Breakdown, Pain, Regrets, Healing",
+            "channel": "Sophie Lee 이소현",
+            "url": "https://www.youtube.com/watch?v=U0m4emB4qP4&pp=ygUZVGhlIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "126K views"
           },
           {
             "title": "Why is Korea the plastic surgery Capital of the World?",
             "channel": "Retired Working For You",
             "url": "https://www.youtube.com/watch?v=jO4OA0p7960&pp=ygUZVGhlIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
-            "view_text": "275K"
+            "view_text": "275K views"
+          },
+          {
+            "title": "Why This Is the Best Plastic Surgery Hospital in South Korea (Full Tour)",
+            "channel": "MTC (Medical Tourism Corporation)",
+            "url": "https://www.youtube.com/watch?v=PIgkFjR-jFY&pp=ygUZVGhlIFBsYXN0aWMgU3VyZ2VyeSBLb3JlYQ%3D%3D",
+            "view_text": "4.3K views"
           }
         ]
       }
@@ -191,7 +191,7 @@
       }
     }
   },
-  "global_score": 25,
-  "opportunity_cost_thb": 82500,
-  "opportunity_cost_krw": 3300000
+  "global_score": 26,
+  "opportunity_cost_thb": 81000,
+  "opportunity_cost_krw": 3240000
 }

@@ -1,0 +1,148 @@
+{
+  "query": "포에버성형외과의원 강남",
+  "generated_at": "2026-05-29T10:34:30.717Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 6519,
+      "extra": {
+        "place_id": "37206779",
+        "name": "포에버성형외과의원 강남 : 네이버\u001c",
+        "visitor_review_count": 1283,
+        "blog_review_count": 5236,
+        "detail_url": "https://m.place.naver.com/place/37206779/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "강남 포에버성형외과의원 | 강남 피부과 | 피부과 클리닉 | Korean plastic surgery | Beauty clinic | 江南整形外科 | 成形外科",
+        "rating": 4.9,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 1593665,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "[#HereIsForever] Wrinkles around the mouth & nasolabial folds—lifting procedure for the key areas...",
+            "channel": "여기는 포에버",
+            "url": "https://www.youtube.com/watch?v=bV_rmCVHhik&pp=ygUo7Y-s7JeQ67KE7ISx7ZiV7Jm46rO87J2Y7JuQIOqwleuCqCBLb3JlYQ%3D%3D",
+            "view_text": "315 views"
+          },
+          {
+            "title": "포에버강남점 임형우원장님 인사말",
+            "channel": "포에버성형외과강남",
+            "url": "https://www.youtube.com/watch?v=w2SCOS55ofw&pp=ygUo7Y-s7JeQ67KE7ISx7ZiV7Jm46rO87J2Y7JuQIOqwleuCqCBLb3JlYQ%3D%3D",
+            "view_text": "479 views"
+          },
+          {
+            "title": "[토르 리프팅] 의료진 리뷰_포에버성형외과 강남점 정해진 원장님편",
+            "channel": "토르리프팅",
+            "url": "https://www.youtube.com/watch?v=sSIyGFVr_f4&pp=ygUo7Y-s7JeQ67KE7ISx7ZiV7Jm46rO87J2Y7JuQIOqwleuCqCBLb3JlYQ%3D%3D",
+            "view_text": "4.2K views"
+          },
+          {
+            "title": "포에버성형외과 강남점 진료내용 소개",
+            "channel": "포에버성형외과강남",
+            "url": "https://www.youtube.com/watch?v=nLr01qEuIsU&pp=ygUo7Y-s7JeQ67KE7ISx7ZiV7Jm46rO87J2Y7JuQIOqwleuCqCBLb3JlYQ%3D%3D",
+            "view_text": "643 views"
+          },
+          {
+            "title": "[#여기는포에버] 👀 답답한 눈 개선하는 수술이 이렇게 많았어❓l 🔎눈성형 종류 딱 정리해 드림👍🏻",
+            "channel": "여기는 포에버",
+            "url": "https://www.youtube.com/watch?v=YFNcj6pbf4E&pp=ygUo7Y-s7JeQ67KE7ISx7ZiV7Jm46rO87J2Y7JuQIOqwleuCqCBLb3JlYQ%3D%3D",
+            "view_text": "1.1K views"
+          },
+          {
+            "title": "[#월간포에버]🗓️25년 2월 추천 시술👍🏻 | 😎강남지역 인기시술 총 정리✨  | #성형외과 #이벤트 #시술추천",
+            "channel": "여기는 포에버",
+            "url": "https://www.youtube.com/watch?v=6uPpWUUBVas&pp=ygUo7Y-s7JeQ67KE7ISx7ZiV7Jm46rO87J2Y7JuQIOqwleuCqCBLb3JlYQ%3D%3D",
+            "view_text": "1.4K views"
+          },
+          {
+            "title": "[포에버성형외과 강남점] 리얼모델 자원님의 리얼후기! [리얼모델 구자원  편]",
+            "channel": "포에버성형외과강남",
+            "url": "https://www.youtube.com/watch?v=Op-_gweJVbY&pp=ygUo7Y-s7JeQ67KE7ISx7ZiV7Jm46rO87J2Y7JuQIOqwleuCqCBLb3JlYQ%3D%3D",
+            "view_text": "277 views"
+          },
+          {
+            "title": "[#HereIsForever] Thread lifting procedure to lift sagging double chin and jowls🔥 | Thread lifting...",
+            "channel": "여기는 포에버",
+            "url": "https://www.youtube.com/watch?v=m1A4QjV1Mss&pp=ygUo7Y-s7JeQ67KE7ISx7ZiV7Jm46rO87J2Y7JuQIOqwleuCqCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "326 views"
+          },
+          {
+            "title": "포에버강남점 임형우원장님 인사말",
+            "channel": "포에버성형외과강남",
+            "url": "https://www.youtube.com/watch?v=yNR9BPh6nrQ&pp=ygUo7Y-s7JeQ67KE7ISx7ZiV7Jm46rO87J2Y7JuQIOqwleuCqCBLb3JlYQ%3D%3D",
+            "view_text": "186 views"
+          },
+          {
+            "title": "포에버강남점 개원 10주년 축하 영상편지♥",
+            "channel": "포에버성형외과강남",
+            "url": "https://www.youtube.com/watch?v=q5QAGjAh8T0&pp=ygUo7Y-s7JeQ67KE7ISx7ZiV7Jm46rO87J2Y7JuQIOqwleuCqCBLb3JlYQ%3D%3D",
+            "view_text": "750 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 150000,
+  "opportunity_cost_krw": 6000000
+}

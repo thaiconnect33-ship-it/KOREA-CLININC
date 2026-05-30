@@ -1,16 +1,18 @@
 {
   "query": "레스트의원",
-  "generated_at": "2026-05-28T22:23:07.507Z",
+  "generated_at": "2026-05-29T10:59:49.625Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 3136,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "2087275519",
+        "name": "레스트의원 : 네이버\u001c",
+        "visitor_review_count": 297,
+        "blog_review_count": 2839,
+        "detail_url": "https://m.place.naver.com/place/2087275519/home"
       }
     },
     "google_maps": {
@@ -18,16 +20,16 @@
       "metric_label": "리뷰",
       "metric_value": 0,
       "extra": {
-        "name": "Results",
+        "name": "Rest Clinic",
         "rating": 5,
         "total_reviews": 0,
-        "sample_size": 6,
-        "foreign_language_reviews": 6,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 6
+          "english_other": 0
         }
       }
     },
@@ -43,36 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 3,
+      "metric_value": 20,
       "extra": {
-        "total_views": 10100,
-        "foreign_video_count": 0,
+        "total_views": 490860,
+        "foreign_video_count": 3,
         "lang_breakdown": {
-          "korean": 3,
+          "korean": 17,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
-          "english_other": 0
+          "english_other": 3
         },
-        "sample_size": 3,
+        "sample_size": 20,
         "top_videos": [
           {
-            "title": "만성 두드러기에 '피해야 할 음식'과 '먹어야 할 음식'! - 박치영의 피부 톡톡 #94 만성두드러기 식단",
-            "channel": "굿라이프",
-            "url": "https://www.youtube.com/watch?v=B52BH2siKaw&pp=ygUk66CI7Iqk7Yq47J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "7.9K"
+            "title": "울XX 써XX 리프팅을 한 번에? 리프팅 핫플 체험 #레스트의원 🌊",
+            "channel": "소프웨이브™ 리프팅 (Sofwave™ Korea)",
+            "url": "https://www.youtube.com/watch?v=m5OtwAFQZBY&pp=ygUV66CI7Iqk7Yq47J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "1K views"
           },
           {
-            "title": "Hand, foot and mouth disease, which can infect many children who come into contact with it, with ...",
-            "channel": "건강의학전문채널 하이닥",
-            "url": "https://www.youtube.com/watch?v=Xfazp5BlWj4&pp=ygUk66CI7Iqk7Yq47J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "1.1K"
+            "title": "요즘 핫한 #소프웨이브 장점 요약 들고왔다!!! #레스트의원 🌊",
+            "channel": "소프웨이브™ 리프팅 (Sofwave™ Korea)",
+            "url": "https://www.youtube.com/watch?v=p1w2any8Xzs&pp=ygUV66CI7Iqk7Yq47J2Y7JuQIEtvcmVh",
+            "view_text": "1.1K views"
           },
           {
-            "title": "가입률 고작 1% 외면받는 '119 안심콜'/대전MBC",
-            "channel": "대전MBC 뉴스/Daejeon MBC News",
-            "url": "https://www.youtube.com/watch?v=Iiln57j6f1Y&pp=ygUk66CI7Iqk7Yq47J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "1.1K"
+            "title": "리프팅 후 볼살이 꺼진다고? 그럴 걱정 ㄴㄴ #레스트의원 🌊 #소프웨이브",
+            "channel": "소프웨이브™ 리프팅 (Sofwave™ Korea)",
+            "url": "https://www.youtube.com/watch?v=Jp9DTa2tygw&pp=ygUV66CI7Iqk7Yq47J2Y7JuQIEtvcmVh",
+            "view_text": "1K views"
+          },
+          {
+            "title": "🌊서울대 피부과 전문의가 인정한 효과 쩌는 리프팅 🌊 #소프웨이브",
+            "channel": "소프웨이브™ 리프팅 (Sofwave™ Korea)",
+            "url": "https://www.youtube.com/watch?v=_BRUtk3yQJM&pp=ygUV66CI7Iqk7Yq47J2Y7JuQIEtvcmVh",
+            "view_text": "2.3K views"
+          },
+          {
+            "title": "청담동에서 입소문 자자한  리프팅 끝판왕!!! 속닥속닥 🌊🌊🌊 #소프웨이브",
+            "channel": "소프웨이브™ 리프팅 (Sofwave™ Korea)",
+            "url": "https://www.youtube.com/watch?v=VxO3u9_4hxg&pp=ygUV66CI7Iqk7Yq47J2Y7JuQIEtvcmVh",
+            "view_text": "1.1K views"
+          },
+          {
+            "title": "[K-POP] LE SSERAFIM's HYBE Life Full Compilation✨#LESSERAFIM #HYBE",
+            "channel": "MBC WORLD",
+            "url": "https://www.youtube.com/watch?v=Pfc_ma-DMXU&pp=ygUV66CI7Iqk7Yq47J2Y7JuQIEtvcmVh",
+            "view_text": "42K views"
+          },
+          {
+            "title": "'Patient Outflow' Regional Hospitals Win Through Sophistication and Specialization",
+            "channel": "KNN NEWS",
+            "url": "https://www.youtube.com/watch?v=AK2DAMiGQz8&pp=ygUV66CI7Iqk7Yq47J2Y7JuQIEtvcmVh",
+            "view_text": "537 views"
+          },
+          {
+            "title": "[On-site footage] \"Comes and goes\" when asked about personnel standards... \"Confessions of corrup...",
+            "channel": "OBS 시사",
+            "url": "https://www.youtube.com/watch?v=sHIoS5vuT7U&pp=ygUV66CI7Iqk7Yq47J2Y7JuQIEtvcmVh",
+            "view_text": "4.6K views"
+          },
+          {
+            "title": "라면 집어올리자 '파리가 둥둥'...경악스러운 휴게소 위생상태 [지금이뉴스] / YTN",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=OVdD5vNW70w&pp=ygUV66CI7Iqk7Yq47J2Y7JuQIEtvcmVh",
+            "view_text": "10K views"
+          },
+          {
+            "title": "국민의힘 이진숙·이용 등 공천...정청래, 노동절 광폭 행보 / YTN",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=TrY69nKFFKQ&pp=ygUV66CI7Iqk7Yq47J2Y7JuQIEtvcmVh",
+            "view_text": "2.8K views"
           }
         ]
       }
@@ -88,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 3,
-  "opportunity_cost_thb": 97000,
-  "opportunity_cost_krw": 3880000
+  "global_score": 2,
+  "opportunity_cost_thb": 98500,
+  "opportunity_cost_krw": 3940000
 }

@@ -1,18 +1,18 @@
 {
   "query": "메디파크의원",
-  "generated_at": "2026-05-28T23:50:58.246Z",
+  "generated_at": "2026-05-29T12:37:34.633Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 38,
+      "metric_value": 494,
       "extra": {
-        "place_id": "37774547",
-        "name": "메디파크의원 : 네이버\u001c",
-        "visitor_review_count": 35,
-        "blog_review_count": 3,
-        "detail_url": "https://m.place.naver.com/place/37774547/home"
+        "place_id": "13233563",
+        "name": "메디파크내과의원 : 네이버\u001c",
+        "visitor_review_count": 486,
+        "blog_review_count": 8,
+        "detail_url": "https://m.place.naver.com/place/13233563/home"
       }
     },
     "google_maps": {
@@ -20,8 +20,17 @@
       "metric_label": "리뷰",
       "metric_value": 0,
       "extra": {
-        "note": "Google Maps 결과 없음",
-        "foreign_language_reviews": 0
+        "name": "Results",
+        "rating": 3,
+        "total_reviews": 0,
+        "sample_size": 4,
+        "foreign_language_reviews": 4,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 4
+        }
       }
     },
     "pantip": {
@@ -38,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 71772,
+        "total_views": 349407,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -52,62 +61,62 @@
           {
             "title": "여성메디파크병원 질필러 영상",
             "channel": "여성메디파크병원",
-            "url": "https://www.youtube.com/watch?v=dhQyKUiab2o&pp=ygUk66mU65SU7YyM7YGs7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=dhQyKUiab2o&pp=ygUY66mU65SU7YyM7YGs7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
             "view_text": "13K views"
           },
           {
-            "title": "여성메디파크병원 질성형 영상",
-            "channel": "여성메디파크병원",
-            "url": "https://www.youtube.com/watch?v=xlnl-kg1rh0&pp=ygUk66mU65SU7YyM7YGs7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "4.2K views"
+            "title": "내 자궁에 혹 있다? [TBC클리닉건강365] [TBC-띠비띠]",
+            "channel": "TBC",
+            "url": "https://www.youtube.com/watch?v=-a7oWyoCfzQ&pp=ygUY66mU65SU7YyM7YGs7J2Y7JuQIEtvcmVh",
+            "view_text": "623 views"
+          },
+          {
+            "title": "[Medical Suseong] 자궁근종, 혹시 나도? ✔All about uterine fibroids (Dr.Yeo from Medipark Hospital) in Daegu",
+            "channel": "Travel to Suseong",
+            "url": "https://www.youtube.com/watch?v=A_noH4qz_dc&pp=ygUY66mU65SU7YyM7YGs7J2Y7JuQIEtvcmVh",
+            "view_text": "1.4K views"
           },
           {
             "title": "여성메디파크병원 TBC클리닉 건강365  \"여성의 적,  부인과 질환 \"",
             "channel": "여성메디파크병원",
-            "url": "https://www.youtube.com/watch?v=CDZx4LTYn6k&pp=ygUk66mU65SU7YyM7YGs7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "818 views"
+            "url": "https://www.youtube.com/watch?v=CDZx4LTYn6k&pp=ygUY66mU65SU7YyM7YGs7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "820 views"
           },
           {
-            "title": "서울리스타 성형외과 리얼스토리 2편",
-            "channel": "메디캔",
-            "url": "https://www.youtube.com/watch?v=DCI_jjXOIJU&pp=ygUk66mU65SU7YyM7YGs7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "2.4K views"
+            "title": "0822 남양아이 힐링토크쇼 with 엘르메디여성의원(이정필원장님) 1부 강의",
+            "channel": "DAYLOG 프리미엄 산모대학",
+            "url": "https://www.youtube.com/watch?v=zK-rdEQPrOc&pp=ygUY66mU65SU7YyM7YGs7J2Y7JuQIEtvcmVh",
+            "view_text": "125 views"
           },
           {
-            "title": "수술을 대체하는 XXX필러가 있다? [#연세메디노블 #반영구필러]",
-            "channel": "연세메디노블 Yonsei Medinoble",
-            "url": "https://www.youtube.com/watch?v=OKZAW_3JY1s&pp=ygUk66mU65SU7YyM7YGs7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
-            "view_text": "3.3K views"
+            "title": "여성메디파크병원 질성형 영상",
+            "channel": "여성메디파크병원",
+            "url": "https://www.youtube.com/watch?v=xlnl-kg1rh0&pp=ygUY66mU65SU7YyM7YGs7J2Y7JuQIEtvcmVh",
+            "view_text": "4.2K views"
           },
           {
-            "title": "얼굴 지방을 녹일 수 있어 주의해야 하는 시술들",
-            "channel": "연세메디노블 Yonsei Medinoble",
-            "url": "https://www.youtube.com/watch?v=NS-SKp7OGZg&pp=ygUk66mU65SU7YyM7YGs7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "5.5K views"
+            "title": "여성메디파크병원 소음순성형 영상",
+            "channel": "여성메디파크병원",
+            "url": "https://www.youtube.com/watch?v=HYXFVNIGwQw&pp=ygUY66mU65SU7YyM7YGs7J2Y7JuQIEtvcmVh",
+            "view_text": "19K views"
           },
           {
-            "title": "한방질성형 후, 부부관계는 어떻게?",
-            "channel": "규림한의원",
-            "url": "https://www.youtube.com/watch?v=PhwTufYrV0s&pp=ygUk66mU65SU7YyM7YGs7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "148 views"
+            "title": "대구 여성메디파크산후조리원 수성점 여성메디파크병원",
+            "channel": "나도얌",
+            "url": "https://www.youtube.com/watch?v=QtFoRzI3c2o&pp=ygUY66mU65SU7YyM7YGs7J2Y7JuQIEtvcmVh",
+            "view_text": "212 views"
           },
           {
-            "title": "압구정 미소산부인과 엠보싱 필러 질성형",
-            "channel": "Minjoo Lee",
-            "url": "https://www.youtube.com/watch?v=uZpCV06euLs&pp=ygUk66mU65SU7YyM7YGs7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "107 views"
+            "title": "I suffered from insomnia due to tinnitus that got worse at night, and it was because of a cervica...",
+            "channel": "콕선생님 (콕통증의학과)",
+            "url": "https://www.youtube.com/watch?v=vO5RUiWL59A&pp=ygUY66mU65SU7YyM7YGs7J2Y7JuQIEtvcmVh",
+            "view_text": "675 views"
           },
           {
-            "title": "질축소수술",
-            "channel": "dd d",
-            "url": "https://www.youtube.com/watch?v=0MqGpHYsKyA&pp=ygUk66mU65SU7YyM7YGs7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
-            "view_text": "500 views"
-          },
-          {
-            "title": "베트남 깜의 신데렐라 랜선투어｜신데렐라성형외과｜CINDERELLA PLASTIC SURGERY",
-            "channel": "신데렐라성형외과 | Cinderella Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=44OpJSI1JZs&pp=ygUk66mU65SU7YyM7YGs7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "137 views"
+            "title": "풍덕천동 수지구 수지메디파크 ! '연세탑튼튼의원' 정형외과 개원소식 전해드립니다. (수지구 1등 정형외과)",
+            "channel": "부동산으로 살아남기",
+            "url": "https://www.youtube.com/watch?v=YSEyUO7EnKM&pp=ygUY66mU65SU7YyM7YGs7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "613 views"
           }
         ]
       }
@@ -123,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 0,
-  "opportunity_cost_thb": 100000,
-  "opportunity_cost_krw": 4000000
+  "global_score": 2,
+  "opportunity_cost_thb": 98000,
+  "opportunity_cost_krw": 3920000
 }

@@ -1,6 +1,6 @@
 {
   "query": "리엠의원",
-  "generated_at": "2026-05-28T23:49:50.174Z",
+  "generated_at": "2026-05-29T12:36:10.598Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -45,24 +45,54 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 1,
+      "metric_value": 6,
       "extra": {
-        "total_views": 194,
+        "total_views": 3078,
         "foreign_video_count": 0,
         "lang_breakdown": {
-          "korean": 1,
+          "korean": 6,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
           "english_other": 0
         },
-        "sample_size": 1,
+        "sample_size": 6,
         "top_videos": [
           {
             "title": "[아벤스병원] 병원 홍보 영상 ㅣ 컬러드스톤",
             "channel": "컬러드스톤",
-            "url": "https://www.youtube.com/watch?v=sAg5E1rHEFM&pp=ygUe66as7Jeg7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=sAg5E1rHEFM&pp=ygUS66as7Jeg7J2Y7JuQIEtvcmVh",
             "view_text": "194 views"
+          },
+          {
+            "title": "선거를 위한 검문소, 전국적으로 운영 | 필리핀교민 방송 | 필리핀한인방송",
+            "channel": "필리핀 뉴스룸",
+            "url": "https://www.youtube.com/watch?v=AntosLSuFHM&pp=ygUS66as7Jeg7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "889 views"
+          },
+          {
+            "title": "[아시아계 미국인 '변화를 꿈꾸다'] 베트남전 난민에서 주의원으로, 재닛 응우옌",
+            "channel": "VOA 한국어",
+            "url": "https://www.youtube.com/watch?v=075BFsYNpas&pp=ygUS66as7Jeg7J2Y7JuQIEtvcmVh",
+            "view_text": "1.5K views"
+          },
+          {
+            "title": "[코리아포커스] 040. 영상 : 제2회 코리아국제컨퍼런스 - 홀렁 베이(Roland Wely)",
+            "channel": "코리아미디어",
+            "url": "https://www.youtube.com/watch?v=3wu9MbSHAqQ&pp=ygUS66as7Jeg7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "190 views"
+          },
+          {
+            "title": "[코리아포커스] 058. 프랑스재정긴축반대집회 인터뷰1",
+            "channel": "코리아미디어",
+            "url": "https://www.youtube.com/watch?v=2oyInT6gG7s&pp=ygUS66as7Jeg7J2Y7JuQIEtvcmVh",
+            "view_text": "79 views"
+          },
+          {
+            "title": "3회코리아국제포럼 - 코리아 이즈 원 : 코리아의 자주와 평화, 통일",
+            "channel": "TheCoreaforum",
+            "url": "https://www.youtube.com/watch?v=HyEqEnLr5WA&pp=ygUS66as7Jeg7J2Y7JuQIEtvcmVh",
+            "view_text": "226 views"
           }
         ]
       }
@@ -78,12 +108,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

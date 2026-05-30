@@ -1,0 +1,148 @@
+{
+  "query": "BLS의원 본점",
+  "generated_at": "2026-05-29T10:42:21.377Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 8085,
+      "extra": {
+        "place_id": "12066466",
+        "name": "BLS의원 본점 : 네이버\u001c",
+        "visitor_review_count": 2334,
+        "blog_review_count": 5751,
+        "detail_url": "https://m.place.naver.com/place/12066466/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "BLS clinic in Seoul",
+        "rating": 5,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 19,
+      "extra": {
+        "total_views": 37435,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 19,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 19,
+        "top_videos": [
+          {
+            "title": "20년 리프팅 장인 원장님이 선택한 요즘 핫한 리프팅 시술🌊 #소프웨이브 #BLS의원본점",
+            "channel": "소프웨이브™ 리프팅 (Sofwave™ Korea)",
+            "url": "https://www.youtube.com/watch?v=PI5YkPUK2nE&pp=ygUWQkxT7J2Y7JuQIOuzuOygkCBLb3JlYQ%3D%3D",
+            "view_text": "891 views"
+          },
+          {
+            "title": "소프웨이브 이 부위에 효과 직빵! 어디 부위일까~?🌊 #소프웨이브 #BLS의원본점",
+            "channel": "소프웨이브™ 리프팅 (Sofwave™ Korea)",
+            "url": "https://www.youtube.com/watch?v=cMqhrX47AGU&pp=ygUWQkxT7J2Y7JuQIOuzuOygkCBLb3JlYQ%3D%3D",
+            "view_text": "577 views"
+          },
+          {
+            "title": "입술, 팔자, 눈밑 필러시술영상 비엘에스의원 본점",
+            "channel": "BLS클리닉",
+            "url": "https://www.youtube.com/watch?v=YRkDbOm-srU&pp=ygUWQkxT7J2Y7JuQIOuzuOygkCBLb3JlYQ%3D%3D",
+            "view_text": "233 views"
+          },
+          {
+            "title": "🚨반전 주의🚨외모는 미스코리아인데 어딘가 엉뚱한 명동 핫플 피부클리닉 원장님 등장~😁",
+            "channel": "BLS클리닉",
+            "url": "https://www.youtube.com/watch?v=T6xXzYbEZWY&pp=ygUWQkxT7J2Y7JuQIOuzuOygkCBLb3JlYQ%3D%3D",
+            "view_text": "326 views"
+          },
+          {
+            "title": "BLS클리닉 본점 프랑스동안치료 시술영상",
+            "channel": "BLS클리닉",
+            "url": "https://www.youtube.com/watch?v=Dbv2yGPxHA4&pp=ygUWQkxT7J2Y7JuQIOuzuOygkCBLb3JlYQ%3D%3D",
+            "view_text": "303 views"
+          },
+          {
+            "title": "⚡리프팅의 장✨단점🎯이 뭔지 궁금한 사람 손!!! [잠실BLS클리닉/강한별대표원장님]",
+            "channel": "쁘띠팩토리 PETIT  factory",
+            "url": "https://www.youtube.com/watch?v=CSfMWsjcOPE&pp=ygUWQkxT7J2Y7JuQIOuzuOygkCBLb3JlYQ%3D%3D",
+            "view_text": "1.7K views"
+          },
+          {
+            "title": "100세 시대! K뷰티 열풍! 이 시술은 어떤 연령대에 추천할까?🌊 #소프웨이브 #BLS의원본점",
+            "channel": "소프웨이브™ 리프팅 (Sofwave™ Korea)",
+            "url": "https://www.youtube.com/watch?v=oG5Pu9VY9XA&pp=ygUWQkxT7J2Y7JuQIOuzuOygkCBLb3JlYQ%3D%3D",
+            "view_text": "1.1K views"
+          },
+          {
+            "title": "측두필러 시술 영상 보고 받으세요~~! 비엘에스의원 본점",
+            "channel": "BLS클리닉",
+            "url": "https://www.youtube.com/watch?v=EQdfNytjeBQ&pp=ygUWQkxT7J2Y7JuQIOuzuOygkCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "466 views"
+          },
+          {
+            "title": "BLS본점 수소토닝 피부재생관리 시술영상",
+            "channel": "BLS클리닉",
+            "url": "https://www.youtube.com/watch?v=iDm3JboeJzk&pp=ygUWQkxT7J2Y7JuQIOuzuOygkCBLb3JlYQ%3D%3D",
+            "view_text": "329 views"
+          },
+          {
+            "title": "BLS클리닉 본점 립글로시 시술영상",
+            "channel": "BLS클리닉",
+            "url": "https://www.youtube.com/watch?v=GPgMXmM5TDw&pp=ygUWQkxT7J2Y7JuQIOuzuOygkCBLb3JlYQ%3D%3D",
+            "view_text": "518 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

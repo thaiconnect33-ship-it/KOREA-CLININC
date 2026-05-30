@@ -1,16 +1,18 @@
 {
   "query": "연세에스웰피부과의원",
-  "generated_at": "2026-05-28T23:40:42.878Z",
+  "generated_at": "2026-05-29T12:25:56.798Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 909,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "12771704",
+        "name": "연세에스웰피부과의원 : 네이버\u001c",
+        "visitor_review_count": 888,
+        "blog_review_count": 21,
+        "detail_url": "https://m.place.naver.com/place/12771704/home"
       }
     },
     "google_maps": {
@@ -59,62 +61,62 @@
           {
             "title": "30대 피부과 시술 추천 3가지",
             "channel": "연세에스웰피부과",
-            "url": "https://www.youtube.com/watch?v=HjIsM0iDA6w&pp=ygUt7Jew7IS47JeQ7Iqk7Juw7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=HjIsM0iDA6w&pp=ygUk7Jew7IS47JeQ7Iqk7Juw7ZS867aA6rO87J2Y7JuQIEtvcmVh",
             "view_text": "163 views"
           },
           {
             "title": "피부과 전문의의 비판텐 사용 꿀팁!",
             "channel": "연세에스웰피부과",
-            "url": "https://www.youtube.com/watch?v=wVfCKzK4G7A&pp=ygUt7Jew7IS47JeQ7Iqk7Juw7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=wVfCKzK4G7A&pp=ygUk7Jew7IS47JeQ7Iqk7Juw7ZS867aA6rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
             "view_text": "42 views"
+          },
+          {
+            "title": "MZ세대 피부고민, 전문가가 해결해드립니다📢",
+            "channel": "연세에스웰피부과",
+            "url": "https://www.youtube.com/watch?v=g_WobuJoHVg&pp=ygUk7Jew7IS47JeQ7Iqk7Juw7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "145 views"
           },
           {
             "title": "50대 피부과 추천시술 3가지!",
             "channel": "연세에스웰피부과",
-            "url": "https://www.youtube.com/watch?v=kg6s8RrKyYo&pp=ygUt7Jew7IS47JeQ7Iqk7Juw7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=kg6s8RrKyYo&pp=ygUk7Jew7IS47JeQ7Iqk7Juw7ZS867aA6rO87J2Y7JuQIEtvcmVh",
             "view_text": "88 views"
           },
           {
             "title": "비싼 크림 대신 바세린 이렇게 사용해보세요",
             "channel": "연세에스웰피부과",
-            "url": "https://www.youtube.com/watch?v=8-5yMnDxT5I&pp=ygUt7Jew7IS47JeQ7Iqk7Juw7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCSMLAYcqIYzv",
+            "url": "https://www.youtube.com/watch?v=8-5yMnDxT5I&pp=ygUk7Jew7IS47JeQ7Iqk7Juw7ZS867aA6rO87J2Y7JuQIEtvcmVh",
             "view_text": "48 views"
-          },
-          {
-            "title": "📢 MZ세대 피부고민, 전문가가 해결해드립니다!",
-            "channel": "연세에스웰피부과",
-            "url": "https://www.youtube.com/watch?v=7FwIGovi_aw&pp=ygUt7Jew7IS47JeQ7Iqk7Juw7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "136 views"
           },
           {
             "title": "기미를 확실하게 잡는 방법",
             "channel": "연세에스웰피부과",
-            "url": "https://www.youtube.com/watch?v=dafzt-KmTaE&pp=ygUt7Jew7IS47JeQ7Iqk7Juw7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=dafzt-KmTaE&pp=ygUk7Jew7IS47JeQ7Iqk7Juw7ZS867aA6rO87J2Y7JuQIEtvcmVh",
             "view_text": "38 views"
           },
           {
-            "title": "MZ세대 피부고민, 전문가가 해결해드립니다📢",
+            "title": "📢 MZ세대 피부고민, 전문가가 해결해드립니다!",
             "channel": "연세에스웰피부과",
-            "url": "https://www.youtube.com/watch?v=g_WobuJoHVg&pp=ygUt7Jew7IS47JeQ7Iqk7Juw7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "145 views"
-          },
-          {
-            "title": "피부과 시술이 실비보험이 된다❓❗ | 비용 때문에 시술 망설였던 분들 | COME ON! | NDA Plus",
-            "channel": "연세디에이지",
-            "url": "https://www.youtube.com/watch?v=XM2Mb7xZ8dw&pp=ygUt7Jew7IS47JeQ7Iqk7Juw7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "2.6K views"
+            "url": "https://www.youtube.com/watch?v=7FwIGovi_aw&pp=ygUk7Jew7IS47JeQ7Iqk7Juw7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "136 views"
           },
           {
             "title": "\"너무 아프다\"…한마디 남기고 지방흡입 수술 후 사망 / KNN",
             "channel": "KNN NEWS",
-            "url": "https://www.youtube.com/watch?v=Q3Ii_0VymLc&pp=ygUt7Jew7IS47JeQ7Iqk7Juw7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=Q3Ii_0VymLc&pp=ygUk7Jew7IS47JeQ7Iqk7Juw7ZS867aA6rO87J2Y7JuQIEtvcmVh",
             "view_text": "2.2M views"
           },
           {
-            "title": "SM 천상계 연예인으로 만들어준다는 성형외과!!",
-            "channel": "핫이슈HOT ISSUE",
-            "url": "https://www.youtube.com/watch?v=WTeNWTENa54&pp=ygUt7Jew7IS47JeQ7Iqk7Juw7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "1.7M views"
+            "title": "피부과 시술이 실비보험이 된다❓❗ | 비용 때문에 시술 망설였던 분들 | COME ON! | NDA Plus",
+            "channel": "연세디에이지",
+            "url": "https://www.youtube.com/watch?v=XM2Mb7xZ8dw&pp=ygUk7Jew7IS47JeQ7Iqk7Juw7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "2.6K views"
+          },
+          {
+            "title": "맘모톰, 절대 하지 마세요 [엽상종양, 섬유선종 유방암이 될 확률]",
+            "channel": "유방건강TV",
+            "url": "https://www.youtube.com/watch?v=y0qRiwhSmT0&pp=ygUk7Jew7IS47JeQ7Iqk7Juw7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "189K views"
           }
         ]
       }
@@ -130,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

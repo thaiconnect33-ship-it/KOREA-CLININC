@@ -1,6 +1,6 @@
 {
   "query": "ReGen Plastic Surgery",
-  "generated_at": "2026-05-29T05:42:33.584Z",
+  "generated_at": "2026-05-29T10:08:23.604Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 179225,
+        "total_views": 30815,
         "foreign_video_count": 19,
         "lang_breakdown": {
           "korean": 1,
@@ -62,61 +62,61 @@
             "title": "[REGEN Plastic Surgery Korea] CBS Press release",
             "channel": "Regen Plastic Surgery Gangnam Korea",
             "url": "https://www.youtube.com/watch?v=MXP4ia0cLU8&pp=ygUbUmVHZW4gUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
-            "view_text": "4.4K views"
+            "view_text": "4.4K"
           },
           {
             "title": "[Regen in TV] CBS this morning / Plastic Surgery in South Korea",
             "channel": "오앤's History REGEN 리젠성형외과",
             "url": "https://www.youtube.com/watch?v=-nhgvSSAHHQ&pp=ygUbUmVHZW4gUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
-            "view_text": "864 views"
+            "view_text": "864"
           },
           {
             "title": "[REGEN Plastic Surgery Korea] Arirang TV",
             "channel": "Regen Plastic Surgery Gangnam Korea",
             "url": "https://www.youtube.com/watch?v=0jZbifRYzhc&pp=ygUbUmVHZW4gUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
-            "view_text": "1.2K views"
+            "view_text": "1.2K"
           },
           {
             "title": "[REGEN Plastic Surgery Korea] Real review Thai girl part.1 consultation day",
             "channel": "Regen Plastic Surgery Gangnam Korea",
             "url": "https://www.youtube.com/watch?v=crwm8tXNNug&pp=ygUbUmVHZW4gUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
-            "view_text": "5.3K views"
+            "view_text": "5.3K"
           },
           {
             "title": "[REGEN Plastic Surgery Korea] French society of Plastic Surgery",
             "channel": "Regen Plastic Surgery Gangnam Korea",
             "url": "https://www.youtube.com/watch?v=5dBROn7NM6U&pp=ygUbUmVHZW4gUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
-            "view_text": "808 views"
-          },
-          {
-            "title": "[REGEN Plastic Surgery Korea] Real review Thai girl part.2 surgery day",
-            "channel": "Regen Plastic Surgery Gangnam Korea",
-            "url": "https://www.youtube.com/watch?v=lDAAHa0k9Hc&pp=ygUbUmVHZW4gUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
-            "view_text": "2.6K views"
-          },
-          {
-            "title": "REGEN Plastic Surgery Korea: Two Jaw Surgery",
-            "channel": "Regen Plastic Surgery Gangnam Korea",
-            "url": "https://www.youtube.com/watch?v=nWFrt0L1z8U&pp=ygUbUmVHZW4gUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
-            "view_text": "174 views"
+            "view_text": "808"
           },
           {
             "title": "[REGEN Plastic Surgery Korea] CBS News reporters filming Dr.OH consultation",
             "channel": "Regen Plastic Surgery Gangnam Korea",
             "url": "https://www.youtube.com/watch?v=2qxoJkCbxV4&pp=ygUbUmVHZW4gUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
-            "view_text": "795 views"
+            "view_text": "795"
+          },
+          {
+            "title": "REGEN Plastic Surgery Korea: Two Jaw Surgery",
+            "channel": "Regen Plastic Surgery Gangnam Korea",
+            "url": "https://www.youtube.com/watch?v=nWFrt0L1z8U&pp=ygUbUmVHZW4gUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "174"
+          },
+          {
+            "title": "[REGEN Plastic Surgery Korea] Singapore girls surgery story in Regen :D",
+            "channel": "Regen Plastic Surgery Gangnam Korea",
+            "url": "https://www.youtube.com/watch?v=zEv58lE6XW8&pp=ygUbUmVHZW4gUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "932"
+          },
+          {
+            "title": "[REGEN Plastic Surgery Korea] Famous power blogger in Singapore \"QiuQiu\"",
+            "channel": "Regen Plastic Surgery Gangnam Korea",
+            "url": "https://www.youtube.com/watch?v=q2T_DRvSWbk&pp=ygUbUmVHZW4gUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "1.4K"
           },
           {
             "title": "[REGEN Plastic Surgery Korea] Regen plastic surgery after pictures in 1~15 weeks",
             "channel": "Regen Plastic Surgery Gangnam Korea",
             "url": "https://www.youtube.com/watch?v=IyQNsoFiWNI&pp=ygUbUmVHZW4gUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
-            "view_text": "1K views"
-          },
-          {
-            "title": "[REGEN Plastic Surgery Korea] Real review Thai girl part.3 Recovery process",
-            "channel": "Regen Plastic Surgery Gangnam Korea",
-            "url": "https://www.youtube.com/watch?v=Qc1KFfcybbE&pp=ygUbUmVHZW4gUGxhc3RpYyBTdXJnZXJ5IEtvcmVh0gcJCSMLAYcqIYzv",
-            "view_text": "5.8K views"
+            "view_text": "1K"
           }
         ]
       }

@@ -1,53 +1,44 @@
 {
   "query": "에스앤유피부과의원",
-  "generated_at": "2026-05-28T23:38:39.002Z",
+  "generated_at": "2026-05-29T12:22:41.593Z",
   "cached": false,
   "platforms": {
     "naver": {
-      "ok": true,
+      "ok": false,
+      "error": "page.evaluate: Target page, context or browser has been closed",
       "metric_label": "리뷰",
-      "metric_value": 810,
-      "extra": {
-        "place_id": "13277687",
-        "name": "에스앤유피부과의원 : 네이버\u001c",
-        "visitor_review_count": 762,
-        "blog_review_count": 48,
-        "detail_url": "https://m.place.naver.com/place/13277687/home"
-      }
+      "metric_value": 0
     },
     "google_maps": {
       "ok": true,
       "metric_label": "리뷰",
       "metric_value": 0,
       "extra": {
-        "name": "Results",
+        "name": "에스앤유피부과",
         "rating": 3.3,
         "total_reviews": 0,
-        "sample_size": 6,
-        "foreign_language_reviews": 6,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 6
+          "english_other": 0
         }
       }
     },
     "pantip": {
-      "ok": true,
+      "ok": false,
+      "error": "page.evaluate: Target page, context or browser has been closed",
       "metric_label": "스레드",
-      "metric_value": 0,
-      "extra": {
-        "threads": [],
-        "total_views": 0
-      }
+      "metric_value": 0
     },
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 1007417,
+        "total_views": 1010646,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -61,62 +52,62 @@
           {
             "title": "피부 노화의 핵심인 ECM에 투자하자 / 에스앤유피부과 김병수",
             "channel": "의학채널 비온뒤",
-            "url": "https://www.youtube.com/watch?v=pg-hiSAgcuA&pp=ygUq7JeQ7Iqk7JWk7Jyg7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "5.4K views"
-          },
-          {
-            "title": "신사에스앤유피부과 - 모공관리/고주파 미세주사/물광주사/더모톡신/박피/피지제거",
-            "channel": "신사에스앤유피부과",
-            "url": "https://www.youtube.com/watch?v=hhcqpGhx1Yw&pp=ygUq7JeQ7Iqk7JWk7Jyg7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "4K views"
-          },
-          {
-            "title": "청담수안피부과 병원소개",
-            "channel": "조용선",
-            "url": "https://www.youtube.com/watch?v=OiSP4qsMteE&pp=ygUq7JeQ7Iqk7JWk7Jyg7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "309 views"
-          },
-          {
-            "title": "우아한피부과 소개영상",
-            "channel": "우아한피부과",
-            "url": "https://www.youtube.com/watch?v=keH30Sajolw&pp=ygUq7JeQ7Iqk7JWk7Jyg7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "1K views"
+            "url": "https://www.youtube.com/watch?v=pg-hiSAgcuA&pp=ygUh7JeQ7Iqk7JWk7Jyg7ZS867aA6rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "5.4K"
           },
           {
             "title": "피부 ECM에 투자하자 / 분당에스앤유피부과 김병수",
             "channel": "의학채널 비온뒤",
-            "url": "https://www.youtube.com/watch?v=OWuFs9_vhVs&pp=ygUq7JeQ7Iqk7JWk7Jyg7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "2.7K views"
+            "url": "https://www.youtube.com/watch?v=OWuFs9_vhVs&pp=ygUh7JeQ7Iqk7JWk7Jyg7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "2.7K"
+          },
+          {
+            "title": "신사에스앤유피부과 - 모공관리/고주파 미세주사/물광주사/더모톡신/박피/피지제거",
+            "channel": "신사에스앤유피부과",
+            "url": "https://www.youtube.com/watch?v=hhcqpGhx1Yw&pp=ygUh7JeQ7Iqk7JWk7Jyg7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "4K"
+          },
+          {
+            "title": "분당탈모병원 에스앤유피부과 탈모클리닉 탈모치료법입니다.",
+            "channel": "Yujung Lee (날아라구피)",
+            "url": "https://www.youtube.com/watch?v=uC1GfZErFCA&pp=ygUh7JeQ7Iqk7JWk7Jyg7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "323"
           },
           {
             "title": "2011 마포공덕에스앤유피부과",
             "channel": "에스앤유피부과 - 색소모반, 피부과",
-            "url": "https://www.youtube.com/watch?v=ZhAGPtQxFzY&pp=ygUq7JeQ7Iqk7JWk7Jyg7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "548 views"
-          },
-          {
-            "title": "영등포 계피부과를 소개합니다. - SINCE 1961",
-            "channel": "계피부과 since1961",
-            "url": "https://www.youtube.com/watch?v=7pphGkeT8UM&pp=ygUq7JeQ7Iqk7JWk7Jyg7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "6.1K views"
+            "url": "https://www.youtube.com/watch?v=ZhAGPtQxFzY&pp=ygUh7JeQ7Iqk7JWk7Jyg7ZS867aA6rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "548"
           },
           {
             "title": "켄델라에게 하고 싶은 말 - 서성락 원장님(스킨다피부과)",
             "channel": "Candela Korea",
-            "url": "https://www.youtube.com/watch?v=0LF0dXBapMk&pp=ygUq7JeQ7Iqk7JWk7Jyg7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "349 views"
+            "url": "https://www.youtube.com/watch?v=0LF0dXBapMk&pp=ygUh7JeQ7Iqk7JWk7Jyg7ZS867aA6rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "349"
           },
           {
-            "title": "좋은 피부과 찾는 법?? 이것만 기억하세요! (피부과 전문의)",
-            "channel": "피부고민상담소  신촌연세스타피부과",
-            "url": "https://www.youtube.com/watch?v=pxZPl_YACUA&pp=ygUq7JeQ7Iqk7JWk7Jyg7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "49K views"
+            "title": "\"원장님께서 별세하셨기에\"…유명 피부과 '피해자 속출' / SBS 8뉴스",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=-3uLsD3sWGU&pp=ygUh7JeQ7Iqk7JWk7Jyg7ZS867aA6rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "924K"
           },
           {
-            "title": "김방순원장님 궁금해요",
-            "channel": "한모두티비",
-            "url": "https://www.youtube.com/watch?v=PWOkQlnXC1s&pp=ygUq7JeQ7Iqk7JWk7Jyg7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "632 views"
+            "title": "레이저덕후😎 태어나자마자 병원에 와야하는 피부 병변 A to Z!",
+            "channel": "인천 청라 휴먼피부과",
+            "url": "https://www.youtube.com/watch?v=AWKmt7IqcOA&pp=ygUh7JeQ7Iqk7JWk7Jyg7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "2K"
+          },
+          {
+            "title": "스킨부스터 A to Z 까지 모두 설명 드립니다✨",
+            "channel": "스누성형외과 SNU Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=GZADHpcJ-MA&pp=ygUh7JeQ7Iqk7JWk7Jyg7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "90"
+          },
+          {
+            "title": "신사에스앤유피부과 - 여성탈모 종류 및 증상에 따른 치료(원형탈모, 여성형탈모, 휴지기탈모, 생장기탈모, 대머리)",
+            "channel": "신사에스앤유피부과",
+            "url": "https://www.youtube.com/watch?v=8uzN62yp--4&pp=ygUh7JeQ7Iqk7JWk7Jyg7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.2K"
           }
         ]
       }
@@ -133,15 +124,12 @@
     },
     "lemon8": {
       "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "error": "page.waitForTimeout: Target page, context or browser has been closed",
       "metric_label": "포스트",
-      "metric_value": 0,
-      "extra": {
-        "manual": true
-      }
+      "metric_value": 0
     }
   },
-  "global_score": 3,
-  "opportunity_cost_thb": 97000,
-  "opportunity_cost_krw": 3880000
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
 }

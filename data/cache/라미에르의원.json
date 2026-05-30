@@ -1,17 +1,17 @@
 {
   "query": "라미에르의원",
-  "generated_at": "2026-05-28T23:38:14.051Z",
+  "generated_at": "2026-05-29T12:22:28.694Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 2078,
+      "metric_value": 2074,
       "extra": {
         "place_id": "34540408",
         "name": "라미에르의원 : 네이버\u001c",
         "visitor_review_count": 1264,
-        "blog_review_count": 814,
+        "blog_review_count": 810,
         "detail_url": "https://m.place.naver.com/place/34540408/home"
       }
     },
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 6952,
+        "total_views": 503181,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -59,64 +59,64 @@
         "sample_size": 20,
         "top_videos": [
           {
+            "title": "색소치료 이후 관리가 더 중요하죠!!",
+            "channel": "새론언니- 비만해결,다이어트비법",
+            "url": "https://www.youtube.com/watch?v=r6q0mh0ro-8&pp=ygUY652866-47JeQ66W07J2Y7JuQIEtvcmVh",
+            "view_text": "128 views"
+          },
+          {
             "title": "연예인 다이어트 무조건 따라하지 마세요!!",
             "channel": "새론언니- 비만해결,다이어트비법",
-            "url": "https://www.youtube.com/watch?v=l05GiEcxwnI&pp=ygUh652866-47JeQ66W07J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=l05GiEcxwnI&pp=ygUY652866-47JeQ66W07J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
             "view_text": "259 views"
           },
           {
             "title": "뱃살, 복부비만 호르몬으로 관리로 다이어트해보세요!",
             "channel": "새론언니- 비만해결,다이어트비법",
-            "url": "https://www.youtube.com/watch?v=ZJaxhCk6pqg&pp=ygUh652866-47JeQ66W07J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=ZJaxhCk6pqg&pp=ygUY652866-47JeQ66W07J2Y7JuQIEtvcmVh",
             "view_text": "1.5K views"
-          },
-          {
-            "title": "색소치료 이후 관리가 더 중요하죠!!",
-            "channel": "새론언니- 비만해결,다이어트비법",
-            "url": "https://www.youtube.com/watch?v=r6q0mh0ro-8&pp=ygUh652866-47JeQ66W07J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "128 views"
-          },
-          {
-            "title": "뱃살 가장 빠른 시술은요?!",
-            "channel": "새론언니- 비만해결,다이어트비법",
-            "url": "https://www.youtube.com/watch?v=JJSMPPE01Zk&pp=ygUh652866-47JeQ66W07J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "183 views"
-          },
-          {
-            "title": "일상속 뱃살 비만 다이어트 이렇게 하세요!",
-            "channel": "새론언니- 비만해결,다이어트비법",
-            "url": "https://www.youtube.com/watch?v=mgcmZldw_nI&pp=ygUh652866-47JeQ66W07J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "1.4K views"
           },
           {
             "title": "피부색소질환 이렇게 해보세요!!",
             "channel": "새론언니- 비만해결,다이어트비법",
-            "url": "https://www.youtube.com/watch?v=RCyvWFxbFHs&pp=ygUh652866-47JeQ66W07J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=RCyvWFxbFHs&pp=ygUY652866-47JeQ66W07J2Y7JuQIEtvcmVh",
             "view_text": "80 views"
           },
           {
-            "title": "[클럽미즈9라미체] 라미체피부과 홍보 영상",
-            "channel": "클럽미즈라미체의원 [피부과]",
-            "url": "https://www.youtube.com/watch?v=nF88V74Usp4&pp=ygUh652866-47JeQ66W07J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "968 views"
+            "title": "뱃살 가장 빠른 시술은요?!",
+            "channel": "새론언니- 비만해결,다이어트비법",
+            "url": "https://www.youtube.com/watch?v=JJSMPPE01Zk&pp=ygUY652866-47JeQ66W07J2Y7JuQIEtvcmVh",
+            "view_text": "183 views"
           },
           {
-            "title": "휴가 후, 급다이어트! 관리방법 TOP3",
+            "title": "하체비만, 다리부종 이렇게 해결하세요!!",
             "channel": "새론언니- 비만해결,다이어트비법",
-            "url": "https://www.youtube.com/watch?v=xnCYaFX9b3A&pp=ygUh652866-47JeQ66W07J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "124 views"
+            "url": "https://www.youtube.com/watch?v=otl3zvDXdz4&pp=ygUY652866-47JeQ66W07J2Y7JuQIEtvcmVh",
+            "view_text": "317 views"
           },
           {
             "title": "셀루라이트 어렵지요? 이렇게 빼보세요!!",
             "channel": "새론언니- 비만해결,다이어트비법",
-            "url": "https://www.youtube.com/watch?v=0C0eMmaA0Lg&pp=ygUh652866-47JeQ66W07J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=0C0eMmaA0Lg&pp=ygUY652866-47JeQ66W07J2Y7JuQIEtvcmVh",
             "view_text": "114 views"
           },
           {
-            "title": "휴가철 벼락치기 다이어트 방법 BEST 3",
+            "title": "다이어트를 실패하는 이유, 이런거에요!",
             "channel": "새론언니- 비만해결,다이어트비법",
-            "url": "https://www.youtube.com/watch?v=Jj05I4uQdac&pp=ygUh652866-47JeQ66W07J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "78 views"
+            "url": "https://www.youtube.com/watch?v=KRneoDzeoiE&pp=ygUY652866-47JeQ66W07J2Y7JuQIEtvcmVh",
+            "view_text": "76 views"
+          },
+          {
+            "title": "연말모임 다이어트 고민되시죠? 영상봐주세요~",
+            "channel": "새론언니- 비만해결,다이어트비법",
+            "url": "https://www.youtube.com/watch?v=DNTRKfmAJrw&pp=ygUY652866-47JeQ66W07J2Y7JuQIEtvcmVh",
+            "view_text": "146 views"
+          },
+          {
+            "title": "휴가 후, 급다이어트! 관리방법 TOP3",
+            "channel": "새론언니- 비만해결,다이어트비법",
+            "url": "https://www.youtube.com/watch?v=xnCYaFX9b3A&pp=ygUY652866-47JeQ66W07J2Y7JuQIEtvcmVh",
+            "view_text": "124 views"
           }
         ]
       }
@@ -132,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

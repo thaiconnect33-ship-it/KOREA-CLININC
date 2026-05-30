@@ -1,0 +1,148 @@
+{
+  "query": "VS라인의원 압구정점",
+  "generated_at": "2026-05-29T11:16:31.986Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 2532,
+      "extra": {
+        "place_id": "1958726989",
+        "name": "VS라인의원 압구정점 : 네이버\u001c",
+        "visitor_review_count": 1712,
+        "blog_review_count": 820,
+        "detail_url": "https://m.place.naver.com/place/1958726989/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "VS Line Clinic",
+        "rating": 4.7,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 2888437,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "[예능형] VS라인의원 x 쥬베룩",
+            "channel": "The SC",
+            "url": "https://www.youtube.com/watch?v=8KEM7jqEKaE&pp=ygUhVlPrnbzsnbjsnZjsm5Ag7JWV6rWs7KCV7KCQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "423"
+          },
+          {
+            "title": "브이라인 되고싶다면 V슈링크 시술 영상 비엘에스의원 압구정점",
+            "channel": "BLS클리닉",
+            "url": "https://www.youtube.com/watch?v=a8FNeVGI-Jk&pp=ygUhVlPrnbzsnbjsnZjsm5Ag7JWV6rWs7KCV7KCQIEtvcmVh",
+            "view_text": "202"
+          },
+          {
+            "title": "리노보의원 압구정점 인모드 시술 소개영상",
+            "channel": "리노보클리닉",
+            "url": "https://www.youtube.com/watch?v=wLeDticJvas&pp=ygUhVlPrnbzsnbjsnZjsm5Ag7JWV6rWs7KCV7KCQIEtvcmVh",
+            "view_text": "239"
+          },
+          {
+            "title": "피부 고민 바로 해결?",
+            "channel": "여신티켓 - 피부탐구생활",
+            "url": "https://www.youtube.com/watch?v=CKq4p0QOsY8&pp=ygUhVlPrnbzsnbjsnZjsm5Ag7JWV6rWs7KCV7KCQIEtvcmVh",
+            "view_text": "7"
+          },
+          {
+            "title": "매끈한 얼굴라인 만드는 조각주사 함께 알아볼까요 비엘에스의원 압구정점",
+            "channel": "BLS클리닉",
+            "url": "https://www.youtube.com/watch?v=B0oBv8Mw9II&pp=ygUhVlPrnbzsnbjsnZjsm5Ag7JWV6rWs7KCV7KCQIEtvcmVh",
+            "view_text": "898"
+          },
+          {
+            "title": "매끈매끈한 피부 갖고 싶다면?",
+            "channel": "여신티켓 - 피부탐구생활",
+            "url": "https://www.youtube.com/watch?v=ywf9qjg5hwY&pp=ygUhVlPrnbzsnbjsnZjsm5Ag7JWV6rWs7KCV7KCQIEtvcmVh",
+            "view_text": "13"
+          },
+          {
+            "title": "\"너무 아프다\"…한마디 남기고 지방흡입 수술 후 사망 / KNN",
+            "channel": "KNN NEWS",
+            "url": "https://www.youtube.com/watch?v=Q3Ii_0VymLc&pp=ygUhVlPrnbzsnbjsnZjsm5Ag7JWV6rWs7KCV7KCQIEtvcmVh",
+            "view_text": "2.2M"
+          },
+          {
+            "title": "통증 없이 얼굴 탄력 해결 하고 싶어요🥹",
+            "channel": "여신티켓 - 피부탐구생활",
+            "url": "https://www.youtube.com/watch?v=NCyGvGQ0rGg&pp=ygUhVlPrnbzsnbjsnZjsm5Ag7JWV6rWs7KCV7KCQIEtvcmVh",
+            "view_text": "21"
+          },
+          {
+            "title": "온다 리프팅 시술 전 꼭 봐야하는 영상",
+            "channel": "여신티켓 - 피부탐구생활",
+            "url": "https://www.youtube.com/watch?v=vwW0SegSFPk&pp=ygUhVlPrnbzsnbjsnZjsm5Ag7JWV6rWs7KCV7KCQIEtvcmVh",
+            "view_text": "125"
+          },
+          {
+            "title": "어떻게 봐도 v라인! 숨겨진 V라인 찾는 턱보톡스! 비엘에스의원, 보톡스",
+            "channel": "정콘TV",
+            "url": "https://www.youtube.com/watch?v=ZbLlOu8ApZA&pp=ygUhVlPrnbzsnbjsnZjsm5Ag7JWV6rWs7KCV7KCQIEtvcmVh",
+            "view_text": "80"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 145000,
+  "opportunity_cost_krw": 5800000
+}

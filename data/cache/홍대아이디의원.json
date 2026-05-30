@@ -1,17 +1,17 @@
 {
   "query": "홍대아이디의원",
-  "generated_at": "2026-05-28T22:55:22.044Z",
+  "generated_at": "2026-05-29T11:35:04.541Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 632,
+      "metric_value": 631,
       "extra": {
         "place_id": "1236512004",
         "name": "홍대아이디의원 : 네이버\u001c",
-        "visitor_review_count": 384,
-        "blog_review_count": 248,
+        "visitor_review_count": 382,
+        "blog_review_count": 249,
         "detail_url": "https://m.place.naver.com/place/1236512004/home"
       }
     },
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 4561708,
+        "total_views": 5391270,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -59,64 +59,64 @@
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "피부가 예뻐지는 치유 공간, 아이디클리닉",
-            "channel": "올리고 핏하다 아이디클리닉",
-            "url": "https://www.youtube.com/watch?v=RSP9XqsYvls&pp=ygUk7ZmN64yA7JWE7J2065SU7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "671 views"
+            "title": "흉터 걱정 없이 확실한 리프팅!😲 아이디 최소절개 스마스리프팅",
+            "channel": "아이디병원 - Beauty Wonderland",
+            "url": "https://www.youtube.com/watch?v=lmySr6hDkB8&pp=ygUb7ZmN64yA7JWE7J2065SU7J2Y7JuQIEtvcmVh",
+            "view_text": "119K views"
           },
           {
             "title": "[단독] 강남 성형외과에 '분통'…\"근육 썩고 사경 헤맸다\" / SBS 8뉴스",
             "channel": "SBS 뉴스",
-            "url": "https://www.youtube.com/watch?v=svfX3-lNpIw&pp=ygUk7ZmN64yA7JWE7J2065SU7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=svfX3-lNpIw&pp=ygUb7ZmN64yA7JWE7J2065SU7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
             "view_text": "2.4M views"
           },
           {
             "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
             "channel": "JTBC News",
-            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUk7ZmN64yA7JWE7J2065SU7J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUb7ZmN64yA7JWE7J2065SU7J2Y7JuQIEtvcmVh",
             "view_text": "1M views"
           },
           {
-            "title": "\"강남 유명 성형외과서 수술 뒤 눈이 실명됐습니다\" [지금이뉴스] / YTN",
-            "channel": "YTN",
-            "url": "https://www.youtube.com/watch?v=UyMrX929Q4I&pp=ygUk7ZmN64yA7JWE7J2065SU7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "576K views"
+            "title": "\"Will I become Jenny if I undergo a plastic surgery?\" | Monday Blues EP.03 | ID Hospital",
+            "channel": "스튜디오 훜 : STUDIO HOOK",
+            "url": "https://www.youtube.com/watch?v=2YswCvAEXmk&pp=ygUb7ZmN64yA7JWE7J2065SU7J2Y7JuQIEtvcmVh",
+            "view_text": "211K views"
           },
           {
-            "title": "홍대피부과, 손발톱무좀 치료법에 대해 알아보자!",
-            "channel": "hongdaedoctor",
-            "url": "https://www.youtube.com/watch?v=t5B2ESiwnB4&pp=ygUk7ZmN64yA7JWE7J2065SU7J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "358 views"
+            "title": "미니리프팅으로 피부처짐 완벽 고민해결! (케이스, 수술방법, 관리법)",
+            "channel": "아이디병원 - Beauty Wonderland",
+            "url": "https://www.youtube.com/watch?v=P6DBt-gfT1Q&pp=ygUb7ZmN64yA7JWE7J2065SU7J2Y7JuQIEtvcmVh",
+            "view_text": "12K views"
           },
           {
-            "title": "도망쳐..지금이야!! 성형외과 블랙리스트 이렇게 거르세요",
-            "channel": "지유미 JIYUMEE",
-            "url": "https://www.youtube.com/watch?v=VK1hIW0QP-g&pp=ygUk7ZmN64yA7JWE7J2065SU7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "126K views"
+            "title": "솔직히 말씀드리면, 병입니다. 미스코리아 심사위원이 사람을 볼 때 하는 생각?",
+            "channel": "뷰닥터의 페이스아이디",
+            "url": "https://www.youtube.com/watch?v=2gHaCg_3AbI&pp=ygUb7ZmN64yA7JWE7J2065SU7J2Y7JuQIEtvcmVh",
+            "view_text": "366 views"
           },
           {
-            "title": "How to find a good plastic surgeon🧡 How to find a good plastic surgeon and avoid plastic surgery ...",
-            "channel": "베레나verena",
-            "url": "https://www.youtube.com/watch?v=SQzMbIJMBTQ&pp=ygUk7ZmN64yA7JWE7J2065SU7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "277K views"
+            "title": "피부가 예뻐지는 치유 공간, 아이디클리닉",
+            "channel": "올리고 핏하다 아이디클리닉",
+            "url": "https://www.youtube.com/watch?v=RSP9XqsYvls&pp=ygUb7ZmN64yA7JWE7J2065SU7J2Y7JuQIEtvcmVh",
+            "view_text": "671 views"
           },
           {
-            "title": "뷰티라운지클리닉",
-            "channel": "뷰티라운지클리닉",
-            "url": "https://www.youtube.com/watch?v=ntE3fyTvYfg&pp=ygUk7ZmN64yA7JWE7J2065SU7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "882 views"
+            "title": "메이크오버쇼 방송 중 BJ외질혜, BJ윤마가 반한 미남 바리스타!",
+            "channel": "아이디병원 - Beauty Wonderland",
+            "url": "https://www.youtube.com/watch?v=w5Coo9WXUQA&pp=ygUb7ZmN64yA7JWE7J2065SU7J2Y7JuQIEtvcmVh",
+            "view_text": "5K views"
           },
           {
-            "title": "50~60대라면 꼭 받아야 하는 시술 TOP5ㅣ10살 어려보이는 비법 공개합니다.",
-            "channel": "아는닥터 이원장",
-            "url": "https://www.youtube.com/watch?v=4tjv4SpFWWs&pp=ygUk7ZmN64yA7JWE7J2065SU7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "129K views"
+            "title": "Considering Your First Lifting Procedure? Mini Vertical Lifting vs. Mini Deep-Plane Facelift Expl...",
+            "channel": "아이디병원 - Beauty Wonderland",
+            "url": "https://www.youtube.com/watch?v=ITtAxPOKv-c&pp=ygUb7ZmN64yA7JWE7J2065SU7J2Y7JuQIEtvcmVh",
+            "view_text": "228 views"
           },
           {
-            "title": "[탐클리닉] 양악주사, 달라진 그녀의 얼굴라인 이야기의 사본",
-            "channel": "LEO KIM",
-            "url": "https://www.youtube.com/watch?v=QDA0Bz45aTQ&pp=ygUk7ZmN64yA7JWE7J2065SU7J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "35 views"
+            "title": "안면거상의 진실! 【JW정원성형외과】 강홍대 원장이 속시원히 말해준다! 이 영상을 보기 전까진 절대 수술 하지마세요!",
+            "channel": "JW정원성형외과",
+            "url": "https://www.youtube.com/watch?v=bNZO-SqztNs&pp=ygUb7ZmN64yA7JWE7J2065SU7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "13K views"
           }
         ]
       }
@@ -132,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

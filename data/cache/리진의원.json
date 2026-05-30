@@ -1,16 +1,18 @@
 {
   "query": "리진의원",
-  "generated_at": "2026-05-28T23:09:25.520Z",
+  "generated_at": "2026-05-29T11:49:32.646Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 2295,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "2063784021",
+        "name": "리진의원 : 네이버\u001c",
+        "visitor_review_count": 262,
+        "blog_review_count": 2033,
+        "detail_url": "https://m.place.naver.com/place/2063784021/home"
       }
     },
     "google_maps": {
@@ -18,16 +20,16 @@
       "metric_label": "리뷰",
       "metric_value": 0,
       "extra": {
-        "name": "Results",
-        "rating": 4.3,
+        "name": "Lijin Skin Clinic | Myeongdong, Seoul",
+        "rating": 4.9,
         "total_reviews": 0,
-        "sample_size": 6,
-        "foreign_language_reviews": 6,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 6
+          "english_other": 0
         }
       }
     },
@@ -43,78 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 12,
+      "metric_value": 20,
       "extra": {
-        "total_views": 4773635,
-        "foreign_video_count": 0,
+        "total_views": 518518,
+        "foreign_video_count": 2,
         "lang_breakdown": {
-          "korean": 12,
+          "korean": 18,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
-          "english_other": 0
+          "english_other": 2
         },
-        "sample_size": 12,
+        "sample_size": 20,
         "top_videos": [
           {
-            "title": "\"엉터리 정보에 속지마세요.\" 진료과목 피부과 의사가 뽑은 가성비 시술 딱 '3가지'",
-            "channel": "지식인사이드",
-            "url": "https://www.youtube.com/watch?v=a4S4JNnRIXQ&pp=ygUh66as7KeE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "1.7M views"
+            "title": "Your skin deserves this｜Lijin Clinic Walkthrough in Myeongdong",
+            "channel": "리진의원_Lijinclinic",
+            "url": "https://www.youtube.com/watch?v=GD5i3jr9GQc&pp=ygUS66as7KeE7J2Y7JuQIEtvcmVh",
+            "view_text": "355 views"
           },
           {
-            "title": "\"You can look 10 years younger than your peers!\" 3 treatments even performed by a dermatologist.",
-            "channel": "박지윤의 피부 설명서",
-            "url": "https://www.youtube.com/watch?v=GN7n33Kw7BY&pp=ygUh66as7KeE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "237K views"
+            "title": "South Korea Is Living In The Future! See What They Did to My Face (Microneedling +Colour Analysis🇰🇷",
+            "channel": "Glen And Mado",
+            "url": "https://www.youtube.com/watch?v=u-iRe5MbEV4&pp=ygUS66as7KeE7J2Y7JuQIEtvcmVh",
+            "view_text": "18K views"
           },
           {
-            "title": "\"Dermatologists don't tell you...\" We recommend popular youth-enhancing procedures these days. We...",
-            "channel": "박지윤의 피부 설명서",
-            "url": "https://www.youtube.com/watch?v=EFB-McCJG48&pp=ygUh66as7KeE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "444K views"
+            "title": "People Power Party - Representatives Kim Seok-gi and Tae Young-ho invited",
+            "channel": "WIN TV Chicago",
+            "url": "https://www.youtube.com/watch?v=41Haa1ZRJCo&pp=ygUS66as7KeE7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "2.3K views"
           },
           {
-            "title": "스킨보톡스+리쥬란 시술 이렇게 합니다! #대전피부과 #스킨부스터 #리쥬란",
-            "channel": "불꽃닥터: 라끌레르 의원",
-            "url": "https://www.youtube.com/watch?v=E19L6XufDMc&pp=ygUh66as7KeE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "8.5K views"
+            "title": "'찬성'·'신중'·'반대'...사드 3당 3색 / YTN (Yes! Top News)",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=6gXaiOclCz4&pp=ygUS66as7KeE7J2Y7JuQIEtvcmVh",
+            "view_text": "177 views"
           },
           {
-            "title": "서울대 피부과의사가 찍어주는 스킨부스터 완벽 정리. \"이 영상보면 호구 안당합니다\" - 이도영 피부과전문의",
-            "channel": "피부텐텐 · 피부가 예뻐지는 10분",
-            "url": "https://www.youtube.com/watch?v=rigKW7zrTeI&pp=ygUh66as7KeE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "338K views"
+            "title": "여야 총선 면접 한창…후보들의 '픽미업' 호소 / JTBC 정치부회의",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=ycq02sBC66c&pp=ygUS66as7KeE7J2Y7JuQIEtvcmVh",
+            "view_text": "1.5K views"
+          },
+          {
+            "title": "'비대위' 아닌 '준비위' 놓고도 한국당 난타전 / YTN",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=ad1SY4C8iFY&pp=ygUS66as7KeE7J2Y7JuQIEtvcmVh",
+            "view_text": "246 views"
+          },
+          {
+            "title": "[뉴스1번지] 유성엽 \"의원정수확대-제3지대론\" 주장…이유는? / 연합뉴스TV (YonhapnewsTV)",
+            "channel": "연합뉴스TV",
+            "url": "https://www.youtube.com/watch?v=ZP0a7wVyURg&pp=ygUS66as7KeE7J2Y7JuQIEtvcmVh",
+            "view_text": "323 views"
           },
           {
             "title": "나에게 맞는 피부과 시술 딱 알려드립니다",
             "channel": "한혜진 Han Hye Jin",
-            "url": "https://www.youtube.com/watch?v=pz9U2bHJz30&pp=ygUh66as7KeE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=pz9U2bHJz30&pp=ygUS66as7KeE7J2Y7JuQIEtvcmVh",
             "view_text": "431K views"
           },
           {
-            "title": "의사들만 몰래받는 S급 가성비! 수백만원 아끼는 만족도 가장 높은 시술을 20년차 피부과 전문의가 알려드립니다.",
-            "channel": "피부는 성현철",
-            "url": "https://www.youtube.com/watch?v=SFlFQByIQ1g&pp=ygUh66as7KeE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "913K views"
+            "title": "10/12(월) - 눈물 김정은, 北인민에겐 인간적인 '신'(김준형) / 공수처 반대? 비리 많나? vs 더 켕기는게 누구?(박범계, 김기현) / 화재에 악플까지(울산 피해주민)",
+            "channel": "박성태의 뉴스쇼",
+            "url": "https://www.youtube.com/watch?v=Sq58qOm247Q&pp=ygUS66as7KeE7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "56K views"
           },
           {
-            "title": "[어서함쇼] '여드름 특집 고민 타파' (함익병피부과의원 함익병)",
-            "channel": "의학채널 비온뒤",
-            "url": "https://www.youtube.com/watch?v=6UGXYLDR-0k&pp=ygUh66as7KeE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "65K views"
-          },
-          {
-            "title": "아토피 ? 피부과전문의가 강조하는 TOP3 ㅣ아토피 관리법ㅣ병원 치료시기",
-            "channel": "계피부과 since1961",
-            "url": "https://www.youtube.com/watch?v=PrWI0OB6prA&pp=ygUh66as7KeE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "17K views"
-          },
-          {
-            "title": "가려워서 미치겠어요 (서울대병원 피부과 정진호 & 최희선 PD)",
-            "channel": "의학채널 비온뒤",
-            "url": "https://www.youtube.com/watch?v=6IpSqTgPgFU&pp=ygUh66as7KeE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "12K views"
+            "title": "민주, 어르신 공약·전북 지선 행보...국민의힘 컷오프 내홍 / YTN",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=RQ5Ziizm2K0&pp=ygUS66as7KeE7J2Y7JuQIEtvcmVh",
+            "view_text": "536 views"
           }
         ]
       }
@@ -130,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 3,
-  "opportunity_cost_thb": 97000,
-  "opportunity_cost_krw": 3880000
+  "global_score": 2,
+  "opportunity_cost_thb": 99000,
+  "opportunity_cost_krw": 3960000
 }

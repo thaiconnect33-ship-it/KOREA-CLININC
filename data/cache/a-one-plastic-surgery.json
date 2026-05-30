@@ -1,6 +1,6 @@
 {
   "query": "A-One Plastic Surgery",
-  "generated_at": "2026-05-29T05:55:40.783Z",
+  "generated_at": "2026-05-29T10:21:56.737Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -21,7 +21,7 @@
       "metric_value": 0,
       "extra": {
         "name": "Results",
-        "rating": 4.9,
+        "rating": 5,
         "total_reviews": 0,
         "sample_size": 6,
         "foreign_language_reviews": 6,
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 14069062,
+        "total_views": 9373962,
         "foreign_video_count": 18,
         "lang_breakdown": {
           "korean": 2,
@@ -77,22 +77,16 @@
             "view_text": "517 views"
           },
           {
-            "title": "The best in Asia, Aone Plastic surgery in Korea (Korea plastic surgery)",
-            "channel": "Kwon Taek Keun",
-            "url": "https://www.youtube.com/watch?v=Zmrx0-POcRQ&pp=ygUbQS1PbmUgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
-            "view_text": "1.7K views"
-          },
-          {
-            "title": "Aone Plstic Surgery Clinic in Korea",
-            "channel": "에이원성형외과",
-            "url": "https://www.youtube.com/watch?v=Ix6y9EtFhIU&pp=ygUbQS1PbmUgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
-            "view_text": "32 views"
-          },
-          {
             "title": "Plastic Surgeon Reacts To Korea's CRAZY Plastic Surgery Industry",
             "channel": "Doctor Gary Linkov",
             "url": "https://www.youtube.com/watch?v=BOLClpRDkKc&pp=ygUbQS1PbmUgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
             "view_text": "241K views"
+          },
+          {
+            "title": "The best in Asia, Aone Plastic surgery in Korea (Korea plastic surgery)",
+            "channel": "Kwon Taek Keun",
+            "url": "https://www.youtube.com/watch?v=Zmrx0-POcRQ&pp=ygUbQS1PbmUgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "1.7K views"
           },
           {
             "title": "2019 Aone Aesthetic Surgery Symposium",
@@ -101,10 +95,10 @@
             "view_text": "2.8K views"
           },
           {
-            "title": "Anna jobling had the best experience at one percent plastic surgery!  [Titanium Laser Treatment]",
-            "channel": "1% Plastic Surgery  Korea",
-            "url": "https://www.youtube.com/watch?v=lAWBOjPXS70&pp=ygUbQS1PbmUgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
-            "view_text": "213 views"
+            "title": "Aone Plstic Surgery Clinic in Korea",
+            "channel": "에이원성형외과",
+            "url": "https://www.youtube.com/watch?v=Ix6y9EtFhIU&pp=ygUbQS1PbmUgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "32 views"
           },
           {
             "title": "Korea the best Plastic surgery Aone-Dr. Kwon Interview",
@@ -113,10 +107,16 @@
             "view_text": "6.6K views"
           },
           {
-            "title": "Aone 성형외과 [ Korea Plastic & Aesthetic  Surgery ]",
-            "channel": "Kwon Taek Keun",
-            "url": "https://www.youtube.com/watch?v=YAdD2p5RZK8&pp=ygUbQS1PbmUgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
-            "view_text": "2.1K views"
+            "title": "Anna jobling had the best experience at one percent plastic surgery!  [Titanium Laser Treatment]",
+            "channel": "1% Plastic Surgery  Korea",
+            "url": "https://www.youtube.com/watch?v=lAWBOjPXS70&pp=ygUbQS1PbmUgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "213 views"
+          },
+          {
+            "title": "VIEW PLASTIC SURGERY CONVENIENT PLASTIC SURGERY TRIP TO KOREA, ONE-STOP SERVICE",
+            "channel": "View Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=bdo1T5yyPhE&pp=ygUbQS1PbmUgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "4.5K views"
           }
         ]
       }

@@ -1,6 +1,6 @@
 {
   "query": "JW성형외과",
-  "generated_at": "2026-05-29T05:56:48.942Z",
+  "generated_at": "2026-05-29T10:23:00.178Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -18,18 +18,18 @@
     "google_maps": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 134,
+      "metric_value": 0,
       "extra": {
         "name": "Results",
-        "rating": 4.6,
-        "total_reviews": 134,
-        "sample_size": 8,
-        "foreign_language_reviews": 8,
+        "rating": 4.9,
+        "total_reviews": 0,
+        "sample_size": 6,
+        "foreign_language_reviews": 6,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 8
+          "english_other": 6
         }
       }
     },
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 5137313,
+        "total_views": 5148681,
         "foreign_video_count": 20,
         "lang_breakdown": {
           "korean": 0,
@@ -59,64 +59,64 @@
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "My 3rd Nose Job… Hoping This One’s the Last 😥 | Rhinoplasty in Korea",
-            "channel": "JW Plastic Surgery Korea",
-            "url": "https://www.youtube.com/watch?v=Z6WixNroaqE&pp=ygUYSlcgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
-            "view_text": "631"
-          },
-          {
             "title": "How long do I have to stay in Korea after getting Korean rhinoplasty plastic surgery",
             "channel": "JW Plastic Surgery Korea",
             "url": "https://www.youtube.com/watch?v=VqYmMSy3wxg&pp=ygUYSlcgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
-            "view_text": "19K"
+            "view_text": "19K views"
           },
           {
-            "title": "[JW Plastic Surgery Korea] Agri Velt, Reiee Kok & Agnes' journey of plastic surgery Part.1",
+            "title": "My 3rd Nose Job… Hoping This One’s the Last 😥 | Rhinoplasty in Korea",
             "channel": "JW Plastic Surgery Korea",
-            "url": "https://www.youtube.com/watch?v=qyUZYaTCVrk&pp=ygUYSlcgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
-            "view_text": "333K"
+            "url": "https://www.youtube.com/watch?v=Z6WixNroaqE&pp=ygUYSlcgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "631 views"
           },
           {
             "title": "What Happened in JW Plastic Surgery Center Korea",
             "channel": "JW Plastic Surgery Center",
             "url": "https://www.youtube.com/watch?v=Xz9dhQdtNMI&pp=ygUYSlcgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
-            "view_text": "309"
-          },
-          {
-            "title": "Best Anti-Aging Method for Your Age and Symptoms - explained by Dr. Kang EXPERT SERIES #13",
-            "channel": "JW Plastic Surgery Korea",
-            "url": "https://www.youtube.com/watch?v=3hIrK8cR4eE&pp=ygUYSlcgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
-            "view_text": "1.4K"
-          },
-          {
-            "title": "[JW Plastic Surgery Korea] Cyndi Soh journey of plastic surgery Part.1",
-            "channel": "JW Plastic Surgery Korea",
-            "url": "https://www.youtube.com/watch?v=nqaLRlfe1_M&pp=ygUYSlcgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh0gcJCSMLAYcqIYzv",
-            "view_text": "20K"
-          },
-          {
-            "title": "InnoRIB Rhinoplasty in Korea 6 Months After Update - 3D Printed Diced Rib Cartilage",
-            "channel": "JW Plastic Surgery Korea",
-            "url": "https://www.youtube.com/watch?v=4tTVqk30MBw&pp=ygUYSlcgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
-            "view_text": "411"
-          },
-          {
-            "title": "What's the difference between Lower Blepharoplasty and Under-eye Fat Repositioning?",
-            "channel": "JW Plastic Surgery Korea",
-            "url": "https://www.youtube.com/watch?v=v17UVR91jQk&pp=ygUYSlcgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
-            "view_text": "658"
-          },
-          {
-            "title": "Real and Honest experiences with Motiva Breast job and Nose job in Seoul Korea Part 1.",
-            "channel": "JW Plastic Surgery Korea",
-            "url": "https://www.youtube.com/watch?v=dyPORwYTue4&pp=ygUYSlcgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
-            "view_text": "9.1K"
+            "view_text": "309 views"
           },
           {
             "title": "Lower Blepharoplasty Precautions & Recovery Timeline",
             "channel": "JW Plastic Surgery Korea",
             "url": "https://www.youtube.com/watch?v=RRmdqE8MfBQ&pp=ygUYSlcgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
-            "view_text": "204"
+            "view_text": "206 views"
+          },
+          {
+            "title": "[JW Plastic Surgery Korea] Agri Velt, Reiee Kok & Agnes' journey of plastic surgery Part.1",
+            "channel": "JW Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=qyUZYaTCVrk&pp=ygUYSlcgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "333K views"
+          },
+          {
+            "title": "Best Anti-Aging Method for Your Age and Symptoms - explained by Dr. Kang EXPERT SERIES #13",
+            "channel": "JW Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=3hIrK8cR4eE&pp=ygUYSlcgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "1.4K views"
+          },
+          {
+            "title": "InnoRIB Rhinoplasty in Korea 6 Months After Update - 3D Printed Diced Rib Cartilage",
+            "channel": "JW Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=4tTVqk30MBw&pp=ygUYSlcgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "412 views"
+          },
+          {
+            "title": "[JW Plastic Surgery Clinic Korea] Male patient Before and After transformation video",
+            "channel": "JW Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=OomYV3tLmi0&pp=ygUYSlcgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "1.8K views"
+          },
+          {
+            "title": "[JW Plastic Surgery Korea] Cyndi Soh journey of plastic surgery Part.1",
+            "channel": "JW Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=nqaLRlfe1_M&pp=ygUYSlcgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "20K views"
+          },
+          {
+            "title": "Real and Honest experiences with Motiva Breast job and Nose job in Seoul Korea Part 1.",
+            "channel": "JW Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=dyPORwYTue4&pp=ygUYSlcgUGxhc3RpYyBTdXJnZXJ5IEtvcmVh",
+            "view_text": "9.1K views"
           }
         ]
       }
@@ -142,7 +142,7 @@
       }
     }
   },
-  "global_score": 20,
-  "opportunity_cost_thb": 86000,
-  "opportunity_cost_krw": 3440000
+  "global_score": 19,
+  "opportunity_cost_thb": 87000,
+  "opportunity_cost_krw": 3480000
 }

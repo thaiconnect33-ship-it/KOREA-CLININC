@@ -1,16 +1,18 @@
 {
   "query": "예피다의원",
-  "generated_at": "2026-05-29T05:35:06.859Z",
+  "generated_at": "2026-05-29T10:44:45.147Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 712,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "2088691923",
+        "name": "예피다의원 : 네이버\u001c",
+        "visitor_review_count": 99,
+        "blog_review_count": 613,
+        "detail_url": "https://m.place.naver.com/place/2088691923/home"
       }
     },
     "google_maps": {
@@ -19,7 +21,7 @@
       "metric_value": 0,
       "extra": {
         "name": "Results",
-        "rating": 5,
+        "rating": 4.7,
         "total_reviews": 0,
         "sample_size": 9,
         "foreign_language_reviews": 9,
@@ -43,9 +45,80 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 0,
+      "metric_value": 20,
       "extra": {
-        "note": "결과 없음"
+        "total_views": 1549805,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "당장 내일 갸름해져야 한다면, 이거 받으세요. [30대 이중턱 브이라인 리프팅 엑셀웨이브 리얼 시연]",
+            "channel": "예피다의원",
+            "url": "https://www.youtube.com/watch?v=3bq47vEhj4w&pp=ygUV7JiI7ZS864uk7J2Y7JuQIEtvcmVh",
+            "view_text": "136 views"
+          },
+          {
+            "title": "가성비 리프팅?",
+            "channel": "여신티켓 - 피부탐구생활",
+            "url": "https://www.youtube.com/watch?v=GJBgKRzKv8Y&pp=ygUV7JiI7ZS864uk7J2Y7JuQIEtvcmVh",
+            "view_text": "44K views"
+          },
+          {
+            "title": "처져서 고민인데 텅장일 때..",
+            "channel": "여신티켓 - 피부탐구생활",
+            "url": "https://www.youtube.com/watch?v=M510Hj0awvk&pp=ygUV7JiI7ZS864uk7J2Y7JuQIEtvcmVh",
+            "view_text": "18 views"
+          },
+          {
+            "title": "써마지, 울쎄라 아직도 헷갈려?",
+            "channel": "여신티켓 - 피부탐구생활",
+            "url": "https://www.youtube.com/watch?v=o_JOOtzJV10&pp=ygUV7JiI7ZS864uk7J2Y7JuQIEtvcmVh",
+            "view_text": "98 views"
+          },
+          {
+            "title": "연예인도 꾸준히 하는 그거?",
+            "channel": "여신티켓 - 피부탐구생활",
+            "url": "https://www.youtube.com/watch?v=Ugc_y6ErPsc&pp=ygUV7JiI7ZS864uk7J2Y7JuQIEtvcmVh",
+            "view_text": "14 views"
+          },
+          {
+            "title": "주사 맞더니 '픽' 쓰러져…수상한 강남 피부과 CCTV '충격'/ 연합뉴스 (Yonhapnews)",
+            "channel": "연합뉴스 Yonhapnews",
+            "url": "https://www.youtube.com/watch?v=HpxPrFejjX0&pp=ygUV7JiI7ZS864uk7J2Y7JuQIEtvcmVh",
+            "view_text": "184K views"
+          },
+          {
+            "title": "써마지 그래서 몇 샷?",
+            "channel": "여신티켓 - 피부탐구생활",
+            "url": "https://www.youtube.com/watch?v=zBljQ498LQw&pp=ygUV7JiI7ZS864uk7J2Y7JuQIEtvcmVh",
+            "view_text": "164 views"
+          },
+          {
+            "title": "Top 3 Procedures Worth the Money, Chosen by a Dermatologist's Younger Sibling",
+            "channel": "알쓸피식- 피부과전문의 이하은",
+            "url": "https://www.youtube.com/watch?v=twYYRjfuk0o&pp=ygUV7JiI7ZS864uk7J2Y7JuQIEtvcmVh",
+            "view_text": "5.5K views"
+          },
+          {
+            "title": "왜 울쎄라 울쎄라 하냐고?",
+            "channel": "여신티켓 - 피부탐구생활",
+            "url": "https://www.youtube.com/watch?v=t91vnNFW08A&pp=ygUV7JiI7ZS864uk7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "56 views"
+          },
+          {
+            "title": "최신 피부 시술 트렌드, 쎄라필(XE-LHA Peel) ㅣ 2026 대만 CSCSM 강연",
+            "channel": "XE-LHA",
+            "url": "https://www.youtube.com/watch?v=T-s0F8pAPJc&pp=ygUV7JiI7ZS864uk7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "32 views"
+          }
+        ]
       }
     },
     "xiaohongshu": {

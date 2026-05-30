@@ -1,17 +1,17 @@
 {
   "query": "광화문헤리티크피부과의원",
-  "generated_at": "2026-05-28T23:42:51.866Z",
+  "generated_at": "2026-05-29T12:28:29.749Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 463,
+      "metric_value": 465,
       "extra": {
         "place_id": "1010664652",
         "name": "광화문헤리티크피부과의원 : 네이버\u001c",
         "visitor_review_count": 280,
-        "blog_review_count": 183,
+        "blog_review_count": 185,
         "detail_url": "https://m.place.naver.com/place/1010664652/home"
       }
     },
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 12,
       "extra": {
-        "total_views": 442176,
+        "total_views": 442178,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 12,
@@ -61,62 +61,62 @@
           {
             "title": "래인의원 소개영상 #브랜딩",
             "channel": "스킨인터뷰",
-            "url": "https://www.youtube.com/watch?v=9wrPrxarrBs&pp=ygUz6rSR7ZmU66y47Zek66as7Yuw7YGs7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=9wrPrxarrBs&pp=ygUq6rSR7ZmU66y47Zek66as7Yuw7YGs7ZS867aA6rO87J2Y7JuQIEtvcmVh",
             "view_text": "429 views"
-          },
-          {
-            "title": "여드름 치료는 빨리할수록 이득입니다 l 광화문피부과",
-            "channel": "닥터테라스",
-            "url": "https://www.youtube.com/watch?v=ahJcgAxWgwY&pp=ygUz6rSR7ZmU66y47Zek66as7Yuw7YGs7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "596 views"
           },
           {
             "title": "💰💰돈이 들어오는 관상!😊😊 피부과의사가 바라보는 '좋은관상' 은? l 광화문피부과",
             "channel": "닥터테라스",
-            "url": "https://www.youtube.com/watch?v=nqoiSfbpSqY&pp=ygUz6rSR7ZmU66y47Zek66as7Yuw7YGs7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=nqoiSfbpSqY&pp=ygUq6rSR7ZmU66y47Zek66as7Yuw7YGs7ZS867aA6rO87J2Y7JuQIEtvcmVh",
             "view_text": "407 views"
           },
           {
-            "title": "아악!😫 내일 중요한 약속인데 얼굴 왜 이래? 다운타임 없는 시술! l 광화문피부과",
+            "title": "여드름 치료는 빨리할수록 이득입니다 l 광화문피부과",
             "channel": "닥터테라스",
-            "url": "https://www.youtube.com/watch?v=g1Nbg7oCPIw&pp=ygUz6rSR7ZmU66y47Zek66as7Yuw7YGs7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "3.9K views"
+            "url": "https://www.youtube.com/watch?v=ahJcgAxWgwY&pp=ygUq6rSR7ZmU66y47Zek66as7Yuw7YGs7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "596 views"
           },
           {
             "title": "동안도 노력으로 될 수 있다고요!? 동안 연예인들은 OO가 없다! l 광화문피부과",
             "channel": "닥터테라스",
-            "url": "https://www.youtube.com/watch?v=NBPFDS8USAU&pp=ygUz6rSR7ZmU66y47Zek66as7Yuw7YGs7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=NBPFDS8USAU&pp=ygUq6rSR7ZmU66y47Zek66as7Yuw7YGs7ZS867aA6rO87J2Y7JuQIEtvcmVh",
             "view_text": "412 views"
           },
           {
             "title": "기미🌝 치료 잘 하는 법 그리고 얼굴 톤업👩🏻의 비밀? l 광화문피부과",
             "channel": "닥터테라스",
-            "url": "https://www.youtube.com/watch?v=VmKV0Smbpso&pp=ygUz6rSR7ZmU66y47Zek66as7Yuw7YGs7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "1.1K views"
-          },
-          {
-            "title": "🧡💁‍♀️프리미엘의원 튠페이스 시술 영상보고 가세요👩‍⚕️",
-            "channel": "프리미엘 2TV",
-            "url": "https://www.youtube.com/watch?v=rtUdpRvW_Ro&pp=ygUz6rSR7ZmU66y47Zek66as7Yuw7YGs7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
-            "view_text": "969 views"
-          },
-          {
-            "title": "나에게 맞는 피부과 시술 딱 알려드립니다",
-            "channel": "한혜진 Han Hye Jin",
-            "url": "https://www.youtube.com/watch?v=pz9U2bHJz30&pp=ygUz6rSR7ZmU66y47Zek66as7Yuw7YGs7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "431K views"
-          },
-          {
-            "title": "🙋‍♀️프리미엘의원 원장님들이 말해주는 [튠페이스리프팅]💗",
-            "channel": "프리미엘 2TV",
-            "url": "https://www.youtube.com/watch?v=rydmRA3tLs0&pp=ygUz6rSR7ZmU66y47Zek66as7Yuw7YGs7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=VmKV0Smbpso&pp=ygUq6rSR7ZmU66y47Zek66as7Yuw7YGs7ZS867aA6rO87J2Y7JuQIEtvcmVh",
             "view_text": "1.1K views"
           },
           {
             "title": "종로 광화문 피부과 추천 더프리티영의원 (The Pretty Young Clinic)",
             "channel": "더프리티영의원THE PRETTY YOUNG CLINIC",
-            "url": "https://www.youtube.com/watch?v=FQYomrMXoZ0&pp=ygUz6rSR7ZmU66y47Zek66as7Yuw7YGs7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=FQYomrMXoZ0&pp=ygUq6rSR7ZmU66y47Zek66as7Yuw7YGs7ZS867aA6rO87J2Y7JuQIEtvcmVh",
             "view_text": "852 views"
+          },
+          {
+            "title": "아악!😫 내일 중요한 약속인데 얼굴 왜 이래? 다운타임 없는 시술! l 광화문피부과",
+            "channel": "닥터테라스",
+            "url": "https://www.youtube.com/watch?v=g1Nbg7oCPIw&pp=ygUq6rSR7ZmU66y47Zek66as7Yuw7YGs7ZS867aA6rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "3.9K views"
+          },
+          {
+            "title": "🧡💁‍♀️프리미엘의원 튠페이스 시술 영상보고 가세요👩‍⚕️",
+            "channel": "프리미엘 2TV",
+            "url": "https://www.youtube.com/watch?v=rtUdpRvW_Ro&pp=ygUq6rSR7ZmU66y47Zek66as7Yuw7YGs7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "971 views"
+          },
+          {
+            "title": "나에게 맞는 피부과 시술 딱 알려드립니다",
+            "channel": "한혜진 Han Hye Jin",
+            "url": "https://www.youtube.com/watch?v=pz9U2bHJz30&pp=ygUq6rSR7ZmU66y47Zek66as7Yuw7YGs7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "431K views"
+          },
+          {
+            "title": "[체험기] 받아보라그래서 받아봤습니다. 모공&흉터치료 인트라셀!",
+            "channel": "프리미엘 2TV",
+            "url": "https://www.youtube.com/watch?v=BoYn7kQ29io&pp=ygUq6rSR7ZmU66y47Zek66as7Yuw7YGs7ZS867aA6rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.1K views"
           }
         ]
       }
@@ -132,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

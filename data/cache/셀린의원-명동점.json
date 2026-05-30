@@ -1,0 +1,106 @@
+{
+  "query": "셀린의원 명동점",
+  "generated_at": "2026-05-29T12:28:11.237Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 1839,
+      "extra": {
+        "place_id": "1062567443",
+        "name": "셀린의원 명동점 : 네이버\u001c",
+        "visitor_review_count": 381,
+        "blog_review_count": 1458,
+        "detail_url": "https://m.place.naver.com/place/1062567443/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Cellin Clinic Myeongdong 셀린의원 명동점 | english speaking dermatologist | skin clinic near myeongdong | 皮膚科 | シミ取り | ウルセラ",
+        "rating": 4.8,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 3,
+      "extra": {
+        "total_views": 126233,
+        "foreign_video_count": 1,
+        "lang_breakdown": {
+          "korean": 2,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 1
+        },
+        "sample_size": 3,
+        "top_videos": [
+          {
+            "title": "[닥터스킨쉽] 식단이냐 시술이냐, 그들의 부부토론 결과는? 🍽💉 | 할까요 말까요: 식단관리편 | 의사부부의 솔직한 피부이야기 #식단관리 #피부관리 #셀린의원",
+            "channel": "Dr.스킨쉽",
+            "url": "https://www.youtube.com/watch?v=tr4DrqpoYaQ&pp=ygUc7IWA66aw7J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "84 views"
+          },
+          {
+            "title": "[닥터스킨쉽] 내 몸으로 만드는 가장 안전한 안티에이징, 줄기세포 시술의 모든 것 | 의사부부의 솔직한 피부이야기 #줄기세포 #안티에이징 #스템셀",
+            "channel": "Dr.스킨쉽",
+            "url": "https://www.youtube.com/watch?v=G9rosZkq8UA&pp=ygUc7IWA66aw7J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "149 views"
+          },
+          {
+            "title": "[Korea vlog]  trip to Seoul🇰🇷|The most popular spots💡&Korean cuisine that only Koreans know🥢🤍",
+            "channel": "eimy",
+            "url": "https://www.youtube.com/watch?v=lmRy3qaRi7A&pp=ygUc7IWA66aw7J2Y7JuQIOuqheuPmeygkCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "126K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 1,
+  "opportunity_cost_thb": 99500,
+  "opportunity_cost_krw": 3980000
+}

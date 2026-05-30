@@ -1,17 +1,17 @@
 {
   "query": "더케어클리닉의원",
-  "generated_at": "2026-05-28T23:15:02.505Z",
+  "generated_at": "2026-05-29T11:56:55.502Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 7,
+      "metric_value": 1,
       "extra": {
         "place_id": "1210377489",
         "name": "더케어클리닉의원 : 네이버\u001c",
         "visitor_review_count": 1,
-        "blog_review_count": 6,
+        "blog_review_count": 0,
         "detail_url": "https://m.place.naver.com/place/1210377489/home"
       }
     },
@@ -38,76 +38,76 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 1024953,
-        "foreign_video_count": 0,
+        "total_views": 26841738,
+        "foreign_video_count": 3,
         "lang_breakdown": {
-          "korean": 20,
+          "korean": 17,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
-          "english_other": 0
+          "english_other": 3
         },
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
+            "title": "\"무료로 받고 후기만 써줘\" 시술 딱 3시간 만에 배가..'충격' #뉴스다 / JTBC News",
             "channel": "JTBC News",
-            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUq642U7LyA7Ja07YG066as64uJ7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1M views"
+            "url": "https://www.youtube.com/watch?v=-caUe2UD70A&pp=ygUe642U7LyA7Ja07YG066as64uJ7J2Y7JuQIEtvcmVh",
+            "view_text": "608K views"
           },
           {
-            "title": "더페이스치과의원 theFACEdental clinic",
-            "channel": "더페이스 치과 구강악안면외과 (THEFACE DENTAL)",
-            "url": "https://www.youtube.com/watch?v=U-kueJb2og4&pp=ygUq642U7LyA7Ja07YG066as64uJ7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "314 views"
-          },
-          {
-            "title": "요즘 뜨는 대세 클리닉! 오라클피부과·성형외과",
-            "channel": "오라클피부과",
-            "url": "https://www.youtube.com/watch?v=khRAKW8diqM&pp=ygUq642U7LyA7Ja07YG066as64uJ7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "798 views"
-          },
-          {
-            "title": "《더성형외과 가슴성형》 유방재건수술 회복기간 및 재건성형을 통해 미용적으로 만족할 수 있을까요?",
-            "channel": "더성형외과",
-            "url": "https://www.youtube.com/watch?v=x0memax3KzQ&pp=ygUq642U7LyA7Ja07YG066as64uJ7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "496 views"
-          },
-          {
-            "title": "A face type that has good facelift results vs a face type that hasn't!!",
-            "channel": "신끌림 : 신동우 원장의 끌어올림",
-            "url": "https://www.youtube.com/watch?v=1Wu7kyfyxTU&pp=ygUq642U7LyA7Ja07YG066as64uJ7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "2.8K views"
-          },
-          {
-            "title": "뷰티비#12-더도어 성형외과",
-            "channel": "뷰티비",
-            "url": "https://www.youtube.com/watch?v=cNeRzv8fM9Q&pp=ygUq642U7LyA7Ja07YG066as64uJ7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "80 views"
-          },
-          {
-            "title": "빌리프성형외과의원 - 옥외 광고",
-            "channel": "브랜드디",
-            "url": "https://www.youtube.com/watch?v=ujBBpKrXbk8&pp=ygUq642U7LyA7Ja07YG066as64uJ7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "461 views"
-          },
-          {
-            "title": "Looking for a place specializing in eye and nose surgery? A real 5-month review of escaping a stu...",
-            "channel": "디에이성형외과 D.A Plastic Surgery Korea",
-            "url": "https://www.youtube.com/watch?v=HUDiioiildA&pp=ygUq642U7LyA7Ja07YG066as64uJ7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "title": "화장품 두드려 바르면 흡수가 더 잘 될까? | 의사가 알려주는 스킨케어 효과 높이는 방법",
+            "channel": "닥터블랑_예뻐지는비결",
+            "url": "https://www.youtube.com/watch?v=FBpSsyZK4_U&pp=ygUe642U7LyA7Ja07YG066as64uJ7J2Y7JuQIEtvcmVh",
             "view_text": "10K views"
           },
           {
-            "title": "눈가,눈밑주름 때문에 고민이시라구요?! 홈 케어법까지 알려드립니다! │FI PLASTIC SURGERY CLINIC 에프아이 성형외과",
-            "channel": "에프아이성형외과 FI Plastic Surgery Clinic",
-            "url": "https://www.youtube.com/watch?v=6nVKNcB5QkM&pp=ygUq642U7LyA7Ja07YG066as64uJ7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "106 views"
+            "title": "ASMR 💆‍♀️ Perfect Total Body Care from Head to Toe | Deep Sleep",
+            "channel": "MIKA ASMR",
+            "url": "https://www.youtube.com/watch?v=ghjPeAWxJDM&pp=ygUe642U7LyA7Ja07YG066as64uJ7J2Y7JuQIEtvcmVh",
+            "view_text": "3.6M views"
           },
           {
-            "title": "눈 트임수술 모두가 다 가능할까요? | 올리팅성형외과 석효현 원장 #쌍수 #눈성형",
-            "channel": "올리팅성형외과의원 Allliting Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=KJPfxxJID8c&pp=ygUq642U7LyA7Ja07YG066as64uJ7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "75 views"
+            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUe642U7LyA7Ja07YG066as64uJ7J2Y7JuQIEtvcmVh",
+            "view_text": "1M views"
+          },
+          {
+            "title": "[자막뉴스] 중년 여성만 골라 '헉'…\"나도 봤다\" 여기 저기 목격담이 / JTBC News",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=vxSJRPdA8uY&pp=ygUe642U7LyA7Ja07YG066as64uJ7J2Y7JuQIEtvcmVh",
+            "view_text": "5.4M views"
+          },
+          {
+            "title": "A Day in the Life of a Doctor and Mom│Living in $12M Apartment and Works 16-Hour Days",
+            "channel": "휴먼스토리",
+            "url": "https://www.youtube.com/watch?v=Z2PA506runI&pp=ygUe642U7LyA7Ja07YG066as64uJ7J2Y7JuQIEtvcmVh",
+            "view_text": "1.3M views"
+          },
+          {
+            "title": "좀 아파요",
+            "channel": "숏박스",
+            "url": "https://www.youtube.com/watch?v=YcOkeJ00yTM&pp=ygUe642U7LyA7Ja07YG066as64uJ7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "3.4M views"
+          },
+          {
+            "title": "SM 천상계 연예인으로 만들어준다는 성형외과!!",
+            "channel": "핫이슈HOT ISSUE",
+            "url": "https://www.youtube.com/watch?v=WTeNWTENa54&pp=ygUe642U7LyA7Ja07YG066as64uJ7J2Y7JuQIEtvcmVh",
+            "view_text": "1.7M views"
+          },
+          {
+            "title": "삼천포 짱태가 돌아왔다!(feat.장원태 원장) @4000sjh",
+            "channel": "장원태의 원케어클리닉",
+            "url": "https://www.youtube.com/watch?v=3Jzep-O3TIc&pp=ygUe642U7LyA7Ja07YG066as64uJ7J2Y7JuQIEtvcmVh",
+            "view_text": "222 views"
+          },
+          {
+            "title": "99%의 사람들이 모르는 홈케어기기의 충격적인 진실",
+            "channel": "닥터차오름",
+            "url": "https://www.youtube.com/watch?v=GfqtXB-0Ikc&pp=ygUe642U7LyA7Ja07YG066as64uJ7J2Y7JuQIEtvcmVh",
+            "view_text": "141K views"
           }
         ]
       }
@@ -123,16 +123,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 0,
-  "opportunity_cost_thb": 100000,
-  "opportunity_cost_krw": 4000000
+  "global_score": 2,
+  "opportunity_cost_thb": 98500,
+  "opportunity_cost_krw": 3940000
 }

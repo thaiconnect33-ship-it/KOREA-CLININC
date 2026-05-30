@@ -1,6 +1,6 @@
 {
   "query": "지니성형외과의원",
-  "generated_at": "2026-05-28T23:46:13.940Z",
+  "generated_at": "2026-05-29T12:32:19.086Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 55560,
+        "total_views": 58221,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -61,62 +61,62 @@
           {
             "title": "닥터지니 성형외과 최진희 원장입니다",
             "channel": "닥터지니",
-            "url": "https://www.youtube.com/watch?v=bKvbnzJODmc&pp=ygUq7KeA64uI7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=bKvbnzJODmc&pp=ygUe7KeA64uI7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "239 views"
           },
           {
-            "title": "메디컬코리아뉴스 Today 병의원 탐방 ep019 : 지니의원",
-            "channel": "대한의료신문",
-            "url": "https://www.youtube.com/watch?v=93Y6IARqdck&pp=ygUq7KeA64uI7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "14 views"
-          },
-          {
-            "title": "Hospital Documentary 1 Day: A Day in the Life of a Plastic Surgeon at a One-Person Hospital",
-            "channel": "규지니룸 (이룸성형외과)",
-            "url": "https://www.youtube.com/watch?v=d6OzNBmKszA&pp=ygUq7KeA64uI7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "5.1K views"
-          },
-          {
-            "title": "[비젠소프트] 포트폴리오 - 닥터지니성형외과",
-            "channel": "VIZENSOFT",
-            "url": "https://www.youtube.com/watch?v=28rVJN39YZE&pp=ygUq7KeA64uI7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "4 views"
+            "title": "지니성형외과",
+            "channel": "지세영",
+            "url": "https://www.youtube.com/watch?v=8FHJrdfxTEU&pp=ygUe7KeA64uI7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "195 views"
           },
           {
             "title": "믿어지니? 쌍수없이 눈 커지는 방법이 있다고⁉ 😱😱 #눈썹올림술 #이마거상술",
             "channel": "JW정원성형외과",
-            "url": "https://www.youtube.com/watch?v=uj_OBIcsNfc&pp=ygUq7KeA64uI7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=uj_OBIcsNfc&pp=ygUe7KeA64uI7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "22K views"
           },
           {
-            "title": "수술실 플렉스(Flex) 했규지니♥ 소소한 수술실 리모델링",
-            "channel": "규지니룸 (이룸성형외과)",
-            "url": "https://www.youtube.com/watch?v=gGFBOscy01M&pp=ygUq7KeA64uI7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "855 views"
+            "title": "100 인의 인터뷰 : 닥터 지니윤 2부",
+            "channel": "한인동포1등 만들기 운동본부",
+            "url": "https://www.youtube.com/watch?v=5_r8WOM0X64&pp=ygUe7KeA64uI7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "27 views"
           },
           {
-            "title": "[다 이루어질지니] 김우빈 수지 얼굴 분석, 14년차 성형외과 전문의가 말해드릴게요. l 유니성형외과 이희영 원장",
-            "channel": "이희영의 성형노트",
-            "url": "https://www.youtube.com/watch?v=Pmm23yH1PMA&pp=ygUq7KeA64uI7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "84 views"
-          },
-          {
-            "title": "아이리드성형외과 유튜브 영상 제작",
-            "channel": "엠피알",
-            "url": "https://www.youtube.com/watch?v=OIb8k9Qzvjo&pp=ygUq7KeA64uI7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "85 views"
-          },
-          {
-            "title": "지니엔 클리닉 김동관 원장 가슴성형하기 전 주의점",
-            "channel": "지니엔클리닉",
-            "url": "https://www.youtube.com/watch?v=gcnKE5MJCmg&pp=ygUq7KeA64uI7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "3.3K views"
+            "title": "지니의원 반영구 클리닉",
+            "channel": "지니의원",
+            "url": "https://www.youtube.com/watch?v=YgEirP9fEuw&pp=ygUe7KeA64uI7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "12 views"
           },
           {
             "title": "Instead of double eyelid revision surgery? How to restore sagging double eyelids with filler alon...",
             "channel": "피부요정 닥터지니",
-            "url": "https://www.youtube.com/watch?v=RFu5-IhSOHI&pp=ygUq7KeA64uI7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "4.8K views"
+            "url": "https://www.youtube.com/watch?v=RFu5-IhSOHI&pp=ygUe7KeA64uI7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "4.9K views"
+          },
+          {
+            "title": "[다 이루어질지니] 김우빈 수지 얼굴 분석, 14년차 성형외과 전문의가 말해드릴게요. l 유니성형외과 이희영 원장",
+            "channel": "이희영의 성형노트",
+            "url": "https://www.youtube.com/watch?v=Pmm23yH1PMA&pp=ygUe7KeA64uI7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "84 views"
+          },
+          {
+            "title": "[비젠소프트] 포트폴리오 - 닥터지니성형외과",
+            "channel": "VIZENSOFT",
+            "url": "https://www.youtube.com/watch?v=28rVJN39YZE&pp=ygUe7KeA64uI7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "4 views"
+          },
+          {
+            "title": "\"너는 어떻게 더 안 늙고 점점 젊어지니? \" 매일매일 듣는 말이에요~!  젊어진 비결은?",
+            "channel": "오늘부터 뉴데이",
+            "url": "https://www.youtube.com/watch?v=dW2zrHjYEIY&pp=ygUe7KeA64uI7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.6K views"
+          },
+          {
+            "title": "쌍둥이의 다른점? -10년은 더 젊어지는 마법의 실 리프팅!",
+            "channel": "피부과전문의닥터지니 블레싱피부과",
+            "url": "https://www.youtube.com/watch?v=14er_fQa9Ys&pp=ygUe7KeA64uI7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "372 views"
           }
         ]
       }
@@ -132,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

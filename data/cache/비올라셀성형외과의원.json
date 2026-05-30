@@ -1,16 +1,18 @@
 {
   "query": "비올라셀성형외과의원",
-  "generated_at": "2026-05-29T06:01:11.676Z",
+  "generated_at": "2026-05-29T10:27:38.568Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 3373,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "1945702026",
+        "name": "비올라셀성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 332,
+        "blog_review_count": 3041,
+        "detail_url": "https://m.place.naver.com/place/1945702026/home"
       }
     },
     "google_maps": {
@@ -43,9 +45,44 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 0,
+      "metric_value": 4,
       "extra": {
-        "note": "결과 없음"
+        "total_views": 1444,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 4,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 4,
+        "top_videos": [
+          {
+            "title": "보톡스 딱 3곳만 맞으세요! 성형외과 전문의가 알려주는 쉽게 젊어지는 법",
+            "channel": "비올라셀 성형외과",
+            "url": "https://www.youtube.com/watch?v=4alvH9RVN4Y&pp=ygUk67mE7Jis65287IWA7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "704 views"
+          },
+          {
+            "title": "연예인들은 대체 어떻게 하얘진걸까?",
+            "channel": "비올라셀 성형외과",
+            "url": "https://www.youtube.com/watch?v=QDuHTRPXGbY&pp=ygUk67mE7Jis65287IWA7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "512 views"
+          },
+          {
+            "title": "요즘 유행하는 다이어트 약 효과 있을까?",
+            "channel": "비올라셀 성형외과",
+            "url": "https://www.youtube.com/watch?v=9yMfnLQHkIg&pp=ygUk67mE7Jis65287IWA7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "201 views"
+          },
+          {
+            "title": "대한의료신문 Today 병의원 탐방 ep235: 비올라셀의원",
+            "channel": "대한의료신문",
+            "url": "https://www.youtube.com/watch?v=6FjGwTG1AHc&pp=ygUk67mE7Jis65287IWA7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "27 views"
+          }
+        ]
       }
     },
     "xiaohongshu": {

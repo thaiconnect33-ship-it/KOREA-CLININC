@@ -1,16 +1,18 @@
 {
   "query": "잠실 비엘에스의원",
-  "generated_at": "2026-05-28T23:21:10.628Z",
+  "generated_at": "2026-05-29T12:03:43.284Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 5533,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "20519291",
+        "name": "잠실 비엘에스의원 : 네이버\u001c",
+        "visitor_review_count": 208,
+        "blog_review_count": 5325,
+        "detail_url": "https://m.place.naver.com/place/20519291/home"
       }
     },
     "google_maps": {
@@ -43,78 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 15,
+      "metric_value": 20,
       "extra": {
-        "total_views": 5563639,
+        "total_views": 15002,
         "foreign_video_count": 0,
         "lang_breakdown": {
-          "korean": 15,
+          "korean": 20,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
           "english_other": 0
         },
-        "sample_size": 15,
+        "sample_size": 20,
         "top_videos": [
           {
-            "title": "\"엉터리 정보에 속지마세요.\" 진료과목 피부과 의사가 뽑은 가성비 시술 딱 '3가지'",
-            "channel": "지식인사이드",
-            "url": "https://www.youtube.com/watch?v=a4S4JNnRIXQ&pp=ygUu7J6g7IukIOu5hOyXmOyXkOyKpOydmOybkO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
-            "view_text": "1.7M views"
+            "title": "얼굴이물질제거 궁금한분들 보세요! 비엘에스의원 잠실점 잠실 피부과, 보톡스",
+            "channel": "정콘TV",
+            "url": "https://www.youtube.com/watch?v=O3Y1yHT0ziE&pp=ygUf7J6g7IukIOu5hOyXmOyXkOyKpOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "159 views"
           },
           {
-            "title": "[5분 건강 톡톡] 제모 시술 중 화상?…사례로 본 의료분쟁 / KBS뉴스(News)",
-            "channel": "KBS News",
-            "url": "https://www.youtube.com/watch?v=W4k7KlXisEU&pp=ygUu7J6g7IukIOu5hOyXmOyXkOyKpOydmOybkO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
-            "view_text": "1.2K views"
+            "title": "여드름치료 전후 영상 잠실 비엘에스의원",
+            "channel": "BLS클리닉",
+            "url": "https://www.youtube.com/watch?v=0wTPsb7CkDM&pp=ygUf7J6g7IukIOu5hOyXmOyXkOyKpOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "189 views"
           },
           {
-            "title": "\"Dermatologists don't tell you...\" We recommend popular youth-enhancing procedures these days. We...",
-            "channel": "박지윤의 피부 설명서",
-            "url": "https://www.youtube.com/watch?v=EFB-McCJG48&pp=ygUu7J6g7IukIOu5hOyXmOyXkOyKpOydmOybkO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
-            "view_text": "444K views"
+            "title": "주근깨 잡티 기미치료 전후 영상 잠실 비엘에스의원",
+            "channel": "BLS클리닉",
+            "url": "https://www.youtube.com/watch?v=6FrnPMvSR9c&pp=ygUf7J6g7IukIOu5hOyXmOyXkOyKpOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "184 views"
           },
           {
-            "title": "“비싼 울쎄라, 써마지 받아도 얼굴 다시 처집니다” 요즘 연예인들이 받는 가성비 시술을 20년차 피부과 전문의가 알려드립니다.",
-            "channel": "피부는 성현철",
-            "url": "https://www.youtube.com/watch?v=P-ooK3XIcKM&pp=ygUu7J6g7IukIOu5hOyXmOyXkOyKpOydmOybkO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
-            "view_text": "344K views"
+            "title": "BLS클리닉이 잠실에 오픈을 했다고? 오픈과정 공개! Open Story",
+            "channel": "BLS클리닉",
+            "url": "https://www.youtube.com/watch?v=5zTKLVX47qw&pp=ygUf7J6g7IukIOu5hOyXmOyXkOyKpOydmOybkCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "330 views"
           },
           {
-            "title": "피부과 시술 부작용 Vlog…ㅠ 내 피부 돌려줘.. 다신 안해…🫠ㅣMINCARONG",
-            "channel": "민카롱",
-            "url": "https://www.youtube.com/watch?v=wRJR2kY2x9w&pp=ygUu7J6g7IukIOu5hOyXmOyXkOyKpOydmOybkO2Goe2Goe2UvOu2gOqzvCBLb3JlYdIHCQkNCwGHKiGM7w%3D%3D",
-            "view_text": "1.7M views"
+            "title": "다양한 잡티를 한번에 없애고 싶다면? #슈퍼벨로체",
+            "channel": "BLS클리닉",
+            "url": "https://www.youtube.com/watch?v=plQdOaiaZNM&pp=ygUf7J6g7IukIOu5hOyXmOyXkOyKpOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "207 views"
           },
           {
-            "title": "코레지 2.0 에그리프팅 효과와 차이점 비교 분석 I 보고 듣는 의학정보 · 리더스 TV",
-            "channel": "리더스피부과 Leaders TV · 보고 듣는 의학정보",
-            "url": "https://www.youtube.com/watch?v=FLWfhjm0rlE&pp=ygUu7J6g7IukIOu5hOyXmOyXkOyKpOydmOybkO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
-            "view_text": "6.3K views"
+            "title": "한예슬도 인정한 써마지는?#써마지#울쎄라#한예슬픽시술",
+            "channel": "BLS클리닉",
+            "url": "https://www.youtube.com/watch?v=Sp0nHK2QGOg&pp=ygUf7J6g7IukIOu5hOyXmOyXkOyKpOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "80 views"
           },
           {
-            "title": "“20년동안 제 아내가 가장 만족했던 동안 주사 공개합니다” 강남 피부과 의사가 아내에게 해주는 또래보다 10년 젊어지는 동안주사 3가지",
-            "channel": "피부는 성현철",
-            "url": "https://www.youtube.com/watch?v=z5f78sydJ8U&pp=ygUu7J6g7IukIOu5hOyXmOyXkOyKpOydmOybkO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
-            "view_text": "332K views"
+            "title": "겨울철 피부가 고민이라면? BLS클리닉 잠실점 강한별 원장님",
+            "channel": "BLS클리닉",
+            "url": "https://www.youtube.com/watch?v=N9-Ey7eXVy0&pp=ygUf7J6g7IukIOu5hOyXmOyXkOyKpOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "120 views"
           },
           {
-            "title": "의사들만 몰래받는 S급 가성비! 수백만원 아끼는 만족도 가장 높은 시술을 20년차 피부과 전문의가 알려드립니다.",
-            "channel": "피부는 성현철",
-            "url": "https://www.youtube.com/watch?v=SFlFQByIQ1g&pp=ygUu7J6g7IukIOu5hOyXmOyXkOyKpOydmOybkO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
-            "view_text": "913K views"
+            "title": "【필러 부작용】맘에 안드는 필러, 실을 녹이고 싶다면? / BLS클리닉 잠실점 – 강한별 원장님",
+            "channel": "쁘띠팩토리 PETIT  factory",
+            "url": "https://www.youtube.com/watch?v=woS2Cp_gJkk&pp=ygUf7J6g7IukIOu5hOyXmOyXkOyKpOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "331 views"
           },
           {
-            "title": "topsecret 피부과 전문의&탈모 클리닉 전문가가 말하는 탈모 치료법! 151104 EP.2",
-            "channel": "O tvN",
-            "url": "https://www.youtube.com/watch?v=ZcuZjW9I-1s&pp=ygUu7J6g7IukIOu5hOyXmOyXkOyKpOydmOybkO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
-            "view_text": "157 views"
+            "title": "인모드리프팅 드디어 도입! 비엘에스의원 본점",
+            "channel": "BLS클리닉",
+            "url": "https://www.youtube.com/watch?v=fJBdV672J_o&pp=ygUf7J6g7IukIOu5hOyXmOyXkOyKpOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "364 views"
           },
           {
-            "title": "엑셀브이레이저, 얼굴의 붉은기를 잡아라! - 하나여성의원",
-            "channel": "하나여성의원",
-            "url": "https://www.youtube.com/watch?v=_pRmmD7oqH8&pp=ygUu7J6g7IukIOu5hOyXmOyXkOyKpOydmOybkO2Goe2Goe2UvOu2gOqzvCBLb3JlYQ%3D%3D",
-            "view_text": "580 views"
+            "title": "⚡리프팅의 장✨단점🎯이 뭔지 궁금한 사람 손!!! [잠실BLS클리닉/강한별대표원장님]",
+            "channel": "쁘띠팩토리 PETIT  factory",
+            "url": "https://www.youtube.com/watch?v=CSfMWsjcOPE&t=220s&pp=ygUf7J6g7IukIOu5hOyXmOyXkOyKpOydmOybkCBLb3JlYQ%3D%3D",
+            "view_text": "1.7K views"
           }
         ]
       }
@@ -130,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

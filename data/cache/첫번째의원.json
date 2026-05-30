@@ -1,6 +1,6 @@
 {
   "query": "첫번째의원",
-  "generated_at": "2026-05-28T22:13:37.582Z",
+  "generated_at": "2026-05-29T10:50:00.510Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -18,18 +18,18 @@
     "google_maps": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 67,
+      "metric_value": 0,
       "extra": {
-        "name": "첫번째 성형외과 | 퍼스트청담도산 클리닉 | First Plastic Surgery | First Cheongdam Dosan Clinic",
-        "rating": 4.8,
-        "total_reviews": 67,
-        "sample_size": 16,
-        "foreign_language_reviews": 14,
+        "name": "Sponsored",
+        "rating": 4.9,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
         "lang_breakdown": {
-          "korean": 2,
+          "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 14
+          "english_other": 0
         }
       }
     },
@@ -47,76 +47,76 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 1643449,
-        "foreign_video_count": 0,
+        "total_views": 561382,
+        "foreign_video_count": 1,
         "lang_breakdown": {
-          "korean": 20,
+          "korean": 19,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
-          "english_other": 0
+          "english_other": 1
         },
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "⁉️충격고백⁉️성형외과전문의가👨‍⚕️ 겪고 있는 눈밑지방재배치의 부작용?",
-            "channel": "닥터첫번째",
-            "url": "https://www.youtube.com/watch?v=X65C6bH1Ojo&pp=ygUh7LKr67KI7Ke47J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "192K"
+            "title": "같은 실인데 병원마다 유지기간이 다른 진짜 이유",
+            "channel": "금손의사",
+            "url": "https://www.youtube.com/watch?v=fwBOCXGPFp4&pp=ygUV7LKr67KI7Ke47J2Y7JuQIEtvcmVh",
+            "view_text": "684 views"
           },
           {
-            "title": "눈밑지방재배치로 개선할 수 있다? 없다? 성형외과 전문의가 고백합니다.🔥",
-            "channel": "닥터첫번째",
-            "url": "https://www.youtube.com/watch?v=QnFN-36dSlo&pp=ygUh7LKr67KI7Ke47J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "157K"
+            "title": "성중기 의원 첫번째 앨범 출반기념동영상",
+            "channel": "성중기",
+            "url": "https://www.youtube.com/watch?v=EwOt7KUZY_Y&pp=ygUV7LKr67KI7Ke47J2Y7JuQIEtvcmVh",
+            "view_text": "190 views"
           },
           {
-            "title": "눈밑지방재배치 수술 후 질문 총정리! 빠른 회복을 위한 노하우 대방출",
-            "channel": "닥터첫번째",
-            "url": "https://www.youtube.com/watch?v=kyUv6gPx-Mc&pp=ygUh7LKr67KI7Ke47J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "76K"
+            "title": "성형계의 레오나드로 다빈치. 첫번째의 진실",
+            "channel": "드림성형외과",
+            "url": "https://www.youtube.com/watch?v=qQqVemBC51A&pp=ygUV7LKr67KI7Ke47J2Y7JuQIEtvcmVh",
+            "view_text": "455 views"
           },
           {
-            "title": "[N분순삭] 연말연초 인기 성형 수술 TOP3🥇🥈🥉",
-            "channel": "닥터첫번째",
-            "url": "https://www.youtube.com/watch?v=q-xXQKv4R7o&pp=ygUh7LKr67KI7Ke47J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "541"
+            "title": "에이스 첫번째 영상  -  홍채로 말하다",
+            "channel": "배주은",
+            "url": "https://www.youtube.com/watch?v=pfGdN90lIyw&pp=ygUV7LKr67KI7Ke47J2Y7JuQIEtvcmVh",
+            "view_text": "65 views"
           },
           {
-            "title": "지방이식, 필러 NO!! 또렷한 애교살과 생기 있는 앞볼(앞광대)을 만드는 방법은?(눈밑지방재배치 효과 ↑)",
-            "channel": "닥터첫번째",
-            "url": "https://www.youtube.com/watch?v=DPhdP4FItV8&pp=ygUh7LKr67KI7Ke47J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "34K"
+            "title": "✨최초공개✨ 지방흡입 의사 브이로그｜#서울365mc병원｜#정원주원장｜#지방흡입｜#브이로그",
+            "channel": "서울365mc병원, 교대지방이",
+            "url": "https://www.youtube.com/watch?v=87rBTgBWlKc&pp=ygUV7LKr67KI7Ke47J2Y7JuQIEtvcmVh",
+            "view_text": "1K views"
           },
           {
-            "title": "Could a forehead lift cause your eyes to have an upward angle?",
-            "channel": "닥터첫번째",
-            "url": "https://www.youtube.com/watch?v=HNnLzJ4GQsk&pp=ygUh7LKr67KI7Ke47J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "7.7K"
+            "title": "Real 10-Day Review of Undereye Fat Repositioning Surgery (Made in Korea/Lots of Information)",
+            "channel": "스테리 starry",
+            "url": "https://www.youtube.com/watch?v=bXeo_mkPS4o&pp=ygUV7LKr67KI7Ke47J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "144K views"
           },
           {
-            "title": "하안검 재수술로 여신미모 된 사연?!",
-            "channel": "닥터첫번째",
-            "url": "https://www.youtube.com/watch?v=egkgKR2wKjk&pp=ygUh7LKr67KI7Ke47J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "20K"
+            "title": "[강남 한미인의원] 첫번째~! 더블로골드, 3D리프팅, 코프락셀, 아이울쎄라 시술후기",
+            "channel": "한미인의원-韓美人醫美",
+            "url": "https://www.youtube.com/watch?v=7DLCC3vcjWA&pp=ygUV7LKr67KI7Ke47J2Y7JuQIEtvcmVh",
+            "view_text": "417 views"
           },
           {
-            "title": "연예인처럼 예쁜 앞볼라인 만들기(feat  눈밑지, 앞광대리프팅)",
-            "channel": "닥터첫번째",
-            "url": "https://www.youtube.com/watch?v=Dx_HSH8r_sQ&pp=ygUh7LKr67KI7Ke47J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "82K"
+            "title": "시그널성형외과 원내 인포그래픽 영상 제작",
+            "channel": "엠피알",
+            "url": "https://www.youtube.com/watch?v=JGXpSYNGEbs&pp=ygUV7LKr67KI7Ke47J2Y7JuQIEtvcmVh",
+            "view_text": "400 views"
           },
           {
-            "title": "이마거상으로 얼굴 황금비율 찾기 #이마거상 #이마거상술 #이마축소",
-            "channel": "닥터첫번째",
-            "url": "https://www.youtube.com/watch?v=9mlDgCLgR5Y&pp=ygUh7LKr67KI7Ke47J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "16K"
+            "title": "어서와! K-피부과는 처음이지?🙋‍♀️ 외국인이 찾는EU  색소, 모공, 기미 싹! 날려드립니다!🚀",
+            "channel": "닥터이룬",
+            "url": "https://www.youtube.com/watch?v=_6hU1reLQHg&pp=ygUV7LKr67KI7Ke47J2Y7JuQIEtvcmVh",
+            "view_text": "535 views"
           },
           {
-            "title": "Post-operative precautions and care methods from a real patient who underwent lower eyelid fat re...",
-            "channel": "닥터첫번째",
-            "url": "https://www.youtube.com/watch?v=gkk0aZujBNA&pp=ygUh7LKr67KI7Ke47J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "57K"
+            "title": "첫번째 사람책 김광진 전 국회의원",
+            "channel": "부활의도시",
+            "url": "https://www.youtube.com/watch?v=jDPudixjDKQ&pp=ygUV7LKr67KI7Ke47J2Y7JuQIEtvcmVh",
+            "view_text": "182 views"
           }
         ]
       }
@@ -132,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 7,
-  "opportunity_cost_thb": 93000,
-  "opportunity_cost_krw": 3720000
+  "global_score": 1,
+  "opportunity_cost_thb": 99500,
+  "opportunity_cost_krw": 3980000
 }

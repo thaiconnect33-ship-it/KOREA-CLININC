@@ -1,16 +1,18 @@
 {
   "query": "압구정비앤미의원",
-  "generated_at": "2026-05-29T06:02:15.979Z",
+  "generated_at": "2026-05-29T10:28:52.157Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 4789,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "12173051",
+        "name": "압구정비앤미의원 : 네이버\u001c",
+        "visitor_review_count": 3101,
+        "blog_review_count": 1688,
+        "detail_url": "https://m.place.naver.com/place/12173051/home"
       }
     },
     "google_maps": {
@@ -43,78 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 18,
+      "metric_value": 20,
       "extra": {
-        "total_views": 5105573,
+        "total_views": 50723,
         "foreign_video_count": 0,
         "lang_breakdown": {
-          "korean": 18,
+          "korean": 20,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
           "english_other": 0
         },
-        "sample_size": 18,
+        "sample_size": 20,
         "top_videos": [
           {
-            "title": "[압구정비앤미] 비앤미를 대표하는 그녀들의 이야기♥",
+            "title": "[압구정비앤미]C부장의 비앤미 눈썹반영구 시술 체험기",
             "channel": "BE & ME Plastic Surgery Clinic Korea",
-            "url": "https://www.youtube.com/watch?v=N-wAnvTmIh4&pp=ygUw7JWV6rWs7KCV67mE7JWk66-47J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.2K views"
+            "url": "https://www.youtube.com/watch?v=_S2A-YArmrM&pp=ygUe7JWV6rWs7KCV67mE7JWk66-47J2Y7JuQIEtvcmVh",
+            "view_text": "260 views"
           },
           {
-            "title": "[압구정피부관리] 건조한피부에서 꿀광촉촉 피부로! 시바산 피부관리",
+            "title": "[압구정비앤미] 내추럴 3D 입술 전후 영상",
             "channel": "BE & ME Plastic Surgery Clinic Korea",
-            "url": "https://www.youtube.com/watch?v=OUPQtQ1MLeM&pp=ygUw7JWV6rWs7KCV67mE7JWk66-47J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1K views"
+            "url": "https://www.youtube.com/watch?v=DQKl_HySR_Y&pp=ygUe7JWV6rWs7KCV67mE7JWk66-47J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "350 views"
           },
           {
-            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
-            "channel": "JTBC News",
-            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUw7JWV6rWs7KCV67mE7JWk66-47J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1M views"
-          },
-          {
-            "title": "\"강남 유명 성형외과서 수술 뒤 눈이 실명됐습니다\" [지금이뉴스] / YTN",
-            "channel": "YTN",
-            "url": "https://www.youtube.com/watch?v=UyMrX929Q4I&pp=ygUw7JWV6rWs7KCV67mE7JWk66-47J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "576K views"
-          },
-          {
-            "title": "라임슬아님의 비앤미 쌍꺼풀 수술 - 예고편",
+            "title": "압구정 비앤미 성형외과",
             "channel": "BE & ME Plastic Surgery Clinic Korea",
-            "url": "https://www.youtube.com/watch?v=DOBoVIojiew&pp=ygUw7JWV6rWs7KCV67mE7JWk66-47J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "2.5K views"
+            "url": "https://www.youtube.com/watch?v=EURAGwh_gB4&pp=ygUe7JWV6rWs7KCV67mE7JWk66-47J2Y7JuQIEtvcmVh",
+            "view_text": "202 views"
           },
           {
-            "title": "도망쳐..지금이야!! 성형외과 블랙리스트 이렇게 거르세요",
-            "channel": "지유미 JIYUMEE",
-            "url": "https://www.youtube.com/watch?v=VK1hIW0QP-g&pp=ygUw7JWV6rWs7KCV67mE7JWk66-47J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "126K views"
+            "title": "21년 인생 첫 눈썹 생기다 ! | 눈썹 반영구 솔직 후기 | 일주일 변화(기법,통증,관리,각질,탈각,시술시간) | 압구정비앤미 | 반영구 눈썹 브이로그",
+            "channel": "강슈",
+            "url": "https://www.youtube.com/watch?v=dAIoXIX32YQ&pp=ygUe7JWV6rWs7KCV67mE7JWk66-47J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "16K views"
           },
           {
-            "title": "How to find a good plastic surgeon🧡 How to find a good plastic surgeon and avoid plastic surgery ...",
-            "channel": "베레나verena",
-            "url": "https://www.youtube.com/watch?v=SQzMbIJMBTQ&pp=ygUw7JWV6rWs7KCV67mE7JWk66-47J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "277K views"
+            "title": "\"여기서 반영구화장 배우고 지금 이 만큼 벌어요!\" (feat. 비앤미 수료생)",
+            "channel": "비앤미아카데미",
+            "url": "https://www.youtube.com/watch?v=qk7V4dPRl7Y&pp=ygUe7JWV6rWs7KCV67mE7JWk66-47J2Y7JuQIEtvcmVh",
+            "view_text": "104 views"
           },
           {
-            "title": "\"받으면 돈만 날립니다!\" 의사들이 절대 안 받는 미용 시술 4가지",
-            "channel": "주름잡는의사 이재운",
-            "url": "https://www.youtube.com/watch?v=o3Ep_Tle8lM&pp=ygUw7JWV6rWs7KCV67mE7JWk66-47J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
-            "view_text": "8.2K views"
+            "title": "[압구정비앤미] 내추럴 볼륨 헤어라인 전후 영상",
+            "channel": "BE & ME Plastic Surgery Clinic Korea",
+            "url": "https://www.youtube.com/watch?v=Lu74XBin32A&pp=ygUe7JWV6rWs7KCV67mE7JWk66-47J2Y7JuQIEtvcmVh",
+            "view_text": "120 views"
           },
           {
-            "title": "SM 천상계 연예인으로 만들어준다는 성형외과!!",
-            "channel": "핫이슈HOT ISSUE",
-            "url": "https://www.youtube.com/watch?v=WTeNWTENa54&pp=ygUw7JWV6rWs7KCV67mE7JWk66-47J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.7M views"
+            "title": "📍압구정 비앤미 오시는 길 (🧭 압구정 카페거리)",
+            "channel": "압구정비앤미 | 성형·피부·반영구",
+            "url": "https://www.youtube.com/watch?v=bK3hYZWtM0o&pp=ygUe7JWV6rWs7KCV67mE7JWk66-47J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "250 views"
           },
           {
-            "title": "아이라인 문신제거 통증없이",
-            "channel": "뷰티렐라tv",
-            "url": "https://www.youtube.com/watch?v=6kamF16ZhHw&pp=ygUw7JWV6rWs7KCV67mE7JWk66-47J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "4K views"
+            "title": "[압구정비앤미]★비앤미 반영구 센터 소개영상★",
+            "channel": "BE & ME Plastic Surgery Clinic Korea",
+            "url": "https://www.youtube.com/watch?v=-RcYEbWTiMs&pp=ygUe7JWV6rWs7KCV67mE7JWk66-47J2Y7JuQIEtvcmVh",
+            "view_text": "164 views"
+          },
+          {
+            "title": "내 얼굴에 착붙! 너무 잘 어울리는 반영구눈썹 (feat.압구정비앤미)",
+            "channel": "BE & ME Plastic Surgery Clinic Korea",
+            "url": "https://www.youtube.com/watch?v=NF5AjA-5A0s&pp=ygUe7JWV6rWs7KCV67mE7JWk66-47J2Y7JuQIEtvcmVh",
+            "view_text": "617 views"
+          },
+          {
+            "title": "#눈썹문신  5년차 👋 이런 분은 꼭 #반영구시술 추천합니다 😉 【마취중진담】",
+            "channel": "압구정비앤미 | 성형·피부·반영구",
+            "url": "https://www.youtube.com/watch?v=O6nD8ELdQ-A&pp=ygUe7JWV6rWs7KCV67mE7JWk66-47J2Y7JuQIEtvcmVh",
+            "view_text": "18K views"
           }
         ]
       }

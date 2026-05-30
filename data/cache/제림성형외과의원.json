@@ -1,6 +1,6 @@
 {
   "query": "제림성형외과의원",
-  "generated_at": "2026-05-28T22:32:35.966Z",
+  "generated_at": "2026-05-29T11:09:39.876Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 25093,
+        "total_views": 29779,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -59,64 +59,64 @@
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "얼굴 지방 흡입의 모든 것 / 제림성형외과 양정학",
-            "channel": "의학채널 비온뒤",
-            "url": "https://www.youtube.com/watch?v=ILEfj_juGbo&pp=ygUq7KCc66a87ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1K views"
+            "title": "[제림성형외과] 성형의 모든것, 제림성형외과",
+            "channel": "jelimps",
+            "url": "https://www.youtube.com/watch?v=0HdVTAfT6jM&pp=ygUe7KCc66a87ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "110 views"
           },
           {
-            "title": "의사 3대 가문 제림성형외과",
-            "channel": "제림성형외과",
-            "url": "https://www.youtube.com/watch?v=TUDS0dQjQCY&pp=ygUq7KCc66a87ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "53 views"
+            "title": "얼굴 지방 흡입의 모든 것 / 제림성형외과 양정학",
+            "channel": "의학채널 비온뒤",
+            "url": "https://www.youtube.com/watch?v=ILEfj_juGbo&pp=ygUe7KCc66a87ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1K views"
           },
           {
             "title": "[ENG/JP]팻컷주사 시술 원리",
             "channel": "제림성형외과",
-            "url": "https://www.youtube.com/watch?v=6xAK8l7U_AM&pp=ygUq7KCc66a87ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=6xAK8l7U_AM&pp=ygUe7KCc66a87ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "6.1K views"
-          },
-          {
-            "title": "[제림성형외과] 성형의 모든것, 제림성형외과",
-            "channel": "jelimps",
-            "url": "https://www.youtube.com/watch?v=0HdVTAfT6jM&pp=ygUq7KCc66a87ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "110 views"
-          },
-          {
-            "title": "제림성형외과 베가리프트",
-            "channel": "제림성형외과",
-            "url": "https://www.youtube.com/watch?v=qKcfu-4A6GI&pp=ygUq7KCc66a87ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.1K views"
-          },
-          {
-            "title": "얼굴 지방 흡입 재수술 하는 이유",
-            "channel": "제림성형외과",
-            "url": "https://www.youtube.com/watch?v=lPG0XNCfcw8&pp=ygUq7KCc66a87ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "63 views"
           },
           {
             "title": "얼굴 부위별 얼굴지방흡입 시술방법",
             "channel": "제림성형외과",
-            "url": "https://www.youtube.com/watch?v=JAZXVw6lDn8&pp=ygUq7KCc66a87ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=JAZXVw6lDn8&pp=ygUe7KCc66a87ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "828 views"
           },
           {
-            "title": "[ENG/JPN]팔자주름 수술 후 경과에 대해",
+            "title": "의사 3대 가문 제림성형외과",
             "channel": "제림성형외과",
-            "url": "https://www.youtube.com/watch?v=59kzqBt1cEk&pp=ygUq7KCc66a87ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "667 views"
+            "url": "https://www.youtube.com/watch?v=TUDS0dQjQCY&pp=ygUe7KCc66a87ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "56 views"
           },
           {
-            "title": "[닥터뷰] 모제림성형외과 송준혁 원장님",
-            "channel": "coding_stuff",
-            "url": "https://www.youtube.com/watch?v=7pm4GZuGEis&pp=ygUq7KCc66a87ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.3K views"
+            "title": "[Q&A] 양정학 원장님의 팻컷주사,팅주사 질문과 답변",
+            "channel": "제림성형외과",
+            "url": "https://www.youtube.com/watch?v=P-qrZi0c5rU&pp=ygUe7KCc66a87ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "2.8K views"
           },
           {
             "title": "[ENG/JPN] 다이어트할때 팻컷주사를 맞는 이유",
             "channel": "제림성형외과",
-            "url": "https://www.youtube.com/watch?v=bMJJM8jQfsw&pp=ygUq7KCc66a87ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "url": "https://www.youtube.com/watch?v=bMJJM8jQfsw&pp=ygUe7KCc66a87ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "2.5K views"
+          },
+          {
+            "title": "얼굴 지방 흡입 재수술 하는 이유",
+            "channel": "제림성형외과",
+            "url": "https://www.youtube.com/watch?v=lPG0XNCfcw8&pp=ygUe7KCc66a87ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "63 views"
+          },
+          {
+            "title": "[닥터뷰] 모제림성형외과 송준혁 원장님",
+            "channel": "coding_stuff",
+            "url": "https://www.youtube.com/watch?v=7pm4GZuGEis&pp=ygUe7KCc66a87ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.3K views"
+          },
+          {
+            "title": "제림 양정학 원장! 직접 다이어트 시작합니다. 에피소드8(28~29일차) - 비하인드편(본편은 '제림성형외과' 채널에서 보실 수 있습니다.^^)",
+            "channel": "닥터양의 다이어트 정석",
+            "url": "https://www.youtube.com/watch?v=mfwibtZ8v48&pp=ygUe7KCc66a87ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "134 views"
           }
         ]
       }
@@ -132,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

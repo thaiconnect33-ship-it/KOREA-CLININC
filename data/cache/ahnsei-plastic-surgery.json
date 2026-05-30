@@ -1,6 +1,6 @@
 {
   "query": "Ahnsei Plastic Surgery",
-  "generated_at": "2026-05-29T05:53:34.685Z",
+  "generated_at": "2026-05-29T10:19:52.462Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -16,18 +16,18 @@
     "google_maps": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 37,
       "extra": {
         "name": "Results",
-        "rating": 4.9,
-        "total_reviews": 0,
-        "sample_size": 9,
-        "foreign_language_reviews": 9,
+        "rating": 4,
+        "total_reviews": 37,
+        "sample_size": 6,
+        "foreign_language_reviews": 6,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 9
+          "english_other": 6
         }
       }
     },
@@ -69,7 +69,7 @@
       }
     }
   },
-  "global_score": 5,
-  "opportunity_cost_thb": 95500,
-  "opportunity_cost_krw": 3820000
+  "global_score": 3,
+  "opportunity_cost_thb": 97000,
+  "opportunity_cost_krw": 3880000
 }

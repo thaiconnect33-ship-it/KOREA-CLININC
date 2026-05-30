@@ -1,6 +1,6 @@
 {
   "query": "바이준성형외과의원",
-  "generated_at": "2026-05-28T22:16:14.804Z",
+  "generated_at": "2026-05-29T10:52:49.356Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 10203340,
+        "total_views": 11951340,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -59,64 +59,64 @@
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
-            "channel": "JTBC News",
-            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUt67CU7J207KSA7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1M views"
-          },
-          {
             "title": "How to tell if someone has had a nose job! 🤔",
             "channel": "한나이브성형외과",
-            "url": "https://www.youtube.com/watch?v=LLvPqMCXVgM&pp=ygUt67CU7J207KSA7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "238K views"
-          },
-          {
-            "title": "\"강남 유명 성형외과서 수술 뒤 눈이 실명됐습니다\" [지금이뉴스] / YTN",
-            "channel": "YTN",
-            "url": "https://www.youtube.com/watch?v=UyMrX929Q4I&pp=ygUt67CU7J207KSA7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "576K views"
-          },
-          {
-            "title": "도망쳐..지금이야!! 성형외과 블랙리스트 이렇게 거르세요",
-            "channel": "지유미 JIYUMEE",
-            "url": "https://www.youtube.com/watch?v=VK1hIW0QP-g&pp=ygUt67CU7J207KSA7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "126K views"
-          },
-          {
-            "title": "[단독]성형수술받다 20대 중국인 숨져…재수술 받으려다 사망 | 뉴스A",
-            "channel": "채널A News",
-            "url": "https://www.youtube.com/watch?v=2ejqLmAziyE&pp=ygUt67CU7J207KSA7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "288K views"
-          },
-          {
-            "title": "[코수술 Q&A] 역대급 예쁜 코..❤️ 정말 전~~~부 알려드릴게요‼️",
-            "channel": "희재 HEEJAE",
-            "url": "https://www.youtube.com/watch?v=Bx3Z7oxm0JQ&pp=ygUt67CU7J207KSA7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "827K views"
-          },
-          {
-            "title": "How to find a good plastic surgeon🧡 How to find a good plastic surgeon and avoid plastic surgery ...",
-            "channel": "베레나verena",
-            "url": "https://www.youtube.com/watch?v=SQzMbIJMBTQ&pp=ygUt67CU7J207KSA7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "277K views"
+            "url": "https://www.youtube.com/watch?v=LLvPqMCXVgM&pp=ygUh67CU7J207KSA7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "238K"
           },
           {
             "title": "SM 천상계 연예인으로 만들어준다는 성형외과!!",
             "channel": "핫이슈HOT ISSUE",
-            "url": "https://www.youtube.com/watch?v=WTeNWTENa54&pp=ygUt67CU7J207KSA7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.7M views"
+            "url": "https://www.youtube.com/watch?v=WTeNWTENa54&pp=ygUh67CU7J207KSA7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.7M"
+          },
+          {
+            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUh67CU7J207KSA7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1M"
+          },
+          {
+            "title": "\"강남 유명 성형외과서 수술 뒤 눈이 실명됐습니다\" [지금이뉴스] / YTN",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=UyMrX929Q4I&pp=ygUh67CU7J207KSA7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "576K"
+          },
+          {
+            "title": "도망쳐..지금이야!! 성형외과 블랙리스트 이렇게 거르세요",
+            "channel": "지유미 JIYUMEE",
+            "url": "https://www.youtube.com/watch?v=VK1hIW0QP-g&pp=ygUh67CU7J207KSA7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "126K"
+          },
+          {
+            "title": "코수술 부작용?!😱수술 당일부터 한 달차까지 꽉 채운 VLOG👃🏻+ 효과 대박인 붓기 관리템,수술 후 일상✨",
+            "channel": "소윤Soyoon",
+            "url": "https://www.youtube.com/watch?v=d0CatIij1Yo&pp=ygUh67CU7J207KSA7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "776K"
           },
           {
             "title": "I've had nose jobs 5 times and eye jobs 3 times and these are the things I've learned... 🙏🏻Please...",
             "channel": "10시엔 디붕",
-            "url": "https://www.youtube.com/watch?v=x1ZHfkQRSoM&pp=ygUt67CU7J207KSA7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "572K views"
+            "url": "https://www.youtube.com/watch?v=x1ZHfkQRSoM&pp=ygUh67CU7J207KSA7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "572K"
           },
           {
-            "title": "A Completely Transformed Rhinoplasty Trend | A Gangnam Plastic Surgeon Explains \"2026 Rhinoplasty...",
-            "channel": "진우쌤의 미인학개론",
-            "url": "https://www.youtube.com/watch?v=c7EbcU3u_us&pp=ygUt67CU7J207KSA7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "98K views"
+            "title": "[코수술 Q&A] 역대급 예쁜 코..❤️ 정말 전~~~부 알려드릴게요‼️",
+            "channel": "희재 HEEJAE",
+            "url": "https://www.youtube.com/watch?v=Bx3Z7oxm0JQ&pp=ygUh67CU7J207KSA7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "827K"
+          },
+          {
+            "title": "부작용 생겨서 재수술 했어요🥲 코수술 1년차 후기와 Q&AㅣMINCARONG",
+            "channel": "민카롱",
+            "url": "https://www.youtube.com/watch?v=eJfaInqQd34&pp=ygUh67CU7J207KSA7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "669K"
+          },
+          {
+            "title": "Why does Baek Ji-young regret having the surgery 30 years ago? (Considering Reoperation)",
+            "channel": "백지영 Baek Z Young",
+            "url": "https://www.youtube.com/watch?v=xmNXQMUg75A&pp=ygUh67CU7J207KSA7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "528K"
           }
         ]
       }
@@ -132,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

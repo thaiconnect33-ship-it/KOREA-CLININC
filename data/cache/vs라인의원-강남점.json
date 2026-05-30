@@ -1,0 +1,146 @@
+{
+  "query": "VS라인의원 강남점",
+  "generated_at": "2026-05-29T10:39:26.178Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "note": "검색 결과 없음",
+        "visitor_review_count": 0,
+        "blog_review_count": 0
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "VS Line Clinic Gangnam Branch",
+        "rating": 4.8,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 6075666,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "[예능형] VS라인의원 x 쥬베룩",
+            "channel": "The SC",
+            "url": "https://www.youtube.com/watch?v=8KEM7jqEKaE&pp=ygUeVlPrnbzsnbjsnZjsm5Ag6rCV64Ko7KCQIEtvcmVh",
+            "view_text": "423 views"
+          },
+          {
+            "title": "돈 쏟아붓기 전에 꼭 보세요. 강남 언니 되는 결정적 실수 | 싼티나는 인상을 결정짓는 한 끗 차이 | 앞광대, 팔자주름, V라인 | 라인만드는 의사 권병소",
+            "channel": "라인만드는 의사 DR.권병소",
+            "url": "https://www.youtube.com/watch?v=W3QOzTEdrXw&pp=ygUeVlPrnbzsnbjsnZjsm5Ag6rCV64Ko7KCQIEtvcmVh",
+            "view_text": "28K views"
+          },
+          {
+            "title": "\"너무 아프다\"…한마디 남기고 지방흡입 수술 후 사망 / KNN",
+            "channel": "KNN NEWS",
+            "url": "https://www.youtube.com/watch?v=Q3Ii_0VymLc&pp=ygUeVlPrnbzsnbjsnZjsm5Ag6rCV64Ko7KCQIEtvcmVh",
+            "view_text": "2.2M views"
+          },
+          {
+            "title": "[단독] 강남 성형외과에 '분통'…\"근육 썩고 사경 헤맸다\" / SBS 8뉴스",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=svfX3-lNpIw&pp=ygUeVlPrnbzsnbjsnZjsm5Ag6rCV64Ko7KCQIEtvcmVh",
+            "view_text": "2.4M views"
+          },
+          {
+            "title": "What kind of treatments do I get? I’m telling you everything💆🏻‍♀️",
+            "channel": "최종시안",
+            "url": "https://www.youtube.com/watch?v=8W31tqhdvLA&pp=ygUeVlPrnbzsnbjsnZjsm5Ag6rCV64Ko7KCQIEtvcmVh",
+            "view_text": "1M views"
+          },
+          {
+            "title": "\"Stop wasting money—get Botox like this for a youthful look\": How to use Botox to look 10 years y...",
+            "channel": "얼굴디자인연구소",
+            "url": "https://www.youtube.com/watch?v=Qv-wcxuFB2E&pp=ygUeVlPrnbzsnbjsnZjsm5Ag6rCV64Ko7KCQIEtvcmVh",
+            "view_text": "6 views"
+          },
+          {
+            "title": "강남피부과 강남역피부과 연세라인의원",
+            "channel": "[강남병원][강남역피부과][강남역병원]",
+            "url": "https://www.youtube.com/watch?v=nyDvRO8sODs&pp=ygUeVlPrnbzsnbjsnZjsm5Ag6rCV64Ko7KCQIEtvcmVh",
+            "view_text": "56 views"
+          },
+          {
+            "title": "[강남 한미인의원] 하이할라오 브이라인만들기",
+            "channel": "한미인의원-韓美人醫美",
+            "url": "https://www.youtube.com/watch?v=ReSpjt3aBlk&pp=ygUeVlPrnbzsnbjsnZjsm5Ag6rCV64Ko7KCQIEtvcmVh",
+            "view_text": "560 views"
+          },
+          {
+            "title": "\"Dermatologists don't tell you...\" We recommend popular youth-enhancing procedures these days. We...",
+            "channel": "박지윤의 피부 설명서",
+            "url": "https://www.youtube.com/watch?v=EFB-McCJG48&pp=ygUeVlPrnbzsnbjsnZjsm5Ag6rCV64Ko7KCQIEtvcmVh",
+            "view_text": "444K views"
+          },
+          {
+            "title": "새로워진 플랜에스의원 투어 – 강남 다이어트·라인 케어 공간",
+            "channel": "플랜에스TV",
+            "url": "https://www.youtube.com/watch?v=nussp-sIUHQ&pp=ygUeVlPrnbzsnbjsnZjsm5Ag6rCV64Ko7KCQIEtvcmVh",
+            "view_text": "253 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 150000,
+  "opportunity_cost_krw": 6000000
+}

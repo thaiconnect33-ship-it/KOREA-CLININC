@@ -1,0 +1,130 @@
+{
+  "query": "데이뷰의원 명동점",
+  "generated_at": "2026-05-29T11:45:12.087Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 2809,
+      "extra": {
+        "place_id": "1159646885",
+        "name": "데이뷰의원 명동점 : 네이버\u001c",
+        "visitor_review_count": 92,
+        "blog_review_count": 2717,
+        "detail_url": "https://m.place.naver.com/place/1159646885/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Results",
+        "rating": 4.9,
+        "total_reviews": 0,
+        "sample_size": 9,
+        "foreign_language_reviews": 9,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 9
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 7,
+      "extra": {
+        "total_views": 16818,
+        "foreign_video_count": 2,
+        "lang_breakdown": {
+          "korean": 5,
+          "thai": 1,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 1
+        },
+        "sample_size": 7,
+        "top_videos": [
+          {
+            "title": "รีวิวทำผิวที่เกาหลี ที่ DayBeau Clinic เมียงดง…🧖🏻‍♀️🇰🇷",
+            "channel": "‧₊˚𓆑 ࣪ ก็ ช อ บ นิ่",
+            "url": "https://www.youtube.com/watch?v=af3kK4cXT84&pp=ygUf642w7J2067ew7J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "96 views"
+          },
+          {
+            "title": "명동에서 이태원 까지 걸어가보기 걸어서 둘러보기 명동 이태원 해방촌 street view of Seoul city Walking through Seoul city",
+            "channel": "사이먼쿤SimonKun",
+            "url": "https://www.youtube.com/watch?v=SWnWAMwWb3c&pp=ygUf642w7J2067ew7J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "97 views"
+          },
+          {
+            "title": "vlogㅣ명동 레스케이프 호텔, 호캉스 브이로그ㅣ피크닉 🌿 정원 만들기 전시 🪴☔️",
+            "channel": "Aloha JH",
+            "url": "https://www.youtube.com/watch?v=GRDJlgl55cE&pp=ygUf642w7J2067ew7J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "42 views"
+          },
+          {
+            "title": "[서울 강북권] 시니어 일자리 12개 - 오늘 모집 중 (시급 순)",
+            "channel": "시니어꿀팁",
+            "url": "https://www.youtube.com/watch?v=gSwrnig7qMk&pp=ygUf642w7J2067ew7J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "6 views"
+          },
+          {
+            "title": "【4K HD】Busan Walk Seomyeon - Busan's Myeongdong | 釜山的明洞 - 釜山西面商圈 | 부산서면",
+            "channel": "dingo walk",
+            "url": "https://www.youtube.com/watch?v=LXVw8BhzvJk&pp=ygUf642w7J2067ew7J2Y7JuQIOuqheuPmeygkCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "577 views"
+          },
+          {
+            "title": "공비환과 함께 한달만에 8kg 감량!! l 웨딩 촬영 앞둔 예비신부가 선택한 공비환 다이어트",
+            "channel": "자임당한의원",
+            "url": "https://www.youtube.com/watch?v=2o96K9EZgo8&pp=ygUf642w7J2067ew7J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "2K views"
+          },
+          {
+            "title": "[Korea vlog]5 days trip to Seoul✈️🤍| Recommended hot spots with Koreans| Lip art makeup, skin care,🫧",
+            "channel": "eimy",
+            "url": "https://www.youtube.com/watch?v=9OKddr1Rzpw&pp=ygUf642w7J2067ew7J2Y7JuQIOuqheuPmeygkCBLb3JlYQ%3D%3D",
+            "view_text": "14K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 6,
+  "opportunity_cost_thb": 94500,
+  "opportunity_cost_krw": 3780000
+}

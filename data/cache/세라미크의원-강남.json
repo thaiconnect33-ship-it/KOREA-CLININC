@@ -1,0 +1,130 @@
+{
+  "query": "세라미크의원 강남",
+  "generated_at": "2026-05-29T10:42:57.432Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 17513,
+      "extra": {
+        "place_id": "2062825643",
+        "name": "세라미크의원 강남 : 네이버\u001c",
+        "visitor_review_count": 7969,
+        "blog_review_count": 9544,
+        "detail_url": "https://m.place.naver.com/place/2062825643/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Ceramique clinic gangnam(세라미크의원 강남)",
+        "rating": 4.9,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 7,
+      "extra": {
+        "total_views": 355839,
+        "foreign_video_count": 1,
+        "lang_breakdown": {
+          "korean": 6,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 1
+        },
+        "sample_size": 7,
+        "top_videos": [
+          {
+            "title": "[바크로] 네오스트라타 7년만의 내한, 세라미크 의원 방문",
+            "channel": "BAQUERO[바크로]",
+            "url": "https://www.youtube.com/watch?v=cV3j6pESADc&pp=ygUf7IS4652866-47YGs7J2Y7JuQIOqwleuCqCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "92 views"
+          },
+          {
+            "title": "Health 365_Doctor Insight - Chief Director Lee Jong-jin / Ceramique Clinic Gangnam",
+            "channel": "이데일리TV 다시보기",
+            "url": "https://www.youtube.com/watch?v=68ZIu3s96Ig&pp=ygUf7IS4652866-47YGs7J2Y7JuQIOqwleuCqCBLb3JlYQ%3D%3D",
+            "view_text": "91 views"
+          },
+          {
+            "title": "Céramique is now available",
+            "channel": "Ceramique clinic_English",
+            "url": "https://www.youtube.com/watch?v=0M_vbkuMzFc&pp=ygUf7IS4652866-47YGs7J2Y7JuQIOqwleuCqCBLb3JlYQ%3D%3D",
+            "view_text": "65K views"
+          },
+          {
+            "title": "강남역에서 36년 동안 함께한 병원, 오늘이 마지막 입니다.",
+            "channel": "솔직한 의사 생활",
+            "url": "https://www.youtube.com/watch?v=PPV4EDjCb3A&pp=ygUf7IS4652866-47YGs7J2Y7JuQIOqwleuCqCBLb3JlYQ%3D%3D",
+            "view_text": "1.4K views"
+          },
+          {
+            "title": "효과 없는 시술, 이유는 따로 있습니다 | 신뢰로 진료하는 신사역 피부과 세레아의원",
+            "channel": "신사역피부과 세레아의원",
+            "url": "https://www.youtube.com/watch?v=8xpQuDDw-7c&pp=ygUf7IS4652866-47YGs7J2Y7JuQIOqwleuCqCBLb3JlYQ%3D%3D",
+            "view_text": "153 views"
+          },
+          {
+            "title": "상담존부터 시술실까지… 규모부터 다른 신사역피부과 세레아의원✨",
+            "channel": "신사역피부과 세레아의원",
+            "url": "https://www.youtube.com/watch?v=aBMIRNsssgg&pp=ygUf7IS4652866-47YGs7J2Y7JuQIOqwleuCqCBLb3JlYQ%3D%3D",
+            "view_text": "103 views"
+          },
+          {
+            "title": "[티톡스] 10년 달고 살았던 수염자국이 싹- 없어졌다🔥레이저 제모 찐후기 (병원, 가격, 기계, 시술후 관리 등등)",
+            "channel": "티벳동생",
+            "url": "https://www.youtube.com/watch?v=xsQS3Hufiqg&pp=ygUf7IS4652866-47YGs7J2Y7JuQIOqwleuCqCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "289K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 1,
+  "opportunity_cost_thb": 149500,
+  "opportunity_cost_krw": 5980000
+}

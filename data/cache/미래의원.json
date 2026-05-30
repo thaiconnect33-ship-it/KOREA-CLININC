@@ -1,18 +1,18 @@
 {
   "query": "미래의원",
-  "generated_at": "2026-05-28T23:00:21.683Z",
+  "generated_at": "2026-05-29T11:40:27.665Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 296,
+      "metric_value": 407,
       "extra": {
-        "place_id": "19530811",
+        "place_id": "18600907",
         "name": "미래의원 : 네이버\u001c",
-        "visitor_review_count": 295,
-        "blog_review_count": 1,
-        "detail_url": "https://m.place.naver.com/place/19530811/home"
+        "visitor_review_count": 402,
+        "blog_review_count": 5,
+        "detail_url": "https://m.place.naver.com/place/18600907/home"
       }
     },
     "google_maps": {
@@ -20,16 +20,16 @@
       "metric_label": "리뷰",
       "metric_value": 0,
       "extra": {
-        "name": "Results",
+        "name": "미래의원",
         "rating": 3,
         "total_reviews": 0,
-        "sample_size": 4,
-        "foreign_language_reviews": 4,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 4
+          "english_other": 0
         }
       }
     },
@@ -47,76 +47,76 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 90705,
+        "total_views": 742498,
         "foreign_video_count": 1,
         "lang_breakdown": {
           "korean": 19,
-          "thai": 1,
+          "thai": 0,
           "chinese": 0,
           "japanese": 0,
-          "english_other": 0
+          "english_other": 1
         },
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "한국 성형의 미래와 희망",
-            "channel": "윤앤정성형외과",
-            "url": "https://www.youtube.com/watch?v=n0JlWg5W_oA&pp=ygUe66-4656Y7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "259 views"
+            "title": "당뇨병의 무서운 합병증. 당뇨발의 원인과 인터벤션 치료",
+            "channel": "미래의원TV",
+            "url": "https://www.youtube.com/watch?v=aAbpxwYhKVA&pp=ygUS66-4656Y7J2Y7JuQIEtvcmVh",
+            "view_text": "909 views"
           },
           {
-            "title": "[밸런스게임] 미래 자녀가 성형수술 시켜달라하면 허락한다⭕ vs 안한다?❌ ㅣ 더하다성형외과 이정훈원장",
-            "channel": "더하다TV",
-            "url": "https://www.youtube.com/watch?v=f4b-5twBWQE&pp=ygUe66-4656Y7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.2K views"
+            "title": "광주미래의원이 준비되었습니다!",
+            "channel": "미래의원TV",
+            "url": "https://www.youtube.com/watch?v=X-wzvsZ-XMs&pp=ygUS66-4656Y7J2Y7JuQIEtvcmVh",
+            "view_text": "547 views"
           },
           {
-            "title": "더성형외과 가슴성형 옥재진원장 모티바 아시아 대표(KOL)로 세계 70개국 모티바 대표 KOL 초청 학회 참석",
-            "channel": "더성형외과",
-            "url": "https://www.youtube.com/watch?v=Nfnp9ocXacU&pp=ygUe66-4656Y7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "title": "“미용 시술만 가능하세요🙏” / 스브스뉴스",
+            "channel": "스브스뉴스 SUBUSUNEWS",
+            "url": "https://www.youtube.com/watch?v=6TP46DE9R08&pp=ygUS66-4656Y7J2Y7JuQIEtvcmVh",
+            "view_text": "715K views"
+          },
+          {
+            "title": "제 3 회 광주미래투석혈관 심포지엄_투석혈관 이상을 의심할 수 있는 이학적 소견들 (김옥기 원장님, 광주노벨플러스내과)",
+            "channel": "미래의원TV",
+            "url": "https://www.youtube.com/watch?v=pOFeKlCKnDY&pp=ygUS66-4656Y7J2Y7JuQIEtvcmVh",
+            "view_text": "322 views"
+          },
+          {
+            "title": "제1회 광주미래 투석혈관 심포지엄 (2) 광주미래의원 류상우 원장님",
+            "channel": "미래의원TV",
+            "url": "https://www.youtube.com/watch?v=LQSbQrFM-Uc&pp=ygUS66-4656Y7J2Y7JuQIEtvcmVh",
             "view_text": "1.7K views"
           },
           {
-            "title": "아시아최고 실력파 성형외과를 가다  -  전)대한성형외과학회장 네오성형외과  정영덕 원장 인터뷰 [Best plastic surgery clinic in Asia ]",
-            "channel": "여린발",
-            "url": "https://www.youtube.com/watch?v=grp0kKswQhk&pp=ygUe66-4656Y7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "261 views"
+            "title": "\"통합의학\"이란 무엇인가 part1_케이미래의원 조병식 대표원장님",
+            "channel": "케이미래의원",
+            "url": "https://www.youtube.com/watch?v=iWGNu0_cFnU&pp=ygUS66-4656Y7J2Y7JuQIEtvcmVh",
+            "view_text": "1.8K views"
           },
           {
-            "title": "#눈성형 #눈재수술 25년 경력 안병준성형외과를 소개 합니다👨‍⚕️ |  2호선 방배역 안병준성형외과",
-            "channel": "안병준성형외과",
-            "url": "https://www.youtube.com/watch?v=ygB27Ef9bRk&pp=ygUe66-4656Y7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "3.6K views"
+            "title": "제 3 회 광주미래 투석혈관 심포지엄_투석혈관 이상의 객관적 평가: Flow-monitoring system (최준석 원장님, 목포한국병원)",
+            "channel": "미래의원TV",
+            "url": "https://www.youtube.com/watch?v=bcJE93_R_J8&pp=ygUS66-4656Y7J2Y7JuQIEtvcmVh",
+            "view_text": "368 views"
           },
           {
-            "title": "[한국병원방송] 글로벌성형외과 최오규 원장 - 초용복합 안면거상 수술의 미래",
-            "channel": "한국병원방송KHBS",
-            "url": "https://www.youtube.com/watch?v=dkd5PbpSMJE&pp=ygUe66-4656Y7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "471 views"
+            "title": "케이미래의원은 어떤곳인가! 안관홍원장_part 01",
+            "channel": "케이미래의원",
+            "url": "https://www.youtube.com/watch?v=rdS_PKsS--U&pp=ygUS66-4656Y7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "1.7K views"
           },
           {
-            "title": "현명한 성형! 현명한 닥터! 중년성형의 최강자 김현조 원장님을 소개합니다!",
-            "channel": "오브제TV",
-            "url": "https://www.youtube.com/watch?v=bQx1l8o5gJE&pp=ygUe66-4656Y7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "6.7K views"
+            "title": "케이미래의원은 어떤곳인가! 안관홍원장 part2",
+            "channel": "케이미래의원",
+            "url": "https://www.youtube.com/watch?v=2XRU9asrRoM&pp=ygUS66-4656Y7J2Y7JuQIEtvcmVh",
+            "view_text": "1.4K views"
           },
           {
-            "title": "골드 해피 미래의원 동안성형의 정의",
-            "channel": "미래의원골드해피",
-            "url": "https://www.youtube.com/watch?v=zTxWg-0Do5k&pp=ygUe66-4656Y7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "773 views"
-          },
-          {
-            "title": "뷰성형외과를 방문한 모티바 CEO",
-            "channel": "뷰성형외과 VIEW Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=rO22JJQGqhk&pp=ygUe66-4656Y7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.2K views"
-          },
-          {
-            "title": "[포에버성형외과 강남점] 리얼모델 미래님의 리얼후기! [리얼모델 박미래 편]",
-            "channel": "포에버성형외과강남",
-            "url": "https://www.youtube.com/watch?v=aEs75TDC5hk&pp=ygUe66-4656Y7J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "272 views"
+            "title": "제 2회 광주미래 투석혈관 심포지엄 _ 만성기저질환자(투석환자)와 COVID 19 (오태훈 교수님, 전남대학교병원 감염내과)",
+            "channel": "미래의원TV",
+            "url": "https://www.youtube.com/watch?v=uNC71THj5Jg&pp=ygUS66-4656Y7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "244 views"
           }
         ]
       }
@@ -132,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 3,
-  "opportunity_cost_thb": 97500,
-  "opportunity_cost_krw": 3900000
+  "global_score": 1,
+  "opportunity_cost_thb": 99500,
+  "opportunity_cost_krw": 3980000
 }

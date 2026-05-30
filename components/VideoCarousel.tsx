@@ -4,6 +4,7 @@ import { promises as fs } from "node:fs";
 import path from "node:path";
 import { youtubeThumb } from "@/lib/media";
 import { type Lang, fmtNum } from "@/lib/i18n";
+import { loadEnglishVideos } from "@/lib/db";
 
 type Video = {
   title: string;
@@ -14,7 +15,7 @@ type Video = {
   topic: string;
 };
 
-async function loadTopVideos(limit = 12): Promise<Video[]> {
+async function loadThaiTopVideos(limit = 12): Promise<Video[]> {
   try {
     const raw = await fs.readFile(path.join(process.cwd(), "data", "youtube_market.json"), "utf-8");
     const j = JSON.parse(raw) as { sample_videos?: Video[] };
@@ -25,7 +26,11 @@ async function loadTopVideos(limit = 12): Promise<Video[]> {
 }
 
 export async function VideoCarousel({ lang }: { lang: Lang }) {
-  const videos = await loadTopVideos(12);
+  // 영어 모드: clinic cache 의 영어 채널 비디오만 (Thai 자막 비디오 제외).
+  // 태국어 모드: 기존 Thai market data.
+  const videos = lang === "en"
+    ? (await loadEnglishVideos(12)).filter((v) => youtubeThumb(v.url)).map((v) => ({ ...v, topic: "" }))
+    : await loadThaiTopVideos(12);
   if (videos.length === 0) return null;
   return (
     <div className="relative -mx-4">

@@ -1,17 +1,17 @@
 {
   "query": "스누성형외과의원",
-  "generated_at": "2026-05-28T22:17:22.376Z",
+  "generated_at": "2026-05-29T10:54:02.710Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 1151,
+      "metric_value": 1150,
       "extra": {
         "place_id": "1017857105",
         "name": "스누성형외과의원 : 네이버\u001c",
-        "visitor_review_count": 522,
-        "blog_review_count": 629,
+        "visitor_review_count": 523,
+        "blog_review_count": 627,
         "detail_url": "https://m.place.naver.com/place/1017857105/home"
       }
     },
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 489799,
+        "total_views": 490051,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -61,62 +61,62 @@
           {
             "title": "스누성형외과 소개 영상 SNU Plastic Surgery",
             "channel": "스누성형외과 SNU Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=4s2wwCEoKNI&pp=ygUq7Iqk64iE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "6.4K"
+            "url": "https://www.youtube.com/watch?v=4s2wwCEoKNI&pp=ygUe7Iqk64iE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "6.4K views"
           },
           {
             "title": "성형수술 회복기, 진짜 중요한 건 이 시기입니다",
             "channel": "스누성형외과 SNU Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=snTh4Uq6k2Y&pp=ygUq7Iqk64iE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "88"
+            "url": "https://www.youtube.com/watch?v=snTh4Uq6k2Y&pp=ygUe7Iqk64iE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "88 views"
           },
           {
-            "title": "눈재수술이 필요한 유형 셀프체크하는 방법!",
+            "title": "팔자주름 깊어지는 원인, 사실은 볼처짐 때문입니다",
             "channel": "스누성형외과 SNU Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=nns3DOmwZw8&pp=ygUq7Iqk64iE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "274K"
-          },
-          {
-            "title": "의사도 받는 피부윤곽시술! 나에게 딱 맞는 윤곽시술은?",
-            "channel": "스누성형외과 SNU Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=d8SWqD-Vi7M&pp=ygUq7Iqk64iE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "46K"
+            "url": "https://www.youtube.com/watch?v=T5EphWtvnDs&pp=ygUe7Iqk64iE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "138 views"
           },
           {
             "title": "시술 선택 전 꼭 알아야 할 추천 기준",
             "channel": "스누성형외과 SNU Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=UlrqyrzYoas&pp=ygUq7Iqk64iE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "82"
+            "url": "https://www.youtube.com/watch?v=UlrqyrzYoas&pp=ygUe7Iqk64iE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "82 views"
           },
           {
-            "title": "시간이 지나도 남는 흉터, 흉터성형술로 해결하는 방법",
+            "title": "스킨부스터 A to Z 까지 모두 설명 드립니다✨",
             "channel": "스누성형외과 SNU Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=jebxD3bfAGs&pp=ygUq7Iqk64iE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "208"
+            "url": "https://www.youtube.com/watch?v=GZADHpcJ-MA&pp=ygUe7Iqk64iE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "90 views"
           },
           {
-            "title": "실리프팅 통증 최소화, 중요한 포인트는 이것!",
+            "title": "의사도 받는 피부윤곽시술! 나에게 딱 맞는 윤곽시술은?",
             "channel": "스누성형외과 SNU Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=eaJvq4FFq4g&pp=ygUq7Iqk64iE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "113"
+            "url": "https://www.youtube.com/watch?v=d8SWqD-Vi7M&pp=ygUe7Iqk64iE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "46K views"
           },
           {
             "title": "[V라인 만들기] 비수술부터 수술적 방법까지",
             "channel": "스누성형외과 SNU Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=7eFdC5BHqsw&pp=ygUq7Iqk64iE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "90"
+            "url": "https://www.youtube.com/watch?v=7eFdC5BHqsw&pp=ygUe7Iqk64iE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "90 views"
           },
           {
-            "title": "팔자주름이 생기는 이유와 수술 없이 없애는 방법❗",
+            "title": "실리프팅 통증 최소화, 중요한 포인트는 이것!",
             "channel": "스누성형외과 SNU Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=h712WLw-YBg&pp=ygUq7Iqk64iE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "70"
+            "url": "https://www.youtube.com/watch?v=eaJvq4FFq4g&pp=ygUe7Iqk64iE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "113 views"
           },
           {
-            "title": "코수술 한 번으로 끝낼 수 있을까? VS 여러 번 해야 완벽해질까?!",
+            "title": "코 보형물에도 큰 차이가 있나요? 보형물을 이용한 코성형",
             "channel": "스누성형외과 SNU Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=lviNLpsVTBE&pp=ygUq7Iqk64iE7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "78K"
+            "url": "https://www.youtube.com/watch?v=7dyzXLfViUA&pp=ygUe7Iqk64iE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "73 views"
+          },
+          {
+            "title": "성장기 성형수술, 이것 모르면 후회합니다",
+            "channel": "스누성형외과 SNU Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=peioB74_nlE&pp=ygUe7Iqk64iE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "176 views"
           }
         ]
       }
@@ -132,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

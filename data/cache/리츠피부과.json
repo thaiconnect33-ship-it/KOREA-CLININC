@@ -1,6 +1,6 @@
 {
   "query": "리츠피부과",
-  "generated_at": "2026-05-29T05:51:25.619Z",
+  "generated_at": "2026-05-29T10:17:48.894Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -18,18 +18,18 @@
     "google_maps": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 135,
       "extra": {
         "name": "Results",
-        "rating": 5,
-        "total_reviews": 0,
-        "sample_size": 7,
-        "foreign_language_reviews": 7,
+        "rating": 4.5,
+        "total_reviews": 135,
+        "sample_size": 6,
+        "foreign_language_reviews": 6,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 7
+          "english_other": 6
         }
       }
     },
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 8776565,
+        "total_views": 8778565,
         "foreign_video_count": 20,
         "lang_breakdown": {
           "korean": 0,
@@ -67,7 +67,7 @@
           {
             "title": "Everyone Said My Skin Changed After This Trip… | Lamiche Korea Review",
             "channel": "yours truly, Yuki",
-            "url": "https://www.youtube.com/watch?v=vOYWzNADU_k&pp=ygUWTGl0cyBEZXJtYXRvbG9neSBLb3JlYQ%3D%3D",
+            "url": "https://www.youtube.com/watch?v=vOYWzNADU_k&pp=ygUWTGl0cyBEZXJtYXRvbG9neSBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
             "view_text": "1.5K views"
           },
           {
@@ -79,7 +79,7 @@
           {
             "title": "Can You Really Get Glass Skin? 👀✨ | Dermatology Treatments Explained (Korea)",
             "channel": "THEME DERMATOLOGY",
-            "url": "https://www.youtube.com/watch?v=zW-ww35uy9c&pp=ygUWTGl0cyBEZXJtYXRvbG9neSBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "url": "https://www.youtube.com/watch?v=zW-ww35uy9c&pp=ygUWTGl0cyBEZXJtYXRvbG9neSBLb3JlYQ%3D%3D",
             "view_text": "39 views"
           },
           {
@@ -91,14 +91,20 @@
           {
             "title": "Everyone Uses THESE in Korea👌 What Koreans ACTUALLY buy!",
             "channel": "Beauty Within",
-            "url": "https://www.youtube.com/watch?v=5WbOn6ht3JU&pp=ygUWTGl0cyBEZXJtYXRvbG9neSBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "url": "https://www.youtube.com/watch?v=5WbOn6ht3JU&pp=ygUWTGl0cyBEZXJtYXRvbG9neSBLb3JlYQ%3D%3D",
             "view_text": "491K views"
           },
           {
             "title": "AZELAIC ACID - IS IT WORTH THE HYPE? | Dermatologists Explain",
             "channel": "Doctorly",
             "url": "https://www.youtube.com/watch?v=fjIGAFmBgRE&pp=ygUWTGl0cyBEZXJtYXRvbG9neSBLb3JlYQ%3D%3D",
-            "view_text": "686K views"
+            "view_text": "687K views"
+          },
+          {
+            "title": "Dermatologist Review Viral Asian Skincare Products | Dr. Jenny Liu",
+            "channel": "Dr. Jenny Liu",
+            "url": "https://www.youtube.com/watch?v=0AhHtgHT9Kc&pp=ygUWTGl0cyBEZXJtYXRvbG9neSBLb3JlYQ%3D%3D",
+            "view_text": "283K views"
           },
           {
             "title": "I spent $$$ in Korea so you don't have to 🇰🇷 the skin treatments that were worth it",
@@ -111,12 +117,6 @@
             "channel": "Arianna Hall",
             "url": "https://www.youtube.com/watch?v=D9Smsg75O9o&pp=ygUWTGl0cyBEZXJtYXRvbG9neSBLb3JlYQ%3D%3D",
             "view_text": "26 views"
-          },
-          {
-            "title": "Dermatologist Reviews the Best Korean & Japanese Sunscreens 🌞 | Dr. Aleksandra Brown",
-            "channel": "Dr. Aleksandra Brown",
-            "url": "https://www.youtube.com/watch?v=fn6lpWpKYtM&pp=ygUWTGl0cyBEZXJtYXRvbG9neSBLb3JlYQ%3D%3D",
-            "view_text": "11K views"
           }
         ]
       }
@@ -142,7 +142,7 @@
       }
     }
   },
-  "global_score": 20,
-  "opportunity_cost_thb": 86500,
-  "opportunity_cost_krw": 3460000
+  "global_score": 19,
+  "opportunity_cost_thb": 87000,
+  "opportunity_cost_krw": 3480000
 }

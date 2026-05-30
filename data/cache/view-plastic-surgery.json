@@ -1,6 +1,6 @@
 {
   "query": "View Plastic Surgery",
-  "generated_at": "2026-05-29T05:42:17.622Z",
+  "generated_at": "2026-05-29T10:08:04.621Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -18,18 +18,18 @@
     "google_maps": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 762,
+      "metric_value": 763,
       "extra": {
         "name": "View Plastic Surgery",
         "rating": 4.9,
-        "total_reviews": 762,
-        "sample_size": 16,
-        "foreign_language_reviews": 16,
+        "total_reviews": 763,
+        "sample_size": 20,
+        "foreign_language_reviews": 20,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 16
+          "english_other": 20
         }
       }
     },
@@ -42,40 +42,40 @@
           {
             "title": "TS5 Dewarrunpong The Burrow House 195 **ยังหวังดีแค่เธอเรื่อยมา ใคร ก็เตือนฉันว่าควรต้องบอกลา บอกให้ฉันว่าควรถอยออกมา..",
             "url": "https://pantip.com/topic/42547870",
-            "views": 0
+            "views": 67
           },
           {
             "title": "มาตอบเค้าหน่อย😁อยากไปทุบหน้าที่เกาหลีมากจ้าา555555555",
             "url": "https://pantip.com/topic/39136323",
-            "views": 0
+            "views": 555555555
           },
           {
             "title": "คลินิกศัลยกรรมเกาหลีที่ดีที่สุด2017(ข้อมูลจากชาวเกาหลี)",
             "url": "https://pantip.com/topic/37485951",
-            "views": 0
+            "views": 4169948
           },
           {
             "title": "เพิ่งรู้ว่า เอมมี่ สุนันทา เดวา ไปเสริมหน้าอกที่เกาหลีมา..",
             "url": "https://pantip.com/topic/36962977",
-            "views": 0
+            "views": 60
           },
           {
             "title": "รีวิวศัลยกรรมเกาหลี V-Line, จมูก, ฉีดไขมัน",
             "url": "https://pantip.com/topic/35777168",
-            "views": 0
+            "views": 3514411
           },
           {
             "title": "รีวิว ประสบการณ์ศัลยกรรมเกาหลี ทำสวยฟรี อยู่ฟรี 2 เดือนเต็ม",
             "url": "https://pantip.com/topic/35748120",
-            "views": 0
+            "views": 2788774
           },
           {
             "title": "ขอถามเรื่อง ศัลยกรรมที่เกาหลี ?",
             "url": "https://pantip.com/topic/33688108",
-            "views": 0
+            "views": 1446276
           }
         ],
-        "total_views": 0
+        "total_views": 567475091
       }
     },
     "youtube": {
@@ -83,7 +83,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 607418,
+        "total_views": 363911,
         "foreign_video_count": 20,
         "lang_breakdown": {
           "korean": 0,
@@ -101,10 +101,22 @@
             "view_text": "7.3K views"
           },
           {
+            "title": "Plastic Surgery in Korea🩸 [Rhinoplasty, Double eyelid, Facial Contouring] EP.2",
+            "channel": "View Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=-jl0mZh2HJc&pp=ygUaVmlldyBQbGFzdGljIFN1cmdlcnkgS29yZWE%3D",
+            "view_text": "11K views"
+          },
+          {
             "title": "Korea No.1 Plastic surgery medical center | Introduction of VIEW 💜",
             "channel": "View Plastic Surgery Korea",
             "url": "https://www.youtube.com/watch?v=jtbIfCDG3PM&pp=ygUaVmlldyBQbGFzdGljIFN1cmdlcnkgS29yZWE%3D",
             "view_text": "1.2K views"
+          },
+          {
+            "title": "Watch Me Reverse Aging with Plastic Surgery in Korea Vlog! Part 1",
+            "channel": "View Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=8FOFobNnhB8&pp=ygUaVmlldyBQbGFzdGljIFN1cmdlcnkgS29yZWE%3D",
+            "view_text": "71K views"
           },
           {
             "title": "Plastic Surgery in Korea VLOG |  The Best Decision of My Life",
@@ -125,28 +137,16 @@
             "view_text": "83K views"
           },
           {
-            "title": "Watch Me Reverse Aging with Plastic Surgery in Korea Vlog! Part 1",
-            "channel": "View Plastic Surgery Korea",
-            "url": "https://www.youtube.com/watch?v=8FOFobNnhB8&pp=ygUaVmlldyBQbGFzdGljIFN1cmdlcnkgS29yZWE%3D",
-            "view_text": "71K views"
-          },
-          {
-            "title": "Why Korea is the best place for Breast Augmentation (Full Guide)",
-            "channel": "View Plastic Surgery Korea",
-            "url": "https://www.youtube.com/watch?v=IBvPywyLK-A&pp=ygUaVmlldyBQbGFzdGljIFN1cmdlcnkgS29yZWE%3D",
-            "view_text": "4.6K views"
-          },
-          {
             "title": "VIEW PLASTIC SURGERY KOREA THE BEST FACILITIES - HIGH VIEW",
             "channel": "View Plastic Surgery Korea",
             "url": "https://www.youtube.com/watch?v=fD9vbp0qcNQ&pp=ygUaVmlldyBQbGFzdGljIFN1cmdlcnkgS29yZWE%3D",
             "view_text": "6.8K views"
           },
           {
-            "title": "From TikTok Star to K-Pop Idol Look | Vilmei's Before & After Reveal!",
+            "title": "Why Korea is the best place for Breast Augmentation (Full Guide)",
             "channel": "View Plastic Surgery Korea",
-            "url": "https://www.youtube.com/watch?v=maRTcEuOYj0&pp=ygUaVmlldyBQbGFzdGljIFN1cmdlcnkgS29yZWE%3D",
-            "view_text": "19K views"
+            "url": "https://www.youtube.com/watch?v=IBvPywyLK-A&pp=ygUaVmlldyBQbGFzdGljIFN1cmdlcnkgS29yZWE%3D",
+            "view_text": "4.6K views"
           },
           {
             "title": "●View Plastic Surgery● Look Beautiful, Feel Beautiful",
@@ -178,7 +178,7 @@
       }
     }
   },
-  "global_score": 29,
-  "opportunity_cost_thb": 78500,
-  "opportunity_cost_krw": 3140000
+  "global_score": 31,
+  "opportunity_cost_thb": 76500,
+  "opportunity_cost_krw": 3060000
 }

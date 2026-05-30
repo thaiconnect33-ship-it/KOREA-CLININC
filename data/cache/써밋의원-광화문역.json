@@ -1,0 +1,148 @@
+{
+  "query": "써밋의원 광화문역",
+  "generated_at": "2026-05-29T11:46:06.655Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 5969,
+      "extra": {
+        "place_id": "1551808137",
+        "name": "써밋의원 광화문역 : 네이버\u001c",
+        "visitor_review_count": 1448,
+        "blog_review_count": 4521,
+        "detail_url": "https://m.place.naver.com/place/1551808137/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "Summit clinic",
+        "rating": 5,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 13071927,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "광화문 써밋의원 엑소좀 스킨부스터  | Celexo X MORPHEUS8 글로벌 시술 영상",
+            "channel": "ABio materials",
+            "url": "https://www.youtube.com/watch?v=o2Nov4sR--0&pp=ygUf7I2o67CL7J2Y7JuQIOq0ke2ZlOusuOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "188 views"
+          },
+          {
+            "title": "'월세 60' 1.5평 방 내부 공개…젊은이들이 버티는 이유 (자막뉴스) / SBS",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=MLh3HMs66Ko&pp=ygUf7I2o67CL7J2Y7JuQIOq0ke2ZlOusuOyXrSBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "6.1M views"
+          },
+          {
+            "title": "프리미엄 웰더마 콜라겐 피팅 겔 마스크팩 영상",
+            "channel": "웰더마WellDerma",
+            "url": "https://www.youtube.com/watch?v=YehpxJEA814&pp=ygUf7I2o67CL7J2Y7JuQIOq0ke2ZlOusuOyXrSBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "236 views"
+          },
+          {
+            "title": "\"침실에서 당장 버려야\"...3가지 지목한 의사의 경고 [지금이뉴스] / YTN",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=rOydU8F_lio&pp=ygUf7I2o67CL7J2Y7JuQIOq0ke2ZlOusuOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "6.5M views"
+          },
+          {
+            "title": "혼자 살기좋다! 한남더힐 유일한 소형평형 28평 B타입",
+            "channel": "하이클래스부동산",
+            "url": "https://www.youtube.com/watch?v=cO2uWoZlTlI&pp=ygUf7I2o67CL7J2Y7JuQIOq0ke2ZlOusuOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "2.1K views"
+          },
+          {
+            "title": "용산 센트럴파크 해링턴스퀘어 펜트하우스 공개합니다~!! Luxurious Yongsan Penthouse~!!",
+            "channel": "넘버원리얼티 No1Realty",
+            "url": "https://www.youtube.com/watch?v=cLaAY1c-cD4&pp=ygUf7I2o67CL7J2Y7JuQIOq0ke2ZlOusuOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "215K views"
+          },
+          {
+            "title": "미디어파사드 현관로비 LED전광판을 이용한기업홍보",
+            "channel": "song구리당당",
+            "url": "https://www.youtube.com/watch?v=8f_0rB6rKvI&pp=ygUf7I2o67CL7J2Y7JuQIOq0ke2ZlOusuOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "114 views"
+          },
+          {
+            "title": "인천에서 출퇴근 하면 행복할까?",
+            "channel": "필뜽참새인천",
+            "url": "https://www.youtube.com/watch?v=NqMLZSgWblY&pp=ygUf7I2o67CL7J2Y7JuQIOq0ke2ZlOusuOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "198 views"
+          },
+          {
+            "title": "상도역 안에서 채소 수확 가능 실화?! #상도스마트팜 #메트로팜 | 시의원이떴다시장이좋다 ep.32",
+            "channel": "시의원이떴다. 시장이좋다!",
+            "url": "https://www.youtube.com/watch?v=Pc5VFZAx6ow&pp=ygUf7I2o67CL7J2Y7JuQIOq0ke2ZlOusuOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "304 views"
+          },
+          {
+            "title": "럭셔리 소형아파트 청담동 상륙!! 청담애비뉴나인티 첫입주 시작",
+            "channel": "가람리얼티",
+            "url": "https://www.youtube.com/watch?v=y6TPpQlq148&pp=ygUf7I2o67CL7J2Y7JuQIOq0ke2ZlOusuOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "1.8K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
+}

@@ -1,17 +1,17 @@
 {
   "query": "에톤성형외과의원",
-  "generated_at": "2026-05-29T00:21:50.792Z",
+  "generated_at": "2026-05-29T13:09:24.095Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 293,
+      "metric_value": 294,
       "extra": {
         "place_id": "1498919859",
         "name": "에톤성형외과의원 : 네이버\u001c",
         "visitor_review_count": 22,
-        "blog_review_count": 271,
+        "blog_review_count": 272,
         "detail_url": "https://m.place.naver.com/place/1498919859/home"
       }
     },
@@ -45,78 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 20,
+      "metric_value": 19,
       "extra": {
-        "total_views": 23419,
+        "total_views": 22814,
         "foreign_video_count": 0,
         "lang_breakdown": {
-          "korean": 20,
+          "korean": 19,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
           "english_other": 0
         },
-        "sample_size": 20,
+        "sample_size": 19,
         "top_videos": [
           {
             "title": "[#ETONNE] Double Eyelid Incision VS Non-Incision",
             "channel": "에톤TV",
-            "url": "https://www.youtube.com/watch?v=deoakgmRRtE&pp=ygUq7JeQ7Yak7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=deoakgmRRtE&pp=ygUe7JeQ7Yak7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "522 views"
-          },
-          {
-            "title": "[#에톤성형외과] 주름이 있어야 더 우아해지는 눈수술이 있다?!",
-            "channel": "에톤TV",
-            "url": "https://www.youtube.com/watch?v=wo5jHhywJ-w&pp=ygUq7JeQ7Yak7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "375 views"
-          },
-          {
-            "title": "[#ETONNE] Introducing ETONNE CEO Kim Hak-young!",
-            "channel": "에톤TV",
-            "url": "https://www.youtube.com/watch?v=Q7pq2H5X4yQ&pp=ygUq7JeQ7Yak7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
-            "view_text": "1K views"
-          },
-          {
-            "title": "[#에톤성형외과] 같은 성형외과의 원장들도 생각이 이렇게 다릅니다",
-            "channel": "에톤TV",
-            "url": "https://www.youtube.com/watch?v=-TIT780Q0Jw&pp=ygUq7JeQ7Yak7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.5K views"
-          },
-          {
-            "title": "[#ETONNE] Before surgery, be sure to think about ‘this’ before deciding!",
-            "channel": "에톤TV",
-            "url": "https://www.youtube.com/watch?v=s-ezl5CvCgg&pp=ygUq7JeQ7Yak7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "665 views"
-          },
-          {
-            "title": "[#에톤성형외과]마취! 이건 마치, 통증을 없애는 마법",
-            "channel": "에톤TV",
-            "url": "https://www.youtube.com/watch?v=N1eFg0wiKkc&pp=ygUq7JeQ7Yak7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "368 views"
-          },
-          {
-            "title": "If it were me, I wouldn't get plastic surgery when I was in that situation.",
-            "channel": "에톤TV",
-            "url": "https://www.youtube.com/watch?v=o3zwvqKASKI&pp=ygUq7JeQ7Yak7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "249 views"
-          },
-          {
-            "title": "신논현 🔥핫플 에톤성형외과 랜선투어",
-            "channel": "사슴TV",
-            "url": "https://www.youtube.com/watch?v=vymEH7004Us&pp=ygUq7JeQ7Yak7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "3K views"
-          },
-          {
-            "title": "My past story, honestly recorded to become a better doctor",
-            "channel": "에톤TV",
-            "url": "https://www.youtube.com/watch?v=A98KheTEq4I&pp=ygUq7JeQ7Yak7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "407 views"
           },
           {
             "title": "안면거상 수술 몇살에 하는게 갓성비일까",
             "channel": "에톤TV",
-            "url": "https://www.youtube.com/watch?v=c04uQYvtPWM&pp=ygUq7JeQ7Yak7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=c04uQYvtPWM&pp=ygUe7JeQ7Yak7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "197 views"
+          },
+          {
+            "title": "[#ETONNE] A question for plastic surgeons! What type of surgery are you best at??",
+            "channel": "에톤TV",
+            "url": "https://www.youtube.com/watch?v=btwH9d_aUgo&pp=ygUe7JeQ7Yak7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.6K views"
+          },
+          {
+            "title": "[#에톤성형외과] 같은 성형외과의 원장들도 생각이 이렇게 다릅니다",
+            "channel": "에톤TV",
+            "url": "https://www.youtube.com/watch?v=-TIT780Q0Jw&pp=ygUe7JeQ7Yak7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.5K views"
+          },
+          {
+            "title": "외국인들이 성형수술을 위해 한국을 찾는 진짜 이유",
+            "channel": "에톤TV",
+            "url": "https://www.youtube.com/watch?v=Ajrto33iP8A&pp=ygUe7JeQ7Yak7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "399 views"
+          },
+          {
+            "title": "의사로서 진짜 솔직하게 말해주는 젊어 보이는 방법 [안티에이징]",
+            "channel": "에톤TV",
+            "url": "https://www.youtube.com/watch?v=ENGg3fVR2z8&pp=ygUe7JeQ7Yak7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "342 views"
+          },
+          {
+            "title": "My past story, honestly recorded to become a better doctor",
+            "channel": "에톤TV",
+            "url": "https://www.youtube.com/watch?v=A98KheTEq4I&pp=ygUe7JeQ7Yak7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "407 views"
+          },
+          {
+            "title": "[#ETONNE] Introducing ETONNE CEO Kim Hak-young!",
+            "channel": "에톤TV",
+            "url": "https://www.youtube.com/watch?v=Q7pq2H5X4yQ&pp=ygUe7JeQ7Yak7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "1K views"
+          },
+          {
+            "title": "[#ETONNE] The ‘clear’ reason why you need ‘clear’ eyes",
+            "channel": "에톤TV",
+            "url": "https://www.youtube.com/watch?v=RvEymU8d68M&pp=ygUe7JeQ7Yak7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "414 views"
+          },
+          {
+            "title": "신논현 🔥핫플 에톤성형외과 랜선투어",
+            "channel": "사슴TV",
+            "url": "https://www.youtube.com/watch?v=vymEH7004Us&pp=ygUe7JeQ7Yak7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "3K views"
           }
         ]
       }
@@ -132,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

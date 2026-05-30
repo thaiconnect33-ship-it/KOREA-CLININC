@@ -1,0 +1,148 @@
+{
+  "query": "아도의원 강남",
+  "generated_at": "2026-05-29T10:35:36.099Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 373,
+      "extra": {
+        "place_id": "2086281559",
+        "name": "아도의원 강남 : 네이버\u001c",
+        "visitor_review_count": 281,
+        "blog_review_count": 92,
+        "detail_url": "https://m.place.naver.com/place/2086281559/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "아도의원 강남",
+        "rating": 5,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 342267,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "[출마합니다] 서초구의원 나선거구 반포본·2동, 방배본·1·4동 / 서초 HCN",
+            "channel": "kt HCN 핫콘뉴스",
+            "url": "https://www.youtube.com/watch?v=jyZ-zI94Mm0&pp=ygUZ7JWE64-E7J2Y7JuQIOqwleuCqCBLb3JlYQ%3D%3D",
+            "view_text": "1.3K views"
+          },
+          {
+            "title": "서울의 새 바람, 남다른 초선의원들의 도전 / YTN",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=23WSpIqtNL0&pp=ygUZ7JWE64-E7J2Y7JuQIOqwleuCqCBLb3JlYQ%3D%3D",
+            "view_text": "681 views"
+          },
+          {
+            "title": "고준호 도의원, 파주의 현안을 듣다... 도로민원 해결위해 나서 [3월3일 #신동아방송 #경인tv #박대영기자 ] #파주시 #도로민원 #광탄농협 #주민의견 #광신교 #인도확장",
+            "channel": "신동아방송 경인tv",
+            "url": "https://www.youtube.com/watch?v=y1owxZjRxy0&pp=ygUZ7JWE64-E7J2Y7JuQIOqwleuCqCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "99 views"
+          },
+          {
+            "title": "강남구, '증거인멸 동영상 존재' 주장 구의원 고소 / 연합뉴스TV (YonhapnewsTV)",
+            "channel": "연합뉴스TV",
+            "url": "https://www.youtube.com/watch?v=rOgJAHFxp8s&pp=ygUZ7JWE64-E7J2Y7JuQIOqwleuCqCBLb3JlYQ%3D%3D",
+            "view_text": "65 views"
+          },
+          {
+            "title": "'대선 2라운드' 결전의 날, 여야 의원이 짚어본 판세는? / YTN",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=TSRf9W2RkMw&pp=ygUZ7JWE64-E7J2Y7JuQIOqwleuCqCBLb3JlYQ%3D%3D",
+            "view_text": "5.2K views"
+          },
+          {
+            "title": "※오늘 근무지 조금 의왼데? 왠지 모르게 출세한것 같은 기분의 출근!😎😎 | 소주Go.8편_광주광역시의회 특집※",
+            "channel": "빛튜브☆광주광역시 공식 유튜브",
+            "url": "https://www.youtube.com/watch?v=doSuy3Mvkek&pp=ygUZ7JWE64-E7J2Y7JuQIOqwleuCqCBLb3JlYQ%3D%3D",
+            "view_text": "3.6K views"
+          },
+          {
+            "title": "How to Utilize Gwangju City Council Members! Tips on How to Make the Most of Council Members by a...",
+            "channel": "광주MBC뉴스",
+            "url": "https://www.youtube.com/watch?v=1FS8X9a0ahA&pp=ygUZ7JWE64-E7J2Y7JuQIOqwleuCqCBLb3JlYQ%3D%3D",
+            "view_text": "310 views"
+          },
+          {
+            "title": "NATV 국회방송 통통 입법토크 법률아 놀자 81회 재난안전법",
+            "channel": "NATV 국회방송",
+            "url": "https://www.youtube.com/watch?v=C17iLdKDnrQ&pp=ygUZ7JWE64-E7J2Y7JuQIOqwleuCqCBLb3JlYQ%3D%3D",
+            "view_text": "179 views"
+          },
+          {
+            "title": "[다시보기] 민주 “강요 못 해”…‘불체포특권 포기’ 서약 사실상 거부 | 2023년 6월 26일 뉴스A",
+            "channel": "채널A News",
+            "url": "https://www.youtube.com/watch?v=eaKs8F5OpJI&pp=ygUZ7JWE64-E7J2Y7JuQIOqwleuCqCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "74K views"
+          },
+          {
+            "title": "청년을위한정치학과 #3. 구의원(시의원)돼볼과 - OT강연. \"왜 청년정치인가?\" / 윤범기학과장",
+            "channel": "모두의 강의",
+            "url": "https://www.youtube.com/watch?v=9zDnq_Vkvzs&pp=ygUZ7JWE64-E7J2Y7JuQIOqwleuCqCBLb3JlYQ%3D%3D",
+            "view_text": "557 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 150000,
+  "opportunity_cost_krw": 6000000
+}

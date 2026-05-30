@@ -1,16 +1,18 @@
 {
   "query": "리프트업성형외과의원",
-  "generated_at": "2026-05-28T23:44:28.186Z",
+  "generated_at": "2026-05-29T12:30:21.728Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 227,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "38330326",
+        "name": "리프트업성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 128,
+        "blog_review_count": 99,
+        "detail_url": "https://m.place.naver.com/place/38330326/home"
       }
     },
     "google_maps": {
@@ -43,78 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 11,
+      "metric_value": 20,
       "extra": {
-        "total_views": 1568546,
-        "foreign_video_count": 1,
+        "total_views": 6691384,
+        "foreign_video_count": 0,
         "lang_breakdown": {
-          "korean": 10,
-          "thai": 1,
+          "korean": 20,
+          "thai": 0,
           "chinese": 0,
           "japanese": 0,
           "english_other": 0
         },
-        "sample_size": 11,
+        "sample_size": 20,
         "top_videos": [
+          {
+            "title": "MBC 나를 살리는 1교시 출연 (2024) [리프트업성형외과]",
+            "channel": "리프트업성형외과",
+            "url": "https://www.youtube.com/watch?v=vwf5rVJqMH4&pp=ygUk66as7ZSE7Yq47JeF7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "458 views"
+          },
           {
             "title": "SBS 생생경제정보톡톡 출연 (2020) [리프트업성형외과]",
             "channel": "리프트업성형외과",
-            "url": "https://www.youtube.com/watch?v=IMDgEHvFPx0&pp=ygU266as7ZSE7Yq47JeF7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=IMDgEHvFPx0&pp=ygUk66as7ZSE7Yq47JeF7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "128 views"
           },
           {
-            "title": "중안면거상술에 대한 팩트 체크✔ 【절개 범위, 병행하면 좋은 수술, 회복기간】에 대한 궁금증! 모두 해결하세요!",
-            "channel": "시너지성형외과",
-            "url": "https://www.youtube.com/watch?v=vcpKtye3JoM&pp=ygU266as7ZSE7Yq47JeF7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "21K views"
+            "title": "눈밑지방재배치 인터뷰 (2021) [리프트업성형외과]",
+            "channel": "리프트업성형외과",
+            "url": "https://www.youtube.com/watch?v=x33AIvAahzA&pp=ygUk66as7ZSE7Yq47JeF7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "176 views"
           },
           {
-            "title": "안면거상술 받으려고 태국에서 한국까지 날아온✈️ 60대 짠티마님의 리얼 후기 대공개👀 (การผ่าตัดลดริ้วรอยบนใบหน้า รีวิวศัลยกรรมตกแต่ง)",
-            "channel": "시너지성형외과",
-            "url": "https://www.youtube.com/watch?v=MPkwf3dKnZo&pp=ygU266as7ZSE7Yq47JeF7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "1.5K views"
+            "title": "뷰티앤부티 출연 (2019) [리프트업성형외과]",
+            "channel": "리프트업성형외과",
+            "url": "https://www.youtube.com/watch?v=QrXW1Miqtrk&pp=ygUk66as7ZSE7Yq47JeF7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "90 views"
           },
           {
-            "title": "4월 31일 성형외과 연극영화과 학생의 꿈 1편",
-            "channel": "4월31일성형외과 - April31 PS Clinic",
-            "url": "https://www.youtube.com/watch?v=c5blMp-RYk4&pp=ygU266as7ZSE7Yq47JeF7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.5K views"
+            "title": "\"강남 유명 성형외과서 수술 뒤 눈이 실명됐습니다\" [지금이뉴스] / YTN",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=UyMrX929Q4I&pp=ygUk66as7ZSE7Yq47JeF7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "576K views"
           },
           {
-            "title": "안면거상술 후 확실한 효과 :: 세월을 거스른 '동안성형'으로 자신감 되찾으세요! 【Feat. 시너지성형외과】",
-            "channel": "시너지성형외과",
-            "url": "https://www.youtube.com/watch?v=6COCfdHXa0U&pp=ygU266as7ZSE7Yq47JeF7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "758 views"
+            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUk66as7ZSE7Yq47JeF7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1M views"
           },
           {
-            "title": "“비싼 울쎄라, 써마지 받아도 얼굴 다시 처집니다” 요즘 연예인들이 받는 가성비 시술을 20년차 피부과 전문의가 알려드립니다.",
-            "channel": "피부는 성현철",
-            "url": "https://www.youtube.com/watch?v=P-ooK3XIcKM&pp=ygU266as7ZSE7Yq47JeF7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "344K views"
+            "title": "중안면거상과 안면거상은 달라요! 중안면거상 하기 전 꼭 보세요👨‍⚕️‼️",
+            "channel": "라봄튜브",
+            "url": "https://www.youtube.com/watch?v=1iavD-YyP8g&pp=ygUk66as7ZSE7Yq47JeF7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "35K views"
           },
           {
-            "title": "The fatal flaw of skin botox? Don't waste your money by not knowing this. Be sure to check it out!",
-            "channel": "동네 의사 이상욱",
-            "url": "https://www.youtube.com/watch?v=2hxmXOZ8EOE&pp=ygU266as7ZSE7Yq47JeF7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "402K views"
+            "title": "동아TV에 방영된 우정호 원장님의 JJ 리프팅",
+            "channel": "압구정미라클 TV",
+            "url": "https://www.youtube.com/watch?v=EcEVHWUCveM&pp=ygUk66as7ZSE7Yq47JeF7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "972 views"
           },
           {
-            "title": "윤곽주사와 아큐스컬프후 실리프팅!    #실리프팅 #주름 #목주름 #브이라인리프팅",
-            "channel": "미네르바TV",
-            "url": "https://www.youtube.com/watch?v=JRtAJhDjNAI&pp=ygU266as7ZSE7Yq47JeF7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "260 views"
+            "title": "\"이거 알면 병원 다 망해요...\" 15년 어려지는 기적의 성형 마사지! ㅣ성형외과 전문의가 알려주는 림프 순환 마사지 방법",
+            "channel": "주름잡는의사 이재운",
+            "url": "https://www.youtube.com/watch?v=xQrNWRMy2qQ&pp=ygUk66as7ZSE7Yq47JeF7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "2M views"
           },
           {
-            "title": "The alternative to Ulthemaji chosen by celebrities these days😎 Ask for 'this' instead of expensiv...",
-            "channel": "동네 의사 이상욱",
-            "url": "https://www.youtube.com/watch?v=TEef3hfFpx4&pp=ygU266as7ZSE7Yq47JeF7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "794K views"
-          },
-          {
-            "title": "신개념 리프팅 트루아이디~! (기존 트루스컬프 신버젼) [제이디클리닉]",
-            "channel": "도진우",
-            "url": "https://www.youtube.com/watch?v=_ABaT2CxIKI&pp=ygU266as7ZSE7Yq47JeF7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.9K views"
+            "title": "안면거상 보여드려요^^ 미니거상 효과없었던 이유? 안면거상vs미니거상 확실한 차이! 나에게 맞는 거상술찾기/Which mini lift surgery is right for me?",
+            "channel": "라인만드는 의사 DR.권병소",
+            "url": "https://www.youtube.com/watch?v=F5cgWzEgz8M&pp=ygUk66as7ZSE7Yq47JeF7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "57K views"
           }
         ]
       }
@@ -130,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 1,
-  "opportunity_cost_thb": 99500,
-  "opportunity_cost_krw": 3980000
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
 }

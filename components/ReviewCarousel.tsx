@@ -3,6 +3,7 @@ import Link from "next/link";
 import { promises as fs } from "node:fs";
 import path from "node:path";
 import { type Lang, fmtNum } from "@/lib/i18n";
+import { loadEnglishReviews } from "@/lib/db";
 
 type RawPost = {
   title?: string;
@@ -13,7 +14,8 @@ type RawPost = {
   topic?: string;
 };
 
-const FILES: { file: string; source: string; flag: string; bg: string }[] = [
+// Thai 모드 source list — Lemon8/Pantip 포함.
+const FILES_TH: { file: string; source: string; flag: string; bg: string }[] = [
   { file: "lemon8_market.json",      source: "Lemon8",      flag: "🍋", bg: "bg-yellow-50" },
   { file: "pantip_market.json",      source: "Pantip",      flag: "🇹🇭", bg: "bg-blue-50" },
   { file: "xiaohongshu_market.json", source: "Xiaohongshu", flag: "🇨🇳", bg: "bg-pink-50" },
@@ -24,6 +26,7 @@ const FILES: { file: string; source: string; flag: string; bg: string }[] = [
 type Card = { source: string; flag: string; bg: string; title: string; url: string; author: string; metric: number };
 
 async function loadReviews(limit = 16): Promise<Card[]> {
+  const FILES = FILES_TH;
   const out: Card[] = [];
   for (const f of FILES) {
     try {
@@ -46,7 +49,9 @@ async function loadReviews(limit = 16): Promise<Card[]> {
 }
 
 export async function ReviewCarousel({ lang }: { lang: Lang }) {
-  const cards = await loadReviews(20);
+  // 영어 모드: Reddit + Realself + clinic cache 의 영어 YouTube (Thai/한글 자동 제외).
+  // 태국어 모드: 전체 (Lemon8/Pantip 포함).
+  const cards: Card[] = lang === "en" ? await loadEnglishReviews(20) : await loadReviews(20);
   if (cards.length === 0) return null;
   return (
     <div className="relative -mx-4">

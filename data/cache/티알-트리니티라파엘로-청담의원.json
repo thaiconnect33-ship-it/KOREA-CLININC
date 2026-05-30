@@ -1,16 +1,18 @@
 {
   "query": "티알 트리니티라파엘로 청담의원",
-  "generated_at": "2026-05-28T22:17:58.017Z",
+  "generated_at": "2026-05-29T10:54:41.343Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 146,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "1095301251",
+        "name": "티알 트리니티라파엘로 청담의원 : 네이버\u001c",
+        "visitor_review_count": 26,
+        "blog_review_count": 120,
+        "detail_url": "https://m.place.naver.com/place/1095301251/home"
       }
     },
     "google_maps": {
@@ -34,9 +36,50 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 0,
+      "metric_value": 5,
       "extra": {
-        "note": "결과 없음"
+        "total_views": 50343,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 5,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 5,
+        "top_videos": [
+          {
+            "title": "TR 트리니티 라파엘로 김유인 원장님 인터뷰!!",
+            "channel": "TR 트리니티 라파엘로",
+            "url": "https://www.youtube.com/watch?v=buqvWYJQwFc&pp=ygUy7Yuw7JWMIO2KuOumrOuLiO2LsOudvO2MjOyXmOuhnCDssq3ri7TsnZjsm5AgS29yZWE%3D",
+            "view_text": "41K views"
+          },
+          {
+            "title": "성형외과 원장이 말하는 '진짜' 목주름 관리법",
+            "channel": "[성형외과&피부과] TR청담점 ∙ SR청주점",
+            "url": "https://www.youtube.com/watch?v=6HZqhfgJhIc&pp=ygUy7Yuw7JWMIO2KuOumrOuLiO2LsOudvO2MjOyXmOuhnCDssq3ri7TsnZjsm5AgS29yZWE%3D",
+            "view_text": "6K views"
+          },
+          {
+            "title": "가장 많이 사용하는 '이 부위'도 시술 가능한 거 알고 계셨나요?",
+            "channel": "[성형외과&피부과] TR청담점 ∙ SR청주점",
+            "url": "https://www.youtube.com/watch?v=KbvtrTm_HTA&pp=ygUy7Yuw7JWMIO2KuOumrOuLiO2LsOudvO2MjOyXmOuhnCDssq3ri7TsnZjsm5AgS29yZWE%3D",
+            "view_text": "301 views"
+          },
+          {
+            "title": "박언휘원장의 청담동TR병원 개원식",
+            "channel": "강창식",
+            "url": "https://www.youtube.com/watch?v=E_ifBXbLmBA&pp=ygUy7Yuw7JWMIO2KuOumrOuLiO2LsOudvO2MjOyXmOuhnCDssq3ri7TsnZjsm5AgS29yZWHSBwkJIwsBhyohjO8%3D",
+            "view_text": "42 views"
+          },
+          {
+            "title": "과연 40분만에 허리 둘레가 줄어들 수 있을까?",
+            "channel": "[성형외과&피부과] TR청담점 ∙ SR청주점",
+            "url": "https://www.youtube.com/watch?v=adMuOYUL_ZY&pp=ygUy7Yuw7JWMIO2KuOumrOuLiO2LsOudvO2MjOyXmOuhnCDssq3ri7TsnZjsm5AgS29yZWE%3D",
+            "view_text": "3K views"
+          }
+        ]
       }
     },
     "xiaohongshu": {
@@ -50,12 +93,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

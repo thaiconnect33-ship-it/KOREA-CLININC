@@ -1,16 +1,18 @@
 {
   "query": "아크성형외과의원",
-  "generated_at": "2026-05-29T00:06:07.447Z",
+  "generated_at": "2026-05-29T12:52:38.703Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 1036,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "1638918034",
+        "name": "아크성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 596,
+        "blog_review_count": 440,
+        "detail_url": "https://m.place.naver.com/place/1638918034/home"
       }
     },
     "google_maps": {
@@ -18,16 +20,16 @@
       "metric_label": "리뷰",
       "metric_value": 0,
       "extra": {
-        "name": "Results",
+        "name": "Arc Plastic Surgery Clinic",
         "rating": 4.9,
         "total_reviews": 0,
-        "sample_size": 9,
-        "foreign_language_reviews": 9,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 9
+          "english_other": 0
         }
       }
     },
@@ -45,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 596664,
+        "total_views": 81512,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -57,64 +59,64 @@
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "눈성형,코성형 수술기구 전격 공개! (성형외과 수술실에서 무슨일이 일어날까 3편)",
-            "channel": "닥터혜자",
-            "url": "https://www.youtube.com/watch?v=FIIqCKR4nKk&pp=ygUw7JWE7YGs7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "9.2K views"
+            "title": "안/면/윤/곽의 모든 것, 이 영상만 보시면 됩니다 [아크성형외과]",
+            "channel": "아크성형외과 - Arc is Art",
+            "url": "https://www.youtube.com/watch?v=YeFxB8iR77M&pp=ygUe7JWE7YGs7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "29K views"
+          },
+          {
+            "title": "옆광대 수술을 해야 하는 기준은 [아크성형외과]",
+            "channel": "아크성형외과 - Arc is Art",
+            "url": "https://www.youtube.com/watch?v=fCamfdnVDSY&pp=ygUe7JWE7YGs7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "4.6K views"
+          },
+          {
+            "title": "[아크성형외과] 안면윤곽 100% 효과 보는 방법 알려드립니다!",
+            "channel": "아크성형외과 - Arc is Art",
+            "url": "https://www.youtube.com/watch?v=BEwGhS8D2Yg&pp=ygUe7JWE7YGs7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "673 views"
           },
           {
             "title": "마녀턱에 대한 모든 것! 마녀턱 수술 Q&A",
             "channel": "아크성형외과 - Arc is Art",
-            "url": "https://www.youtube.com/watch?v=e36b5rLdhLI&pp=ygUw7JWE7YGs7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=e36b5rLdhLI&pp=ygUe7JWE7YGs7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "1.7K views"
           },
           {
-            "title": "처음이자 마지막 쌍수가 되기위한 방법 알려드립니다!",
-            "channel": "닥터혜자",
-            "url": "https://www.youtube.com/watch?v=x4zJzDlgD6k&pp=ygUw7JWE7YGs7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "131K views"
+            "title": "다른 자리, 같은 마음, 아크성형외과를 소개합니다 [아크성형외과]",
+            "channel": "아크성형외과 - Arc is Art",
+            "url": "https://www.youtube.com/watch?v=fE1Z4lYhJy8&pp=ygUe7JWE7YGs7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "3K views"
           },
           {
-            "title": "도망쳐..지금이야!! 성형외과 블랙리스트 이렇게 거르세요",
-            "channel": "지유미 JIYUMEE",
-            "url": "https://www.youtube.com/watch?v=VK1hIW0QP-g&pp=ygUw7JWE7YGs7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "126K views"
+            "title": "성형수술은 제~~발 이런 병원에서 하세요 🙏 [아크성형외과]",
+            "channel": "아크성형외과 - Arc is Art",
+            "url": "https://www.youtube.com/watch?v=PSInqc0eoYs&pp=ygUe7JWE7YGs7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.6K views"
           },
           {
-            "title": "주름 제거했는데 흉터는 어딨어?  (feat. 미니리프팅, 안면거상)",
-            "channel": "통찰의학 돈건통",
-            "url": "https://www.youtube.com/watch?v=aCe6wkwiZ8I&pp=ygUw7JWE7YGs7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.9K views"
+            "title": "아크성형외과의 윤태근 원장님을 소개합니다 👏",
+            "channel": "아크성형외과 - Arc is Art",
+            "url": "https://www.youtube.com/watch?v=QaTt140XNXQ&pp=ygUe7JWE7YGs7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "299 views"
           },
           {
-            "title": "눈밑지방재배치 그것이 알고싶다!",
-            "channel": "윌리엄컴퍼니",
-            "url": "https://www.youtube.com/watch?v=8LWGQN7bw5k&pp=ygUw7JWE7YGs7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "162 views"
-          },
-          {
-            "title": "닥터혜자 피셜 📢 중년 눈밑성형 수술 고객의 공통점!",
-            "channel": "닥터혜자",
-            "url": "https://www.youtube.com/watch?v=cIE726TNl5I&t=41s&pp=ygUw7JWE7YGs7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "5.6K views"
-          },
-          {
-            "title": "성형외과 상담갈때 알고가면 좋은것! 그리고 피해야 할 병원까지~",
-            "channel": "닥터혜자",
-            "url": "https://www.youtube.com/watch?v=sOtAVS95goQ&pp=ygUw7JWE7YGs7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "134K views"
-          },
-          {
-            "title": "국경넘는 성형 탈세",
-            "channel": "KBS News",
-            "url": "https://www.youtube.com/watch?v=tBYOk0fZshE&pp=ygUw7JWE7YGs7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "956 views"
-          },
-          {
-            "title": "재수술이 많은 코 성형? 재수술 없이 한번에 만족하는 방법 - 진짜 성형 이야기#04 코성형",
-            "channel": "굿라이프",
-            "url": "https://www.youtube.com/watch?v=5rKC9Y9Slz0&pp=ygUw7JWE7YGs7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "title": "성형수술에도 궁합이 있다? 함께하면 효과가 극대화! 궁합 좋은 성형수술 TOP3",
+            "channel": "아크성형외과 - Arc is Art",
+            "url": "https://www.youtube.com/watch?v=W9q83O-92Fw&pp=ygUe7JWE7YGs7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "23K views"
+          },
+          {
+            "title": "아직 늦지 않았다! 겨울 시즌 하기 좋은 수술 TOP3  [아크성형외과]",
+            "channel": "아크성형외과 - Arc is Art",
+            "url": "https://www.youtube.com/watch?v=LCj1kKWMTM8&pp=ygUe7JWE7YGs7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "508 views"
+          },
+          {
+            "title": "나도 성형수술하다가 못깨어나는거 아니야? (내가 수술 할 병원이니까 이것만은 꼼꼼히 체크하세요!)",
+            "channel": "닥터혜자",
+            "url": "https://www.youtube.com/watch?v=TG3iccvde-o&pp=ygUe7JWE7YGs7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "5.1K views"
           }
         ]
       }
@@ -130,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 5,
-  "opportunity_cost_thb": 95500,
-  "opportunity_cost_krw": 3820000
+  "global_score": 0,
+  "opportunity_cost_thb": 100000,
+  "opportunity_cost_krw": 4000000
 }

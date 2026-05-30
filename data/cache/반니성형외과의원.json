@@ -1,16 +1,18 @@
 {
   "query": "반니성형외과의원",
-  "generated_at": "2026-05-29T06:02:00.032Z",
+  "generated_at": "2026-05-29T10:28:34.054Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 2081,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "1934519680",
+        "name": "반니성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 1304,
+        "blog_review_count": 777,
+        "detail_url": "https://m.place.naver.com/place/1934519680/home"
       }
     },
     "google_maps": {
@@ -43,78 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 12,
+      "metric_value": 20,
       "extra": {
-        "total_views": 1691855,
-        "foreign_video_count": 0,
+        "total_views": 1031731,
+        "foreign_video_count": 1,
         "lang_breakdown": {
-          "korean": 12,
-          "thai": 0,
+          "korean": 19,
+          "thai": 1,
           "chinese": 0,
           "japanese": 0,
           "english_other": 0
         },
-        "sample_size": 12,
+        "sample_size": 20,
         "top_videos": [
           {
-            "title": "[반캐스트] EP.1 눈수술 | 이런 눈은 트임하면 X돼 진짜.. 트임 셀프 체크법 알려줄게 #성형외과 #눈성형 #쌍꺼풀 #트임 #눈밑지",
+            "title": "눈밑지방, 팔자주름 없애고 10년은 젊어졌어요! 하안검성형 리얼 후기",
             "channel": "반니성형외과 VANNY Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=TyGNCRzDYvk&pp=ygUw67CY64uI7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "60"
+            "url": "https://www.youtube.com/watch?v=1GgvtPd1fMw&pp=ygUe67CY64uI7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "285"
           },
           {
-            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
-            "channel": "JTBC News",
-            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUw67CY64uI7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
-            "view_text": "1M"
+            "title": "반니성형외과 반호경 대표원장",
+            "channel": "반니성형외과 VANNY Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=j-3Sgrdv4cM&pp=ygUe67CY64uI7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "12K"
           },
           {
-            "title": "\"강남 유명 성형외과서 수술 뒤 눈이 실명됐습니다\" [지금이뉴스] / YTN",
-            "channel": "YTN",
-            "url": "https://www.youtube.com/watch?v=UyMrX929Q4I&pp=ygUw67CY64uI7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "576K"
+            "title": "울퉁불퉁 눈밑지방과 다크서클 고민인데 수술은 싫다면? #필러 #눈밑지 #비수술치료",
+            "channel": "반니성형외과 VANNY Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=TrMUyGba11k&pp=ygUe67CY64uI7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "282"
           },
           {
-            "title": "A former plastic surgery nurse exposes the shocking reality of ghost surgery (shadow doctors) and...",
-            "channel": "쀼TV",
-            "url": "https://www.youtube.com/watch?v=Lqr-NnGotCU&t=51s&pp=ygUw67CY64uI7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "28K"
+            "title": "성형의 시장 분위기가 바뀐 이유.. | 쌍꺼풀 수술 비율이 줄어든 이유가 김고은 때문이라고?!😱 #성형외과 #쌍꺼풀수술 #무쌍 #쌍수",
+            "channel": "반니성형외과 VANNY Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=_PfT4dCEtwg&pp=ygUe67CY64uI7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "162"
           },
           {
-            "title": "[홍진주의 성형 Q&A] #5. 성형, 선택의 딜레마 '매몰 vs 절개' (제이제이성형외과 홍진주 원장)",
-            "channel": "의학채널 비온뒤",
-            "url": "https://www.youtube.com/watch?v=weJT94cyHbI&pp=ygUw67CY64uI7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "5.8K"
+            "title": "의사도 AI로 대체된다고? 내가 직접 판단해볼게 | 성형외과 의사의 AI 사진 구분하기 #성형외과 #AI #일론머스크",
+            "channel": "반니성형외과 VANNY Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=RFhz0KSNjQs&pp=ygUe67CY64uI7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "105"
           },
           {
-            "title": "눈성형,코성형 수술기구 전격 공개! (성형외과 수술실에서 무슨일이 일어날까 3편)",
-            "channel": "닥터혜자",
-            "url": "https://www.youtube.com/watch?v=FIIqCKR4nKk&pp=ygUw67CY64uI7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "9.2K"
+            "title": "악플 읽기 하다가 드러난 강남역 성형외과 원장의 실체 그만하라고 학씨!",
+            "channel": "반니성형외과 VANNY Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=2WG9_tP4Skg&pp=ygUe67CY64uI7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "301"
           },
           {
-            "title": "앞트임, 윗트임 수술 전 시청 필수! (수술 차이점, 흉터,부작용)",
-            "channel": "AMOND TV - 아몬드성형외과",
-            "url": "https://www.youtube.com/watch?v=HgZtts2hzqU&pp=ygUw67CY64uI7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
-            "view_text": "3.4K"
+            "title": "반니성형외과 원장이 말하는 슬기로운 의사생활 속 의사들의 연애! 과연 사실일까?",
+            "channel": "반니성형외과 VANNY Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=DQx58Wx5-iE&pp=ygUe67CY64uI7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "2.6K"
           },
           {
-            "title": "쌍꺼풀 수술 전에 필수 시청! 대표적인 부작용 사례ㅣ아몬드성형외과",
-            "channel": "AMOND TV - 아몬드성형외과",
-            "url": "https://www.youtube.com/watch?v=2m4NxLONO6Q&pp=ygUw67CY64uI7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
-            "view_text": "2.7K"
+            "title": "남자들에게 인기짱 성형외과 원장님 ๑(•‿•)๑",
+            "channel": "그루밍족 l 성형하는 남자들의 이야기",
+            "url": "https://www.youtube.com/watch?v=KhwHtpdujIY&pp=ygUe67CY64uI7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.5K"
           },
           {
-            "title": "[SODA] 소다성형외과 | 안면윤곽 수술시 예뻐지는/제한적인 유형",
-            "channel": "소다성형외과",
-            "url": "https://www.youtube.com/watch?v=TQ-dM_keBr0&pp=ygUw67CY64uI7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "53K"
+            "title": "반니 성형외과 병원 3D 시뮬레이션 | 실내 경관 조성 by 가든제작소",
+            "channel": "(주)에스티디앤씨",
+            "url": "https://www.youtube.com/watch?v=W1ELW0URyGw&pp=ygUe67CY64uI7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "25"
           },
           {
-            "title": "쌍커풀 수술 '자연유착' 이 궁금하다 ! (feat.친절상담)",
-            "channel": "드레스성형외과의원",
-            "url": "https://www.youtube.com/watch?v=I1Hqwbo1N8o&pp=ygUw67CY64uI7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "13K"
+            "title": "실리콘 없이 코 수술?! 정말 괜찮을까?",
+            "channel": "반니성형외과 VANNY Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=8EBfJ5Cow8s&pp=ygUe67CY64uI7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "788"
           }
         ]
       }
@@ -140,7 +142,7 @@
       }
     }
   },
-  "global_score": 10,
-  "opportunity_cost_thb": 90000,
-  "opportunity_cost_krw": 3600000
+  "global_score": 11,
+  "opportunity_cost_thb": 89500,
+  "opportunity_cost_krw": 3580000
 }

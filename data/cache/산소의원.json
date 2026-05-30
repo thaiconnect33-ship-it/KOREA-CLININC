@@ -1,16 +1,18 @@
 {
   "query": "산소의원",
-  "generated_at": "2026-05-28T23:41:15.133Z",
+  "generated_at": "2026-05-29T12:26:39.611Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 820,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "13105867",
+        "name": "산소의원 : 네이버\u001c",
+        "visitor_review_count": 339,
+        "blog_review_count": 481,
+        "detail_url": "https://m.place.naver.com/place/13105867/home"
       }
     },
     "google_maps": {
@@ -45,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 1275820,
+        "total_views": 125607,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -57,64 +59,64 @@
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "의학논문으로 살펴보는 고압산소치료, 효과 있다? 없다? I 리더스피부과 Leaders TV · 보고 듣는 의학정보",
-            "channel": "리더스피부과 Leaders TV · 보고 듣는 의학정보",
-            "url": "https://www.youtube.com/watch?v=fqsrMDG9ewY&pp=ygUh7IKw7IaM7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "11K views"
+            "title": "[Aesthetic] OxygenCeuticals' 컨트롤Z(CtrlZFacial) Treatment ASMR #산소테라피 #ASMR #SKINCARE",
+            "channel": "OxygenCeuticals Korea",
+            "url": "https://www.youtube.com/watch?v=l0HNeYsG6bU&pp=ygUS7IKw7IaM7J2Y7JuQIEtvcmVh",
+            "view_text": "52K views"
           },
           {
-            "title": "고압산소치료의 시술 시간, 횟수와 간격은 어떻게 되나요? I 리더스피부과 Leaders TV · 보고 듣는 의학정보",
-            "channel": "리더스피부과 Leaders TV · 보고 듣는 의학정보",
-            "url": "https://www.youtube.com/watch?v=7-_0fWFzTAU&pp=ygUh7IKw7IaM7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "13K views"
+            "title": "[옥시젠슈티컬스] 시술 후처치 전문 프로그램 \"순수산소테라피\"",
+            "channel": "OxygenCeuticals Korea",
+            "url": "https://www.youtube.com/watch?v=4yvlvnReKQc&pp=ygUS7IKw7IaM7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "756 views"
           },
           {
-            "title": "\"Dermatologists don't tell you...\" We recommend popular youth-enhancing procedures these days. We...",
-            "channel": "박지윤의 피부 설명서",
-            "url": "https://www.youtube.com/watch?v=EFB-McCJG48&pp=ygUh7IKw7IaM7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "444K views"
+            "title": "[OxygenCeuticals] 피부과 브이로그(리프팅관리,산소테라피)",
+            "channel": "OxygenCeuticals Korea",
+            "url": "https://www.youtube.com/watch?v=v_lWx0EnhC4&pp=ygUS7IKw7IaM7J2Y7JuQIEtvcmVh",
+            "view_text": "142 views"
           },
           {
-            "title": "[더안청담의원 X 넬클리닉] 아이벡스 고압산소치료 세미나 현장 스케치",
-            "channel": "바이은 By Eun",
-            "url": "https://www.youtube.com/watch?v=KTZdFDtwUwE&pp=ygUh7IKw7IaM7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "134 views"
+            "title": "잠수병 치료하던 고압산소치료 기계가 청담 피부클리닉에 있는 이유 (부작용, 효과, 원리 총정리)",
+            "channel": "BLS클리닉",
+            "url": "https://www.youtube.com/watch?v=sbiwaEcYydM&pp=ygUS7IKw7IaM7J2Y7JuQIEtvcmVh",
+            "view_text": "175 views"
           },
           {
-            "title": "\"You can look 10 years younger than your peers!\" 3 treatments even performed by a dermatologist.",
-            "channel": "박지윤의 피부 설명서",
-            "url": "https://www.youtube.com/watch?v=GN7n33Kw7BY&pp=ygUh7IKw7IaM7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "237K views"
+            "title": "산소필 시연영상(인하국제의료센터)",
+            "channel": "INHA IMC",
+            "url": "https://www.youtube.com/watch?v=pDZQ2pRqim8&pp=ygUS7IKw7IaM7J2Y7JuQIEtvcmVh",
+            "view_text": "488 views"
           },
           {
-            "title": "유포톤 사용 가이드(Guide video) #유포톤 #EUPHOTON EUPHOTON USER GUIDE",
-            "channel": "빛네트워크",
-            "url": "https://www.youtube.com/watch?v=1li5h0u1WrU&pp=ygUh7IKw7IaM7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "8.2K views"
+            "title": "[Aesthetic] 피부과에서 추천하는 NO.1 시술 후 관리 ASMR #ASMR #Skincare  #Satisfying",
+            "channel": "OxygenCeuticals Korea",
+            "url": "https://www.youtube.com/watch?v=_pcfS48irDw&pp=ygUS7IKw7IaM7J2Y7JuQIEtvcmVh",
+            "view_text": "18K views"
           },
           {
-            "title": "피부과에서 고압산소치료를? 그효과는?",
-            "channel": "바이은 By Eun",
-            "url": "https://www.youtube.com/watch?v=3IURjM_rJbs&pp=ygUh7IKw7IaM7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "322 views"
+            "title": "더끌림클리닉 산소테라피",
+            "channel": "성낙두",
+            "url": "https://www.youtube.com/watch?v=tdwDq7aXrmA&pp=ygUS7IKw7IaM7J2Y7JuQIEtvcmVh",
+            "view_text": "84 views"
           },
           {
-            "title": "삼성화이트피부과 #2. LED 심층분석 (멍/붓기완화, 혈액순환, 동통완화, 상처 후 새살 돋는데 많은  도움되는 힐라이트 심층분석) 피부? 강남 피부과언니에게 다 물어봐~~",
-            "channel": "닥터화이티 TV",
-            "url": "https://www.youtube.com/watch?v=DUZdkvSdTvU&pp=ygUh7IKw7IaM7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "1K views"
+            "title": "[옥시페이셜] OxygenCeuticals X 파인드 피부과의원",
+            "channel": "OxygenCeuticals Korea",
+            "url": "https://www.youtube.com/watch?v=h44q7KmzaM0&pp=ygUS7IKw7IaM7J2Y7JuQIEtvcmVh",
+            "view_text": "419 views"
           },
           {
-            "title": "“비싼 울쎄라, 써마지 받아도 얼굴 다시 처집니다” 요즘 연예인들이 받는 가성비 시술을 20년차 피부과 전문의가 알려드립니다.",
-            "channel": "피부는 성현철",
-            "url": "https://www.youtube.com/watch?v=P-ooK3XIcKM&pp=ygUh7IKw7IaM7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "344K views"
+            "title": "성형 회복부터 암 치료, 안티에이징까지! 고압산소치료의 놀라운 효능! (ft. 마인드성형외과 - 이강우 원장님)",
+            "channel": "마인드성형외과 MIND Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=o5qwlxLEEv0&pp=ygUS7IKw7IaM7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "534 views"
           },
           {
-            "title": "피부질환을 피부과에서 치료하여도 잘 낫지 않는 이유는?/ 나헌식한의원 (02 538 7770 ) 대표원장  한의학박사 나헌식",
-            "channel": "나헌식TV",
-            "url": "https://www.youtube.com/watch?v=fpuw0f0xNfA&pp=ygUh7IKw7IaM7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "5.5K views"
+            "title": "[옥시페이셜] Oxygenceuticals X dod dermatology #디오디피부과의원 #줄기세포 #산소테라피 #doddermatology #피부과전문의",
+            "channel": "OxygenCeuticals Korea",
+            "url": "https://www.youtube.com/watch?v=Z0G0-BTEnPI&pp=ygUS7IKw7IaM7J2Y7JuQIEtvcmVh",
+            "view_text": "513 views"
           }
         ]
       }
@@ -130,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

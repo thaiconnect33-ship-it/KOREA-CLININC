@@ -1,0 +1,148 @@
+{
+  "query": "톤즈의원 홍대입구역",
+  "generated_at": "2026-05-29T11:25:54.633Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 10804,
+      "extra": {
+        "place_id": "1798575337",
+        "name": "톤즈의원 홍대입구역 : 네이버\u001c",
+        "visitor_review_count": 2641,
+        "blog_review_count": 8163,
+        "detail_url": "https://m.place.naver.com/place/1798575337/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "TONES CLINIC弘大店ㅣ톤즈의원 홍대점ㅣ보톡스 울쎄라 피부과ㅣ美版超声刀 肉毒素 丽珠兰ㅣ ンデ ボトックス ポテンツァ ジェイフィールクリニックㅣHongdae botox Rejuranㅣ皮肤科",
+        "rating": 4.5,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 19,
+      "extra": {
+        "total_views": 553375,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 19,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 19,
+        "top_videos": [
+          {
+            "title": "입꼬리보톡스만으로 원장님이 화사해질 수 있을까요?",
+            "channel": "땡기는 의사 이용석",
+            "url": "https://www.youtube.com/watch?v=FYM6wpSKha0&pp=ygUi7Yak7KaI7J2Y7JuQIO2ZjeuMgOyeheq1rOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "78K views"
+          },
+          {
+            "title": "\"세대교체로 판 갈이\"…\"AI 혁신\" 한목소리 / SBS",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=SYGbHVcXkzc&pp=ygUi7Yak7KaI7J2Y7JuQIO2ZjeuMgOyeheq1rOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "5.6K views"
+          },
+          {
+            "title": "\"Don't waste your money at the dermatology clinic.\" A dermatologist with 21 years of experience w...",
+            "channel": "홍대 피부과 전문의 이홍선",
+            "url": "https://www.youtube.com/watch?v=Zd1t-vHOlec&pp=ygUi7Yak7KaI7J2Y7JuQIO2ZjeuMgOyeheq1rOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "10K views"
+          },
+          {
+            "title": "등드름, 슴드름, 여드름 없애는 1위 시술｜알라딘필링｜ 연예인 관리",
+            "channel": "땡기는 의사 이용석",
+            "url": "https://www.youtube.com/watch?v=RofaOq35Mwg&pp=ygUi7Yak7KaI7J2Y7JuQIO2ZjeuMgOyeheq1rOyXrSBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "23K views"
+          },
+          {
+            "title": "지방분해주사 효과 없습니다.",
+            "channel": "땡기는 의사 이용석",
+            "url": "https://www.youtube.com/watch?v=fDhREmFqhtw&pp=ygUi7Yak7KaI7J2Y7JuQIO2ZjeuMgOyeheq1rOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "155K views"
+          },
+          {
+            "title": "알고 보면 더 난리나는 고윤정 얼굴분석 종결판 │ 내 얼굴에서 귀티나는 2가지 방법",
+            "channel": "땡기는 의사 이용석",
+            "url": "https://www.youtube.com/watch?v=V2vvcR4dxdw&pp=ygUi7Yak7KaI7J2Y7JuQIO2ZjeuMgOyeheq1rOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "2.5K views"
+          },
+          {
+            "title": "당신만의 아름다움을 설계합니다 | 뷰티블라썸의원",
+            "channel": "블라썸1호 | K-Beauty No.1, Beauty Blossom",
+            "url": "https://www.youtube.com/watch?v=nyGxPL2LOhU&pp=ygUi7Yak7KaI7J2Y7JuQIO2ZjeuMgOyeheq1rOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "64 views"
+          },
+          {
+            "title": "Do \"This\" for a Face Lift to Make Sagging Skin and Double Chins Disappear | #FacialSagging #Lifti...",
+            "channel": "홍대 피부과 전문의 이홍선",
+            "url": "https://www.youtube.com/watch?v=5QA5vo4l0zs&pp=ygUi7Yak7KaI7J2Y7JuQIO2ZjeuMgOyeheq1rOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "480 views"
+          },
+          {
+            "title": "온다 리프팅, '이 2가지'를 모르면 하지 마세요｜의사들이 알려주지 않는 온다로 진짜 효과보는 방법",
+            "channel": "땡기는 의사 이용석",
+            "url": "https://www.youtube.com/watch?v=sMJPblGXzUc&pp=ygUi7Yak7KaI7J2Y7JuQIO2ZjeuMgOyeheq1rOyXrSBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "3.2K views"
+          },
+          {
+            "title": "제일 핫한 스킨부스터 고우리 시술 과정 대공개💉🔥",
+            "channel": "로바에 의원 LOVAE CLINIC",
+            "url": "https://www.youtube.com/watch?v=j6AUx9l1wFI&pp=ygUi7Yak7KaI7J2Y7JuQIO2ZjeuMgOyeheq1rOyXrSBLb3JlYQ%3D%3D",
+            "view_text": "631 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 110000,
+  "opportunity_cost_krw": 4400000
+}

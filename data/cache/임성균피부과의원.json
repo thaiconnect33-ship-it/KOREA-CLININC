@@ -1,6 +1,6 @@
 {
   "query": "임성균피부과의원",
-  "generated_at": "2026-05-28T23:30:56.220Z",
+  "generated_at": "2026-05-29T12:13:36.271Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -61,7 +61,7 @@
           {
             "title": "[잇슈#태그] “아토피도 못 봐요?” 분통…‘간판만 피부과’ 사라진다 / KBS 2026.05.11.",
             "channel": "KBS News",
-            "url": "https://www.youtube.com/watch?v=tBleLvn1KmY&pp=ygUn7J6E7ISx6reg7ZS867aA6rO87J2Y7JuQ7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=tBleLvn1KmY&pp=ygUe7J6E7ISx6reg7ZS867aA6rO87J2Y7JuQIEtvcmVh",
             "view_text": "18K views"
           }
         ]
@@ -78,12 +78,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

@@ -1,35 +1,35 @@
 {
   "query": "디에이성형외과의원",
-  "generated_at": "2026-05-29T00:02:44.065Z",
+  "generated_at": "2026-05-29T12:49:13.796Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 7547,
+      "metric_value": 7556,
       "extra": {
         "place_id": "33084820",
         "name": "디에이성형외과의원 : 네이버\u001c",
-        "visitor_review_count": 1969,
-        "blog_review_count": 5578,
+        "visitor_review_count": 1971,
+        "blog_review_count": 5585,
         "detail_url": "https://m.place.naver.com/place/33084820/home"
       }
     },
     "google_maps": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 945,
+      "metric_value": 943,
       "extra": {
-        "name": "Results",
+        "name": "DA Plastic Surgery",
         "rating": 4.7,
-        "total_reviews": 945,
-        "sample_size": 9,
-        "foreign_language_reviews": 9,
+        "total_reviews": 943,
+        "sample_size": 30,
+        "foreign_language_reviews": 30,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 9
+          "english_other": 30
         }
       }
     },
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 188238,
+        "total_views": 618200,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -59,64 +59,64 @@
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "요즘 대세 '자려한 코성형' 실패 없이 성공하는 법! 코끝 처짐 막는 3종 고정법과 체형별 맞춤 재료 총정리 (디에이성형외과)",
+            "title": "디에이성형외과 이상우 원장 \"안전을 말하다!\"",
             "channel": "디에이성형외과 D.A Plastic Surgery Korea",
-            "url": "https://www.youtube.com/watch?v=ugt5WmvQLzM&pp=ygUt65SU7JeQ7J207ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "17K views"
-          },
-          {
-            "title": "수험생 코성형 언제 해야 티 안 날까? 새내기 입학식 전 붓기 완벽하게 빼는 첫 코 수술 골든타임 가이드 (디에이성형외과)",
-            "channel": "디에이성형외과 D.A Plastic Surgery Korea",
-            "url": "https://www.youtube.com/watch?v=A3y5iBQj2_o&pp=ygUt65SU7JeQ7J207ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "5.2K views"
-          },
-          {
-            "title": "시술로 소용없는 팔자주름? 원인별(뼈 깊음/피부 처짐/볼살) 확실한 해결법! 미니거상 총정리 (디에이성형외과)",
-            "channel": "디에이성형외과 D.A Plastic Surgery Korea",
-            "url": "https://www.youtube.com/watch?v=lWEntmY23Cg&pp=ygUt65SU7JeQ7J207ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=pm__e4kcjJk&pp=ygUh65SU7JeQ7J207ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "10K views"
           },
           {
-            "title": "디에이성형외과 병원 둘러보기 DA plastic surgery tour",
+            "title": "내가 가슴수술한 유명 유튜버 가슴수술 후기를 직접 본다면? ㅣ가슴수술 후기의 후기 ㅣ 디에이성형외과",
             "channel": "디에이성형외과 D.A Plastic Surgery Korea",
-            "url": "https://www.youtube.com/watch?v=iBZpAaLk_wQ&pp=ygUt65SU7JeQ7J207ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "2.7K views"
+            "url": "https://www.youtube.com/watch?v=hnxk6uQi3xY&pp=ygUh65SU7JeQ7J207ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "22K views"
           },
           {
-            "title": "Looking for a place specializing in eye and nose surgery? A real 5-month review of escaping a stu...",
+            "title": "윤곽수술 후 붓기 빼는 원리! 의사가 직접 알려주는 성형붓기빼는법! 디에이성형외과의원",
             "channel": "디에이성형외과 D.A Plastic Surgery Korea",
-            "url": "https://www.youtube.com/watch?v=HUDiioiildA&pp=ygUt65SU7JeQ7J207ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "10K views"
+            "url": "https://www.youtube.com/watch?v=rKvpKiXZ4w8&pp=ygUh65SU7JeQ7J207ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "335K views"
           },
           {
-            "title": "나이 들수록 얼굴이 길어지고 땅콩형으로 변한다면? 광대 부각·사나운 눈매 없이 중안면부 축소하는 '수직 미니거상'의 효과 (디에이성형외과)",
+            "title": "마리오네트 주름, 왜 생기고 그래서 어떻게 없애는데?!ㅣ디에이성형외과ㅣ디에이성형외과의원",
             "channel": "디에이성형외과 D.A Plastic Surgery Korea",
-            "url": "https://www.youtube.com/watch?v=sEZ5e2iv0j4&pp=ygUt65SU7JeQ7J207ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "19K views"
+            "url": "https://www.youtube.com/watch?v=4nko-hCkb3M&pp=ygUh65SU7JeQ7J207ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "12K views"
           },
           {
-            "title": "디에이성형외과 눈밑지방제거",
+            "title": "가슴수술 후 진짜 당일 퇴원 가능할까? 피주머니·실밥 없는 '원데이 가슴성형' 회복 기간 및 직장인 출근 시기 총정리 (디에이성형외과)",
             "channel": "디에이성형외과 D.A Plastic Surgery Korea",
-            "url": "https://www.youtube.com/watch?v=C_4rFFCCj9k&pp=ygUt65SU7JeQ7J207ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.4K views"
+            "url": "https://www.youtube.com/watch?v=De_e1U-eFPQ&pp=ygUh65SU7JeQ7J207ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "12K views"
           },
           {
-            "title": "코성형 상담가기 전 최고의 선택! 코수술 용어 정리ㅣ디에이성형외과ㅣ디에이성형외과의원",
+            "title": "코재수술 평생 몇 번까지 가능할까? 염증 후 보형물 재삽입 시기와 2주 조기 교정 팩트체크 (디에이성형외과)",
             "channel": "디에이성형외과 D.A Plastic Surgery Korea",
-            "url": "https://www.youtube.com/watch?v=LZoHBgnlSkA&pp=ygUt65SU7JeQ7J207ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "13K views"
+            "url": "https://www.youtube.com/watch?v=3Y0pyblSyEY&pp=ygUh65SU7JeQ7J207ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "14K views"
           },
           {
-            "title": "인라인? 세미아웃? 나에게 맞는 쌍꺼풀 라인 종류 & 매몰·절개법 풀림과 흉터 걱정 없는 눈성형 가이드 (디에이성형외과)",
+            "title": "윤곽수술 상담 시 돌려보내는 환자의 유형! | 안면윤곽, 윤곽3종 수술 | 디에이성형외과",
             "channel": "디에이성형외과 D.A Plastic Surgery Korea",
-            "url": "https://www.youtube.com/watch?v=3qWDj6mSSjk&pp=ygUt65SU7JeQ7J207ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=dBD9UfEdeSI&pp=ygUh65SU7JeQ7J207ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "20K views"
+          },
+          {
+            "title": "코수술 부작용, 구축코 피하려면 무조건 보세요! 염증 원인부터 재료별(실리콘/기증늑/자가늑) 장단점 팩트체크 (디에이성형외과)",
+            "channel": "디에이성형외과 D.A Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=S_eX3dEbsdk&pp=ygUh65SU7JeQ7J207ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "11K views"
           },
           {
-            "title": "#가슴성형 #디에이성형외과 #braest",
+            "title": "옆볼패임 심한 울퉁불퉁 땅콩형 얼굴? 뼈 vs 연조직 원인 파악하고 미니거상으로 매끈하게 해결하는 법 (디에이성형외과)",
             "channel": "디에이성형외과 D.A Plastic Surgery Korea",
-            "url": "https://www.youtube.com/watch?v=Gg2ZT2BzrEo&pp=ygUt65SU7JeQ7J207ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "638 views"
+            "url": "https://www.youtube.com/watch?v=KDSU8H5A3dw&pp=ygUh65SU7JeQ7J207ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "12K views"
+          },
+          {
+            "title": "요즘 대세 '자려한 코성형' 실패 없이 성공하는 법! 코끝 처짐 막는 3종 고정법과 체형별 맞춤 재료 총정리 (디에이성형외과)",
+            "channel": "디에이성형외과 D.A Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=ugt5WmvQLzM&pp=ygUh65SU7JeQ7J207ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "17K views"
           }
         ]
       }
@@ -132,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 5,
-  "opportunity_cost_thb": 95500,
-  "opportunity_cost_krw": 3820000
+  "global_score": 15,
+  "opportunity_cost_thb": 85000,
+  "opportunity_cost_krw": 3400000
 }

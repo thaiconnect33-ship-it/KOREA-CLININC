@@ -1,6 +1,6 @@
 {
   "query": "글램성형외과의원",
-  "generated_at": "2026-05-29T00:08:14.891Z",
+  "generated_at": "2026-05-29T12:54:51.303Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -20,7 +20,7 @@
       "metric_label": "리뷰",
       "metric_value": 3,
       "extra": {
-        "name": "Results",
+        "name": "글램성형외과의원",
         "rating": 5,
         "total_reviews": 3,
         "sample_size": 6,
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 273600,
+        "total_views": 342200,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -61,62 +61,62 @@
           {
             "title": "[글램성형외과] 광대수술, 효과 없는 이유?",
             "channel": "글램성형외과 | Glam Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=EPfYTOHYxFU&pp=ygUq6riA656o7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=EPfYTOHYxFU&pp=ygUe6riA656o7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "33K views"
           },
           {
             "title": "[글램성형외과] 광대수술, 알고 하면 달라집니다 _ 이태성원장",
             "channel": "글램성형외과 | Glam Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=fnfvayaSi4c&pp=ygUq6riA656o7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=fnfvayaSi4c&pp=ygUe6riA656o7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "7.7K views"
+          },
+          {
+            "title": "[글램성형외과] 양악수술, 구강외과보다 성형외과 전문의에게 하는 게 더 좋은 이유",
+            "channel": "글램성형외과 | Glam Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=JSp3_OpbraI&pp=ygUe6riA656o7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "3.6K views"
+          },
+          {
+            "title": "[글램성형외과] 이태성 원장이 논문 쓰는 이유📝",
+            "channel": "글램성형외과 | Glam Plastic Surgery",
+            "url": "https://www.youtube.com/watch?v=VaOPmQohx5k&pp=ygUe6riA656o7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "3.4K views"
           },
           {
             "title": "[글램성형외과] 수술 시간이 길수록 잘하는 걸까?",
             "channel": "글램성형외과 | Glam Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=xOzTwVhPgQs&pp=ygUq6riA656o7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
-            "view_text": "79K views"
+            "url": "https://www.youtube.com/watch?v=xOzTwVhPgQs&pp=ygUe6riA656o7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "80K views"
           },
           {
-            "title": "[글램성형외과] 화면발의 완성은 얼굴형✨ 틱톡커 윤곽 3종 후기",
+            "title": "[글램성형외과] 남자 vs 여자, 양악 수술 방법이 다르다? _이태성원장",
             "channel": "글램성형외과 | Glam Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=fPjOvwzKXmk&pp=ygUq6riA656o7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "79K views"
+            "url": "https://www.youtube.com/watch?v=erOOLzJ9L74&pp=ygUe6riA656o7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1K views"
           },
           {
-            "title": "[글램성형외과] 연예인들이 예쁜 이유? 성형외과 의사가 말합니다",
+            "title": "[글램성형외과] 양악 vs 안면윤곽, 내 얼굴에 맞는 수술은?",
             "channel": "글램성형외과 | Glam Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=MQ8hQK5BtBk&pp=ygUq6riA656o7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "3.8K views"
-          },
-          {
-            "title": "[글램성형외과] 직원 성형 브이로그 | 양악수술 1개월차  💬",
-            "channel": "글램성형외과 | Glam Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=bo7Li8AUZTg&pp=ygUq6riA656o7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "5.5K views"
-          },
-          {
-            "title": "[글램성형외과] 양악, 윤곽 한 번에 해도 괜찮은 이유!",
-            "channel": "글램성형외과 | Glam Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=04ENoynmuBU&pp=ygUq6riA656o7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=mKRUS8zvbdY&pp=ygUe6riA656o7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
             "view_text": "10K views"
           },
           {
             "title": "[글램성형외과] 성형외과 의사, 얼굴만 봐도 견적 나올까?",
             "channel": "글램성형외과 | Glam Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=S_lqb1n9ekk&pp=ygUq6riA656o7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCSMLAYcqIYzv",
+            "url": "https://www.youtube.com/watch?v=S_lqb1n9ekk&pp=ygUe6riA656o7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "2.1K views"
           },
           {
-            "title": "[글램성형외과] 남자 vs 여자, 양악 수술 방법이 다르다? _이태성원장",
+            "title": "[글램성형외과] 양악·윤곽 실패? 재수술이 필요한 진짜 이유",
             "channel": "글램성형외과 | Glam Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=erOOLzJ9L74&pp=ygUq6riA656o7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1K views"
+            "url": "https://www.youtube.com/watch?v=zwOWM5ahdzM&pp=ygUe6riA656o7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "9K views"
           },
           {
-            "title": "[글램성형외과] 한눈에 보는 양악+윤곽 수술의 변화｜CT 전후 비교",
+            "title": "[글램성형외과]  안면윤곽 후 처짐 예방, 국제 논문 발표 (이태성원장)",
             "channel": "글램성형외과 | Glam Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=ajhQMTcsoRM&pp=ygUq6riA656o7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "2.8K views"
+            "url": "https://www.youtube.com/watch?v=MhdWBr7PtW8&pp=ygUe6riA656o7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "2.2K views"
           }
         ]
       }
@@ -132,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

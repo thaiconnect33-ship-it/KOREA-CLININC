@@ -1,16 +1,18 @@
 {
   "query": "민앤정의원",
-  "generated_at": "2026-05-28T23:39:35.090Z",
+  "generated_at": "2026-05-29T12:23:46.306Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 2682,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "1286224244",
+        "name": "민앤정의원 : 네이버\u001c",
+        "visitor_review_count": 696,
+        "blog_review_count": 1986,
+        "detail_url": "https://m.place.naver.com/place/1286224244/home"
       }
     },
     "google_maps": {
@@ -43,9 +45,80 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 0,
+      "metric_value": 13,
       "extra": {
-        "note": "결과 없음"
+        "total_views": 8338137,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 13,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 13,
+        "top_videos": [
+          {
+            "title": "일본유도 랭킹1위 레전드를 발라버린 한국 유도 에이스",
+            "channel": "TV유단잔가",
+            "url": "https://www.youtube.com/watch?v=vPh9txme3vg&pp=ygUV66-87JWk7KCV7J2Y7JuQIEtvcmVh",
+            "view_text": "1.3M views"
+          },
+          {
+            "title": "[맨인블박] 아직 끝나지 않았다 | No Doubt to Slow Down | ENG SUB",
+            "channel": "블랙박스브스",
+            "url": "https://www.youtube.com/watch?v=dwhfOnJ4BuU&pp=ygUV66-87JWk7KCV7J2Y7JuQIEtvcmVh",
+            "view_text": "142K views"
+          },
+          {
+            "title": "[실전유도] 최배달의 실전 싸움기술전수",
+            "channel": "최배달TV",
+            "url": "https://www.youtube.com/watch?v=HUWozKhehrQ&pp=ygUV66-87JWk7KCV7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "9K views"
+          },
+          {
+            "title": "완벽한 데드리프트 강의 [운동의 정석]",
+            "channel": "피지컬갤러리",
+            "url": "https://www.youtube.com/watch?v=EBjYQeeBI-0&pp=ygUV66-87JWk7KCV7J2Y7JuQIEtvcmVh",
+            "view_text": "3.7M views"
+          },
+          {
+            "title": "최민호가 시합때 틀어잡히지 않는이유 (feat.거제폭격기) 잡기싸움 강의",
+            "channel": "[민앤마이노]TV",
+            "url": "https://www.youtube.com/watch?v=sD-wUEGX7B8&pp=ygUV66-87JWk7KCV7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "26K views"
+          },
+          {
+            "title": "20 Questions About Shim Kwon-ho (Subscribers!)",
+            "channel": "매미킴",
+            "url": "https://www.youtube.com/watch?v=tS72N_C8Wfs&pp=ygUV66-87JWk7KCV7J2Y7JuQIEtvcmVh",
+            "view_text": "1.4M views"
+          },
+          {
+            "title": "민앤초이스 AI공부방_10기_1주차-1부. 노트북엘엠과 구글비즈로 비디오 슬라이드 뚝딱 만들기_260110",
+            "channel": "최규문TV",
+            "url": "https://www.youtube.com/watch?v=BRADyXTasLo&pp=ygUV66-87JWk7KCV7J2Y7JuQIEtvcmVh",
+            "view_text": "730 views"
+          },
+          {
+            "title": "유도 레전드 최민호가 알려주는 업어치기 원포인트 레슨!!_(민앤마이노 울산점 유도세미나)",
+            "channel": "거제폭격기",
+            "url": "https://www.youtube.com/watch?v=fsQptdbIvD0&pp=ygUV66-87JWk7KCV7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "107K views"
+          },
+          {
+            "title": "레전드 최민호가 말하는 악력이 불필요한 이유?_민앤마이노 하남본점(거폭&김민규)",
+            "channel": "거제폭격기",
+            "url": "https://www.youtube.com/watch?v=gts-HtA2fJI&pp=ygUV66-87JWk7KCV7J2Y7JuQIEtvcmVh",
+            "view_text": "1.4M views"
+          },
+          {
+            "title": "정운호 구명로비 의사 구속…현직 판사 금품로비 단서 포착",
+            "channel": "연합뉴스TV",
+            "url": "https://www.youtube.com/watch?v=Y2XRC06P3jQ&pp=ygUV66-87JWk7KCV7J2Y7JuQIEtvcmVh",
+            "view_text": "42 views"
+          }
+        ]
       }
     },
     "xiaohongshu": {
@@ -59,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

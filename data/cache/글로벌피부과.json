@@ -1,6 +1,6 @@
 {
   "query": "글로벌피부과",
-  "generated_at": "2026-05-29T05:59:06.426Z",
+  "generated_at": "2026-05-29T10:25:22.842Z",
   "cached": false,
   "platforms": {
     "naver": {
@@ -20,16 +20,16 @@
       "metric_label": "리뷰",
       "metric_value": 0,
       "extra": {
-        "name": "PPEUM Global Clinic Gangnam",
+        "name": "Results",
         "rating": 4.8,
         "total_reviews": 0,
-        "sample_size": 0,
-        "foreign_language_reviews": 0,
+        "sample_size": 6,
+        "foreign_language_reviews": 6,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 0
+          "english_other": 6
         }
       }
     },
@@ -47,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 3680042,
+        "total_views": 3625284,
         "foreign_video_count": 20,
         "lang_breakdown": {
           "korean": 0,
@@ -71,12 +71,6 @@
             "view_text": "259K views"
           },
           {
-            "title": "🔥Not sure which skin treatment to get?🔥First time visiting a skin clinic? This is for you!",
-            "channel": "PPEUM GLOBAL OFFICIAL",
-            "url": "https://www.youtube.com/watch?v=rpPHcV4PMQY&pp=ygUYR2xvYmFsIFNraW4gQ2xpbmljIEtvcmVh",
-            "view_text": "351 views"
-          },
-          {
             "title": "Korea’s Viral Stem Cell IV Glow-Up 💉✨ | Real Anti-Aging Transformation at Renovo Skin Clinic",
             "channel": "Renovo Skin Clinic",
             "url": "https://www.youtube.com/watch?v=sLd9ARiHBQI&pp=ygUYR2xvYmFsIFNraW4gQ2xpbmljIEtvcmVh",
@@ -85,7 +79,7 @@
           {
             "title": "*BEST* Korean skin treatments in 2025!! (ft. rejuran, pico, fat dissolving treatments, etc!)",
             "channel": "Jooshica",
-            "url": "https://www.youtube.com/watch?v=ISExL3UPZu0&pp=ygUYR2xvYmFsIFNraW4gQ2xpbmljIEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=ISExL3UPZu0&pp=ygUYR2xvYmFsIFNraW4gQ2xpbmljIEtvcmVh0gcJCSMLAYcqIYzv",
             "view_text": "48K views"
           },
           {
@@ -101,22 +95,28 @@
             "view_text": "7 views"
           },
           {
-            "title": "Get Glass Skin in Korea #skincare #glassskin #korea",
-            "channel": "Renovo Skin Clinic",
-            "url": "https://www.youtube.com/watch?v=11qBYYwoYSw&pp=ygUYR2xvYmFsIFNraW4gQ2xpbmljIEtvcmVh0gcJCSMLAYcqIYzv",
-            "view_text": "1.6K views"
-          },
-          {
             "title": "Your Gateway to K-Beauty Excellence | PPEUM Global Clinic",
             "channel": "PPEUM GLOBAL OFFICIAL",
             "url": "https://www.youtube.com/watch?v=xSLAe5uFgjk&pp=ygUYR2xvYmFsIFNraW4gQ2xpbmljIEtvcmVh",
             "view_text": "322 views"
           },
           {
-            "title": "Everyone Said My Skin Changed After This Trip… | Lamiche Korea Review",
-            "channel": "yours truly, Yuki",
-            "url": "https://www.youtube.com/watch?v=vOYWzNADU_k&pp=ygUYR2xvYmFsIFNraW4gQ2xpbmljIEtvcmVh",
-            "view_text": "1.5K views"
+            "title": "I Went to China's Biggest Beauty Expo: You Won't Believe What’s Next for Skincare!",
+            "channel": "Glopen",
+            "url": "https://www.youtube.com/watch?v=exUNCg86hLc&pp=ygUYR2xvYmFsIFNraW4gQ2xpbmljIEtvcmVh",
+            "view_text": "3 views"
+          },
+          {
+            "title": "✨ Skin Clinics in Korea for International Patients (2026 Guide) 🇰🇷💉",
+            "channel": "KOREA MED TOUR",
+            "url": "https://www.youtube.com/watch?v=HkQRMhbllSc&pp=ygUYR2xvYmFsIFNraW4gQ2xpbmljIEtvcmVh",
+            "view_text": "24 views"
+          },
+          {
+            "title": "Get Glass Skin in Korea #skincare #glassskin #korea",
+            "channel": "Renovo Skin Clinic",
+            "url": "https://www.youtube.com/watch?v=11qBYYwoYSw&pp=ygUYR2xvYmFsIFNraW4gQ2xpbmljIEtvcmVh",
+            "view_text": "1.6K views"
           }
         ]
       }
@@ -142,7 +142,7 @@
       }
     }
   },
-  "global_score": 16,
-  "opportunity_cost_thb": 90000,
-  "opportunity_cost_krw": 3600000
+  "global_score": 19,
+  "opportunity_cost_thb": 87000,
+  "opportunity_cost_krw": 3480000
 }

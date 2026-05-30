@@ -1,33 +1,35 @@
 {
   "query": "원진성형외과의원",
-  "generated_at": "2026-05-29T00:03:58.050Z",
+  "generated_at": "2026-05-29T12:50:27.597Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 2262,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "11887873",
+        "name": "원진성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 1474,
+        "blog_review_count": 788,
+        "detail_url": "https://m.place.naver.com/place/11887873/home"
       }
     },
     "google_maps": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 760,
+      "metric_value": 460,
       "extra": {
-        "name": "Sponsored",
-        "rating": 4.9,
-        "total_reviews": 760,
-        "sample_size": 20,
-        "foreign_language_reviews": 20,
+        "name": "Wonjin Plastic Surgery",
+        "rating": 4.6,
+        "total_reviews": 460,
+        "sample_size": 26,
+        "foreign_language_reviews": 26,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 20
+          "english_other": 26
         }
       }
     },
@@ -43,78 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 20,
+      "metric_value": 19,
       "extra": {
-        "total_views": 2215414,
+        "total_views": 382703,
         "foreign_video_count": 0,
         "lang_breakdown": {
-          "korean": 20,
+          "korean": 19,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
           "english_other": 0
         },
-        "sample_size": 20,
+        "sample_size": 19,
         "top_videos": [
+          {
+            "title": "녹지 않는 실로 리프팅 시술, 엘라텐스 | WJ원진성형외과 김영은 원장과의 인터뷰 | 엘라텐스와의 만남 ep.1 | Elatens™",
+            "channel": "민트리프트 MINT Lift",
+            "url": "https://www.youtube.com/watch?v=8TNYJ2YJgPM&pp=ygUe7JuQ7KeE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "331 views"
+          },
           {
             "title": "쌍수할 때 가장 중요한 것⭐ 쌍꺼풀, 눈매교정 Q&Aㅣ몇 살부터 가능? 인기있는 눈? 눈매교정 효과?",
             "channel": "WJ원진성형외과",
-            "url": "https://www.youtube.com/watch?v=-V3OscU0414&pp=ygUw7JuQ7KeE7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
+            "url": "https://www.youtube.com/watch?v=-V3OscU0414&pp=ygUe7JuQ7KeE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
             "view_text": "172K views"
-          },
-          {
-            "title": "[WJ원진성형외과] 가슴수술 후 주의사항 1편ㅣ수술당일 ~ 7일ㅣ손유리 원장👩‍⚕️",
-            "channel": "WJ원진성형외과",
-            "url": "https://www.youtube.com/watch?v=XvEt4EFv48I&pp=ygUw7JuQ7KeE7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "11K views"
-          },
-          {
-            "title": "[WJ원진성형외과] 눈성형 후 관리법 2편ㅣ실밥 제거 후ㅣ박장우 원장님👨‍⚕️",
-            "channel": "WJ원진성형외과",
-            "url": "https://www.youtube.com/watch?v=NGuI335_EHg&pp=ygUw7JuQ7KeE7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "42K views"
           },
           {
             "title": "쌍꺼풀 수술과 눈매교정 차이 쉽게❕❕ 알려드려요 1분 QnAㅣ박장우 원장",
             "channel": "WJ원진성형외과",
-            "url": "https://www.youtube.com/watch?v=Ae0zIgq5MJA&pp=ygUw7JuQ7KeE7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=Ae0zIgq5MJA&pp=ygUe7JuQ7KeE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "30K views"
           },
           {
-            "title": "A급 장영란 눈 성형 브이로그 리뷰💭 눈썹하거상은 어떤 수술일까?ㅣ박장우원장",
+            "title": "막말에 상처받아 결심한 눈+코+가슴 수술 후 변화ㅣ멘토부스트 A컵 ➡ D컵 💗",
             "channel": "WJ원진성형외과",
-            "url": "https://www.youtube.com/watch?v=MoiOvq_xqKk&pp=ygUw7JuQ7KeE7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "63K views"
+            "url": "https://www.youtube.com/watch?v=DQRn5s2pt3A&pp=ygUe7JuQ7KeE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "105 views"
           },
           {
-            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
-            "channel": "JTBC News",
-            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUw7JuQ7KeE7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1M views"
+            "title": "안면거상 이렇게는 하지 마세요ㅣ이혁재원장",
+            "channel": "WJ원진성형외과",
+            "url": "https://www.youtube.com/watch?v=lGPwdgP65ks&pp=ygUe7JuQ7KeE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.1K views"
+          },
+          {
+            "title": "One year after facial contouring surgery... Final face revealed.",
+            "channel": "WJ원진성형외과",
+            "url": "https://www.youtube.com/watch?v=rLbuIyvsx0g&pp=ygUe7JuQ7KeE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "746 views"
+          },
+          {
+            "title": "걱정 많고 고민 많은 30대 PD! 그럼에도 미니리프팅 꼭 해야할 이유는?!ㅣ리프팅 상담영상 2탄! ㅣ동안 얼굴 고민종결 영상🚨",
+            "channel": "WJ원진성형외과",
+            "url": "https://www.youtube.com/watch?v=xEtSmRxMTUM&pp=ygUe7JuQ7KeE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "337 views"
+          },
+          {
+            "title": "[2-Type Contouring + Nose + Fat Grafting] 6 Million Views💎 Real Story: Before ~ ​​3 Months After ...",
+            "channel": "WJ원진성형외과",
+            "url": "https://www.youtube.com/watch?v=IQyLmSc6fnc&pp=ygUe7JuQ7KeE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "4.4K views"
           },
           {
             "title": "후회 없는 가슴수술을 원한다면❓ 보형물 선택은 이렇게 하는 겁니다.. 가슴성형 전 필수 시청👨‍⚕️",
             "channel": "WJ원진성형외과",
-            "url": "https://www.youtube.com/watch?v=EH8dMA5IYLA&pp=ygUw7JuQ7KeE7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=EH8dMA5IYLA&pp=ygUe7JuQ7KeE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
             "view_text": "12K views"
           },
           {
-            "title": "[WJ원진성형외과] 가슴수술 후 주의사항 2편ㅣ수술 후 1주일 ~ 1달ㅣ손유리 원장👩‍⚕️",
+            "title": "나에게 효과적인 리프팅은❔ 미니거상vs실리프팅 선택 기준과 특징ㅣWJ원진성형외과",
             "channel": "WJ원진성형외과",
-            "url": "https://www.youtube.com/watch?v=7xX5qp4qL1g&pp=ygUw7JuQ7KeE7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "27K views"
-          },
-          {
-            "title": "매몰 쌍수 잘 풀리는 눈 특징ㅣ풀린 쌍꺼풀 재수술은 이렇게 하세요ㅣ박장우 원장",
-            "channel": "WJ원진성형외과",
-            "url": "https://www.youtube.com/watch?v=8cDdZBobemo&pp=ygUw7JuQ7KeE7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "30K views"
-          },
-          {
-            "title": "1편 성형외과 의사가 솔직하게 말하는 절대 하면 안되는 성형수술 총정리편😲",
-            "channel": "미오름 서원장_책임성형, 바른성형",
-            "url": "https://www.youtube.com/watch?v=4NYnn6eQanI&pp=ygUw7JuQ7KeE7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "790K views"
+            "url": "https://www.youtube.com/watch?v=p9k8-teuOOU&pp=ygUe7JuQ7KeE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "2.6K views"
           }
         ]
       }
@@ -130,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 10,
-  "opportunity_cost_thb": 90000,
-  "opportunity_cost_krw": 3600000
+  "global_score": 13,
+  "opportunity_cost_thb": 87000,
+  "opportunity_cost_krw": 3480000
 }

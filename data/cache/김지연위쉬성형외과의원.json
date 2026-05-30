@@ -1,16 +1,18 @@
 {
   "query": "김지연위쉬성형외과의원",
-  "generated_at": "2026-05-29T05:37:57.220Z",
+  "generated_at": "2026-05-29T10:47:17.990Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 1329,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "11537368",
+        "name": "김지연위쉬성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 532,
+        "blog_review_count": 797,
+        "detail_url": "https://m.place.naver.com/place/11537368/home"
       }
     },
     "google_maps": {
@@ -36,7 +38,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 1212583,
+        "total_views": 1212433,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -48,63 +50,63 @@
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "모델 다인이의 가슴수술 한달차 인터뷰🥳",
-            "channel": "김지연위쉬성형외과",
-            "url": "https://www.youtube.com/watch?v=72QQM9c5OWg&pp=ygUz6rmA7KeA7Jew7JyE7Ims7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1.3K views"
-          },
-          {
             "title": "위쉬성형외과 김지연원장님 인터뷰_모발이식",
             "channel": "jiyeon352",
-            "url": "https://www.youtube.com/watch?v=7Wld2Ov1zfc&pp=ygUz6rmA7KeA7Jew7JyE7Ims7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=7Wld2Ov1zfc&pp=ygUn6rmA7KeA7Jew7JyE7Ims7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "400 views"
+          },
+          {
+            "title": "모델 다인이의 가슴수술 한달차 인터뷰🥳",
+            "channel": "김지연위쉬성형외과",
+            "url": "https://www.youtube.com/watch?v=72QQM9c5OWg&pp=ygUn6rmA7KeA7Jew7JyE7Ims7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.3K views"
           },
           {
             "title": "병원소개",
             "channel": "김지연위쉬성형외과",
-            "url": "https://www.youtube.com/watch?v=v8jUxknlwD0&pp=ygUz6rmA7KeA7Jew7JyE7Ims7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=v8jUxknlwD0&pp=ygUn6rmA7KeA7Jew7JyE7Ims7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "584 views"
           },
           {
             "title": "[가슴보형물]가슴수술 현명하게 받는 방법?",
             "channel": "김지연위쉬성형외과",
-            "url": "https://www.youtube.com/watch?v=cvfMsbIkVcs&pp=ygUz6rmA7KeA7Jew7JyE7Ims7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=cvfMsbIkVcs&pp=ygUn6rmA7KeA7Jew7JyE7Ims7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
             "view_text": "7.8K views"
-          },
-          {
-            "title": "가슴수술을 한 사람이 90% 후회하는 이유 | 고민중이시라면 꼭 보세요 | 부작용,종류,가격,흉터 | 빠꾸없는 가슴수술 솔직후기💬",
-            "channel": "금쪽부부 GOLDBUBU",
-            "url": "https://www.youtube.com/watch?v=kZD5xmsC5Qw&pp=ygUz6rmA7KeA7Jew7JyE7Ims7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "440K views"
           },
           {
             "title": "아이앤코성형외과 유튜브 영상 제작",
             "channel": "엠피알",
-            "url": "https://www.youtube.com/watch?v=2yUrCpJe4M0&pp=ygUz6rmA7KeA7Jew7JyE7Ims7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=2yUrCpJe4M0&pp=ygUn6rmA7KeA7Jew7JyE7Ims7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "97 views"
+          },
+          {
+            "title": "가슴수술을 한 사람이 90% 후회하는 이유 | 고민중이시라면 꼭 보세요 | 부작용,종류,가격,흉터 | 빠꾸없는 가슴수술 솔직후기💬",
+            "channel": "금쪽부부 GOLDBUBU",
+            "url": "https://www.youtube.com/watch?v=kZD5xmsC5Qw&pp=ygUn6rmA7KeA7Jew7JyE7Ims7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "440K views"
           },
           {
             "title": "[2012건강기획인터뷰]눈,코성형,지방이식,가슴성형,피부치료",
             "channel": "Adultoby Music",
-            "url": "https://www.youtube.com/watch?v=oCvAXFPOl5Q&pp=ygUz6rmA7KeA7Jew7JyE7Ims7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=oCvAXFPOl5Q&pp=ygUn6rmA7KeA7Jew7JyE7Ims7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "1.2K views"
+          },
+          {
+            "title": "5th year of breast surgery comment",
+            "channel": "지유미 JIYUMEE",
+            "url": "https://www.youtube.com/watch?v=lVtAKB-tHe0&pp=ygUn6rmA7KeA7Jew7JyE7Ims7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "476K views"
           },
           {
             "title": "가슴성형 하면 왜 글램일까요?",
             "channel": "글램외과",
-            "url": "https://www.youtube.com/watch?v=QOkr38iI2Vs&pp=ygUz6rmA7KeA7Jew7JyE7Ims7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=QOkr38iI2Vs&pp=ygUn6rmA7KeA7Jew7JyE7Ims7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "598 views"
-          },
-          {
-            "title": "밥그릇가슴, 구형구축, 가슴시린 이야기 굿바이 굿바이~👋🏻 가슴수술 재수⁉️ 삼수는 없다 🙅🏻‍♀️",
-            "channel": "오늘의 상담실 [오상실]",
-            "url": "https://www.youtube.com/watch?v=sFKtbfWoe7o&pp=ygUz6rmA7KeA7Jew7JyE7Ims7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "2.1K views"
           },
           {
             "title": "「더성형외과 옥재진원장 가슴 보형물 모티바」아시아 대표 KOLs「Key Opinion Leader」로 세계 70개국 모티바 대표 KOL 초청 학회 참석",
             "channel": "Ock Jae Jin 옥재진 원장 THE Plastic Surgery",
-            "url": "https://www.youtube.com/watch?v=ibhJc_HRxYo&pp=ygUz6rmA7KeA7Jew7JyE7Ims7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=ibhJc_HRxYo&pp=ygUn6rmA7KeA7Jew7JyE7Ims7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "291 views"
           }
         ]

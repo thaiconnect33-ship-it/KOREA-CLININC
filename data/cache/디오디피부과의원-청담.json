@@ -1,0 +1,148 @@
+{
+  "query": "디오디피부과의원 청담",
+  "generated_at": "2026-05-29T11:03:16.454Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 724,
+      "extra": {
+        "place_id": "1685785453",
+        "name": "디오디피부과의원 청담 : 네이버\u001c",
+        "visitor_review_count": 349,
+        "blog_review_count": 375,
+        "detail_url": "https://m.place.naver.com/place/1685785453/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "디오디피부과의원 청담",
+        "rating": 4.8,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 19,
+      "extra": {
+        "total_views": 167134,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 19,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 19,
+        "top_videos": [
+          {
+            "title": "요즘 핫한 청담 VIP 인기 시술!",
+            "channel": "닥터 디오디의 공감되는 피부이야기",
+            "url": "https://www.youtube.com/watch?v=VDmog3wBF5c&pp=ygUl65SU7Jik65SU7ZS867aA6rO87J2Y7JuQIOyyreuLtCBLb3JlYQ%3D%3D",
+            "view_text": "4.9K views"
+          },
+          {
+            "title": "전신 붓기 싹 빠지는 최첨단 괄사 기기 ‘파셀라’｜ 디오디피부과의원 청담본점",
+            "channel": "DSmedi, Inc.",
+            "url": "https://www.youtube.com/watch?v=jpX-ktaX8hc&pp=ygUl65SU7Jik65SU7ZS867aA6rO87J2Y7JuQIOyyreuLtCBLb3JlYQ%3D%3D",
+            "view_text": "57 views"
+          },
+          {
+            "title": "디오디 청담점에 어서오세요! 시설 개.봉.박.두.🎉",
+            "channel": "닥터 디오디의 공감되는 피부이야기",
+            "url": "https://www.youtube.com/watch?v=4ulASK66dx0&pp=ygUl65SU7Jik65SU7ZS867aA6rO87J2Y7JuQIOyyreuLtCBLb3JlYQ%3D%3D",
+            "view_text": "941 views"
+          },
+          {
+            "title": "중안부가 짧아진다구요? 유일한 근육층 타깃 리프팅, 엠페이스!",
+            "channel": "닥터 디오디의 공감되는 피부이야기",
+            "url": "https://www.youtube.com/watch?v=ovfKJURT2pM&pp=ygUl65SU7Jik65SU7ZS867aA6rO87J2Y7JuQIOyyreuLtCBLb3JlYdIHCQkjCwGHKiGM7w%3D%3D",
+            "view_text": "1K views"
+          },
+          {
+            "title": "줄기세포 시술은 무.조.건. 승인 받은 시설에서 받아야 합니다!",
+            "channel": "닥터 디오디의 공감되는 피부이야기",
+            "url": "https://www.youtube.com/watch?v=g0rdtZ7xLkA&pp=ygUl65SU7Jik65SU7ZS867aA6rO87J2Y7JuQIOyyreuLtCBLb3JlYQ%3D%3D",
+            "view_text": "1K views"
+          },
+          {
+            "title": "필터 없이도 예쁜 얼굴, 피부과 전문의는 이렇게 만듭니다!",
+            "channel": "닥터 디오디의 공감되는 피부이야기",
+            "url": "https://www.youtube.com/watch?v=WdARHb1YoMs&pp=ygUl65SU7Jik65SU7ZS867aA6rO87J2Y7JuQIOyyreuLtCBLb3JlYQ%3D%3D",
+            "view_text": "2.2K views"
+          },
+          {
+            "title": "#디오디피부과의원 청담 소개",
+            "channel": "닥터 디오디의 공감되는 피부이야기",
+            "url": "https://www.youtube.com/watch?v=kakg5wBMnyo&pp=ygUl65SU7Jik65SU7ZS867aA6rO87J2Y7JuQIOyyreuLtCBLb3JlYQ%3D%3D",
+            "view_text": "1.3K views"
+          },
+          {
+            "title": "🎉디오디피부과에 고압산소 치료 기기가 들어왔습니다(NEW)🎉",
+            "channel": "닥터 디오디의 공감되는 피부이야기",
+            "url": "https://www.youtube.com/watch?v=wFD37nwql3Y&pp=ygUl65SU7Jik65SU7ZS867aA6rO87J2Y7JuQIOyyreuLtCBLb3JlYQ%3D%3D",
+            "view_text": "236 views"
+          },
+          {
+            "title": "보톡스 맞고 표정 어색해졌다면? 스킨보톡스와의 차이 모르면 돈 날립니다",
+            "channel": "닥터 디오디의 공감되는 피부이야기",
+            "url": "https://www.youtube.com/watch?v=tCpatYkzap4&pp=ygUl65SU7Jik65SU7ZS867aA6rO87J2Y7JuQIOyyreuLtCBLb3JlYQ%3D%3D",
+            "view_text": "128 views"
+          },
+          {
+            "title": "드디어 디오디피부과에도 튠페이스가 도입됐습니다!",
+            "channel": "닥터 디오디의 공감되는 피부이야기",
+            "url": "https://www.youtube.com/watch?v=Qx_gG51dM6c&pp=ygUl65SU7Jik65SU7ZS867aA6rO87J2Y7JuQIOyyreuLtCBLb3JlYQ%3D%3D",
+            "view_text": "9.6K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 140000,
+  "opportunity_cost_krw": 5600000
+}

@@ -1,16 +1,18 @@
 {
   "query": "래인의원",
-  "generated_at": "2026-05-28T23:40:11.106Z",
+  "generated_at": "2026-05-29T12:25:01.525Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 1993,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "1044139006",
+        "name": "래인의원 : 네이버\u001c",
+        "visitor_review_count": 442,
+        "blog_review_count": 1551,
+        "detail_url": "https://m.place.naver.com/place/1044139006/home"
       }
     },
     "google_maps": {
@@ -43,78 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 13,
+      "metric_value": 20,
       "extra": {
-        "total_views": 3206275,
-        "foreign_video_count": 0,
+        "total_views": 263929,
+        "foreign_video_count": 1,
         "lang_breakdown": {
-          "korean": 13,
+          "korean": 19,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
-          "english_other": 0
+          "english_other": 1
         },
-        "sample_size": 13,
+        "sample_size": 20,
         "top_videos": [
           {
-            "title": "광고100_ BLS클리닉 (피부관리편) 15s",
-            "channel": "광고백",
-            "url": "https://www.youtube.com/watch?v=oQzijRfExu8&pp=ygUh656Y7J247J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "368 views"
+            "title": "민주당 의원들, 이화영 면회신청…\"옥중편지 확인 차원\"",
+            "channel": "뉴스TVCHOSUN",
+            "url": "https://www.youtube.com/watch?v=kr0siUFOTTw&pp=ygUS656Y7J247J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "58K views"
           },
           {
-            "title": "미 병원 진료실서 환자가 의사 총격 살해 / SBS / #D리포트",
-            "channel": "SBS 뉴스",
-            "url": "https://www.youtube.com/watch?v=_usA0sZYlTw&pp=ygUh656Y7J247J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "4.6K views"
-          },
-          {
-            "title": "Nursing Assistant Internship Completed | Q&A | Oriental Medicine Hospital Ward Intern | Tips",
-            "channel": "짱하로그",
-            "url": "https://www.youtube.com/watch?v=3C1QXF3xmu4&pp=ygUh656Y7J247J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "151K views"
-          },
-          {
-            "title": "치실 쓰고 망하는 경우 (30만원 날림)",
-            "channel": "chang yong kang",
-            "url": "https://www.youtube.com/watch?v=6fbkWA5Wdds&pp=ygUh656Y7J247J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "1.5M views"
-          },
-          {
-            "title": "가을철 불청객 '피부건조증' 주의하세요 / YTN",
+            "title": "민주당, 다주택 의원 전수조사 \"1주택 약속, 이른 시간 내 실천해야\" / YTN",
             "channel": "YTN",
-            "url": "https://www.youtube.com/watch?v=HV_5VrCZmnk&pp=ygUh656Y7J247J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "402 views"
-          },
-          {
-            "title": "여자보다 고운 ‘남성 피부 관리법’  @SBS 생활경제 2197회 20151015",
-            "channel": "SBS STORY",
-            "url": "https://www.youtube.com/watch?v=NqcJ9_7JWaA&pp=ygUh656Y7J247J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "187 views"
-          },
-          {
-            "title": "물놀이 후 걸릴 수 있는 피부 질환 예방하기! [피부위키]",
-            "channel": "피부위키",
-            "url": "https://www.youtube.com/watch?v=YZKq7HkwHXA&pp=ygUh656Y7J247J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=ClspdE0KIRs&pp=ygUS656Y7J247J2Y7JuQIEtvcmVh",
             "view_text": "1.5K views"
           },
           {
-            "title": "🦠습하고 더운 장마철 피부도 비상! 여름철 대표 피부질환 타파하기 ❗️",
-            "channel": "의사 혜연",
-            "url": "https://www.youtube.com/watch?v=OlfgMrKKApk&pp=ygUh656Y7J247J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "2K views"
+            "title": "위안부 할머니들의 '수호 천사'  故 레인 에번스 추모집 나와",
+            "channel": "조선일보",
+            "url": "https://www.youtube.com/watch?v=VSdWJp1t1GE&pp=ygUS656Y7J247J2Y7JuQIEtvcmVh",
+            "view_text": "635 views"
           },
           {
-            "title": "피지낭종, 표피낭종! 수술해야되나요? 실비는요?【건대성모외과피부과】",
-            "channel": "하이닥터장 Hi Dr. CHANG",
-            "url": "https://www.youtube.com/watch?v=0WoIv7QWD6Q&pp=ygUh656Y7J247J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "5.3K views"
+            "title": "\"그대의 목소리가 되어\" 출판기념 (고 레인 에반스 의원을 기리며...)",
+            "channel": "PRODIGITALMEDIA",
+            "url": "https://www.youtube.com/watch?v=NX16Foa_C7s&pp=ygUS656Y7J247J2Y7JuQIEtvcmVh",
+            "view_text": "405 views"
           },
           {
-            "title": "피부 잡티 박멸 브이로그 | 주근깨기미 고민이신 분들 컴온 | 루비레이저 후기🤓",
-            "channel": "선정스런하루",
-            "url": "https://www.youtube.com/watch?v=ETQeflo7dFk&pp=ygUh656Y7J247J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "124K views"
+            "title": "[아이리움안과] 노안 렌즈삽입술 '레인드롭' 남미의료진 견학  |  EYEREUM Ophthalmic Clinic of Raindrop",
+            "channel": "아이리움안과 [EYEREUM EYE CLINIC]",
+            "url": "https://www.youtube.com/watch?v=kjEvOXdeq1w&pp=ygUS656Y7J247J2Y7JuQIEtvcmVh",
+            "view_text": "435 views"
+          },
+          {
+            "title": "\"99% of crude oil comes through that strait\": If Taiwan falls, Japan has '3 months left' (ft. Pro...",
+            "channel": "SBS 뉴스",
+            "url": "https://www.youtube.com/watch?v=BIf6G6tAvGg&pp=ygUS656Y7J247J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "3K views"
+          },
+          {
+            "title": "[비하인드 뉴스] 의원들만으론 부족했나…총력 '대리' 투쟁",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=LRYkCwC429U&pp=ygUS656Y7J247J2Y7JuQIEtvcmVh",
+            "view_text": "16K views"
+          },
+          {
+            "title": "\"정상회담 : 스틸레인3\" 온라인 기자간담회 풀버전 | 카카오페이지 X 다음웹툰 슈퍼웹툰 프로젝트",
+            "channel": "kakaopage 카카오페이지",
+            "url": "https://www.youtube.com/watch?v=r68uTwH6es0&pp=ygUS656Y7J247J2Y7JuQIEtvcmVh",
+            "view_text": "1.5K views"
+          },
+          {
+            "title": "🔹김태희의 차톡🔹 국민의힘 오신환전의원 이야기EP2",
+            "channel": "🔹김태희의 차톡🔹",
+            "url": "https://www.youtube.com/watch?v=pTYQ4adcEa4&pp=ygUS656Y7J247J2Y7JuQIEtvcmVh",
+            "view_text": "1.2K views"
+          },
+          {
+            "title": "The special committee on Choi Soon-sil's investigation concludes its on-site investigation of Rep...",
+            "channel": "YTN",
+            "url": "https://www.youtube.com/watch?v=0F_Ou-JVV_E&pp=ygUS656Y7J247J2Y7JuQIEtvcmVh",
+            "view_text": "147K views"
           }
         ]
       }
@@ -130,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 0,
-  "opportunity_cost_thb": 100000,
-  "opportunity_cost_krw": 4000000
+  "global_score": 1,
+  "opportunity_cost_thb": 99500,
+  "opportunity_cost_krw": 3980000
 }

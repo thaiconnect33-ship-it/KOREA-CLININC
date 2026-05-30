@@ -1,16 +1,18 @@
 {
   "query": "엔비유의원",
-  "generated_at": "2026-05-28T22:35:20.160Z",
+  "generated_at": "2026-05-29T11:12:51.291Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 1523,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "33027878",
+        "name": "엔비유의원 : 네이버\u001c",
+        "visitor_review_count": 888,
+        "blog_review_count": 635,
+        "detail_url": "https://m.place.naver.com/place/33027878/home"
       }
     },
     "google_maps": {
@@ -43,78 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 16,
+      "metric_value": 20,
       "extra": {
-        "total_views": 2736206,
+        "total_views": 1153400,
         "foreign_video_count": 0,
         "lang_breakdown": {
-          "korean": 16,
+          "korean": 20,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
           "english_other": 0
         },
-        "sample_size": 16,
+        "sample_size": 20,
         "top_videos": [
-          {
-            "title": "직접 보여드립니다. 마취없이 당일에 끝나는 신개념 포레스트 리프팅 | 리프팅, 주름, 유지인대 | 라인만드는 의사 권병소",
-            "channel": "라인만드는 의사 DR.권병소",
-            "url": "https://www.youtube.com/watch?v=YuO3o5Wtsag&pp=ygUk7JeU67mE7Jyg7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "106K views"
-          },
-          {
-            "title": "작은 상처가 점점 커지면 봉와직염을 주의하세요 / 증상과 치료 그리고 예방 / 연세에이앤비피부과 이해진원장",
-            "channel": "이해진의황금피부",
-            "url": "https://www.youtube.com/watch?v=F4fVrzzgtdA&pp=ygUk7JeU67mE7Jyg7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "31K views"
-          },
           {
             "title": "쏟아진 질문들만 1000개?? 포레스트 리프팅에 대한 댓글 읽기 Q&A | 리프팅, 주름, 유지인대 | 라인만드는 의사 권병소",
             "channel": "라인만드는 의사 DR.권병소",
-            "url": "https://www.youtube.com/watch?v=FV0uo6yfY7w&pp=ygUk7JeU67mE7Jyg7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=FV0uo6yfY7w&pp=ygUV7JeU67mE7Jyg7J2Y7JuQIEtvcmVh",
             "view_text": "29K views"
           },
           {
-            "title": "“비싼 울쎄라, 써마지 받아도 얼굴 다시 처집니다” 요즘 연예인들이 받는 가성비 시술을 20년차 피부과 전문의가 알려드립니다.",
-            "channel": "피부는 성현철",
-            "url": "https://www.youtube.com/watch?v=P-ooK3XIcKM&pp=ygUk7JeU67mE7Jyg7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "344K views"
+            "title": "직접 보여드립니다. 마취없이 당일에 끝나는 신개념 포레스트 리프팅 | 리프팅, 주름, 유지인대 | 라인만드는 의사 권병소",
+            "channel": "라인만드는 의사 DR.권병소",
+            "url": "https://www.youtube.com/watch?v=YuO3o5Wtsag&pp=ygUV7JeU67mE7Jyg7J2Y7JuQIEtvcmVh",
+            "view_text": "106K views"
           },
           {
-            "title": "이런 모낭염이 있나... 말라쎄지아 모낭염 / 연세에이앤비 피부과 이해진원장",
-            "channel": "이해진의황금피부",
-            "url": "https://www.youtube.com/watch?v=m0nuj0BHMt0&pp=ygUk7JeU67mE7Jyg7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "72K views"
+            "title": "성형아니구요, '이것'은 꼭 합니다. 50대 의사의 동안 비결 공개 | 동안관리, 리프팅, 스킨부스터 | 라인만드는 의사 권병소",
+            "channel": "라인만드는 의사 DR.권병소",
+            "url": "https://www.youtube.com/watch?v=u9tFJ32Axiw&pp=ygUV7JeU67mE7Jyg7J2Y7JuQIEtvcmVh",
+            "view_text": "17K views"
           },
           {
-            "title": "염증 후 피부 색소침착 이렇게 하면 나아짐 / 연세에이앤비 피부과 이해진 원장",
-            "channel": "이해진의황금피부",
-            "url": "https://www.youtube.com/watch?v=DPwyFFAm92E&pp=ygUk7JeU67mE7Jyg7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "213K views"
+            "title": "리프팅 시술 총정리! 나한테 맞는 시술은 따로 있다 | 동안시술, 안면거상, 콜라겐생성 | 라인만드는 의사 권병소",
+            "channel": "라인만드는 의사 DR.권병소",
+            "url": "https://www.youtube.com/watch?v=jMgEKDrRvOQ&pp=ygUV7JeU67mE7Jyg7J2Y7JuQIEtvcmVh",
+            "view_text": "15K views"
           },
           {
-            "title": "벌레물린 곳이 가렵고 따갑고 부어오를땐 이렇게 하세요 | 연세에이앤비 피부과 전문의 이해진 원장",
-            "channel": "이해진의황금피부",
-            "url": "https://www.youtube.com/watch?v=DC2t7oAF2Zo&pp=ygUk7JeU67mE7Jyg7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "26K views"
+            "title": "성형외과/피부과에서 호구 안 되는 법: 의사만 아는 돈값 하는 시술 고르는 3가지 기준 | 유지관리, 가성비 시술 | 라인만드는 의사 권병소",
+            "channel": "라인만드는 의사 DR.권병소",
+            "url": "https://www.youtube.com/watch?v=83KhB4YITN0&pp=ygUV7JeU67mE7Jyg7J2Y7JuQIEtvcmVh",
+            "view_text": "6.3K views"
           },
           {
-            "title": "\"엉터리 정보에 속지마세요.\" 진료과목 피부과 의사가 뽑은 가성비 시술 딱 '3가지'",
-            "channel": "지식인사이드",
-            "url": "https://www.youtube.com/watch?v=a4S4JNnRIXQ&pp=ygUk7JeU67mE7Jyg7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "1.7M views"
+            "title": "리프팅 알아보기전에 꼭 보세요",
+            "channel": "라인만드는 의사 DR.권병소",
+            "url": "https://www.youtube.com/watch?v=WVpQkZ_zEAI&pp=ygUV7JeU67mE7Jyg7J2Y7JuQIEtvcmVh",
+            "view_text": "12K views"
           },
           {
-            "title": "나를 거슬리게 하는 사마귀 / 어떻게해야 없어지는거죠?? / 연세에이앤비 피부과 이해진원장",
-            "channel": "이해진의황금피부",
-            "url": "https://www.youtube.com/watch?v=wXtW9JeHQfY&pp=ygUk7JeU67mE7Jyg7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "20K views"
+            "title": "팩트체크)엔주사로 살이 빠질까??  직접 실험해 봤더니? 필수시청👨‍⚕️/Experiment on the effect of lipolysis injection",
+            "channel": "라인만드는 의사 DR.권병소",
+            "url": "https://www.youtube.com/watch?v=hTm-DkruSHc&pp=ygUV7JeU67mE7Jyg7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "31K views"
           },
           {
-            "title": "50대 이후 속당김 방치하면 주름 폭탄! 병원 가기 전 꼭 발라야 할 '이것' #50대피부관리",
-            "channel": "건강톡톡TV",
-            "url": "https://www.youtube.com/watch?v=9HAA16zYzG0&pp=ygUk7JeU67mE7Jyg7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "72 views"
+            "title": "안면거상 회복기, 흉터 고민 ※필수시청※ 안면거상술 효과 높이고 회복기 줄이는 업그레이드 안면거상술, 샤넬리프팅",
+            "channel": "라인만드는 의사 DR.권병소",
+            "url": "https://www.youtube.com/watch?v=sIJN4A22y1Q&pp=ygUV7JeU67mE7Jyg7J2Y7JuQIEtvcmVh",
+            "view_text": "29K views"
+          },
+          {
+            "title": "평생 얼굴 라인만 연구해온 의사가 받는 시술.. 【처음으로 공개합니다..!】",
+            "channel": "라인만드는 의사 DR.권병소",
+            "url": "https://www.youtube.com/watch?v=hA1SsvaYsUc&pp=ygUV7JeU67mE7Jyg7J2Y7JuQIEtvcmVh",
+            "view_text": "36K views"
+          },
+          {
+            "title": "100%리얼후기! 이중턱소멸 V라인획득 #얼굴지방흡입+리프팅_ 3주차 브이로그",
+            "channel": "라인만드는 의사 DR.권병소",
+            "url": "https://www.youtube.com/watch?v=1zr5NPfOdF8&pp=ygUV7JeU67mE7Jyg7J2Y7JuQIEtvcmVh",
+            "view_text": "13K views"
           }
         ]
       }
@@ -130,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

@@ -1,0 +1,148 @@
+{
+  "query": "모즈의원 청담",
+  "generated_at": "2026-05-29T10:58:08.073Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 4336,
+      "extra": {
+        "place_id": "31863895",
+        "name": "모즈의원 청담 : 네이버\u001c",
+        "visitor_review_count": 2013,
+        "blog_review_count": 2323,
+        "detail_url": "https://m.place.naver.com/place/31863895/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "MODS Clinic",
+        "rating": 4.8,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 19,
+      "extra": {
+        "total_views": 354707,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 19,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 19,
+        "top_videos": [
+          {
+            "title": "청담 의사가 알려주는 S+급 가성비 시술은?  l  2025 가성비 시술 티어 리스트 공개! 👑",
+            "channel": "손승용원장의 안티에이징 탐구생활",
+            "url": "https://www.youtube.com/watch?v=u3696YRhla0&pp=ygUZ66qo7KaI7J2Y7JuQIOyyreuLtCBLb3JlYQ%3D%3D",
+            "view_text": "1.2K views"
+          },
+          {
+            "title": "17년차 청담의사도 놀란 모즈셀 줄기세포 피부주사의 놀라운 결과. ㅣ ㅣ모즈의원- 모즈클리닉",
+            "channel": "손승용원장의 안티에이징 탐구생활",
+            "url": "https://www.youtube.com/watch?v=4eFLTld1i-8&pp=ygUZ66qo7KaI7J2Y7JuQIOyyreuLtCBLb3JlYQ%3D%3D",
+            "view_text": "1.7K views"
+          },
+          {
+            "title": "\"멍∙통증 없이 확 당긴다? 리프팅계의 혁신 '온다 리프팅' 전격해부 💯💯 ㅣ#리프팅추천 #모즈의원 #모즈클리닉",
+            "channel": "손승용원장의 안티에이징 탐구생활",
+            "url": "https://www.youtube.com/watch?v=c10aDweZVoI&pp=ygUZ66qo7KaI7J2Y7JuQIOyyreuLtCBLb3JlYQ%3D%3D",
+            "view_text": "2.4K views"
+          },
+          {
+            "title": "눈밑 지방 재배치 하나로 다 해결되는 거 아니었나요? feat. 애교살 사람짐? 다크써클? 눈 뒤집힘? 하안검? 제거vs재배치, 붓기 & 부작용까지ㅣㅣ모즈의원- 모즈클리닉",
+            "channel": "손승용원장의 안티에이징 탐구생활",
+            "url": "https://www.youtube.com/watch?v=MjKfNtcJJBo&pp=ygUZ66qo7KaI7J2Y7JuQIOyyreuLtCBLb3JlYQ%3D%3D",
+            "view_text": "2.5K views"
+          },
+          {
+            "title": "울쎄라 몇샷 맞아야 효과있나요 ｜ 600샷 vs 500샷_ 모즈의원- 손승용",
+            "channel": "손승용원장의 안티에이징 탐구생활",
+            "url": "https://www.youtube.com/watch?v=a1iTYBUZ1hs&pp=ygUZ66qo7KaI7J2Y7JuQIOyyreuLtCBLb3JlYQ%3D%3D",
+            "view_text": "1.7K views"
+          },
+          {
+            "title": "40대 50대 중년 가장 많이하는 동안시술 TOP 3! 최종정리 해드립니다.  \" 수술 NO!  #시술추천 ㅣ 모즈의원 - 손원장",
+            "channel": "손승용원장의 안티에이징 탐구생활",
+            "url": "https://www.youtube.com/watch?v=_PV2D2gjSDs&pp=ygUZ66qo7KaI7J2Y7JuQIOyyreuLtCBLb3JlYQ%3D%3D",
+            "view_text": "1.2K views"
+          },
+          {
+            "title": "줄기세포 피부주사 CD34+ 피부의 나이를 근본적으로 되돌리는 안티에이징 주사ㅣ모즈의원- 모즈클리닉",
+            "channel": "손승용원장의 안티에이징 탐구생활",
+            "url": "https://www.youtube.com/watch?v=NbJojeXKzYI&pp=ygUZ66qo7KaI7J2Y7JuQIOyyreuLtCBLb3JlYQ%3D%3D",
+            "view_text": "3.1K views"
+          },
+          {
+            "title": "쌍꺼풀 겹주름 눈밑 불룩함 최대한 빠르게 교정하세요  | #하안검  #눈밑지방 #modsclinic #모즈클리닉",
+            "channel": "손승용원장의 안티에이징 탐구생활",
+            "url": "https://www.youtube.com/watch?v=YkYELluh7s4&pp=ygUZ66qo7KaI7J2Y7JuQIOyyreuLtCBLb3JlYQ%3D%3D",
+            "view_text": "510 views"
+          },
+          {
+            "title": "목주름 시술로 간단하게 없애는 방법! 목주름 필러 효과를 못 보셨다면 꼭 시청.ㅣ#모즈의원  #모즈클리닉",
+            "channel": "손승용원장의 안티에이징 탐구생활",
+            "url": "https://www.youtube.com/watch?v=aPdAP6KCkDY&pp=ygUZ66qo7KaI7J2Y7JuQIOyyreuLtCBLb3JlYQ%3D%3D",
+            "view_text": "7.4K views"
+          },
+          {
+            "title": "모공축소 시술받기전 해야할 근본적인 방법 공개!",
+            "channel": "손승용원장의 안티에이징 탐구생활",
+            "url": "https://www.youtube.com/watch?v=yOf90rrW1fI&pp=ygUZ66qo7KaI7J2Y7JuQIOyyreuLtCBLb3JlYQ%3D%3D",
+            "view_text": "606 views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 140000,
+  "opportunity_cost_krw": 5600000
+}

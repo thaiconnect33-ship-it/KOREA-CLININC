@@ -1,35 +1,35 @@
 {
   "query": "바른세상성형외과",
-  "generated_at": "2026-05-29T05:49:19.921Z",
+  "generated_at": "2026-05-29T10:15:39.685Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 4817,
+      "metric_value": 4820,
       "extra": {
         "place_id": "11798255",
         "name": "바른세상병원 : 네이버\u001c",
         "visitor_review_count": 564,
-        "blog_review_count": 4253,
+        "blog_review_count": 4256,
         "detail_url": "https://m.place.naver.com/place/11798255/home"
       }
     },
     "google_maps": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 15,
+      "metric_value": 194,
       "extra": {
         "name": "Results",
-        "rating": 5,
-        "total_reviews": 15,
-        "sample_size": 6,
-        "foreign_language_reviews": 6,
+        "rating": 4.9,
+        "total_reviews": 194,
+        "sample_size": 9,
+        "foreign_language_reviews": 9,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 6
+          "english_other": 9
         }
       }
     },
@@ -88,7 +88,7 @@
       }
     }
   },
-  "global_score": 4,
-  "opportunity_cost_thb": 96500,
-  "opportunity_cost_krw": 3860000
+  "global_score": 5,
+  "opportunity_cost_thb": 95000,
+  "opportunity_cost_krw": 3800000
 }

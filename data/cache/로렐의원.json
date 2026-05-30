@@ -1,16 +1,18 @@
 {
   "query": "로렐의원",
-  "generated_at": "2026-05-28T22:22:26.965Z",
+  "generated_at": "2026-05-29T10:59:06.075Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 3006,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "1752420383",
+        "name": "로렐의원 : 네이버\u001c",
+        "visitor_review_count": 901,
+        "blog_review_count": 2105,
+        "detail_url": "https://m.place.naver.com/place/1752420383/home"
       }
     },
     "google_maps": {
@@ -43,24 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 1,
+      "metric_value": 20,
       "extra": {
-        "total_views": 21000,
+        "total_views": 787798,
         "foreign_video_count": 0,
         "lang_breakdown": {
-          "korean": 1,
+          "korean": 20,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
           "english_other": 0
         },
-        "sample_size": 1,
+        "sample_size": 20,
         "top_videos": [
+          {
+            "title": "Titanium Lifting in Seoul, Korea | Why Titanium Lifting Is Different |",
+            "channel": "로렐의원 Laurel Clinic Official",
+            "url": "https://www.youtube.com/watch?v=DmQvoXCy41Q&pp=ygUS66Gc66CQ7J2Y7JuQIEtvcmVh",
+            "view_text": "4.6K"
+          },
+          {
+            "title": "고가의 리프팅 레이저 제대로 받아야 하는 이유 3가지!",
+            "channel": "쀼TV",
+            "url": "https://www.youtube.com/watch?v=3_p_6gHSAsI&pp=ygUS66Gc66CQ7J2Y7JuQIEtvcmVh",
+            "view_text": "1.4K"
+          },
+          {
+            "title": "울쎄라? 티타늄? 연예인들이 실제로 받는다는 상위 1%시술 과연 맞을까?",
+            "channel": "쀼TV",
+            "url": "https://www.youtube.com/watch?v=l6esR5gCM8M&pp=ygUS66Gc66CQ7J2Y7JuQIEtvcmVh",
+            "view_text": "1.5K"
+          },
+          {
+            "title": "Well, you can't just do it like that!! I'll definitely remember these 3 things💁🏻‍♂️",
+            "channel": "쀼TV",
+            "url": "https://www.youtube.com/watch?v=JBMKAKUEfA8&pp=ygUS66Gc66CQ7J2Y7JuQIEtvcmVh",
+            "view_text": "1.3K"
+          },
+          {
+            "title": "[광인의 생활백서] 피부에 미친 남자 허준혁입니다",
+            "channel": "피부광 허닥터",
+            "url": "https://www.youtube.com/watch?v=VqjFh9LzZHE&pp=ygUS66Gc66CQ7J2Y7JuQIEtvcmVh",
+            "view_text": "94"
+          },
+          {
+            "title": "[시연용]e0011abko_[대한산부인과학회] 로렐린 주 투여방법 안내",
+            "channel": "HealthBreeze헬스브리즈",
+            "url": "https://www.youtube.com/watch?v=aQz2fidG4hI&pp=ygUS66Gc66CQ7J2Y7JuQIEtvcmVh",
+            "view_text": "1.2K"
+          },
+          {
+            "title": "누가 요즘 경락받아? '레비나스' 받지!⚡ | 충격파 리프팅.. 그게 뭔데?!",
+            "channel": "바이어간츠코리아",
+            "url": "https://www.youtube.com/watch?v=Vkk9RLcrfUY&pp=ygUS66Gc66CQ7J2Y7JuQIEtvcmVh",
+            "view_text": "2.9K"
+          },
+          {
+            "title": "울쎄라 써마지 티타늄 제대로 알고 계시나요? 본인 피부에 맞춰서 해야하는 중요한 이유",
+            "channel": "쀼TV",
+            "url": "https://www.youtube.com/watch?v=_u2Qj0VcQpw&pp=ygUS66Gc66CQ7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "1.4K"
+          },
           {
             "title": "안면 비대칭 탈출한 리얼 후기🐣 충격파 리프팅.. 뭔데 이렇게 좋아?! | 시술 V-log",
             "channel": "바이어간츠코리아",
-            "url": "https://www.youtube.com/watch?v=9ndcIeclwJQ&pp=ygUh66Gc66CQ7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "21K views"
+            "url": "https://www.youtube.com/watch?v=9ndcIeclwJQ&pp=ygUS66Gc66CQ7J2Y7JuQIEtvcmVh",
+            "view_text": "21K"
+          },
+          {
+            "title": "임신부에게 '태아 기형 위험' 난임치료제 주사 (2022.05.25/뉴스데스크/MBC)",
+            "channel": "MBCNEWS",
+            "url": "https://www.youtube.com/watch?v=Af44Fw5r-tg&pp=ygUS66Gc66CQ7J2Y7JuQIEtvcmVh",
+            "view_text": "570K"
           }
         ]
       }
@@ -76,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

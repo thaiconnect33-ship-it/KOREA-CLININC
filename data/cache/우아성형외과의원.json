@@ -1,16 +1,18 @@
 {
   "query": "우아성형외과의원",
-  "generated_at": "2026-05-29T05:59:46.927Z",
+  "generated_at": "2026-05-29T10:26:06.008Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 3309,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "1676769293",
+        "name": "우아성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 1811,
+        "blog_review_count": 1498,
+        "detail_url": "https://m.place.naver.com/place/1676769293/home"
       }
     },
     "google_maps": {
@@ -45,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 3868814,
+        "total_views": 1200453,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -57,64 +59,64 @@
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "성형외과 상담갈때 알고가면 좋은것! 그리고 피해야 할 병원까지~",
-            "channel": "닥터혜자",
-            "url": "https://www.youtube.com/watch?v=sOtAVS95goQ&pp=ygUw7Jqw7JWE7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "134K"
+            "title": "[WOOA 가슴의정석] 왜소하고 마른 사람은 가슴성형을 어떻게 해야 할까요?",
+            "channel": "우아TV",
+            "url": "https://www.youtube.com/watch?v=Uvt0-SpWRZE&pp=ygUe7Jqw7JWE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "5.3K views"
           },
           {
-            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
-            "channel": "JTBC News",
-            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUw7Jqw7JWE7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1M"
+            "title": "우아성형외과 김우정박사의 20년 가슴성형 진료 철학",
+            "channel": "우아TV",
+            "url": "https://www.youtube.com/watch?v=tlTxvRGiSdw&pp=ygUe7Jqw7JWE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "419K views"
           },
           {
-            "title": "In which cases do the side effects of under-eye fat reposition occur?",
-            "channel": "우리성형외과 WOORI beauty TV",
-            "url": "https://www.youtube.com/watch?v=ZiK-Mc9JtVE&pp=ygUw7Jqw7JWE7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "9.6K"
+            "title": "[WOOA 가슴성형이야기] 안 아픈 가슴수술 있다?🙆 없다?🙅‍♀️ | 가슴수술 후 통증",
+            "channel": "우아TV",
+            "url": "https://www.youtube.com/watch?v=xzpqc5gxU8E&pp=ygUe7Jqw7JWE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "16K views"
           },
           {
-            "title": "여자 첫 코성형 브이로그 | 성형 상담부터 회복까지 기록",
-            "channel": "우아인TV",
-            "url": "https://www.youtube.com/watch?v=3JemJuLzKfo&pp=ygUw7Jqw7JWE7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "3.1K"
+            "title": "김우정 박사의 비하인드 토크(4부) | 가슴성형 | 우아성형외과 | 진료철학",
+            "channel": "우아TV",
+            "url": "https://www.youtube.com/watch?v=6-4OhJDdfoo&pp=ygUe7Jqw7JWE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "74K views"
           },
           {
-            "title": "[단독] 강남 성형외과에 '분통'…\"근육 썩고 사경 헤맸다\" / SBS 8뉴스",
-            "channel": "SBS 뉴스",
-            "url": "https://www.youtube.com/watch?v=svfX3-lNpIw&pp=ygUw7Jqw7JWE7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "2.4M"
+            "title": "[WOOA 가슴성형이야기] 하루에 가슴수술 딱! ✖️번만 한다고?",
+            "channel": "우아TV",
+            "url": "https://www.youtube.com/watch?v=rrdBc7ZJeFg&pp=ygUe7Jqw7JWE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "26K views"
           },
           {
-            "title": "눈성형,코성형 수술기구 전격 공개! (성형외과 수술실에서 무슨일이 일어날까 3편)",
-            "channel": "닥터혜자",
-            "url": "https://www.youtube.com/watch?v=FIIqCKR4nKk&pp=ygUw7Jqw7JWE7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "9.2K"
+            "title": "[WOOA 가슴의정석] 우아 가슴성형에 피주머니가 필요 없는 이유!?",
+            "channel": "우아TV",
+            "url": "https://www.youtube.com/watch?v=K9I_n4r0ZCY&pp=ygUe7Jqw7JWE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "5.9K views"
           },
           {
-            "title": "[홍진주의 성형 Q&A] #5. 성형, 선택의 딜레마 '매몰 vs 절개' (제이제이성형외과 홍진주 원장)",
-            "channel": "의학채널 비온뒤",
-            "url": "https://www.youtube.com/watch?v=weJT94cyHbI&pp=ygUw7Jqw7JWE7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "5.8K"
+            "title": "[WOOA 가슴성형이야기] 가슴성형상담 꿀팁! 이렇게만 준비하시면 됩니다 📝",
+            "channel": "우아TV",
+            "url": "https://www.youtube.com/watch?v=Aoe2ERYNtHQ&pp=ygUe7Jqw7JWE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "6.7K views"
           },
           {
-            "title": "중년 눈성형 - 직접 보내주신 사진을 봤을 때 저의 생각은요 /상안검,눈썹 거상, 눈꺼풀 처짐",
-            "channel": "마침표성형외과",
-            "url": "https://www.youtube.com/watch?v=hkEx79SoCSU&pp=ygUw7Jqw7JWE7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "123K"
+            "title": "[WOOA 가슴성형이야기] 가슴성형부작용 예방 및 해결 방법💡",
+            "channel": "우아TV",
+            "url": "https://www.youtube.com/watch?v=bSvo5FyzFo0&pp=ygUe7Jqw7JWE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "10K views"
           },
           {
-            "title": "남자눈성형! 무쌍?속쌍? 티안나게 눈 커지는 남자눈수술!",
-            "channel": "우아인TV",
-            "url": "https://www.youtube.com/watch?v=bfRESEZoLc4&pp=ygUw7Jqw7JWE7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "4.3K"
+            "title": "[WOOA 가슴성형이야기] #성형외과브이로그 박영지 원장님의 QnA 이야기!",
+            "channel": "우아TV",
+            "url": "https://www.youtube.com/watch?v=0dJfN78uUvg&pp=ygUe7Jqw7JWE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "45K views"
           },
           {
-            "title": "쌍커풀 수술 '자연유착' 이 궁금하다 ! (feat.친절상담)",
-            "channel": "드레스성형외과의원",
-            "url": "https://www.youtube.com/watch?v=I1Hqwbo1N8o&pp=ygUw7Jqw7JWE7ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "13K"
+            "title": "[WOOA 가슴의정석] 2022년 가슴성형 트렌드! 더 늦기 전에 확인!",
+            "channel": "우아TV",
+            "url": "https://www.youtube.com/watch?v=PZPa8LUJgXo&pp=ygUe7Jqw7JWE7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "2.3K views"
           }
         ]
       }

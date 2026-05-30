@@ -1,0 +1,148 @@
+{
+  "query": "VS라인의원 잠실점",
+  "generated_at": "2026-05-29T12:05:23.571Z",
+  "cached": false,
+  "platforms": {
+    "naver": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 4980,
+      "extra": {
+        "place_id": "37083761",
+        "name": "VS라인의원 잠실점 : 네이버\u001c",
+        "visitor_review_count": 1768,
+        "blog_review_count": 3212,
+        "detail_url": "https://m.place.naver.com/place/37083761/home"
+      }
+    },
+    "google_maps": {
+      "ok": true,
+      "metric_label": "리뷰",
+      "metric_value": 0,
+      "extra": {
+        "name": "VS Line Clinic",
+        "rating": 4.7,
+        "total_reviews": 0,
+        "sample_size": 0,
+        "foreign_language_reviews": 0,
+        "lang_breakdown": {
+          "korean": 0,
+          "thai": 0,
+          "chinese": 0,
+          "english_other": 0
+        }
+      }
+    },
+    "pantip": {
+      "ok": true,
+      "metric_label": "스레드",
+      "metric_value": 0,
+      "extra": {
+        "threads": [],
+        "total_views": 0
+      }
+    },
+    "youtube": {
+      "ok": true,
+      "metric_label": "비디오",
+      "metric_value": 20,
+      "extra": {
+        "total_views": 12802584,
+        "foreign_video_count": 0,
+        "lang_breakdown": {
+          "korean": 20,
+          "thai": 0,
+          "chinese": 0,
+          "japanese": 0,
+          "english_other": 0
+        },
+        "sample_size": 20,
+        "top_videos": [
+          {
+            "title": "[예능형] VS라인의원 x 쥬베룩",
+            "channel": "The SC",
+            "url": "https://www.youtube.com/watch?v=8KEM7jqEKaE&pp=ygUeVlPrnbzsnbjsnZjsm5Ag7J6g7Iuk7KCQIEtvcmVh",
+            "view_text": "423 views"
+          },
+          {
+            "title": "What kind of treatments do I get? I’m telling you everything💆🏻‍♀️",
+            "channel": "최종시안",
+            "url": "https://www.youtube.com/watch?v=8W31tqhdvLA&pp=ygUeVlPrnbzsnbjsnZjsm5Ag7J6g7Iuk7KCQIEtvcmVh",
+            "view_text": "1M views"
+          },
+          {
+            "title": "피부과 15년차 상담실장님이 말하는 '피부과 호구' 안되는 법 (추천시술 VS 비추천시술.zip📂)",
+            "channel": "황라희 Hwang Lahee",
+            "url": "https://www.youtube.com/watch?v=tD4qcIvpwyM&pp=ygUeVlPrnbzsnbjsnZjsm5Ag7J6g7Iuk7KCQIEtvcmVh",
+            "view_text": "442K views"
+          },
+          {
+            "title": "드림라인의원 얼굴지방흡입 리얼영상비교🧡",
+            "channel": "드림라인클리닉TV",
+            "url": "https://www.youtube.com/watch?v=3Ov4Bpj3pZU&pp=ygUeVlPrnbzsnbjsnZjsm5Ag7J6g7Iuk7KCQIEtvcmVh",
+            "view_text": "65 views"
+          },
+          {
+            "title": "[코리아리더스의원]  V라인 #동안비결 #리프팅 레이저가 궁금하다면?",
+            "channel": "코리아리더스의원TV",
+            "url": "https://www.youtube.com/watch?v=ulQnMPn0Uvg&pp=ygUeVlPrnbzsnbjsnZjsm5Ag7J6g7Iuk7KCQIEtvcmVh",
+            "view_text": "62 views"
+          },
+          {
+            "title": "강남피부과 연세라인의원 시술종류",
+            "channel": "블읽TV",
+            "url": "https://www.youtube.com/watch?v=R-RuhAGWD0A&pp=ygUeVlPrnbzsnbjsnZjsm5Ag7J6g7Iuk7KCQIEtvcmVh",
+            "view_text": "156 views"
+          },
+          {
+            "title": "나에게 맞는 피부과 시술 딱 알려드립니다",
+            "channel": "한혜진 Han Hye Jin",
+            "url": "https://www.youtube.com/watch?v=pz9U2bHJz30&pp=ygUeVlPrnbzsnbjsnZjsm5Ag7J6g7Iuk7KCQIEtvcmVh",
+            "view_text": "431K views"
+          },
+          {
+            "title": "실리프팅의 종류 및 붓기, 부작용, 유지기간까지! 40대 50대 피부처짐이 걱정이라면? 필수 시청! | 성형외과 전문의 전경욱 (eng. korean beauty clinic)",
+            "channel": "의사친[의사사람친구]",
+            "url": "https://www.youtube.com/watch?v=2MS0b48Qt50&pp=ygUeVlPrnbzsnbjsnZjsm5Ag7J6g7Iuk7KCQIEtvcmVh",
+            "view_text": "472K views"
+          },
+          {
+            "title": "(SUB) 피부과 시술 & 관리 총정리💓l 연예인들이 꼭 받는 시술은! l 딱 한가지 시술만 받을 수 있다면 바로 *** l 시술보다 효과 좋은 관리 모음👍 l 피부과 고르는 꿀팁",
+            "channel": "일단이나연 NAYEON",
+            "url": "https://www.youtube.com/watch?v=1x5SomkhsME&pp=ygUeVlPrnbzsnbjsnZjsm5Ag7J6g7Iuk7KCQIEtvcmVh",
+            "view_text": "902K views"
+          },
+          {
+            "title": "한국 피부의원 원장이 보는 중국 성형! 인플루언서 왕징 시술, 가능할까?",
+            "channel": "신동하의 밀리미터",
+            "url": "https://www.youtube.com/watch?v=5LRhD_0gumo&pp=ygUeVlPrnbzsnbjsnZjsm5Ag7J6g7Iuk7KCQIEtvcmVh",
+            "view_text": "25K views"
+          }
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "ok": false,
+      "error": "manual fill — bot 방어 심해서 데이터 외부에서 수집",
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "top_5_likes": 0,
+        "manual": true
+      }
+    },
+    "lemon8": {
+      "ok": true,
+      "metric_label": "포스트",
+      "metric_value": 0,
+      "extra": {
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
+      }
+    }
+  },
+  "global_score": 0,
+  "opportunity_cost_thb": 90000,
+  "opportunity_cost_krw": 3600000
+}

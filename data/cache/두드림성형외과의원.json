@@ -1,16 +1,18 @@
 {
   "query": "두드림성형외과의원",
-  "generated_at": "2026-05-28T23:58:26.506Z",
+  "generated_at": "2026-05-29T12:45:07.882Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 1469,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "33480660",
+        "name": "두드림성형외과의원 : 네이버\u001c",
+        "visitor_review_count": 855,
+        "blog_review_count": 614,
+        "detail_url": "https://m.place.naver.com/place/33480660/home"
       }
     },
     "google_maps": {
@@ -43,78 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 18,
+      "metric_value": 20,
       "extra": {
-        "total_views": 4484900,
+        "total_views": 3410266,
         "foreign_video_count": 0,
         "lang_breakdown": {
-          "korean": 18,
+          "korean": 20,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
           "english_other": 0
         },
-        "sample_size": 18,
+        "sample_size": 20,
         "top_videos": [
-          {
-            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
-            "channel": "JTBC News",
-            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUz65GQ65Oc66a87ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "1M views"
-          },
           {
             "title": "[단독] 강남 성형외과에 '분통'…\"근육 썩고 사경 헤맸다\" / SBS 8뉴스",
             "channel": "SBS 뉴스",
-            "url": "https://www.youtube.com/watch?v=svfX3-lNpIw&pp=ygUz65GQ65Oc66a87ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=svfX3-lNpIw&pp=ygUh65GQ65Oc66a87ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
             "view_text": "2.4M views"
           },
           {
-            "title": "\"상담받는 사람, 너 아냐?\"…강남 성형외과 '발칵' / SBS 8뉴스",
-            "channel": "SBS 뉴스",
-            "url": "https://www.youtube.com/watch?v=yzMNiHvLefU&pp=ygUz65GQ65Oc66a87ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "507K views"
+            "title": "[단독] 실명 사고 낸 강남 유명 성형외과, 이번엔 '안면 마비' / JTBC 뉴스룸",
+            "channel": "JTBC News",
+            "url": "https://www.youtube.com/watch?v=FnkuxCKz8f8&pp=ygUh65GQ65Oc66a87ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1M views"
           },
           {
-            "title": "[홍진주의 성형 Q&A] #5. 성형, 선택의 딜레마 '매몰 vs 절개' (제이제이성형외과 홍진주 원장)",
-            "channel": "의학채널 비온뒤",
-            "url": "https://www.youtube.com/watch?v=weJT94cyHbI&pp=ygUz65GQ65Oc66a87ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "5.8K views"
+            "title": "[모발이식 Q&A] 모발이식의 효과와 흉터는? - 두드림 성형외과 모발이식클리닉 (with.최원장)",
+            "channel": "두드림성형외과 모발이식·헤어라인·탈모치료",
+            "url": "https://www.youtube.com/watch?v=5Ni5_c5dSYw&pp=ygUh65GQ65Oc66a87ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "749 views"
           },
           {
-            "title": "안면거상수술하면 목주름도 없어진다? - 【feat. 성형외과전문의】",
-            "channel": "시너지성형외과",
-            "url": "https://www.youtube.com/watch?v=AcdmoYXAc4Q&pp=ygUz65GQ65Oc66a87ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "41K views"
+            "title": "[모난사람들] 모발이식 암흑기 썰푼다 다드루와~ | 절개 3000모",
+            "channel": "두드림성형외과 DoDream Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=5n4rLvqk7bs&pp=ygUh65GQ65Oc66a87ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.7K views"
           },
           {
-            "title": "[SODA] 소다성형외과 | 안면윤곽 수술시 예뻐지는/제한적인 유형",
-            "channel": "소다성형외과",
-            "url": "https://www.youtube.com/watch?v=TQ-dM_keBr0&pp=ygUz65GQ65Oc66a87ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "53K views"
+            "title": "[모발이식 Q&A] 모발이식의 방식과 통증은? - 두드림 성형외과 모발이식클리닉 (with.최원장)",
+            "channel": "두드림성형외과 모발이식·헤어라인·탈모치료",
+            "url": "https://www.youtube.com/watch?v=L7GDTgAOeEo&pp=ygUh65GQ65Oc66a87ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "902 views"
           },
           {
-            "title": "불법 시술 또는 녹지 않는 필러 때문에 얼굴 이물질제거 해야 한다면?",
-            "channel": "압구정 김형진베이직성형외과",
-            "url": "https://www.youtube.com/watch?v=i5Ayyhizgqs&pp=ygUz65GQ65Oc66a87ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "17K views"
+            "title": "내가 성형수술을 하면 무엇이 바뀔까? | [두드림성형외과] 임찬수 대표원장 인터뷰",
+            "channel": "두드림성형외과 DoDream Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=kpkowhkilS0&pp=ygUh65GQ65Oc66a87ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "262 views"
           },
           {
-            "title": "눈성형,코성형 수술기구 전격 공개! (성형외과 수술실에서 무슨일이 일어날까 3편)",
-            "channel": "닥터혜자",
-            "url": "https://www.youtube.com/watch?v=FIIqCKR4nKk&pp=ygUz65GQ65Oc66a87ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "9.2K views"
+            "title": "[두드림TV] 만족도 최고! 무조건 하시면 됩니다👍 | 모발이식",
+            "channel": "두드림성형외과 DoDream Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=I2tKTaAlBW8&pp=ygUh65GQ65Oc66a87ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "224 views"
           },
           {
-            "title": "쌍커풀 수술 '자연유착' 이 궁금하다 ! (feat.친절상담)",
-            "channel": "드레스성형외과의원",
-            "url": "https://www.youtube.com/watch?v=I1Hqwbo1N8o&pp=ygUz65GQ65Oc66a87ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "13K views"
+            "title": "모발이식 수술 후 2주 주의사항❣️ | 두드림 성형외과 모발이식 센터 Q&A",
+            "channel": "두드림성형외과 DoDream Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=LWrTBgfU6W4&pp=ygUh65GQ65Oc66a87ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "257 views"
           },
           {
-            "title": "큰 이미지 변화 없이 답답하고 졸린 눈매 개선💛 | 자연유착&눈매교정",
-            "channel": "AMOND TV - 아몬드성형외과",
-            "url": "https://www.youtube.com/watch?v=Mh407T_Yijs&pp=ygUz65GQ65Oc66a87ISx7ZiV7Jm46rO87J2Y7JuQ7Yah7Yah7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "13K views"
+            "title": "남자의 변신은 무죄✨ㅣ모발이식 하나로 훈남 되기!",
+            "channel": "두드림성형외과 DoDream Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=oD3g42prEAM&pp=ygUh65GQ65Oc66a87ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "203 views"
+          },
+          {
+            "title": "모발이식 수술 후 6개월~1년 차 주의사항🚫 | 두드림 성형외과 모발이식 센터 Q&A",
+            "channel": "두드림성형외과 DoDream Plastic Surgery Korea",
+            "url": "https://www.youtube.com/watch?v=ke8qtc4TSlA&pp=ygUh65GQ65Oc66a87ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "88 views"
           }
         ]
       }
@@ -130,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

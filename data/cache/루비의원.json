@@ -1,16 +1,18 @@
 {
   "query": "루비의원",
-  "generated_at": "2026-05-28T22:55:57.362Z",
+  "generated_at": "2026-05-29T11:35:44.948Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 0,
+      "metric_value": 1321,
       "extra": {
-        "note": "검색 결과 없음",
-        "visitor_review_count": 0,
-        "blog_review_count": 0
+        "place_id": "12853234",
+        "name": "루비의원 : 네이버\u001c",
+        "visitor_review_count": 955,
+        "blog_review_count": 366,
+        "detail_url": "https://m.place.naver.com/place/12853234/home"
       }
     },
     "google_maps": {
@@ -45,7 +47,7 @@
       "metric_label": "비디오",
       "metric_value": 20,
       "extra": {
-        "total_views": 6102445,
+        "total_views": 7310145,
         "foreign_video_count": 0,
         "lang_breakdown": {
           "korean": 20,
@@ -57,64 +59,64 @@
         "sample_size": 20,
         "top_videos": [
           {
-            "title": "루비레이저는 색소 치료의 끝판왕인가? 치료받고 '더 진해졌다, 효과 못 봤다.' 이 영상 한번 보고 가세요",
-            "channel": "방쌤TV 의사 방민철",
-            "url": "https://www.youtube.com/watch?v=hy9-dDQUpss&pp=ygUh66Oo67mE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "4.2K views"
+            "title": "영국에서온 빅토리아, 한국에서 코성형 도전! 루비성형외과  리얼 VLOG I Victoria’s Nose Job Journey in Korea",
+            "channel": "루비성형외과",
+            "url": "https://www.youtube.com/watch?v=VbHxd5hRxtM&pp=ygUS66Oo67mE7J2Y7JuQIEtvcmVh",
+            "view_text": "63 views"
           },
           {
-            "title": "피부과 시술 부작용 Vlog…ㅠ 내 피부 돌려줘.. 다신 안해…🫠ㅣMINCARONG",
-            "channel": "민카롱",
-            "url": "https://www.youtube.com/watch?v=wRJR2kY2x9w&pp=ygUh66Oo67mE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "1.7M views"
+            "title": "‘Endless Journey’ 루비나의 여정은 끝나지 않았다",
+            "channel": "TINNEWS & KOREA FASHION NEWS",
+            "url": "https://www.youtube.com/watch?v=Pfm6mP0_PRQ&pp=ygUS66Oo67mE7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "3.9K views"
           },
           {
-            "title": "🔥A collection of the hottest skin treatments these days🔥Recommended❓Not recommended❓",
-            "channel": "희재 HEEJAE",
-            "url": "https://www.youtube.com/watch?v=uS1FV0UEP2E&pp=ygUh66Oo67mE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "533K views"
+            "title": "루비성형외과 광고 (30sec)",
+            "channel": "Hyoungwoo Seo",
+            "url": "https://www.youtube.com/watch?v=Qgj_qSfgpBA&pp=ygUS66Oo67mE7J2Y7JuQIEtvcmVh",
+            "view_text": "6.3K views"
           },
           {
-            "title": "리팟 레이저 부작용, 진료과목 피부과 의사가 양심 고백합니다 (흑자 치료 부작용에 대한 모든 것)",
-            "channel": "닥터클레어 박상아",
-            "url": "https://www.youtube.com/watch?v=GftKmlYdGuk&pp=ygUh66Oo67mE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "38K views"
+            "title": "루비성형외과 광고 (15sec)",
+            "channel": "Hyoungwoo Seo",
+            "url": "https://www.youtube.com/watch?v=udc3D2t1STs&pp=ygUS66Oo67mE7J2Y7JuQIEtvcmVh",
+            "view_text": "1K views"
           },
           {
-            "title": "\"You can look 10 years younger than your peers!\" 3 treatments even performed by a dermatologist.",
-            "channel": "박지윤의 피부 설명서",
-            "url": "https://www.youtube.com/watch?v=GN7n33Kw7BY&pp=ygUh66Oo67mE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "237K views"
+            "title": "2025년 3월 20일부터 3월 23일, 4일 동안 코엑스에서 열리는 2025 메디컬 코리아에 루비성형외과가  참가합니다!",
+            "channel": "루비성형외과",
+            "url": "https://www.youtube.com/watch?v=K_jFpM7nT6E&pp=ygUS66Oo67mE7J2Y7JuQIEtvcmVh",
+            "view_text": "193 views"
           },
           {
-            "title": "“20년동안 제 아내가 가장 만족했던 동안 주사 공개합니다” 강남 피부과 의사가 아내에게 해주는 또래보다 10년 젊어지는 동안주사 3가지",
-            "channel": "피부는 성현철",
-            "url": "https://www.youtube.com/watch?v=z5f78sydJ8U&pp=ygUh66Oo67mE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "332K views"
+            "title": "루비성형외과 리얼모델 메이킹필름",
+            "channel": "루비성형외과",
+            "url": "https://www.youtube.com/watch?v=OqkwpdMOTrM&pp=ygUS66Oo67mE7J2Y7JuQIEtvcmVh",
+            "view_text": "1.7K views"
           },
           {
-            "title": "권오정리얼뷰티(구.강남리더스미) 기미, 색소, 주근깨, 잡티 전후사진",
-            "channel": "권오정 TV",
-            "url": "https://www.youtube.com/watch?v=LoAKB0QmjVg&pp=ygUh66Oo67mE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "276 views"
+            "title": "한국 성형수술 브이로그: 이사벨라의 루비성형외과 체험기",
+            "channel": "루비성형외과",
+            "url": "https://www.youtube.com/watch?v=Bc-6jfFy47I&pp=ygUS66Oo67mE7J2Y7JuQIEtvcmVh",
+            "view_text": "194 views"
           },
           {
-            "title": "서울대 피부과의사가 찍어주는 스킨부스터 완벽 정리. \"이 영상보면 호구 안당합니다\" - 이도영 피부과전문의",
-            "channel": "피부텐텐 · 피부가 예뻐지는 10분",
-            "url": "https://www.youtube.com/watch?v=rigKW7zrTeI&pp=ygUh66Oo67mE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "338K views"
+            "title": "연세비비의원 콰트로빔",
+            "channel": "김지연",
+            "url": "https://www.youtube.com/watch?v=YR3PCyVut3A&pp=ygUS66Oo67mE7J2Y7JuQIEtvcmVh",
+            "view_text": "125 views"
           },
           {
-            "title": "정말 그렇게 하고 계신다고요..? 기미전문가가 강조하는 기미 치료의 가장 중요한 습관 한 가지! feat. 기미, 선크림, 자외선, 프리즘의원. 기미상궁 ep.03",
-            "channel": "한성민의 피부인사이드",
-            "url": "https://www.youtube.com/watch?v=MazYW78BBSY&pp=ygUh66Oo67mE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "9K views"
+            "title": "[2시간/ASMR] 병원 로비 원무과 접수 진료대기 의대 간호사 공부 동기부여 백색소음",
+            "channel": "웰빙 ASMR",
+            "url": "https://www.youtube.com/watch?v=OAznDqo5Yek&pp=ygUS66Oo67mE7J2Y7JuQIEtvcmVh",
+            "view_text": "42K views"
           },
           {
-            "title": "늦가을 피부질환과 미용치료 - 계명대 동산병원 피부과 류영욱 교수",
-            "channel": "대구MBC Program",
-            "url": "https://www.youtube.com/watch?v=vCvQvzTKYL4&pp=ygUh66Oo67mE7J2Y7JuQ7Yah7Yah7ZS867aA6rO8IEtvcmVh",
-            "view_text": "582 views"
+            "title": "루비성형외과_EXTREME7_11회",
+            "channel": "최인",
+            "url": "https://www.youtube.com/watch?v=mr-hfyiDJSo&pp=ygUS66Oo67mE7J2Y7JuQIEtvcmVh0gcJCSMLAYcqIYzv",
+            "view_text": "1.5K views"
           }
         ]
       }
@@ -130,12 +132,13 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },

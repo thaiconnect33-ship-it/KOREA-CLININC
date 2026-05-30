@@ -1,17 +1,17 @@
 {
   "query": "메이드영성형외과의원",
-  "generated_at": "2026-05-29T00:01:11.599Z",
+  "generated_at": "2026-05-29T12:47:40.373Z",
   "cached": false,
   "platforms": {
     "naver": {
       "ok": true,
       "metric_label": "리뷰",
-      "metric_value": 1666,
+      "metric_value": 1665,
       "extra": {
         "place_id": "1356879122",
         "name": "메이드영성형외과의원 : 네이버\u001c",
         "visitor_review_count": 383,
-        "blog_review_count": 1283,
+        "blog_review_count": 1282,
         "detail_url": "https://m.place.naver.com/place/1356879122/home"
       }
     },
@@ -23,13 +23,13 @@
         "name": "MadeYoung Plastic Surgery",
         "rating": 4.5,
         "total_reviews": 79,
-        "sample_size": 17,
-        "foreign_language_reviews": 17,
+        "sample_size": 21,
+        "foreign_language_reviews": 21,
         "lang_breakdown": {
           "korean": 0,
           "thai": 0,
           "chinese": 0,
-          "english_other": 17
+          "english_other": 21
         }
       }
     },
@@ -45,78 +45,78 @@
     "youtube": {
       "ok": true,
       "metric_label": "비디오",
-      "metric_value": 20,
+      "metric_value": 19,
       "extra": {
-        "total_views": 77298,
+        "total_views": 473565,
         "foreign_video_count": 0,
         "lang_breakdown": {
-          "korean": 20,
+          "korean": 19,
           "thai": 0,
           "chinese": 0,
           "japanese": 0,
           "english_other": 0
         },
-        "sample_size": 20,
+        "sample_size": 19,
         "top_videos": [
+          {
+            "title": "실리프팅, 팩트로만 요목조목 파헤쳐드립니다!",
+            "channel": "메이드영성형외과",
+            "url": "https://www.youtube.com/watch?v=IdKg0rMXPUQ&pp=ygUk66mU7J2065Oc7JiB7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "3.9K views"
+          },
           {
             "title": "\"유행하는 코 하지 마세요\" 코성형만 30년 한 원장이 상담을 1시간 넘게 하는 솔직한 이유",
             "channel": "메이드영성형외과",
-            "url": "https://www.youtube.com/watch?v=l3qF9xsoORE&pp=ygUw66mU7J2065Oc7JiB7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=l3qF9xsoORE&pp=ygUk66mU7J2065Oc7JiB7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "294 views"
           },
           {
             "title": "[SUB] 실리프팅, 여러번 해도 괜찮은 건가요?",
             "channel": "메이드영성형외과",
-            "url": "https://www.youtube.com/watch?v=-EsFPF4voYE&pp=ygUw66mU7J2065Oc7JiB7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=-EsFPF4voYE&pp=ygUk66mU7J2065Oc7JiB7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "1.4K views"
           },
           {
-            "title": "실리프팅, 팩트로만 요목조목 파헤쳐드립니다!",
+            "title": "[SUB] 안면윤곽수술은 무서운 수술입니다 (feat. 지연성출혈) l 안면윤곽수술을 하루에 두 명만 수술하는 이유",
             "channel": "메이드영성형외과",
-            "url": "https://www.youtube.com/watch?v=IdKg0rMXPUQ&pp=ygUw66mU7J2065Oc7JiB7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh0gcJCQ0LAYcqIYzv",
-            "view_text": "3.9K views"
+            "url": "https://www.youtube.com/watch?v=PyprkWO-fCg&pp=ygUk66mU7J2065Oc7JiB7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "4.3K views"
           },
           {
-            "title": "내 눈 속에 있는 명과암",
+            "title": "[SUB] 완벽한 안전을 위한 메이드영의 모든 공간을 소개합니다│무균양압수술실, 마취, 사후관리센터",
             "channel": "메이드영성형외과",
-            "url": "https://www.youtube.com/watch?v=hFqBvpwms34&pp=ygUw66mU7J2065Oc7JiB7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "3.2K views"
+            "url": "https://www.youtube.com/watch?v=SuigWR0Ip3E&pp=ygUk66mU7J2065Oc7JiB7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "12K views"
           },
           {
-            "title": "이거 모르고 리프팅 하면 돈 버립니다... 요즘 대세 '저속노화', 원장님이 딱 정해주는 나이별 리프팅!",
-            "channel": "메이드영성형외과",
-            "url": "https://www.youtube.com/watch?v=ApQMjc0EP1k&pp=ygUw66mU7J2065Oc7JiB7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "159 views"
+            "title": "울쎄라에도 한계가 있다? 현직 전문의가 알려줍니다 [메이드영성형외과 박수연 원장]",
+            "channel": "나의닥터",
+            "url": "https://www.youtube.com/watch?v=Ut8RkEneCcU&pp=ygUk66mU7J2065Oc7JiB7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "1.3K views"
           },
           {
-            "title": "[SUB] 20년 이상 경력의 성형외과 전문의가 말하는 코재수술 및 재건수술│구축현상, 염증, 모양불만족",
+            "title": "안면윤곽수술의 득과 실, 수술 전 꼭 봐야 할 영상!",
             "channel": "메이드영성형외과",
-            "url": "https://www.youtube.com/watch?v=8qJh9xlSJ7U&pp=ygUw66mU7J2065Oc7JiB7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "6.7K views"
+            "url": "https://www.youtube.com/watch?v=QMQmoKbcHdM&pp=ygUk66mU7J2065Oc7JiB7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "148K views"
           },
           {
-            "title": "환자를 파악하는데 걸리는 시간 \"20분\"",
+            "title": "What if you could achieve the effects of a full facelift with a mini-facelift? We'll tell you the...",
             "channel": "메이드영성형외과",
-            "url": "https://www.youtube.com/watch?v=pSz65H6vUzs&pp=ygUw66mU7J2065Oc7JiB7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "4.6K views"
-          },
-          {
-            "title": "쌍수, 코재수술 8개월차 기념 vlog ㅣ 성형 전부터 후까지",
-            "channel": "메이드영성형외과",
-            "url": "https://www.youtube.com/watch?v=wqameTPctcw&pp=ygUw66mU7J2065Oc7JiB7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "750 views"
+            "url": "https://www.youtube.com/watch?v=ZNKGzhImMI4&pp=ygUk66mU7J2065Oc7JiB7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "5.4K views"
           },
           {
             "title": "웃는 게 어색해보인다면? 성형외과 원장이지만... 입꼬리 수술보다 '이 근육'부터 점검하세요",
             "channel": "메이드영성형외과",
-            "url": "https://www.youtube.com/watch?v=m7hO5nMDW7E&pp=ygUw66mU7J2065Oc7JiB7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
+            "url": "https://www.youtube.com/watch?v=m7hO5nMDW7E&pp=ygUk66mU7J2065Oc7JiB7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
             "view_text": "355 views"
           },
           {
-            "title": "광대 + 턱끝 + 코재수술 모두 한 번에? 6개월 후 어떻게 변했는지 보여드립니다",
+            "title": "실루엣소프트 리프팅 메이드영을 선택해야만 하는 이유",
             "channel": "메이드영성형외과",
-            "url": "https://www.youtube.com/watch?v=vlRQ4YeUpEM&pp=ygUw66mU7J2065Oc7JiB7ISx7ZiV7Jm46rO87J2Y7JuQ7ISx7ZiV7Jm46rO8IEtvcmVh",
-            "view_text": "389 views"
+            "url": "https://www.youtube.com/watch?v=Zis2Q_nFiAg&pp=ygUk66mU7J2065Oc7JiB7ISx7ZiV7Jm46rO87J2Y7JuQIEtvcmVh",
+            "view_text": "28K views"
           }
         ]
       }
@@ -132,16 +132,17 @@
       }
     },
     "lemon8": {
-      "ok": false,
-      "error": "manual fill — ByteDance 봇 방어, 외부 수집",
+      "ok": true,
       "metric_label": "포스트",
       "metric_value": 0,
       "extra": {
-        "manual": true
+        "total_likes": 0,
+        "top_5_likes": 0,
+        "sample": []
       }
     }
   },
-  "global_score": 9,
-  "opportunity_cost_thb": 91500,
-  "opportunity_cost_krw": 3660000
+  "global_score": 11,
+  "opportunity_cost_thb": 89500,
+  "opportunity_cost_krw": 3580000
 }
